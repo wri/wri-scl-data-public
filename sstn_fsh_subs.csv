@@ -1,0 +1,806 @@
+year,geo,disagg,value
+2010,WLD,Research and development,0.307026
+2010,WLD,Management of resources,1.63269
+2010,WLD,Total,1.93972
+2011,WLD,Research and development,0.322592
+2011,WLD,Management of resources,1.6793
+2011,WLD,Total,2.00189
+2012,WLD,Research and development,0.318272
+2012,WLD,Management of resources,2.42771
+2012,WLD,Total,2.74598
+2013,WLD,Research and development,0.397714
+2013,WLD,Management of resources,1.77395
+2013,WLD,Total,2.17166
+2014,WLD,Research and development,0.551548
+2014,WLD,Management of resources,2.21115
+2014,WLD,Total,2.7627
+2015,WLD,Research and development,0.55196
+2015,WLD,Management of resources,1.98041
+2015,WLD,Total,2.53237
+2016,WLD,Research and development,0.580669
+2016,WLD,Management of resources,2.05322
+2016,WLD,Total,2.63389
+2017,WLD,Research and development,0.535536
+2017,WLD,Management of resources,2.38825
+2017,WLD,Total,2.92378
+2018,WLD,Research and development,0.575003
+2018,WLD,Management of resources,2.09262
+2018,WLD,Total,2.66762
+2010,ARG,Research and development,0.0126451
+2010,ARG,Total,0.0126451
+2011,ARG,Management of resources,0.00521747
+2011,ARG,Research and development,0.013368
+2011,ARG,Total,0.0185855
+2012,ARG,Management of resources,0.00918619
+2012,ARG,Research and development,0.0196572
+2012,ARG,Total,0.0288434
+2013,ARG,Management of resources,0.0104777
+2013,ARG,Research and development,0.0183206
+2013,ARG,Total,0.0287982
+2014,ARG,Management of resources,0.00689882
+2014,ARG,Research and development,0.0173944
+2014,ARG,Total,0.0242932
+2015,ARG,Management of resources,0.00818495
+2015,ARG,Research and development,0.0184645
+2015,ARG,Total,0.0266495
+2016,ARG,Management of resources,0.0104469
+2016,ARG,Research and development,0.0482231
+2016,ARG,Total,0.0586701
+2017,ARG,Management of resources,0.0181772
+2017,ARG,Research and development,0.0429732
+2017,ARG,Total,0.0611505
+2018,ARG,Management of resources,0.0132257
+2018,ARG,Research and development,0.0146443
+2018,ARG,Total,0.02787
+2010,AUS,Management of resources,0.0618168
+2010,AUS,Research and development,0.0399076
+2010,AUS,Total,0.101724
+2011,AUS,Management of resources,0.0674446
+2011,AUS,Research and development,0.0498215
+2011,AUS,Total,0.117266
+2012,AUS,Management of resources,0.0901996
+2012,AUS,Research and development,0.0490046
+2012,AUS,Total,0.139204
+2013,AUS,Management of resources,0.0994327
+2013,AUS,Research and development,0.0510254
+2013,AUS,Total,0.150458
+2014,AUS,Management of resources,0.0910114
+2014,AUS,Research and development,0.0551491
+2014,AUS,Total,0.14616
+2015,AUS,Management of resources,0.0752154
+2015,AUS,Research and development,0.0465009
+2015,AUS,Total,0.121716
+2016,AUS,Management of resources,0.073881
+2016,AUS,Research and development,0.0480928
+2016,AUS,Total,0.121974
+2017,AUS,Management of resources,0.0902673
+2017,AUS,Research and development,0.0518794
+2017,AUS,Total,0.142147
+2018,AUS,Management of resources,0.0698869
+2018,AUS,Research and development,0.0463879
+2018,AUS,Total,0.116275
+2010,BEL,Management of resources,0.000605198
+2010,BEL,Research and development,0.000995254
+2010,BEL,Total,0.00160045
+2011,BEL,Management of resources,0.00347015
+2011,BEL,Research and development,0.00120973
+2011,BEL,Total,0.00467988
+2012,BEL,Management of resources,0.00451539
+2012,BEL,Research and development,0.000524851
+2012,BEL,Total,0.00504024
+2013,BEL,Research and development,0.000322385
+2013,BEL,Total,0.000322385
+2014,BEL,Management of resources,0.000748927
+2014,BEL,Research and development,0.000481784
+2014,BEL,Total,0.00123071
+2015,BEL,Management of resources,0.000148854
+2015,BEL,Research and development,0.00046086
+2015,BEL,Total,0.000609714
+2016,BEL,Management of resources,0.0056711
+2016,BEL,Research and development,0.000819348
+2016,BEL,Total,0.00649045
+2017,BEL,Management of resources,0.00716208
+2017,BEL,Research and development,0.000568277
+2017,BEL,Total,0.00773036
+2018,BEL,Management of resources,0.0102377
+2018,BEL,Research and development,0.000206207
+2018,BEL,Total,0.0104439
+2012,BRA,Management of resources,0.0610326
+2012,BRA,Research and development,0.0031234
+2012,BRA,Total,0.064156
+2013,BRA,Management of resources,0.0540456
+2013,BRA,Research and development,4.63416e-05
+2013,BRA,Total,0.054092
+2014,BRA,Management of resources,0.0783843
+2014,BRA,Research and development,0.00424888
+2014,BRA,Total,0.0826332
+2015,BRA,Management of resources,0.0384853
+2015,BRA,Research and development,0
+2015,BRA,Total,0.0384853
+2016,BRA,Management of resources,0.00307285
+2016,BRA,Research and development,0
+2016,BRA,Total,0.00307285
+2017,BRA,Management of resources,0.00579716
+2017,BRA,Research and development,0
+2017,BRA,Total,0.00579716
+2018,BRA,Management of resources,0.00222462
+2018,BRA,Research and development,0
+2018,BRA,Total,0.00222462
+2010,CAN,Management of resources,0.450104
+2010,CAN,Total,0.450104
+2011,CAN,Management of resources,0.46195
+2011,CAN,Total,0.46195
+2012,CAN,Management of resources,0.411225
+2012,CAN,Total,0.411225
+2013,CAN,Management of resources,0.385273
+2013,CAN,Total,0.385273
+2014,CAN,Management of resources,0.345322
+2014,CAN,Total,0.345322
+2015,CAN,Management of resources,0.297427
+2015,CAN,Total,0.297427
+2016,CAN,Management of resources,0.293096
+2016,CAN,Total,0.293096
+2017,CAN,Management of resources,0.365096
+2017,CAN,Total,0.365096
+2018,CAN,Management of resources,0.390068
+2018,CAN,Total,0.390068
+2010,CHL,Management of resources,0.000390014
+2010,CHL,Total,0.000390014
+2011,CHL,Management of resources,0.00114041
+2011,CHL,Total,0.00114041
+2012,CHL,Management of resources,0.00153297
+2012,CHL,Total,0.00153297
+2013,CHL,Management of resources,0.00115571
+2013,CHL,Total,0.00115571
+2014,CHL,Management of resources,0.00101203
+2014,CHL,Total,0.00101203
+2015,CHL,Management of resources,0.000170711
+2015,CHL,Total,0.000170711
+2016,CHL,Management of resources,0.000491471
+2016,CHL,Total,0.000491471
+2017,CHL,Management of resources,0.000962295
+2017,CHL,Total,0.000962295
+2018,CHL,Management of resources,5.85889e-05
+2018,CHL,Total,5.85889e-05
+2010,CHN,Management of resources,0.0779204
+2010,CHN,Research and development,0.00295466
+2010,CHN,Total,0.080875
+2011,CHN,Management of resources,0.0670522
+2011,CHN,Research and development,0.00309446
+2011,CHN,Total,0.0701467
+2012,CHN,Management of resources,0.726118
+2012,CHN,Research and development,0.00317021
+2012,CHN,Total,0.729288
+2013,CHN,Management of resources,0.0917867
+2013,CHN,Research and development,0.00325335
+2013,CHN,Total,0.0950401
+2014,CHN,Management of resources,0.115172
+2014,CHN,Research and development,0
+2014,CHN,Total,0.115172
+2015,CHN,Management of resources,0.0636542
+2015,CHN,Total,0.0636542
+2016,CHN,Management of resources,0.110764
+2016,CHN,Total,0.110764
+2017,CHN,Management of resources,0.248683
+2017,CHN,Total,0.248683
+2010,COL,Management of resources,0.000899572
+2010,COL,Research and development,0.000205496
+2010,COL,Total,0.00110507
+2011,COL,Management of resources,0.00149498
+2011,COL,Research and development,0.000786821
+2011,COL,Total,0.0022818
+2012,COL,Management of resources,0.00187501
+2012,COL,Research and development,0.000758753
+2012,COL,Total,0.00263376
+2013,COL,Management of resources,0.00121545
+2013,COL,Research and development,0.00262081
+2013,COL,Total,0.00383626
+2014,COL,Management of resources,0.0014886
+2014,COL,Research and development,0.00105521
+2014,COL,Total,0.00254381
+2015,COL,Management of resources,0.00138023
+2015,COL,Research and development,0.00036812
+2015,COL,Total,0.00174835
+2016,COL,Management of resources,0.00129708
+2016,COL,Research and development,0.000833917
+2016,COL,Total,0.00213099
+2017,COL,Management of resources,0.00176029
+2017,COL,Research and development,0.000448218
+2017,COL,Total,0.00220851
+2018,COL,Management of resources,0.00123793
+2018,COL,Research and development,0.000583398
+2018,COL,Total,0.00182133
+2010,CRI,Management of resources,0.000919282
+2010,CRI,Total,0.000919282
+2011,CRI,Management of resources,0.00109216
+2011,CRI,Total,0.00109216
+2012,CRI,Management of resources,0.00104578
+2012,CRI,Total,0.00104578
+2013,CRI,Management of resources,0.000955776
+2013,CRI,Total,0.000955776
+2014,CRI,Management of resources,0.00427923
+2014,CRI,Total,0.00427923
+2015,CRI,Management of resources,0.00472184
+2015,CRI,Total,0.00472184
+2016,CRI,Management of resources,0.00413896
+2016,CRI,Total,0.00413896
+2017,CRI,Management of resources,0.00615437
+2017,CRI,Total,0.00615437
+2018,CRI,Management of resources,0.00474709
+2018,CRI,Total,0.00474709
+2015,DEU,Management of resources,0.0178097
+2015,DEU,Total,0.0178097
+2016,DEU,Management of resources,0.00140768
+2016,DEU,Research and development,0.00018565
+2016,DEU,Total,0.00159333
+2017,DEU,Management of resources,0.0327379
+2017,DEU,Research and development,2.8558e-05
+2017,DEU,Total,0.0327665
+2018,DEU,Management of resources,0.0122151
+2018,DEU,Total,0.0122151
+2010,DNK,Management of resources,0.0358607
+2010,DNK,Research and development,0.00178808
+2010,DNK,Total,0.0376488
+2011,DNK,Management of resources,0.0405201
+2011,DNK,Research and development,0.00132297
+2011,DNK,Total,0.041843
+2012,DNK,Management of resources,0.0437809
+2012,DNK,Research and development,0.00144297
+2012,DNK,Total,0.0452239
+2013,DNK,Management of resources,0.0331859
+2013,DNK,Research and development,0.0344332
+2013,DNK,Total,0.0676192
+2014,DNK,Management of resources,0.0379201
+2014,DNK,Research and development,0.0261062
+2014,DNK,Total,0.0640262
+2015,DNK,Management of resources,0.0361354
+2015,DNK,Research and development,0.0156664
+2015,DNK,Total,0.0518018
+2016,DNK,Management of resources,0.0407854
+2016,DNK,Research and development,0.0157805
+2016,DNK,Total,0.056566
+2017,DNK,Management of resources,0.042853
+2017,DNK,Research and development,0.0170867
+2017,DNK,Total,0.0599397
+2018,DNK,Management of resources,0.0424678
+2018,DNK,Research and development,0.0153069
+2018,DNK,Total,0.0577748
+2010,ESP,Management of resources,0.00173538
+2010,ESP,Research and development,0.00129124
+2010,ESP,Total,0.00302662
+2011,ESP,Management of resources,0.00165202
+2011,ESP,Research and development,0.00901167
+2011,ESP,Total,0.0106637
+2012,ESP,Management of resources,0.00260415
+2012,ESP,Research and development,0.00559878
+2012,ESP,Total,0.00820293
+2013,ESP,Management of resources,0.000847363
+2013,ESP,Research and development,0.00471134
+2013,ESP,Total,0.00555871
+2014,ESP,Management of resources,0.00368024
+2014,ESP,Research and development,0.00202166
+2014,ESP,Total,0.0057019
+2015,ESP,Management of resources,0.00575977
+2015,ESP,Research and development,0.00972617
+2015,ESP,Total,0.0154859
+2016,ESP,Management of resources,0.00770598
+2016,ESP,Research and development,0.000315788
+2016,ESP,Total,0.00802176
+2017,ESP,Management of resources,0.00532849
+2017,ESP,Research and development,0.000705718
+2017,ESP,Total,0.00603421
+2018,ESP,Management of resources,0.00335133
+2018,ESP,Research and development,0.00197778
+2018,ESP,Total,0.0053291
+2010,EST,Management of resources,0.00159286
+2010,EST,Research and development,0.000186595
+2010,EST,Total,0.00177945
+2011,EST,Management of resources,0.00133262
+2011,EST,Research and development,0.00020932
+2011,EST,Total,0.00154193
+2012,EST,Management of resources,0.000497666
+2012,EST,Research and development,2.478e-05
+2012,EST,Total,0.000522446
+2013,EST,Management of resources,0.000975709
+2013,EST,Total,0.000975709
+2014,EST,Management of resources,0.000661348
+2014,EST,Total,0.000661348
+2015,EST,Management of resources,0.000671364
+2015,EST,Total,0.000671364
+2016,EST,Management of resources,0.0019142
+2016,EST,Research and development,0.000143389
+2016,EST,Total,0.00205759
+2017,EST,Management of resources,0.00202092
+2017,EST,Research and development,0.000510264
+2017,EST,Total,0.00253118
+2018,EST,Management of resources,0.00207869
+2018,EST,Research and development,0.00107209
+2018,EST,Total,0.00315078
+2010,FRA,Management of resources,0.00570669
+2010,FRA,Research and development,0.00172239
+2010,FRA,Total,0.00742908
+2011,FRA,Management of resources,0.000420903
+2011,FRA,Research and development,0.00231335
+2011,FRA,Total,0.00273425
+2012,FRA,Management of resources,0.000436672
+2012,FRA,Research and development,0.00325011
+2012,FRA,Total,0.00368678
+2013,FRA,Management of resources,0.000134993
+2013,FRA,Research and development,0.00075041
+2013,FRA,Total,0.000885403
+2016,FRA,Management of resources,0.00763111
+2016,FRA,Total,0.00763111
+2017,FRA,Management of resources,0.052727
+2017,FRA,Research and development,0.00147293
+2017,FRA,Total,0.0541999
+2018,FRA,Management of resources,0.0011909
+2018,FRA,Research and development,0.000784933
+2018,FRA,Total,0.00197583
+2010,GBR,Management of resources,0.000882391
+2010,GBR,Research and development,0.000819984
+2010,GBR,Total,0.00170238
+2011,GBR,Management of resources,0.00298469
+2011,GBR,Research and development,0.000385281
+2011,GBR,Total,0.00336997
+2012,GBR,Management of resources,0.00114142
+2012,GBR,Research and development,0.0002701
+2012,GBR,Total,0.00141152
+2013,GBR,Management of resources,0.00256912
+2013,GBR,Research and development,0.000888261
+2013,GBR,Total,0.00345738
+2014,GBR,Management of resources,0.00339129
+2014,GBR,Research and development,0.00167399
+2014,GBR,Total,0.00506528
+2015,GBR,Management of resources,0.00275209
+2015,GBR,Research and development,0.000703436
+2015,GBR,Total,0.00345553
+2016,GBR,Management of resources,0.00623946
+2016,GBR,Research and development,0.000184469
+2016,GBR,Total,0.00642392
+2017,GBR,Management of resources,0.0021773
+2017,GBR,Research and development,0.000277215
+2017,GBR,Total,0.00245451
+2018,GBR,Management of resources,0.0158624
+2018,GBR,Research and development,0.000813337
+2018,GBR,Total,0.0166757
+2012,GRC,Management of resources,3.93724e-05
+2012,GRC,Total,3.93724e-05
+2013,GRC,Management of resources,0.000297391
+2013,GRC,Total,0.000297391
+2014,GRC,Management of resources,0.000196008
+2014,GRC,Total,0.000196008
+2015,GRC,Management of resources,0.000234439
+2015,GRC,Research and development,0.000770625
+2015,GRC,Total,0.00100506
+2016,GRC,Management of resources,0
+2016,GRC,Total,0
+2017,GRC,Management of resources,0
+2017,GRC,Total,0
+2018,GRC,Management of resources,0.000665361
+2018,GRC,Total,0.000665361
+2017,IDN,Management of resources,0.0147218
+2017,IDN,Research and development,0.00216717
+2017,IDN,Total,0.016889
+2018,IDN,Management of resources,0.0176352
+2018,IDN,Research and development,0.000491819
+2018,IDN,Total,0.018127
+2016,IND,Management of resources,0.000200845
+2016,IND,Research and development,0.00811865
+2016,IND,Total,0.0083195
+2017,IND,Management of resources,4.42228e-06
+2017,IND,Research and development,0.0127735
+2017,IND,Total,0.012778
+2018,IND,Management of resources,2.04781e-06
+2018,IND,Research and development,0.0136331
+2018,IND,Total,0.0136352
+2014,IRL,Management of resources,0.0218122
+2014,IRL,Research and development,0.000804303
+2014,IRL,Total,0.0226165
+2015,IRL,Management of resources,0.0213549
+2015,IRL,Research and development,0.000619884
+2015,IRL,Total,0.0219747
+2016,IRL,Management of resources,0.0368045
+2016,IRL,Research and development,0.000472198
+2016,IRL,Total,0.0372767
+2017,IRL,Management of resources,0.0133346
+2017,IRL,Research and development,0.000278583
+2017,IRL,Total,0.0136132
+2018,IRL,Management of resources,0.0151143
+2018,IRL,Research and development,0.00381475
+2018,IRL,Total,0.018929
+2010,ISL,Management of resources,0.0117697
+2010,ISL,Research and development,0.0170788
+2010,ISL,Total,0.0288485
+2011,ISL,Management of resources,0.0130754
+2011,ISL,Research and development,0.0186329
+2011,ISL,Total,0.0317083
+2012,ISL,Management of resources,0.0130876
+2012,ISL,Research and development,0.0182987
+2012,ISL,Total,0.0313863
+2013,ISL,Management of resources,0.0140299
+2013,ISL,Research and development,0.0196124
+2013,ISL,Total,0.0336424
+2014,ISL,Management of resources,0.0152561
+2014,ISL,Research and development,0.0213261
+2014,ISL,Total,0.0365822
+2015,ISL,Management of resources,0.0151536
+2015,ISL,Research and development,0.0168246
+2015,ISL,Total,0.0319782
+2016,ISL,Management of resources,0.0152251
+2016,ISL,Research and development,0.0151042
+2016,ISL,Total,0.0303292
+2017,ISL,Management of resources,0.0189776
+2017,ISL,Research and development,0.0266327
+2017,ISL,Total,0.0456103
+2018,ISL,Management of resources,0.0178144
+2018,ISL,Research and development,0.0280966
+2018,ISL,Total,0.045911
+2010,ITA,Management of resources,9.0167e-06
+2010,ITA,Research and development,0.0147349
+2010,ITA,Total,0.014744
+2011,ITA,Management of resources,8.62849e-05
+2011,ITA,Research and development,0.0120791
+2011,ITA,Total,0.0121654
+2012,ITA,Management of resources,0.000872419
+2012,ITA,Research and development,0.00639963
+2012,ITA,Total,0.00727205
+2013,ITA,Management of resources,0.00129647
+2013,ITA,Research and development,0.00633914
+2013,ITA,Total,0.00763561
+2014,ITA,Management of resources,0.000664716
+2014,ITA,Research and development,0.00692439
+2014,ITA,Total,0.00758911
+2015,ITA,Management of resources,0.00230837
+2015,ITA,Research and development,0.0019793
+2015,ITA,Total,0.00428767
+2016,ITA,Management of resources,0.0157519
+2016,ITA,Research and development,0.0286403
+2016,ITA,Total,0.0443922
+2017,ITA,Management of resources,0.00404875
+2017,ITA,Research and development,0.00208853
+2017,ITA,Total,0.00613729
+2018,ITA,Management of resources,0.0356399
+2018,ITA,Research and development,0.00207323
+2018,ITA,Total,0.0377132
+2014,JPN,Management of resources,0.411099
+2014,JPN,Research and development,0.155287
+2014,JPN,Total,0.566387
+2015,JPN,Management of resources,0.346676
+2015,JPN,Research and development,0.138504
+2015,JPN,Total,0.48518
+2016,JPN,Management of resources,0.340694
+2016,JPN,Research and development,0.157783
+2016,JPN,Total,0.498477
+2017,JPN,Management of resources,0.295964
+2017,JPN,Research and development,0.153436
+2017,JPN,Total,0.4494
+2018,JPN,Management of resources,0.243035
+2018,JPN,Research and development,0.213326
+2018,JPN,Total,0.456362
+2017,KOR,Management of resources,0.11688
+2017,KOR,Total,0.11688
+2018,KOR,Management of resources,0.123381
+2018,KOR,Total,0.123381
+2010,LTU,Management of resources,0.000843891
+2010,LTU,Research and development,0.000376141
+2010,LTU,Total,0.00122003
+2011,LTU,Management of resources,0.000755991
+2011,LTU,Research and development,0.00093372
+2011,LTU,Total,0.00168971
+2012,LTU,Management of resources,0.000608266
+2012,LTU,Research and development,0.000346761
+2012,LTU,Total,0.000955027
+2013,LTU,Management of resources,0.000775115
+2013,LTU,Research and development,0.000939393
+2013,LTU,Total,0.00171451
+2014,LTU,Management of resources,0.00171933
+2014,LTU,Research and development,0.00138822
+2014,LTU,Total,0.00310756
+2015,LTU,Management of resources,0.00202287
+2015,LTU,Research and development,0.00226616
+2015,LTU,Total,0.00428903
+2016,LTU,Management of resources,0.00400605
+2016,LTU,Research and development,0.00303705
+2016,LTU,Total,0.0070431
+2017,LTU,Management of resources,0.00292175
+2017,LTU,Total,0.00292175
+2018,LTU,Management of resources,0.00173152
+2018,LTU,Research and development,7.85815e-05
+2018,LTU,Total,0.0018101
+2019,LTU,Management of resources,0.00174736
+2019,LTU,Research and development,0.000121733
+2019,LTU,Total,0.00186909
+2010,MEX,Management of resources,0.00522488
+2010,MEX,Total,0.00522488
+2011,MEX,Management of resources,0.00587112
+2011,MEX,Total,0.00587112
+2012,MEX,Management of resources,0.00532311
+2012,MEX,Total,0.00532311
+2013,MEX,Management of resources,0.00571658
+2013,MEX,Total,0.00571658
+2014,MEX,Management of resources,0.00526099
+2014,MEX,Total,0.00526099
+2015,MEX,Management of resources,0.00327576
+2015,MEX,Total,0.00327576
+2016,MEX,Management of resources,0.00724202
+2016,MEX,Total,0.00724202
+2017,MEX,Management of resources,0.0084625
+2017,MEX,Total,0.0084625
+2018,MEX,Management of resources,0.0074564
+2018,MEX,Total,0.0074564
+2013,MYS,Management of resources,9.04551e-05
+2013,MYS,Research and development,0.000317386
+2013,MYS,Total,0.000407841
+2014,MYS,Management of resources,0.000728757
+2014,MYS,Research and development,0.00196535
+2014,MYS,Total,0.00269411
+2015,MYS,Management of resources,0.000610592
+2015,MYS,Research and development,0.00163081
+2015,MYS,Total,0.0022414
+2016,MYS,Management of resources,0.000309902
+2016,MYS,Research and development,0.00207405
+2016,MYS,Total,0.00238395
+2010,NLD,Management of resources,0.00218518
+2010,NLD,Research and development,0.00159333
+2010,NLD,Total,0.00377851
+2011,NLD,Management of resources,0.00225815
+2011,NLD,Research and development,0.0027615
+2011,NLD,Total,0.00501965
+2012,NLD,Management of resources,0.00807114
+2012,NLD,Research and development,0.00431844
+2012,NLD,Total,0.0123896
+2013,NLD,Management of resources,0.0089851
+2013,NLD,Research and development,0.0110013
+2013,NLD,Total,0.0199864
+2014,NLD,Management of resources,0.00972441
+2014,NLD,Research and development,0.0102751
+2014,NLD,Total,0.0199995
+2015,NLD,Management of resources,0.00776525
+2015,NLD,Research and development,0.0083712
+2015,NLD,Total,0.0161364
+2016,NLD,Management of resources,0.00774095
+2016,NLD,Research and development,0.0160185
+2016,NLD,Total,0.0237595
+2017,NLD,Management of resources,0.00871902
+2017,NLD,Research and development,0.000522882
+2017,NLD,Total,0.0092419
+2018,NLD,Management of resources,0.0082613
+2018,NLD,Total,0.0082613
+2010,NOR,Management of resources,0.127421
+2010,NOR,Research and development,0.0895316
+2010,NOR,Total,0.216952
+2011,NOR,Management of resources,0.147408
+2011,NOR,Research and development,0.0981491
+2011,NOR,Total,0.245557
+2012,NOR,Management of resources,0.136705
+2012,NOR,Research and development,0.0739695
+2012,NOR,Total,0.210674
+2013,NOR,Management of resources,0.154791
+2013,NOR,Research and development,0.090108
+2013,NOR,Total,0.244899
+2014,NOR,Management of resources,0.144782
+2014,NOR,Research and development,0.0738979
+2014,NOR,Total,0.21868
+2015,NOR,Management of resources,0.109947
+2015,NOR,Research and development,0.113776
+2015,NOR,Total,0.223723
+2016,NOR,Management of resources,0.102349
+2016,NOR,Research and development,0.0672127
+2016,NOR,Total,0.169561
+2017,NOR,Management of resources,0.0938737
+2017,NOR,Research and development,0.0572329
+2017,NOR,Total,0.151107
+2018,NOR,Management of resources,0.0966132
+2018,NOR,Research and development,0.0723199
+2018,NOR,Total,0.168933
+2010,NZL,Management of resources,0.0411951
+2010,NZL,Total,0.0411951
+2011,NZL,Management of resources,0.045645
+2011,NZL,Total,0.045645
+2012,NZL,Management of resources,0.0475208
+2012,NZL,Research and development,0.0266613
+2012,NZL,Total,0.0741821
+2013,NZL,Management of resources,0.0301242
+2013,NZL,Research and development,0.0287266
+2013,NZL,Total,0.0588508
+2014,NZL,Management of resources,0.0482832
+2014,NZL,Research and development,0.0343112
+2014,NZL,Total,0.0825944
+2015,NZL,Management of resources,0.0358476
+2015,NZL,Research and development,0.0293315
+2015,NZL,Total,0.0651791
+2016,NZL,Management of resources,0.0404855
+2016,NZL,Research and development,0.031207
+2016,NZL,Total,0.0716925
+2017,NZL,Management of resources,0.0480432
+2017,NZL,Research and development,0.0246076
+2017,NZL,Total,0.0726508
+2018,NZL,Management of resources,0.0478844
+2018,NZL,Research and development,0.0352996
+2018,NZL,Total,0.0831841
+2012,PER,Management of resources,0.0164724
+2012,PER,Research and development,0.0133169
+2012,PER,Total,0.0297893
+2013,PER,Management of resources,0.0152093
+2013,PER,Research and development,0.015702
+2013,PER,Total,0.0309113
+2014,PER,Management of resources,0.0214782
+2014,PER,Research and development,0.0250379
+2014,PER,Total,0.0465162
+2015,PER,Management of resources,0.0189345
+2015,PER,Research and development,0.0209823
+2015,PER,Total,0.0399168
+2016,PER,Management of resources,0.015757
+2016,PER,Research and development,0.0193296
+2016,PER,Total,0.0350866
+2017,PER,Management of resources,0.0212389
+2017,PER,Research and development,0.0230046
+2017,PER,Total,0.0442435
+2018,PER,Management of resources,0.014011
+2018,PER,Research and development,0.0245969
+2018,PER,Total,0.0386079
+2010,PHL,Management of resources,2.21509e-06
+2010,PHL,Total,2.21509e-06
+2011,PHL,Management of resources,3.58325e-06
+2011,PHL,Total,3.58325e-06
+2012,PHL,Management of resources,5.84975e-06
+2012,PHL,Total,5.84975e-06
+2013,PHL,Management of resources,2.07336e-05
+2013,PHL,Total,2.07336e-05
+2014,PHL,Management of resources,1.16592e-05
+2014,PHL,Total,1.16592e-05
+2015,PHL,Management of resources,1.68921e-05
+2015,PHL,Total,1.68921e-05
+2016,PHL,Management of resources,1.77799e-05
+2016,PHL,Total,1.77799e-05
+2010,POL,Management of resources,0
+2010,POL,Research and development,0
+2010,POL,Total,0
+2011,POL,Management of resources,0.000816874
+2011,POL,Research and development,0.000629114
+2011,POL,Total,0.00144599
+2012,POL,Management of resources,0.00378155
+2012,POL,Research and development,0.00331539
+2012,POL,Total,0.00709693
+2013,POL,Management of resources,0.00421715
+2013,POL,Research and development,0.00276241
+2013,POL,Total,0.00697956
+2014,POL,Management of resources,0.00398305
+2014,POL,Research and development,0.000868207
+2014,POL,Total,0.00485125
+2015,POL,Management of resources,0.00506569
+2015,POL,Research and development,0.0111568
+2015,POL,Total,0.0162225
+2017,POL,Management of resources,0.0031595
+2017,POL,Total,0.0031595
+2018,POL,Management of resources,0.00472027
+2018,POL,Total,0.00472027
+2016,SVN,Management of resources,0.0011931
+2016,SVN,Total,0.0011931
+2017,SVN,Management of resources,0.00100678
+2017,SVN,Total,0.00100678
+2018,SVN,Management of resources,0.00167657
+2018,SVN,Total,0.00167657
+2010,SWE,Management of resources,0.0443988
+2010,SWE,Research and development,0.0249137
+2010,SWE,Total,0.0693125
+2011,SWE,Management of resources,0.0448118
+2011,SWE,Research and development,0.0276832
+2011,SWE,Total,0.072495
+2012,SWE,Management of resources,0.0320796
+2012,SWE,Research and development,0.0185832
+2012,SWE,Total,0.0506628
+2013,SWE,Management of resources,0.0464805
+2013,SWE,Research and development,0.021258
+2013,SWE,Total,0.0677385
+2014,SWE,Management of resources,0.0453791
+2014,SWE,Research and development,0.0196112
+2014,SWE,Total,0.0649904
+2015,SWE,Management of resources,0.0364779
+2015,SWE,Research and development,0.0172464
+2015,SWE,Total,0.0537242
+2016,SWE,Management of resources,0.0326229
+2016,SWE,Research and development,0.0175178
+2016,SWE,Total,0.0501406
+2017,SWE,Management of resources,0.0386276
+2017,SWE,Research and development,0.0173458
+2017,SWE,Total,0.0559734
+2018,SWE,Management of resources,0.0643835
+2018,SWE,Research and development,0.0165399
+2018,SWE,Total,0.0809235
+2012,TUR,Management of resources,0.0811702
+2012,TUR,Research and development,0.00200937
+2012,TUR,Total,0.0831796
+2013,TUR,Management of resources,0.11598
+2013,TUR,Research and development,0.00252031
+2013,TUR,Total,0.1185
+2014,TUR,Management of resources,0.0644802
+2014,TUR,Research and development,0.00342621
+2014,TUR,Total,0.0679064
+2015,TUR,Management of resources,0.0818225
+2015,TUR,Research and development,0.00403971
+2015,TUR,Total,0.0858623
+2016,TUR,Management of resources,0.0992319
+2016,TUR,Research and development,0.00527716
+2016,TUR,Total,0.104509
+2017,TUR,Management of resources,0.0726498
+2017,TUR,Research and development,0.0044401
+2017,TUR,Total,0.0770899
+2018,TUR,Management of resources,0.0560417
+2018,TUR,Research and development,0.0040292
+2018,TUR,Total,0.0600709
+2010,TWN,Management of resources,0.0102541
+2010,TWN,Research and development,0.00485569
+2010,TWN,Total,0.0151098
+2011,TWN,Management of resources,0.0107342
+2011,TWN,Research and development,0.00451562
+2011,TWN,Total,0.0152498
+2012,TWN,Management of resources,0.0120451
+2012,TWN,Research and development,0.00453426
+2012,TWN,Total,0.0165793
+2013,TWN,Management of resources,0.0115269
+2013,TWN,Research and development,0.00416877
+2013,TWN,Total,0.0156957
+2014,TWN,Management of resources,0.0115457
+2014,TWN,Research and development,0.00384813
+2014,TWN,Total,0.0153938
+2015,TWN,Management of resources,0.010771
+2015,TWN,Research and development,0.00498371
+2015,TWN,Total,0.0157547
+2016,TWN,Management of resources,0.0126988
+2016,TWN,Research and development,0.00561491
+2016,TWN,Total,0.0183137
+2017,TWN,Management of resources,0.0130727
+2017,TWN,Research and development,0.00584022
+2017,TWN,Total,0.018913
+2018,TWN,Management of resources,0.0127236
+2018,TWN,Research and development,0.00425092
+2018,TWN,Total,0.0169746
+2010,USA,Management of resources,0.733409
+2010,USA,Research and development,0.0912498
+2010,USA,Total,0.824659
+2011,USA,Management of resources,0.73581
+2011,USA,Research and development,0.0756306
+2011,USA,Total,0.811441
+2012,USA,Management of resources,0.698655
+2012,USA,Research and development,0.05913
+2012,USA,Total,0.757785
+2013,USA,Management of resources,0.67186
+2013,USA,Research and development,0.0772355
+2013,USA,Total,0.749095
+2014,USA,Management of resources,0.69877
+2014,USA,Research and development,0.083783
+2014,USA,Total,0.782554
+2015,USA,Management of resources,0.710238
+2015,USA,Research and development,0.086526
+2015,USA,Total,0.796764
+2016,USA,Management of resources,0.734161
+2016,USA,Research and development,0.0876727
+2016,USA,Total,0.821834
+2017,USA,Management of resources,0.730636
+2017,USA,Research and development,0.0892148
+2017,USA,Total,0.819851
+2018,USA,Management of resources,0.754973
+2018,USA,Research and development,0.0746758
+2018,USA,Total,0.829649
+2010,VNM,Management of resources,0.0175435
+2010,VNM,Research and development,0.00017583
+2010,VNM,Total,0.0177193
+2011,VNM,Management of resources,0.016252
+2011,VNM,Research and development,5.44079e-05
+2011,VNM,Total,0.0163064
+2012,VNM,Management of resources,0.0160834
+2012,VNM,Research and development,0.000562892
+2012,VNM,Total,0.0166463
+2013,VNM,Management of resources,0.0104923
+2013,VNM,Research and development,0.000650935
+2013,VNM,Total,0.0111433
+2014,VNM,Management of resources,0.0160057
+2014,VNM,Research and development,0.000662417
+2014,VNM,Total,0.0166681
+2015,VNM,Management of resources,0.0193685
+2015,VNM,Research and development,0.00106075
+2015,VNM,Total,0.0204293
+2016,VNM,Management of resources,0.018188
+2016,VNM,Research and development,0.00101001
+2016,VNM,Total,0.019198
