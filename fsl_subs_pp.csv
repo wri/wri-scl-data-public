@@ -1,0 +1,56 @@
+year,geo,disagg,value
+2010,WLD,Total,628.308
+2011,WLD,Total,786.373
+2012,WLD,Total,868.097
+2013,WLD,Total,843.152
+2014,WLD,Total,756.85
+2015,WLD,Total,542.802
+2016,WLD,Total,477.84
+2017,WLD,Total,519.601
+2018,WLD,Total,654.862
+2019,WLD,Total,525.726
+2020,WLD,Total,375.102
+2010,WLD,Coal,23.2754
+2011,WLD,Coal,22.7276
+2012,WLD,Coal,22.6689
+2013,WLD,Coal,19.6727
+2014,WLD,Coal,19.1904
+2015,WLD,Coal,21.1989
+2016,WLD,Coal,16.9558
+2017,WLD,Coal,19.3533
+2018,WLD,Coal,19.2658
+2019,WLD,Coal,17.0033
+2020,WLD,Coal,19.8562
+2010,WLD,End-use electricity,157.235
+2011,WLD,End-use electricity,185.953
+2012,WLD,End-use electricity,190.847
+2013,WLD,End-use electricity,179.325
+2014,WLD,End-use electricity,165.692
+2015,WLD,End-use electricity,137.654
+2016,WLD,End-use electricity,151.659
+2017,WLD,End-use electricity,154.17
+2018,WLD,End-use electricity,196.419
+2019,WLD,End-use electricity,159.75
+2020,WLD,End-use electricity,88.9186
+2010,WLD,Natural gas,134.982
+2011,WLD,Natural gas,140.725
+2012,WLD,Natural gas,164.539
+2013,WLD,Natural gas,154.292
+2014,WLD,Natural gas,132.025
+2015,WLD,Natural gas,102.926
+2016,WLD,Natural gas,77.8838
+2017,WLD,Natural gas,84.0292
+2018,WLD,Natural gas,123.365
+2019,WLD,Natural gas,77.9636
+2020,WLD,Natural gas,63.2068
+2010,WLD,Petroleum,312.815
+2011,WLD,Petroleum,436.967
+2012,WLD,Petroleum,490.041
+2013,WLD,Petroleum,489.862
+2014,WLD,Petroleum,439.942
+2015,WLD,Petroleum,281.024
+2016,WLD,Petroleum,231.342
+2017,WLD,Petroleum,262.049
+2018,WLD,Petroleum,315.811
+2019,WLD,Petroleum,271.009
+2020,WLD,Petroleum,203.121
