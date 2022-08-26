@@ -1,7 +1,7 @@
-﻿year,geo,value,disagg,
-2021,WLD,"110,000",MSC – Mediterranean Shipping Company,
-2020,WLD,"118,243",COSCO – China Ocean Shipping Company,
-2020,WLD,"10,496",Evergreen Line,
-2019,WLD,"13,117",Hapag-Lloyd,
-2019,WLD,"14,000",ONE – Ocean Network Express,
-2019,WLD,"83,625",APM-Maersk,
+﻿year,geo,disagg,value
+2021,WLD,MSC – Mediterranean Shipping Company,"110,000"
+2020,WLD,COSCO – China Ocean Shipping Company,"118,243"
+2020,WLD,Evergreen Line,"10,496"
+2019,WLD,Hapag-Lloyd,"13,117"
+2019,WLD,ONE – Ocean Network Express,"14,000"
+2019,WLD,APM-Maersk,"83,625"
