@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2007,WLD,2430,,,,
 2008,WLD,2407.55,,,,
 2009,WLD,2246.21,,,,
@@ -13,5 +13,3 @@
 2018,WLD,3306.87,,,,
 2019,WLD,3468.75,,,,
 2020,WLD,3551.31,,,,
-2030,WLD,,4826.6,,2237.33,
-2050,WLD,,,,0,
