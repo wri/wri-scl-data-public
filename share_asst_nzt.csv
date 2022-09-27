@@ -1,3 +1,4 @@
-year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2021,WLD,3.3,,,,
-2030,WLD,,,,100,
+year,geo,disagg,value
+2022,WLD,Asset owners,3.3
+2022,WLD,Asset managers,4.2
+2022,WLD,Total,7.5
