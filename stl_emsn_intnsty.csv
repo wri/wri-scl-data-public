@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2007,WLD,1800,,,,
 2008,WLD,1790,,,,
 2009,WLD,1810,,,,
@@ -13,5 +13,5 @@
 2018,WLD,1810,,,,
 2019,WLD,1850,,,,
 2020,WLD,1890,,,,
-2030,,,1940,1335,1342.5,1350
-2050,,,,0,65,130
+2030,WLD,,1940,1335,1342.5,1350
+2050,WLD,,,0,65,130
