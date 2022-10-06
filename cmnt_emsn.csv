@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+﻿year,ISO,value,projections,benchmark_low,benchmark_mid,benchmark_high
 1970,WLD,293.9178476,,,,
 1971,WLD,309.8477269,,,,
 1972,WLD,336.6723763,,,,
@@ -50,8 +50,6 @@
 2018,WLD,1511.994432,,,,
 2019,WLD,1548.314668,,,,
 2020,WLD,1590.006397,,,,
-2030,WLD,,2030.230889,,,
-2050,WLD,,,,0,
 1970,AFG,0.046436,,,,
 1971,AFG,0.036062,,,,
 1972,AFG,0.044954,,,,
