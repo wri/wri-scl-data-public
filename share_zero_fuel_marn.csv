@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 1990,WLD,0,,,,
 1991,WLD,0,,,,
 1992,WLD,0,,,,
@@ -31,7 +31,6 @@
 2019,WLD,0,,,,
 2020,WLD,0,,,,
 2021,WLD,0,,,,
-2022,WLD,,,,,
 2023,WLD,,,,0.4,0.8
 2024,WLD,,,,0.6,1.2
 2025,WLD,,,,1.18,2.35
