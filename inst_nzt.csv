@@ -1,2 +1,5 @@
-year,geo,value
-2022,WLD,6
+year,geo,disagg,value
+2022,WLD,Asset Owners,44
+2022,WLD,Asset Managers,39
+2022,WLD,Banks,68
+2022,WLD,Total,151

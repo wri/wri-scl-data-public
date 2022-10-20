@@ -1,6 +1,2 @@
-year,geo,value,projections,benchmark_low,benchmark_mid,benchmark _high
-2020,USA,2400000,,,,
-2018,CHN,729500,,,,
-2019,CAN,427000,,,,
-2019,AUS,148000,,,,
-2018,BRA,47500,,,,
+year,geo,value
+2019,WLD,10900
