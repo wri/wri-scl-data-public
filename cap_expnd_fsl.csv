@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2019,WLD,Total,603,,,,
 2020,WLD,Total,448,,,,
 2021,WLD,Total,489,,,,
@@ -13,4 +13,4 @@
 2019,WLD,Coal supply,104,,,,
 2020,WLD,Coal supply,95,,,,
 2021,WLD,Coal supply,105,,,,
-2030,WLD,,,,,0,
+2030,WLD,Total,,,,0,
