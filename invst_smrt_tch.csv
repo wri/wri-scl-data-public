@@ -1,0 +1,43 @@
+year,geo,disagg,value
+2014,WLD,Total,296.09
+2015,WLD,Total,306.65
+2016,WLD,Total,317.97
+2017,WLD,Total,310.82
+2018,WLD,Total,307.95
+2019,WLD,Total,287.4
+2014,WLD,Rest of networks,156.16
+2015,WLD,Rest of networks,130.67
+2016,WLD,Rest of networks,127.29
+2017,WLD,Rest of networks,120.79
+2018,WLD,Rest of networks,116.23
+2019,WLD,Rest of networks,103.35
+2014,WLD,Power equipment,102.71
+2015,WLD,Power equipment,132.11
+2016,WLD,Power equipment,138.08
+2017,WLD,Power equipment,134.36
+2018,WLD,Power equipment,132.62
+2019,WLD,Power equipment,122.64
+2014,WLD,Smart meters,10.7
+2015,WLD,Smart meters,11.25
+2016,WLD,Smart meters,16.31
+2017,WLD,Smart meters,18.71
+2018,WLD,Smart meters,19.82
+2019,WLD,Smart meters,20.98
+2014,WLD,Smart grid infrastructure,15.66
+2015,WLD,Smart grid infrastructure,19.58
+2016,WLD,Smart grid infrastructure,20.5
+2017,WLD,Smart grid infrastructure,19.95
+2018,WLD,Smart grid infrastructure,19.69
+2019,WLD,Smart grid infrastructure,18.2
+2014,WLD,EV chargers,1.23
+2015,WLD,EV chargers,1.95
+2016,WLD,EV chargers,2.8
+2017,WLD,EV chargers,2.98
+2018,WLD,EV chargers,4.55
+2019,WLD,EV chargers,5.67
+2014,WLD,Share from digital grid infrastructure,9.63
+2015,WLD,Share from digital grid infrastructure,11.09
+2016,WLD,Share from digital grid infrastructure,12.99
+2017,WLD,Share from digital grid infrastructure,14.03
+2018,WLD,Share from digital grid infrastructure,15.04
+2019,WLD,Share from digital grid infrastructure,16.56
