@@ -1,55 +1,55 @@
-﻿year,geo,disagg,value,,,,,
-2005,WLD,Total,30,,,,,
-2006,WLD,Total,30,,,,,
-2007,WLD,Total,30,,,,,
-2008,WLD,Total,32,,,,,
-2009,WLD,Total,32,,,,,
-2010,WLD,Total,32,,,,,
-2011,WLD,Total,33,,,,,
-2012,WLD,Total,34,,,,,
-2013,WLD,Total,35,,,,,
-2014,WLD,Total,36,,,,,
-2015,WLD,Total,37,,,,,
-2016,WLD,Total,37,,,,,
-2017,WLD,Total,39,,,,,
-2018,WLD,Total,40,,,,,
-2019,WLD,Total,43,,,,,
-2020,WLD,Total,44,,,,,
-2021,WLD,Total,45,,,,,
-2022,WLD,Total,46,,,,,
-2005,WLD,ETS,30,,,,,
-2006,WLD,ETS,30,,,,,
-2007,WLD,ETS,30,,,,,
-2008,WLD,ETS,32,,,,,
-2009,WLD,ETS,32,,,,,
-2010,WLD,ETS,32,,,,,
-2011,WLD,ETS,32,,,,,
-2012,WLD,ETS,32,,,,,
-2013,WLD,ETS,33,,,,,
-2014,WLD,ETS,33,,,,,
-2015,WLD,ETS,34,,,,,
-2016,WLD,ETS,34,,,,,
-2017,WLD,ETS,34,,,,,
-2018,WLD,ETS,34,,,,,
-2019,WLD,ETS,35,,,,,
-2020,WLD,ETS,36,,,,,
-2021,WLD,ETS,38,,,,,
-2022,WLD,ETS,38,,,,,
-2005,WLD,Carbon tax,8,,,,,
-2006,WLD,Carbon tax,8,,,,,
-2007,WLD,Carbon tax,8,,,,,
-2008,WLD,Carbon tax,10,,,,,
-2009,WLD,Carbon tax,10,,,,,
-2010,WLD,Carbon tax,12,,,,,
-2011,WLD,Carbon tax,13,,,,,
-2012,WLD,Carbon tax,14,,,,,
-2013,WLD,Carbon tax,15,,,,,
-2014,WLD,Carbon tax,18,,,,,
-2015,WLD,Carbon tax,19,,,,,
-2016,WLD,Carbon tax,19,,,,,
-2017,WLD,Carbon tax,21,,,,,
-2018,WLD,Carbon tax,22,,,,,
-2019,WLD,Carbon tax,25,,,,,
-2020,WLD,Carbon tax,25,,,,,
-2021,WLD,Carbon tax,27,,,,,
-2022,WLD,Carbon tax,28,,,,,
+﻿year,geo,disagg,value
+2005,WLD,Total,30
+2006,WLD,Total,30
+2007,WLD,Total,30
+2008,WLD,Total,32
+2009,WLD,Total,32
+2010,WLD,Total,32
+2011,WLD,Total,33
+2012,WLD,Total,34
+2013,WLD,Total,35
+2014,WLD,Total,36
+2015,WLD,Total,37
+2016,WLD,Total,37
+2017,WLD,Total,39
+2018,WLD,Total,40
+2019,WLD,Total,43
+2020,WLD,Total,44
+2021,WLD,Total,45
+2022,WLD,Total,46
+2005,WLD,ETS,30
+2006,WLD,ETS,30
+2007,WLD,ETS,30
+2008,WLD,ETS,32
+2009,WLD,ETS,32
+2010,WLD,ETS,32
+2011,WLD,ETS,32
+2012,WLD,ETS,32
+2013,WLD,ETS,33
+2014,WLD,ETS,33
+2015,WLD,ETS,34
+2016,WLD,ETS,34
+2017,WLD,ETS,34
+2018,WLD,ETS,34
+2019,WLD,ETS,35
+2020,WLD,ETS,36
+2021,WLD,ETS,38
+2022,WLD,ETS,38
+2005,WLD,Carbon tax,8
+2006,WLD,Carbon tax,8
+2007,WLD,Carbon tax,8
+2008,WLD,Carbon tax,10
+2009,WLD,Carbon tax,10
+2010,WLD,Carbon tax,12
+2011,WLD,Carbon tax,13
+2012,WLD,Carbon tax,14
+2013,WLD,Carbon tax,15
+2014,WLD,Carbon tax,18
+2015,WLD,Carbon tax,19
+2016,WLD,Carbon tax,19
+2017,WLD,Carbon tax,21
+2018,WLD,Carbon tax,22
+2019,WLD,Carbon tax,25
+2020,WLD,Carbon tax,25
+2021,WLD,Carbon tax,27
+2022,WLD,Carbon tax,28
