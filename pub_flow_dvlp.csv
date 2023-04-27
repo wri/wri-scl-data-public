@@ -23,5 +23,5 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2020,WLD,Multilateral public,36.9,,,,
 2020,WLD,Export credits,1.9,,,,
 2020,WLD,Mobilized private,13.1,,,,
-2020,WLD,Total,83.3,,,,
+2020,WLD,Total,83.3,,,100,
 2025,WLD,Total,,112.5,,100,
