@@ -1,138 +1,69 @@
-﻿year,geo,disagg,value
-2017,GHA,Value realization,65
-2017,COL,Value realization,59
-2017,MEX,Value realization,64
-2017,COG,Value realization,44
-2017,TZA,Value realization,65
-2017,NGA,Value realization,50
-2017,MMR,Value realization,44
-2017,TUN,Value realization,60
-2017,UGA,Value realization,42
-2017,AZE,Value realization,49
-2017,QAT,Value realization,33
-2017,AFG,Value realization,40
-2017,DZA,Value realization,50
-2017,AGO,Value realization,58
-2017,BHR,Value realization,27
-2017,BGD,Value realization,39
-2017,BOL,Value realization,61
-2017,BRA,Value realization,62
-2017,CMR,Value realization,59
-2017,CAN,Value realization,69
-2017,TCD,Value realization,39
-2017,CHN,Value realization,52
-2017,COG,Value realization,45
-2017,CIV,Value realization,60
-2017,CUB,Value realization,29
-2017,ECU,Value realization,51
-2017,EGY,Value realization,45
-2017,GNQ,Value realization,29
-2017,GAB,Value realization,18
-2017,IND,Value realization,75
-2017,IDN,Value realization,64
-2017,IRN,Value realization,36
-2017,IRQ,Value realization,52
-2017,KAZ,Value realization,53
-2017,KWT,Value realization,44
-2017,LBY,Value realization,27
-2017,MYS,Value realization,49
-2017,MOZ,Value realization,66
-2017,NOR,Value realization,77
-2017,OMN,Value realization,32
-2017,RUS,Value realization,47
-2017,SAU,Value realization,23
-2017,SSD,Value realization,42
-2017,SDN,Value realization,26
-2017,TLS,Value realization,49
-2017,TTO,Value realization,64
-2017,TKM,Value realization,11
-2017,UKR,Value realization,61
-2017,ARE,Value realization,32
-2017,GBR,Value realization,70
-2017,UZB,Value realization,40
-2017,VEN,Value realization,48
-2017,VNM,Value realization,57
-2017,YEM,Value realization,50
-2017,QAT,Enabling environment,77
-2017,GHA,Enabling environment,70
-2017,COL,Enabling environment,67
-2017,TUN,Enabling environment,67
-2017,MEX,Enabling environment,65
-2017,TZA,Enabling environment,53
-2017,AZE,Enabling environment,49
-2017,UGA,Enabling environment,47
-2017,MMR,Enabling environment,19
-2017,NGA,Enabling environment,31
-2017,COG,Enabling environment,12
-2017,DZA,Enabling environment,35
-2017,AGO,Enabling environment,25
-2017,ARG,Enabling environment,58
-2017,BHR,Enabling environment,63
-2017,BGD,Enabling environment,34
-2017,BOL,Enabling environment,49
-2017,BRA,Enabling environment,72
-2017,CMR,Enabling environment,33
-2017,CAN,Enabling environment,97
-2017,TCD,Enabling environment,19
-2017,CHN,Enabling environment,59
-2017,COG,Enabling environment,29
-2017,CTV,Enabling environment,46
-2017,CUB,Enabling environment,57
-2017,ECU,Enabling environment,52
-2017,EGY,Enabling environment,41
-2017,GNQ,Enabling environment,17
-2017,GAB,Enabling environment,44
-2017,IND,Enabling environment,69
-2017,IDN,Enabling environment,65
-2017,IRN,Enabling environment,34
-2017,IRQ,Enabling environment,16
-2017,KAZ,Enabling environment,61
-2017,KWT,Enabling environment,67
-2017,LBY,Enabling environment,6
-2017,MYS,Enabling environment,77
-2017,MOZ,Enabling environment,43
-2017,NOR,Enabling environment,97
-2017,OMN,Enabling environment,76
-2017,RUS,Enabling environment,47
-2017,SAU,Enabling environment,60
-2017,SSD,Enabling environment,5
-2017,SDN,Enabling environment,11
-2017,TLS,Enabling environment,42
-2017,TTO,Enabling environment,71
-2017,TKM,Enabling environment,21
-2017,UKR,Enabling environment,45
-2017,ARE,Enabling environment,78
-2017,GBR,Enabling environment,95
-2017,USA,Enabling environment,93
-2017,UZB,Enabling environment,22
-2017,VEN,Enabling environment,17
-2017,VNM,Enabling environment,59
-2017,YEM,Enabling environment,11
-2021,GHA,Value realization,79
-2021,COL,Value realization,76
-2021,SEN,Value realization,76
-2021,LBN,Value realization,73
-2021,MEX,Value realization,70
-2021,COG,Value realization,60
-2021,TZA,Value realization,58
-2021,NGA,Value realization,56
-2021,GUY,Value realization,55
-2021,MMR,Value realization,52
-2021,TUN,Value realization,52
-2021,UGA,Value realization,49
-2021,AZE,Value realization,39
-2021,QAT,Value realization,38
-2021,QAT,Enabling environment,76
-2021,SEN,Enabling environment,75
-2021,GHA,Enabling environment,71
-2021,COL,Enabling environment,68
-2021,TUN,Enabling environment,67
-2021,MEX,Enabling environment,62
-2021,GUY,Enabling environment,57
-2021,TZA,Enabling environment,53
-2021,AZE,Enabling environment,50
-2021,UGA,Enabling environment,50
-2021,MMR,Enabling environment,37
-2021,LBN,Enabling environment,36
-2021,NGA,Enabling environment,34
-2021,COG,Enabling environment,17
+﻿year,geo,value
+2017,GHA,67
+2017,COL,71
+2017,MEX,61
+2017,AZE,47
+2017,TZA,53
+2017,NGA,42
+2017,TUN,56
+2017,UGA,44
+2017,QAT,43
+2017,COD,25
+2017,DZA,33
+2017,AGO,35
+2017,ARG,57
+2017,BHR,39
+2017,BGD,36
+2017,BOL,54
+2017,BRA,71
+2017,CMR,54
+2017,CAN,75
+2017,TCD,34
+2017,CHN,55
+2017,COG,39
+2017,CIV,55
+2017,CUB,36
+2017,ECU,54
+2017,EGY,39
+2017,GNQ,22
+2017,GAB,36
+2017,IND,70
+2017,IDN,68
+2017,IRN,38
+2017,IRQ,38
+2017,KAZ,56
+2017,KWT,54
+2017,LBY,18
+2017,MYS,56
+2017,MOZ,50
+2017,MMR,31
+2017,NOR,86
+2017,OMN,50
+2017,RUS,45
+2017,SAU,36
+2017,SSD,32
+2017,SDN,21
+2017,TLS,49
+2017,TTO,64
+2017,TKM,11
+2017,UKR,49
+2017,ARE,42
+2017,GBR,77
+2017,USA,74
+2017,UZB,29
+2017,VEN,33
+2017,VNM,48
+2017,YEM,30
+2021,SEN,82
+2021,GHA,78
+2021,COL,76
+2021,MEX,71
+2021,AZE,56
+2021,GUY,56
+2021,TZA,55
+2021,LBN,53
+2021,NGA,53
+2021,TUN,53
+2021,UGA,49
+2021,QAT,45
+2021,COD,38
