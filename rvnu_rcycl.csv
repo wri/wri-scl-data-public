@@ -1,25 +1,25 @@
 ﻿year,geo,disagg,value
 2016,WLD,Total,16.9
-2017,WLD,Earmarking,14.98
-2017,WLD,Tax exemptions,2.07
-2017,WLD,Direct transfers,1.01
-2017,WLD,Total,18.05
-2018,WLD,Earmarking,24.34
-2018,WLD,Tax exemptions,2.68
-2018,WLD,Direct transfers,1.23
-2018,WLD,Total,28.25
-2019,WLD,Earmarking,22.61
-2019,WLD,Direct transfers,2.69
-2019,WLD,Tax exemptions,2.61
-2019,WLD,Total,27.91
+2017,WLD,Earmarking,15
+2017,WLD,Tax exemptions,2.1
+2017,WLD,Direct transfers,1
+2017,WLD,Total,18.1
+2018,WLD,Earmarking,24.3
+2018,WLD,Tax exemptions,2.7
+2018,WLD,Direct transfers,1.2
+2018,WLD,Total,28.3
+2019,WLD,Earmarking,22.6
+2019,WLD,Direct transfers,2.7
+2019,WLD,Tax exemptions,2.6
+2019,WLD,Total,27.9
 2020,WLD,Earmarking,29.4
-2020,WLD,Direct transfers,4.13
+2020,WLD,Direct transfers,4.1
 2020,WLD,Tax exemptions,2.6
-2020,WLD,Total,36.14
-2021,WLD,Tax exemptions,9.28
-2021,WLD,Direct transfers,9.36
-2021,WLD,Earmarking,47.57
-2021,WLD,Total,66.21
+2020,WLD,Total,36.1
+2021,WLD,Tax exemptions,9.3
+2021,WLD,Direct transfers,9.4
+2021,WLD,Earmarking,47.6
+2021,WLD,Total,66.2
 2019,ARG,Earmarking,0.237
 2019,ARG,Total,0.237
 2020,ARG,Earmarking,0.095
