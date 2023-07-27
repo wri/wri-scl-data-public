@@ -1,10 +1,55 @@
-﻿year,geo,value
-2015,WLD,532
-2016,WLD,542
-2017,WLD,543
-2018,WLD,551
-2019,WLD,623
-2020,WLD,641
-2021,WLD,670
-2022,WLD,757
-2023,WLD,827
+﻿year,geo,disagg,value
+2015,WLD,Total,532
+2016,WLD,Total,542
+2017,WLD,Total,543
+2018,WLD,Total,551
+2019,WLD,Total,623
+2020,WLD,Total,641
+2021,WLD,Total,670
+2022,WLD,Total,757
+2023,WLD,Total,827
+2015,WLD,Coal,86.5
+2016,WLD,Coal,77.7
+2017,WLD,Coal,71.1
+2018,WLD,Coal,69.1
+2019,WLD,Coal,67.3
+2020,WLD,Coal,59.4
+2021,WLD,Coal,50.7
+2022,WLD,Coal,42.5
+2023,WLD,Coal,34
+2015,WLD,Oil and natural gas,84.5
+2016,WLD,Oil and natural gas,88.4
+2017,WLD,Oil and natural gas,82.2
+2018,WLD,Oil and natural gas,68.7
+2019,WLD,Oil and natural gas,67.1
+2020,WLD,Oil and natural gas,47.2
+2021,WLD,Oil and natural gas,56.6
+2022,WLD,Oil and natural gas,64.1
+2023,WLD,Oil and natural gas,64
+2015,WLD,Nuclear,28.8
+2016,WLD,Nuclear,34.9
+2017,WLD,Nuclear,38.6
+2018,WLD,Nuclear,36.3
+2019,WLD,Nuclear,37.1
+2020,WLD,Nuclear,40.4
+2021,WLD,Nuclear,45.3
+2022,WLD,Nuclear,52.9
+2023,WLD,Nuclear,62.6
+2015,WLD,Renewables,331
+2016,WLD,Renewables,340
+2017,WLD,Renewables,351
+2018,WLD,Renewables,377
+2019,WLD,Renewables,451
+2020,WLD,Renewables,494
+2021,WLD,Renewables,517
+2022,WLD,Renewables,596
+2023,WLD,Renewables,659
+2015,WLD,Fossil fuels: with CCUS,1.26
+2016,WLD,Fossil fuels: with CCUS,0.87
+2017,WLD,Fossil fuels: with CCUS,0.25
+2018,WLD,Fossil fuels: with CCUS,0
+2019,WLD,Fossil fuels: with CCUS,0.05
+2020,WLD,Fossil fuels: with CCUS,0.11
+2021,WLD,Fossil fuels: with CCUS,0.1
+2022,WLD,Fossil fuels: with CCUS,1.27
+2023,WLD,Fossil fuels: with CCUS,7.83
