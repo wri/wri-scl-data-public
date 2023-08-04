@@ -1,0 +1,183 @@
+﻿year,geo,disagg,value
+1983,WLD,Pumped hydro,293
+1988,WLD,Pumped hydro,289
+1993,WLD,Pumped hydro,288
+1998,WLD,Pumped hydro,286
+2003,WLD,Pumped hydro,321
+2008,WLD,Pumped hydro,288
+2013,WLD,Pumped hydro,293
+2018,WLD,Pumped hydro,305
+1989,WLD,Lead-acid (multiple),171
+1991,WLD,Lead-acid (multiple),166
+1992,WLD,Lead-acid (multiple),184
+1993,WLD,Lead-acid (multiple),189
+1995,WLD,Lead-acid (multiple),186
+1996,WLD,Lead-acid (multiple),172
+1997,WLD,Lead-acid (multiple),167
+1998,WLD,Lead-acid (multiple),166
+1999,WLD,Lead-acid (multiple),152
+2000,WLD,Lead-acid (multiple),149
+2002,WLD,Lead-acid (multiple),140
+2003,WLD,Lead-acid (multiple),153
+2004,WLD,Lead-acid (multiple),152
+2005,WLD,Lead-acid (multiple),143
+2006,WLD,Lead-acid (multiple),140
+2007,WLD,Lead-acid (multiple),146
+2008,WLD,Lead-acid (multiple),163
+2009,WLD,Lead-acid (multiple),183
+2010,WLD,Lead-acid (multiple),184
+2011,WLD,Lead-acid (multiple),167
+2012,WLD,Lead-acid (multiple),171
+2013,WLD,Lead-acid (residential),2299
+2014,WLD,Lead-acid (residential),2077
+2015,WLD,Lead-acid (residential),1545
+2016,WLD,Lead-acid (residential),1584
+1995,WLD,Lithium-ion (electronics),3478
+1996,WLD,Lithium-ion (electronics),3216
+1997,WLD,Lithium-ion (electronics),3123
+1998,WLD,Lithium-ion (electronics),2714
+1999,WLD,Lithium-ion (electronics),1946
+2000,WLD,Lithium-ion (electronics),1744
+2001,WLD,Lithium-ion (electronics),1495
+2002,WLD,Lithium-ion (electronics),1085
+2003,WLD,Lithium-ion (electronics),906
+2004,WLD,Lithium-ion (electronics),895
+2005,WLD,Lithium-ion (electronics),655
+2006,WLD,Lithium-ion (electronics),603
+2007,WLD,Lithium-ion (electronics),587
+2008,WLD,Lithium-ion (electronics),582
+2009,WLD,Lithium-ion (electronics),475
+2010,WLD,Lithium-ion (electronics),400
+2011,WLD,Lithium-ion (electronics),349
+2012,WLD,Lithium-ion (electronics),329
+2013,WLD,Lithium-ion (electronics),306
+2014,WLD,Lithium-ion (electronics),291
+2015,WLD,Lithium-ion (electronics),284
+2016,WLD,Lithium-ion (electronics),269
+2010,WLD,Lithium-ion (EV),1196
+2011,WLD,Lithium-ion (EV),927
+2012,WLD,Lithium-ion (EV),729
+2013,WLD,Lithium-ion (EV),668
+2014,WLD,Lithium-ion (EV),592
+2015,WLD,Lithium-ion (EV),384
+2016,WLD,Lithium-ion (EV),295
+2017,WLD,Lithium-ion (EV),221
+2018,WLD,Lithium-ion (EV),181
+2019,WLD,Lithium-ion (EV),157
+2020,WLD,Lithium-ion (EV),137
+2021,WLD,Lithium-ion (EV),130
+2013,WLD,Lithium-ion (residential),3349
+2014,WLD,Lithium-ion (residential),2980
+2015,WLD,Lithium-ion (residential),2392
+2016,WLD,Lithium-ion (residential),2100
+2017,WLD,Lithium-ion (residential),1721
+2018,WLD,Lithium-ion (residential),1524
+2019,WLD,Lithium-ion (residential),1511
+2020,WLD,Lithium-ion (residential),1604
+2021,WLD,Lithium-ion (residential),1649
+2010,WLD,Lithium-ion (utility),1659
+2011,WLD,Lithium-ion (utility),1377
+2012,WLD,Lithium-ion (utility),1165
+2013,WLD,Lithium-ion (utility),1092
+2014,WLD,Lithium-ion (utility),1004
+2015,WLD,Lithium-ion (utility),784
+2016,WLD,Lithium-ion (utility),684
+2017,WLD,Lithium-ion (utility),599
+2018,WLD,Lithium-ion (utility),368
+2019,WLD,Lithium-ion (utility),335
+2020,WLD,Lithium-ion (utility),308
+2021,WLD,Lithium-ion (utility),285
+1997,WLD,Nickel-metal hydride,1629
+1998,WLD,Nickel-metal hydride,999
+1999,WLD,Nickel-metal hydride,994
+2000,WLD,Nickel-metal hydride,929
+2001,WLD,Nickel-metal hydride,827
+2002,WLD,Nickel-metal hydride,789
+2003,WLD,Nickel-metal hydride,743
+2004,WLD,Nickel-metal hydride,636
+2005,WLD,Nickel-metal hydride,596
+2006,WLD,Nickel-metal hydride,551
+2007,WLD,Nickel-metal hydride,511
+2008,WLD,Nickel-metal hydride,489
+2009,WLD,Nickel-metal hydride,476
+2010,WLD,Nickel-metal hydride,449
+2011,WLD,Nickel-metal hydride,442
+2012,WLD,Nickel-metal hydride,394
+2013,WLD,Nickel-metal hydride,379
+2014,WLD,Nickel-metal hydride,376
+2007,WLD,Sodium-sulphur (utility),615
+2010,WLD,Sodium-sulphur (utility),569
+2012,WLD,Sodium-sulphur (utility),572
+2013,WLD,Sodium-sulphur (utility),857
+2015,WLD,Sodium-sulphur (utility),519
+2020,WLD,Sodium-sulphur (utility),395
+2021,WLD,Sodium-sulphur (utility),650
+2008,WLD,Vanadium redox-flow (utility),2603
+2014,WLD,Vanadium redox-flow (utility),1838
+2015,WLD,Vanadium redox-flow (utility),1531
+2016,WLD,Vanadium redox-flow (utility),1225
+2017,WLD,Vanadium redox-flow (utility),968
+2019,WLD,Vanadium redox-flow (utility),798
+1956,WLD,Electrolysis (utility),336
+1980,WLD,Electrolysis (utility),198
+1990,WLD,Electrolysis (utility),188
+2000,WLD,Electrolysis (utility),209
+2005,WLD,Electrolysis (utility),191
+2015,WLD,Electrolysis (utility),183
+2019,WLD,Electrolysis (utility),120
+2004,WLD,Fuel cells (residential),14204
+2005,WLD,Fuel cells (residential),8913
+2006,WLD,Fuel cells (residential),6734
+2007,WLD,Fuel cells (residential),5490
+2008,WLD,Fuel cells (residential),3806
+2009,WLD,Fuel cells (residential),3855
+2010,WLD,Fuel cells (residential),3846
+2011,WLD,Fuel cells (residential),3624
+2012,WLD,Fuel cells (residential),3123
+2013,WLD,Fuel cells (residential),2493
+2014,WLD,Fuel cells (residential),2213
+2015,WLD,Fuel cells (residential),1963
+2016,WLD,Fuel cells (residential),1642
+2017,WLD,Fuel cells (residential),1505
+2018,WLD,Fuel cells (residential),1392
+2019,WLD,Fuel cells (residential),1327
+2020,WLD,Fuel cells (residential),1265
+2001,WLD,Lithium-ion (18650 cell),889
+2002,WLD,Lithium-ion (18650 cell),751
+2003,WLD,Lithium-ion (18650 cell),644
+2004,WLD,Lithium-ion (18650 cell),591
+2005,WLD,Lithium-ion (18650 cell),539
+2006,WLD,Lithium-ion (18650 cell),470
+2007,WLD,Lithium-ion (18650 cell),465
+2008,WLD,Lithium-ion (18650 cell),458
+2009,WLD,Lithium-ion (18650 cell),416
+2010,WLD,Lithium-ion (18650 cell),386
+2011,WLD,Lithium-ion (18650 cell),367
+2012,WLD,Lithium-ion (18650 cell),359
+2013,WLD,Lithium-ion (18650 cell),234
+2014,WLD,Lithium-ion (18650 cell),219
+2015,WLD,Lithium-ion (18650 cell),195
+1993,WLD,Lithium-ion (electronics),2306
+1994,WLD,Lithium-ion (electronics),1931
+1995,WLD,Lithium-ion (electronics),1887
+1996,WLD,Lithium-ion (electronics),1368
+1997,WLD,Lithium-ion (electronics),1048
+1998,WLD,Lithium-ion (electronics),651
+1999,WLD,Lithium-ion (electronics),563
+2000,WLD,Lithium-ion (electronics),464
+2001,WLD,Lithium-ion (electronics),386
+2002,WLD,Lithium-ion (electronics),386
+2003,WLD,Lithium-ion (electronics),364
+2004,WLD,Lithium-ion (electronics),342
+2005,WLD,Lithium-ion (electronics),309
+2013,WLD,Lithium-ion (EV cells),458
+2014,WLD,Lithium-ion (EV cells),403
+2015,WLD,Lithium-ion (EV cells),257
+2016,WLD,Lithium-ion (EV cells),215
+2017,WLD,Lithium-ion (EV cells),155
+2018,WLD,Lithium-ion (EV cells),130
+2019,WLD,Lithium-ion (EV cells),110
+2020,WLD,Lithium-ion (EV cells),102
+2021,WLD,Lithium-ion (EV cells),100
+2007,WLD,Lithium-ion (EV packs),667
+2014,WLD,Lithium-ion (EV packs),432
