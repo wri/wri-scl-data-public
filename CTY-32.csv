@@ -1,0 +1,439 @@
+﻿year,geo,disagg,value
+2022,WLD,"Household, Septic tanks",48
+2022,WLD,"Household, Sewers",82
+2022,WLD,Total,58
+2020,BOL,"Household, Septic tanks",48
+2020,BOL,"Household, Sewers",90
+2020,BOL,Total,58
+2020,CAF,"Household, Sewers",50
+2020,CAF,"Household, Septic tanks",45
+2020,CAF,Total,0.57
+2020,ECU,"Household, Septic tanks",85
+2020,ECU,"Household, Sewers",10
+2020,ECU,Total,31
+2020,FRO,Total,0
+2020,FRO,"Household, Septic tanks",0
+2020,GIB,"Household, Sewers",100
+2020,GIB,Total,100
+2020,GRL,"Household, Sewers",100
+2020,HKG,"Household, Septic tanks",48
+2020,LIE,"Household, Septic tanks",50
+2020,LIE,"Household, Sewers",99
+2020,LIE,Total,98
+2020,MLT,"Household, Septic tanks",7.7
+2020,POL,"Household, Septic tanks",50
+2020,PSE,"Household, Septic tanks",34
+2020,PSE,"Household, Sewers",99
+2020,PSE,"Household, Septic tanks",34
+2020,PSE,Total,48
+2020,PSE,"Household, Sewers",99
+2020,PSE,Total,48
+2020,QAT,"Household, Septic tanks",50
+2020,SLV,"Household, Septic tanks",50
+2020,SLV,Total,13
+2020,SLV,"Household, Sewers",4.5
+2020,TUR,"Household, Septic tanks",44
+2020,UZB,"Household, Sewers",79
+2020,UZB,"Household, Septic tanks",45
+2020,UZB,Total,32
+2022,ALB,Total,19
+2022,ALB,"Household, Sewers",28
+2022,ALB,"Household, Septic tanks",39
+2022,AND,Total,100
+2022,AND,"Household, Sewers",100
+2022,ARE,"Household, Septic tanks",50
+2022,ARE,"Household, Sewers",100
+2022,ARE,Total,95
+2022,ARG,"Household, Septic tanks",39
+2022,ARG,"Household, Sewers",46
+2022,ARG,Total,36
+2022,ARM,"Household, Septic tanks",25
+2022,ARM,"Household, Sewers",0
+2022,ARM,Total,0.56
+2022,ASM,"Household, Septic tanks",50
+2022,ASM,Total,77
+2022,ASM,"Household, Sewers",100
+2022,AUS,"Household, Sewers",99
+2022,AUS,"Household, Septic tanks",50
+2022,AUS,Total,96
+2022,AUT,"Household, Septic tanks",89
+2022,AUT,"Household, Sewers",100
+2022,AUT,Total,98
+2022,AUT,"Household, Septic tanks",49
+2022,AUT,"Household, Sewers",97
+2022,AUT,Total,92
+2022,AZE,"Household, Septic tanks",48
+2022,AZE,"Household, Sewers",62
+2022,AZE,Total,41
+2022,BEL,"Household, Septic tanks",50
+2022,BEL,"Household, Sewers",95
+2022,BEL,Total,85
+2022,BEN,"Household, Septic tanks",2.05
+2022,BEN,Total,1.41
+2022,BEN,"Household, Sewers",50
+2022,BFA,"Household, Septic tanks",39
+2022,BFA,"Household, Sewers",50
+2022,BFA,Total,2.78
+2022,BGD,"Household, Sewers",50
+2022,BGD,"Household, Septic tanks",42
+2022,BGD,Total,18
+2022,BGR,"Household, Septic tanks",47
+2022,BGR,"Household, Sewers",76
+2022,BGR,Total,72
+2022,BHR,"Household, Septic tanks",50
+2022,BHR,"Household, Sewers",100
+2022,BHR,Total,93
+2022,BIH,"Household, Sewers",60
+2022,BIH,"Household, Septic tanks",79
+2022,BIH,Total,65
+2022,BLR,"Household, Septic tanks",49
+2022,BLR,Total,80
+2022,BLR,"Household, Sewers",100
+2022,BMU,"Household, Sewers",30
+2022,BMU,Total,1.5
+2022,BRA,"Household, Septic tanks",39
+2022,BRA,Total,43
+2022,BRA,"Household, Sewers",54
+2022,BTN,"Household, Septic tanks",56
+2022,BTN,"Household, Sewers",50
+2022,BTN,Total,40
+2022,CAN,"Household, Septic tanks",83
+2022,CAN,"Household, Sewers",70
+2022,CAN,Total,69
+2022,CHE,"Household, Sewers",100
+2022,CHE,"Household, Septic tanks",50
+2022,CHE,Total,99
+2022,CHL,Total,89
+2022,CHL,"Household, Sewers",95
+2022,CHL,"Household, Septic tanks",49
+2022,CHN,"Household, Septic tanks",28
+2022,CHN,"Household, Sewers",89
+2022,CHN,Total,62
+2022,CIV,"Household, Septic tanks",36
+2022,CIV,"Household, Sewers",50
+2022,CIV,Total,17
+2022,COD,"Household, Septic tanks",42
+2022,COD,"Household, Sewers",50
+2022,COD,Total,16
+2022,COL,"Household, Septic tanks",29
+2022,COL,"Household, Sewers",18
+2022,COL,Total,19
+2022,CRI,"Household, Septic tanks",29
+2022,CRI,"Household, Sewers",16
+2022,CRI,Total,25
+2022,CUB,"Household, Septic tanks",49
+2022,CUB,"Household, Sewers",40
+2022,CUB,Total,34
+2022,CYP,"Household, Septic tanks",50
+2022,CYP,"Household, Sewers",100
+2022,CYP,Total,73
+2022,CZE,"Household, Sewers",97
+2022,CZE,"Household, Septic tanks",50
+2022,CZE,Total,91
+2022,DEU,"Household, Septic tanks",90
+2022,DEU,"Household, Sewers",100
+2022,DEU,Total,99
+2022,DJI,"Household, Sewers",50
+2022,DJI,"Household, Septic tanks",31
+2022,DJI,Total,11
+2022,DNK,"Household, Septic tanks",87
+2022,DNK,"Household, Sewers",100
+2022,DNK,Total,99
+2022,DOM,"Household, Septic tanks",42
+2022,DOM,"Household, Sewers",50
+2022,DOM,Total,40
+2022,DZA,"Household, Septic tanks",46
+2022,DZA,"Household, Sewers",77
+2022,DZA,Total,76
+2022,EGY,"Household, Septic tanks",46
+2022,EGY,"Household, Sewers",84
+2022,EGY,Total,74
+2022,ESP,"Household, Septic tanks",48
+2022,ESP,Total,80
+2022,ESP,"Household, Sewers",83
+2022,EST,"Household, Sewers",100
+2022,EST,"Household, Septic tanks",50
+2022,EST,Total,92
+2022,ETH,"Household, Septic tanks",33
+2022,ETH,"Household, Sewers",50
+2022,ETH,Total,3.04
+2022,FIN,"Household, Septic tanks",33
+2022,FIN,"Household, Sewers",99
+2022,FIN,Total,90
+2022,FJI,"Household, Sewers",50
+2022,FJI,"Household, Septic tanks",43
+2022,FJI,Total,40
+2022,FRA,"Household, Septic tanks",62
+2022,FRA,"Household, Sewers",94
+2022,FRA,Total,88
+2022,GBR,"Household, Septic tanks",50
+2022,GBR,"Household, Sewers",99
+2022,GBR,Total,97
+2022,GEO,"Household, Septic tanks",46
+2022,GEO,"Household, Sewers",72
+2022,GEO,Total,49
+2022,GHA,"Household, Septic tanks",24
+2022,GHA,"Household, Sewers",50
+2022,GHA,Total,12
+2022,GIN,"Household, Septic tanks",50
+2022,GIN,"Household, Sewers",100
+2022,GIN,Total,72
+2022,GMB,"Household, Sewers",50
+2022,GMB,"Household, Septic tanks",23
+2022,GMB,Total,11
+2022,GNB,"Household, Sewers",50
+2022,GNB,"Household, Septic tanks",45
+2022,GNB,Total,19
+2022,GRC,"Household, Septic tanks",49
+2022,GRC,Total,90
+2022,GRC,"Household, Sewers",96
+2022,GRL,Total,0
+2022,GRL,"Household, Septic tanks",0
+2022,GUY,"Household, Septic tanks",36
+2022,GUY,"Household, Sewers",50
+2022,GUY,Total,32
+2022,HKG,"Household, Sewers",97
+2022,HKG,Total,91
+2022,HRV,"Household, Septic tanks",35
+2022,HRV,Total,34
+2022,HRV,"Household, Sewers",37
+2022,HUN,"Household, Septic tanks",42
+2022,HUN,"Household, Sewers",90
+2022,HUN,Total,82
+2022,IMN,"Household, Sewers",89
+2022,IMN,"Household, Septic tanks",50
+2022,IMN,Total,85
+2022,IND,"Household, Sewers",28
+2022,IND,"Household, Septic tanks",46
+2022,IND,Total,21
+2022,IRL,"Household, Septic tanks",71
+2022,IRL,Total,52
+2022,IRL,"Household, Sewers",49
+2022,IRN,"Household, Septic tanks",50
+2022,IRN,"Household, Sewers",63
+2022,IRN,Total,25
+2022,IRQ,"Household, Sewers",76
+2022,IRQ,"Household, Septic tanks",31
+2022,IRQ,Total,42
+2022,ISL,"Household, Septic tanks",49
+2022,ISL,Total,3.05
+2022,ISL,"Household, Sewers",0.17
+2022,ISR,Total,97
+2022,ISR,"Household, Sewers",98
+2022,ISR,"Household, Septic tanks",50
+2022,ITA,"Household, Sewers",71
+2022,ITA,"Household, Septic tanks",47
+2022,ITA,Total,70
+2022,JOR,"Household, Septic tanks",48
+2022,JOR,"Household, Sewers",93
+2022,JOR,Total,77
+2022,JPN,"Household, Sewers",100
+2022,JPN,"Household, Septic tanks",60
+2022,JPN,Total,92
+2022,KAZ,"Household, Septic tanks",47
+2022,KAZ,"Household, Sewers",86
+2022,KAZ,Total,36
+2022,KEN,"Household, Septic tanks",39
+2022,KEN,"Household, Sewers",50
+2022,KEN,Total,11
+2022,KGZ,"Household, Septic tanks",49
+2022,KGZ,"Household, Sewers",97
+2022,KGZ,Total,19
+2022,KHM,Total,47
+2022,KHM,"Household, Sewers",50
+2022,KHM,"Household, Septic tanks",49
+2022,KIR,Total,33
+2022,KIR,"Household, Sewers",50
+2022,KIR,"Household, Septic tanks",42
+2022,KWT,"Household, Sewers",100
+2022,KWT,Total,100
+2022,LAO,"Household, Septic tanks",40
+2022,LAO,"Household, Sewers",50
+2022,LAO,Total,10
+2022,LBY,Total,14
+2022,LBY,"Household, Sewers",16
+2022,LBY,"Household, Septic tanks",29
+2022,LTU,"Household, Sewers",100
+2022,LTU,Total,97
+2022,LUX,"Household, Septic tanks",50
+2022,LUX,Total,99
+2022,LUX,"Household, Sewers",99
+2022,LVA,"Household, Septic tanks",52
+2022,LVA,"Household, Sewers",100
+2022,LVA,Total,87
+2022,MAC,"Household, Sewers",65
+2022,MAC,Total,65
+2022,MAR,"Household, Septic tanks",47
+2022,MAR,Total,45
+2022,MAR,"Household, Sewers",49
+2022,MCO,"Household, Sewers",97
+2022,MCO,Total,97
+2022,MDA,"Household, Sewers",93
+2022,MDA,"Household, Septic tanks",49
+2022,MDA,Total,46
+2022,MDG,"Household, Septic tanks",45
+2022,MDG,"Household, Sewers",50
+2022,MDG,Total,11
+2022,MEX,"Household, Septic tanks",50
+2022,MEX,"Household, Sewers",67
+2022,MEX,Total,64
+2022,MKD,"Household, Septic tanks",22
+2022,MKD,Total,4.86
+2022,MKD,"Household, Sewers",3.12
+2022,MLI,"Household, Sewers",50
+2022,MLI,"Household, Septic tanks",32
+2022,MLI,Total,6.12
+2022,MLT,Total,1.08
+2022,MLT,"Household, Sewers",1.09
+2022,MMR,"Household, Septic tanks",44
+2022,MMR,"Household, Sewers",50
+2022,MMR,Total,15
+2022,MNE,"Household, Septic tanks",36
+2022,MNE,"Household, Sewers",79
+2022,MNE,Total,55
+2022,MNG,"Household, Septic tanks",45
+2022,MNG,Total,26
+2022,MNG,"Household, Sewers",94
+2022,MUS,"Household, Septic tanks",42
+2022,MUS,"Household, Sewers",70
+2022,MUS,Total,19
+2022,MWI,"Household, Septic tanks",46
+2022,MWI,"Household, Sewers",50
+2022,MWI,Total,6.33
+2022,MYS,"Household, Sewers",96
+2022,MYS,"Household, Septic tanks",50
+2022,MYS,Total,89
+2022,NER,"Household, Septic tanks",29
+2022,NER,"Household, Sewers",50
+2022,NER,Total,8.63
+2022,NGA,"Household, Septic tanks",64
+2022,NGA,"Household, Sewers",50
+2022,NGA,Total,41
+2022,NIC,"Household, Septic tanks",47
+2022,NIC,"Household, Sewers",87
+2022,NIC,Total,32
+2022,NLD,"Household, Septic tanks",40
+2022,NLD,"Household, Sewers",100
+2022,NLD,Total,100
+2022,NOR,"Household, Septic tanks",97
+2022,NOR,"Household, Sewers",74
+2022,NOR,Total,76
+2022,NPL,"Household, Sewers",50
+2022,NPL,"Household, Septic tanks",47
+2022,NPL,Total,39
+2022,NZL,Total,84
+2022,NZL,"Household, Septic tanks",48
+2022,NZL,"Household, Sewers",92
+2022,PAK,"Household, Septic tanks",45
+2022,PAK,Total,38
+2022,PAK,"Household, Sewers",50
+2022,PER,"Household, Septic tanks",45
+2022,PER,"Household, Sewers",62
+2022,PER,Total,49
+2022,PHL,"Household, Sewers",50
+2022,PHL,"Household, Septic tanks",77
+2022,PHL,Total,67
+2022,PNG,"Household, Septic tanks",28
+2022,PNG,"Household, Sewers",14
+2022,PNG,Total,5.06
+2022,POL,"Household, Sewers",98
+2022,POL,Total,77
+2022,PRI,Total,33
+2022,PRI,"Household, Sewers",33
+2022,PRK,Total,99
+2022,PRK,"Household, Sewers",99
+2022,PRT,"Household, Septic tanks",50
+2022,PRT,"Household, Sewers",93
+2022,PRT,Total,88
+2022,PRY,Total,25
+2022,PRY,"Household, Sewers",50
+2022,PRY,"Household, Septic tanks",42
+2022,QAT,"Household, Sewers",100
+2022,QAT,Total,100
+2022,ROU,"Household, Septic tanks",41
+2022,ROU,"Household, Sewers",53
+2022,ROU,Total,30
+2022,RUS,"Household, Sewers",15
+2022,RUS,"Household, Septic tanks",29
+2022,RUS,Total,15
+2022,SAU,"Household, Septic tanks",50
+2022,SAU,"Household, Sewers",100
+2022,SAU,Total,85
+2022,SEN,Total,7.8
+2022,SEN,"Household, Sewers",44
+2022,SEN,"Household, Septic tanks",6.4
+2022,SGP,"Household, Sewers",100
+2022,SGP,Total,100
+2022,SLE,"Household, Septic tanks",58
+2022,SLE,"Household, Sewers",50
+2022,SLE,Total,15
+2022,SMR,"Household, Septic tanks",49
+2022,SMR,"Household, Sewers",97
+2022,SMR,Total,90
+2022,SRB,"Household, Septic tanks",69
+2022,SRB,"Household, Sewers",17
+2022,SRB,Total,36
+2022,SUR,"Household, Septic tanks",24
+2022,SUR,"Household, Sewers",50
+2022,SUR,Total,24
+2022,SVK,Total,82
+2022,SVK,"Household, Sewers",99
+2022,SVK,"Household, Septic tanks",50
+2022,SVN,"Household, Septic tanks",47
+2022,SVN,"Household, Sewers",74
+2022,SVN,Total,65
+2022,SWE,"Household, Septic tanks",84
+2022,SWE,"Household, Sewers",99
+2022,SWE,Total,97
+2022,TCA,"Household, Septic tanks",31
+2022,TCA,Total,31
+2022,TCD,"Household, Septic tanks",35
+2022,TCD,"Household, Sewers",50
+2022,TCD,Total,2.32
+2022,TGO,"Household, Septic tanks",24
+2022,TGO,"Household, Sewers",50
+2022,TGO,Total,15
+2022,THA,"Household, Septic tanks",21
+2022,THA,"Household, Sewers",50
+2022,THA,Total,25
+2022,TON,"Household, Septic tanks",31
+2022,TON,"Household, Sewers",50
+2022,TON,Total,30
+2022,TUN,"Household, Septic tanks",38
+2022,TUN,Total,73
+2022,TUN,"Household, Sewers",99
+2022,TUR,"Household, Sewers",68
+2022,TUR,Total,65
+2022,TUV,"Household, Septic tanks",43
+2022,TUV,"Household, Sewers",0
+2022,TUV,Total,43
+2022,TZA,"Household, Sewers",9.42
+2022,TZA,"Household, Septic tanks",39
+2022,TZA,Total,7.67
+2022,UGA,"Household, Septic tanks",41
+2022,UGA,"Household, Sewers",42
+2022,UGA,Total,3.68
+2022,UKR,"Household, Septic tanks",48
+2022,UKR,"Household, Sewers",90
+2022,UKR,Total,50
+2022,USA,"Household, Sewers",98
+2022,USA,"Household, Septic tanks",97
+2022,USA,Total,98
+2022,VNM,Total,40
+2022,VNM,"Household, Sewers",50
+2022,VNM,"Household, Septic tanks",45
+2022,WSM,"Household, Sewers",0
+2022,WSM,"Household, Septic tanks",48
+2022,WSM,Total,43
+2022,YEM,"Household, Septic tanks",33
+2022,YEM,"Household, Sewers",32
+2022,YEM,Total,28
+2022,ZAF,"Household, Sewers",52
+2022,ZAF,"Household, Septic tanks",72
+2022,ZAF,Total,41
+2022,ZWE,"Household, Sewers",80
+2022,ZWE,"Household, Septic tanks",49
+2022,ZWE,Total,55
+2022,ZWE,"Household, Sewers",48
+2022,ZWE,"Household, Septic tanks",80
+2022,ZWE,Total ,83
