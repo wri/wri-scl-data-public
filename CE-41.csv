@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2000,EUU,53,,,,
 2001,EUU,54,,,,
 2002,EUU,57,,,,
@@ -20,7 +20,6 @@
 2018,EUU,84,,,,
 2019,EUU,87,,,,
 2020,EUU,97,,,,
-2030,EUU,,132,,,
 2020,ALB,0,,,,
 2000,AUT,227,,,,
 2001,AUT,231,,,,
