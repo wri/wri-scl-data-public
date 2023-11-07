@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2010,AUT,60,,,,
 2012,AUT,65,,,,
 2014,AUT,62,,,,
@@ -55,7 +55,6 @@
 2016,EUU,55,,,,
 2018,EUU,56,,,,
 2020,EUU,58,,,,
-2030,EUU,,65.5,,,
 2010,FIN,33,,,,
 2012,FIN,41,,,,
 2014,FIN,41,,,,

@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2011,EUU,Total,5.84,,,,
 2012,EUU,Total,5.48,,,,
 2014,EUU,Total,5.47,,,,
@@ -8,7 +8,6 @@
 2018,EUU,Total,7.3,,,,
 2019,EUU,Total,8.17,,,,
 2020,EUU,Total,8.74,,,,
-2030,EUU,Total,,13.77,,,
 2011,BEL,Total,8.1,,,,
 2012,BEL,Total,8.22,,,,
 2013,BEL,Total,8.54,,,,
