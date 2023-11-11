@@ -22,6 +22,7 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2020,WLD,23.4,,,,
 2021,WLD,22.85,,,,
 2022,WLD,22.5,,,,
-2030,WLD,,20.932,5,6,7
+2027,WLD,,21.52,,,
+2030,WLD,,,5,6,7
 2040,WLD,,,,1,
 2050,WLD,,,,0,
