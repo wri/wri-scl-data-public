@@ -1,0 +1,5089 @@
+year,geo,disagg,value
+2000,AUS,Direct job creation,0.08
+2001,AUS,Direct job creation,0.08
+2002,AUS,Direct job creation,0.09
+2003,AUS,Direct job creation,0.08
+2004,AUS,Direct job creation,0.08
+2005,AUS,Direct job creation,0.08
+2006,AUS,Direct job creation,0.06
+2007,AUS,Direct job creation,0.05
+2008,AUS,Direct job creation,0.04
+2009,AUS,Direct job creation,0.04
+2010,AUS,Direct job creation,0.03
+2011,AUS,Direct job creation,0.02
+2012,AUS,Direct job creation,0.01
+2013,AUS,Direct job creation,0
+2014,AUS,Direct job creation,0
+2015,AUS,Direct job creation,0.01
+2016,AUS,Direct job creation,0.01
+2017,AUS,Direct job creation,0
+2018,AUS,Direct job creation,0
+2019,AUS,Direct job creation,0
+2020,AUS,Direct job creation,0
+2000,AUS,Employment incentives,0.01
+2001,AUS,Employment incentives,0.01
+2002,AUS,Employment incentives,0.01
+2003,AUS,Employment incentives,0.01
+2004,AUS,Employment incentives,0.01
+2005,AUS,Employment incentives,0.01
+2006,AUS,Employment incentives,0.01
+2007,AUS,Employment incentives,0.01
+2008,AUS,Employment incentives,0.01
+2009,AUS,Employment incentives,0.01
+2010,AUS,Employment incentives,0.01
+2011,AUS,Employment incentives,0.01
+2012,AUS,Employment incentives,0.01
+2013,AUS,Employment incentives,0.01
+2014,AUS,Employment incentives,0
+2015,AUS,Employment incentives,0
+2016,AUS,Employment incentives,0
+2017,AUS,Employment incentives,0.02
+2018,AUS,Employment incentives,0.01
+2019,AUS,Employment incentives,1.61
+2020,AUS,Employment incentives,2.77
+2000,AUS,Start-up incentives,0.01
+2001,AUS,Start-up incentives,0.02
+2002,AUS,Start-up incentives,0.01
+2003,AUS,Start-up incentives,0.01
+2004,AUS,Start-up incentives,0.01
+2005,AUS,Start-up incentives,0.01
+2006,AUS,Start-up incentives,0.01
+2007,AUS,Start-up incentives,0.01
+2008,AUS,Start-up incentives,0.01
+2009,AUS,Start-up incentives,0.01
+2010,AUS,Start-up incentives,0.01
+2011,AUS,Start-up incentives,0.01
+2012,AUS,Start-up incentives,0.01
+2013,AUS,Start-up incentives,0.01
+2014,AUS,Start-up incentives,0.01
+2015,AUS,Start-up incentives,0
+2016,AUS,Start-up incentives,0
+2017,AUS,Start-up incentives,0
+2018,AUS,Start-up incentives,0.01
+2019,AUS,Start-up incentives,0
+2020,AUS,Start-up incentives,0
+2000,AUS,Training,0.01
+2001,AUS,Training,0.01
+2002,AUS,Training,0.01
+2003,AUS,Training,0.01
+2004,AUS,Training,0.01
+2005,AUS,Training,0.01
+2006,AUS,Training,0.01
+2007,AUS,Training,0.01
+2008,AUS,Training,0.03
+2009,AUS,Training,0.03
+2010,AUS,Training,0.02
+2011,AUS,Training,0.02
+2012,AUS,Training,0.01
+2013,AUS,Training,0.01
+2014,AUS,Training,0.01
+2015,AUS,Training,0.01
+2016,AUS,Training,0.01
+2017,AUS,Training,0.01
+2018,AUS,Training,0.01
+2019,AUS,Training,0.01
+2020,AUS,Training,0.03
+2000,AUT,Direct job creation,0.04
+2001,AUT,Direct job creation,0.04
+2002,AUT,Direct job creation,0.04
+2003,AUT,Direct job creation,0.04
+2004,AUT,Direct job creation,0.04
+2005,AUT,Direct job creation,0.04
+2006,AUT,Direct job creation,0.04
+2007,AUT,Direct job creation,0.04
+2008,AUT,Direct job creation,0.04
+2009,AUT,Direct job creation,0.05
+2010,AUT,Direct job creation,0.04
+2011,AUT,Direct job creation,0.05
+2012,AUT,Direct job creation,0.05
+2013,AUT,Direct job creation,0.05
+2014,AUT,Direct job creation,0.05
+2015,AUT,Direct job creation,0.05
+2016,AUT,Direct job creation,0.06
+2017,AUT,Direct job creation,0.06
+2018,AUT,Direct job creation,0.05
+2019,AUT,Direct job creation,0.04
+2020,AUT,Direct job creation,0.04
+2000,AUT,Employment incentives,0.06
+2001,AUT,Employment incentives,0.08
+2002,AUT,Employment incentives,0.06
+2003,AUT,Employment incentives,0.06
+2004,AUT,Employment incentives,0.05
+2005,AUT,Employment incentives,0.05
+2006,AUT,Employment incentives,0.05
+2007,AUT,Employment incentives,0.06
+2008,AUT,Employment incentives,0.05
+2009,AUT,Employment incentives,0.05
+2010,AUT,Employment incentives,0.05
+2011,AUT,Employment incentives,0.03
+2012,AUT,Employment incentives,0.04
+2013,AUT,Employment incentives,0.04
+2014,AUT,Employment incentives,0.04
+2015,AUT,Employment incentives,0.04
+2016,AUT,Employment incentives,0.05
+2017,AUT,Employment incentives,0.07
+2018,AUT,Employment incentives,0.08
+2019,AUT,Employment incentives,0.06
+2020,AUT,Employment incentives,0.05
+2000,AUT,Start-up incentives,0
+2001,AUT,Start-up incentives,0
+2002,AUT,Start-up incentives,0
+2003,AUT,Start-up incentives,0
+2004,AUT,Start-up incentives,0
+2005,AUT,Start-up incentives,0.01
+2006,AUT,Start-up incentives,0
+2007,AUT,Start-up incentives,0
+2008,AUT,Start-up incentives,0.01
+2009,AUT,Start-up incentives,0.01
+2010,AUT,Start-up incentives,0.01
+2011,AUT,Start-up incentives,0.01
+2012,AUT,Start-up incentives,0
+2013,AUT,Start-up incentives,0.01
+2014,AUT,Start-up incentives,0.01
+2015,AUT,Start-up incentives,0.01
+2016,AUT,Start-up incentives,0
+2017,AUT,Start-up incentives,0.01
+2018,AUT,Start-up incentives,0.01
+2019,AUT,Start-up incentives,0
+2020,AUT,Start-up incentives,0.01
+2000,AUT,Training,0.24
+2001,AUT,Training,0.26
+2002,AUT,Training,0.26
+2003,AUT,Training,0.3
+2004,AUT,Training,0.29
+2005,AUT,Training,0.31
+2006,AUT,Training,0.39
+2007,AUT,Training,0.36
+2008,AUT,Training,0.36
+2009,AUT,Training,0.49
+2010,AUT,Training,0.5
+2011,AUT,Training,0.44
+2012,AUT,Training,0.43
+2013,AUT,Training,0.47
+2014,AUT,Training,0.49
+2015,AUT,Training,0.46
+2016,AUT,Training,0.45
+2017,AUT,Training,0.44
+2018,AUT,Training,0.43
+2019,AUT,Training,0.4
+2020,AUT,Training,0.44
+2000,BEL,Direct job creation,0.19
+2001,BEL,Direct job creation,0.17
+2002,BEL,Direct job creation,0.17
+2003,BEL,Direct job creation,0.15
+2004,BEL,Direct job creation,0.05
+2005,BEL,Direct job creation,0.05
+2006,BEL,Direct job creation,0.06
+2007,BEL,Direct job creation,0.06
+2008,BEL,Direct job creation,0.06
+2009,BEL,Direct job creation,0.07
+2010,BEL,Direct job creation,0.07
+2011,BEL,Direct job creation,0.07
+2012,BEL,Direct job creation,0.07
+2013,BEL,Direct job creation,0.07
+2014,BEL,Direct job creation,0.07
+2015,BEL,Direct job creation,0.06
+2016,BEL,Direct job creation,0.05
+2017,BEL,Direct job creation,0.04
+2018,BEL,Direct job creation,0.04
+2019,BEL,Direct job creation,0.04
+2020,BEL,Direct job creation,0.04
+2000,BEL,Employment incentives,0.23
+2001,BEL,Employment incentives,0.24
+2002,BEL,Employment incentives,0.13
+2003,BEL,Employment incentives,0.17
+2004,BEL,Employment incentives,0.13
+2005,BEL,Employment incentives,0.14
+2006,BEL,Employment incentives,0.14
+2007,BEL,Employment incentives,0.15
+2008,BEL,Employment incentives,0.15
+2009,BEL,Employment incentives,0.15
+2010,BEL,Employment incentives,0.15
+2011,BEL,Employment incentives,0.15
+2012,BEL,Employment incentives,0.15
+2013,BEL,Employment incentives,0.15
+2014,BEL,Employment incentives,0.15
+2015,BEL,Employment incentives,0.16
+2016,BEL,Employment incentives,0.19
+2017,BEL,Employment incentives,0.22
+2018,BEL,Employment incentives,0.22
+2019,BEL,Employment incentives,0.23
+2020,BEL,Employment incentives,0.19
+2000,BEL,Pulbic employment services and administration,0.16
+2001,BEL,Pulbic employment services and administration,0.16
+2002,BEL,Pulbic employment services and administration,0.17
+2003,BEL,Pulbic employment services and administration,0.17
+2004,BEL,Pulbic employment services and administration,0.17
+2005,BEL,Pulbic employment services and administration,0.18
+2006,BEL,Pulbic employment services and administration,0.18
+2007,BEL,Pulbic employment services and administration,0.18
+2008,BEL,Pulbic employment services and administration,0.18
+2009,BEL,Pulbic employment services and administration,0.2
+2010,BEL,Pulbic employment services and administration,0.2
+2011,BEL,Pulbic employment services and administration,0.2
+2012,BEL,Pulbic employment services and administration,0.2
+2013,BEL,Pulbic employment services and administration,0.2
+2014,BEL,Pulbic employment services and administration,0.22
+2015,BEL,Pulbic employment services and administration,0.19
+2016,BEL,Pulbic employment services and administration,0.2
+2017,BEL,Pulbic employment services and administration,0.34
+2018,BEL,Pulbic employment services and administration,0.33
+2019,BEL,Pulbic employment services and administration,0.34
+2020,BEL,Pulbic employment services and administration,0.36
+2000,BEL,Start-up incentives,0
+2001,BEL,Start-up incentives,0
+2002,BEL,Start-up incentives,0
+2003,BEL,Start-up incentives,0
+2004,BEL,Start-up incentives,0
+2005,BEL,Start-up incentives,0
+2006,BEL,Start-up incentives,0
+2007,BEL,Start-up incentives,0
+2008,BEL,Start-up incentives,0
+2009,BEL,Start-up incentives,0
+2010,BEL,Start-up incentives,0
+2011,BEL,Start-up incentives,0
+2012,BEL,Start-up incentives,0
+2013,BEL,Start-up incentives,0
+2014,BEL,Start-up incentives,0
+2015,BEL,Start-up incentives,0
+2016,BEL,Start-up incentives,0
+2017,BEL,Start-up incentives,0
+2018,BEL,Start-up incentives,0
+2019,BEL,Start-up incentives,0
+2020,BEL,Start-up incentives,0
+2000,BEL,Training,0.13
+2001,BEL,Training,0.14
+2002,BEL,Training,0.15
+2003,BEL,Training,0.15
+2004,BEL,Training,0.16
+2005,BEL,Training,0.17
+2006,BEL,Training,0.14
+2007,BEL,Training,0.15
+2008,BEL,Training,0.17
+2009,BEL,Training,0.18
+2010,BEL,Training,0.17
+2011,BEL,Training,0.16
+2012,BEL,Training,0.16
+2013,BEL,Training,0.16
+2014,BEL,Training,0.16
+2015,BEL,Training,0.16
+2016,BEL,Training,0.15
+2017,BEL,Training,0.14
+2018,BEL,Training,0.18
+2019,BEL,Training,0.17
+2020,BEL,Training,0.21
+2000,CAN,Direct job creation,0.04
+2001,CAN,Direct job creation,0.03
+2002,CAN,Direct job creation,0.03
+2003,CAN,Direct job creation,0.02
+2004,CAN,Direct job creation,0.02
+2005,CAN,Direct job creation,0.02
+2006,CAN,Direct job creation,0.02
+2007,CAN,Direct job creation,0.02
+2008,CAN,Direct job creation,0.02
+2009,CAN,Direct job creation,0.02
+2010,CAN,Direct job creation,0.02
+2011,CAN,Direct job creation,0.01
+2012,CAN,Direct job creation,0.01
+2013,CAN,Direct job creation,0.01
+2014,CAN,Direct job creation,0.01
+2015,CAN,Direct job creation,0.01
+2016,CAN,Direct job creation,0.01
+2017,CAN,Direct job creation,0.01
+2018,CAN,Direct job creation,0.01
+2019,CAN,Direct job creation,0.02
+2020,CAN,Direct job creation,0.01
+2000,CAN,Employment incentives,0.01
+2001,CAN,Employment incentives,0.01
+2002,CAN,Employment incentives,0.01
+2003,CAN,Employment incentives,0.01
+2004,CAN,Employment incentives,0.01
+2005,CAN,Employment incentives,0.01
+2006,CAN,Employment incentives,0.01
+2007,CAN,Employment incentives,0.01
+2008,CAN,Employment incentives,0.01
+2009,CAN,Employment incentives,0.01
+2010,CAN,Employment incentives,0
+2011,CAN,Employment incentives,0
+2012,CAN,Employment incentives,0
+2013,CAN,Employment incentives,0
+2014,CAN,Employment incentives,0.01
+2015,CAN,Employment incentives,0.01
+2016,CAN,Employment incentives,0.01
+2017,CAN,Employment incentives,0.01
+2018,CAN,Employment incentives,0.01
+2019,CAN,Employment incentives,0.2
+2020,CAN,Employment incentives,3.5
+2000,CAN,Start-up incentives,0.01
+2001,CAN,Start-up incentives,0.01
+2002,CAN,Start-up incentives,0.01
+2003,CAN,Start-up incentives,0.01
+2004,CAN,Start-up incentives,0.01
+2005,CAN,Start-up incentives,0.01
+2006,CAN,Start-up incentives,0.01
+2007,CAN,Start-up incentives,0.01
+2008,CAN,Start-up incentives,0.01
+2009,CAN,Start-up incentives,0.01
+2010,CAN,Start-up incentives,0.01
+2011,CAN,Start-up incentives,0.01
+2012,CAN,Start-up incentives,0.01
+2013,CAN,Start-up incentives,0.01
+2014,CAN,Start-up incentives,0.01
+2015,CAN,Start-up incentives,0
+2016,CAN,Start-up incentives,0
+2017,CAN,Start-up incentives,0
+2018,CAN,Start-up incentives,0
+2019,CAN,Start-up incentives,0
+2020,CAN,Start-up incentives,0
+2000,CAN,Training,0.09
+2001,CAN,Training,0.1
+2002,CAN,Training,0.1
+2003,CAN,Training,0.09
+2004,CAN,Training,0.08
+2005,CAN,Training,0.08
+2006,CAN,Training,0.08
+2007,CAN,Training,0.08
+2008,CAN,Training,0.09
+2009,CAN,Training,0.14
+2010,CAN,Training,0.13
+2011,CAN,Training,0.1
+2012,CAN,Training,0.08
+2013,CAN,Training,0.08
+2014,CAN,Training,0.07
+2015,CAN,Training,0.07
+2016,CAN,Training,0.07
+2017,CAN,Training,0.06
+2018,CAN,Training,0.06
+2019,CAN,Training,0.06
+2020,CAN,Training,0.06
+2000,CZE,Direct job creation,0.03
+2001,CZE,Direct job creation,0.04
+2002,CZE,Direct job creation,0.03
+2003,CZE,Direct job creation,0.02
+2004,CZE,Direct job creation,0.03
+2005,CZE,Direct job creation,0.03
+2006,CZE,Direct job creation,0.03
+2007,CZE,Direct job creation,0.02
+2008,CZE,Direct job creation,0.02
+2009,CZE,Direct job creation,0.03
+2010,CZE,Direct job creation,0.04
+2011,CZE,Direct job creation,0.03
+2012,CZE,Direct job creation,0.02
+2013,CZE,Direct job creation,0.04
+2014,CZE,Direct job creation,0.05
+2015,CZE,Direct job creation,0.06
+2016,CZE,Direct job creation,0.06
+2017,CZE,Direct job creation,0.04
+2018,CZE,Direct job creation,0.04
+2019,CZE,Direct job creation,0.02
+2020,CZE,Direct job creation,0.02
+2000,CZE,Employment incentives,0.05
+2001,CZE,Employment incentives,0.05
+2002,CZE,Employment incentives,0.03
+2003,CZE,Employment incentives,0.03
+2004,CZE,Employment incentives,0.04
+2005,CZE,Employment incentives,0.04
+2006,CZE,Employment incentives,0.03
+2007,CZE,Employment incentives,0.02
+2008,CZE,Employment incentives,0.01
+2009,CZE,Employment incentives,0.02
+2010,CZE,Employment incentives,0.05
+2011,CZE,Employment incentives,0.04
+2012,CZE,Employment incentives,0.02
+2013,CZE,Employment incentives,0.04
+2014,CZE,Employment incentives,0.08
+2015,CZE,Employment incentives,0.12
+2016,CZE,Employment incentives,0.07
+2017,CZE,Employment incentives,0.03
+2018,CZE,Employment incentives,0.03
+2019,CZE,Employment incentives,0.01
+2020,CZE,Employment incentives,0.01
+2000,CZE,Start-up incentives,0.01
+2001,CZE,Start-up incentives,0.01
+2002,CZE,Start-up incentives,0
+2003,CZE,Start-up incentives,0.01
+2004,CZE,Start-up incentives,0
+2005,CZE,Start-up incentives,0
+2006,CZE,Start-up incentives,0
+2007,CZE,Start-up incentives,0
+2008,CZE,Start-up incentives,0
+2009,CZE,Start-up incentives,0
+2010,CZE,Start-up incentives,0
+2011,CZE,Start-up incentives,0
+2012,CZE,Start-up incentives,0
+2013,CZE,Start-up incentives,0
+2014,CZE,Start-up incentives,0
+2015,CZE,Start-up incentives,0
+2016,CZE,Start-up incentives,0
+2017,CZE,Start-up incentives,0
+2018,CZE,Start-up incentives,0
+2019,CZE,Start-up incentives,0
+2020,CZE,Start-up incentives,0
+2000,CZE,Training,0.01
+2001,CZE,Training,0.01
+2002,CZE,Training,0.01
+2003,CZE,Training,0.01
+2004,CZE,Training,0.02
+2005,CZE,Training,0.01
+2006,CZE,Training,0.01
+2007,CZE,Training,0.01
+2008,CZE,Training,0.01
+2009,CZE,Training,0.03
+2010,CZE,Training,0.04
+2011,CZE,Training,0.01
+2012,CZE,Training,0.01
+2013,CZE,Training,0.02
+2014,CZE,Training,0.01
+2015,CZE,Training,0.02
+2016,CZE,Training,0.01
+2017,CZE,Training,0.01
+2018,CZE,Training,0
+2019,CZE,Training,0
+2020,CZE,Training,0
+2000,DNK,Direct job creation,0.06
+2001,DNK,Direct job creation,0
+2002,DNK,Direct job creation,0
+2003,DNK,Direct job creation,0
+2004,DNK,Direct job creation,0
+2005,DNK,Direct job creation,0
+2006,DNK,Direct job creation,0
+2007,DNK,Direct job creation,0
+2008,DNK,Direct job creation,0
+2009,DNK,Direct job creation,0
+2010,DNK,Direct job creation,0
+2011,DNK,Direct job creation,0
+2012,DNK,Direct job creation,0
+2013,DNK,Direct job creation,0
+2014,DNK,Direct job creation,0
+2015,DNK,Direct job creation,0
+2016,DNK,Direct job creation,0
+2017,DNK,Direct job creation,0
+2018,DNK,Direct job creation,0
+2019,DNK,Direct job creation,0
+2020,DNK,Direct job creation,0
+2000,DNK,Employment incentives,0.35
+2001,DNK,Employment incentives,0.37
+2002,DNK,Employment incentives,0.36
+2003,DNK,Employment incentives,0.33
+2004,DNK,Employment incentives,0.3
+2005,DNK,Employment incentives,0.23
+2006,DNK,Employment incentives,0.19
+2007,DNK,Employment incentives,0.12
+2008,DNK,Employment incentives,0.12
+2009,DNK,Employment incentives,0.18
+2010,DNK,Employment incentives,0.31
+2011,DNK,Employment incentives,0.39
+2012,DNK,Employment incentives,0.38
+2013,DNK,Employment incentives,0.39
+2014,DNK,Employment incentives,0.41
+2015,DNK,Employment incentives,0.28
+2016,DNK,Employment incentives,0.24
+2017,DNK,Employment incentives,0.19
+2018,DNK,Employment incentives,0.19
+2019,DNK,Employment incentives,0.17
+2020,DNK,Employment incentives,0.12
+2000,DNK,Start-up incentives,0
+2001,DNK,Start-up incentives,0
+2002,DNK,Start-up incentives,0
+2003,DNK,Start-up incentives,0
+2004,DNK,Start-up incentives,0
+2005,DNK,Start-up incentives,0
+2006,DNK,Start-up incentives,0
+2007,DNK,Start-up incentives,0
+2008,DNK,Start-up incentives,0
+2009,DNK,Start-up incentives,0
+2010,DNK,Start-up incentives,0
+2011,DNK,Start-up incentives,0
+2012,DNK,Start-up incentives,0
+2013,DNK,Start-up incentives,0
+2014,DNK,Start-up incentives,0
+2015,DNK,Start-up incentives,0
+2016,DNK,Start-up incentives,0
+2017,DNK,Start-up incentives,0
+2018,DNK,Start-up incentives,0
+2019,DNK,Start-up incentives,0
+2020,DNK,Start-up incentives,0
+2000,DNK,Training,0.75
+2001,DNK,Training,0.73
+2002,DNK,Training,0.68
+2003,DNK,Training,0.6
+2004,DNK,Training,0.52
+2005,DNK,Training,0.49
+2006,DNK,Training,0.42
+2007,DNK,Training,0.37
+2008,DNK,Training,0.35
+2009,DNK,Training,0.46
+2010,DNK,Training,0.68
+2011,DNK,Training,0.64
+2012,DNK,Training,0.61
+2013,DNK,Training,0.6
+2014,DNK,Training,0.59
+2015,DNK,Training,0.6
+2016,DNK,Training,0.52
+2017,DNK,Training,0.46
+2018,DNK,Training,0.39
+2019,DNK,Training,0.36
+2020,DNK,Training,0.31
+2000,FIN,Direct job creation,0.11
+2001,FIN,Direct job creation,0.09
+2002,FIN,Direct job creation,0.1
+2003,FIN,Direct job creation,0.09
+2004,FIN,Direct job creation,0.08
+2005,FIN,Direct job creation,0.06
+2006,FIN,Direct job creation,0.08
+2007,FIN,Direct job creation,0.08
+2008,FIN,Direct job creation,0.07
+2009,FIN,Direct job creation,0.07
+2010,FIN,Direct job creation,0.09
+2011,FIN,Direct job creation,0.09
+2012,FIN,Direct job creation,0.08
+2013,FIN,Direct job creation,0.1
+2014,FIN,Direct job creation,0.12
+2015,FIN,Direct job creation,0.13
+2016,FIN,Direct job creation,0.13
+2017,FIN,Direct job creation,0.18
+2018,FIN,Direct job creation,0.2
+2019,FIN,Direct job creation,0.19
+2020,FIN,Direct job creation,0.13
+2000,FIN,Employment incentives,0.16
+2001,FIN,Employment incentives,0.16
+2002,FIN,Employment incentives,0.15
+2003,FIN,Employment incentives,0.18
+2004,FIN,Employment incentives,0.17
+2005,FIN,Employment incentives,0.15
+2006,FIN,Employment incentives,0.14
+2007,FIN,Employment incentives,0.13
+2008,FIN,Employment incentives,0.13
+2009,FIN,Employment incentives,0.12
+2010,FIN,Employment incentives,0.12
+2011,FIN,Employment incentives,0.12
+2012,FIN,Employment incentives,0.14
+2013,FIN,Employment incentives,0.16
+2014,FIN,Employment incentives,0.15
+2015,FIN,Employment incentives,0.12
+2016,FIN,Employment incentives,0.1
+2017,FIN,Employment incentives,0.08
+2018,FIN,Employment incentives,0.08
+2019,FIN,Employment incentives,0.08
+2020,FIN,Employment incentives,0.05
+2000,FIN,Start-up incentives,0.01
+2001,FIN,Start-up incentives,0.01
+2002,FIN,Start-up incentives,0.01
+2003,FIN,Start-up incentives,0.01
+2004,FIN,Start-up incentives,0.01
+2005,FIN,Start-up incentives,0.02
+2006,FIN,Start-up incentives,0.02
+2007,FIN,Start-up incentives,0.02
+2008,FIN,Start-up incentives,0.02
+2009,FIN,Start-up incentives,0.02
+2010,FIN,Start-up incentives,0.02
+2011,FIN,Start-up incentives,0.02
+2012,FIN,Start-up incentives,0.01
+2013,FIN,Start-up incentives,0.01
+2014,FIN,Start-up incentives,0.01
+2015,FIN,Start-up incentives,0.01
+2016,FIN,Start-up incentives,0.01
+2017,FIN,Start-up incentives,0.02
+2018,FIN,Start-up incentives,0.02
+2019,FIN,Start-up incentives,0.01
+2020,FIN,Start-up incentives,0.01
+2000,FIN,Training,0.36
+2001,FIN,Training,0.31
+2002,FIN,Training,0.3
+2003,FIN,Training,0.35
+2004,FIN,Training,0.4
+2005,FIN,Training,0.37
+2006,FIN,Training,0.37
+2007,FIN,Training,0.36
+2008,FIN,Training,0.34
+2009,FIN,Training,0.41
+2010,FIN,Training,0.51
+2011,FIN,Training,0.49
+2012,FIN,Training,0.49
+2013,FIN,Training,0.48
+2014,FIN,Training,0.5
+2015,FIN,Training,0.48
+2016,FIN,Training,0.47
+2017,FIN,Training,0.43
+2018,FIN,Training,0.38
+2019,FIN,Training,0.35
+2020,FIN,Training,0.36
+2000,FRA,Direct job creation,0.39
+2001,FRA,Direct job creation,0.4
+2002,FRA,Direct job creation,0.39
+2003,FRA,Direct job creation,0.33
+2004,FRA,Direct job creation,0.23
+2005,FRA,Direct job creation,0.18
+2006,FRA,Direct job creation,0.19
+2007,FRA,Direct job creation,0.2
+2008,FRA,Direct job creation,0.15
+2009,FRA,Direct job creation,0.15
+2010,FRA,Direct job creation,0.2
+2011,FRA,Direct job creation,0.14
+2012,FRA,Direct job creation,0.13
+2013,FRA,Direct job creation,0.15
+2014,FRA,Direct job creation,0.2
+2015,FRA,Direct job creation,0.22
+2016,FRA,Direct job creation,0.22
+2017,FRA,Direct job creation,0.2
+2018,FRA,Direct job creation,0.11
+2019,FRA,Direct job creation,0.06
+2020,FRA,Direct job creation,0.06
+2000,FRA,Employment incentives,0.15
+2001,FRA,Employment incentives,0.13
+2002,FRA,Employment incentives,0.11
+2003,FRA,Employment incentives,0.08
+2004,FRA,Employment incentives,0.1
+2005,FRA,Employment incentives,0.1
+2006,FRA,Employment incentives,0.1
+2007,FRA,Employment incentives,0.09
+2008,FRA,Employment incentives,0.07
+2009,FRA,Employment incentives,0.06
+2010,FRA,Employment incentives,0.06
+2011,FRA,Employment incentives,0.03
+2012,FRA,Employment incentives,0.03
+2013,FRA,Employment incentives,0.03
+2014,FRA,Employment incentives,0.04
+2015,FRA,Employment incentives,0.05
+2016,FRA,Employment incentives,0.06
+2017,FRA,Employment incentives,0.04
+2018,FRA,Employment incentives,0.03
+2019,FRA,Employment incentives,0.02
+2020,FRA,Employment incentives,0.02
+2000,FRA,Start-up incentives,0
+2001,FRA,Start-up incentives,0
+2002,FRA,Start-up incentives,0
+2003,FRA,Start-up incentives,0.01
+2004,FRA,Start-up incentives,0
+2005,FRA,Start-up incentives,0
+2006,FRA,Start-up incentives,0.01
+2007,FRA,Start-up incentives,0.03
+2008,FRA,Start-up incentives,0.03
+2009,FRA,Start-up incentives,0.04
+2010,FRA,Start-up incentives,0.06
+2011,FRA,Start-up incentives,0.06
+2012,FRA,Start-up incentives,0.05
+2013,FRA,Start-up incentives,0.05
+2014,FRA,Start-up incentives,0.05
+2015,FRA,Start-up incentives,0.04
+2016,FRA,Start-up incentives,0.04
+2017,FRA,Start-up incentives,0.03
+2018,FRA,Start-up incentives,0.04
+2019,FRA,Start-up incentives,0.04
+2020,FRA,Start-up incentives,0.04
+2000,FRA,Training,0.37
+2001,FRA,Training,0.33
+2002,FRA,Training,0.3
+2003,FRA,Training,0.31
+2004,FRA,Training,0.31
+2005,FRA,Training,0.3
+2006,FRA,Training,0.28
+2007,FRA,Training,0.27
+2008,FRA,Training,0.25
+2009,FRA,Training,0.33
+2010,FRA,Training,0.33
+2011,FRA,Training,0.31
+2012,FRA,Training,0.29
+2013,FRA,Training,0.29
+2014,FRA,Training,0.29
+2015,FRA,Training,0.28
+2016,FRA,Training,0.4
+2017,FRA,Training,0.3
+2018,FRA,Training,0.26
+2019,FRA,Training,0.27
+2020,FRA,Training,0.3
+2000,DEU,Direct job creation,0.25
+2001,DEU,Direct job creation,0.2
+2002,DEU,Direct job creation,0.16
+2003,DEU,Direct job creation,0.12
+2004,DEU,Direct job creation,0.11
+2005,DEU,Direct job creation,0.09
+2006,DEU,Direct job creation,0.09
+2007,DEU,Direct job creation,0.07
+2008,DEU,Direct job creation,0.07
+2009,DEU,Direct job creation,0.06
+2010,DEU,Direct job creation,0.05
+2011,DEU,Direct job creation,0.03
+2012,DEU,Direct job creation,0.03
+2013,DEU,Direct job creation,0.02
+2014,DEU,Direct job creation,0.02
+2015,DEU,Direct job creation,0.02
+2016,DEU,Direct job creation,0.01
+2017,DEU,Direct job creation,0.02
+2018,DEU,Direct job creation,0.02
+2019,DEU,Direct job creation,0.02
+2020,DEU,Direct job creation,0.03
+2000,DEU,Employment incentives,0.09
+2001,DEU,Employment incentives,0.1
+2002,DEU,Employment incentives,0.11
+2003,DEU,Employment incentives,0.12
+2004,DEU,Employment incentives,0.09
+2005,DEU,Employment incentives,0.06
+2006,DEU,Employment incentives,0.06
+2007,DEU,Employment incentives,0.07
+2008,DEU,Employment incentives,0.08
+2009,DEU,Employment incentives,0.11
+2010,DEU,Employment incentives,0.1
+2011,DEU,Employment incentives,0.06
+2012,DEU,Employment incentives,0.04
+2013,DEU,Employment incentives,0.03
+2014,DEU,Employment incentives,0.02
+2015,DEU,Employment incentives,0.03
+2016,DEU,Employment incentives,0.03
+2017,DEU,Employment incentives,0.03
+2018,DEU,Employment incentives,0.02
+2019,DEU,Employment incentives,0.02
+2020,DEU,Employment incentives,0.03
+2000,DEU,Start-up incentives,0.04
+2001,DEU,Start-up incentives,0.04
+2002,DEU,Start-up incentives,0.05
+2003,DEU,Start-up incentives,0.08
+2004,DEU,Start-up incentives,0.13
+2005,DEU,Start-up incentives,0.15
+2006,DEU,Start-up incentives,0.12
+2007,DEU,Start-up incentives,0.08
+2008,DEU,Start-up incentives,0.07
+2009,DEU,Start-up incentives,0.07
+2010,DEU,Start-up incentives,0.08
+2011,DEU,Start-up incentives,0.07
+2012,DEU,Start-up incentives,0.03
+2013,DEU,Start-up incentives,0.01
+2014,DEU,Start-up incentives,0.01
+2015,DEU,Start-up incentives,0.01
+2016,DEU,Start-up incentives,0.01
+2017,DEU,Start-up incentives,0.01
+2018,DEU,Start-up incentives,0.01
+2019,DEU,Start-up incentives,0.01
+2020,DEU,Start-up incentives,0.01
+2000,DEU,Training,0.53
+2001,DEU,Training,0.56
+2002,DEU,Training,0.59
+2003,DEU,Training,0.52
+2004,DEU,Training,0.44
+2005,DEU,Training,0.39
+2006,DEU,Training,0.36
+2007,DEU,Training,0.31
+2008,DEU,Training,0.3
+2009,DEU,Training,0.36
+2010,DEU,Training,0.27
+2011,DEU,Training,0.25
+2012,DEU,Training,0.22
+2013,DEU,Training,0.22
+2014,DEU,Training,0.21
+2015,DEU,Training,0.2
+2016,DEU,Training,0.19
+2017,DEU,Training,0.19
+2018,DEU,Training,0.18
+2019,DEU,Training,0.18
+2020,DEU,Training,0.19
+2000,GRC,Direct job creation,0
+2001,GRC,Direct job creation,0
+2002,GRC,Direct job creation,0
+2003,GRC,Direct job creation,0
+2004,GRC,Direct job creation,0
+2005,GRC,Direct job creation,0
+2006,GRC,Direct job creation,0
+2007,GRC,Direct job creation,0.01
+2008,GRC,Direct job creation,0.01
+2009,GRC,Direct job creation,0
+2010,GRC,Direct job creation,0
+2011,GRC,Direct job creation,0
+2012,GRC,Direct job creation,0
+2013,GRC,Direct job creation,0
+2014,GRC,Direct job creation,0.08
+2015,GRC,Direct job creation,0.05
+2016,GRC,Direct job creation,0.07
+2017,GRC,Direct job creation,0.12
+2018,GRC,Direct job creation,0.08
+2019,GRC,Direct job creation,0.21
+2020,GRC,Direct job creation,0.06
+2000,GRC,Employment incentives,0.06
+2001,GRC,Employment incentives,0.2
+2002,GRC,Employment incentives,0.06
+2003,GRC,Employment incentives,0.03
+2004,GRC,Employment incentives,0.05
+2005,GRC,Employment incentives,0.02
+2006,GRC,Employment incentives,0.06
+2007,GRC,Employment incentives,0.06
+2008,GRC,Employment incentives,0.04
+2009,GRC,Employment incentives,0.1
+2010,GRC,Employment incentives,0.11
+2012,GRC,Employment incentives,0.02
+2013,GRC,Employment incentives,0.05
+2014,GRC,Employment incentives,0.07
+2015,GRC,Employment incentives,0.1
+2016,GRC,Employment incentives,0.06
+2017,GRC,Employment incentives,0.05
+2018,GRC,Employment incentives,0.08
+2019,GRC,Employment incentives,0.1
+2020,GRC,Employment incentives,0.08
+2000,GRC,Start-up incentives,0.02
+2001,GRC,Start-up incentives,0.01
+2002,GRC,Start-up incentives,0.01
+2003,GRC,Start-up incentives,0.03
+2004,GRC,Start-up incentives,0.05
+2005,GRC,Start-up incentives,0
+2006,GRC,Start-up incentives,0.02
+2007,GRC,Start-up incentives,0.03
+2008,GRC,Start-up incentives,0.01
+2009,GRC,Start-up incentives,0.09
+2010,GRC,Start-up incentives,0.1
+2011,GRC,Start-up incentives,0.04
+2012,GRC,Start-up incentives,0.03
+2013,GRC,Start-up incentives,0.03
+2014,GRC,Start-up incentives,0.03
+2015,GRC,Start-up incentives,0.02
+2016,GRC,Start-up incentives,0.02
+2017,GRC,Start-up incentives,0
+2018,GRC,Start-up incentives,0.01
+2019,GRC,Start-up incentives,0.02
+2020,GRC,Start-up incentives,0.02
+2000,GRC,Training,0.14
+2001,GRC,Training,0.03
+2002,GRC,Training,0.09
+2003,GRC,Training,0.02
+2004,GRC,Training,0.03
+2005,GRC,Training,0.04
+2006,GRC,Training,0.06
+2007,GRC,Training,0.05
+2008,GRC,Training,0.09
+2009,GRC,Training,0.02
+2010,GRC,Training,0.02
+2011,GRC,Training,0.05
+2012,GRC,Training,0.05
+2013,GRC,Training,0.11
+2014,GRC,Training,0.12
+2015,GRC,Training,0.04
+2016,GRC,Training,0.02
+2017,GRC,Training,0.01
+2018,GRC,Training,0.04
+2019,GRC,Training,0.02
+2020,GRC,Training,0
+2000,HUN,Direct job creation,0.14
+2001,HUN,Direct job creation,0.18
+2002,HUN,Direct job creation,0.25
+2003,HUN,Direct job creation,0.08
+2004,HUN,Direct job creation,0.06
+2005,HUN,Direct job creation,0.09
+2006,HUN,Direct job creation,0.1
+2007,HUN,Direct job creation,0.1
+2008,HUN,Direct job creation,0.09
+2009,HUN,Direct job creation,0.24
+2010,HUN,Direct job creation,0.38
+2011,HUN,Direct job creation,0.21
+2012,HUN,Direct job creation,0.45
+2013,HUN,Direct job creation,0.56
+2014,HUN,Direct job creation,0.69
+2015,HUN,Direct job creation,0.72
+2016,HUN,Direct job creation,0.74
+2017,HUN,Direct job creation,0.61
+2018,HUN,Direct job creation,0.4
+2019,HUN,Direct job creation,0.35
+2020,HUN,Direct job creation,0.26
+2000,HUN,Employment incentives,0.06
+2001,HUN,Employment incentives,0.09
+2002,HUN,Employment incentives,0.07
+2004,HUN,Employment incentives,0.1
+2005,HUN,Employment incentives,0.1
+2006,HUN,Employment incentives,0.08
+2007,HUN,Employment incentives,0.1
+2008,HUN,Employment incentives,0.1
+2009,HUN,Employment incentives,0.09
+2010,HUN,Employment incentives,0.1
+2011,HUN,Employment incentives,0.14
+2012,HUN,Employment incentives,0.17
+2013,HUN,Employment incentives,0.16
+2014,HUN,Employment incentives,0.11
+2015,HUN,Employment incentives,0.05
+2016,HUN,Employment incentives,0.08
+2017,HUN,Employment incentives,0.12
+2018,HUN,Employment incentives,0.13
+2019,HUN,Employment incentives,0.12
+2020,HUN,Employment incentives,0.23
+2000,HUN,Pulbic employment services and administration,0.11
+2001,HUN,Pulbic employment services and administration,0.11
+2002,HUN,Pulbic employment services and administration,0.12
+2004,HUN,Pulbic employment services and administration,0.1
+2005,HUN,Pulbic employment services and administration,0.09
+2006,HUN,Pulbic employment services and administration,0.09
+2007,HUN,Pulbic employment services and administration,0.08
+2008,HUN,Pulbic employment services and administration,0.09
+2009,HUN,Pulbic employment services and administration,0.09
+2010,HUN,Pulbic employment services and administration,0.09
+2011,HUN,Pulbic employment services and administration,0.08
+2012,HUN,Pulbic employment services and administration,0.07
+2013,HUN,Pulbic employment services and administration,0.08
+2014,HUN,Pulbic employment services and administration,0.09
+2015,HUN,Pulbic employment services and administration,0.07
+2016,HUN,Pulbic employment services and administration,0.06
+2017,HUN,Pulbic employment services and administration,0.06
+2018,HUN,Pulbic employment services and administration,0.06
+2019,HUN,Pulbic employment services and administration,0.06
+2020,HUN,Pulbic employment services and administration,0.06
+2000,HUN,Start-up incentives,0
+2001,HUN,Start-up incentives,0.01
+2002,HUN,Start-up incentives,0.01
+2003,HUN,Start-up incentives,0.01
+2004,HUN,Start-up incentives,0.01
+2005,HUN,Start-up incentives,0.01
+2006,HUN,Start-up incentives,0
+2007,HUN,Start-up incentives,0
+2008,HUN,Start-up incentives,0.01
+2009,HUN,Start-up incentives,0.01
+2010,HUN,Start-up incentives,0.01
+2011,HUN,Start-up incentives,0.01
+2012,HUN,Start-up incentives,0.01
+2013,HUN,Start-up incentives,0.01
+2014,HUN,Start-up incentives,0.01
+2015,HUN,Start-up incentives,0.01
+2016,HUN,Start-up incentives,0.01
+2017,HUN,Start-up incentives,0.02
+2018,HUN,Start-up incentives,0.02
+2019,HUN,Start-up incentives,0.02
+2020,HUN,Start-up incentives,0.02
+2000,HUN,Training,0.06
+2001,HUN,Training,0.07
+2002,HUN,Training,0.06
+2003,HUN,Training,0.08
+2004,HUN,Training,0.04
+2005,HUN,Training,0.04
+2006,HUN,Training,0.06
+2007,HUN,Training,0.06
+2008,HUN,Training,0.06
+2009,HUN,Training,0.05
+2010,HUN,Training,0.05
+2011,HUN,Training,0.04
+2012,HUN,Training,0.04
+2013,HUN,Training,0.06
+2014,HUN,Training,0.06
+2015,HUN,Training,0.02
+2016,HUN,Training,0.02
+2017,HUN,Training,0.03
+2018,HUN,Training,0.03
+2019,HUN,Training,0.02
+2020,HUN,Training,0.02
+2000,IRL,Direct job creation,0.29
+2001,IRL,Direct job creation,0.33
+2002,IRL,Direct job creation,0.27
+2003,IRL,Direct job creation,0.22
+2004,IRL,Direct job creation,0.19
+2005,IRL,Direct job creation,0.2
+2006,IRL,Direct job creation,0.2
+2007,IRL,Direct job creation,0.2
+2008,IRL,Direct job creation,0.22
+2009,IRL,Direct job creation,0.24
+2010,IRL,Direct job creation,0.24
+2011,IRL,Direct job creation,0.23
+2012,IRL,Direct job creation,0.24
+2013,IRL,Direct job creation,0.26
+2014,IRL,Direct job creation,0.26
+2015,IRL,Direct job creation,0.2
+2016,IRL,Direct job creation,0.18
+2017,IRL,Direct job creation,0.16
+2018,IRL,Direct job creation,0.15
+2019,IRL,Direct job creation,0.13
+2020,IRL,Direct job creation,0.12
+2000,IRL,Employment incentives,0.13
+2001,IRL,Employment incentives,0.09
+2002,IRL,Employment incentives,0.11
+2003,IRL,Employment incentives,0.09
+2004,IRL,Employment incentives,0.07
+2005,IRL,Employment incentives,0.05
+2006,IRL,Employment incentives,0.03
+2007,IRL,Employment incentives,0.04
+2008,IRL,Employment incentives,0.04
+2009,IRL,Employment incentives,0.05
+2010,IRL,Employment incentives,0.05
+2011,IRL,Employment incentives,0.07
+2012,IRL,Employment incentives,0.07
+2013,IRL,Employment incentives,0.07
+2014,IRL,Employment incentives,0.06
+2015,IRL,Employment incentives,0.05
+2016,IRL,Employment incentives,0.05
+2017,IRL,Employment incentives,0.04
+2018,IRL,Employment incentives,0.03
+2019,IRL,Employment incentives,0.02
+2020,IRL,Employment incentives,1.11
+2000,IRL,Start-up incentives,0.03
+2001,IRL,Start-up incentives,0.04
+2002,IRL,Start-up incentives,0
+2003,IRL,Start-up incentives,0
+2004,IRL,Start-up incentives,0
+2005,IRL,Start-up incentives,0
+2006,IRL,Start-up incentives,0
+2007,IRL,Start-up incentives,0
+2008,IRL,Start-up incentives,0
+2009,IRL,Start-up incentives,0
+2010,IRL,Start-up incentives,0
+2011,IRL,Start-up incentives,0
+2012,IRL,Start-up incentives,0
+2013,IRL,Start-up incentives,0
+2014,IRL,Start-up incentives,0
+2015,IRL,Start-up incentives,0
+2016,IRL,Start-up incentives,0
+2017,IRL,Start-up incentives,0
+2018,IRL,Start-up incentives,0
+2019,IRL,Start-up incentives,0
+2020,IRL,Start-up incentives,0
+2000,IRL,Training,0.2
+2001,IRL,Training,0.25
+2002,IRL,Training,0.26
+2003,IRL,Training,0.25
+2004,IRL,Training,0.25
+2005,IRL,Training,0.24
+2006,IRL,Training,0.24
+2007,IRL,Training,0.25
+2008,IRL,Training,0.29
+2009,IRL,Training,0.35
+2010,IRL,Training,0.43
+2011,IRL,Training,0.43
+2012,IRL,Training,0.39
+2013,IRL,Training,0.37
+2014,IRL,Training,0.33
+2015,IRL,Training,0.22
+2016,IRL,Training,0.19
+2017,IRL,Training,0.14
+2018,IRL,Training,0.12
+2019,IRL,Training,0.1
+2020,IRL,Training,0.1
+2000,ITA,Direct job creation,0.05
+2001,ITA,Direct job creation,0.04
+2002,ITA,Direct job creation,0.03
+2003,ITA,Direct job creation,0.03
+2004,ITA,Direct job creation,0.01
+2005,ITA,Direct job creation,0.01
+2006,ITA,Direct job creation,0.01
+2007,ITA,Direct job creation,0.01
+2008,ITA,Direct job creation,0.01
+2009,ITA,Direct job creation,0.01
+2010,ITA,Direct job creation,0.01
+2011,ITA,Direct job creation,0.01
+2012,ITA,Direct job creation,0
+2013,ITA,Direct job creation,0
+2014,ITA,Direct job creation,0
+2015,ITA,Direct job creation,0.01
+2018,ITA,Direct job creation,0
+2019,ITA,Direct job creation,0
+2020,ITA,Direct job creation,0
+2000,ITA,Employment incentives,0.22
+2001,ITA,Employment incentives,0.3
+2002,ITA,Employment incentives,0.4
+2003,ITA,Employment incentives,0.35
+2004,ITA,Employment incentives,0.24
+2005,ITA,Employment incentives,0.2
+2006,ITA,Employment incentives,0.18
+2007,ITA,Employment incentives,0.14
+2008,ITA,Employment incentives,0.15
+2009,ITA,Employment incentives,0.15
+2010,ITA,Employment incentives,0.14
+2011,ITA,Employment incentives,0.14
+2012,ITA,Employment incentives,0.17
+2013,ITA,Employment incentives,0.16
+2014,ITA,Employment incentives,0.13
+2015,ITA,Employment incentives,0.22
+2016,ITA,Employment incentives,0.46
+2017,ITA,Employment incentives,0.43
+2018,ITA,Employment incentives,0.24
+2019,ITA,Employment incentives,0.07
+2020,ITA,Employment incentives,0.09
+2004,ITA,Pulbic employment services and administration,0.08
+2005,ITA,Pulbic employment services and administration,0.08
+2006,ITA,Pulbic employment services and administration,0.07
+2007,ITA,Pulbic employment services and administration,0.07
+2008,ITA,Pulbic employment services and administration,0.08
+2009,ITA,Pulbic employment services and administration,0.1
+2010,ITA,Pulbic employment services and administration,0.1
+2011,ITA,Pulbic employment services and administration,0.1
+2012,ITA,Pulbic employment services and administration,0.12
+2013,ITA,Pulbic employment services and administration,0.09
+2014,ITA,Pulbic employment services and administration,0.08
+2015,ITA,Pulbic employment services and administration,0.09
+2018,ITA,Pulbic employment services and administration,0.06
+2019,ITA,Pulbic employment services and administration,0.07
+2020,ITA,Pulbic employment services and administration,0.12
+2000,ITA,Start-up incentives,0.04
+2001,ITA,Start-up incentives,0.06
+2002,ITA,Start-up incentives,0.02
+2003,ITA,Start-up incentives,0.05
+2004,ITA,Start-up incentives,0.05
+2005,ITA,Start-up incentives,0.05
+2006,ITA,Start-up incentives,0.04
+2007,ITA,Start-up incentives,0.03
+2008,ITA,Start-up incentives,0.02
+2009,ITA,Start-up incentives,0.02
+2010,ITA,Start-up incentives,0.02
+2011,ITA,Start-up incentives,0.01
+2012,ITA,Start-up incentives,0.01
+2013,ITA,Start-up incentives,0.01
+2014,ITA,Start-up incentives,0.01
+2015,ITA,Start-up incentives,0.02
+2018,ITA,Start-up incentives,0
+2019,ITA,Start-up incentives,0
+2020,ITA,Start-up incentives,0
+2000,ITA,Training,0.24
+2001,ITA,Training,0.21
+2002,ITA,Training,0.22
+2003,ITA,Training,0.25
+2004,ITA,Training,0.22
+2005,ITA,Training,0.2
+2006,ITA,Training,0.17
+2007,ITA,Training,0.18
+2008,ITA,Training,0.18
+2009,ITA,Training,0.17
+2010,ITA,Training,0.15
+2011,ITA,Training,0.13
+2012,ITA,Training,0.14
+2013,ITA,Training,0.15
+2014,ITA,Training,0.14
+2015,ITA,Training,0.16
+2018,ITA,Training,0.11
+2019,ITA,Training,0.13
+2020,ITA,Training,0.12
+2000,JPN,Direct job creation,0.01
+2001,JPN,Direct job creation,0.07
+2002,JPN,Direct job creation,0.03
+2003,JPN,Direct job creation,0
+2004,JPN,Direct job creation,0
+2005,JPN,Direct job creation,0
+2006,JPN,Direct job creation,0
+2007,JPN,Direct job creation,0
+2008,JPN,Direct job creation,0
+2009,JPN,Direct job creation,0.04
+2010,JPN,Direct job creation,0.07
+2011,JPN,Direct job creation,0.09
+2012,JPN,Direct job creation,0.02
+2013,JPN,Direct job creation,0.03
+2014,JPN,Direct job creation,0.02
+2015,JPN,Direct job creation,0.01
+2016,JPN,Direct job creation,0
+2017,JPN,Direct job creation,0
+2018,JPN,Direct job creation,0
+2019,JPN,Direct job creation,0
+2020,JPN,Direct job creation,0
+2000,JPN,Employment incentives,0.05
+2001,JPN,Employment incentives,0.04
+2002,JPN,Employment incentives,0.04
+2003,JPN,Employment incentives,0.04
+2004,JPN,Employment incentives,0.04
+2005,JPN,Employment incentives,0.04
+2006,JPN,Employment incentives,0.04
+2007,JPN,Employment incentives,0.04
+2008,JPN,Employment incentives,0.04
+2009,JPN,Employment incentives,0.18
+2010,JPN,Employment incentives,0.12
+2011,JPN,Employment incentives,0.11
+2012,JPN,Employment incentives,0.08
+2013,JPN,Employment incentives,0.07
+2014,JPN,Employment incentives,0.06
+2015,JPN,Employment incentives,0.06
+2016,JPN,Employment incentives,0.06
+2017,JPN,Employment incentives,0.06
+2018,JPN,Employment incentives,0.06
+2019,JPN,Employment incentives,0.06
+2020,JPN,Employment incentives,0.65
+2000,JPN,Start-up incentives,0
+2001,JPN,Start-up incentives,0
+2002,JPN,Start-up incentives,0
+2003,JPN,Start-up incentives,0
+2004,JPN,Start-up incentives,0
+2005,JPN,Start-up incentives,0
+2006,JPN,Start-up incentives,0
+2007,JPN,Start-up incentives,0
+2008,JPN,Start-up incentives,0
+2009,JPN,Start-up incentives,0
+2010,JPN,Start-up incentives,0
+2011,JPN,Start-up incentives,0
+2012,JPN,Start-up incentives,0
+2013,JPN,Start-up incentives,0
+2014,JPN,Start-up incentives,0
+2015,JPN,Start-up incentives,0
+2016,JPN,Start-up incentives,0
+2017,JPN,Start-up incentives,0
+2018,JPN,Start-up incentives,0
+2019,JPN,Start-up incentives,0
+2020,JPN,Start-up incentives,0
+2000,JPN,Training,0.01
+2001,JPN,Training,0.01
+2002,JPN,Training,0.01
+2003,JPN,Training,0.02
+2004,JPN,Training,0.01
+2005,JPN,Training,0
+2006,JPN,Training,0
+2007,JPN,Training,0
+2008,JPN,Training,0
+2009,JPN,Training,0.01
+2010,JPN,Training,0.03
+2011,JPN,Training,0.05
+2012,JPN,Training,0.01
+2013,JPN,Training,0.01
+2014,JPN,Training,0.01
+2015,JPN,Training,0.01
+2016,JPN,Training,0.01
+2017,JPN,Training,0.01
+2018,JPN,Training,0.01
+2019,JPN,Training,0.01
+2020,JPN,Training,0.01
+2000,KOR,Direct job creation,0.23
+2001,KOR,Direct job creation,0.1
+2002,KOR,Direct job creation,0.07
+2003,KOR,Direct job creation,0.01
+2004,KOR,Direct job creation,0
+2005,KOR,Direct job creation,0
+2006,KOR,Direct job creation,0
+2007,KOR,Direct job creation,0.01
+2008,KOR,Direct job creation,0.12
+2009,KOR,Direct job creation,0.26
+2010,KOR,Direct job creation,0.18
+2011,KOR,Direct job creation,0.15
+2012,KOR,Direct job creation,0.21
+2013,KOR,Direct job creation,0.22
+2014,KOR,Direct job creation,0.21
+2015,KOR,Direct job creation,0.19
+2016,KOR,Direct job creation,0.2
+2017,KOR,Direct job creation,0.15
+2018,KOR,Direct job creation,0.15
+2019,KOR,Direct job creation,0.1
+2020,KOR,Direct job creation,0.21
+2008,KOR,Employment incentives,0.06
+2009,KOR,Employment incentives,0.05
+2010,KOR,Employment incentives,0.02
+2011,KOR,Employment incentives,0.03
+2012,KOR,Employment incentives,0.03
+2013,KOR,Employment incentives,0.03
+2014,KOR,Employment incentives,0.03
+2015,KOR,Employment incentives,0.04
+2016,KOR,Employment incentives,0.04
+2017,KOR,Employment incentives,0.04
+2018,KOR,Employment incentives,0.04
+2019,KOR,Employment incentives,0.09
+2020,KOR,Employment incentives,0.27
+2000,KOR,Pulbic employment services and administration,0.01
+2001,KOR,Pulbic employment services and administration,0.02
+2002,KOR,Pulbic employment services and administration,0.02
+2003,KOR,Pulbic employment services and administration,0.02
+2004,KOR,Pulbic employment services and administration,0.02
+2005,KOR,Pulbic employment services and administration,0.02
+2006,KOR,Pulbic employment services and administration,0.02
+2007,KOR,Pulbic employment services and administration,0.02
+2008,KOR,Pulbic employment services and administration,0.01
+2009,KOR,Pulbic employment services and administration,0.01
+2010,KOR,Pulbic employment services and administration,0.01
+2011,KOR,Pulbic employment services and administration,0.01
+2012,KOR,Pulbic employment services and administration,0.02
+2013,KOR,Pulbic employment services and administration,0.03
+2014,KOR,Pulbic employment services and administration,0.03
+2015,KOR,Pulbic employment services and administration,0.03
+2016,KOR,Pulbic employment services and administration,0.04
+2017,KOR,Pulbic employment services and administration,0.04
+2018,KOR,Pulbic employment services and administration,0.05
+2019,KOR,Pulbic employment services and administration,0.04
+2020,KOR,Pulbic employment services and administration,0.06
+2000,KOR,Start-up incentives,0.01
+2001,KOR,Start-up incentives,0.01
+2002,KOR,Start-up incentives,0
+2003,KOR,Start-up incentives,0.01
+2004,KOR,Start-up incentives,0.01
+2005,KOR,Start-up incentives,0.01
+2006,KOR,Start-up incentives,0
+2007,KOR,Start-up incentives,0
+2008,KOR,Start-up incentives,0
+2009,KOR,Start-up incentives,0
+2010,KOR,Start-up incentives,0
+2011,KOR,Start-up incentives,0.01
+2012,KOR,Start-up incentives,0.01
+2013,KOR,Start-up incentives,0.01
+2014,KOR,Start-up incentives,0.02
+2015,KOR,Start-up incentives,0.02
+2016,KOR,Start-up incentives,0.02
+2017,KOR,Start-up incentives,0.02
+2018,KOR,Start-up incentives,0.04
+2019,KOR,Start-up incentives,0.04
+2020,KOR,Start-up incentives,0.04
+2000,KOR,Training,0.06
+2001,KOR,Training,0.05
+2002,KOR,Training,0.05
+2003,KOR,Training,0.04
+2004,KOR,Training,0.04
+2005,KOR,Training,0.04
+2006,KOR,Training,0.04
+2007,KOR,Training,0.05
+2008,KOR,Training,0.05
+2009,KOR,Training,0.07
+2010,KOR,Training,0.06
+2011,KOR,Training,0.03
+2012,KOR,Training,0.02
+2013,KOR,Training,0.03
+2014,KOR,Training,0.04
+2015,KOR,Training,0.03
+2016,KOR,Training,0.03
+2017,KOR,Training,0.03
+2018,KOR,Training,0.06
+2019,KOR,Training,0.07
+2020,KOR,Training,0.08
+2002,LUX,Direct job creation,0.06
+2003,LUX,Direct job creation,0.17
+2004,LUX,Direct job creation,0.15
+2005,LUX,Direct job creation,0.13
+2006,LUX,Direct job creation,0.1
+2007,LUX,Direct job creation,0.09
+2008,LUX,Direct job creation,0.1
+2009,LUX,Direct job creation,0.12
+2010,LUX,Direct job creation,0.12
+2011,LUX,Direct job creation,0.14
+2012,LUX,Direct job creation,0.14
+2013,LUX,Direct job creation,0.14
+2014,LUX,Direct job creation,0.15
+2015,LUX,Direct job creation,0.15
+2016,LUX,Direct job creation,0.15
+2017,LUX,Direct job creation,0.15
+2018,LUX,Direct job creation,0.11
+2019,LUX,Direct job creation,0.13
+2020,LUX,Direct job creation,0.14
+2000,LUX,Employment incentives,0.06
+2001,LUX,Employment incentives,0.06
+2002,LUX,Employment incentives,0.06
+2003,LUX,Employment incentives,0.1
+2004,LUX,Employment incentives,0.13
+2005,LUX,Employment incentives,0.19
+2006,LUX,Employment incentives,0.2
+2007,LUX,Employment incentives,0.21
+2008,LUX,Employment incentives,0.25
+2009,LUX,Employment incentives,0.27
+2010,LUX,Employment incentives,0.3
+2011,LUX,Employment incentives,0.34
+2012,LUX,Employment incentives,0.34
+2013,LUX,Employment incentives,0.37
+2014,LUX,Employment incentives,0.37
+2015,LUX,Employment incentives,0.37
+2016,LUX,Employment incentives,0.38
+2017,LUX,Employment incentives,0.38
+2018,LUX,Employment incentives,0.36
+2019,LUX,Employment incentives,0.36
+2020,LUX,Employment incentives,0.4
+2000,LUX,Start-up incentives,0
+2001,LUX,Start-up incentives,0
+2002,LUX,Start-up incentives,0
+2003,LUX,Start-up incentives,0
+2004,LUX,Start-up incentives,0
+2005,LUX,Start-up incentives,0
+2006,LUX,Start-up incentives,0
+2007,LUX,Start-up incentives,0
+2008,LUX,Start-up incentives,0
+2009,LUX,Start-up incentives,0
+2010,LUX,Start-up incentives,0
+2011,LUX,Start-up incentives,0
+2012,LUX,Start-up incentives,0
+2013,LUX,Start-up incentives,0
+2014,LUX,Start-up incentives,0
+2015,LUX,Start-up incentives,0
+2016,LUX,Start-up incentives,0
+2017,LUX,Start-up incentives,0
+2018,LUX,Start-up incentives,0
+2019,LUX,Start-up incentives,0
+2020,LUX,Start-up incentives,0
+2000,LUX,Training,0.07
+2001,LUX,Training,0.07
+2002,LUX,Training,0.09
+2003,LUX,Training,0.1
+2004,LUX,Training,0.11
+2005,LUX,Training,0.12
+2006,LUX,Training,0.12
+2007,LUX,Training,0.1
+2008,LUX,Training,0.03
+2009,LUX,Training,0.03
+2010,LUX,Training,0.04
+2011,LUX,Training,0.04
+2012,LUX,Training,0.04
+2013,LUX,Training,0.04
+2014,LUX,Training,0.04
+2015,LUX,Training,0.05
+2016,LUX,Training,0.18
+2017,LUX,Training,0.18
+2018,LUX,Training,0.18
+2019,LUX,Training,0.18
+2020,LUX,Training,0.17
+2000,MEX,Direct job creation,0
+2001,MEX,Direct job creation,0
+2002,MEX,Direct job creation,0
+2003,MEX,Direct job creation,0
+2004,MEX,Direct job creation,0
+2005,MEX,Direct job creation,0
+2006,MEX,Direct job creation,0
+2007,MEX,Direct job creation,0
+2008,MEX,Direct job creation,0
+2009,MEX,Direct job creation,0
+2010,MEX,Direct job creation,0
+2011,MEX,Direct job creation,0
+2012,MEX,Direct job creation,0
+2013,MEX,Direct job creation,0
+2014,MEX,Direct job creation,0
+2015,MEX,Direct job creation,0
+2016,MEX,Direct job creation,0
+2017,MEX,Direct job creation,0
+2018,MEX,Direct job creation,0
+2019,MEX,Direct job creation,0
+2020,MEX,Direct job creation,0
+2000,MEX,Employment incentives,0
+2001,MEX,Employment incentives,0
+2002,MEX,Employment incentives,0
+2003,MEX,Employment incentives,0
+2004,MEX,Employment incentives,0
+2005,MEX,Employment incentives,0
+2006,MEX,Employment incentives,0
+2007,MEX,Employment incentives,0
+2008,MEX,Employment incentives,0
+2009,MEX,Employment incentives,0
+2010,MEX,Employment incentives,0
+2011,MEX,Employment incentives,0
+2012,MEX,Employment incentives,0
+2013,MEX,Employment incentives,0
+2014,MEX,Employment incentives,0
+2015,MEX,Employment incentives,0
+2016,MEX,Employment incentives,0
+2017,MEX,Employment incentives,0
+2018,MEX,Employment incentives,0
+2019,MEX,Employment incentives,0
+2020,MEX,Employment incentives,0
+2000,MEX,Pulbic employment services and administration,0
+2001,MEX,Pulbic employment services and administration,0
+2002,MEX,Pulbic employment services and administration,0
+2003,MEX,Pulbic employment services and administration,0
+2004,MEX,Pulbic employment services and administration,0
+2005,MEX,Pulbic employment services and administration,0
+2006,MEX,Pulbic employment services and administration,0
+2007,MEX,Pulbic employment services and administration,0
+2008,MEX,Pulbic employment services and administration,0
+2009,MEX,Pulbic employment services and administration,0
+2010,MEX,Pulbic employment services and administration,0
+2011,MEX,Pulbic employment services and administration,0
+2012,MEX,Pulbic employment services and administration,0
+2013,MEX,Pulbic employment services and administration,0
+2014,MEX,Pulbic employment services and administration,0
+2015,MEX,Pulbic employment services and administration,0
+2016,MEX,Pulbic employment services and administration,0
+2017,MEX,Pulbic employment services and administration,0
+2018,MEX,Pulbic employment services and administration,0
+2019,MEX,Pulbic employment services and administration,0
+2020,MEX,Pulbic employment services and administration,0
+2000,MEX,Start-up incentives,0
+2001,MEX,Start-up incentives,0
+2002,MEX,Start-up incentives,0
+2003,MEX,Start-up incentives,0
+2004,MEX,Start-up incentives,0
+2005,MEX,Start-up incentives,0
+2006,MEX,Start-up incentives,0
+2007,MEX,Start-up incentives,0
+2008,MEX,Start-up incentives,0
+2009,MEX,Start-up incentives,0
+2010,MEX,Start-up incentives,0
+2011,MEX,Start-up incentives,0
+2012,MEX,Start-up incentives,0
+2013,MEX,Start-up incentives,0
+2014,MEX,Start-up incentives,0
+2015,MEX,Start-up incentives,0
+2016,MEX,Start-up incentives,0
+2017,MEX,Start-up incentives,0
+2018,MEX,Start-up incentives,0
+2019,MEX,Start-up incentives,0
+2020,MEX,Start-up incentives,0
+2000,MEX,Training,0.02
+2001,MEX,Training,0.02
+2002,MEX,Training,0.01
+2003,MEX,Training,0.01
+2004,MEX,Training,0.01
+2005,MEX,Training,0.01
+2006,MEX,Training,0.01
+2007,MEX,Training,0
+2008,MEX,Training,0.01
+2009,MEX,Training,0.01
+2010,MEX,Training,0.01
+2011,MEX,Training,0
+2012,MEX,Training,0.01
+2013,MEX,Training,0.01
+2014,MEX,Training,0.01
+2015,MEX,Training,0
+2016,MEX,Training,0
+2017,MEX,Training,0
+2018,MEX,Training,0
+2019,MEX,Training,0
+2020,MEX,Training,0
+2000,NLD,Direct job creation,0.24
+2001,NLD,Direct job creation,0.25
+2002,NLD,Direct job creation,0.25
+2003,NLD,Direct job creation,0.22
+2004,NLD,Direct job creation,0.19
+2005,NLD,Direct job creation,0.18
+2006,NLD,Direct job creation,0.16
+2007,NLD,Direct job creation,0.15
+2008,NLD,Direct job creation,0.14
+2009,NLD,Direct job creation,0.15
+2010,NLD,Direct job creation,0.15
+2011,NLD,Direct job creation,0.1
+2012,NLD,Direct job creation,0.05
+2013,NLD,Direct job creation,0.04
+2014,NLD,Direct job creation,0.03
+2015,NLD,Direct job creation,0.02
+2016,NLD,Direct job creation,0.02
+2017,NLD,Direct job creation,0.01
+2018,NLD,Direct job creation,0.01
+2019,NLD,Direct job creation,0.01
+2020,NLD,Direct job creation,0.01
+2000,NLD,Employment incentives,0.05
+2001,NLD,Employment incentives,0.04
+2002,NLD,Employment incentives,0.04
+2003,NLD,Employment incentives,0.03
+2004,NLD,Employment incentives,0.03
+2005,NLD,Employment incentives,0.02
+2006,NLD,Employment incentives,0
+2007,NLD,Employment incentives,0
+2008,NLD,Employment incentives,0
+2009,NLD,Employment incentives,0.01
+2010,NLD,Employment incentives,0.02
+2011,NLD,Employment incentives,0.03
+2012,NLD,Employment incentives,0.03
+2013,NLD,Employment incentives,0.04
+2014,NLD,Employment incentives,0.04
+2015,NLD,Employment incentives,0.05
+2016,NLD,Employment incentives,0.04
+2017,NLD,Employment incentives,0.04
+2018,NLD,Employment incentives,0.02
+2019,NLD,Employment incentives,0.02
+2020,NLD,Employment incentives,1.67
+2000,NLD,Start-up incentives,0
+2001,NLD,Start-up incentives,0
+2002,NLD,Start-up incentives,0
+2003,NLD,Start-up incentives,0
+2004,NLD,Start-up incentives,0
+2005,NLD,Start-up incentives,0
+2006,NLD,Start-up incentives,0
+2007,NLD,Start-up incentives,0
+2008,NLD,Start-up incentives,0
+2009,NLD,Start-up incentives,0
+2010,NLD,Start-up incentives,0
+2011,NLD,Start-up incentives,0
+2012,NLD,Start-up incentives,0
+2013,NLD,Start-up incentives,0
+2014,NLD,Start-up incentives,0
+2015,NLD,Start-up incentives,0
+2016,NLD,Start-up incentives,0
+2017,NLD,Start-up incentives,0
+2018,NLD,Start-up incentives,0
+2019,NLD,Start-up incentives,0
+2020,NLD,Start-up incentives,0
+2000,NLD,Training,0.1
+2001,NLD,Training,0.1
+2002,NLD,Training,0.13
+2003,NLD,Training,0.13
+2004,NLD,Training,0.12
+2005,NLD,Training,0.11
+2006,NLD,Training,0.1
+2007,NLD,Training,0.09
+2008,NLD,Training,0.09
+2009,NLD,Training,0.12
+2010,NLD,Training,0.13
+2011,NLD,Training,0.12
+2012,NLD,Training,0.1
+2013,NLD,Training,0.09
+2014,NLD,Training,0.07
+2015,NLD,Training,0.07
+2016,NLD,Training,0.07
+2017,NLD,Training,0.07
+2018,NLD,Training,0.06
+2019,NLD,Training,0.06
+2020,NLD,Training,0.06
+2000,NZL,Direct job creation,0.01
+2001,NZL,Direct job creation,0.01
+2002,NZL,Direct job creation,0.01
+2003,NZL,Direct job creation,0.01
+2004,NZL,Direct job creation,0.01
+2005,NZL,Direct job creation,0
+2006,NZL,Direct job creation,0
+2007,NZL,Direct job creation,0
+2008,NZL,Direct job creation,0
+2009,NZL,Direct job creation,0.02
+2010,NZL,Direct job creation,0.01
+2011,NZL,Direct job creation,0
+2012,NZL,Direct job creation,0
+2013,NZL,Direct job creation,0
+2014,NZL,Direct job creation,0
+2015,NZL,Direct job creation,0
+2016,NZL,Direct job creation,0
+2017,NZL,Direct job creation,0
+2018,NZL,Direct job creation,0
+2019,NZL,Direct job creation,0
+2000,NZL,Employment incentives,0.05
+2001,NZL,Employment incentives,0.04
+2002,NZL,Employment incentives,0.04
+2003,NZL,Employment incentives,0.04
+2004,NZL,Employment incentives,0.03
+2005,NZL,Employment incentives,0.03
+2006,NZL,Employment incentives,0.02
+2007,NZL,Employment incentives,0.01
+2008,NZL,Employment incentives,0.01
+2009,NZL,Employment incentives,0.02
+2010,NZL,Employment incentives,0.02
+2011,NZL,Employment incentives,0.01
+2012,NZL,Employment incentives,0.01
+2013,NZL,Employment incentives,0.01
+2014,NZL,Employment incentives,0.01
+2015,NZL,Employment incentives,0.01
+2016,NZL,Employment incentives,0.01
+2017,NZL,Employment incentives,0.01
+2018,NZL,Employment incentives,0.01
+2019,NZL,Employment incentives,3.87
+2000,NZL,Start-up incentives,0.03
+2001,NZL,Start-up incentives,0.03
+2002,NZL,Start-up incentives,0.03
+2003,NZL,Start-up incentives,0.02
+2004,NZL,Start-up incentives,0.01
+2005,NZL,Start-up incentives,0.01
+2006,NZL,Start-up incentives,0.01
+2007,NZL,Start-up incentives,0.01
+2008,NZL,Start-up incentives,0.01
+2009,NZL,Start-up incentives,0.01
+2010,NZL,Start-up incentives,0
+2011,NZL,Start-up incentives,0
+2012,NZL,Start-up incentives,0
+2013,NZL,Start-up incentives,0
+2014,NZL,Start-up incentives,0
+2015,NZL,Start-up incentives,0
+2016,NZL,Start-up incentives,0
+2017,NZL,Start-up incentives,0
+2018,NZL,Start-up incentives,0
+2019,NZL,Start-up incentives,0
+2000,NZL,Training,0.22
+2001,NZL,Training,0.18
+2002,NZL,Training,0.15
+2003,NZL,Training,0.15
+2004,NZL,Training,0.14
+2005,NZL,Training,0.13
+2006,NZL,Training,0.12
+2007,NZL,Training,0.12
+2008,NZL,Training,0.13
+2009,NZL,Training,0.12
+2010,NZL,Training,0.1
+2011,NZL,Training,0.1
+2012,NZL,Training,0.1
+2013,NZL,Training,0.11
+2014,NZL,Training,0.08
+2015,NZL,Training,0.08
+2016,NZL,Training,0.07
+2017,NZL,Training,0.06
+2018,NZL,Training,0.05
+2019,NZL,Training,0.06
+2000,NOR,Direct job creation,0.01
+2001,NOR,Direct job creation,0.02
+2002,NOR,Direct job creation,0.01
+2003,NOR,Direct job creation,0.01
+2004,NOR,Direct job creation,0
+2005,NOR,Direct job creation,0
+2006,NOR,Direct job creation,0
+2007,NOR,Direct job creation,0
+2008,NOR,Direct job creation,0
+2009,NOR,Direct job creation,0
+2010,NOR,Direct job creation,0
+2011,NOR,Direct job creation,0
+2012,NOR,Direct job creation,0
+2013,NOR,Direct job creation,0
+2014,NOR,Direct job creation,0
+2015,NOR,Direct job creation,0
+2016,NOR,Direct job creation,0
+2017,NOR,Direct job creation,0
+2018,NOR,Direct job creation,0
+2019,NOR,Direct job creation,0
+2020,NOR,Direct job creation,0
+2000,NOR,Employment incentives,0.08
+2001,NOR,Employment incentives,0.09
+2002,NOR,Employment incentives,0.09
+2003,NOR,Employment incentives,0.11
+2004,NOR,Employment incentives,0.1
+2005,NOR,Employment incentives,0.1
+2006,NOR,Employment incentives,0.07
+2007,NOR,Employment incentives,0.07
+2008,NOR,Employment incentives,0.06
+2009,NOR,Employment incentives,0.08
+2010,NOR,Employment incentives,0.09
+2011,NOR,Employment incentives,0.08
+2012,NOR,Employment incentives,0.08
+2013,NOR,Employment incentives,0.08
+2014,NOR,Employment incentives,0.08
+2015,NOR,Employment incentives,0.08
+2016,NOR,Employment incentives,0.1
+2017,NOR,Employment incentives,0.1
+2018,NOR,Employment incentives,0.08
+2019,NOR,Employment incentives,0.07
+2020,NOR,Employment incentives,0.07
+2000,NOR,Pulbic employment services and administration,0.11
+2001,NOR,Pulbic employment services and administration,0.11
+2002,NOR,Pulbic employment services and administration,0.12
+2003,NOR,Pulbic employment services and administration,0.12
+2004,NOR,Pulbic employment services and administration,0.13
+2005,NOR,Pulbic employment services and administration,0.12
+2006,NOR,Pulbic employment services and administration,0.11
+2007,NOR,Pulbic employment services and administration,0.1
+2008,NOR,Pulbic employment services and administration,0.1
+2009,NOR,Pulbic employment services and administration,0.12
+2010,NOR,Pulbic employment services and administration,0.13
+2011,NOR,Pulbic employment services and administration,0.12
+2012,NOR,Pulbic employment services and administration,0.12
+2013,NOR,Pulbic employment services and administration,0.13
+2014,NOR,Pulbic employment services and administration,0.13
+2015,NOR,Pulbic employment services and administration,0.13
+2016,NOR,Pulbic employment services and administration,0.15
+2017,NOR,Pulbic employment services and administration,0.15
+2018,NOR,Pulbic employment services and administration,0.14
+2019,NOR,Pulbic employment services and administration,0.14
+2020,NOR,Pulbic employment services and administration,0.15
+2000,NOR,Start-up incentives,0
+2001,NOR,Start-up incentives,0
+2002,NOR,Start-up incentives,0
+2003,NOR,Start-up incentives,0
+2004,NOR,Start-up incentives,0
+2005,NOR,Start-up incentives,0
+2006,NOR,Start-up incentives,0
+2007,NOR,Start-up incentives,0
+2008,NOR,Start-up incentives,0
+2009,NOR,Start-up incentives,0
+2010,NOR,Start-up incentives,0
+2011,NOR,Start-up incentives,0
+2012,NOR,Start-up incentives,0
+2013,NOR,Start-up incentives,0
+2014,NOR,Start-up incentives,0
+2015,NOR,Start-up incentives,0
+2016,NOR,Start-up incentives,0
+2017,NOR,Start-up incentives,0
+2018,NOR,Start-up incentives,0
+2019,NOR,Start-up incentives,0
+2020,NOR,Start-up incentives,0
+2000,NOR,Training,0.31
+2001,NOR,Training,0.34
+2002,NOR,Training,0.38
+2003,NOR,Training,0.42
+2004,NOR,Training,0.39
+2005,NOR,Training,0.36
+2006,NOR,Training,0.25
+2007,NOR,Training,0.22
+2008,NOR,Training,0.2
+2009,NOR,Training,0.22
+2010,NOR,Training,0.21
+2011,NOR,Training,0.18
+2012,NOR,Training,0.15
+2013,NOR,Training,0.11
+2014,NOR,Training,0.11
+2015,NOR,Training,0.1
+2016,NOR,Training,0.12
+2017,NOR,Training,0.11
+2018,NOR,Training,0.09
+2019,NOR,Training,0.09
+2020,NOR,Training,0.09
+2000,POL,Direct job creation,0.02
+2001,POL,Direct job creation,0.01
+2002,POL,Direct job creation,0.01
+2003,POL,Direct job creation,0.04
+2004,POL,Direct job creation,0.03
+2005,POL,Direct job creation,0.02
+2006,POL,Direct job creation,0.02
+2007,POL,Direct job creation,0.02
+2008,POL,Direct job creation,0.02
+2009,POL,Direct job creation,0.03
+2010,POL,Direct job creation,0.04
+2011,POL,Direct job creation,0.01
+2012,POL,Direct job creation,0.01
+2013,POL,Direct job creation,0.02
+2014,POL,Direct job creation,0.01
+2015,POL,Direct job creation,0.02
+2016,POL,Direct job creation,0.02
+2017,POL,Direct job creation,0.02
+2018,POL,Direct job creation,0.01
+2019,POL,Direct job creation,0.01
+2020,POL,Direct job creation,0.01
+2000,POL,Employment incentives,0.03
+2001,POL,Employment incentives,0.03
+2002,POL,Employment incentives,0.02
+2003,POL,Employment incentives,0.05
+2004,POL,Employment incentives,0.04
+2005,POL,Employment incentives,0.03
+2006,POL,Employment incentives,0.03
+2007,POL,Employment incentives,0.05
+2008,POL,Employment incentives,0.06
+2009,POL,Employment incentives,0.16
+2010,POL,Employment incentives,0.21
+2011,POL,Employment incentives,0.08
+2012,POL,Employment incentives,0.1
+2013,POL,Employment incentives,0.12
+2014,POL,Employment incentives,0.13
+2015,POL,Employment incentives,0.13
+2016,POL,Employment incentives,0.12
+2017,POL,Employment incentives,0.1
+2018,POL,Employment incentives,0.08
+2019,POL,Employment incentives,0.06
+2020,POL,Employment incentives,0.52
+2000,POL,Pulbic employment services and administration,0.03
+2001,POL,Pulbic employment services and administration,0.03
+2002,POL,Pulbic employment services and administration,0.03
+2003,POL,Pulbic employment services and administration,0.06
+2004,POL,Pulbic employment services and administration,0.05
+2005,POL,Pulbic employment services and administration,0.07
+2006,POL,Pulbic employment services and administration,0.09
+2007,POL,Pulbic employment services and administration,0.09
+2008,POL,Pulbic employment services and administration,0.09
+2009,POL,Pulbic employment services and administration,0.1
+2010,POL,Pulbic employment services and administration,0.09
+2011,POL,Pulbic employment services and administration,0.08
+2012,POL,Pulbic employment services and administration,0.08
+2013,POL,Pulbic employment services and administration,0.08
+2014,POL,Pulbic employment services and administration,0.08
+2015,POL,Pulbic employment services and administration,0.08
+2016,POL,Pulbic employment services and administration,0.08
+2017,POL,Pulbic employment services and administration,0.08
+2018,POL,Pulbic employment services and administration,0.06
+2019,POL,Pulbic employment services and administration,0.07
+2020,POL,Pulbic employment services and administration,0.07
+2000,POL,Start-up incentives,0.01
+2001,POL,Start-up incentives,0.01
+2002,POL,Start-up incentives,0.01
+2003,POL,Start-up incentives,0.01
+2004,POL,Start-up incentives,0.01
+2005,POL,Start-up incentives,0.03
+2006,POL,Start-up incentives,0.04
+2007,POL,Start-up incentives,0.05
+2008,POL,Start-up incentives,0.06
+2009,POL,Start-up incentives,0.08
+2010,POL,Start-up incentives,0.1
+2011,POL,Start-up incentives,0.03
+2012,POL,Start-up incentives,0.05
+2013,POL,Start-up incentives,0.05
+2014,POL,Start-up incentives,0.06
+2015,POL,Start-up incentives,0.05
+2016,POL,Start-up incentives,0.05
+2017,POL,Start-up incentives,0.04
+2018,POL,Start-up incentives,0.04
+2019,POL,Start-up incentives,0.03
+2020,POL,Start-up incentives,0.03
+2000,POL,Training,0.08
+2001,POL,Training,0.08
+2002,POL,Training,0.08
+2003,POL,Training,0.1
+2004,POL,Training,0.09
+2005,POL,Training,0.1
+2006,POL,Training,0.1
+2007,POL,Training,0.1
+2008,POL,Training,0.12
+2009,POL,Training,0.04
+2010,POL,Training,0.04
+2011,POL,Training,0.01
+2012,POL,Training,0.01
+2013,POL,Training,0.01
+2014,POL,Training,0.01
+2015,POL,Training,0.01
+2016,POL,Training,0.01
+2017,POL,Training,0.01
+2018,POL,Training,0.01
+2019,POL,Training,0
+2020,POL,Training,0
+2000,PRT,Direct job creation,0.05
+2001,PRT,Direct job creation,0.04
+2002,PRT,Direct job creation,0.04
+2003,PRT,Direct job creation,0.04
+2004,PRT,Direct job creation,0.04
+2005,PRT,Direct job creation,0.03
+2006,PRT,Direct job creation,0.03
+2007,PRT,Direct job creation,0.02
+2008,PRT,Direct job creation,0.02
+2009,PRT,Direct job creation,0.02
+2010,PRT,Direct job creation,0.01
+2011,PRT,Direct job creation,0.01
+2012,PRT,Direct job creation,0.02
+2013,PRT,Direct job creation,0.03
+2014,PRT,Direct job creation,0.04
+2015,PRT,Direct job creation,0.04
+2016,PRT,Direct job creation,0.04
+2017,PRT,Direct job creation,0.03
+2018,PRT,Direct job creation,0.03
+2019,PRT,Direct job creation,0.02
+2020,PRT,Direct job creation,0.04
+2000,PRT,Employment incentives,0.18
+2001,PRT,Employment incentives,0.24
+2002,PRT,Employment incentives,0.22
+2003,PRT,Employment incentives,0.15
+2004,PRT,Employment incentives,0.15
+2005,PRT,Employment incentives,0.14
+2006,PRT,Employment incentives,0.12
+2007,PRT,Employment incentives,0.11
+2008,PRT,Employment incentives,0.11
+2009,PRT,Employment incentives,0.13
+2010,PRT,Employment incentives,0.1
+2011,PRT,Employment incentives,0.1
+2012,PRT,Employment incentives,0.08
+2013,PRT,Employment incentives,0.09
+2014,PRT,Employment incentives,0.13
+2015,PRT,Employment incentives,0.16
+2016,PRT,Employment incentives,0.16
+2017,PRT,Employment incentives,0.16
+2018,PRT,Employment incentives,0.1
+2019,PRT,Employment incentives,0.07
+2020,PRT,Employment incentives,0.23
+2000,PRT,Start-up incentives,0.01
+2001,PRT,Start-up incentives,0.01
+2002,PRT,Start-up incentives,0
+2003,PRT,Start-up incentives,0
+2004,PRT,Start-up incentives,0
+2005,PRT,Start-up incentives,0
+2006,PRT,Start-up incentives,0
+2007,PRT,Start-up incentives,0
+2008,PRT,Start-up incentives,0
+2009,PRT,Start-up incentives,0
+2010,PRT,Start-up incentives,0
+2011,PRT,Start-up incentives,0
+2012,PRT,Start-up incentives,0
+2013,PRT,Start-up incentives,0
+2014,PRT,Start-up incentives,0
+2015,PRT,Start-up incentives,0
+2016,PRT,Start-up incentives,0
+2017,PRT,Start-up incentives,0
+2018,PRT,Start-up incentives,0
+2019,PRT,Start-up incentives,0
+2020,PRT,Start-up incentives,0
+2000,PRT,Training,0.21
+2001,PRT,Training,0.18
+2002,PRT,Training,0.16
+2003,PRT,Training,0.26
+2004,PRT,Training,0.28
+2005,PRT,Training,0.27
+2006,PRT,Training,0.24
+2007,PRT,Training,0.18
+2008,PRT,Training,0.23
+2009,PRT,Training,0.41
+2010,PRT,Training,0.38
+2011,PRT,Training,0.31
+2012,PRT,Training,0.27
+2013,PRT,Training,0.3
+2014,PRT,Training,0.35
+2015,PRT,Training,0.27
+2016,PRT,Training,0.21
+2017,PRT,Training,0.17
+2018,PRT,Training,0.17
+2019,PRT,Training,0.18
+2020,PRT,Training,0.16
+2000,SVK,Direct job creation,0.13
+2001,SVK,Direct job creation,0.15
+2002,SVK,Direct job creation,0.08
+2003,SVK,Direct job creation,0.03
+2004,SVK,Direct job creation,0.03
+2005,SVK,Direct job creation,0.06
+2006,SVK,Direct job creation,0.05
+2007,SVK,Direct job creation,0.04
+2008,SVK,Direct job creation,0.05
+2009,SVK,Direct job creation,0.01
+2010,SVK,Direct job creation,0.01
+2011,SVK,Direct job creation,0.01
+2012,SVK,Direct job creation,0.01
+2013,SVK,Direct job creation,0.01
+2014,SVK,Direct job creation,0.01
+2015,SVK,Direct job creation,0.02
+2016,SVK,Direct job creation,0.03
+2017,SVK,Direct job creation,0.01
+2018,SVK,Direct job creation,0.01
+2019,SVK,Direct job creation,0.01
+2020,SVK,Direct job creation,0
+2000,SVK,Employment incentives,0
+2001,SVK,Employment incentives,0.01
+2002,SVK,Employment incentives,0.04
+2003,SVK,Employment incentives,0.01
+2004,SVK,Employment incentives,0.01
+2005,SVK,Employment incentives,0.03
+2006,SVK,Employment incentives,0.02
+2007,SVK,Employment incentives,0.02
+2008,SVK,Employment incentives,0.01
+2009,SVK,Employment incentives,0.03
+2010,SVK,Employment incentives,0.09
+2011,SVK,Employment incentives,0.1
+2012,SVK,Employment incentives,0.08
+2013,SVK,Employment incentives,0.08
+2014,SVK,Employment incentives,0.09
+2015,SVK,Employment incentives,0.08
+2016,SVK,Employment incentives,0.12
+2017,SVK,Employment incentives,0.12
+2018,SVK,Employment incentives,0.11
+2019,SVK,Employment incentives,0.11
+2020,SVK,Employment incentives,1.05
+2000,SVK,Start-up incentives,0
+2001,SVK,Start-up incentives,0.01
+2002,SVK,Start-up incentives,0.06
+2003,SVK,Start-up incentives,0.03
+2004,SVK,Start-up incentives,0.02
+2005,SVK,Start-up incentives,0.05
+2006,SVK,Start-up incentives,0.04
+2007,SVK,Start-up incentives,0.04
+2008,SVK,Start-up incentives,0.05
+2009,SVK,Start-up incentives,0.07
+2010,SVK,Start-up incentives,0.08
+2011,SVK,Start-up incentives,0.07
+2012,SVK,Start-up incentives,0.05
+2013,SVK,Start-up incentives,0.03
+2014,SVK,Start-up incentives,0.01
+2015,SVK,Start-up incentives,0.01
+2016,SVK,Start-up incentives,0.01
+2017,SVK,Start-up incentives,0.01
+2018,SVK,Start-up incentives,0.01
+2019,SVK,Start-up incentives,0.01
+2020,SVK,Start-up incentives,0.02
+2000,SVK,Training,0
+2001,SVK,Training,0.02
+2002,SVK,Training,0.04
+2003,SVK,Training,0.02
+2004,SVK,Training,0.01
+2005,SVK,Training,0.02
+2006,SVK,Training,0.01
+2007,SVK,Training,0
+2008,SVK,Training,0.01
+2009,SVK,Training,0.01
+2010,SVK,Training,0.01
+2011,SVK,Training,0
+2012,SVK,Training,0
+2013,SVK,Training,0
+2014,SVK,Training,0
+2015,SVK,Training,0.01
+2016,SVK,Training,0.01
+2017,SVK,Training,0.01
+2018,SVK,Training,0.03
+2019,SVK,Training,0.02
+2020,SVK,Training,0.01
+2000,ESP,Direct job creation,0.12
+2001,ESP,Direct job creation,0.12
+2002,ESP,Direct job creation,0.12
+2003,ESP,Direct job creation,0.11
+2004,ESP,Direct job creation,0.11
+2005,ESP,Direct job creation,0.09
+2006,ESP,Direct job creation,0.07
+2007,ESP,Direct job creation,0.08
+2008,ESP,Direct job creation,0.09
+2009,ESP,Direct job creation,0.1
+2010,ESP,Direct job creation,0.1
+2011,ESP,Direct job creation,0.08
+2012,ESP,Direct job creation,0.06
+2013,ESP,Direct job creation,0.06
+2014,ESP,Direct job creation,0.09
+2015,ESP,Direct job creation,0.1
+2016,ESP,Direct job creation,0.09
+2017,ESP,Direct job creation,0.1
+2018,ESP,Direct job creation,0.12
+2019,ESP,Direct job creation,0.11
+2020,ESP,Direct job creation,0.11
+2000,ESP,Employment incentives,0.31
+2001,ESP,Employment incentives,0.28
+2002,ESP,Employment incentives,0.29
+2003,ESP,Employment incentives,0.28
+2004,ESP,Employment incentives,0.3
+2005,ESP,Employment incentives,0.3
+2006,ESP,Employment incentives,0.32
+2007,ESP,Employment incentives,0.28
+2008,ESP,Employment incentives,0.23
+2009,ESP,Employment incentives,0.22
+2010,ESP,Employment incentives,0.27
+2011,ESP,Employment incentives,0.26
+2012,ESP,Employment incentives,0.18
+2013,ESP,Employment incentives,0.07
+2014,ESP,Employment incentives,0.07
+2015,ESP,Employment incentives,0.06
+2016,ESP,Employment incentives,0.06
+2017,ESP,Employment incentives,0.1
+2018,ESP,Employment incentives,0.08
+2019,ESP,Employment incentives,0.08
+2020,ESP,Employment incentives,0.56
+2000,ESP,Start-up incentives,0.05
+2001,ESP,Start-up incentives,0.05
+2002,ESP,Start-up incentives,0.05
+2003,ESP,Start-up incentives,0.05
+2004,ESP,Start-up incentives,0.04
+2005,ESP,Start-up incentives,0.06
+2006,ESP,Start-up incentives,0.08
+2007,ESP,Start-up incentives,0.09
+2008,ESP,Start-up incentives,0.1
+2009,ESP,Start-up incentives,0.1
+2010,ESP,Start-up incentives,0.12
+2011,ESP,Start-up incentives,0.11
+2012,ESP,Start-up incentives,0.11
+2013,ESP,Start-up incentives,0.11
+2014,ESP,Start-up incentives,0.11
+2015,ESP,Start-up incentives,0.1
+2016,ESP,Start-up incentives,0.09
+2017,ESP,Start-up incentives,0.13
+2018,ESP,Start-up incentives,0.13
+2019,ESP,Start-up incentives,0.14
+2020,ESP,Start-up incentives,0.12
+2000,ESP,Training,0.18
+2001,ESP,Training,0.17
+2002,ESP,Training,0.14
+2003,ESP,Training,0.14
+2004,ESP,Training,0.14
+2005,ESP,Training,0.17
+2006,ESP,Training,0.16
+2007,ESP,Training,0.15
+2008,ESP,Training,0.17
+2009,ESP,Training,0.19
+2010,ESP,Training,0.19
+2011,ESP,Training,0.2
+2012,ESP,Training,0.15
+2013,ESP,Training,0.12
+2014,ESP,Training,0.12
+2015,ESP,Training,0.11
+2016,ESP,Training,0.11
+2017,ESP,Training,0.11
+2018,ESP,Training,0.12
+2019,ESP,Training,0.11
+2020,ESP,Training,0.11
+2000,SWE,Direct job creation,0.06
+2001,SWE,Direct job creation,0
+2002,SWE,Direct job creation,0
+2003,SWE,Direct job creation,0
+2004,SWE,Direct job creation,0
+2005,SWE,Direct job creation,0
+2006,SWE,Direct job creation,0
+2007,SWE,Direct job creation,0
+2008,SWE,Direct job creation,0
+2009,SWE,Direct job creation,0
+2010,SWE,Direct job creation,0
+2011,SWE,Direct job creation,0
+2012,SWE,Direct job creation,0
+2013,SWE,Direct job creation,0
+2014,SWE,Direct job creation,0
+2015,SWE,Direct job creation,0
+2016,SWE,Direct job creation,0
+2017,SWE,Direct job creation,0
+2018,SWE,Direct job creation,0
+2019,SWE,Direct job creation,0
+2020,SWE,Direct job creation,0
+2000,SWE,Employment incentives,0.46
+2001,SWE,Employment incentives,0.44
+2002,SWE,Employment incentives,0.43
+2003,SWE,Employment incentives,0.38
+2004,SWE,Employment incentives,0.39
+2005,SWE,Employment incentives,0.47
+2006,SWE,Employment incentives,0.54
+2007,SWE,Employment incentives,0.48
+2008,SWE,Employment incentives,0.37
+2009,SWE,Employment incentives,0.39
+2010,SWE,Employment incentives,0.49
+2011,SWE,Employment incentives,0.55
+2012,SWE,Employment incentives,0.63
+2013,SWE,Employment incentives,0.64
+2014,SWE,Employment incentives,0.64
+2015,SWE,Employment incentives,0.59
+2016,SWE,Employment incentives,0.5
+2017,SWE,Employment incentives,0.47
+2018,SWE,Employment incentives,0.49
+2019,SWE,Employment incentives,0.46
+2020,SWE,Employment incentives,0.39
+2000,SWE,Pulbic employment services and administration,0.23
+2001,SWE,Pulbic employment services and administration,0.23
+2002,SWE,Pulbic employment services and administration,0.23
+2003,SWE,Pulbic employment services and administration,0.22
+2004,SWE,Pulbic employment services and administration,0.22
+2005,SWE,Pulbic employment services and administration,0.21
+2006,SWE,Pulbic employment services and administration,0.21
+2007,SWE,Pulbic employment services and administration,0.2
+2008,SWE,Pulbic employment services and administration,0.19
+2009,SWE,Pulbic employment services and administration,0.24
+2010,SWE,Pulbic employment services and administration,0.27
+2011,SWE,Pulbic employment services and administration,0.25
+2012,SWE,Pulbic employment services and administration,0.27
+2013,SWE,Pulbic employment services and administration,0.28
+2014,SWE,Pulbic employment services and administration,0.26
+2015,SWE,Pulbic employment services and administration,0.25
+2016,SWE,Pulbic employment services and administration,0.27
+2017,SWE,Pulbic employment services and administration,0.28
+2018,SWE,Pulbic employment services and administration,0.28
+2019,SWE,Pulbic employment services and administration,0.26
+2020,SWE,Pulbic employment services and administration,0.26
+2000,SWE,Start-up incentives,0.04
+2001,SWE,Start-up incentives,0.04
+2002,SWE,Start-up incentives,0.04
+2003,SWE,Start-up incentives,0.03
+2004,SWE,Start-up incentives,0.03
+2005,SWE,Start-up incentives,0.03
+2006,SWE,Start-up incentives,0.03
+2007,SWE,Start-up incentives,0.02
+2008,SWE,Start-up incentives,0.01
+2009,SWE,Start-up incentives,0.01
+2010,SWE,Start-up incentives,0.02
+2011,SWE,Start-up incentives,0.01
+2012,SWE,Start-up incentives,0.01
+2013,SWE,Start-up incentives,0.01
+2014,SWE,Start-up incentives,0.01
+2015,SWE,Start-up incentives,0.01
+2016,SWE,Start-up incentives,0.01
+2017,SWE,Start-up incentives,0.01
+2018,SWE,Start-up incentives,0.01
+2019,SWE,Start-up incentives,0
+2020,SWE,Start-up incentives,0
+2000,SWE,Training,0.6
+2001,SWE,Training,0.54
+2002,SWE,Training,0.46
+2003,SWE,Training,0.23
+2004,SWE,Training,0.19
+2005,SWE,Training,0.19
+2006,SWE,Training,0.2
+2007,SWE,Training,0.1
+2008,SWE,Training,0.06
+2009,SWE,Training,0.06
+2010,SWE,Training,0.1
+2011,SWE,Training,0.09
+2012,SWE,Training,0.1
+2013,SWE,Training,0.13
+2014,SWE,Training,0.14
+2015,SWE,Training,0.14
+2016,SWE,Training,0.13
+2017,SWE,Training,0.13
+2018,SWE,Training,0.1
+2019,SWE,Training,0.06
+2020,SWE,Training,0.06
+2000,CHE,Direct job creation,0
+2001,CHE,Direct job creation,0
+2002,CHE,Direct job creation,0
+2003,CHE,Direct job creation,0
+2004,CHE,Direct job creation,0
+2005,CHE,Direct job creation,0
+2006,CHE,Direct job creation,0
+2007,CHE,Direct job creation,0
+2008,CHE,Direct job creation,0
+2009,CHE,Direct job creation,0
+2010,CHE,Direct job creation,0
+2011,CHE,Direct job creation,0
+2012,CHE,Direct job creation,0
+2013,CHE,Direct job creation,0
+2014,CHE,Direct job creation,0
+2015,CHE,Direct job creation,0
+2016,CHE,Direct job creation,0
+2017,CHE,Direct job creation,0
+2018,CHE,Direct job creation,0
+2019,CHE,Direct job creation,0
+2020,CHE,Direct job creation,0
+2000,CHE,Employment incentives,0.05
+2001,CHE,Employment incentives,0.03
+2002,CHE,Employment incentives,0.04
+2003,CHE,Employment incentives,0.06
+2004,CHE,Employment incentives,0.07
+2005,CHE,Employment incentives,0.07
+2006,CHE,Employment incentives,0.07
+2007,CHE,Employment incentives,0.05
+2008,CHE,Employment incentives,0.05
+2009,CHE,Employment incentives,0.06
+2010,CHE,Employment incentives,0.07
+2011,CHE,Employment incentives,0.06
+2012,CHE,Employment incentives,0.06
+2013,CHE,Employment incentives,0.06
+2014,CHE,Employment incentives,0.06
+2015,CHE,Employment incentives,0.07
+2016,CHE,Employment incentives,0.08
+2017,CHE,Employment incentives,0.08
+2018,CHE,Employment incentives,0.07
+2019,CHE,Employment incentives,0.07
+2020,CHE,Employment incentives,0.09
+2000,CHE,Start-up incentives,0
+2001,CHE,Start-up incentives,0
+2002,CHE,Start-up incentives,0
+2003,CHE,Start-up incentives,0.01
+2004,CHE,Start-up incentives,0.01
+2005,CHE,Start-up incentives,0.01
+2006,CHE,Start-up incentives,0.01
+2007,CHE,Start-up incentives,0
+2008,CHE,Start-up incentives,0
+2009,CHE,Start-up incentives,0
+2010,CHE,Start-up incentives,0.01
+2011,CHE,Start-up incentives,0
+2012,CHE,Start-up incentives,0
+2013,CHE,Start-up incentives,0
+2014,CHE,Start-up incentives,0
+2015,CHE,Start-up incentives,0
+2016,CHE,Start-up incentives,0
+2017,CHE,Start-up incentives,0
+2018,CHE,Start-up incentives,0
+2019,CHE,Start-up incentives,0
+2020,CHE,Start-up incentives,0
+2000,CHE,Training,0.16
+2001,CHE,Training,0.14
+2002,CHE,Training,0.19
+2003,CHE,Training,0.25
+2004,CHE,Training,0.27
+2005,CHE,Training,0.25
+2006,CHE,Training,0.2
+2007,CHE,Training,0.16
+2008,CHE,Training,0.14
+2009,CHE,Training,0.17
+2010,CHE,Training,0.19
+2011,CHE,Training,0.16
+2012,CHE,Training,0.15
+2013,CHE,Training,0.16
+2014,CHE,Training,0.16
+2015,CHE,Training,0.17
+2016,CHE,Training,0.18
+2017,CHE,Training,0.17
+2018,CHE,Training,0.15
+2019,CHE,Training,0.15
+2020,CHE,Training,0.14
+2000,GBR,Direct job creation,0.01
+2001,GBR,Direct job creation,0.01
+2002,GBR,Direct job creation,0
+2003,GBR,Direct job creation,0
+2004,GBR,Direct job creation,0
+2005,GBR,Direct job creation,0
+2006,GBR,Direct job creation,0
+2007,GBR,Direct job creation,0
+2008,GBR,Direct job creation,0.01
+2009,GBR,Direct job creation,0.01
+2010,GBR,Direct job creation,0.04
+2011,GBR,Direct job creation,0.01
+2000,GBR,Employment incentives,0.02
+2001,GBR,Employment incentives,0.02
+2002,GBR,Employment incentives,0.02
+2003,GBR,Employment incentives,0.01
+2004,GBR,Employment incentives,0.01
+2005,GBR,Employment incentives,0.01
+2006,GBR,Employment incentives,0.01
+2007,GBR,Employment incentives,0.01
+2008,GBR,Employment incentives,0.01
+2009,GBR,Employment incentives,0.01
+2010,GBR,Employment incentives,0.01
+2011,GBR,Employment incentives,0.01
+2000,GBR,Start-up incentives,0
+2001,GBR,Start-up incentives,0
+2002,GBR,Start-up incentives,0
+2003,GBR,Start-up incentives,0
+2004,GBR,Start-up incentives,0
+2005,GBR,Start-up incentives,0
+2006,GBR,Start-up incentives,0
+2007,GBR,Start-up incentives,0
+2008,GBR,Start-up incentives,0
+2009,GBR,Start-up incentives,0
+2010,GBR,Start-up incentives,0
+2011,GBR,Start-up incentives,0
+2000,GBR,Training,0.04
+2001,GBR,Training,0.02
+2002,GBR,Training,0.02
+2003,GBR,Training,0.03
+2004,GBR,Training,0.03
+2005,GBR,Training,0.02
+2006,GBR,Training,0.01
+2007,GBR,Training,0.01
+2008,GBR,Training,0.01
+2009,GBR,Training,0.02
+2010,GBR,Training,0.02
+2011,GBR,Training,0.01
+2000,USA,Direct job creation,0.01
+2001,USA,Direct job creation,0.01
+2002,USA,Direct job creation,0.01
+2003,USA,Direct job creation,0.01
+2004,USA,Direct job creation,0.01
+2005,USA,Direct job creation,0.01
+2006,USA,Direct job creation,0.01
+2007,USA,Direct job creation,0.01
+2008,USA,Direct job creation,0.01
+2009,USA,Direct job creation,0.01
+2010,USA,Direct job creation,0.01
+2011,USA,Direct job creation,0.01
+2012,USA,Direct job creation,0
+2013,USA,Direct job creation,0
+2014,USA,Direct job creation,0
+2015,USA,Direct job creation,0
+2016,USA,Direct job creation,0.01
+2017,USA,Direct job creation,0
+2018,USA,Direct job creation,0
+2019,USA,Direct job creation,0
+2020,USA,Direct job creation,0
+2000,USA,Employment incentives,0
+2001,USA,Employment incentives,0
+2002,USA,Employment incentives,0
+2003,USA,Employment incentives,0
+2004,USA,Employment incentives,0
+2005,USA,Employment incentives,0
+2006,USA,Employment incentives,0
+2007,USA,Employment incentives,0
+2008,USA,Employment incentives,0.01
+2009,USA,Employment incentives,0.01
+2010,USA,Employment incentives,0.01
+2011,USA,Employment incentives,0.01
+2012,USA,Employment incentives,0.01
+2013,USA,Employment incentives,0.01
+2014,USA,Employment incentives,0
+2015,USA,Employment incentives,0.01
+2016,USA,Employment incentives,0.01
+2017,USA,Employment incentives,0.01
+2018,USA,Employment incentives,0.01
+2019,USA,Employment incentives,2.51
+2020,USA,Employment incentives,1.25
+2000,USA,Pulbic employment services and administration,0.04
+2001,USA,Pulbic employment services and administration,0.04
+2002,USA,Pulbic employment services and administration,0.04
+2003,USA,Pulbic employment services and administration,0.04
+2004,USA,Pulbic employment services and administration,0.03
+2005,USA,Pulbic employment services and administration,0.03
+2006,USA,Pulbic employment services and administration,0.03
+2007,USA,Pulbic employment services and administration,0.03
+2008,USA,Pulbic employment services and administration,0.04
+2009,USA,Pulbic employment services and administration,0.04
+2010,USA,Pulbic employment services and administration,0.04
+2011,USA,Pulbic employment services and administration,0.04
+2012,USA,Pulbic employment services and administration,0.03
+2013,USA,Pulbic employment services and administration,0.03
+2014,USA,Pulbic employment services and administration,0.02
+2015,USA,Pulbic employment services and administration,0.02
+2016,USA,Pulbic employment services and administration,0.02
+2017,USA,Pulbic employment services and administration,0.02
+2018,USA,Pulbic employment services and administration,0.02
+2019,USA,Pulbic employment services and administration,0.02
+2020,USA,Pulbic employment services and administration,0.02
+2000,USA,Start-up incentives,0
+2001,USA,Start-up incentives,0
+2002,USA,Start-up incentives,0
+2003,USA,Start-up incentives,0
+2004,USA,Start-up incentives,0
+2005,USA,Start-up incentives,0
+2006,USA,Start-up incentives,0
+2007,USA,Start-up incentives,0
+2008,USA,Start-up incentives,0
+2009,USA,Start-up incentives,0
+2010,USA,Start-up incentives,0
+2011,USA,Start-up incentives,0
+2012,USA,Start-up incentives,0
+2013,USA,Start-up incentives,0
+2014,USA,Start-up incentives,0
+2015,USA,Start-up incentives,0
+2016,USA,Start-up incentives,0
+2017,USA,Start-up incentives,0
+2018,USA,Start-up incentives,0
+2019,USA,Start-up incentives,0
+2020,USA,Start-up incentives,0
+2000,USA,Training,0.06
+2001,USA,Training,0.06
+2002,USA,Training,0.06
+2003,USA,Training,0.05
+2004,USA,Training,0.05
+2005,USA,Training,0.05
+2006,USA,Training,0.04
+2007,USA,Training,0.04
+2008,USA,Training,0.07
+2009,USA,Training,0.05
+2010,USA,Training,0.04
+2011,USA,Training,0.04
+2012,USA,Training,0.04
+2013,USA,Training,0.04
+2014,USA,Training,0.03
+2015,USA,Training,0.03
+2016,USA,Training,0.03
+2017,USA,Training,0.03
+2018,USA,Training,0.03
+2019,USA,Training,0.03
+2020,USA,Training,0.07
+2004,CHL,Direct job creation,0
+2005,CHL,Direct job creation,0
+2006,CHL,Direct job creation,0.03
+2007,CHL,Direct job creation,0.03
+2008,CHL,Direct job creation,0.03
+2009,CHL,Direct job creation,0.05
+2010,CHL,Direct job creation,0.05
+2011,CHL,Direct job creation,0.05
+2012,CHL,Direct job creation,0.04
+2013,CHL,Direct job creation,0.03
+2014,CHL,Direct job creation,0.04
+2015,CHL,Direct job creation,0.05
+2016,CHL,Direct job creation,0.05
+2017,CHL,Direct job creation,0.04
+2018,CHL,Direct job creation,0.04
+2019,CHL,Direct job creation,0.04
+2020,CHL,Direct job creation,0.05
+2006,CHL,Employment incentives,0.02
+2007,CHL,Employment incentives,0.01
+2008,CHL,Employment incentives,0.01
+2009,CHL,Employment incentives,0.01
+2010,CHL,Employment incentives,0.01
+2011,CHL,Employment incentives,0
+2012,CHL,Employment incentives,0
+2013,CHL,Employment incentives,0
+2014,CHL,Employment incentives,0
+2015,CHL,Employment incentives,0
+2016,CHL,Employment incentives,0
+2017,CHL,Employment incentives,0
+2018,CHL,Employment incentives,0
+2019,CHL,Employment incentives,0
+2020,CHL,Employment incentives,0
+2006,CHL,Pulbic employment services and administration,0.01
+2007,CHL,Pulbic employment services and administration,0.01
+2008,CHL,Pulbic employment services and administration,0.02
+2009,CHL,Pulbic employment services and administration,0.02
+2010,CHL,Pulbic employment services and administration,0.02
+2011,CHL,Pulbic employment services and administration,0.02
+2012,CHL,Pulbic employment services and administration,0.03
+2013,CHL,Pulbic employment services and administration,0.03
+2014,CHL,Pulbic employment services and administration,0.03
+2015,CHL,Pulbic employment services and administration,0.03
+2016,CHL,Pulbic employment services and administration,0.03
+2017,CHL,Pulbic employment services and administration,0.03
+2018,CHL,Pulbic employment services and administration,0.03
+2019,CHL,Pulbic employment services and administration,0.03
+2020,CHL,Pulbic employment services and administration,0.03
+2004,CHL,Start-up incentives,0
+2005,CHL,Start-up incentives,0
+2006,CHL,Start-up incentives,0
+2007,CHL,Start-up incentives,0
+2008,CHL,Start-up incentives,0
+2009,CHL,Start-up incentives,0
+2010,CHL,Start-up incentives,0
+2011,CHL,Start-up incentives,0
+2012,CHL,Start-up incentives,0
+2013,CHL,Start-up incentives,0
+2014,CHL,Start-up incentives,0
+2015,CHL,Start-up incentives,0
+2016,CHL,Start-up incentives,0
+2017,CHL,Start-up incentives,0
+2018,CHL,Start-up incentives,0
+2019,CHL,Start-up incentives,0
+2020,CHL,Start-up incentives,0
+2008,CHL,Training,0.04
+2009,CHL,Training,0.05
+2010,CHL,Training,0.03
+2011,CHL,Training,0.02
+2012,CHL,Training,0.04
+2013,CHL,Training,0.03
+2014,CHL,Training,0.04
+2015,CHL,Training,0.08
+2016,CHL,Training,0.09
+2017,CHL,Training,0.06
+2018,CHL,Training,0.04
+2019,CHL,Training,0.03
+2020,CHL,Training,0.02
+2003,EST,Direct job creation,0
+2004,EST,Direct job creation,0
+2005,EST,Direct job creation,0
+2006,EST,Direct job creation,0
+2007,EST,Direct job creation,0
+2008,EST,Direct job creation,0
+2009,EST,Direct job creation,0
+2010,EST,Direct job creation,0
+2011,EST,Direct job creation,0
+2012,EST,Direct job creation,0
+2013,EST,Direct job creation,0
+2014,EST,Direct job creation,0
+2015,EST,Direct job creation,0
+2016,EST,Direct job creation,0
+2017,EST,Direct job creation,0
+2018,EST,Direct job creation,0
+2019,EST,Direct job creation,0
+2020,EST,Direct job creation,0
+2003,EST,Employment incentives,0
+2004,EST,Employment incentives,0
+2005,EST,Employment incentives,0.01
+2006,EST,Employment incentives,0
+2007,EST,Employment incentives,0
+2008,EST,Employment incentives,0
+2009,EST,Employment incentives,0
+2010,EST,Employment incentives,0.06
+2011,EST,Employment incentives,0.04
+2012,EST,Employment incentives,0.02
+2013,EST,Employment incentives,0.02
+2014,EST,Employment incentives,0.01
+2015,EST,Employment incentives,0.01
+2016,EST,Employment incentives,0.02
+2017,EST,Employment incentives,0.03
+2018,EST,Employment incentives,0.04
+2019,EST,Employment incentives,0.04
+2020,EST,Employment incentives,0.04
+2003,EST,Start-up incentives,0
+2004,EST,Start-up incentives,0
+2005,EST,Start-up incentives,0.01
+2006,EST,Start-up incentives,0
+2007,EST,Start-up incentives,0
+2008,EST,Start-up incentives,0
+2009,EST,Start-up incentives,0.02
+2010,EST,Start-up incentives,0.02
+2011,EST,Start-up incentives,0.01
+2012,EST,Start-up incentives,0.01
+2013,EST,Start-up incentives,0.01
+2014,EST,Start-up incentives,0.01
+2015,EST,Start-up incentives,0.01
+2016,EST,Start-up incentives,0.01
+2017,EST,Start-up incentives,0.01
+2018,EST,Start-up incentives,0.01
+2019,EST,Start-up incentives,0.01
+2020,EST,Start-up incentives,0.01
+2003,EST,Training,0.04
+2004,EST,Training,0.03
+2005,EST,Training,0.03
+2006,EST,Training,0.04
+2007,EST,Training,0.02
+2008,EST,Training,0.02
+2009,EST,Training,0.12
+2010,EST,Training,0.05
+2011,EST,Training,0.08
+2012,EST,Training,0.14
+2013,EST,Training,0.1
+2014,EST,Training,0.07
+2015,EST,Training,0.08
+2016,EST,Training,0.08
+2017,EST,Training,0.07
+2018,EST,Training,0.09
+2019,EST,Training,0.12
+2020,EST,Training,0.14
+2004,ISR,Direct job creation,0
+2005,ISR,Direct job creation,0
+2006,ISR,Direct job creation,0
+2007,ISR,Direct job creation,0
+2008,ISR,Direct job creation,0
+2009,ISR,Direct job creation,0
+2010,ISR,Direct job creation,0
+2011,ISR,Direct job creation,0
+2012,ISR,Direct job creation,0
+2013,ISR,Direct job creation,0
+2014,ISR,Direct job creation,0
+2015,ISR,Direct job creation,0
+2016,ISR,Direct job creation,0
+2017,ISR,Direct job creation,0
+2018,ISR,Direct job creation,0
+2019,ISR,Direct job creation,0
+2004,ISR,Employment incentives,0.02
+2005,ISR,Employment incentives,0.04
+2006,ISR,Employment incentives,0.05
+2007,ISR,Employment incentives,0.04
+2008,ISR,Employment incentives,0.04
+2009,ISR,Employment incentives,0.06
+2010,ISR,Employment incentives,0.05
+2011,ISR,Employment incentives,0.07
+2012,ISR,Employment incentives,0.06
+2013,ISR,Employment incentives,0.05
+2014,ISR,Employment incentives,0.04
+2015,ISR,Employment incentives,0.05
+2016,ISR,Employment incentives,0.05
+2017,ISR,Employment incentives,0.05
+2018,ISR,Employment incentives,0.03
+2019,ISR,Employment incentives,0.03
+2004,ISR,Pulbic employment services and administration,0
+2005,ISR,Pulbic employment services and administration,0.04
+2006,ISR,Pulbic employment services and administration,0.05
+2007,ISR,Pulbic employment services and administration,0.04
+2008,ISR,Pulbic employment services and administration,0.04
+2009,ISR,Pulbic employment services and administration,0.03
+2010,ISR,Pulbic employment services and administration,0.03
+2011,ISR,Pulbic employment services and administration,0.02
+2012,ISR,Pulbic employment services and administration,0.02
+2013,ISR,Pulbic employment services and administration,0.02
+2014,ISR,Pulbic employment services and administration,0.02
+2015,ISR,Pulbic employment services and administration,0.02
+2016,ISR,Pulbic employment services and administration,0.03
+2017,ISR,Pulbic employment services and administration,0.03
+2018,ISR,Pulbic employment services and administration,0.03
+2019,ISR,Pulbic employment services and administration,0.03
+2004,ISR,Start-up incentives,0
+2005,ISR,Start-up incentives,0
+2006,ISR,Start-up incentives,0
+2007,ISR,Start-up incentives,0
+2008,ISR,Start-up incentives,0
+2009,ISR,Start-up incentives,0
+2010,ISR,Start-up incentives,0
+2011,ISR,Start-up incentives,0
+2012,ISR,Start-up incentives,0
+2013,ISR,Start-up incentives,0
+2014,ISR,Start-up incentives,0
+2015,ISR,Start-up incentives,0
+2016,ISR,Start-up incentives,0
+2017,ISR,Start-up incentives,0
+2018,ISR,Start-up incentives,0
+2019,ISR,Start-up incentives,0
+2004,ISR,Training,0.05
+2005,ISR,Training,0.09
+2006,ISR,Training,0.09
+2007,ISR,Training,0.09
+2008,ISR,Training,0.07
+2009,ISR,Training,0.08
+2010,ISR,Training,0.08
+2011,ISR,Training,0.08
+2012,ISR,Training,0.06
+2013,ISR,Training,0.07
+2014,ISR,Training,0.06
+2015,ISR,Training,0.06
+2016,ISR,Training,0.06
+2017,ISR,Training,0.07
+2018,ISR,Training,0.07
+2019,ISR,Training,0.07
+2003,SVN,Direct job creation,0.1
+2004,SVN,Direct job creation,0.09
+2005,SVN,Direct job creation,0.08
+2006,SVN,Direct job creation,0.07
+2007,SVN,Direct job creation,0.05
+2008,SVN,Direct job creation,0.04
+2009,SVN,Direct job creation,0.06
+2010,SVN,Direct job creation,0.13
+2011,SVN,Direct job creation,0.07
+2012,SVN,Direct job creation,0.06
+2013,SVN,Direct job creation,0.12
+2014,SVN,Direct job creation,0.1
+2015,SVN,Direct job creation,0.09
+2016,SVN,Direct job creation,0.08
+2017,SVN,Direct job creation,0.07
+2018,SVN,Direct job creation,0.06
+2019,SVN,Direct job creation,0.03
+2020,SVN,Direct job creation,0.03
+2003,SVN,Employment incentives,0.06
+2004,SVN,Employment incentives,0.05
+2005,SVN,Employment incentives,0.04
+2006,SVN,Employment incentives,0.03
+2007,SVN,Employment incentives,0.02
+2008,SVN,Employment incentives,0.01
+2009,SVN,Employment incentives,0.05
+2010,SVN,Employment incentives,0.09
+2011,SVN,Employment incentives,0.04
+2012,SVN,Employment incentives,0.03
+2013,SVN,Employment incentives,0.06
+2014,SVN,Employment incentives,0.08
+2015,SVN,Employment incentives,0.02
+2016,SVN,Employment incentives,0.06
+2017,SVN,Employment incentives,0.06
+2018,SVN,Employment incentives,0.04
+2019,SVN,Employment incentives,0.05
+2020,SVN,Employment incentives,0.05
+2003,SVN,Start-up incentives,0.01
+2004,SVN,Start-up incentives,0.01
+2005,SVN,Start-up incentives,0.02
+2006,SVN,Start-up incentives,0.02
+2007,SVN,Start-up incentives,0
+2008,SVN,Start-up incentives,0.02
+2009,SVN,Start-up incentives,0.05
+2010,SVN,Start-up incentives,0.06
+2011,SVN,Start-up incentives,0.06
+2012,SVN,Start-up incentives,0.04
+2013,SVN,Start-up incentives,0.05
+2014,SVN,Start-up incentives,0.03
+2015,SVN,Start-up incentives,0
+2016,SVN,Start-up incentives,0
+2017,SVN,Start-up incentives,0
+2018,SVN,Start-up incentives,0.01
+2019,SVN,Start-up incentives,0
+2020,SVN,Start-up incentives,0
+2004,SVN,Training,0.04
+2005,SVN,Training,0.05
+2006,SVN,Training,0.06
+2007,SVN,Training,0.03
+2008,SVN,Training,0.02
+2009,SVN,Training,0.08
+2010,SVN,Training,0.12
+2011,SVN,Training,0.08
+2012,SVN,Training,0.04
+2013,SVN,Training,0.05
+2014,SVN,Training,0.06
+2015,SVN,Training,0.04
+2016,SVN,Training,0.01
+2017,SVN,Training,0.03
+2018,SVN,Training,0.05
+2019,SVN,Training,0.04
+2020,SVN,Training,0.05
+2000,AUS,Pulbic employment services and administration,0.2
+2001,AUS,Pulbic employment services and administration,0.19
+2002,AUS,Pulbic employment services and administration,0.17
+2003,AUS,Pulbic employment services and administration,0.18
+2004,AUS,Pulbic employment services and administration,0.22
+2005,AUS,Pulbic employment services and administration,0.21
+2006,AUS,Pulbic employment services and administration,0.19
+2007,AUS,Pulbic employment services and administration,0.17
+2008,AUS,Pulbic employment services and administration,0.16
+2009,AUS,Pulbic employment services and administration,0.19
+2010,AUS,Pulbic employment services and administration,0.18
+2011,AUS,Pulbic employment services and administration,0.17
+2012,AUS,Pulbic employment services and administration,0.16
+2013,AUS,Pulbic employment services and administration,0.15
+2014,AUS,Pulbic employment services and administration,0.17
+2015,AUS,Pulbic employment services and administration,0.15
+2016,AUS,Pulbic employment services and administration,0.16
+2017,AUS,Pulbic employment services and administration,0.16
+2018,AUS,Pulbic employment services and administration,0.15
+2019,AUS,Pulbic employment services and administration,0.17
+2020,AUS,Pulbic employment services and administration,0.19
+2000,AUS,Sheltered and supported employment and rehabilitation,0.05
+2001,AUS,Sheltered and supported employment and rehabilitation,0.05
+2002,AUS,Sheltered and supported employment and rehabilitation,0.05
+2003,AUS,Sheltered and supported employment and rehabilitation,0.05
+2004,AUS,Sheltered and supported employment and rehabilitation,0.05
+2005,AUS,Sheltered and supported employment and rehabilitation,0.05
+2006,AUS,Sheltered and supported employment and rehabilitation,0.05
+2007,AUS,Sheltered and supported employment and rehabilitation,0.06
+2008,AUS,Sheltered and supported employment and rehabilitation,0.06
+2009,AUS,Sheltered and supported employment and rehabilitation,0.07
+2010,AUS,Sheltered and supported employment and rehabilitation,0.07
+2011,AUS,Sheltered and supported employment and rehabilitation,0.07
+2012,AUS,Sheltered and supported employment and rehabilitation,0.07
+2013,AUS,Sheltered and supported employment and rehabilitation,0.06
+2014,AUS,Sheltered and supported employment and rehabilitation,0.06
+2015,AUS,Sheltered and supported employment and rehabilitation,0.06
+2016,AUS,Sheltered and supported employment and rehabilitation,0.06
+2017,AUS,Sheltered and supported employment and rehabilitation,0.05
+2018,AUS,Sheltered and supported employment and rehabilitation,0.05
+2019,AUS,Sheltered and supported employment and rehabilitation,0.06
+2020,AUS,Sheltered and supported employment and rehabilitation,0.07
+2000,AUT,Pulbic employment services and administration,0.13
+2001,AUT,Pulbic employment services and administration,0.14
+2002,AUT,Pulbic employment services and administration,0.15
+2003,AUT,Pulbic employment services and administration,0.17
+2004,AUT,Pulbic employment services and administration,0.17
+2005,AUT,Pulbic employment services and administration,0.16
+2006,AUT,Pulbic employment services and administration,0.16
+2007,AUT,Pulbic employment services and administration,0.16
+2008,AUT,Pulbic employment services and administration,0.15
+2009,AUT,Pulbic employment services and administration,0.17
+2010,AUT,Pulbic employment services and administration,0.18
+2011,AUT,Pulbic employment services and administration,0.17
+2012,AUT,Pulbic employment services and administration,0.17
+2013,AUT,Pulbic employment services and administration,0.17
+2014,AUT,Pulbic employment services and administration,0.17
+2015,AUT,Pulbic employment services and administration,0.17
+2016,AUT,Pulbic employment services and administration,0.17
+2017,AUT,Pulbic employment services and administration,0.18
+2018,AUT,Pulbic employment services and administration,0.17
+2019,AUT,Pulbic employment services and administration,0.18
+2020,AUT,Pulbic employment services and administration,0.22
+2000,AUT,Sheltered and supported employment and rehabilitation,0.02
+2001,AUT,Sheltered and supported employment and rehabilitation,0.03
+2002,AUT,Sheltered and supported employment and rehabilitation,0.03
+2003,AUT,Sheltered and supported employment and rehabilitation,0.03
+2004,AUT,Sheltered and supported employment and rehabilitation,0.04
+2005,AUT,Sheltered and supported employment and rehabilitation,0.03
+2006,AUT,Sheltered and supported employment and rehabilitation,0.03
+2007,AUT,Sheltered and supported employment and rehabilitation,0.03
+2008,AUT,Sheltered and supported employment and rehabilitation,0.04
+2009,AUT,Sheltered and supported employment and rehabilitation,0.04
+2010,AUT,Sheltered and supported employment and rehabilitation,0.03
+2011,AUT,Sheltered and supported employment and rehabilitation,0.03
+2012,AUT,Sheltered and supported employment and rehabilitation,0.03
+2013,AUT,Sheltered and supported employment and rehabilitation,0.02
+2014,AUT,Sheltered and supported employment and rehabilitation,0.02
+2015,AUT,Sheltered and supported employment and rehabilitation,0.02
+2016,AUT,Sheltered and supported employment and rehabilitation,0.02
+2017,AUT,Sheltered and supported employment and rehabilitation,0.02
+2018,AUT,Sheltered and supported employment and rehabilitation,0.02
+2019,AUT,Sheltered and supported employment and rehabilitation,0.02
+2020,AUT,Sheltered and supported employment and rehabilitation,0.02
+2000,BEL,Sheltered and supported employment and rehabilitation,0.11
+2001,BEL,Sheltered and supported employment and rehabilitation,0.11
+2002,BEL,Sheltered and supported employment and rehabilitation,0.12
+2003,BEL,Sheltered and supported employment and rehabilitation,0.12
+2004,BEL,Sheltered and supported employment and rehabilitation,0.12
+2005,BEL,Sheltered and supported employment and rehabilitation,0.12
+2006,BEL,Sheltered and supported employment and rehabilitation,0.11
+2007,BEL,Sheltered and supported employment and rehabilitation,0.11
+2008,BEL,Sheltered and supported employment and rehabilitation,0.12
+2009,BEL,Sheltered and supported employment and rehabilitation,0.14
+2010,BEL,Sheltered and supported employment and rehabilitation,0.13
+2011,BEL,Sheltered and supported employment and rehabilitation,0.14
+2012,BEL,Sheltered and supported employment and rehabilitation,0.14
+2013,BEL,Sheltered and supported employment and rehabilitation,0.14
+2014,BEL,Sheltered and supported employment and rehabilitation,0.14
+2015,BEL,Sheltered and supported employment and rehabilitation,0.14
+2016,BEL,Sheltered and supported employment and rehabilitation,0.13
+2017,BEL,Sheltered and supported employment and rehabilitation,0.13
+2018,BEL,Sheltered and supported employment and rehabilitation,0.14
+2019,BEL,Sheltered and supported employment and rehabilitation,0.14
+2020,BEL,Sheltered and supported employment and rehabilitation,0.14
+2000,CAN,Pulbic employment services and administration,0.2
+2001,CAN,Pulbic employment services and administration,0.21
+2002,CAN,Pulbic employment services and administration,0.19
+2003,CAN,Pulbic employment services and administration,0.19
+2004,CAN,Pulbic employment services and administration,0.18
+2005,CAN,Pulbic employment services and administration,0.16
+2006,CAN,Pulbic employment services and administration,0.15
+2007,CAN,Pulbic employment services and administration,0.13
+2008,CAN,Pulbic employment services and administration,0.13
+2009,CAN,Pulbic employment services and administration,0.13
+2010,CAN,Pulbic employment services and administration,0.14
+2011,CAN,Pulbic employment services and administration,0.11
+2012,CAN,Pulbic employment services and administration,0.1
+2013,CAN,Pulbic employment services and administration,0.1
+2014,CAN,Pulbic employment services and administration,0.1
+2015,CAN,Pulbic employment services and administration,0.12
+2016,CAN,Pulbic employment services and administration,0.13
+2017,CAN,Pulbic employment services and administration,0.12
+2018,CAN,Pulbic employment services and administration,0.11
+2019,CAN,Pulbic employment services and administration,0.1
+2020,CAN,Pulbic employment services and administration,0.14
+2000,CAN,Sheltered and supported employment and rehabilitation,0.02
+2001,CAN,Sheltered and supported employment and rehabilitation,0.02
+2002,CAN,Sheltered and supported employment and rehabilitation,0.02
+2003,CAN,Sheltered and supported employment and rehabilitation,0.02
+2004,CAN,Sheltered and supported employment and rehabilitation,0.02
+2005,CAN,Sheltered and supported employment and rehabilitation,0.02
+2006,CAN,Sheltered and supported employment and rehabilitation,0.02
+2007,CAN,Sheltered and supported employment and rehabilitation,0.02
+2008,CAN,Sheltered and supported employment and rehabilitation,0.01
+2009,CAN,Sheltered and supported employment and rehabilitation,0.02
+2010,CAN,Sheltered and supported employment and rehabilitation,0.01
+2011,CAN,Sheltered and supported employment and rehabilitation,0.01
+2012,CAN,Sheltered and supported employment and rehabilitation,0.01
+2013,CAN,Sheltered and supported employment and rehabilitation,0.01
+2014,CAN,Sheltered and supported employment and rehabilitation,0.01
+2015,CAN,Sheltered and supported employment and rehabilitation,0.01
+2016,CAN,Sheltered and supported employment and rehabilitation,0.01
+2017,CAN,Sheltered and supported employment and rehabilitation,0.01
+2018,CAN,Sheltered and supported employment and rehabilitation,0
+2019,CAN,Sheltered and supported employment and rehabilitation,0
+2020,CAN,Sheltered and supported employment and rehabilitation,0
+2000,CZE,Pulbic employment services and administration,0.07
+2001,CZE,Pulbic employment services and administration,0.07
+2002,CZE,Pulbic employment services and administration,0.06
+2003,CZE,Pulbic employment services and administration,0.07
+2004,CZE,Pulbic employment services and administration,0.11
+2005,CZE,Pulbic employment services and administration,0.12
+2006,CZE,Pulbic employment services and administration,0.12
+2007,CZE,Pulbic employment services and administration,0.12
+2008,CZE,Pulbic employment services and administration,0.11
+2009,CZE,Pulbic employment services and administration,0.12
+2010,CZE,Pulbic employment services and administration,0.11
+2011,CZE,Pulbic employment services and administration,0.09
+2012,CZE,Pulbic employment services and administration,0.11
+2013,CZE,Pulbic employment services and administration,0.1
+2014,CZE,Pulbic employment services and administration,0.12
+2015,CZE,Pulbic employment services and administration,0.12
+2016,CZE,Pulbic employment services and administration,0.11
+2017,CZE,Pulbic employment services and administration,0.11
+2018,CZE,Pulbic employment services and administration,0.12
+2019,CZE,Pulbic employment services and administration,0.12
+2020,CZE,Pulbic employment services and administration,0.12
+2000,CZE,Sheltered and supported employment and rehabilitation,0.01
+2001,CZE,Sheltered and supported employment and rehabilitation,0.01
+2002,CZE,Sheltered and supported employment and rehabilitation,0.03
+2003,CZE,Sheltered and supported employment and rehabilitation,0.03
+2004,CZE,Sheltered and supported employment and rehabilitation,0.03
+2005,CZE,Sheltered and supported employment and rehabilitation,0.03
+2006,CZE,Sheltered and supported employment and rehabilitation,0.05
+2007,CZE,Sheltered and supported employment and rehabilitation,0.06
+2008,CZE,Sheltered and supported employment and rehabilitation,0.06
+2009,CZE,Sheltered and supported employment and rehabilitation,0.07
+2010,CZE,Sheltered and supported employment and rehabilitation,0.08
+2011,CZE,Sheltered and supported employment and rehabilitation,0.09
+2012,CZE,Sheltered and supported employment and rehabilitation,0.09
+2013,CZE,Sheltered and supported employment and rehabilitation,0.09
+2014,CZE,Sheltered and supported employment and rehabilitation,0.09
+2015,CZE,Sheltered and supported employment and rehabilitation,0.09
+2016,CZE,Sheltered and supported employment and rehabilitation,0.1
+2017,CZE,Sheltered and supported employment and rehabilitation,0.11
+2018,CZE,Sheltered and supported employment and rehabilitation,0.13
+2019,CZE,Sheltered and supported employment and rehabilitation,0.13
+2020,CZE,Sheltered and supported employment and rehabilitation,0.15
+2000,DNK,Pulbic employment services and administration,0.28
+2001,DNK,Pulbic employment services and administration,0.28
+2002,DNK,Pulbic employment services and administration,0.27
+2003,DNK,Pulbic employment services and administration,0.28
+2004,DNK,Pulbic employment services and administration,0.33
+2005,DNK,Pulbic employment services and administration,0.31
+2006,DNK,Pulbic employment services and administration,0.29
+2007,DNK,Pulbic employment services and administration,0.25
+2008,DNK,Pulbic employment services and administration,0.28
+2009,DNK,Pulbic employment services and administration,0.32
+2010,DNK,Pulbic employment services and administration,0.39
+2011,DNK,Pulbic employment services and administration,0.37
+2012,DNK,Pulbic employment services and administration,0.37
+2013,DNK,Pulbic employment services and administration,0.38
+2014,DNK,Pulbic employment services and administration,0.39
+2015,DNK,Pulbic employment services and administration,0.39
+2016,DNK,Pulbic employment services and administration,0.4
+2017,DNK,Pulbic employment services and administration,0.39
+2018,DNK,Pulbic employment services and administration,0.38
+2019,DNK,Pulbic employment services and administration,0.38
+2020,DNK,Pulbic employment services and administration,0.37
+2000,DNK,Sheltered and supported employment and rehabilitation,0.4
+2001,DNK,Sheltered and supported employment and rehabilitation,0.42
+2002,DNK,Sheltered and supported employment and rehabilitation,0.49
+2003,DNK,Sheltered and supported employment and rehabilitation,0.5
+2004,DNK,Sheltered and supported employment and rehabilitation,0.49
+2005,DNK,Sheltered and supported employment and rehabilitation,0.5
+2006,DNK,Sheltered and supported employment and rehabilitation,0.56
+2007,DNK,Sheltered and supported employment and rehabilitation,0.54
+2008,DNK,Sheltered and supported employment and rehabilitation,0.59
+2009,DNK,Sheltered and supported employment and rehabilitation,0.66
+2010,DNK,Sheltered and supported employment and rehabilitation,0.64
+2011,DNK,Sheltered and supported employment and rehabilitation,0.62
+2012,DNK,Sheltered and supported employment and rehabilitation,0.59
+2013,DNK,Sheltered and supported employment and rehabilitation,0.56
+2014,DNK,Sheltered and supported employment and rehabilitation,0.65
+2015,DNK,Sheltered and supported employment and rehabilitation,0.77
+2016,DNK,Sheltered and supported employment and rehabilitation,0.86
+2017,DNK,Sheltered and supported employment and rehabilitation,0.9
+2018,DNK,Sheltered and supported employment and rehabilitation,0.94
+2019,DNK,Sheltered and supported employment and rehabilitation,0.98
+2020,DNK,Sheltered and supported employment and rehabilitation,0.98
+2000,FIN,Pulbic employment services and administration,0.14
+2001,FIN,Pulbic employment services and administration,0.14
+2002,FIN,Pulbic employment services and administration,0.14
+2003,FIN,Pulbic employment services and administration,0.15
+2004,FIN,Pulbic employment services and administration,0.17
+2005,FIN,Pulbic employment services and administration,0.17
+2006,FIN,Pulbic employment services and administration,0.16
+2007,FIN,Pulbic employment services and administration,0.15
+2008,FIN,Pulbic employment services and administration,0.14
+2009,FIN,Pulbic employment services and administration,0.16
+2010,FIN,Pulbic employment services and administration,0.17
+2011,FIN,Pulbic employment services and administration,0.16
+2012,FIN,Pulbic employment services and administration,0.15
+2013,FIN,Pulbic employment services and administration,0.14
+2014,FIN,Pulbic employment services and administration,0.15
+2015,FIN,Pulbic employment services and administration,0.15
+2016,FIN,Pulbic employment services and administration,0.15
+2017,FIN,Pulbic employment services and administration,0.14
+2018,FIN,Pulbic employment services and administration,0.15
+2019,FIN,Pulbic employment services and administration,0.15
+2020,FIN,Pulbic employment services and administration,0.16
+2000,FIN,Sheltered and supported employment and rehabilitation,0.08
+2001,FIN,Sheltered and supported employment and rehabilitation,0.09
+2002,FIN,Sheltered and supported employment and rehabilitation,0.09
+2003,FIN,Sheltered and supported employment and rehabilitation,0.09
+2004,FIN,Sheltered and supported employment and rehabilitation,0.09
+2005,FIN,Sheltered and supported employment and rehabilitation,0.09
+2006,FIN,Sheltered and supported employment and rehabilitation,0.09
+2007,FIN,Sheltered and supported employment and rehabilitation,0.09
+2008,FIN,Sheltered and supported employment and rehabilitation,0.08
+2009,FIN,Sheltered and supported employment and rehabilitation,0.09
+2010,FIN,Sheltered and supported employment and rehabilitation,0.09
+2011,FIN,Sheltered and supported employment and rehabilitation,0.09
+2012,FIN,Sheltered and supported employment and rehabilitation,0.1
+2013,FIN,Sheltered and supported employment and rehabilitation,0.1
+2014,FIN,Sheltered and supported employment and rehabilitation,0.1
+2015,FIN,Sheltered and supported employment and rehabilitation,0.11
+2016,FIN,Sheltered and supported employment and rehabilitation,0.12
+2017,FIN,Sheltered and supported employment and rehabilitation,0.12
+2018,FIN,Sheltered and supported employment and rehabilitation,0.12
+2019,FIN,Sheltered and supported employment and rehabilitation,0.13
+2020,FIN,Sheltered and supported employment and rehabilitation,0.15
+2000,FRA,Pulbic employment services and administration,0.18
+2001,FRA,Pulbic employment services and administration,0.2
+2002,FRA,Pulbic employment services and administration,0.22
+2003,FRA,Pulbic employment services and administration,0.24
+2004,FRA,Pulbic employment services and administration,0.24
+2005,FRA,Pulbic employment services and administration,0.24
+2006,FRA,Pulbic employment services and administration,0.25
+2007,FRA,Pulbic employment services and administration,0.23
+2008,FRA,Pulbic employment services and administration,0.21
+2009,FRA,Pulbic employment services and administration,0.27
+2010,FRA,Pulbic employment services and administration,0.31
+2011,FRA,Pulbic employment services and administration,0.27
+2012,FRA,Pulbic employment services and administration,0.27
+2013,FRA,Pulbic employment services and administration,0.27
+2014,FRA,Pulbic employment services and administration,0.27
+2015,FRA,Pulbic employment services and administration,0.26
+2016,FRA,Pulbic employment services and administration,0.25
+2017,FRA,Pulbic employment services and administration,0.25
+2018,FRA,Pulbic employment services and administration,0.23
+2019,FRA,Pulbic employment services and administration,0.24
+2020,FRA,Pulbic employment services and administration,0.25
+2000,FRA,Sheltered and supported employment and rehabilitation,0.08
+2001,FRA,Sheltered and supported employment and rehabilitation,0.09
+2002,FRA,Sheltered and supported employment and rehabilitation,0.09
+2003,FRA,Sheltered and supported employment and rehabilitation,0.08
+2004,FRA,Sheltered and supported employment and rehabilitation,0.08
+2005,FRA,Sheltered and supported employment and rehabilitation,0.08
+2006,FRA,Sheltered and supported employment and rehabilitation,0.08
+2007,FRA,Sheltered and supported employment and rehabilitation,0.09
+2008,FRA,Sheltered and supported employment and rehabilitation,0.09
+2009,FRA,Sheltered and supported employment and rehabilitation,0.11
+2010,FRA,Sheltered and supported employment and rehabilitation,0.11
+2011,FRA,Sheltered and supported employment and rehabilitation,0.09
+2012,FRA,Sheltered and supported employment and rehabilitation,0.09
+2013,FRA,Sheltered and supported employment and rehabilitation,0.09
+2014,FRA,Sheltered and supported employment and rehabilitation,0.09
+2015,FRA,Sheltered and supported employment and rehabilitation,0.09
+2016,FRA,Sheltered and supported employment and rehabilitation,0.1
+2017,FRA,Sheltered and supported employment and rehabilitation,0.09
+2018,FRA,Sheltered and supported employment and rehabilitation,0.09
+2019,FRA,Sheltered and supported employment and rehabilitation,0.09
+2020,FRA,Sheltered and supported employment and rehabilitation,0.09
+2000,DEU,Pulbic employment services and administration,0.22
+2001,DEU,Pulbic employment services and administration,0.22
+2002,DEU,Pulbic employment services and administration,0.23
+2003,DEU,Pulbic employment services and administration,0.24
+2004,DEU,Pulbic employment services and administration,0.23
+2005,DEU,Pulbic employment services and administration,0.31
+2006,DEU,Pulbic employment services and administration,0.3
+2007,DEU,Pulbic employment services and administration,0.31
+2008,DEU,Pulbic employment services and administration,0.33
+2009,DEU,Pulbic employment services and administration,0.38
+2010,DEU,Pulbic employment services and administration,0.38
+2011,DEU,Pulbic employment services and administration,0.34
+2012,DEU,Pulbic employment services and administration,0.33
+2013,DEU,Pulbic employment services and administration,0.35
+2014,DEU,Pulbic employment services and administration,0.37
+2015,DEU,Pulbic employment services and administration,0.36
+2016,DEU,Pulbic employment services and administration,0.36
+2017,DEU,Pulbic employment services and administration,0.39
+2018,DEU,Pulbic employment services and administration,0.43
+2019,DEU,Pulbic employment services and administration,0.34
+2020,DEU,Pulbic employment services and administration,0.33
+2000,DEU,Sheltered and supported employment and rehabilitation,0.12
+2001,DEU,Sheltered and supported employment and rehabilitation,0.12
+2002,DEU,Sheltered and supported employment and rehabilitation,0.13
+2003,DEU,Sheltered and supported employment and rehabilitation,0.13
+2004,DEU,Sheltered and supported employment and rehabilitation,0.13
+2005,DEU,Sheltered and supported employment and rehabilitation,0.13
+2006,DEU,Sheltered and supported employment and rehabilitation,0.02
+2007,DEU,Sheltered and supported employment and rehabilitation,0.02
+2008,DEU,Sheltered and supported employment and rehabilitation,0.03
+2009,DEU,Sheltered and supported employment and rehabilitation,0.03
+2010,DEU,Sheltered and supported employment and rehabilitation,0.03
+2011,DEU,Sheltered and supported employment and rehabilitation,0.03
+2012,DEU,Sheltered and supported employment and rehabilitation,0.02
+2013,DEU,Sheltered and supported employment and rehabilitation,0.02
+2014,DEU,Sheltered and supported employment and rehabilitation,0.02
+2015,DEU,Sheltered and supported employment and rehabilitation,0.02
+2016,DEU,Sheltered and supported employment and rehabilitation,0.02
+2017,DEU,Sheltered and supported employment and rehabilitation,0.02
+2018,DEU,Sheltered and supported employment and rehabilitation,0.02
+2019,DEU,Sheltered and supported employment and rehabilitation,0.02
+2020,DEU,Sheltered and supported employment and rehabilitation,0.02
+2000,GRC,Sheltered and supported employment and rehabilitation,0
+2001,GRC,Sheltered and supported employment and rehabilitation,0
+2002,GRC,Sheltered and supported employment and rehabilitation,0
+2003,GRC,Sheltered and supported employment and rehabilitation,0
+2004,GRC,Sheltered and supported employment and rehabilitation,0
+2005,GRC,Sheltered and supported employment and rehabilitation,0
+2006,GRC,Sheltered and supported employment and rehabilitation,0
+2007,GRC,Sheltered and supported employment and rehabilitation,0
+2008,GRC,Sheltered and supported employment and rehabilitation,0
+2009,GRC,Sheltered and supported employment and rehabilitation,0
+2010,GRC,Sheltered and supported employment and rehabilitation,0
+2011,GRC,Sheltered and supported employment and rehabilitation,0
+2012,GRC,Sheltered and supported employment and rehabilitation,0
+2013,GRC,Sheltered and supported employment and rehabilitation,0
+2014,GRC,Sheltered and supported employment and rehabilitation,0
+2015,GRC,Sheltered and supported employment and rehabilitation,0
+2016,GRC,Sheltered and supported employment and rehabilitation,0
+2017,GRC,Sheltered and supported employment and rehabilitation,0
+2018,GRC,Sheltered and supported employment and rehabilitation,0
+2019,GRC,Sheltered and supported employment and rehabilitation,0
+2020,GRC,Sheltered and supported employment and rehabilitation,0
+2000,HUN,Sheltered and supported employment and rehabilitation,0
+2001,HUN,Sheltered and supported employment and rehabilitation,0
+2002,HUN,Sheltered and supported employment and rehabilitation,0
+2003,HUN,Sheltered and supported employment and rehabilitation,0
+2004,HUN,Sheltered and supported employment and rehabilitation,0
+2005,HUN,Sheltered and supported employment and rehabilitation,0
+2006,HUN,Sheltered and supported employment and rehabilitation,0
+2007,HUN,Sheltered and supported employment and rehabilitation,0
+2008,HUN,Sheltered and supported employment and rehabilitation,0
+2009,HUN,Sheltered and supported employment and rehabilitation,0
+2010,HUN,Sheltered and supported employment and rehabilitation,0
+2011,HUN,Sheltered and supported employment and rehabilitation,0
+2012,HUN,Sheltered and supported employment and rehabilitation,0
+2013,HUN,Sheltered and supported employment and rehabilitation,0
+2014,HUN,Sheltered and supported employment and rehabilitation,0
+2015,HUN,Sheltered and supported employment and rehabilitation,0
+2016,HUN,Sheltered and supported employment and rehabilitation,0
+2017,HUN,Sheltered and supported employment and rehabilitation,0
+2018,HUN,Sheltered and supported employment and rehabilitation,0
+2019,HUN,Sheltered and supported employment and rehabilitation,0
+2020,HUN,Sheltered and supported employment and rehabilitation,0
+2000,IRL,Pulbic employment services and administration,0.13
+2001,IRL,Pulbic employment services and administration,0.13
+2002,IRL,Pulbic employment services and administration,0.13
+2003,IRL,Pulbic employment services and administration,0.12
+2004,IRL,Pulbic employment services and administration,0.12
+2005,IRL,Pulbic employment services and administration,0.12
+2006,IRL,Pulbic employment services and administration,0.11
+2007,IRL,Pulbic employment services and administration,0.12
+2008,IRL,Pulbic employment services and administration,0.13
+2009,IRL,Pulbic employment services and administration,0.17
+2010,IRL,Pulbic employment services and administration,0.17
+2011,IRL,Pulbic employment services and administration,0.16
+2012,IRL,Pulbic employment services and administration,0.17
+2013,IRL,Pulbic employment services and administration,0.16
+2014,IRL,Pulbic employment services and administration,0.12
+2015,IRL,Pulbic employment services and administration,0.09
+2016,IRL,Pulbic employment services and administration,0.08
+2017,IRL,Pulbic employment services and administration,0.06
+2018,IRL,Pulbic employment services and administration,0.05
+2019,IRL,Pulbic employment services and administration,0.05
+2020,IRL,Pulbic employment services and administration,0.05
+2000,IRL,Sheltered and supported employment and rehabilitation,0
+2001,IRL,Sheltered and supported employment and rehabilitation,0.01
+2002,IRL,Sheltered and supported employment and rehabilitation,0.01
+2003,IRL,Sheltered and supported employment and rehabilitation,0.01
+2004,IRL,Sheltered and supported employment and rehabilitation,0.01
+2005,IRL,Sheltered and supported employment and rehabilitation,0.01
+2006,IRL,Sheltered and supported employment and rehabilitation,0.01
+2007,IRL,Sheltered and supported employment and rehabilitation,0.01
+2008,IRL,Sheltered and supported employment and rehabilitation,0.01
+2009,IRL,Sheltered and supported employment and rehabilitation,0.01
+2010,IRL,Sheltered and supported employment and rehabilitation,0.01
+2011,IRL,Sheltered and supported employment and rehabilitation,0.01
+2012,IRL,Sheltered and supported employment and rehabilitation,0.01
+2013,IRL,Sheltered and supported employment and rehabilitation,0.01
+2014,IRL,Sheltered and supported employment and rehabilitation,0.01
+2015,IRL,Sheltered and supported employment and rehabilitation,0.01
+2016,IRL,Sheltered and supported employment and rehabilitation,0.01
+2017,IRL,Sheltered and supported employment and rehabilitation,0.01
+2018,IRL,Sheltered and supported employment and rehabilitation,0.01
+2019,IRL,Sheltered and supported employment and rehabilitation,0.01
+2020,IRL,Sheltered and supported employment and rehabilitation,0.01
+2000,ITA,Sheltered and supported employment and rehabilitation,0
+2001,ITA,Sheltered and supported employment and rehabilitation,0
+2002,ITA,Sheltered and supported employment and rehabilitation,0
+2003,ITA,Sheltered and supported employment and rehabilitation,0
+2004,ITA,Sheltered and supported employment and rehabilitation,0
+2005,ITA,Sheltered and supported employment and rehabilitation,0
+2006,ITA,Sheltered and supported employment and rehabilitation,0
+2007,ITA,Sheltered and supported employment and rehabilitation,0
+2008,ITA,Sheltered and supported employment and rehabilitation,0
+2009,ITA,Sheltered and supported employment and rehabilitation,0
+2010,ITA,Sheltered and supported employment and rehabilitation,0
+2011,ITA,Sheltered and supported employment and rehabilitation,0.01
+2012,ITA,Sheltered and supported employment and rehabilitation,0.01
+2013,ITA,Sheltered and supported employment and rehabilitation,0.01
+2014,ITA,Sheltered and supported employment and rehabilitation,0.01
+2015,ITA,Sheltered and supported employment and rehabilitation,0
+2016,ITA,Sheltered and supported employment and rehabilitation,0.01
+2017,ITA,Sheltered and supported employment and rehabilitation,0.01
+2018,ITA,Sheltered and supported employment and rehabilitation,0.01
+2019,ITA,Sheltered and supported employment and rehabilitation,0.01
+2020,ITA,Sheltered and supported employment and rehabilitation,0.01
+2000,JPN,Pulbic employment services and administration,0.13
+2001,JPN,Pulbic employment services and administration,0.14
+2002,JPN,Pulbic employment services and administration,0.12
+2003,JPN,Pulbic employment services and administration,0.1
+2004,JPN,Pulbic employment services and administration,0.08
+2005,JPN,Pulbic employment services and administration,0.08
+2006,JPN,Pulbic employment services and administration,0.07
+2007,JPN,Pulbic employment services and administration,0.07
+2008,JPN,Pulbic employment services and administration,0.05
+2009,JPN,Pulbic employment services and administration,0.06
+2010,JPN,Pulbic employment services and administration,0.05
+2011,JPN,Pulbic employment services and administration,0.06
+2012,JPN,Pulbic employment services and administration,0.07
+2013,JPN,Pulbic employment services and administration,0.07
+2014,JPN,Pulbic employment services and administration,0.07
+2015,JPN,Pulbic employment services and administration,0.07
+2016,JPN,Pulbic employment services and administration,0.07
+2017,JPN,Pulbic employment services and administration,0.07
+2018,JPN,Pulbic employment services and administration,0.07
+2019,JPN,Pulbic employment services and administration,0.07
+2020,JPN,Pulbic employment services and administration,0.07
+2000,JPN,Sheltered and supported employment and rehabilitation,0
+2001,JPN,Sheltered and supported employment and rehabilitation,0
+2002,JPN,Sheltered and supported employment and rehabilitation,0
+2003,JPN,Sheltered and supported employment and rehabilitation,0
+2004,JPN,Sheltered and supported employment and rehabilitation,0
+2005,JPN,Sheltered and supported employment and rehabilitation,0
+2006,JPN,Sheltered and supported employment and rehabilitation,0
+2007,JPN,Sheltered and supported employment and rehabilitation,0
+2008,JPN,Sheltered and supported employment and rehabilitation,0
+2009,JPN,Sheltered and supported employment and rehabilitation,0
+2010,JPN,Sheltered and supported employment and rehabilitation,0
+2011,JPN,Sheltered and supported employment and rehabilitation,0.01
+2012,JPN,Sheltered and supported employment and rehabilitation,0.01
+2013,JPN,Sheltered and supported employment and rehabilitation,0
+2014,JPN,Sheltered and supported employment and rehabilitation,0
+2015,JPN,Sheltered and supported employment and rehabilitation,0.01
+2016,JPN,Sheltered and supported employment and rehabilitation,0.01
+2017,JPN,Sheltered and supported employment and rehabilitation,0.01
+2018,JPN,Sheltered and supported employment and rehabilitation,0.01
+2019,JPN,Sheltered and supported employment and rehabilitation,0.01
+2020,JPN,Sheltered and supported employment and rehabilitation,0.01
+2000,KOR,Sheltered and supported employment and rehabilitation,0.03
+2001,KOR,Sheltered and supported employment and rehabilitation,0.02
+2002,KOR,Sheltered and supported employment and rehabilitation,0.02
+2003,KOR,Sheltered and supported employment and rehabilitation,0.02
+2004,KOR,Sheltered and supported employment and rehabilitation,0.02
+2005,KOR,Sheltered and supported employment and rehabilitation,0.02
+2006,KOR,Sheltered and supported employment and rehabilitation,0
+2007,KOR,Sheltered and supported employment and rehabilitation,0
+2008,KOR,Sheltered and supported employment and rehabilitation,0.01
+2009,KOR,Sheltered and supported employment and rehabilitation,0.02
+2010,KOR,Sheltered and supported employment and rehabilitation,0.01
+2011,KOR,Sheltered and supported employment and rehabilitation,0.01
+2012,KOR,Sheltered and supported employment and rehabilitation,0.02
+2013,KOR,Sheltered and supported employment and rehabilitation,0.02
+2014,KOR,Sheltered and supported employment and rehabilitation,0.02
+2015,KOR,Sheltered and supported employment and rehabilitation,0.02
+2016,KOR,Sheltered and supported employment and rehabilitation,0.02
+2017,KOR,Sheltered and supported employment and rehabilitation,0.02
+2018,KOR,Sheltered and supported employment and rehabilitation,0.02
+2019,KOR,Sheltered and supported employment and rehabilitation,0.03
+2020,KOR,Sheltered and supported employment and rehabilitation,0.03
+2000,LUX,Pulbic employment services and administration,0.05
+2001,LUX,Pulbic employment services and administration,0.04
+2002,LUX,Pulbic employment services and administration,0.04
+2003,LUX,Pulbic employment services and administration,0.05
+2004,LUX,Pulbic employment services and administration,0.05
+2005,LUX,Pulbic employment services and administration,0.05
+2006,LUX,Pulbic employment services and administration,0.04
+2007,LUX,Pulbic employment services and administration,0.04
+2008,LUX,Pulbic employment services and administration,0.04
+2009,LUX,Pulbic employment services and administration,0.05
+2010,LUX,Pulbic employment services and administration,0.05
+2011,LUX,Pulbic employment services and administration,0.05
+2012,LUX,Pulbic employment services and administration,0.06
+2013,LUX,Pulbic employment services and administration,0.04
+2014,LUX,Pulbic employment services and administration,0.05
+2015,LUX,Pulbic employment services and administration,0.06
+2016,LUX,Pulbic employment services and administration,0.06
+2017,LUX,Pulbic employment services and administration,0.06
+2018,LUX,Pulbic employment services and administration,0.06
+2019,LUX,Pulbic employment services and administration,0.08
+2020,LUX,Pulbic employment services and administration,0.08
+2000,LUX,Sheltered and supported employment and rehabilitation,0
+2001,LUX,Sheltered and supported employment and rehabilitation,0
+2002,LUX,Sheltered and supported employment and rehabilitation,0.01
+2003,LUX,Sheltered and supported employment and rehabilitation,0.01
+2004,LUX,Sheltered and supported employment and rehabilitation,0.01
+2005,LUX,Sheltered and supported employment and rehabilitation,0.01
+2006,LUX,Sheltered and supported employment and rehabilitation,0.01
+2007,LUX,Sheltered and supported employment and rehabilitation,0.01
+2008,LUX,Sheltered and supported employment and rehabilitation,0.01
+2009,LUX,Sheltered and supported employment and rehabilitation,0.01
+2010,LUX,Sheltered and supported employment and rehabilitation,0.01
+2011,LUX,Sheltered and supported employment and rehabilitation,0.01
+2012,LUX,Sheltered and supported employment and rehabilitation,0.01
+2013,LUX,Sheltered and supported employment and rehabilitation,0.01
+2014,LUX,Sheltered and supported employment and rehabilitation,0
+2015,LUX,Sheltered and supported employment and rehabilitation,0
+2016,LUX,Sheltered and supported employment and rehabilitation,0
+2017,LUX,Sheltered and supported employment and rehabilitation,0.01
+2018,LUX,Sheltered and supported employment and rehabilitation,0.01
+2019,LUX,Sheltered and supported employment and rehabilitation,0
+2020,LUX,Sheltered and supported employment and rehabilitation,0
+2000,MEX,Sheltered and supported employment and rehabilitation,0
+2001,MEX,Sheltered and supported employment and rehabilitation,0
+2002,MEX,Sheltered and supported employment and rehabilitation,0
+2003,MEX,Sheltered and supported employment and rehabilitation,0
+2004,MEX,Sheltered and supported employment and rehabilitation,0
+2005,MEX,Sheltered and supported employment and rehabilitation,0
+2006,MEX,Sheltered and supported employment and rehabilitation,0
+2007,MEX,Sheltered and supported employment and rehabilitation,0
+2008,MEX,Sheltered and supported employment and rehabilitation,0
+2009,MEX,Sheltered and supported employment and rehabilitation,0
+2010,MEX,Sheltered and supported employment and rehabilitation,0
+2011,MEX,Sheltered and supported employment and rehabilitation,0
+2012,MEX,Sheltered and supported employment and rehabilitation,0
+2013,MEX,Sheltered and supported employment and rehabilitation,0
+2014,MEX,Sheltered and supported employment and rehabilitation,0
+2015,MEX,Sheltered and supported employment and rehabilitation,0
+2016,MEX,Sheltered and supported employment and rehabilitation,0
+2017,MEX,Sheltered and supported employment and rehabilitation,0
+2018,MEX,Sheltered and supported employment and rehabilitation,0
+2019,MEX,Sheltered and supported employment and rehabilitation,0
+2020,MEX,Sheltered and supported employment and rehabilitation,0
+2000,NLD,Pulbic employment services and administration,0.39
+2001,NLD,Pulbic employment services and administration,0.37
+2002,NLD,Pulbic employment services and administration,0.42
+2003,NLD,Pulbic employment services and administration,0.41
+2004,NLD,Pulbic employment services and administration,0.39
+2005,NLD,Pulbic employment services and administration,0.36
+2006,NLD,Pulbic employment services and administration,0.35
+2007,NLD,Pulbic employment services and administration,0.31
+2008,NLD,Pulbic employment services and administration,0.28
+2009,NLD,Pulbic employment services and administration,0.35
+2010,NLD,Pulbic employment services and administration,0.36
+2011,NLD,Pulbic employment services and administration,0.34
+2012,NLD,Pulbic employment services and administration,0.27
+2013,NLD,Pulbic employment services and administration,0.25
+2014,NLD,Pulbic employment services and administration,0.27
+2015,NLD,Pulbic employment services and administration,0.24
+2016,NLD,Pulbic employment services and administration,0.23
+2017,NLD,Pulbic employment services and administration,0.22
+2018,NLD,Pulbic employment services and administration,0.2
+2019,NLD,Pulbic employment services and administration,0.18
+2020,NLD,Pulbic employment services and administration,0.15
+2000,NLD,Sheltered and supported employment and rehabilitation,0.51
+2001,NLD,Sheltered and supported employment and rehabilitation,0.54
+2002,NLD,Sheltered and supported employment and rehabilitation,0.56
+2003,NLD,Sheltered and supported employment and rehabilitation,0.55
+2004,NLD,Sheltered and supported employment and rehabilitation,0.52
+2005,NLD,Sheltered and supported employment and rehabilitation,0.49
+2006,NLD,Sheltered and supported employment and rehabilitation,0.46
+2007,NLD,Sheltered and supported employment and rehabilitation,0.43
+2008,NLD,Sheltered and supported employment and rehabilitation,0.43
+2009,NLD,Sheltered and supported employment and rehabilitation,0.46
+2010,NLD,Sheltered and supported employment and rehabilitation,0.44
+2011,NLD,Sheltered and supported employment and rehabilitation,0.41
+2012,NLD,Sheltered and supported employment and rehabilitation,0.42
+2013,NLD,Sheltered and supported employment and rehabilitation,0.41
+2014,NLD,Sheltered and supported employment and rehabilitation,0.4
+2015,NLD,Sheltered and supported employment and rehabilitation,0.38
+2016,NLD,Sheltered and supported employment and rehabilitation,0.36
+2017,NLD,Sheltered and supported employment and rehabilitation,0.31
+2018,NLD,Sheltered and supported employment and rehabilitation,0.3
+2019,NLD,Sheltered and supported employment and rehabilitation,0.3
+2020,NLD,Sheltered and supported employment and rehabilitation,0.32
+2000,NZL,Pulbic employment services and administration,0.11
+2001,NZL,Pulbic employment services and administration,0.11
+2002,NZL,Pulbic employment services and administration,0.12
+2003,NZL,Pulbic employment services and administration,0.13
+2004,NZL,Pulbic employment services and administration,0.13
+2005,NZL,Pulbic employment services and administration,0.13
+2006,NZL,Pulbic employment services and administration,0.13
+2007,NZL,Pulbic employment services and administration,0.12
+2008,NZL,Pulbic employment services and administration,0.13
+2009,NZL,Pulbic employment services and administration,0.13
+2010,NZL,Pulbic employment services and administration,0.14
+2011,NZL,Pulbic employment services and administration,0.12
+2012,NZL,Pulbic employment services and administration,0.13
+2013,NZL,Pulbic employment services and administration,0.1
+2014,NZL,Pulbic employment services and administration,0.13
+2015,NZL,Pulbic employment services and administration,0.14
+2016,NZL,Pulbic employment services and administration,0.14
+2017,NZL,Pulbic employment services and administration,0.13
+2018,NZL,Pulbic employment services and administration,0.12
+2019,NZL,Pulbic employment services and administration,0.14
+2000,NZL,Sheltered and supported employment and rehabilitation,0.05
+2001,NZL,Sheltered and supported employment and rehabilitation,0.04
+2002,NZL,Sheltered and supported employment and rehabilitation,0.04
+2003,NZL,Sheltered and supported employment and rehabilitation,0.04
+2004,NZL,Sheltered and supported employment and rehabilitation,0.05
+2005,NZL,Sheltered and supported employment and rehabilitation,0.05
+2006,NZL,Sheltered and supported employment and rehabilitation,0.05
+2007,NZL,Sheltered and supported employment and rehabilitation,0.05
+2008,NZL,Sheltered and supported employment and rehabilitation,0.05
+2009,NZL,Sheltered and supported employment and rehabilitation,0.05
+2010,NZL,Sheltered and supported employment and rehabilitation,0.05
+2011,NZL,Sheltered and supported employment and rehabilitation,0.05
+2012,NZL,Sheltered and supported employment and rehabilitation,0.05
+2013,NZL,Sheltered and supported employment and rehabilitation,0.04
+2014,NZL,Sheltered and supported employment and rehabilitation,0.04
+2015,NZL,Sheltered and supported employment and rehabilitation,0.04
+2016,NZL,Sheltered and supported employment and rehabilitation,0.03
+2017,NZL,Sheltered and supported employment and rehabilitation,0.03
+2018,NZL,Sheltered and supported employment and rehabilitation,0.03
+2019,NZL,Sheltered and supported employment and rehabilitation,0.03
+2000,NOR,Sheltered and supported employment and rehabilitation,0.07
+2001,NOR,Sheltered and supported employment and rehabilitation,0.06
+2002,NOR,Sheltered and supported employment and rehabilitation,0.08
+2003,NOR,Sheltered and supported employment and rehabilitation,0.12
+2004,NOR,Sheltered and supported employment and rehabilitation,0.13
+2005,NOR,Sheltered and supported employment and rehabilitation,0.14
+2006,NOR,Sheltered and supported employment and rehabilitation,0.12
+2007,NOR,Sheltered and supported employment and rehabilitation,0.14
+2008,NOR,Sheltered and supported employment and rehabilitation,0.14
+2009,NOR,Sheltered and supported employment and rehabilitation,0.17
+2010,NOR,Sheltered and supported employment and rehabilitation,0.19
+2011,NOR,Sheltered and supported employment and rehabilitation,0.18
+2012,NOR,Sheltered and supported employment and rehabilitation,0.18
+2013,NOR,Sheltered and supported employment and rehabilitation,0.18
+2014,NOR,Sheltered and supported employment and rehabilitation,0.19
+2015,NOR,Sheltered and supported employment and rehabilitation,0.2
+2016,NOR,Sheltered and supported employment and rehabilitation,0.17
+2017,NOR,Sheltered and supported employment and rehabilitation,0.11
+2018,NOR,Sheltered and supported employment and rehabilitation,0.11
+2019,NOR,Sheltered and supported employment and rehabilitation,0.11
+2020,NOR,Sheltered and supported employment and rehabilitation,0.11
+2000,POL,Sheltered and supported employment and rehabilitation,0.08
+2001,POL,Sheltered and supported employment and rehabilitation,0.08
+2002,POL,Sheltered and supported employment and rehabilitation,0.08
+2003,POL,Sheltered and supported employment and rehabilitation,0.14
+2004,POL,Sheltered and supported employment and rehabilitation,0.13
+2005,POL,Sheltered and supported employment and rehabilitation,0.17
+2006,POL,Sheltered and supported employment and rehabilitation,0.17
+2007,POL,Sheltered and supported employment and rehabilitation,0.18
+2008,POL,Sheltered and supported employment and rehabilitation,0.21
+2009,POL,Sheltered and supported employment and rehabilitation,0.21
+2010,POL,Sheltered and supported employment and rehabilitation,0.21
+2011,POL,Sheltered and supported employment and rehabilitation,0.19
+2012,POL,Sheltered and supported employment and rehabilitation,0.19
+2013,POL,Sheltered and supported employment and rehabilitation,0.2
+2014,POL,Sheltered and supported employment and rehabilitation,0.18
+2015,POL,Sheltered and supported employment and rehabilitation,0.17
+2016,POL,Sheltered and supported employment and rehabilitation,0.17
+2017,POL,Sheltered and supported employment and rehabilitation,0.17
+2018,POL,Sheltered and supported employment and rehabilitation,0.17
+2019,POL,Sheltered and supported employment and rehabilitation,0.15
+2020,POL,Sheltered and supported employment and rehabilitation,0.15
+2000,PRT,Pulbic employment services and administration,0.13
+2001,PRT,Pulbic employment services and administration,0.14
+2002,PRT,Pulbic employment services and administration,0.15
+2003,PRT,Pulbic employment services and administration,0.15
+2004,PRT,Pulbic employment services and administration,0.13
+2005,PRT,Pulbic employment services and administration,0.16
+2006,PRT,Pulbic employment services and administration,0.14
+2007,PRT,Pulbic employment services and administration,0.14
+2008,PRT,Pulbic employment services and administration,0.14
+2009,PRT,Pulbic employment services and administration,0.14
+2010,PRT,Pulbic employment services and administration,0.13
+2011,PRT,Pulbic employment services and administration,0.13
+2012,PRT,Pulbic employment services and administration,0.11
+2013,PRT,Pulbic employment services and administration,0.12
+2014,PRT,Pulbic employment services and administration,0.13
+2015,PRT,Pulbic employment services and administration,0.13
+2016,PRT,Pulbic employment services and administration,0.13
+2017,PRT,Pulbic employment services and administration,0.1
+2018,PRT,Pulbic employment services and administration,0.1
+2019,PRT,Pulbic employment services and administration,0.09
+2020,PRT,Pulbic employment services and administration,0.13
+2000,PRT,Sheltered and supported employment and rehabilitation,0.03
+2001,PRT,Sheltered and supported employment and rehabilitation,0.04
+2002,PRT,Sheltered and supported employment and rehabilitation,0.04
+2003,PRT,Sheltered and supported employment and rehabilitation,0.04
+2004,PRT,Sheltered and supported employment and rehabilitation,0.04
+2005,PRT,Sheltered and supported employment and rehabilitation,0.04
+2006,PRT,Sheltered and supported employment and rehabilitation,0.04
+2007,PRT,Sheltered and supported employment and rehabilitation,0.04
+2008,PRT,Sheltered and supported employment and rehabilitation,0.03
+2009,PRT,Sheltered and supported employment and rehabilitation,0.04
+2010,PRT,Sheltered and supported employment and rehabilitation,0.04
+2011,PRT,Sheltered and supported employment and rehabilitation,0.02
+2012,PRT,Sheltered and supported employment and rehabilitation,0.01
+2013,PRT,Sheltered and supported employment and rehabilitation,0.04
+2014,PRT,Sheltered and supported employment and rehabilitation,0.01
+2015,PRT,Sheltered and supported employment and rehabilitation,0.01
+2016,PRT,Sheltered and supported employment and rehabilitation,0.01
+2017,PRT,Sheltered and supported employment and rehabilitation,0.01
+2018,PRT,Sheltered and supported employment and rehabilitation,0.01
+2019,PRT,Sheltered and supported employment and rehabilitation,0.02
+2020,PRT,Sheltered and supported employment and rehabilitation,0.02
+2000,SVK,Pulbic employment services and administration,0.15
+2001,SVK,Pulbic employment services and administration,0.15
+2002,SVK,Pulbic employment services and administration,0.16
+2003,SVK,Pulbic employment services and administration,0.16
+2004,SVK,Pulbic employment services and administration,0.16
+2005,SVK,Pulbic employment services and administration,0.17
+2006,SVK,Pulbic employment services and administration,0.17
+2007,SVK,Pulbic employment services and administration,0.1
+2008,SVK,Pulbic employment services and administration,0.11
+2009,SVK,Pulbic employment services and administration,0.1
+2010,SVK,Pulbic employment services and administration,0.1
+2011,SVK,Pulbic employment services and administration,0.07
+2012,SVK,Pulbic employment services and administration,0.06
+2013,SVK,Pulbic employment services and administration,0.05
+2014,SVK,Pulbic employment services and administration,0.04
+2015,SVK,Pulbic employment services and administration,0.03
+2016,SVK,Pulbic employment services and administration,0.05
+2017,SVK,Pulbic employment services and administration,0.04
+2018,SVK,Pulbic employment services and administration,0.04
+2019,SVK,Pulbic employment services and administration,0.04
+2020,SVK,Pulbic employment services and administration,0.05
+2000,SVK,Sheltered and supported employment and rehabilitation,0.02
+2001,SVK,Sheltered and supported employment and rehabilitation,0.02
+2002,SVK,Sheltered and supported employment and rehabilitation,0.03
+2003,SVK,Sheltered and supported employment and rehabilitation,0.02
+2004,SVK,Sheltered and supported employment and rehabilitation,0
+2005,SVK,Sheltered and supported employment and rehabilitation,0.01
+2006,SVK,Sheltered and supported employment and rehabilitation,0.01
+2007,SVK,Sheltered and supported employment and rehabilitation,0.01
+2008,SVK,Sheltered and supported employment and rehabilitation,0.02
+2009,SVK,Sheltered and supported employment and rehabilitation,0.03
+2010,SVK,Sheltered and supported employment and rehabilitation,0.03
+2011,SVK,Sheltered and supported employment and rehabilitation,0.04
+2012,SVK,Sheltered and supported employment and rehabilitation,0.05
+2013,SVK,Sheltered and supported employment and rehabilitation,0.05
+2014,SVK,Sheltered and supported employment and rehabilitation,0.05
+2015,SVK,Sheltered and supported employment and rehabilitation,0.04
+2016,SVK,Sheltered and supported employment and rehabilitation,0.04
+2017,SVK,Sheltered and supported employment and rehabilitation,0.04
+2018,SVK,Sheltered and supported employment and rehabilitation,0.04
+2019,SVK,Sheltered and supported employment and rehabilitation,0.04
+2020,SVK,Sheltered and supported employment and rehabilitation,0.04
+2000,ESP,Pulbic employment services and administration,0.08
+2001,ESP,Pulbic employment services and administration,0.07
+2002,ESP,Pulbic employment services and administration,0.08
+2003,ESP,Pulbic employment services and administration,0.09
+2004,ESP,Pulbic employment services and administration,0.11
+2005,ESP,Pulbic employment services and administration,0.12
+2006,ESP,Pulbic employment services and administration,0.13
+2007,ESP,Pulbic employment services and administration,0.12
+2008,ESP,Pulbic employment services and administration,0.13
+2009,ESP,Pulbic employment services and administration,0.16
+2010,ESP,Pulbic employment services and administration,0.16
+2011,ESP,Pulbic employment services and administration,0.15
+2012,ESP,Pulbic employment services and administration,0.08
+2013,ESP,Pulbic employment services and administration,0.09
+2014,ESP,Pulbic employment services and administration,0.11
+2015,ESP,Pulbic employment services and administration,0.15
+2016,ESP,Pulbic employment services and administration,0.14
+2017,ESP,Pulbic employment services and administration,0.15
+2018,ESP,Pulbic employment services and administration,0.15
+2019,ESP,Pulbic employment services and administration,0.13
+2020,ESP,Pulbic employment services and administration,0.15
+2000,ESP,Sheltered and supported employment and rehabilitation,0.06
+2001,ESP,Sheltered and supported employment and rehabilitation,0.05
+2002,ESP,Sheltered and supported employment and rehabilitation,0.05
+2003,ESP,Sheltered and supported employment and rehabilitation,0.06
+2004,ESP,Sheltered and supported employment and rehabilitation,0.07
+2005,ESP,Sheltered and supported employment and rehabilitation,0.02
+2006,ESP,Sheltered and supported employment and rehabilitation,0.02
+2007,ESP,Sheltered and supported employment and rehabilitation,0.06
+2008,ESP,Sheltered and supported employment and rehabilitation,0.07
+2009,ESP,Sheltered and supported employment and rehabilitation,0.07
+2010,ESP,Sheltered and supported employment and rehabilitation,0.08
+2011,ESP,Sheltered and supported employment and rehabilitation,0.08
+2012,ESP,Sheltered and supported employment and rehabilitation,0.08
+2013,ESP,Sheltered and supported employment and rehabilitation,0.06
+2014,ESP,Sheltered and supported employment and rehabilitation,0.06
+2015,ESP,Sheltered and supported employment and rehabilitation,0.08
+2016,ESP,Sheltered and supported employment and rehabilitation,0.08
+2017,ESP,Sheltered and supported employment and rehabilitation,0.1
+2018,ESP,Sheltered and supported employment and rehabilitation,0.11
+2019,ESP,Sheltered and supported employment and rehabilitation,0.13
+2020,ESP,Sheltered and supported employment and rehabilitation,0.14
+2000,SWE,Sheltered and supported employment and rehabilitation,0.23
+2001,SWE,Sheltered and supported employment and rehabilitation,0.22
+2002,SWE,Sheltered and supported employment and rehabilitation,0.21
+2003,SWE,Sheltered and supported employment and rehabilitation,0.2
+2004,SWE,Sheltered and supported employment and rehabilitation,0.2
+2005,SWE,Sheltered and supported employment and rehabilitation,0.19
+2006,SWE,Sheltered and supported employment and rehabilitation,0.18
+2007,SWE,Sheltered and supported employment and rehabilitation,0.17
+2008,SWE,Sheltered and supported employment and rehabilitation,0.18
+2009,SWE,Sheltered and supported employment and rehabilitation,0.21
+2010,SWE,Sheltered and supported employment and rehabilitation,0.22
+2011,SWE,Sheltered and supported employment and rehabilitation,0.24
+2012,SWE,Sheltered and supported employment and rehabilitation,0.25
+2013,SWE,Sheltered and supported employment and rehabilitation,0.27
+2014,SWE,Sheltered and supported employment and rehabilitation,0.27
+2015,SWE,Sheltered and supported employment and rehabilitation,0.26
+2016,SWE,Sheltered and supported employment and rehabilitation,0.26
+2017,SWE,Sheltered and supported employment and rehabilitation,0.24
+2018,SWE,Sheltered and supported employment and rehabilitation,0.24
+2019,SWE,Sheltered and supported employment and rehabilitation,0.24
+2020,SWE,Sheltered and supported employment and rehabilitation,0.24
+2000,CHE,Pulbic employment services and administration,0.1
+2001,CHE,Pulbic employment services and administration,0.09
+2002,CHE,Pulbic employment services and administration,0.1
+2003,CHE,Pulbic employment services and administration,0.11
+2004,CHE,Pulbic employment services and administration,0.12
+2005,CHE,Pulbic employment services and administration,0.12
+2006,CHE,Pulbic employment services and administration,0.11
+2007,CHE,Pulbic employment services and administration,0.1
+2008,CHE,Pulbic employment services and administration,0.09
+2009,CHE,Pulbic employment services and administration,0.11
+2010,CHE,Pulbic employment services and administration,0.11
+2011,CHE,Pulbic employment services and administration,0.11
+2012,CHE,Pulbic employment services and administration,0.1
+2013,CHE,Pulbic employment services and administration,0.1
+2014,CHE,Pulbic employment services and administration,0.1
+2015,CHE,Pulbic employment services and administration,0.1
+2016,CHE,Pulbic employment services and administration,0.11
+2017,CHE,Pulbic employment services and administration,0.11
+2018,CHE,Pulbic employment services and administration,0.11
+2019,CHE,Pulbic employment services and administration,0.1
+2020,CHE,Pulbic employment services and administration,0.12
+2000,CHE,Sheltered and supported employment and rehabilitation,0.19
+2001,CHE,Sheltered and supported employment and rehabilitation,0.2
+2002,CHE,Sheltered and supported employment and rehabilitation,0.19
+2003,CHE,Sheltered and supported employment and rehabilitation,0.2
+2004,CHE,Sheltered and supported employment and rehabilitation,0.21
+2005,CHE,Sheltered and supported employment and rehabilitation,0.2
+2006,CHE,Sheltered and supported employment and rehabilitation,0.19
+2007,CHE,Sheltered and supported employment and rehabilitation,0.18
+2008,CHE,Sheltered and supported employment and rehabilitation,0.18
+2009,CHE,Sheltered and supported employment and rehabilitation,0.2
+2010,CHE,Sheltered and supported employment and rehabilitation,0.2
+2011,CHE,Sheltered and supported employment and rehabilitation,0.21
+2012,CHE,Sheltered and supported employment and rehabilitation,0.2
+2013,CHE,Sheltered and supported employment and rehabilitation,0.21
+2014,CHE,Sheltered and supported employment and rehabilitation,0.22
+2015,CHE,Sheltered and supported employment and rehabilitation,0.22
+2016,CHE,Sheltered and supported employment and rehabilitation,0.23
+2017,CHE,Sheltered and supported employment and rehabilitation,0.23
+2018,CHE,Sheltered and supported employment and rehabilitation,0.23
+2019,CHE,Sheltered and supported employment and rehabilitation,0.23
+2020,CHE,Sheltered and supported employment and rehabilitation,0.25
+2000,GBR,Pulbic employment services and administration,0.14
+2001,GBR,Pulbic employment services and administration,0.23
+2002,GBR,Pulbic employment services and administration,0.21
+2003,GBR,Pulbic employment services and administration,0.35
+2004,GBR,Pulbic employment services and administration,0.36
+2005,GBR,Pulbic employment services and administration,0.34
+2006,GBR,Pulbic employment services and administration,0.25
+2007,GBR,Pulbic employment services and administration,0.25
+2008,GBR,Pulbic employment services and administration,0.28
+2009,GBR,Pulbic employment services and administration,0.33
+2010,GBR,Pulbic employment services and administration,0.3
+2011,GBR,Pulbic employment services and administration,0.19
+2000,GBR,Sheltered and supported employment and rehabilitation,0.01
+2001,GBR,Sheltered and supported employment and rehabilitation,0.01
+2002,GBR,Sheltered and supported employment and rehabilitation,0.01
+2003,GBR,Sheltered and supported employment and rehabilitation,0.01
+2004,GBR,Sheltered and supported employment and rehabilitation,0.01
+2005,GBR,Sheltered and supported employment and rehabilitation,0.01
+2006,GBR,Sheltered and supported employment and rehabilitation,0.01
+2007,GBR,Sheltered and supported employment and rehabilitation,0.01
+2008,GBR,Sheltered and supported employment and rehabilitation,0.01
+2009,GBR,Sheltered and supported employment and rehabilitation,0.01
+2010,GBR,Sheltered and supported employment and rehabilitation,0.01
+2011,GBR,Sheltered and supported employment and rehabilitation,0
+2000,USA,Sheltered and supported employment and rehabilitation,0.03
+2001,USA,Sheltered and supported employment and rehabilitation,0.03
+2002,USA,Sheltered and supported employment and rehabilitation,0.03
+2003,USA,Sheltered and supported employment and rehabilitation,0.03
+2004,USA,Sheltered and supported employment and rehabilitation,0.03
+2005,USA,Sheltered and supported employment and rehabilitation,0.03
+2006,USA,Sheltered and supported employment and rehabilitation,0.03
+2007,USA,Sheltered and supported employment and rehabilitation,0.03
+2008,USA,Sheltered and supported employment and rehabilitation,0.04
+2009,USA,Sheltered and supported employment and rehabilitation,0.03
+2010,USA,Sheltered and supported employment and rehabilitation,0.03
+2011,USA,Sheltered and supported employment and rehabilitation,0.03
+2012,USA,Sheltered and supported employment and rehabilitation,0.03
+2013,USA,Sheltered and supported employment and rehabilitation,0.03
+2014,USA,Sheltered and supported employment and rehabilitation,0.03
+2015,USA,Sheltered and supported employment and rehabilitation,0.03
+2016,USA,Sheltered and supported employment and rehabilitation,0.03
+2017,USA,Sheltered and supported employment and rehabilitation,0.03
+2018,USA,Sheltered and supported employment and rehabilitation,0.03
+2019,USA,Sheltered and supported employment and rehabilitation,0.03
+2020,USA,Sheltered and supported employment and rehabilitation,0.03
+2004,CHL,Sheltered and supported employment and rehabilitation,0
+2005,CHL,Sheltered and supported employment and rehabilitation,0
+2006,CHL,Sheltered and supported employment and rehabilitation,0
+2007,CHL,Sheltered and supported employment and rehabilitation,0
+2008,CHL,Sheltered and supported employment and rehabilitation,0
+2009,CHL,Sheltered and supported employment and rehabilitation,0
+2010,CHL,Sheltered and supported employment and rehabilitation,0
+2011,CHL,Sheltered and supported employment and rehabilitation,0
+2012,CHL,Sheltered and supported employment and rehabilitation,0
+2013,CHL,Sheltered and supported employment and rehabilitation,0
+2014,CHL,Sheltered and supported employment and rehabilitation,0
+2015,CHL,Sheltered and supported employment and rehabilitation,0
+2016,CHL,Sheltered and supported employment and rehabilitation,0
+2017,CHL,Sheltered and supported employment and rehabilitation,0
+2018,CHL,Sheltered and supported employment and rehabilitation,0
+2019,CHL,Sheltered and supported employment and rehabilitation,0
+2020,CHL,Sheltered and supported employment and rehabilitation,0
+2003,EST,Pulbic employment services and administration,0.03
+2004,EST,Pulbic employment services and administration,0.02
+2005,EST,Pulbic employment services and administration,0.02
+2006,EST,Pulbic employment services and administration,0.02
+2007,EST,Pulbic employment services and administration,0.03
+2008,EST,Pulbic employment services and administration,0.04
+2009,EST,Pulbic employment services and administration,0.1
+2010,EST,Pulbic employment services and administration,0.09
+2011,EST,Pulbic employment services and administration,0.09
+2012,EST,Pulbic employment services and administration,0.1
+2013,EST,Pulbic employment services and administration,0.1
+2014,EST,Pulbic employment services and administration,0.1
+2015,EST,Pulbic employment services and administration,0.11
+2016,EST,Pulbic employment services and administration,0.13
+2017,EST,Pulbic employment services and administration,0.14
+2018,EST,Pulbic employment services and administration,0.14
+2019,EST,Pulbic employment services and administration,0.15
+2020,EST,Pulbic employment services and administration,0.17
+2003,EST,Sheltered and supported employment and rehabilitation,0
+2004,EST,Sheltered and supported employment and rehabilitation,0
+2005,EST,Sheltered and supported employment and rehabilitation,0
+2006,EST,Sheltered and supported employment and rehabilitation,0
+2007,EST,Sheltered and supported employment and rehabilitation,0
+2008,EST,Sheltered and supported employment and rehabilitation,0
+2009,EST,Sheltered and supported employment and rehabilitation,0
+2010,EST,Sheltered and supported employment and rehabilitation,0
+2011,EST,Sheltered and supported employment and rehabilitation,0
+2012,EST,Sheltered and supported employment and rehabilitation,0
+2013,EST,Sheltered and supported employment and rehabilitation,0
+2014,EST,Sheltered and supported employment and rehabilitation,0
+2015,EST,Sheltered and supported employment and rehabilitation,0
+2016,EST,Sheltered and supported employment and rehabilitation,0.07
+2017,EST,Sheltered and supported employment and rehabilitation,0.17
+2018,EST,Sheltered and supported employment and rehabilitation,0.19
+2019,EST,Sheltered and supported employment and rehabilitation,0.2
+2020,EST,Sheltered and supported employment and rehabilitation,0.22
+2004,ISR,Sheltered and supported employment and rehabilitation,0.03
+2005,ISR,Sheltered and supported employment and rehabilitation,0.03
+2006,ISR,Sheltered and supported employment and rehabilitation,0.03
+2007,ISR,Sheltered and supported employment and rehabilitation,0.03
+2008,ISR,Sheltered and supported employment and rehabilitation,0.03
+2009,ISR,Sheltered and supported employment and rehabilitation,0.03
+2010,ISR,Sheltered and supported employment and rehabilitation,0.03
+2011,ISR,Sheltered and supported employment and rehabilitation,0.02
+2012,ISR,Sheltered and supported employment and rehabilitation,0.03
+2013,ISR,Sheltered and supported employment and rehabilitation,0.03
+2014,ISR,Sheltered and supported employment and rehabilitation,0.03
+2015,ISR,Sheltered and supported employment and rehabilitation,0.03
+2016,ISR,Sheltered and supported employment and rehabilitation,0.02
+2017,ISR,Sheltered and supported employment and rehabilitation,0.02
+2018,ISR,Sheltered and supported employment and rehabilitation,0.02
+2019,ISR,Sheltered and supported employment and rehabilitation,0.02
+2003,SVN,Pulbic employment services and administration,0.01
+2004,SVN,Pulbic employment services and administration,0
+2005,SVN,Pulbic employment services and administration,0.1
+2006,SVN,Pulbic employment services and administration,0.09
+2007,SVN,Pulbic employment services and administration,0.09
+2008,SVN,Pulbic employment services and administration,0.08
+2009,SVN,Pulbic employment services and administration,0.1
+2010,SVN,Pulbic employment services and administration,0.11
+2011,SVN,Pulbic employment services and administration,0.1
+2012,SVN,Pulbic employment services and administration,0.09
+2013,SVN,Pulbic employment services and administration,0.09
+2014,SVN,Pulbic employment services and administration,0.09
+2015,SVN,Pulbic employment services and administration,0.08
+2016,SVN,Pulbic employment services and administration,0.07
+2017,SVN,Pulbic employment services and administration,0.08
+2018,SVN,Pulbic employment services and administration,0.07
+2019,SVN,Pulbic employment services and administration,0.07
+2020,SVN,Pulbic employment services and administration,0.08
+2003,SVN,Sheltered and supported employment and rehabilitation,0.03
+2004,SVN,Sheltered and supported employment and rehabilitation,0.03
+2005,SVN,Sheltered and supported employment and rehabilitation,0.01
+2006,SVN,Sheltered and supported employment and rehabilitation,0
+2007,SVN,Sheltered and supported employment and rehabilitation,0
+2008,SVN,Sheltered and supported employment and rehabilitation,0
+2009,SVN,Sheltered and supported employment and rehabilitation,0
+2010,SVN,Sheltered and supported employment and rehabilitation,0
+2011,SVN,Sheltered and supported employment and rehabilitation,0
+2012,SVN,Sheltered and supported employment and rehabilitation,0
+2013,SVN,Sheltered and supported employment and rehabilitation,0
+2014,SVN,Sheltered and supported employment and rehabilitation,0
+2015,SVN,Sheltered and supported employment and rehabilitation,0
+2016,SVN,Sheltered and supported employment and rehabilitation,0
+2017,SVN,Sheltered and supported employment and rehabilitation,0
+2018,SVN,Sheltered and supported employment and rehabilitation,0
+2019,SVN,Sheltered and supported employment and rehabilitation,0
+2020,SVN,Sheltered and supported employment and rehabilitation,0
+2003,LVA,Direct job creation,0.04
+2004,LVA,Direct job creation,0.02
+2005,LVA,Direct job creation,0.02
+2006,LVA,Direct job creation,0.01
+2007,LVA,Direct job creation,0.01
+2008,LVA,Direct job creation,0.02
+2009,LVA,Direct job creation,0.09
+2010,LVA,Direct job creation,0.21
+2011,LVA,Direct job creation,0.13
+2012,LVA,Direct job creation,0.07
+2013,LVA,Direct job creation,0.06
+2014,LVA,Direct job creation,0.03
+2015,LVA,Direct job creation,0.02
+2016,LVA,Direct job creation,0.02
+2017,LVA,Direct job creation,0.02
+2018,LVA,Direct job creation,0.02
+2019,LVA,Direct job creation,0.02
+2020,LVA,Direct job creation,0.02
+2003,LVA,Employment incentives,0.01
+2004,LVA,Employment incentives,0.02
+2005,LVA,Employment incentives,0.02
+2006,LVA,Employment incentives,0.05
+2007,LVA,Employment incentives,0.04
+2008,LVA,Employment incentives,0.02
+2009,LVA,Employment incentives,0.03
+2010,LVA,Employment incentives,0.05
+2011,LVA,Employment incentives,0.06
+2012,LVA,Employment incentives,0.03
+2013,LVA,Employment incentives,0.02
+2014,LVA,Employment incentives,0.02
+2015,LVA,Employment incentives,0.03
+2016,LVA,Employment incentives,0.03
+2017,LVA,Employment incentives,0.04
+2018,LVA,Employment incentives,0.03
+2019,LVA,Employment incentives,0.03
+2020,LVA,Employment incentives,0.03
+2003,LVA,Pulbic employment services and administration,0.04
+2004,LVA,Pulbic employment services and administration,0.05
+2005,LVA,Pulbic employment services and administration,0.06
+2006,LVA,Pulbic employment services and administration,0.06
+2007,LVA,Pulbic employment services and administration,0.06
+2008,LVA,Pulbic employment services and administration,0.05
+2009,LVA,Pulbic employment services and administration,0.04
+2010,LVA,Pulbic employment services and administration,0.05
+2011,LVA,Pulbic employment services and administration,0.05
+2012,LVA,Pulbic employment services and administration,0.05
+2013,LVA,Pulbic employment services and administration,0.04
+2014,LVA,Pulbic employment services and administration,0.05
+2015,LVA,Pulbic employment services and administration,0.04
+2016,LVA,Pulbic employment services and administration,0.05
+2017,LVA,Pulbic employment services and administration,0.06
+2018,LVA,Pulbic employment services and administration,0.07
+2019,LVA,Pulbic employment services and administration,0.05
+2020,LVA,Pulbic employment services and administration,0.04
+2003,LVA,Sheltered and supported employment and rehabilitation,0
+2004,LVA,Sheltered and supported employment and rehabilitation,0
+2005,LVA,Sheltered and supported employment and rehabilitation,0
+2006,LVA,Sheltered and supported employment and rehabilitation,0
+2007,LVA,Sheltered and supported employment and rehabilitation,0
+2008,LVA,Sheltered and supported employment and rehabilitation,0
+2009,LVA,Sheltered and supported employment and rehabilitation,0
+2010,LVA,Sheltered and supported employment and rehabilitation,0
+2011,LVA,Sheltered and supported employment and rehabilitation,0
+2012,LVA,Sheltered and supported employment and rehabilitation,0
+2013,LVA,Sheltered and supported employment and rehabilitation,0
+2014,LVA,Sheltered and supported employment and rehabilitation,0
+2015,LVA,Sheltered and supported employment and rehabilitation,0
+2016,LVA,Sheltered and supported employment and rehabilitation,0
+2017,LVA,Sheltered and supported employment and rehabilitation,0
+2018,LVA,Sheltered and supported employment and rehabilitation,0
+2019,LVA,Sheltered and supported employment and rehabilitation,0
+2020,LVA,Sheltered and supported employment and rehabilitation,0
+2003,LVA,Start-up incentives,0
+2004,LVA,Start-up incentives,0
+2005,LVA,Start-up incentives,0
+2006,LVA,Start-up incentives,0
+2007,LVA,Start-up incentives,0.01
+2008,LVA,Start-up incentives,0.01
+2009,LVA,Start-up incentives,0
+2010,LVA,Start-up incentives,0
+2011,LVA,Start-up incentives,0
+2012,LVA,Start-up incentives,0
+2013,LVA,Start-up incentives,0
+2014,LVA,Start-up incentives,0
+2015,LVA,Start-up incentives,0
+2016,LVA,Start-up incentives,0
+2017,LVA,Start-up incentives,0
+2018,LVA,Start-up incentives,0
+2019,LVA,Start-up incentives,0
+2020,LVA,Start-up incentives,0
+2003,LVA,Training,0.03
+2004,LVA,Training,0.04
+2005,LVA,Training,0.11
+2006,LVA,Training,0.11
+2007,LVA,Training,0.04
+2008,LVA,Training,0.03
+2009,LVA,Training,0.15
+2010,LVA,Training,0.25
+2011,LVA,Training,0.14
+2012,LVA,Training,0.08
+2013,LVA,Training,0.12
+2014,LVA,Training,0.09
+2015,LVA,Training,0.06
+2016,LVA,Training,0.08
+2017,LVA,Training,0.07
+2018,LVA,Training,0.06
+2019,LVA,Training,0.05
+2020,LVA,Training,0.05
+2003,LTU,Direct job creation,0.04
+2004,LTU,Direct job creation,0.05
+2005,LTU,Direct job creation,0.05
+2006,LTU,Direct job creation,0.05
+2007,LTU,Direct job creation,0.02
+2008,LTU,Direct job creation,0.02
+2009,LTU,Direct job creation,0.02
+2010,LTU,Direct job creation,0.05
+2011,LTU,Direct job creation,0.05
+2012,LTU,Direct job creation,0.04
+2013,LTU,Direct job creation,0.04
+2014,LTU,Direct job creation,0.03
+2015,LTU,Direct job creation,0.03
+2016,LTU,Direct job creation,0.03
+2017,LTU,Direct job creation,0.01
+2018,LTU,Direct job creation,0
+2019,LTU,Direct job creation,0
+2020,LTU,Direct job creation,0
+2003,LTU,Employment incentives,0.04
+2004,LTU,Employment incentives,0.04
+2005,LTU,Employment incentives,0.04
+2006,LTU,Employment incentives,0.05
+2007,LTU,Employment incentives,0.06
+2008,LTU,Employment incentives,0.05
+2009,LTU,Employment incentives,0.08
+2010,LTU,Employment incentives,0.09
+2011,LTU,Employment incentives,0.1
+2012,LTU,Employment incentives,0.1
+2013,LTU,Employment incentives,0.09
+2014,LTU,Employment incentives,0.12
+2015,LTU,Employment incentives,0.14
+2016,LTU,Employment incentives,0.12
+2017,LTU,Employment incentives,0.14
+2018,LTU,Employment incentives,0.13
+2019,LTU,Employment incentives,0.11
+2020,LTU,Employment incentives,1.21
+2003,LTU,Pulbic employment services and administration,0.04
+2004,LTU,Pulbic employment services and administration,0.04
+2005,LTU,Pulbic employment services and administration,0.07
+2006,LTU,Pulbic employment services and administration,0.08
+2007,LTU,Pulbic employment services and administration,0.08
+2008,LTU,Pulbic employment services and administration,0.08
+2009,LTU,Pulbic employment services and administration,0.1
+2010,LTU,Pulbic employment services and administration,0.08
+2011,LTU,Pulbic employment services and administration,0.08
+2012,LTU,Pulbic employment services and administration,0.06
+2013,LTU,Pulbic employment services and administration,0.06
+2014,LTU,Pulbic employment services and administration,0.06
+2015,LTU,Pulbic employment services and administration,0.06
+2016,LTU,Pulbic employment services and administration,0.06
+2017,LTU,Pulbic employment services and administration,0.06
+2018,LTU,Pulbic employment services and administration,0.05
+2019,LTU,Pulbic employment services and administration,0.05
+2020,LTU,Pulbic employment services and administration,0.06
+2003,LTU,Sheltered and supported employment and rehabilitation,0
+2004,LTU,Sheltered and supported employment and rehabilitation,0
+2005,LTU,Sheltered and supported employment and rehabilitation,0
+2006,LTU,Sheltered and supported employment and rehabilitation,0.01
+2007,LTU,Sheltered and supported employment and rehabilitation,0.05
+2008,LTU,Sheltered and supported employment and rehabilitation,0.04
+2009,LTU,Sheltered and supported employment and rehabilitation,0.01
+2010,LTU,Sheltered and supported employment and rehabilitation,0.02
+2011,LTU,Sheltered and supported employment and rehabilitation,0.01
+2012,LTU,Sheltered and supported employment and rehabilitation,0.01
+2013,LTU,Sheltered and supported employment and rehabilitation,0.01
+2014,LTU,Sheltered and supported employment and rehabilitation,0.01
+2015,LTU,Sheltered and supported employment and rehabilitation,0.01
+2016,LTU,Sheltered and supported employment and rehabilitation,0.02
+2017,LTU,Sheltered and supported employment and rehabilitation,0.02
+2018,LTU,Sheltered and supported employment and rehabilitation,0.01
+2019,LTU,Sheltered and supported employment and rehabilitation,0.01
+2020,LTU,Sheltered and supported employment and rehabilitation,0.01
+2003,LTU,Start-up incentives,0
+2004,LTU,Start-up incentives,0
+2005,LTU,Start-up incentives,0
+2006,LTU,Start-up incentives,0
+2007,LTU,Start-up incentives,0
+2008,LTU,Start-up incentives,0
+2009,LTU,Start-up incentives,0
+2010,LTU,Start-up incentives,0
+2011,LTU,Start-up incentives,0
+2012,LTU,Start-up incentives,0.01
+2013,LTU,Start-up incentives,0.01
+2014,LTU,Start-up incentives,0
+2015,LTU,Start-up incentives,0
+2016,LTU,Start-up incentives,0
+2017,LTU,Start-up incentives,0
+2018,LTU,Start-up incentives,0
+2019,LTU,Start-up incentives,0
+2020,LTU,Start-up incentives,0.02
+2003,LTU,Training,0.07
+2004,LTU,Training,0.06
+2005,LTU,Training,0.05
+2006,LTU,Training,0.07
+2007,LTU,Training,0.09
+2008,LTU,Training,0.06
+2009,LTU,Training,0.08
+2010,LTU,Training,0.07
+2011,LTU,Training,0.02
+2012,LTU,Training,0.02
+2013,LTU,Training,0.04
+2014,LTU,Training,0.02
+2015,LTU,Training,0.07
+2016,LTU,Training,0.07
+2017,LTU,Training,0.08
+2018,LTU,Training,0.07
+2019,LTU,Training,0.04
+2020,LTU,Training,0.03
+1985,AUS,Total,0.36
+1986,AUS,Total,0.31
+1987,AUS,Total,0.26
+1988,AUS,Total,0.22
+1989,AUS,Total,0.19
+1990,AUS,Total,0.22
+1991,AUS,Total,0.32
+1992,AUS,Total,0.61
+1993,AUS,Total,0.62
+1994,AUS,Total,0.62
+1995,AUS,Total,0.73
+1996,AUS,Total,0.54
+1997,AUS,Total,0.43
+1998,AUS,Total,0.35
+1999,AUS,Total,0.38
+2000,AUS,Total,0.36
+2001,AUS,Total,0.36
+2002,AUS,Total,0.34
+2003,AUS,Total,0.34
+2004,AUS,Total,0.38
+2005,AUS,Total,0.37
+2006,AUS,Total,0.33
+2007,AUS,Total,0.31
+2008,AUS,Total,0.31
+2009,AUS,Total,0.35
+2010,AUS,Total,0.32
+2011,AUS,Total,0.3
+2012,AUS,Total,0.27
+2013,AUS,Total,0.24
+2014,AUS,Total,0.25
+2015,AUS,Total,0.23
+2016,AUS,Total,0.24
+2017,AUS,Total,0.24
+2018,AUS,Total,0.23
+2019,AUS,Total,1.85
+2020,AUS,Total,3.06
+1985,AUT,Total,0.27
+1986,AUT,Total,0.33
+1987,AUT,Total,0.36
+1988,AUT,Total,0.25
+1989,AUT,Total,0.28
+1990,AUT,Total,0.31
+1991,AUT,Total,0.35
+1992,AUT,Total,0.3
+1993,AUT,Total,0.34
+1994,AUT,Total,0.37
+1995,AUT,Total,0.37
+1996,AUT,Total,0.4
+1997,AUT,Total,0.44
+1998,AUT,Total,0.44
+1999,AUT,Total,0.54
+2000,AUT,Total,0.49
+2001,AUT,Total,0.55
+2002,AUT,Total,0.54
+2003,AUT,Total,0.6
+2004,AUT,Total,0.59
+2005,AUT,Total,0.6
+2006,AUT,Total,0.67
+2007,AUT,Total,0.65
+2008,AUT,Total,0.65
+2009,AUT,Total,0.81
+2010,AUT,Total,0.81
+2011,AUT,Total,0.73
+2012,AUT,Total,0.72
+2013,AUT,Total,0.76
+2014,AUT,Total,0.78
+2015,AUT,Total,0.75
+2016,AUT,Total,0.75
+2017,AUT,Total,0.78
+2018,AUT,Total,0.76
+2019,AUT,Total,0.7
+2020,AUT,Total,0.78
+1985,BEL,Total,1.16
+1986,BEL,Total,1.24
+1987,BEL,Total,0.97
+1988,BEL,Total,0.97
+1989,BEL,Total,0.92
+1990,BEL,Total,0.8
+1991,BEL,Total,0.8
+1992,BEL,Total,0.78
+1993,BEL,Total,0.81
+1994,BEL,Total,0.88
+1995,BEL,Total,0.91
+1996,BEL,Total,1.02
+1997,BEL,Total,0.81
+1998,BEL,Total,0.88
+1999,BEL,Total,0.85
+2000,BEL,Total,0.82
+2001,BEL,Total,0.82
+2002,BEL,Total,0.74
+2003,BEL,Total,0.76
+2004,BEL,Total,0.63
+2005,BEL,Total,0.66
+2006,BEL,Total,0.63
+2007,BEL,Total,0.65
+2008,BEL,Total,0.68
+2009,BEL,Total,0.74
+2010,BEL,Total,0.72
+2011,BEL,Total,0.72
+2012,BEL,Total,0.72
+2013,BEL,Total,0.72
+2014,BEL,Total,0.74
+2015,BEL,Total,0.71
+2016,BEL,Total,0.72
+2017,BEL,Total,0.87
+2018,BEL,Total,0.91
+2019,BEL,Total,0.92
+2020,BEL,Total,0.94
+1985,CAN,Total,0.59
+1986,CAN,Total,0.57
+1987,CAN,Total,0.49
+1988,CAN,Total,0.45
+1989,CAN,Total,0.46
+1990,CAN,Total,0.48
+1991,CAN,Total,0.58
+1992,CAN,Total,0.61
+1993,CAN,Total,0.63
+1994,CAN,Total,0.59
+1995,CAN,Total,0.54
+1996,CAN,Total,0.44
+1997,CAN,Total,0.42
+1998,CAN,Total,0.45
+1999,CAN,Total,0.4
+2000,CAN,Total,0.37
+2001,CAN,Total,0.38
+2002,CAN,Total,0.36
+2003,CAN,Total,0.34
+2004,CAN,Total,0.32
+2005,CAN,Total,0.3
+2006,CAN,Total,0.29
+2007,CAN,Total,0.27
+2008,CAN,Total,0.27
+2009,CAN,Total,0.33
+2010,CAN,Total,0.31
+2011,CAN,Total,0.24
+2012,CAN,Total,0.21
+2013,CAN,Total,0.21
+2014,CAN,Total,0.21
+2015,CAN,Total,0.22
+2016,CAN,Total,0.23
+2017,CAN,Total,0.21
+2018,CAN,Total,0.19
+2019,CAN,Total,0.38
+2020,CAN,Total,3.71
+1985,CHE,Total,0.17
+1986,CHE,Total,0.17
+1987,CHE,Total,0.17
+1988,CHE,Total,0.19
+1989,CHE,Total,0.19
+1990,CHE,Total,0.2
+1991,CHE,Total,0.21
+1992,CHE,Total,0.25
+1993,CHE,Total,0.34
+1994,CHE,Total,0.4
+1995,CHE,Total,0.44
+1996,CHE,Total,0.53
+1997,CHE,Total,0.72
+1998,CHE,Total,0.77
+1999,CHE,Total,0.68
+2000,CHE,Total,0.5
+2001,CHE,Total,0.46
+2002,CHE,Total,0.52
+2003,CHE,Total,0.63
+2004,CHE,Total,0.68
+2005,CHE,Total,0.65
+2006,CHE,Total,0.58
+2007,CHE,Total,0.49
+2008,CHE,Total,0.46
+2009,CHE,Total,0.54
+2010,CHE,Total,0.58
+2011,CHE,Total,0.54
+2012,CHE,Total,0.51
+2013,CHE,Total,0.53
+2014,CHE,Total,0.54
+2015,CHE,Total,0.56
+2016,CHE,Total,0.6
+2017,CHE,Total,0.59
+2018,CHE,Total,0.56
+2019,CHE,Total,0.55
+2020,CHE,Total,0.6
+2004,CHL,Total,0
+2005,CHL,Total,0
+2006,CHL,Total,0.06
+2007,CHL,Total,0.05
+2008,CHL,Total,0.1
+2009,CHL,Total,0.13
+2010,CHL,Total,0.11
+2011,CHL,Total,0.09
+2012,CHL,Total,0.11
+2013,CHL,Total,0.09
+2014,CHL,Total,0.11
+2015,CHL,Total,0.16
+2016,CHL,Total,0.17
+2017,CHL,Total,0.13
+2018,CHL,Total,0.11
+2019,CHL,Total,0.1
+2020,CHL,Total,0.1
+1991,CZE,Total,0.15
+1992,CZE,Total,0.25
+1993,CZE,Total,0.14
+1994,CZE,Total,0.12
+1995,CZE,Total,0.12
+1996,CZE,Total,0.11
+1997,CZE,Total,0.09
+1998,CZE,Total,0.11
+1999,CZE,Total,0.15
+2000,CZE,Total,0.18
+2001,CZE,Total,0.19
+2002,CZE,Total,0.16
+2003,CZE,Total,0.17
+2004,CZE,Total,0.23
+2005,CZE,Total,0.23
+2006,CZE,Total,0.24
+2007,CZE,Total,0.23
+2008,CZE,Total,0.21
+2009,CZE,Total,0.27
+2010,CZE,Total,0.32
+2011,CZE,Total,0.26
+2012,CZE,Total,0.25
+2013,CZE,Total,0.29
+2014,CZE,Total,0.35
+2015,CZE,Total,0.41
+2016,CZE,Total,0.35
+2017,CZE,Total,0.3
+2018,CZE,Total,0.32
+2019,CZE,Total,0.28
+2020,CZE,Total,0.3
+1985,DEU,Total,0.55
+1986,DEU,Total,0.65
+1987,DEU,Total,0.74
+1988,DEU,Total,0.79
+1989,DEU,Total,0.75
+1990,DEU,Total,0.78
+1991,DEU,Total,1.11
+1992,DEU,Total,1.44
+1993,DEU,Total,1.36
+1994,DEU,Total,1.16
+1995,DEU,Total,1.16
+1996,DEU,Total,1.27
+1997,DEU,Total,1.06
+1998,DEU,Total,1.17
+1999,DEU,Total,1.31
+2000,DEU,Total,1.25
+2001,DEU,Total,1.24
+2002,DEU,Total,1.27
+2003,DEU,Total,1.21
+2004,DEU,Total,1.13
+2005,DEU,Total,1.13
+2006,DEU,Total,0.95
+2007,DEU,Total,0.86
+2008,DEU,Total,0.88
+2009,DEU,Total,1.01
+2010,DEU,Total,0.91
+2011,DEU,Total,0.78
+2012,DEU,Total,0.67
+2013,DEU,Total,0.65
+2014,DEU,Total,0.65
+2015,DEU,Total,0.64
+2016,DEU,Total,0.62
+2017,DEU,Total,0.66
+2018,DEU,Total,0.68
+2019,DEU,Total,0.59
+2020,DEU,Total,0.61
+1986,DNK,Total,1.04
+1987,DNK,Total,1
+1988,DNK,Total,1.01
+1989,DNK,Total,1.09
+1990,DNK,Total,1.05
+1991,DNK,Total,1.22
+1992,DNK,Total,1.37
+1993,DNK,Total,1.72
+1994,DNK,Total,1.58
+1995,DNK,Total,1.7
+1996,DNK,Total,1.61
+1997,DNK,Total,1.56
+1998,DNK,Total,1.66
+1999,DNK,Total,1.82
+2000,DNK,Total,1.84
+2001,DNK,Total,1.8
+2002,DNK,Total,1.8
+2003,DNK,Total,1.71
+2004,DNK,Total,1.64
+2005,DNK,Total,1.53
+2006,DNK,Total,1.46
+2007,DNK,Total,1.28
+2008,DNK,Total,1.34
+2009,DNK,Total,1.62
+2010,DNK,Total,2.02
+2011,DNK,Total,2.02
+2012,DNK,Total,1.95
+2013,DNK,Total,1.93
+2014,DNK,Total,2.04
+2015,DNK,Total,2.04
+2016,DNK,Total,2.02
+2017,DNK,Total,1.94
+2018,DNK,Total,1.9
+2019,DNK,Total,1.89
+2020,DNK,Total,1.78
+1985,ESP,Total,0.32
+1986,ESP,Total,0.6
+1987,ESP,Total,0.6
+1988,ESP,Total,0.69
+1989,ESP,Total,0.79
+1990,ESP,Total,0.77
+1991,ESP,Total,0.66
+1992,ESP,Total,0.64
+1993,ESP,Total,0.45
+1994,ESP,Total,0.41
+1995,ESP,Total,0.42
+1996,ESP,Total,0.37
+1997,ESP,Total,0.39
+1998,ESP,Total,0.57
+1999,ESP,Total,0.87
+2000,ESP,Total,0.8
+2001,ESP,Total,0.74
+2002,ESP,Total,0.73
+2003,ESP,Total,0.73
+2004,ESP,Total,0.77
+2005,ESP,Total,0.76
+2006,ESP,Total,0.78
+2007,ESP,Total,0.78
+2008,ESP,Total,0.79
+2009,ESP,Total,0.84
+2010,ESP,Total,0.92
+2011,ESP,Total,0.88
+2012,ESP,Total,0.66
+2013,ESP,Total,0.51
+2014,ESP,Total,0.56
+2015,ESP,Total,0.6
+2016,ESP,Total,0.57
+2017,ESP,Total,0.69
+2018,ESP,Total,0.71
+2019,ESP,Total,0.7
+2020,ESP,Total,1.19
+2003,EST,Total,0.07
+2004,EST,Total,0.05
+2005,EST,Total,0.07
+2006,EST,Total,0.06
+2007,EST,Total,0.05
+2008,EST,Total,0.06
+2009,EST,Total,0.24
+2010,EST,Total,0.22
+2011,EST,Total,0.22
+2012,EST,Total,0.27
+2013,EST,Total,0.23
+2014,EST,Total,0.19
+2015,EST,Total,0.21
+2016,EST,Total,0.31
+2017,EST,Total,0.42
+2018,EST,Total,0.47
+2019,EST,Total,0.52
+2020,EST,Total,0.58
+1985,FIN,Total,0.72
+1986,FIN,Total,0.72
+1987,FIN,Total,0.77
+1988,FIN,Total,0.89
+1989,FIN,Total,0.8
+1990,FIN,Total,0.83
+1991,FIN,Total,1.18
+1992,FIN,Total,1.6
+1993,FIN,Total,1.5
+1994,FIN,Total,1.46
+1995,FIN,Total,1.37
+1996,FIN,Total,1.52
+1997,FIN,Total,1.38
+1998,FIN,Total,1.12
+1999,FIN,Total,1.02
+2000,FIN,Total,0.86
+2001,FIN,Total,0.8
+2002,FIN,Total,0.79
+2003,FIN,Total,0.87
+2004,FIN,Total,0.92
+2005,FIN,Total,0.86
+2006,FIN,Total,0.86
+2007,FIN,Total,0.83
+2008,FIN,Total,0.78
+2009,FIN,Total,0.87
+2010,FIN,Total,1
+2011,FIN,Total,0.97
+2012,FIN,Total,0.97
+2013,FIN,Total,0.99
+2014,FIN,Total,1.03
+2015,FIN,Total,1
+2016,FIN,Total,0.98
+2017,FIN,Total,0.97
+2018,FIN,Total,0.95
+2019,FIN,Total,0.91
+2020,FIN,Total,0.86
+1985,FRA,Total,0.59
+1986,FRA,Total,0.66
+1987,FRA,Total,0.73
+1988,FRA,Total,0.7
+1989,FRA,Total,0.64
+1990,FRA,Total,0.71
+1991,FRA,Total,0.82
+1992,FRA,Total,0.93
+1993,FRA,Total,1.12
+1994,FRA,Total,1.14
+1995,FRA,Total,1.17
+1996,FRA,Total,1.21
+1997,FRA,Total,1.18
+1998,FRA,Total,1.15
+1999,FRA,Total,1.19
+2000,FRA,Total,1.17
+2001,FRA,Total,1.15
+2002,FRA,Total,1.11
+2003,FRA,Total,1.05
+2004,FRA,Total,0.96
+2005,FRA,Total,0.9
+2006,FRA,Total,0.91
+2007,FRA,Total,0.91
+2008,FRA,Total,0.8
+2009,FRA,Total,0.96
+2010,FRA,Total,1.07
+2011,FRA,Total,0.9
+2012,FRA,Total,0.86
+2013,FRA,Total,0.88
+2014,FRA,Total,0.94
+2015,FRA,Total,0.94
+2016,FRA,Total,1.07
+2017,FRA,Total,0.91
+2018,FRA,Total,0.76
+2019,FRA,Total,0.72
+2020,FRA,Total,0.76
+1985,GBR,Total,0.45
+1986,GBR,Total,0.56
+1987,GBR,Total,0.54
+1988,GBR,Total,0.47
+1989,GBR,Total,0.41
+1990,GBR,Total,0.38
+1991,GBR,Total,0.33
+1992,GBR,Total,0.38
+1993,GBR,Total,0.36
+1994,GBR,Total,0.33
+1995,GBR,Total,0.29
+1996,GBR,Total,0.25
+1997,GBR,Total,0.24
+1998,GBR,Total,0.19
+1999,GBR,Total,0.21
+2000,GBR,Total,0.22
+2001,GBR,Total,0.29
+2002,GBR,Total,0.26
+2003,GBR,Total,0.4
+2004,GBR,Total,0.41
+2005,GBR,Total,0.38
+2006,GBR,Total,0.28
+2007,GBR,Total,0.28
+2008,GBR,Total,0.32
+2009,GBR,Total,0.38
+2010,GBR,Total,0.38
+2011,GBR,Total,0.22
+1985,GRC,Total,0.16
+1986,GRC,Total,0.16
+1987,GRC,Total,0.16
+1988,GRC,Total,0.16
+1989,GRC,Total,0.16
+1990,GRC,Total,0.17
+1991,GRC,Total,0.19
+1992,GRC,Total,0.23
+1993,GRC,Total,0.2
+1994,GRC,Total,0.21
+1995,GRC,Total,0.39
+1996,GRC,Total,0.35
+1997,GRC,Total,0.29
+1998,GRC,Total,0.07
+1999,GRC,Total,0.22
+2000,GRC,Total,0.22
+2001,GRC,Total,0.24
+2002,GRC,Total,0.16
+2003,GRC,Total,0.08
+2004,GRC,Total,0.13
+2005,GRC,Total,0.06
+2006,GRC,Total,0.14
+2007,GRC,Total,0.15
+2008,GRC,Total,0.15
+2009,GRC,Total,0.21
+2010,GRC,Total,0.23
+2011,GRC,Total,0.09
+2012,GRC,Total,0.1
+2013,GRC,Total,0.19
+2014,GRC,Total,0.3
+2015,GRC,Total,0.21
+2016,GRC,Total,0.17
+2017,GRC,Total,0.18
+2018,GRC,Total,0.21
+2019,GRC,Total,0.35
+2020,GRC,Total,0.16
+1992,HUN,Total,0.58
+1993,HUN,Total,0.63
+1994,HUN,Total,0.58
+1995,HUN,Total,0.4
+1996,HUN,Total,0.36
+1997,HUN,Total,0.42
+1998,HUN,Total,0.38
+1999,HUN,Total,0.39
+2000,HUN,Total,0.37
+2001,HUN,Total,0.46
+2002,HUN,Total,0.51
+2003,HUN,Total,0.17
+2004,HUN,Total,0.31
+2005,HUN,Total,0.33
+2006,HUN,Total,0.33
+2007,HUN,Total,0.34
+2008,HUN,Total,0.35
+2009,HUN,Total,0.48
+2010,HUN,Total,0.63
+2011,HUN,Total,0.48
+2012,HUN,Total,0.74
+2013,HUN,Total,0.87
+2014,HUN,Total,0.96
+2015,HUN,Total,0.87
+2016,HUN,Total,0.91
+2017,HUN,Total,0.84
+2018,HUN,Total,0.64
+2019,HUN,Total,0.57
+2020,HUN,Total,0.59
+1985,IRL,Total,1.02
+1986,IRL,Total,1.11
+1987,IRL,Total,1.1
+1988,IRL,Total,1.1
+1989,IRL,Total,1
+1990,IRL,Total,1.03
+1991,IRL,Total,0.9
+1992,IRL,Total,1.04
+1993,IRL,Total,1.14
+1994,IRL,Total,1.25
+1995,IRL,Total,1.31
+1996,IRL,Total,1.24
+1997,IRL,Total,1.24
+1998,IRL,Total,1.07
+1999,IRL,Total,0.98
+2000,IRL,Total,0.78
+2001,IRL,Total,0.85
+2002,IRL,Total,0.78
+2003,IRL,Total,0.69
+2004,IRL,Total,0.64
+2005,IRL,Total,0.62
+2006,IRL,Total,0.59
+2007,IRL,Total,0.62
+2008,IRL,Total,0.69
+2009,IRL,Total,0.82
+2010,IRL,Total,0.9
+2011,IRL,Total,0.9
+2012,IRL,Total,0.88
+2013,IRL,Total,0.87
+2014,IRL,Total,0.78
+2015,IRL,Total,0.57
+2016,IRL,Total,0.51
+2017,IRL,Total,0.41
+2018,IRL,Total,0.36
+2019,IRL,Total,0.31
+2020,IRL,Total,1.39
+2004,ISR,Total,0.1
+2005,ISR,Total,0.2
+2006,ISR,Total,0.22
+2007,ISR,Total,0.2
+2008,ISR,Total,0.18
+2009,ISR,Total,0.2
+2010,ISR,Total,0.19
+2011,ISR,Total,0.19
+2012,ISR,Total,0.17
+2013,ISR,Total,0.17
+2014,ISR,Total,0.15
+2015,ISR,Total,0.16
+2016,ISR,Total,0.16
+2017,ISR,Total,0.17
+2018,ISR,Total,0.15
+2019,ISR,Total,0.15
+1990,ITA,Total,0.23
+1991,ITA,Total,0.32
+1992,ITA,Total,0.28
+1993,ITA,Total,0.22
+1994,ITA,Total,0.24
+1995,ITA,Total,0.25
+1996,ITA,Total,0.32
+1997,ITA,Total,0.37
+1998,ITA,Total,0.46
+1999,ITA,Total,0.52
+2000,ITA,Total,0.55
+2001,ITA,Total,0.61
+2002,ITA,Total,0.67
+2003,ITA,Total,0.68
+2004,ITA,Total,0.6
+2005,ITA,Total,0.54
+2006,ITA,Total,0.47
+2007,ITA,Total,0.43
+2008,ITA,Total,0.44
+2009,ITA,Total,0.45
+2010,ITA,Total,0.42
+2011,ITA,Total,0.4
+2012,ITA,Total,0.45
+2013,ITA,Total,0.42
+2014,ITA,Total,0.37
+2015,ITA,Total,0.5
+2016,ITA,Total,0.47
+2017,ITA,Total,0.44
+2018,ITA,Total,0.42
+2019,ITA,Total,0.28
+2020,ITA,Total,0.34
+1985,JPN,Total,0.1
+1986,JPN,Total,0.1
+1987,JPN,Total,0.13
+1988,JPN,Total,0.16
+1989,JPN,Total,0.17
+1990,JPN,Total,0.13
+1991,JPN,Total,0.12
+1992,JPN,Total,0.13
+1993,JPN,Total,0.15
+1994,JPN,Total,0.15
+1995,JPN,Total,0.17
+1996,JPN,Total,0.15
+1997,JPN,Total,0.14
+1998,JPN,Total,0.16
+1999,JPN,Total,0.22
+2000,JPN,Total,0.2
+2001,JPN,Total,0.26
+2002,JPN,Total,0.2
+2003,JPN,Total,0.16
+2004,JPN,Total,0.13
+2005,JPN,Total,0.12
+2006,JPN,Total,0.11
+2007,JPN,Total,0.11
+2008,JPN,Total,0.09
+2009,JPN,Total,0.29
+2010,JPN,Total,0.27
+2011,JPN,Total,0.32
+2012,JPN,Total,0.19
+2013,JPN,Total,0.18
+2014,JPN,Total,0.16
+2015,JPN,Total,0.16
+2016,JPN,Total,0.15
+2017,JPN,Total,0.15
+2018,JPN,Total,0.15
+2019,JPN,Total,0.15
+2020,JPN,Total,0.74
+2000,KOR,Total,0.34
+2001,KOR,Total,0.2
+2002,KOR,Total,0.16
+2003,KOR,Total,0.1
+2004,KOR,Total,0.09
+2005,KOR,Total,0.09
+2006,KOR,Total,0.06
+2007,KOR,Total,0.08
+2008,KOR,Total,0.25
+2009,KOR,Total,0.41
+2010,KOR,Total,0.28
+2011,KOR,Total,0.24
+2012,KOR,Total,0.31
+2013,KOR,Total,0.34
+2014,KOR,Total,0.35
+2015,KOR,Total,0.33
+2016,KOR,Total,0.35
+2017,KOR,Total,0.3
+2018,KOR,Total,0.36
+2019,KOR,Total,0.37
+2020,KOR,Total,0.69
+2003,LTU,Total,0.19
+2004,LTU,Total,0.19
+2005,LTU,Total,0.21
+2006,LTU,Total,0.26
+2007,LTU,Total,0.3
+2008,LTU,Total,0.25
+2009,LTU,Total,0.29
+2010,LTU,Total,0.31
+2011,LTU,Total,0.26
+2012,LTU,Total,0.24
+2013,LTU,Total,0.25
+2014,LTU,Total,0.24
+2015,LTU,Total,0.31
+2016,LTU,Total,0.3
+2017,LTU,Total,0.31
+2018,LTU,Total,0.26
+2019,LTU,Total,0.21
+2020,LTU,Total,1.33
+1985,LUX,Total,0.39
+1986,LUX,Total,0.33
+1987,LUX,Total,0.33
+1988,LUX,Total,0.3
+1989,LUX,Total,0.2
+1990,LUX,Total,0.18
+1991,LUX,Total,0.15
+1992,LUX,Total,0.14
+1993,LUX,Total,0.11
+1994,LUX,Total,0.11
+1995,LUX,Total,0.13
+1996,LUX,Total,0.15
+1997,LUX,Total,0.2
+1998,LUX,Total,0.2
+1999,LUX,Total,0.19
+2000,LUX,Total,0.18
+2001,LUX,Total,0.17
+2002,LUX,Total,0.26
+2003,LUX,Total,0.43
+2004,LUX,Total,0.45
+2005,LUX,Total,0.5
+2006,LUX,Total,0.47
+2007,LUX,Total,0.45
+2008,LUX,Total,0.43
+2009,LUX,Total,0.48
+2010,LUX,Total,0.52
+2011,LUX,Total,0.58
+2012,LUX,Total,0.59
+2013,LUX,Total,0.6
+2014,LUX,Total,0.61
+2015,LUX,Total,0.63
+2016,LUX,Total,0.77
+2017,LUX,Total,0.78
+2018,LUX,Total,0.72
+2019,LUX,Total,0.75
+2020,LUX,Total,0.79
+2003,LVA,Total,0.12
+2004,LVA,Total,0.13
+2005,LVA,Total,0.21
+2006,LVA,Total,0.23
+2007,LVA,Total,0.16
+2008,LVA,Total,0.13
+2009,LVA,Total,0.31
+2010,LVA,Total,0.56
+2011,LVA,Total,0.38
+2012,LVA,Total,0.23
+2013,LVA,Total,0.24
+2014,LVA,Total,0.19
+2015,LVA,Total,0.15
+2016,LVA,Total,0.18
+2017,LVA,Total,0.19
+2018,LVA,Total,0.18
+2019,LVA,Total,0.15
+2020,LVA,Total,0.14
+1998,MEX,Total,0.02
+1999,MEX,Total,0.02
+2000,MEX,Total,0.02
+2001,MEX,Total,0.02
+2002,MEX,Total,0.01
+2003,MEX,Total,0.01
+2004,MEX,Total,0.01
+2005,MEX,Total,0.01
+2006,MEX,Total,0.01
+2007,MEX,Total,0
+2008,MEX,Total,0.01
+2009,MEX,Total,0.01
+2010,MEX,Total,0.01
+2011,MEX,Total,0
+2012,MEX,Total,0.01
+2013,MEX,Total,0.01
+2014,MEX,Total,0.01
+2015,MEX,Total,0
+2016,MEX,Total,0
+2017,MEX,Total,0
+2018,MEX,Total,0
+2019,MEX,Total,0
+2020,MEX,Total,0
+1985,NLD,Total,1.18
+1986,NLD,Total,1.18
+1987,NLD,Total,1.2
+1988,NLD,Total,1.19
+1989,NLD,Total,1.16
+1990,NLD,Total,1.15
+1991,NLD,Total,1.15
+1992,NLD,Total,1.26
+1993,NLD,Total,1.34
+1994,NLD,Total,1.27
+1995,NLD,Total,1.21
+1996,NLD,Total,1.19
+1997,NLD,Total,1.25
+1998,NLD,Total,1.38
+1999,NLD,Total,1.36
+2000,NLD,Total,1.29
+2001,NLD,Total,1.3
+2002,NLD,Total,1.4
+2003,NLD,Total,1.34
+2004,NLD,Total,1.25
+2005,NLD,Total,1.16
+2006,NLD,Total,1.07
+2007,NLD,Total,0.98
+2008,NLD,Total,0.94
+2009,NLD,Total,1.09
+2010,NLD,Total,1.1
+2011,NLD,Total,1
+2012,NLD,Total,0.87
+2013,NLD,Total,0.83
+2014,NLD,Total,0.81
+2015,NLD,Total,0.76
+2016,NLD,Total,0.72
+2017,NLD,Total,0.65
+2018,NLD,Total,0.59
+2019,NLD,Total,0.57
+2020,NLD,Total,2.21
+1985,NOR,Total,0.58
+1986,NOR,Total,0.44
+1987,NOR,Total,0.33
+1988,NOR,Total,0.35
+1989,NOR,Total,0.76
+1990,NOR,Total,0.87
+1991,NOR,Total,0.89
+1992,NOR,Total,0.98
+1993,NOR,Total,1.1
+1994,NOR,Total,1.28
+1995,NOR,Total,1.21
+1996,NOR,Total,1.04
+1997,NOR,Total,0.84
+1998,NOR,Total,0.76
+1999,NOR,Total,0.65
+2000,NOR,Total,0.58
+2001,NOR,Total,0.62
+2002,NOR,Total,0.68
+2003,NOR,Total,0.78
+2004,NOR,Total,0.75
+2005,NOR,Total,0.72
+2006,NOR,Total,0.55
+2007,NOR,Total,0.53
+2008,NOR,Total,0.5
+2009,NOR,Total,0.59
+2010,NOR,Total,0.62
+2011,NOR,Total,0.56
+2012,NOR,Total,0.53
+2013,NOR,Total,0.5
+2014,NOR,Total,0.51
+2015,NOR,Total,0.51
+2016,NOR,Total,0.54
+2017,NOR,Total,0.47
+2018,NOR,Total,0.42
+2019,NOR,Total,0.41
+2020,NOR,Total,0.42
+1985,NZL,Total,0.82
+1986,NZL,Total,0.76
+1987,NZL,Total,0.74
+1988,NZL,Total,0.94
+1989,NZL,Total,0.88
+1990,NZL,Total,0.86
+1991,NZL,Total,0.8
+1992,NZL,Total,0.97
+1993,NZL,Total,0.72
+1994,NZL,Total,0.67
+1995,NZL,Total,0.66
+1996,NZL,Total,0.64
+1997,NZL,Total,0.63
+1998,NZL,Total,0.53
+1999,NZL,Total,0.53
+2000,NZL,Total,0.47
+2001,NZL,Total,0.41
+2002,NZL,Total,0.39
+2003,NZL,Total,0.39
+2004,NZL,Total,0.37
+2005,NZL,Total,0.35
+2006,NZL,Total,0.33
+2007,NZL,Total,0.31
+2008,NZL,Total,0.33
+2009,NZL,Total,0.35
+2010,NZL,Total,0.32
+2011,NZL,Total,0.28
+2012,NZL,Total,0.29
+2013,NZL,Total,0.26
+2014,NZL,Total,0.26
+2015,NZL,Total,0.27
+2016,NZL,Total,0.25
+2017,NZL,Total,0.23
+2018,NZL,Total,0.21
+2019,NZL,Total,4.1
+1990,POL,Total,0.11
+1991,POL,Total,0.19
+1992,POL,Total,0.25
+1993,POL,Total,0.53
+1994,POL,Total,0.44
+1995,POL,Total,0.38
+1996,POL,Total,0.46
+1997,POL,Total,0.48
+1998,POL,Total,0.47
+1999,POL,Total,0.37
+2000,POL,Total,0.25
+2001,POL,Total,0.24
+2002,POL,Total,0.23
+2003,POL,Total,0.4
+2004,POL,Total,0.35
+2005,POL,Total,0.42
+2006,POL,Total,0.45
+2007,POL,Total,0.49
+2008,POL,Total,0.56
+2009,POL,Total,0.62
+2010,POL,Total,0.69
+2011,POL,Total,0.4
+2012,POL,Total,0.44
+2013,POL,Total,0.48
+2014,POL,Total,0.47
+2015,POL,Total,0.46
+2016,POL,Total,0.45
+2017,POL,Total,0.42
+2018,POL,Total,0.37
+2019,POL,Total,0.32
+2020,POL,Total,0.78
+1985,PRT,Total,0.21
+1986,PRT,Total,0.16
+1987,PRT,Total,0.23
+1988,PRT,Total,0.27
+1989,PRT,Total,0.34
+1990,PRT,Total,0.46
+1991,PRT,Total,0.49
+1992,PRT,Total,0.58
+1993,PRT,Total,0.59
+1994,PRT,Total,0.47
+1995,PRT,Total,0.47
+1996,PRT,Total,0.5
+1997,PRT,Total,0.49
+1998,PRT,Total,0.55
+1999,PRT,Total,0.59
+2000,PRT,Total,0.61
+2001,PRT,Total,0.65
+2002,PRT,Total,0.61
+2003,PRT,Total,0.64
+2004,PRT,Total,0.64
+2005,PRT,Total,0.64
+2006,PRT,Total,0.57
+2007,PRT,Total,0.49
+2008,PRT,Total,0.53
+2009,PRT,Total,0.74
+2010,PRT,Total,0.66
+2011,PRT,Total,0.57
+2012,PRT,Total,0.49
+2013,PRT,Total,0.58
+2014,PRT,Total,0.66
+2015,PRT,Total,0.61
+2016,PRT,Total,0.55
+2017,PRT,Total,0.47
+2018,PRT,Total,0.41
+2019,PRT,Total,0.38
+2020,PRT,Total,0.58
+1991,SVK,Total,0.22
+1992,SVK,Total,1.09
+1993,SVK,Total,0.35
+1994,SVK,Total,0.48
+1995,SVK,Total,0.74
+1996,SVK,Total,0.72
+1997,SVK,Total,0.58
+1998,SVK,Total,0.38
+1999,SVK,Total,0.2
+2000,SVK,Total,0.3
+2001,SVK,Total,0.36
+2002,SVK,Total,0.41
+2003,SVK,Total,0.27
+2004,SVK,Total,0.23
+2005,SVK,Total,0.34
+2006,SVK,Total,0.3
+2007,SVK,Total,0.21
+2008,SVK,Total,0.25
+2009,SVK,Total,0.25
+2010,SVK,Total,0.32
+2011,SVK,Total,0.29
+2012,SVK,Total,0.25
+2013,SVK,Total,0.22
+2014,SVK,Total,0.2
+2015,SVK,Total,0.19
+2016,SVK,Total,0.26
+2017,SVK,Total,0.23
+2018,SVK,Total,0.24
+2019,SVK,Total,0.23
+2020,SVK,Total,1.17
+2003,SVN,Total,0.21
+2004,SVN,Total,0.22
+2005,SVN,Total,0.3
+2006,SVN,Total,0.27
+2007,SVN,Total,0.19
+2008,SVN,Total,0.17
+2009,SVN,Total,0.34
+2010,SVN,Total,0.51
+2011,SVN,Total,0.35
+2012,SVN,Total,0.26
+2013,SVN,Total,0.37
+2014,SVN,Total,0.36
+2015,SVN,Total,0.23
+2016,SVN,Total,0.22
+2017,SVN,Total,0.24
+2018,SVN,Total,0.23
+2019,SVN,Total,0.19
+2020,SVN,Total,0.21
+1985,SWE,Total,1.91
+1986,SWE,Total,1.82
+1987,SWE,Total,1.71
+1988,SWE,Total,1.59
+1989,SWE,Total,1.39
+1990,SWE,Total,1.52
+1991,SWE,Total,2.17
+1992,SWE,Total,2.7
+1993,SWE,Total,2.59
+1994,SWE,Total,2.6
+1995,SWE,Total,2.06
+1996,SWE,Total,2.05
+1997,SWE,Total,2.03
+1998,SWE,Total,2.3
+1999,SWE,Total,2.08
+2000,SWE,Total,1.62
+2001,SWE,Total,1.47
+2002,SWE,Total,1.37
+2003,SWE,Total,1.06
+2004,SWE,Total,1.03
+2005,SWE,Total,1.09
+2006,SWE,Total,1.16
+2007,SWE,Total,0.97
+2008,SWE,Total,0.81
+2009,SWE,Total,0.91
+2010,SWE,Total,1.1
+2011,SWE,Total,1.14
+2012,SWE,Total,1.26
+2013,SWE,Total,1.33
+2014,SWE,Total,1.32
+2015,SWE,Total,1.25
+2016,SWE,Total,1.17
+2017,SWE,Total,1.13
+2018,SWE,Total,1.12
+2019,SWE,Total,1.02
+2020,SWE,Total,0.95
+1985,USA,Total,0.26
+1986,USA,Total,0.24
+1987,USA,Total,0.24
+1988,USA,Total,0.23
+1989,USA,Total,0.21
+1990,USA,Total,0.2
+1991,USA,Total,0.19
+1992,USA,Total,0.18
+1993,USA,Total,0.18
+1994,USA,Total,0.18
+1995,USA,Total,0.15
+1996,USA,Total,0.15
+1997,USA,Total,0.18
+1998,USA,Total,0.16
+1999,USA,Total,0.14
+2000,USA,Total,0.14
+2001,USA,Total,0.14
+2002,USA,Total,0.14
+2003,USA,Total,0.13
+2004,USA,Total,0.12
+2005,USA,Total,0.12
+2006,USA,Total,0.11
+2007,USA,Total,0.11
+2008,USA,Total,0.17
+2009,USA,Total,0.14
+2010,USA,Total,0.13
+2011,USA,Total,0.13
+2012,USA,Total,0.11
+2013,USA,Total,0.11
+2014,USA,Total,0.08
+2015,USA,Total,0.09
+2016,USA,Total,0.1
+2017,USA,Total,0.09
+2018,USA,Total,0.09
+2019,USA,Total,2.59
+2020,USA,Total,1.37
