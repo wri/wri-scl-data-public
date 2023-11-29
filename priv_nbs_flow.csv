@@ -8,5 +8,5 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,Public,128,,,,
 2022,WLD,Private,25.7,,,,
 2022,WLD,Total,153.7,,,,
-2030,WLD,Total,,,,354,
-2050,WLD,Total,,,,536,
+2030,WLD,Total,,,,484,
+2050,WLD,Total,,,,674,
