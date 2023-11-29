@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value
+year,geo,disagg,value
 1993,WLD,FSC,0.00
 1994,WLD,FSC,0.00
 1995,WLD,FSC,0.00
@@ -52,3 +52,4 @@
 2020,WLD,PEFC,12.37
 2021,WLD,PEFC,12.67
 2022,WLD,PEFC,12.53
+2023,WLD,PEFC,12.61
