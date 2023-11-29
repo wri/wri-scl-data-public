@@ -1,3 +1,3 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2015,WLD,15,,,,
-2020,WLD,58,,,73,
+2020,WLD,58,,,73.0,

@@ -1,7 +1,7 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2018,WLD,17.1,,,,
-2019,WLD,17.1,,,,
-2020,WLD,12.3,,,,
-2021,WLD,11,,,,
-2022,WLD,14,,,,
-2030,WLD,,4.1,,,
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+2018,WLD,17.12232132176805,,,,
+2019,WLD,17.096908536286527,,,,
+2020,WLD,12.289985359362502,,,,
+2021,WLD,10.96286374026531,,,,
+2022,WLD,13.99326523064532,,,,
+2030,WLD,,4.08,,,
