@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value
+year,geo,disagg,value
 2018,WLD,Natural gas,2.05
 2018,WLD,Natural gas with CCUS,2.2
 2018,WLD,Coal,1.7
@@ -11,3 +11,8 @@
 2021,WLD,Natural gas,1.08
 2021,WLD,Natural gas with CCUS,1.5
 2021,WLD,Coal without CCUS,1.71
+2021,WLD,Coal with CCUS,2.09
+2021,WLD,Wind onshore,5.72
+2021,WLD,Wind offshore,5.72
+2021,WLD,Solar PV,5.72
+2021,WLD,Nuclear,3.5
