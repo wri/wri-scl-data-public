@@ -1,38 +1,22 @@
 year,geo,disagg,value
-1990,USA,Total,13
-1992,USA,Total,23.4
-1994,USA,Total,20.1
-1996,USA,Total,29.3
-1998,USA,Total,24.3
-2000,USA,Total,39.3
-2002,USA,Total,30.3
-2004,USA,Total,32.2
-2006,USA,Total,27.3
-2008,USA,Total,47.4
-2010,USA,Total,45.2
-2012,USA,Total,105
-2014,USA,Total,80.5
-2016,USA,Total,118.8
-2018,USA,Total,95.9
-2020,USA,Total,148.5
-2022,USA,Total,135.6
 1990,USA,Oil and gas,12.3
-1992,USA,Oil and gas,22.3
-1994,USA,Oil and gas,18.9
-1996,USA,Oil and gas,28
-1998,USA,Oil and gas,22.7
-2000,USA,Oil and gas,35.7
+1992,USA,Oil and gas,22.2
+1994,USA,Oil and gas,19
+1996,USA,Oil and gas,28.1
+1998,USA,Oil and gas,22.8
+2000,USA,Oil and gas,35.8
 2002,USA,Oil and gas,26.5
-2004,USA,Oil and gas,29.7
-2006,USA,Oil and gas,24.2
-2008,USA,Oil and gas,43.8
-2010,USA,Oil and gas,36.7
-2012,USA,Oil and gas,88.4
-2014,USA,Oil and gas,69.1
-2016,USA,Oil and gas,104.9
-2018,USA,Oil and gas,87.4
-2020,USA,Oil and gas,139.8
-2022,USA,Oil and gas,128.9
+2004,USA,Oil and gas,29.8
+2006,USA,Oil and gas,24.3
+2008,USA,Oil and gas,44.1
+2010,USA,Oil and gas,36.8
+2012,USA,Oil and gas,88.8
+2014,USA,Oil and gas,69.3
+2016,USA,Oil and gas,105.5
+2018,USA,Oil and gas,87.7
+2020,USA,Oil and gas,142.2
+2022,USA,Oil and gas,133.4
+2024,USA,Oil and gas,48.7
 1990,USA,Coal mining,0.8
 1992,USA,Coal mining,1.2
 1994,USA,Coal mining,1.1
@@ -44,9 +28,28 @@ year,geo,disagg,value
 2006,USA,Coal mining,3.1
 2008,USA,Coal mining,3.6
 2010,USA,Coal mining,8.5
-2012,USA,Coal mining,16.6
+2012,USA,Coal mining,16.7
 2014,USA,Coal mining,11.5
 2016,USA,Coal mining,13.9
 2018,USA,Coal mining,8.6
 2020,USA,Coal mining,8.7
-2022,USA,Coal mining,6.7
+2022,USA,Coal mining,7
+2024,USA,Coal mining,1.5
+1990,USA,Total,13.1
+1992,USA,Total,23.4
+1994,USA,Total,20.1
+1996,USA,Total,29.4
+1998,USA,Total,24.4
+2000,USA,Total,39.3
+2002,USA,Total,30.3
+2004,USA,Total,32.4
+2006,USA,Total,27.4
+2008,USA,Total,47.7
+2010,USA,Total,45.3
+2012,USA,Total,105.5
+2014,USA,Total,80.8
+2016,USA,Total,119.5
+2018,USA,Total,96.3
+2020,USA,Total,150.9
+2022,USA,Total,140.3
+2024,USA,Total,50.1
