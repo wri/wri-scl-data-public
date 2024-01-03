@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2004,EUU,8.3,,,,
 2005,EUU,8.8,,,,
 2006,EUU,9.1,,,,
@@ -17,7 +17,6 @@
 2019,EUU,12,,,,
 2020,EUU,11.7,,,,
 2021,EUU,11.7,,,,
-2030,EUU,,12.06,,,
 2010,BEL,13,,,,
 2011,BEL,14,,,,
 2012,BEL,16.9,,,,

@@ -20,6 +20,9 @@
 2021,WLD,Direct transfers,9.4
 2021,WLD,Earmarking,47.6
 2021,WLD,Total,66.2
+2022,WLD,Direct transfers,9.8
+2022,WLD,Earmarking,53.8
+2022,WLD,Total,63.6
 2019,ARG,Earmarking,0.237
 2019,ARG,Total,0.237
 2020,ARG,Earmarking,0.095
@@ -35,6 +38,8 @@
 2021,CAN,Tax exemptions,0.496
 2021,CAN,Direct transfers,4.462
 2021,CAN,Total,4.958
+2022,CAN,Direct transfers,6.27
+2022,CAN,Total,6.27
 2017,CHE,Direct transfers,0.747
 2017,CHE,Earmarking,0.368
 2017,CHE,Total,1.115
@@ -50,6 +55,9 @@
 2021,CHE,Direct transfers,0.962
 2021,CHE,Earmarking,0.474
 2021,CHE,Total,1.436
+2022,CHE,Direct transfers,1.005
+2022,CHE,Earmarking,0.351
+2022,CHE,Total,1.356
 2017,COL,Earmarking,0.171
 2017,COL,Total,0.171
 2019,COL,Earmarking,0.145
@@ -61,6 +69,8 @@
 2021,DEU,Tax exemptions,5.692
 2021,DEU,Earmarking,3.145
 2021,DEU,Total,8.837
+2022,DEU,Earmarking,6.748
+2022,DEU,Total,6.748
 2017,DNK,Tax exemptions,0.185
 2017,DNK,Earmarking,0.033
 2017,DNK,Total,0.218
@@ -89,6 +99,8 @@
 2020,EUU,Total,18.294
 2021,EUU,Earmarking,32.64
 2021,EUU,Total,32.64
+2022,EUU,Earmarking,35.69
+2022,EUU,Total,35.69
 2017,FIN,Tax exemptions,0.654
 2017,FIN,Total,0.654
 2018,FIN,Tax exemptions,0.884
@@ -106,6 +118,9 @@
 2021,FRA,Tax exemptions,0.547
 2021,FRA,Direct transfers,3.628
 2021,FRA,Total,4.175
+2022,FRA,Direct transfers,0.506
+2022,FRA,Earmarking,0.329
+2022,FRA,Total,0.835
 2017,GBR,Tax exemptions,0.189
 2017,GBR,Total,0.189
 2018,GBR,Tax exemptions,0.185
@@ -122,6 +137,9 @@
 2020,IRL,Total,0.163
 2021,IRL,Earmarking,0.291
 2021,IRL,Total,0.291
+2022,IRL,Direct transfers,0.199
+2022,IRL,Earmarking,0.25
+2022,IRL,Total,0.45
 2017,JPN,Earmarking,2.471
 2017,JPN,Total,2.471
 2018,JPN,Earmarking,2.376
@@ -132,6 +150,8 @@
 2020,JPN,Total,6.184
 2021,JPN,Earmarking,2.352
 2021,JPN,Total,2.352
+2022,JPN,Earmarking,1.822
+2022,JPN,Total,1.822
 2019,KOR,Earmarking,0.169
 2019,KOR,Total,0.169
 2020,KOR,Earmarking,0.121
@@ -157,6 +177,10 @@
 2020,NOR,Total,0.597
 2021,NOR,Earmarking,0.675
 2021,NOR,Total,0.675
+2022,NOR,Earmarking,0.655
+2022,NOR,Total,0.655
+2022,NZL,Earmarking,0.798
+2022,NZL,Total,0.798
 2019,POL,Earmarking,0.005
 2019,POL,Total,0.005
 2020,POL,Earmarking,0.005
