@@ -1,30 +1,30 @@
 ﻿year,geo,disagg,value
-1998,USA,Total,11
-1999,USA,Total,11
-2000,USA,Total,10
-2001,USA,Total,9.72
-2002,USA,Total,9.05
-2003,USA,Total,9.3
-2004,USA,Total,9.29
-2005,USA,Total,12
-2006,USA,Total,14
-2007,USA,Total,18
-2008,USA,Total,37
-2009,USA,Total,31
-2010,USA,Total,39
-2011,USA,Total,38
-2012,USA,Total,35
-2013,USA,Total,27
-2014,USA,Total,26
-2015,USA,Total,24
-2016,USA,Total,21
-2017,USA,Total,23
-2018,USA,Total,25
-2019,USA,Total,24
-2020,USA,Total,24
-2021,USA,Total,23
-2022,USA,Total,24
-2023,USA,Total,19
+1998,USA,Total,74
+1999,USA,Total,71
+2000,USA,Total,61
+2001,USA,Total,62
+2002,USA,Total,67
+2003,USA,Total,65
+2004,USA,Total,61
+2005,USA,Total,79
+2006,USA,Total,90
+2007,USA,Total,105
+2008,USA,Total,173
+2009,USA,Total,208
+2010,USA,Total,187
+2011,USA,Total,189
+2012,USA,Total,177
+2013,USA,Total,174
+2014,USA,Total,170
+2015,USA,Total,159
+2016,USA,Total,143
+2017,USA,Total,151
+2018,USA,Total,152
+2019,USA,Total,151
+2020,USA,Total,137
+2021,USA,Total,143
+2022,USA,Total,150
+2023,USA,Total,111
 1998,USA,Natural gas ,9.24
 1999,USA,Natural gas ,9.22
 2000,USA,Natural gas ,7.82
@@ -77,12 +77,38 @@
 2021,USA,Coal mining,3.15
 2022,USA,Coal mining,3.15
 2023,USA,Coal mining,2.83
-2010,EUU,Total,8.0478
-2011,EUU,Total,17.982
-2012,EUU,Total,19.325
-2013,EUU,Total,20.646
-2014,EUU,Total,27.018
-2015,EUU,Total,26.1356
-2016,EUU,Total,30.1056
-2017,EUU,Total,29.0521
-2018,EUU,Total,27.0982
+2010,EUU,Total,8.05
+2011,EUU,Total,18
+2012,EUU,Total,19
+2013,EUU,Total,21
+2014,EUU,Total,27
+2015,EUU,Total,26
+2016,EUU,Total,30
+2017,EUU,Total,29
+2018,EUU,Total,27
+1998,USA,Oil and gas,62
+1999,USA,Oil and gas,60
+2000,USA,Oil and gas,51
+2001,USA,Oil and gas,52
+2002,USA,Oil and gas,58
+2003,USA,Oil and gas,56
+2004,USA,Oil and gas,52
+2005,USA,Oil and gas,67
+2006,USA,Oil and gas,76
+2007,USA,Oil and gas,87
+2008,USA,Oil and gas,136
+2009,USA,Oil and gas,177
+2010,USA,Oil and gas,148
+2011,USA,Oil and gas,151
+2012,USA,Oil and gas,142
+2013,USA,Oil and gas,147
+2014,USA,Oil and gas,144
+2015,USA,Oil and gas,135
+2016,USA,Oil and gas,122
+2017,USA,Oil and gas,127
+2018,USA,Oil and gas,127
+2019,USA,Oil and gas,127
+2020,USA,Oil and gas,113
+2021,USA,Oil and gas,121
+2022,USA,Oil and gas,126
+2023,USA,Oil and gas,93
