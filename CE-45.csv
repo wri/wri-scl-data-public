@@ -1,28 +1,13 @@
-﻿year,geo,disagg,value
-1970,WLD,System Started,1
-1975,WLD,System Started,2
-1980,WLD,System Started,3
-1985,WLD,System Started,4
-1990,WLD,System Started,6
-1995,WLD,System Started,6
-2000,WLD,System Started,8
-2005,WLD,System Started,15
-2010,WLD,System Started,17
-2015,WLD,System Started,18
-2020,WLD,System Started,21
-2023,WLD,System Started,24
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+﻿year,geo,value
+1970,WLD,1
+1975,WLD,2
+1980,WLD,3
+1985,WLD,4
+1990,WLD,6
+1995,WLD,6
+2000,WLD,8
+2005,WLD,15
+2010,WLD,17
+2015,WLD,18
+2020,WLD,21
+2023,WLD,24
