@@ -1,4 +1,4 @@
-﻿year,geo,value ,projections,benchmark_low,benchmark_mid,benchmark_high
+﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2000,AFG,2.07,,,,
 2001,AFG,2.11,,,,
 2002,AFG,2.22,,,,
@@ -3305,8 +3305,8 @@
 2020,WLD,12.24,,,,
 2021,WLD,12.51,,,,
 2022,WLD,12.52,,,,
-2027,WLD,,12.72,,5,
-2050,WLD,,,,,
+2027,WLD,,12.72,,,
+2050,WLD,,,,5,
 2001,YEM,3.27,,,,
 2002,YEM,3.57,,,,
 2003,YEM,3.57,,,,
