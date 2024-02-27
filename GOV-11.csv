@@ -1,3 +1,4 @@
 year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2018,WLD,16,,,,
 2021,WLD,32,,,,
+2030,WLD,,,,80,
