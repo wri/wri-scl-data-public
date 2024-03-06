@@ -24,7 +24,7 @@
 2020,USA,Total,137
 2021,USA,Total,143
 2022,USA,Total,150
-2023,USA,Total,111
+2023,USA,Total,153
 1998,USA,Natural gas ,9.24
 1999,USA,Natural gas ,9.22
 2000,USA,Natural gas ,7.82
@@ -40,7 +40,7 @@
 2010,USA,Natural gas ,20
 2011,USA,Natural gas ,18
 2012,USA,Natural gas ,17
-2013,USA,Natural gas ,16
+2013,USA,Natural gas ,15
 2014,USA,Natural gas ,16
 2015,USA,Natural gas ,17
 2016,USA,Natural gas ,17
@@ -50,7 +50,7 @@
 2020,USA,Natural gas ,18
 2021,USA,Natural gas ,19
 2022,USA,Natural gas ,21
-2023,USA,Natural gas ,16
+2023,USA,Natural gas ,21
 1998,USA,Coal mining,2.14
 1999,USA,Coal mining,2.02
 2000,USA,Coal mining,2.47
@@ -76,7 +76,7 @@
 2020,USA,Coal mining,5.18
 2021,USA,Coal mining,3.15
 2022,USA,Coal mining,3.15
-2023,USA,Coal mining,2.83
+2023,USA,Coal mining,3.67
 2010,EUU,Total,8.05
 2011,EUU,Total,18
 2012,EUU,Total,19
@@ -111,4 +111,4 @@
 2020,USA,Oil and gas,113
 2021,USA,Oil and gas,121
 2022,USA,Oil and gas,126
-2023,USA,Oil and gas,93
+2023,USA,Oil and gas,129
