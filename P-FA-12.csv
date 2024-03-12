@@ -1,6 +1,6 @@
 year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 1990,WLD,1.22,,,,
-1991,WLD,1.2,,,,
+1991,WLD,1.20,,,,
 1992,WLD,1.23,,,,
 1993,WLD,1.24,,,,
 1994,WLD,1.28,,,,
@@ -22,8 +22,8 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2010,WLD,1.98,,,,
 2011,WLD,1.98,,,,
 2012,WLD,2.08,,,,
-2013,WLD,2.1,,,,
-2014,WLD,2.1,,,,
+2013,WLD,2.10,,,,
+2014,WLD,2.10,,,,
 2015,WLD,2.11,,,,
 2016,WLD,2.19,,,,
 2017,WLD,2.14,,,,
