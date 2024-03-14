@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2000,WLD,Stunting,33,,,,
 2005,WLD,Stunting,31.1,,,,
 2010,WLD,Stunting,27.9,,,,
@@ -44,7 +44,6 @@
 2020,WLD,Wasting,6.8,,,,
 2021,WLD,Wasting,6.8,,,,
 2022,WLD,Wasting,6.8,,,,
-2030,WLD,Total,,,,0,
 2013,AFG,Total,48.7,,,,
 2018,AFG,Total,43.5,,,,
 1996,AGO,Total,45.9,,,,
