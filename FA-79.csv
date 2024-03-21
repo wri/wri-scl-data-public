@@ -1,7 +1,13 @@
 ﻿year,geo,disagg,value
-2019,WLD,Total ,2572
-2020,WLD,Total ,2036
-2021,WLD,Total ,1816
-2022,WLD,Total ,2194
-2022,WLD,Public,171
-2022,WLD,Private,2024
+2019,WLD,Total,2.57
+2020,WLD,Total,2.04
+2021,WLD,Total,1.82
+2022,WLD,Total,2.19
+2019,WLD,Public,0.23
+2020,WLD,Public,0.2
+2021,WLD,Public,0.14
+2022,WLD,Public,0.22
+2019,WLD,Private,2.34
+2020,WLD,Private,1.84
+2021,WLD,Private,1.68
+2022,WLD,Private,1.98
