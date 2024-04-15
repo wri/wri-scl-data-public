@@ -1,5 +1,10 @@
-year,geo,value
-2017,WLD,60
-2018,WLD,66
-2019,WLD,66
-2021,WLD,78
+year,geo,disagg,value
+2018,WLD,Total,32
+2019,WLD,Total,44
+2021,WLD,Total,56
+2018,WLD,Only Measuring FLW,12
+2019,WLD,Only Measuring FLW,14
+2021,WLD,Only Measuring FLW,18
+2018,WLD,Measuring and Publicly Reporting FLW,20
+2019,WLD,Measuring and Publicly Reporting FLW,30
+2021,WLD,Measuring and Publicly Reporting FLW,38
