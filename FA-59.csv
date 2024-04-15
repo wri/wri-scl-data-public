@@ -1,35 +1,35 @@
-﻿year,geo,value
-2012,Private,0.092
-2012,Public ,0.0083
-2012,Total,0.1006
-2013,Private,0.739
-2013,Public ,0.0101
-2013,Total,0.75
-2014,Private,0.207
-2014,Total,0.207
-2015,Private,0.90
-2015,Public ,0.0025
-2015,Total,0.902
-2016,Private,0.221
-2016,Public ,0.0083
-2016,Total,0.229
-2017,Private,0.75
-2017,Public ,0.0034
-2017,Total,0.753
-2018,Private,1.29
-2018,Public ,0.004
-2018,Total,1.29
-2019,Private,0.462
-2019,Public ,0.006
-2019,Total,0.47
-2020,Private,1.00
-2020,Public ,0.012
-2020,Total,1.01
-2021,Private,1.94
-2021,Public ,0.0101
-2021,Total,1.95
-2022,Private,1.84
-2022,Public ,0.002
-2022,Total,1.84
-2023,Private,1.17
-2023,Total,1.17
+year,geo,disagg,value
+2012,WLD,Private,0.092
+2012,WLD,Public ,0.0083
+2012,WLD,Total,0.1006
+2013,WLD,Private,0.739
+2013,WLD,Public ,0.0101
+2013,WLD,Total,0.75
+2014,WLD,Private,0.207
+2014,WLD,Total,0.207
+2015,WLD,Private,0.90
+2015,WLD,Public ,0.0025
+2015,WLD,Total,0.902
+2016,WLD,Private,0.221
+2016,WLD,Public ,0.0083
+2016,WLD,Total,0.229
+2017,WLD,Private,0.75
+2017,WLD,Public ,0.0034
+2017,WLD,Total,0.753
+2018,WLD,Private,1.29
+2018,WLD,Public ,0.004
+2018,WLD,Total,1.29
+2019,WLD,Private,0.462
+2019,WLD,Public ,0.006
+2019,WLD,Total,0.47
+2020,WLD,Private,1.00
+2020,WLD,Public ,0.012
+2020,WLD,Total,1.01
+2021,WLD,Private,1.94
+2021,WLD,Public ,0.0101
+2021,WLD,Total,1.95
+2022,WLD,Private,1.84
+2022,WLD,Public ,0.002
+2022,WLD,Total,1.84
+2023,WLD,Private,1.17
+2023,WLD,Total,1.17
