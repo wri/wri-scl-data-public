@@ -1,60 +1,27 @@
 ﻿year,geo,disagg,value
-2021,AUS,Total,148
-2021,BEL,Total,3
-2021,CAN,Total,194
-2021,CHN,Total,2
-2021,DNK,Total,216
-2021,ESP,Total,4
-2021,EUU,Total,74
-2021,FIN,Total,19
-2021,GBR,Total,24
-2021,IND,Total,0
-2021,IRL,Total,2
-2021,ISR,Total,49
-2021,JPN,Total,20
-2021,KOR,Total,13
-2021,NLD,Total,83
-2021,NZL,Total,16
-2021,QAT,Total,11
-2021,SGP,Total,47
-2021,SWE,Total,10
-2021,USA,Total,26
-2021,AUS,Investment & Infrastructure,148
-2021,BEL,Investment & Infrastructure,0
-2021,CAN,Investment & Infrastructure,159
-2021,CHN,Investment & Infrastructure,0
-2021,DNK,Investment & Infrastructure,216
-2021,ESP,Investment & Infrastructure,0
-2021,EUU,Investment & Infrastructure,0
-2021,FIN,Investment & Infrastructure,17
-2021,GBR,Investment & Infrastructure,15
-2021,IND,Investment & Infrastructure,0
-2021,IRL,Investment & Infrastructure,2
-2021,ISR,Investment & Infrastructure,29
-2021,JPN,Investment & Infrastructure,20
-2021,KOR,Investment & Infrastructure,13
-2021,NLD,Investment & Infrastructure,64
-2021,NZL,Investment & Infrastructure,0
-2021,QAT,Investment & Infrastructure,0
-2021,SGP,Investment & Infrastructure,12
-2021,SWE,Investment & Infrastructure,0
-2021,USA,Investment & Infrastructure,7
-2021,AUS,Research,0
-2021,BEL,Research,3
-2021,CAN,Research,35
-2021,CHN,Research,2
-2021,DNK,Research,0
-2021,ESP,Research,4
-2021,EUU,Research,74
-2021,FIN,Research,2
-2021,GBR,Research,9
-2021,IND,Research,0
-2021,IRL,Research,0
-2021,ISR,Research,20
-2021,KOR,Research,0
-2021,NLD,Research,20
-2021,NZL,Research,16
-2021,QAT,Research,11
-2021,SGP,Research,35
-2021,SWE,Research,10
-2021,USA,Research,19
+2018,Canada ,Mixed,18.5
+2019,Canada ,Mixed,18.5
+2020,Canada ,Mixed,18.5
+2021,Canada ,Mixed,18.5
+2022,Canada ,Mixed,18.5
+2013,United States ,R&D,0.4
+2014,United States ,R&D,0.4
+2015,United States ,R&D,0.4
+2018,United States ,R&D,0.7
+2020,United States ,R&D,0.7
+2018,European Union,R&D,3.1
+2019,European Union,R&D,20.9
+2020,European Union,R&D,17.6
+2021,European Union,R&D,7.6
+2021,Germany,Commercialization,0.9
+2022,Germany,Commercialization,0.9
+2011,Israel,R&D,2.4
+2012,Israel,R&D,2.4
+2013,Israel,R&D,2.4
+2014,Israel,R&D,2.4
+2015,Israel,R&D,2.4
+2016,Israel,R&D,2.4
+2017,Israel,R&D,2.4
+2018,Israel,R&D,2.4
+2019,Israel,R&D,2.4
+2020,Israel,R&D,2.4
