@@ -1,32 +1,5 @@
 ﻿year,geo,disagg,value
-2011,WLD,Total,0.51
-2013,WLD,Total,1.52
-2014,WLD,Total,2.53
-2015,WLD,Total,5.56
-2016,WLD,Total,8.08
-2017,WLD,Total,9.09
-2018,WLD,Total,9.60
-2019,WLD,Total,12.1
-2020,WLD,Total,14.1
-2022,WLD,Total,18.2
-2023,WLD,Total,19.7
-2011,WLD,Dietary guidelines with consumer-facing information focused on environmental impacts or biodiversity preservation,0.51
-2015,WLD,Dietary guidelines with consumer-facing information focused on environmental impacts or biodiversity preservation,1.52
-2016,WLD,Dietary guidelines with consumer-facing information focused on environmental impacts or biodiversity preservation,3.03
-2017,WLD,Dietary guidelines with consumer-facing information focused on environmental impacts or biodiversity preservation,3.54
-2018,WLD,Dietary guidelines with consumer-facing information focused on environmental impacts or biodiversity preservation,4.04
-2019,WLD,Dietary guidelines with consumer-facing information focused on environmental impacts or biodiversity preservation,5.05
-2011,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,0.51
-2013,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,1.52
-2014,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,2.53
-2015,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,5.05
-2016,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,5.56
-2017,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,6.06
-2018,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,6.57
-2019,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,8.6
-2020,WLD,Dietary guidelines with background documents focused on environmental impacts or biodiversity preservation,10.1
-2020,WLD,Policy to support plant-based or alternative protein production or consumption,1.01
-2021,WLD,Policy to support plant-based or alternative protein production or consumption,1.52
-2022,WLD,Policy to support plant-based or alternative protein production or consumption,10.1
-2023,WLD,Policy to support plant-based or alternative protein production or consumption,12.1
-2024,WLD,Policy to support plant-based or alternative protein production or consumption,12.6
+2021,WLD,Consumer-facing FBDGs include env. impacts,10
+2021,WLD,Background docs for FBDGs include env. impacts,20
+2021,WLD,FBDGs include plant-based dietary patterns,29
+2021,WLD,Total,38
