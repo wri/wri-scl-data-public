@@ -1,5 +1,41 @@
 ﻿year,geo,disagg,value
-2021,WLD,Consumer-facing FBDGs include env. impacts,10
-2021,WLD,Background docs for FBDGs include env. impacts,20
-2021,WLD,FBDGs include plant-based dietary patterns,29
-2021,WLD,Total,38
+1998,WLD,Total,1.0
+2003,WLD,Total,2.0
+2010,WLD,Total,3.0
+2011,WLD,Total,6.1
+2013,WLD,Total,9.1
+2014,WLD,Total,12.1
+2015,WLD,Total,19.2
+2016,WLD,Total,24.2
+2017,WLD,Total,28.3
+2018,WLD,Total,32.3
+2019,WLD,Total,35.4
+2020,WLD,Total,38.4
+2014,WLD,Consumer-facing FBDGs include env. impacts,1.0
+2015,WLD,Consumer-facing FBDGs include env. impacts,3.0
+2016,WLD,Consumer-facing FBDGs include env. impacts,5.1
+2017,WLD,Consumer-facing FBDGs include env. impacts,7.1
+2019,WLD,Consumer-facing FBDGs include env. impacts,8.1
+2020,WLD,Consumer-facing FBDGs include env. impacts,9.1
+2011,WLD,Background docs for FBDGs include env. impacts,1.0
+2013,WLD,Background docs for FBDGs include env. impacts,3.0
+2014,WLD,Background docs for FBDGs include env. impacts,4.0
+2015,WLD,Background docs for FBDGs include env. impacts,9.1
+2016,WLD,Background docs for FBDGs include env. impacts,10.1
+2017,WLD,Background docs for FBDGs include env. impacts,11.1
+2018,WLD,Background docs for FBDGs include env. impacts,12.1
+2019,WLD,Background docs for FBDGs include env. impacts,15.2
+2020,WLD,Background docs for FBDGs include env. impacts,19.2
+1998,WLD,FBDGs include plant-based dietary patterns,1.0
+2003,WLD,FBDGs include plant-based dietary patterns,2.0
+2010,WLD,FBDGs include plant-based dietary patterns,3.0
+2011,WLD,FBDGs include plant-based dietary patterns,5.1
+2013,WLD,FBDGs include plant-based dietary patterns,8.1
+2014,WLD,FBDGs include plant-based dietary patterns,10.1
+2015,WLD,FBDGs include plant-based dietary patterns,13.1
+2016,WLD,FBDGs include plant-based dietary patterns,17.2
+2017,WLD,FBDGs include plant-based dietary patterns,19.2
+2018,WLD,FBDGs include plant-based dietary patterns,24.2
+2019,WLD,FBDGs include plant-based dietary patterns,26.3
+2020,WLD,FBDGs include plant-based dietary patterns,28.3
+2021,WLD,FBDGs include plant-based dietary patterns,29.3
