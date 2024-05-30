@@ -1,3330 +1,3330 @@
 year,geo,disagg,value
-2003,WLD,Total ,1090255
-2007,WLD,Total ,1110716
-2007,WLD,Total ,1135781
-2015,WLD,Total ,1179235
-2019,WLD,Total ,1215363
-2007,WLD,expansion,78943
-2007,WLD,expansion,130093
-2015,WLD,expansion,182097
-2019,WLD,expansion,232781
-2007,WLD,liberated ,58483
-2007,WLD,liberated ,84567
-2015,WLD,liberated ,93117
-2019,WLD,liberated ,107674
-2007,WLD,stable ,1031773
-2007,WLD,stable ,1005688
-2015,WLD,stable ,997138
-2019,WLD,stable ,982581
-2003,AFG,Total ,2085
-2007,AFG,Total ,2427
-2007,AFG,Total ,2704
-2015,AFG,Total ,2908
-2019,AFG,Total ,3166
-2007,AFG,expansion,468
-2007,AFG,expansion,786
-2015,AFG,expansion,1009
-2019,AFG,expansion,1311
-2007,AFG,liberated ,127
-2007,AFG,liberated ,167
-2015,AFG,liberated ,186
-2019,AFG,liberated ,230
-2007,AFG,stable ,1958
-2007,AFG,stable ,1918
-2015,AFG,stable ,1898
-2019,AFG,stable ,1855
-2003,AGO,Total ,1132
-2007,AGO,Total ,1213
-2007,AGO,Total ,1424
-2015,AGO,Total ,2142
-2019,AGO,Total ,2995
-2007,AGO,expansion,262
-2007,AGO,expansion,537
-2015,AGO,expansion,1250
-2019,AGO,expansion,2090
-2007,AGO,liberated ,180
-2007,AGO,liberated ,245
-2015,AGO,liberated ,239
-2019,AGO,liberated ,227
-2007,AGO,stable ,951
-2007,AGO,stable ,887
-2015,AGO,stable ,892
-2019,AGO,stable ,905
-2003,AIA,Total ,0
-2007,AIA,Total ,0
-2007,AIA,Total ,0
-2015,AIA,Total ,0
-2019,AIA,Total ,0
-2007,AIA,expansion,0
-2007,AIA,expansion,0
-2015,AIA,expansion,0
-2019,AIA,expansion,0
-2007,AIA,liberated ,0
-2007,AIA,liberated ,0
-2015,AIA,liberated ,0
-2019,AIA,liberated ,0
-2007,AIA,stable ,0
-2007,AIA,stable ,0
-2015,AIA,stable ,0
-2019,AIA,stable ,0
-2003,ALB,Total ,300
-2007,ALB,Total ,270
-2007,ALB,Total ,261
-2015,ALB,Total ,255
-2019,ALB,Total ,243
-2007,ALB,expansion,15
-2007,ALB,expansion,22
-2015,ALB,expansion,25
-2019,ALB,expansion,29
-2007,ALB,liberated ,46
-2007,ALB,liberated ,62
-2015,ALB,liberated ,71
-2019,ALB,liberated ,86
-2007,ALB,stable ,255
-2007,ALB,stable ,239
-2015,ALB,stable ,230
-2019,ALB,stable ,215
-2003,AND,Total ,0
-2007,AND,Total ,0
-2007,AND,Total ,0
-2015,AND,Total ,0
-2019,AND,Total ,0
-2007,AND,expansion,0
-2007,AND,expansion,0
-2015,AND,expansion,0
-2019,AND,expansion,0
-2007,AND,liberated ,0
-2007,AND,liberated ,0
-2015,AND,liberated ,0
-2019,AND,liberated ,0
-2007,AND,stable ,0
-2007,AND,stable ,0
-2015,AND,stable ,0
-2019,AND,stable ,0
-2003,ARE,Total ,39
-2007,ARE,Total ,8
-2007,ARE,Total ,7
-2015,ARE,Total ,9
-2019,ARE,Total ,11
-2007,ARE,expansion,1
-2007,ARE,expansion,2
-2015,ARE,expansion,5
-2019,ARE,expansion,7
-2007,ARE,liberated ,31
-2007,ARE,liberated ,33
-2015,ARE,liberated ,35
-2019,ARE,liberated ,35
-2007,ARE,stable ,8
-2007,ARE,stable ,5
-2015,ARE,stable ,4
-2019,ARE,stable ,4
-2003,ARG,Total ,37695
-2007,ARG,Total ,41071
-2007,ARG,Total ,43334
-2015,ARG,Total ,44311
-2019,ARG,Total ,43358
-2007,ARG,expansion,4429
-2007,ARG,expansion,7215
-2015,ARG,expansion,8478
-2019,ARG,expansion,8683
-2007,ARG,liberated ,1053
-2007,ARG,liberated ,1576
-2015,ARG,liberated ,1863
-2019,ARG,liberated ,3019
-2007,ARG,stable ,36642
-2007,ARG,stable ,36119
-2015,ARG,stable ,35832
-2019,ARG,stable ,34676
-2003,ARM,Total ,303
-2007,ARM,Total ,284
-2007,ARM,Total ,290
-2015,ARM,Total ,327
-2019,ARM,Total ,367
-2007,ARM,expansion,39
-2007,ARM,expansion,59
-2015,ARM,expansion,89
-2019,ARM,expansion,128
-2007,ARM,liberated ,58
-2007,ARM,liberated ,72
-2015,ARM,liberated ,65
-2019,ARM,liberated ,64
-2007,ARM,stable ,245
-2007,ARM,stable ,231
-2015,ARM,stable ,238
-2019,ARM,stable ,239
-2003,ATG,Total ,0
-2007,ATG,Total ,0
-2007,ATG,Total ,0
-2015,ATG,Total ,0
-2019,ATG,Total ,1
-2007,ATG,expansion,0
-2007,ATG,expansion,0
-2015,ATG,expansion,0
-2019,ATG,expansion,1
-2007,ATG,liberated ,0
-2007,ATG,liberated ,0
-2015,ATG,liberated ,0
-2019,ATG,liberated ,0
-2007,ATG,stable ,0
-2007,ATG,stable ,0
-2015,ATG,stable ,0
-2019,ATG,stable ,0
-2003,AUS,Total ,42368
-2007,AUS,Total ,43413
-2007,AUS,Total ,43603
-2015,AUS,Total ,44706
-2019,AUS,Total ,45470
-2007,AUS,expansion,2412
-2007,AUS,expansion,3456
-2015,AUS,expansion,4419
-2019,AUS,expansion,4913
-2007,AUS,liberated ,1367
-2007,AUS,liberated ,2221
-2015,AUS,liberated ,2081
-2019,AUS,liberated ,1811
-2007,AUS,stable ,41001
-2007,AUS,stable ,40147
-2015,AUS,stable ,40287
-2019,AUS,stable ,40557
-2003,AUT,Total ,1306
-2007,AUT,Total ,1315
-2007,AUT,Total ,1321
-2015,AUT,Total ,1314
-2019,AUT,Total ,1267
-2007,AUT,expansion,43
-2007,AUT,expansion,68
-2015,AUT,expansion,75
-2019,AUT,expansion,75
-2007,AUT,liberated ,33
-2007,AUT,liberated ,53
-2015,AUT,liberated ,67
-2019,AUT,liberated ,114
-2007,AUT,stable ,1272
-2007,AUT,stable ,1253
-2015,AUT,stable ,1239
-2019,AUT,stable ,1192
-2003,AZE,Total ,1726
-2007,AZE,Total ,1652
-2007,AZE,Total ,1726
-2015,AZE,Total ,1928
-2019,AZE,Total ,2123
-2007,AZE,expansion,174
-2007,AZE,expansion,300
-2015,AZE,expansion,437
-2019,AZE,expansion,627
-2007,AZE,liberated ,247
-2007,AZE,liberated ,300
-2015,AZE,liberated ,235
-2019,AZE,liberated ,230
-2007,AZE,stable ,1478
-2007,AZE,stable ,1426
-2015,AZE,stable ,1491
-2019,AZE,stable ,1496
-2003,BDI,Total ,285
-2007,BDI,Total ,293
-2007,BDI,Total ,315
-2015,BDI,Total ,349
-2019,BDI,Total ,409
-2007,BDI,expansion,28
-2007,BDI,expansion,56
-2015,BDI,expansion,90
-2019,BDI,expansion,148
-2007,BDI,liberated ,20
-2007,BDI,liberated ,26
-2015,BDI,liberated ,26
-2019,BDI,liberated ,25
-2007,BDI,stable ,265
-2007,BDI,stable ,259
-2015,BDI,stable ,259
-2019,BDI,stable ,260
-2003,BEL,Total ,879
-2007,BEL,Total ,888
-2007,BEL,Total ,898
-2015,BEL,Total ,916
-2019,BEL,Total ,933
-2007,BEL,expansion,41
-2007,BEL,expansion,68
-2015,BEL,expansion,93
-2019,BEL,expansion,123
-2007,BEL,liberated ,32
-2007,BEL,liberated ,48
-2015,BEL,liberated ,55
-2019,BEL,liberated ,68
-2007,BEL,stable ,847
-2007,BEL,stable ,831
-2015,BEL,stable ,824
-2019,BEL,stable ,810
-2003,BEN,Total ,1851
-2007,BEN,Total ,1915
-2007,BEN,Total ,2101
-2015,BEN,Total ,2382
-2019,BEN,Total ,2698
-2007,BEN,expansion,345
-2007,BEN,expansion,627
-2015,BEN,expansion,958
-2019,BEN,expansion,1316
-2007,BEN,liberated ,281
-2007,BEN,liberated ,377
-2015,BEN,liberated ,427
-2019,BEN,liberated ,469
-2007,BEN,stable ,1570
-2007,BEN,stable ,1474
-2015,BEN,stable ,1424
-2019,BEN,stable ,1382
-2003,BFA,Total ,2645
-2007,BFA,Total ,2966
-2007,BFA,Total ,3321
-2015,BFA,Total ,3708
-2019,BFA,Total ,4239
-2007,BFA,expansion,573
-2007,BFA,expansion,998
-2015,BFA,expansion,1397
-2019,BFA,expansion,1933
-2007,BFA,liberated ,252
-2007,BFA,liberated ,322
-2015,BFA,liberated ,334
-2019,BFA,liberated ,339
-2007,BFA,stable ,2393
-2007,BFA,stable ,2323
-2015,BFA,stable ,2311
-2019,BFA,stable ,2306
-2003,BGD,Total ,6581
-2007,BGD,Total ,6628
-2007,BGD,Total ,6620
-2015,BGD,Total ,6658
-2019,BGD,Total ,6545
-2007,BGD,expansion,290
-2007,BGD,expansion,414
-2015,BGD,expansion,528
-2019,BGD,expansion,593
-2007,BGD,liberated ,244
-2007,BGD,liberated ,375
-2015,BGD,liberated ,452
-2019,BGD,liberated ,629
-2007,BGD,stable ,6338
-2007,BGD,stable ,6206
-2015,BGD,stable ,6130
-2019,BGD,stable ,5952
-2003,BGR,Total ,3430
-2007,BGR,Total ,3396
-2007,BGR,Total ,3493
-2015,BGR,Total ,3656
-2019,BGR,Total ,3692
-2007,BGR,expansion,133
-2007,BGR,expansion,257
-2015,BGR,expansion,382
-2019,BGR,expansion,451
-2007,BGR,liberated ,167
-2007,BGR,liberated ,194
-2015,BGR,liberated ,157
-2019,BGR,liberated ,188
-2007,BGR,stable ,3263
-2007,BGR,stable ,3236
-2015,BGR,stable ,3273
-2019,BGR,stable ,3242
-2003,BHR,Total ,0
-2007,BHR,Total ,0
-2007,BHR,Total ,0
-2015,BHR,Total ,0
-2019,BHR,Total ,0
-2007,BHR,expansion,0
-2007,BHR,expansion,0
-2015,BHR,expansion,0
-2019,BHR,expansion,0
-2007,BHR,liberated ,0
-2007,BHR,liberated ,0
-2015,BHR,liberated ,0
-2019,BHR,liberated ,0
-2007,BHR,stable ,0
-2007,BHR,stable ,0
-2015,BHR,stable ,0
-2019,BHR,stable ,0
-2003,BHS,Total ,1
-2007,BHS,Total ,1
-2007,BHS,Total ,1
-2015,BHS,Total ,1
-2019,BHS,Total ,1
-2007,BHS,expansion,0
-2007,BHS,expansion,1
-2015,BHS,expansion,1
-2019,BHS,expansion,1
-2007,BHS,liberated ,1
-2007,BHS,liberated ,1
-2015,BHS,liberated ,1
-2019,BHS,liberated ,1
-2007,BHS,stable ,1
-2007,BHS,stable ,1
-2015,BHS,stable ,1
-2019,BHS,stable ,1
-2003,BIH,Total ,200
-2007,BIH,Total ,203
-2007,BIH,Total ,221
-2015,BIH,Total ,235
-2019,BIH,Total ,238
-2007,BIH,expansion,24
-2007,BIH,expansion,46
-2015,BIH,expansion,62
-2019,BIH,expansion,72
-2007,BIH,liberated ,21
-2007,BIH,liberated ,26
-2015,BIH,liberated ,28
-2019,BIH,liberated ,34
-2007,BIH,stable ,179
-2007,BIH,stable ,175
-2015,BIH,stable ,173
-2019,BIH,stable ,166
-2003,BLR,Total ,5154
-2007,BLR,Total ,5414
-2007,BLR,Total ,5681
-2015,BLR,Total ,5908
-2019,BLR,Total ,5677
-2007,BLR,expansion,682
-2007,BLR,expansion,1060
-2015,BLR,expansion,1279
-2019,BLR,expansion,1265
-2007,BLR,liberated ,422
-2007,BLR,liberated ,533
-2015,BLR,liberated ,525
-2019,BLR,liberated ,742
-2007,BLR,stable ,4733
-2007,BLR,stable ,4621
-2015,BLR,stable ,4629
-2019,BLR,stable ,4412
-2003,BLZ,Total ,21
-2007,BLZ,Total ,17
-2007,BLZ,Total ,21
-2015,BLZ,Total ,35
-2019,BLZ,Total ,56
-2007,BLZ,expansion,4
-2007,BLZ,expansion,9
-2015,BLZ,expansion,23
-2019,BLZ,expansion,45
-2007,BLZ,liberated ,8
-2007,BLZ,liberated ,10
-2015,BLZ,liberated ,10
-2019,BLZ,liberated ,10
-2007,BLZ,stable ,13
-2007,BLZ,stable ,11
-2015,BLZ,stable ,12
-2019,BLZ,stable ,12
-2003,BOL,Total ,1371
-2007,BOL,Total ,1631
-2007,BOL,Total ,1965
-2015,BOL,Total ,2305
-2019,BOL,Total ,2710
-2007,BOL,expansion,376
-2007,BOL,expansion,792
-2015,BOL,expansion,1187
-2019,BOL,expansion,1652
-2007,BOL,liberated ,116
-2007,BOL,liberated ,197
-2015,BOL,liberated ,253
-2019,BOL,liberated ,313
-2007,BOL,stable ,1254
-2007,BOL,stable ,1174
-2015,BOL,stable ,1118
-2019,BOL,stable ,1058
-2003,BRA,Total ,30102
-2007,BRA,Total ,36351
-2007,BRA,Total ,40625
-2015,BRA,Total ,47535
-2019,BRA,Total ,53203
-2007,BRA,expansion,7898
-2007,BRA,expansion,13056
-2015,BRA,expansion,20140
-2019,BRA,expansion,26103
-2007,BRA,liberated ,1649
-2007,BRA,liberated ,2533
-2015,BRA,liberated ,2707
-2019,BRA,liberated ,3002
-2007,BRA,stable ,28453
-2007,BRA,stable ,27569
-2015,BRA,stable ,27395
-2019,BRA,stable ,27100
-2003,BRB,Total ,4
-2007,BRB,Total ,3
-2007,BRB,Total ,3
-2015,BRB,Total ,6
-2019,BRB,Total ,8
-2007,BRB,expansion,1
-2007,BRB,expansion,1
-2015,BRB,expansion,3
-2019,BRB,expansion,6
-2007,BRB,liberated ,2
-2007,BRB,liberated ,2
-2015,BRB,liberated ,2
-2019,BRB,liberated ,1
-2007,BRB,stable ,2
-2007,BRB,stable ,2
-2015,BRB,stable ,2
-2019,BRB,stable ,2
-2003,BRN,Total ,0
-2007,BRN,Total ,0
-2007,BRN,Total ,0
-2015,BRN,Total ,0
-2019,BRN,Total ,0
-2007,BRN,expansion,0
-2015,BRN,expansion,0
-2019,BRN,expansion,0
-2007,BRN,liberated ,0
-2007,BRN,liberated ,0
-2007,BRN,stable ,0
-2007,BRN,stable ,0
-2015,BRN,stable ,0
-2019,BRN,stable ,0
-2003,BTN,Total ,10
-2007,BTN,Total ,10
-2007,BTN,Total ,11
-2015,BTN,Total ,11
-2019,BTN,Total ,13
-2007,BTN,expansion,1
-2007,BTN,expansion,2
-2015,BTN,expansion,3
-2019,BTN,expansion,5
-2007,BTN,liberated ,1
-2007,BTN,liberated ,1
-2015,BTN,liberated ,2
-2019,BTN,liberated ,2
-2007,BTN,stable ,9
-2007,BTN,stable ,9
-2015,BTN,stable ,8
-2019,BTN,stable ,8
-2003,BWA,Total ,115
-2007,BWA,Total ,119
-2007,BWA,Total ,151
-2015,BWA,Total ,214
-2019,BWA,Total ,284
-2007,BWA,expansion,22
-2007,BWA,expansion,59
-2015,BWA,expansion,120
-2019,BWA,expansion,191
-2007,BWA,liberated ,19
-2007,BWA,liberated ,23
-2015,BWA,liberated ,22
-2019,BWA,liberated ,22
-2007,BWA,stable ,96
-2007,BWA,stable ,92
-2015,BWA,stable ,94
-2019,BWA,stable ,93
-2003,CAF,Total ,64
-2007,CAF,Total ,56
-2007,CAF,Total ,77
-2015,CAF,Total ,148
-2019,CAF,Total ,256
-2007,CAF,expansion,18
-2007,CAF,expansion,42
-2015,CAF,expansion,109
-2019,CAF,expansion,214
-2007,CAF,liberated ,26
-2007,CAF,liberated ,29
-2015,CAF,liberated ,25
-2019,CAF,liberated ,22
-2007,CAF,stable ,38
-2007,CAF,stable ,35
-2015,CAF,stable ,39
-2019,CAF,stable ,42
-2003,CAN,Total ,36999
-2007,CAN,Total ,37005
-2007,CAN,Total ,36989
-2015,CAN,Total ,37613
-2019,CAN,Total ,38216
-2007,CAN,expansion,1436
-2007,CAN,expansion,2195
-2015,CAN,expansion,3042
-2019,CAN,expansion,3847
-2007,CAN,liberated ,1429
-2007,CAN,liberated ,2205
-2015,CAN,liberated ,2427
-2019,CAN,liberated ,2630
-2007,CAN,stable ,35569
-2007,CAN,stable ,34793
-2015,CAN,stable ,34572
-2019,CAN,stable ,34369
-2003,CHE,Total ,293
-2007,CHE,Total ,300
-2007,CHE,Total ,294
-2015,CHE,Total ,291
-2019,CHE,Total ,274
-2007,CHE,expansion,28
-2007,CHE,expansion,35
-2015,CHE,expansion,38
-2019,CHE,expansion,42
-2007,CHE,liberated ,21
-2007,CHE,liberated ,34
-2015,CHE,liberated ,41
-2019,CHE,liberated ,62
-2007,CHE,stable ,272
-2007,CHE,stable ,259
-2015,CHE,stable ,253
-2019,CHE,stable ,231
-2003,CHL,Total ,1071
-2007,CHL,Total ,1016
-2007,CHL,Total ,1064
-2015,CHL,Total ,1147
-2019,CHL,Total ,1202
-2007,CHL,expansion,130
-2007,CHL,expansion,259
-2015,CHL,expansion,365
-2019,CHL,expansion,457
-2007,CHL,liberated ,185
-2007,CHL,liberated ,266
-2015,CHL,liberated ,289
-2019,CHL,liberated ,325
-2007,CHL,stable ,886
-2007,CHL,stable ,805
-2015,CHL,stable ,782
-2019,CHL,stable ,745
-2003,CHN,Total ,117965
-2007,CHN,Total ,118424
-2007,CHN,Total ,119420
-2015,CHN,Total ,121361
-2019,CHN,Total ,123344
-2007,CHN,expansion,6475
-2007,CHN,expansion,10794
-2015,CHN,expansion,15029
-2019,CHN,expansion,19162
-2007,CHN,liberated ,6017
-2007,CHN,liberated ,9340
-2015,CHN,liberated ,11633
-2019,CHN,liberated ,13784
-2007,CHN,stable ,111949
-2007,CHN,stable ,108626
-2015,CHN,stable ,106332
-2019,CHN,stable ,104181
-2003,CIV,Total ,693
-2007,CIV,Total ,681
-2007,CIV,Total ,802
-2015,CIV,Total ,1021
-2019,CIV,Total ,1363
-2007,CIV,expansion,158
-2007,CIV,expansion,333
-2015,CIV,expansion,583
-2019,CIV,expansion,934
-2007,CIV,liberated ,169
-2007,CIV,liberated ,224
-2015,CIV,liberated ,254
-2019,CIV,liberated ,265
-2007,CIV,stable ,523
-2007,CIV,stable ,469
-2015,CIV,stable ,438
-2019,CIV,stable ,428
-2003,CMR,Total ,1253
-2007,CMR,Total ,1342
-2007,CMR,Total ,1455
-2015,CMR,Total ,1796
-2019,CMR,Total ,2087
-2007,CMR,expansion,179
-2007,CMR,expansion,309
-2015,CMR,expansion,632
-2019,CMR,expansion,920
-2007,CMR,liberated ,90
-2007,CMR,liberated ,108
-2015,CMR,liberated ,89
-2019,CMR,liberated ,86
-2007,CMR,stable ,1163
-2007,CMR,stable ,1146
-2015,CMR,stable ,1164
-2019,CMR,stable ,1167
-2003,COD,Total ,1538
-2007,COD,Total ,1603
-2007,COD,Total ,1902
-2015,COD,Total ,2654
-2019,COD,Total ,3815
-2007,COD,expansion,350
-2007,COD,expansion,724
-2015,COD,expansion,1474
-2019,COD,expansion,2631
-2007,COD,liberated ,285
-2007,COD,liberated ,359
-2015,COD,liberated ,358
-2019,COD,liberated ,354
-2007,COD,stable ,1253
-2007,COD,stable ,1178
-2015,COD,stable ,1180
-2019,COD,stable ,1184
-2003,COG,Total ,56
-2007,COG,Total ,67
-2007,COG,Total ,84
-2015,COG,Total ,115
-2019,COG,Total ,171
-2007,COG,expansion,25
-2007,COG,expansion,46
-2015,COG,expansion,79
-2019,COG,expansion,135
-2007,COG,liberated ,14
-2007,COG,liberated ,18
-2015,COG,liberated ,19
-2019,COG,liberated ,20
-2007,COG,stable ,42
-2007,COG,stable ,37
-2015,COG,stable ,36
-2019,COG,stable ,36
-2003,COL,Total ,545
-2007,COL,Total ,501
-2007,COL,Total ,543
-2015,COL,Total ,654
-2019,COL,Total ,902
-2007,COL,expansion,45
-2007,COL,expansion,113
-2015,COL,expansion,232
-2019,COL,expansion,500
-2007,COL,liberated ,89
-2007,COL,liberated ,115
-2015,COL,liberated ,122
-2019,COL,liberated ,143
-2007,COL,stable ,455
-2007,COL,stable ,430
-2015,COL,stable ,423
-2019,COL,stable ,402
-2003,CRI,Total ,89
-2007,CRI,Total ,92
-2007,CRI,Total ,113
-2015,CRI,Total ,141
-2019,CRI,Total ,175
-2007,CRI,expansion,19
-2007,CRI,expansion,43
-2015,CRI,expansion,70
-2019,CRI,expansion,105
-2007,CRI,liberated ,16
-2007,CRI,liberated ,19
-2015,CRI,liberated ,18
-2019,CRI,liberated ,20
-2007,CRI,stable ,73
-2007,CRI,stable ,70
-2015,CRI,stable ,71
-2019,CRI,stable ,70
-2003,CUB,Total ,1805
-2007,CUB,Total ,1495
-2007,CUB,Total ,1378
-2015,CUB,Total ,1329
-2019,CUB,Total ,1307
-2007,CUB,expansion,114
-2007,CUB,expansion,179
-2015,CUB,expansion,217
-2019,CUB,expansion,250
-2007,CUB,liberated ,424
-2007,CUB,liberated ,606
-2015,CUB,liberated ,693
-2019,CUB,liberated ,748
-2007,CUB,stable ,1381
-2007,CUB,stable ,1199
-2015,CUB,stable ,1112
-2019,CUB,stable ,1057
-2003,CYM,Total ,0
-2007,CYM,Total ,0
-2007,CYM,Total ,0
-2015,CYM,Total ,0
-2019,CYM,Total ,0
-2007,CYM,expansion,0
-2007,CYM,expansion,0
-2015,CYM,expansion,0
-2019,CYM,expansion,0
-2007,CYM,liberated ,0
-2007,CYM,liberated ,0
-2015,CYM,liberated ,0
-2019,CYM,liberated ,0
-2007,CYM,stable ,0
-2007,CYM,stable ,0
-2015,CYM,stable ,0
-2019,CYM,stable ,0
-2003,CYP,Total ,112
-2007,CYP,Total ,102
-2007,CYP,Total ,100
-2015,CYP,Total ,104
-2019,CYP,Total ,109
-2007,CYP,expansion,2
-2007,CYP,expansion,4
-2015,CYP,expansion,7
-2019,CYP,expansion,11
-2007,CYP,liberated ,12
-2007,CYP,liberated ,16
-2015,CYP,liberated ,15
-2019,CYP,liberated ,14
-2007,CYP,stable ,100
-2007,CYP,stable ,96
-2015,CYP,stable ,97
-2019,CYP,stable ,98
-2003,CZE,Total ,2856
-2007,CZE,Total ,2801
-2007,CZE,Total ,2743
-2015,CZE,Total ,2713
-2019,CZE,Total ,2668
-2007,CZE,expansion,72
-2007,CZE,expansion,89
-2015,CZE,expansion,99
-2019,CZE,expansion,112
-2007,CZE,liberated ,126
-2007,CZE,liberated ,202
-2015,CZE,liberated ,241
-2019,CZE,liberated ,300
-2007,CZE,stable ,2729
-2007,CZE,stable ,2654
-2015,CZE,stable ,2614
-2019,CZE,stable ,2556
-2003,DEU,Total ,12034
-2007,DEU,Total ,12106
-2007,DEU,Total ,12301
-2015,DEU,Total ,12397
-2019,DEU,Total ,12300
-2007,DEU,expansion,342
-2007,DEU,expansion,662
-2015,DEU,expansion,824
-2019,DEU,expansion,948
-2007,DEU,liberated ,269
-2007,DEU,liberated ,395
-2015,DEU,liberated ,462
-2019,DEU,liberated ,682
-2007,DEU,stable ,11765
-2007,DEU,stable ,11639
-2015,DEU,stable ,11572
-2019,DEU,stable ,11352
-2015,DJI,Total ,0
-2019,DJI,Total ,0
-2015,DJI,expansion,0
-2019,DJI,expansion,0
-2003,DMA,Total ,0
-2007,DMA,Total ,0
-2007,DMA,Total ,0
-2015,DMA,Total ,0
-2019,DMA,Total ,0
-2007,DMA,expansion,0
-2007,DMA,expansion,0
-2015,DMA,expansion,0
-2019,DMA,expansion,0
-2007,DMA,liberated ,0
-2007,DMA,liberated ,0
-2015,DMA,liberated ,0
-2019,DMA,liberated ,0
-2007,DMA,stable ,0
-2007,DMA,stable ,0
-2015,DMA,stable ,0
-2019,DMA,stable ,0
-2003,DNK,Total ,2222
-2007,DNK,Total ,2243
-2007,DNK,Total ,2263
-2015,DNK,Total ,2275
-2019,DNK,Total ,2247
-2007,DNK,expansion,105
-2007,DNK,expansion,171
-2015,DNK,expansion,198
-2019,DNK,expansion,218
-2007,DNK,liberated ,83
-2007,DNK,liberated ,129
-2015,DNK,liberated ,144
-2019,DNK,liberated ,193
-2007,DNK,stable ,2138
-2007,DNK,stable ,2092
-2015,DNK,stable ,2078
-2019,DNK,stable ,2029
-2003,DOM,Total ,293
-2007,DOM,Total ,291
-2007,DOM,Total ,312
-2015,DOM,Total ,332
-2019,DOM,Total ,380
-2007,DOM,expansion,56
-2007,DOM,expansion,93
-2015,DOM,expansion,119
-2019,DOM,expansion,172
-2007,DOM,liberated ,58
-2007,DOM,liberated ,74
-2015,DOM,liberated ,81
-2019,DOM,liberated ,85
-2007,DOM,stable ,235
-2007,DOM,stable ,219
-2015,DOM,stable ,213
-2019,DOM,stable ,208
-2003,DZA,Total ,4999
-2007,DZA,Total ,5382
-2007,DZA,Total ,5579
-2015,DZA,Total ,5579
-2019,DZA,Total ,5636
-2007,DZA,expansion,582
-2007,DZA,expansion,859
-2015,DZA,expansion,963
-2019,DZA,expansion,1152
-2007,DZA,liberated ,199
-2007,DZA,liberated ,279
-2015,DZA,liberated ,384
-2019,DZA,liberated ,516
-2007,DZA,stable ,4801
-2007,DZA,stable ,4720
-2015,DZA,stable ,4616
-2019,DZA,stable ,4484
-2003,ECU,Total ,293
-2007,ECU,Total ,286
-2007,ECU,Total ,310
-2015,ECU,Total ,346
-2019,ECU,Total ,398
-2007,ECU,expansion,36
-2007,ECU,expansion,76
-2015,ECU,expansion,108
-2019,ECU,expansion,147
-2007,ECU,liberated ,44
-2007,ECU,liberated ,60
-2015,ECU,liberated ,55
-2019,ECU,liberated ,43
-2007,ECU,stable ,249
-2007,ECU,stable ,234
-2015,ECU,stable ,238
-2019,ECU,stable ,251
-2003,EGY,Total ,2913
-2007,EGY,Total ,3001
-2007,EGY,Total ,3100
-2015,EGY,Total ,3256
-2019,EGY,Total ,3451
-2007,EGY,expansion,130
-2007,EGY,expansion,262
-2015,EGY,expansion,439
-2019,EGY,expansion,662
-2007,EGY,liberated ,43
-2007,EGY,liberated ,75
-2015,EGY,liberated ,97
-2019,EGY,liberated ,124
-2007,EGY,stable ,2870
-2007,EGY,stable ,2838
-2015,EGY,stable ,2816
-2019,EGY,stable ,2789
-2003,ERI,Total ,264
-2007,ERI,Total ,260
-2007,ERI,Total ,269
-2015,ERI,Total ,275
-2019,ERI,Total ,285
-2007,ERI,expansion,16
-2007,ERI,expansion,31
-2015,ERI,expansion,41
-2019,ERI,expansion,55
-2007,ERI,liberated ,20
-2007,ERI,liberated ,26
-2015,ERI,liberated ,30
-2019,ERI,liberated ,34
-2007,ERI,stable ,244
-2007,ERI,stable ,238
-2015,ERI,stable ,235
-2019,ERI,stable ,230
-2003,ESH,Total ,0
-2007,ESH,Total ,0
-2007,ESH,Total ,0
-2015,ESH,Total ,0
-2019,ESH,Total ,0
-2007,ESH,expansion,0
-2007,ESH,expansion,0
-2015,ESH,expansion,0
-2019,ESH,expansion,0
-2007,ESH,liberated ,0
-2007,ESH,liberated ,0
-2015,ESH,liberated ,0
-2019,ESH,liberated ,0
-2007,ESH,stable ,0
-2007,ESH,stable ,0
-2015,ESH,stable ,0
-2019,ESH,stable ,0
-2003,ESP,Total ,11586
-2007,ESP,Total ,11352
-2007,ESP,Total ,11209
-2015,ESP,Total ,11345
-2019,ESP,Total ,11406
-2007,ESP,expansion,446
-2007,ESP,expansion,666
-2015,ESP,expansion,895
-2019,ESP,expansion,1136
-2007,ESP,liberated ,680
-2007,ESP,liberated ,1043
-2015,ESP,liberated ,1137
-2019,ESP,liberated ,1316
-2007,ESP,stable ,10907
-2007,ESP,stable ,10543
-2015,ESP,stable ,10449
-2019,ESP,stable ,10270
-2003,EST,Total ,420
-2007,EST,Total ,562
-2007,EST,Total ,616
-2015,EST,Total ,660
-2019,EST,Total ,670
-2007,EST,expansion,167
-2007,EST,expansion,233
-2015,EST,expansion,276
-2019,EST,expansion,293
-2007,EST,liberated ,25
-2007,EST,liberated ,37
-2015,EST,liberated ,36
-2019,EST,liberated ,43
-2007,EST,stable ,395
-2007,EST,stable ,383
-2015,EST,stable ,384
-2019,EST,stable ,377
-2003,ETH,Total ,14177
-2007,ETH,Total ,14090
-2007,ETH,Total ,14606
-2015,ETH,Total ,15444
-2019,ETH,Total ,16060
-2007,ETH,expansion,818
-2007,ETH,expansion,1557
-2015,ETH,expansion,2384
-2019,ETH,expansion,3187
-2007,ETH,liberated ,905
-2007,ETH,liberated ,1128
-2015,ETH,liberated ,1117
-2019,ETH,liberated ,1305
-2007,ETH,stable ,13272
-2007,ETH,stable ,13049
-2015,ETH,stable ,13060
-2019,ETH,stable ,12872
-2003,FIN,Total ,1864
-2007,FIN,Total ,1921
-2007,FIN,Total ,1939
-2015,FIN,Total ,1963
-2019,FIN,Total ,1963
-2007,FIN,expansion,87
-2007,FIN,expansion,117
-2015,FIN,expansion,146
-2019,FIN,expansion,170
-2007,FIN,liberated ,29
-2007,FIN,liberated ,42
-2015,FIN,liberated ,46
-2019,FIN,liberated ,71
-2007,FIN,stable ,1835
-2007,FIN,stable ,1821
-2015,FIN,stable ,1818
-2019,FIN,stable ,1792
-2003,FJI,Total ,29
-2007,FJI,Total ,29
-2007,FJI,Total ,32
-2015,FJI,Total ,35
-2019,FJI,Total ,38
-2007,FJI,expansion,5
-2007,FJI,expansion,10
-2015,FJI,expansion,15
-2019,FJI,expansion,20
-2007,FJI,liberated ,5
-2007,FJI,liberated ,7
-2015,FJI,liberated ,9
-2019,FJI,liberated ,10
-2007,FJI,stable ,24
-2007,FJI,stable ,22
-2015,FJI,stable ,20
-2019,FJI,stable ,18
-2003,FRA,Total ,16827
-2007,FRA,Total ,17043
-2007,FRA,Total ,17154
-2015,FRA,Total ,17272
-2019,FRA,Total ,17482
-2007,FRA,expansion,816
-2007,FRA,expansion,1271
-2015,FRA,expansion,1552
-2019,FRA,expansion,1994
-2007,FRA,liberated ,601
-2007,FRA,liberated ,944
-2015,FRA,liberated ,1108
-2019,FRA,liberated ,1339
-2007,FRA,stable ,16226
-2007,FRA,stable ,15883
-2015,FRA,stable ,15720
-2019,FRA,stable ,15488
-2003,GAB,Total ,1
-2007,GAB,Total ,1
-2007,GAB,Total ,2
-2015,GAB,Total ,3
-2019,GAB,Total ,4
-2007,GAB,expansion,0
-2007,GAB,expansion,1
-2015,GAB,expansion,2
-2019,GAB,expansion,3
-2007,GAB,liberated ,1
-2007,GAB,liberated ,1
-2015,GAB,liberated ,0
-2019,GAB,liberated ,0
-2007,GAB,stable ,1
-2007,GAB,stable ,1
-2015,GAB,stable ,1
-2019,GAB,stable ,1
-2003,GBR,Total ,5738
-2007,GBR,Total ,5615
-2007,GBR,Total ,5689
-2015,GBR,Total ,5849
-2019,GBR,Total ,5991
-2007,GBR,expansion,325
-2007,GBR,expansion,559
-2015,GBR,expansion,736
-2019,GBR,expansion,945
-2007,GBR,liberated ,449
-2007,GBR,liberated ,609
-2015,GBR,liberated ,626
-2019,GBR,liberated ,692
-2007,GBR,stable ,5290
-2007,GBR,stable ,5129
-2015,GBR,stable ,5112
-2019,GBR,stable ,5046
-2003,GEO,Total ,408
-2007,GEO,Total ,359
-2007,GEO,Total ,349
-2015,GEO,Total ,361
-2019,GEO,Total ,348
-2007,GEO,expansion,44
-2007,GEO,expansion,64
-2015,GEO,expansion,80
-2019,GEO,expansion,94
-2007,GEO,liberated ,93
-2007,GEO,liberated ,122
-2015,GEO,liberated ,127
-2019,GEO,liberated ,155
-2007,GEO,stable ,315
-2007,GEO,stable ,285
-2015,GEO,stable ,281
-2019,GEO,stable ,253
-2003,GGY,Total ,0
-2007,GGY,Total ,0
-2007,GGY,Total ,0
-2015,GGY,Total ,0
-2019,GGY,Total ,0
-2007,GGY,expansion,0
-2007,GGY,expansion,0
-2015,GGY,expansion,0
-2019,GGY,expansion,0
-2007,GGY,liberated ,0
-2007,GGY,liberated ,0
-2015,GGY,liberated ,0
-2019,GGY,liberated ,0
-2007,GGY,stable ,0
-2007,GGY,stable ,0
-2015,GGY,stable ,0
-2019,GGY,stable ,0
-2003,GHA,Total ,1949
-2007,GHA,Total ,2122
-2007,GHA,Total ,2305
-2015,GHA,Total ,2595
-2019,GHA,Total ,2995
-2007,GHA,expansion,429
-2007,GHA,expansion,689
-2015,GHA,expansion,984
-2019,GHA,expansion,1398
-2007,GHA,liberated ,256
-2007,GHA,liberated ,333
-2015,GHA,liberated ,339
-2019,GHA,liberated ,352
-2007,GHA,stable ,1693
-2007,GHA,stable ,1616
-2015,GHA,stable ,1610
-2019,GHA,stable ,1597
-2003,GIB,Total ,0
-2007,GIB,Total ,0
-2019,GIB,Total ,0
-2019,GIB,expansion,0
-2007,GIB,liberated ,0
-2007,GIB,liberated ,0
-2015,GIB,liberated ,0
-2019,GIB,liberated ,0
-2007,GIB,stable ,0
-2019,GIB,stable ,0
-2003,GIN,Total ,148
-2007,GIN,Total ,153
-2007,GIN,Total ,176
-2015,GIN,Total ,242
-2019,GIN,Total ,333
-2007,GIN,expansion,28
-2007,GIN,expansion,56
-2015,GIN,expansion,119
-2019,GIN,expansion,209
-2007,GIN,liberated ,22
-2007,GIN,liberated ,27
-2015,GIN,liberated ,25
-2019,GIN,liberated ,23
-2007,GIN,stable ,125
-2007,GIN,stable ,121
-2015,GIN,stable ,123
-2019,GIN,stable ,125
-2003,GLP,Total ,11
-2007,GLP,Total ,9
-2007,GLP,Total ,10
-2015,GLP,Total ,12
-2019,GLP,Total ,14
-2007,GLP,expansion,2
-2007,GLP,expansion,3
-2015,GLP,expansion,5
-2019,GLP,expansion,7
-2007,GLP,liberated ,3
-2007,GLP,liberated ,4
-2015,GLP,liberated ,3
-2019,GLP,liberated ,3
-2007,GLP,stable ,7
-2007,GLP,stable ,7
-2015,GLP,stable ,7
-2019,GLP,stable ,7
-2003,GMB,Total ,248
-2007,GMB,Total ,252
-2007,GMB,Total ,258
-2015,GMB,Total ,271
-2019,GMB,Total ,282
-2007,GMB,expansion,18
-2007,GMB,expansion,27
-2015,GMB,expansion,38
-2019,GMB,expansion,51
-2007,GMB,liberated ,13
-2007,GMB,liberated ,17
-2015,GMB,liberated ,15
-2019,GMB,liberated ,17
-2007,GMB,stable ,235
-2007,GMB,stable ,231
-2015,GMB,stable ,232
-2019,GMB,stable ,231
-2003,GNB,Total ,34
-2007,GNB,Total ,36
-2007,GNB,Total ,40
-2015,GNB,Total ,47
-2019,GNB,Total ,60
-2007,GNB,expansion,8
-2007,GNB,expansion,13
-2015,GNB,expansion,21
-2019,GNB,expansion,36
-2007,GNB,liberated ,6
-2007,GNB,liberated ,8
-2015,GNB,liberated ,9
-2019,GNB,liberated ,10
-2007,GNB,stable ,28
-2007,GNB,stable ,27
-2015,GNB,stable ,25
-2019,GNB,stable ,25
-2007,GNQ,Total ,0
-2015,GNQ,Total ,0
-2019,GNQ,Total ,0
-2007,GNQ,expansion,0
-2015,GNQ,expansion,0
-2019,GNQ,expansion,0
-2003,GRC,Total ,2322
-2007,GRC,Total ,2204
-2007,GRC,Total ,2167
-2015,GRC,Total ,2112
-2019,GRC,Total ,2047
-2007,GRC,expansion,47
-2007,GRC,expansion,76
-2015,GRC,expansion,89
-2019,GRC,expansion,110
-2007,GRC,liberated ,165
-2007,GRC,liberated ,231
-2015,GRC,liberated ,299
-2019,GRC,liberated ,385
-2007,GRC,stable ,2157
-2007,GRC,stable ,2091
-2015,GRC,stable ,2023
-2019,GRC,stable ,1937
-2003,GTM,Total ,288
-2007,GTM,Total ,304
-2007,GTM,Total ,330
-2015,GTM,Total ,362
-2019,GTM,Total ,350
-2007,GTM,expansion,57
-2007,GTM,expansion,94
-2015,GTM,expansion,137
-2019,GTM,expansion,157
-2007,GTM,liberated ,41
-2007,GTM,liberated ,52
-2015,GTM,liberated ,63
-2019,GTM,liberated ,95
-2007,GTM,stable ,247
-2007,GTM,stable ,235
-2015,GTM,stable ,225
-2019,GTM,stable ,193
-2003,GUF,Total ,5
-2007,GUF,Total ,5
-2007,GUF,Total ,4
-2015,GUF,Total ,2
-2019,GUF,Total ,1
-2007,GUF,expansion,0
-2007,GUF,expansion,0
-2015,GUF,expansion,0
-2019,GUF,expansion,0
-2007,GUF,liberated ,0
-2007,GUF,liberated ,2
-2015,GUF,liberated ,3
-2019,GUF,liberated ,4
-2007,GUF,stable ,5
-2007,GUF,stable ,3
-2015,GUF,stable ,2
-2019,GUF,stable ,1
-2003,GUY,Total ,121
-2007,GUY,Total ,117
-2007,GUY,Total ,124
-2015,GUY,Total ,143
-2019,GUY,Total ,142
-2007,GUY,expansion,12
-2007,GUY,expansion,23
-2015,GUY,expansion,40
-2019,GUY,expansion,46
-2007,GUY,liberated ,16
-2007,GUY,liberated ,19
-2015,GUY,liberated ,17
-2019,GUY,liberated ,25
-2007,GUY,stable ,105
-2007,GUY,stable ,101
-2015,GUY,stable ,103
-2019,GUY,stable ,96
-2003,HKG,Total ,0
-2007,HKG,Total ,0
-2007,HKG,Total ,0
-2015,HKG,Total ,0
-2019,HKG,Total ,0
-2007,HKG,expansion,0
-2007,HKG,expansion,0
-2015,HKG,expansion,0
-2019,HKG,expansion,0
-2007,HKG,liberated ,0
-2007,HKG,liberated ,0
-2015,HKG,liberated ,0
-2019,HKG,liberated ,0
-2007,HKG,stable ,0
-2007,HKG,stable ,0
-2015,HKG,stable ,0
-2019,HKG,stable ,0
-2003,HND,Total ,93
-2007,HND,Total ,75
-2007,HND,Total ,83
-2015,HND,Total ,97
-2019,HND,Total ,115
-2007,HND,expansion,12
-2007,HND,expansion,24
-2015,HND,expansion,38
-2019,HND,expansion,56
-2007,HND,liberated ,30
-2007,HND,liberated ,34
-2015,HND,liberated ,34
-2019,HND,liberated ,34
-2007,HND,stable ,63
-2007,HND,stable ,59
-2015,HND,stable ,59
-2019,HND,stable ,59
-2003,HRV,Total ,923
-2007,HRV,Total ,908
-2007,HRV,Total ,918
-2015,HRV,Total ,923
-2019,HRV,Total ,916
-2007,HRV,expansion,36
-2007,HRV,expansion,61
-2015,HRV,expansion,76
-2019,HRV,expansion,88
-2007,HRV,liberated ,51
-2007,HRV,liberated ,66
-2015,HRV,liberated ,77
-2019,HRV,liberated ,95
-2007,HRV,stable ,872
-2007,HRV,stable ,857
-2015,HRV,stable ,847
-2019,HRV,stable ,828
-2003,HTI,Total ,73
-2007,HTI,Total ,66
-2007,HTI,Total ,71
-2015,HTI,Total ,77
-2019,HTI,Total ,87
-2007,HTI,expansion,13
-2007,HTI,expansion,21
-2015,HTI,expansion,29
-2019,HTI,expansion,41
-2007,HTI,liberated ,20
-2007,HTI,liberated ,24
-2015,HTI,liberated ,25
-2019,HTI,liberated ,27
-2007,HTI,stable ,52
-2007,HTI,stable ,49
-2015,HTI,stable ,48
-2019,HTI,stable ,46
-2003,HUN,Total ,4689
-2007,HUN,Total ,4657
-2007,HUN,Total ,4642
-2015,HUN,Total ,4646
-2019,HUN,Total ,4577
-2007,HUN,expansion,144
-2007,HUN,expansion,212
-2015,HUN,expansion,259
-2019,HUN,expansion,290
-2007,HUN,liberated ,176
-2007,HUN,liberated ,259
-2015,HUN,liberated ,302
-2019,HUN,liberated ,402
-2007,HUN,stable ,4513
-2007,HUN,stable ,4430
-2015,HUN,stable ,4388
-2019,HUN,stable ,4287
-2003,IDN,Total ,6901
-2007,IDN,Total ,7144
-2007,IDN,Total ,7356
-2015,IDN,Total ,8018
-2019,IDN,Total ,8767
-2007,IDN,expansion,646
-2007,IDN,expansion,1080
-2015,IDN,expansion,1806
-2019,IDN,expansion,2640
-2007,IDN,liberated ,403
-2007,IDN,liberated ,625
-2015,IDN,liberated ,689
-2019,IDN,liberated ,774
-2007,IDN,stable ,6499
-2007,IDN,stable ,6276
-2015,IDN,stable ,6212
-2019,IDN,stable ,6127
-2003,IMN,Total ,8
-2007,IMN,Total ,7
-2007,IMN,Total ,7
-2015,IMN,Total ,7
-2019,IMN,Total ,7
-2007,IMN,expansion,1
-2007,IMN,expansion,2
-2015,IMN,expansion,2
-2019,IMN,expansion,3
-2007,IMN,liberated ,2
-2007,IMN,liberated ,3
-2015,IMN,liberated ,3
-2019,IMN,liberated ,3
-2007,IMN,stable ,6
-2007,IMN,stable ,5
-2015,IMN,stable ,5
-2019,IMN,stable ,5
-2003,IND,Total ,121381
-2007,IND,Total ,126901
-2007,IND,Total ,130193
-2015,IND,Total ,134078
-2019,IND,Total ,136911
-2007,IND,expansion,7904
-2007,IND,expansion,12173
-2015,IND,expansion,16231
-2019,IND,expansion,19936
-2007,IND,liberated ,2384
-2007,IND,liberated ,3362
-2015,IND,liberated ,3535
-2019,IND,liberated ,4406
-2007,IND,stable ,118997
-2007,IND,stable ,118020
-2015,IND,stable ,117846
-2019,IND,stable ,116975
-2003,IRL,Total ,448
-2007,IRL,Total ,399
-2007,IRL,Total ,398
-2015,IRL,Total ,429
-2019,IRL,Total ,470
-2007,IRL,expansion,52
-2007,IRL,expansion,99
-2015,IRL,expansion,144
-2019,IRL,expansion,200
-2007,IRL,liberated ,101
-2007,IRL,liberated ,148
-2015,IRL,liberated ,162
-2019,IRL,liberated ,177
-2007,IRL,stable ,347
-2007,IRL,stable ,299
-2015,IRL,stable ,286
-2019,IRL,stable ,270
-2003,IRN,Total ,12179
-2007,IRN,Total ,13087
-2007,IRN,Total ,13254
-2015,IRN,Total ,13465
-2019,IRN,Total ,14082
-2007,IRN,expansion,1527
-2007,IRN,expansion,2127
-2015,IRN,expansion,2502
-2019,IRN,expansion,3284
-2007,IRN,liberated ,619
-2007,IRN,liberated ,1052
-2015,IRN,liberated ,1217
-2019,IRN,liberated ,1382
-2007,IRN,stable ,11561
-2007,IRN,stable ,11127
-2015,IRN,stable ,10963
-2019,IRN,stable ,10797
-2003,IRQ,Total ,4713
-2007,IRQ,Total ,4090
-2007,IRQ,Total ,4052
-2015,IRQ,Total ,5074
-2019,IRQ,Total ,6297
-2007,IRQ,expansion,423
-2007,IRQ,expansion,606
-2015,IRQ,expansion,1256
-2019,IRQ,expansion,2321
-2007,IRQ,liberated ,1046
-2007,IRQ,liberated ,1268
-2015,IRQ,liberated ,895
-2019,IRQ,liberated ,738
-2007,IRQ,stable ,3667
-2007,IRQ,stable ,3446
-2015,IRQ,stable ,3818
-2019,IRQ,stable ,3975
-2003,ISL,Total ,47
-2007,ISL,Total ,38
-2007,ISL,Total ,43
-2015,ISL,Total ,48
-2019,ISL,Total ,55
-2007,ISL,expansion,7
-2007,ISL,expansion,15
-2015,ISL,expansion,20
-2019,ISL,expansion,28
-2007,ISL,liberated ,17
-2007,ISL,liberated ,19
-2015,ISL,liberated ,19
-2019,ISL,liberated ,21
-2007,ISL,stable ,31
-2007,ISL,stable ,28
-2015,ISL,stable ,28
-2019,ISL,stable ,27
-2003,ISR,Total ,432
-2007,ISR,Total ,419
-2007,ISR,Total ,418
-2015,ISR,Total ,423
-2019,ISR,Total ,420
-2007,ISR,expansion,19
-2007,ISR,expansion,33
-2015,ISR,expansion,45
-2019,ISR,expansion,53
-2007,ISR,liberated ,31
-2007,ISR,liberated ,47
-2015,ISR,liberated ,53
-2019,ISR,liberated ,66
-2007,ISR,stable ,400
-2007,ISR,stable ,385
-2015,ISR,stable ,378
-2019,ISR,stable ,366
-2003,ITA,Total ,7818
-2007,ITA,Total ,7694
-2007,ITA,Total ,7603
-2015,ITA,Total ,7617
-2019,ITA,Total ,7547
-2007,ITA,expansion,275
-2007,ITA,expansion,396
-2015,ITA,expansion,496
-2019,ITA,expansion,603
-2007,ITA,liberated ,400
-2007,ITA,liberated ,610
-2015,ITA,liberated ,696
-2019,ITA,liberated ,874
-2007,ITA,stable ,7418
-2007,ITA,stable ,7208
-2015,ITA,stable ,7121
-2019,ITA,stable ,6944
-2003,JAM,Total ,30
-2007,JAM,Total ,34
-2007,JAM,Total ,35
-2015,JAM,Total ,33
-2019,JAM,Total ,28
-2007,JAM,expansion,8
-2007,JAM,expansion,10
-2015,JAM,expansion,10
-2019,JAM,expansion,9
-2007,JAM,liberated ,4
-2007,JAM,liberated ,5
-2015,JAM,liberated ,7
-2019,JAM,liberated ,11
-2007,JAM,stable ,27
-2007,JAM,stable ,25
-2015,JAM,stable ,23
-2019,JAM,stable ,19
-2003,JEY,Total ,4
-2007,JEY,Total ,4
-2007,JEY,Total ,4
-2015,JEY,Total ,4
-2019,JEY,Total ,4
-2007,JEY,expansion,0
-2007,JEY,expansion,0
-2015,JEY,expansion,0
-2019,JEY,expansion,0
-2007,JEY,liberated ,0
-2007,JEY,liberated ,1
-2015,JEY,liberated ,1
-2019,JEY,liberated ,1
-2007,JEY,stable ,4
-2007,JEY,stable ,4
-2015,JEY,stable ,4
-2019,JEY,stable ,4
-2003,JOR,Total ,241
-2007,JOR,Total ,232
-2007,JOR,Total ,232
-2015,JOR,Total ,244
-2019,JOR,Total ,259
-2007,JOR,expansion,20
-2007,JOR,expansion,32
-2015,JOR,expansion,45
-2019,JOR,expansion,67
-2007,JOR,liberated ,30
-2007,JOR,liberated ,41
-2015,JOR,liberated ,42
-2019,JOR,liberated ,49
-2007,JOR,stable ,212
-2007,JOR,stable ,200
-2015,JOR,stable ,199
-2019,JOR,stable ,192
-2003,JPN,Total ,3101
-2007,JPN,Total ,3147
-2007,JPN,Total ,3154
-2015,JPN,Total ,3172
-2019,JPN,Total ,3187
-2007,JPN,expansion,115
-2007,JPN,expansion,155
-2015,JPN,expansion,191
-2019,JPN,expansion,236
-2007,JPN,liberated ,69
-2007,JPN,liberated ,101
-2015,JPN,liberated ,119
-2019,JPN,liberated ,150
-2007,JPN,stable ,3032
-2007,JPN,stable ,2999
-2015,JPN,stable ,2981
-2019,JPN,stable ,2951
-2003,KAZ,Total ,20744
-2007,KAZ,Total ,20752
-2007,KAZ,Total ,21103
-2015,KAZ,Total ,21650
-2019,KAZ,Total ,22038
-2007,KAZ,expansion,2472
-2007,KAZ,expansion,3749
-2015,KAZ,expansion,4491
-2019,KAZ,expansion,5380
-2007,KAZ,liberated ,2464
-2007,KAZ,liberated ,3390
-2015,KAZ,liberated ,3584
-2019,KAZ,liberated ,4085
-2007,KAZ,stable ,18280
-2007,KAZ,stable ,17354
-2015,KAZ,stable ,17159
-2019,KAZ,stable ,16658
-2003,KEN,Total ,4244
-2007,KEN,Total ,4504
-2007,KEN,Total ,4988
-2015,KEN,Total ,5441
-2019,KEN,Total ,5797
-2007,KEN,expansion,489
-2007,KEN,expansion,1028
-2015,KEN,expansion,1507
-2019,KEN,expansion,1932
-2007,KEN,liberated ,229
-2007,KEN,liberated ,284
-2015,KEN,liberated ,310
-2019,KEN,liberated ,380
-2007,KEN,stable ,4015
-2007,KEN,stable ,3961
-2015,KEN,stable ,3934
-2019,KEN,stable ,3864
-2003,KGZ,Total ,1162
-2007,KGZ,Total ,1288
-2007,KGZ,Total ,1349
-2015,KGZ,Total ,1381
-2019,KGZ,Total ,1406
-2007,KGZ,expansion,167
-2007,KGZ,expansion,247
-2015,KGZ,expansion,291
-2019,KGZ,expansion,331
-2007,KGZ,liberated ,41
-2007,KGZ,liberated ,61
-2015,KGZ,liberated ,72
-2019,KGZ,liberated ,87
-2007,KGZ,stable ,1121
-2007,KGZ,stable ,1101
-2015,KGZ,stable ,1090
-2019,KGZ,stable ,1075
-2003,KHM,Total ,4385
-2007,KHM,Total ,4645
-2007,KHM,Total ,4903
-2015,KHM,Total ,5520
-2019,KHM,Total ,5968
-2007,KHM,expansion,368
-2007,KHM,expansion,694
-2015,KHM,expansion,1344
-2019,KHM,expansion,1825
-2007,KHM,liberated ,107
-2007,KHM,liberated ,176
-2015,KHM,liberated ,209
-2019,KHM,liberated ,242
-2007,KHM,stable ,4278
-2007,KHM,stable ,4209
-2015,KHM,stable ,4176
-2019,KHM,stable ,4143
-2003,KNA,Total ,1
-2007,KNA,Total ,0
-2007,KNA,Total ,0
-2015,KNA,Total ,0
-2019,KNA,Total ,0
-2007,KNA,expansion,0
-2007,KNA,expansion,0
-2015,KNA,expansion,0
-2019,KNA,expansion,0
-2007,KNA,liberated ,1
-2007,KNA,liberated ,1
-2015,KNA,liberated ,1
-2019,KNA,liberated ,1
-2007,KNA,stable ,0
-2007,KNA,stable ,0
-2015,KNA,stable ,0
-2019,KNA,stable ,0
-2003,KOR,Total ,1410
-2007,KOR,Total ,1350
-2007,KOR,Total ,1313
-2015,KOR,Total ,1269
-2019,KOR,Total ,1250
-2007,KOR,expansion,30
-2007,KOR,expansion,46
-2015,KOR,expansion,55
-2019,KOR,expansion,80
-2007,KOR,liberated ,91
-2007,KOR,liberated ,143
-2015,KOR,liberated ,197
-2019,KOR,liberated ,241
-2007,KOR,stable ,1319
-2007,KOR,stable ,1268
-2015,KOR,stable ,1213
-2019,KOR,stable ,1170
-2003,KOS,Total ,200
-2007,KOS,Total ,205
-2007,KOS,Total ,210
-2015,KOS,Total ,210
-2019,KOS,Total ,184
-2007,KOS,expansion,20
-2007,KOS,expansion,28
-2015,KOS,expansion,33
-2019,KOS,expansion,29
-2007,KOS,liberated ,14
-2007,KOS,liberated ,19
-2015,KOS,liberated ,23
-2019,KOS,liberated ,45
-2007,KOS,stable ,186
-2007,KOS,stable ,181
-2015,KOS,stable ,177
-2019,KOS,stable ,155
-2003,KWT,Total ,5
-2007,KWT,Total ,5
-2007,KWT,Total ,5
-2015,KWT,Total ,7
-2019,KWT,Total ,10
-2007,KWT,expansion,1
-2007,KWT,expansion,2
-2015,KWT,expansion,4
-2019,KWT,expansion,7
-2007,KWT,liberated ,1
-2007,KWT,liberated ,2
-2015,KWT,liberated ,2
-2019,KWT,liberated ,2
-2007,KWT,stable ,3
-2007,KWT,stable ,3
-2015,KWT,stable ,3
-2019,KWT,stable ,3
-2003,LAO,Total ,966
-2007,LAO,Total ,1028
-2007,LAO,Total ,1112
-2015,LAO,Total ,1246
-2019,LAO,Total ,1361
-2007,LAO,expansion,84
-2007,LAO,expansion,177
-2015,LAO,expansion,317
-2019,LAO,expansion,439
-2007,LAO,liberated ,22
-2007,LAO,liberated ,32
-2015,LAO,liberated ,37
-2019,LAO,liberated ,45
-2007,LAO,stable ,944
-2007,LAO,stable ,934
-2015,LAO,stable ,929
-2019,LAO,stable ,921
-2003,LBN,Total ,107
-2007,LBN,Total ,100
-2007,LBN,Total ,102
-2015,LBN,Total ,104
-2019,LBN,Total ,108
-2007,LBN,expansion,7
-2007,LBN,expansion,12
-2015,LBN,expansion,16
-2019,LBN,expansion,23
-2007,LBN,liberated ,14
-2007,LBN,liberated ,17
-2015,LBN,liberated ,19
-2019,LBN,liberated ,22
-2007,LBN,stable ,94
-2007,LBN,stable ,90
-2015,LBN,stable ,88
-2019,LBN,stable ,85
-2003,LBR,Total ,0
-2007,LBR,Total ,0
-2007,LBR,Total ,0
-2015,LBR,Total ,0
-2019,LBR,Total ,1
-2007,LBR,expansion,0
-2007,LBR,expansion,0
-2015,LBR,expansion,0
-2019,LBR,expansion,1
-2007,LBR,liberated ,0
-2007,LBR,liberated ,0
-2015,LBR,liberated ,0
-2019,LBR,liberated ,0
-2007,LBR,stable ,0
-2007,LBR,stable ,0
-2015,LBR,stable ,0
-2019,LBR,stable ,0
-2003,LBY,Total ,735
-2007,LBY,Total ,745
-2007,LBY,Total ,792
-2015,LBY,Total ,847
-2019,LBY,Total ,915
-2007,LBY,expansion,73
-2007,LBY,expansion,153
-2015,LBY,expansion,231
-2019,LBY,expansion,316
-2007,LBY,liberated ,63
-2007,LBY,liberated ,96
-2015,LBY,liberated ,119
-2019,LBY,liberated ,136
-2007,LBY,stable ,672
-2007,LBY,stable ,639
-2015,LBY,stable ,616
-2019,LBY,stable ,599
-2003,LCA,Total ,0
-2007,LCA,Total ,0
-2007,LCA,Total ,0
-2015,LCA,Total ,0
-2019,LCA,Total ,0
-2007,LCA,expansion,0
-2007,LCA,expansion,0
-2015,LCA,expansion,0
-2019,LCA,expansion,0
-2007,LCA,liberated ,0
-2007,LCA,liberated ,0
-2015,LCA,liberated ,0
-2019,LCA,liberated ,0
-2007,LCA,stable ,0
-2007,LCA,stable ,0
-2015,LCA,stable ,0
-2019,LCA,stable ,0
-2003,LIE,Total ,1
-2007,LIE,Total ,1
-2007,LIE,Total ,1
-2015,LIE,Total ,1
-2019,LIE,Total ,1
-2007,LIE,expansion,0
-2007,LIE,expansion,0
-2015,LIE,expansion,0
-2019,LIE,expansion,0
-2007,LIE,liberated ,0
-2007,LIE,liberated ,0
-2015,LIE,liberated ,0
-2019,LIE,liberated ,0
-2007,LIE,stable ,1
-2007,LIE,stable ,1
-2015,LIE,stable ,1
-2019,LIE,stable ,1
-2003,LKA,Total ,762
-2007,LKA,Total ,788
-2007,LKA,Total ,831
-2015,LKA,Total ,917
-2019,LKA,Total ,997
-2007,LKA,expansion,84
-2007,LKA,expansion,141
-2015,LKA,expansion,226
-2019,LKA,expansion,317
-2007,LKA,liberated ,58
-2007,LKA,liberated ,72
-2015,LKA,liberated ,71
-2019,LKA,liberated ,81
-2007,LKA,stable ,704
-2007,LKA,stable ,690
-2015,LKA,stable ,691
-2019,LKA,stable ,681
-2003,LSO,Total ,212
-2007,LSO,Total ,211
-2007,LSO,Total ,214
-2015,LSO,Total ,229
-2019,LSO,Total ,247
-2007,LSO,expansion,14
-2007,LSO,expansion,22
-2015,LSO,expansion,36
-2019,LSO,expansion,55
-2007,LSO,liberated ,15
-2007,LSO,liberated ,20
-2015,LSO,liberated ,20
-2019,LSO,liberated ,21
-2007,LSO,stable ,196
-2007,LSO,stable ,192
-2015,LSO,stable ,192
-2019,LSO,stable ,191
-2003,LTU,Total ,1182
-2007,LTU,Total ,1429
-2007,LTU,Total ,1586
-2015,LTU,Total ,1830
-2019,LTU,Total ,1966
-2007,LTU,expansion,356
-2007,LTU,expansion,543
-2015,LTU,expansion,760
-2019,LTU,expansion,891
-2007,LTU,liberated ,109
-2007,LTU,liberated ,139
-2015,LTU,liberated ,113
-2019,LTU,liberated ,108
-2007,LTU,stable ,1074
-2007,LTU,stable ,1043
-2015,LTU,stable ,1070
-2019,LTU,stable ,1074
-2003,LUX,Total ,53
-2007,LUX,Total ,52
-2007,LUX,Total ,52
-2015,LUX,Total ,53
-2019,LUX,Total ,53
-2007,LUX,expansion,3
-2007,LUX,expansion,5
-2015,LUX,expansion,6
-2019,LUX,expansion,8
-2007,LUX,liberated ,4
-2007,LUX,liberated ,6
-2015,LUX,liberated ,6
-2019,LUX,liberated ,8
-2007,LUX,stable ,49
-2007,LUX,stable ,47
-2015,LUX,stable ,47
-2019,LUX,stable ,45
-2003,LVA,Total ,562
-2007,LVA,Total ,703
-2007,LVA,Total ,789
-2015,LVA,Total ,928
-2019,LVA,Total ,1017
-2007,LVA,expansion,210
-2007,LVA,expansion,315
-2015,LVA,expansion,442
-2019,LVA,expansion,531
-2007,LVA,liberated ,70
-2007,LVA,liberated ,88
-2015,LVA,liberated ,76
-2019,LVA,liberated ,76
-2007,LVA,stable ,493
-2007,LVA,stable ,474
-2015,LVA,stable ,486
-2019,LVA,stable ,486
-2003,MAR,Total ,6259
-2007,MAR,Total ,6329
-2007,MAR,Total ,6436
-2015,MAR,Total ,6369
-2019,MAR,Total ,6311
-2007,MAR,expansion,346
-2007,MAR,expansion,558
-2015,MAR,expansion,621
-2019,MAR,expansion,706
-2007,MAR,liberated ,277
-2007,MAR,liberated ,381
-2015,MAR,liberated ,511
-2019,MAR,liberated ,655
-2007,MAR,stable ,5983
-2007,MAR,stable ,5878
-2015,MAR,stable ,5748
-2019,MAR,stable ,5605
-2003,MDA,Total ,1876
-2007,MDA,Total ,1848
-2007,MDA,Total ,1835
-2015,MDA,Total ,1844
-2019,MDA,Total ,1857
-2007,MDA,expansion,54
-2007,MDA,expansion,85
-2015,MDA,expansion,111
-2019,MDA,expansion,146
-2007,MDA,liberated ,82
-2007,MDA,liberated ,126
-2015,MDA,liberated ,143
-2019,MDA,liberated ,165
-2007,MDA,stable ,1794
-2007,MDA,stable ,1751
-2015,MDA,stable ,1733
-2019,MDA,stable ,1711
-2003,MDG,Total ,1253
-2007,MDG,Total ,1370
-2007,MDG,Total ,1463
-2015,MDG,Total ,1698
-2019,MDG,Total ,1972
-2007,MDG,expansion,223
-2007,MDG,expansion,345
-2015,MDG,expansion,567
-2019,MDG,expansion,841
-2007,MDG,liberated ,106
-2007,MDG,liberated ,134
-2015,MDG,liberated ,121
-2019,MDG,liberated ,121
-2007,MDG,stable ,1147
-2007,MDG,stable ,1119
-2015,MDG,stable ,1131
-2019,MDG,stable ,1132
-2003,MEX,Total ,10036
-2007,MEX,Total ,10110
-2007,MEX,Total ,10500
-2015,MEX,Total ,10951
-2019,MEX,Total ,11169
-2007,MEX,expansion,974
-2007,MEX,expansion,1660
-2015,MEX,expansion,2225
-2019,MEX,expansion,2752
-2007,MEX,liberated ,899
-2007,MEX,liberated ,1196
-2015,MEX,liberated ,1310
-2019,MEX,liberated ,1619
-2007,MEX,stable ,9137
-2007,MEX,stable ,8840
-2015,MEX,stable ,8726
-2019,MEX,stable ,8417
-2003,MKD,Total ,329
-2007,MKD,Total ,313
-2007,MKD,Total ,310
-2015,MKD,Total ,305
-2019,MKD,Total ,293
-2007,MKD,expansion,15
-2007,MKD,expansion,22
-2015,MKD,expansion,26
-2019,MKD,expansion,29
-2007,MKD,liberated ,30
-2007,MKD,liberated ,41
-2015,MKD,liberated ,49
-2019,MKD,liberated ,65
-2007,MKD,stable ,299
-2007,MKD,stable ,288
-2015,MKD,stable ,280
-2019,MKD,stable ,264
-2003,MLI,Total ,4468
-2007,MLI,Total ,4871
-2007,MLI,Total ,5258
-2015,MLI,Total ,5676
-2019,MLI,Total ,6136
-2007,MLI,expansion,778
-2007,MLI,expansion,1276
-2015,MLI,expansion,1720
-2019,MLI,expansion,2236
-2007,MLI,liberated ,375
-2007,MLI,liberated ,486
-2015,MLI,liberated ,513
-2019,MLI,liberated ,568
-2007,MLI,stable ,4093
-2007,MLI,stable ,3982
-2015,MLI,stable ,3955
-2019,MLI,stable ,3900
-2003,MLT,Total ,3
-2007,MLT,Total ,3
-2007,MLT,Total ,3
-2015,MLT,Total ,4
-2019,MLT,Total ,4
-2007,MLT,expansion,0
-2007,MLT,expansion,0
-2015,MLT,expansion,1
-2019,MLT,expansion,1
-2007,MLT,liberated ,1
-2007,MLT,liberated ,1
-2015,MLT,liberated ,1
-2019,MLT,liberated ,0
-2007,MLT,stable ,3
-2007,MLT,stable ,3
-2015,MLT,stable ,3
-2019,MLT,stable ,3
-2003,MMR,Total ,10552
-2007,MMR,Total ,10781
-2007,MMR,Total ,11010
-2015,MMR,Total ,11393
-2019,MMR,Total ,11739
-2007,MMR,expansion,609
-2007,MMR,expansion,1009
-2015,MMR,expansion,1452
-2019,MMR,expansion,1906
-2007,MMR,liberated ,381
-2007,MMR,liberated ,552
-2015,MMR,liberated ,611
-2019,MMR,liberated ,719
-2007,MMR,stable ,10172
-2007,MMR,stable ,10001
-2015,MMR,stable ,9941
-2019,MMR,stable ,9833
-2003,MNE,Total ,17
-2007,MNE,Total ,16
-2007,MNE,Total ,15
-2015,MNE,Total ,14
-2019,MNE,Total ,13
-2007,MNE,expansion,1
-2007,MNE,expansion,2
-2015,MNE,expansion,2
-2019,MNE,expansion,2
-2007,MNE,liberated ,2
-2007,MNE,liberated ,3
-2015,MNE,liberated ,4
-2019,MNE,liberated ,6
-2007,MNE,stable ,15
-2007,MNE,stable ,14
-2015,MNE,stable ,13
-2019,MNE,stable ,11
-2003,MNG,Total ,381
-2007,MNG,Total ,374
-2007,MNG,Total ,409
-2015,MNG,Total ,456
-2019,MNG,Total ,561
-2007,MNG,expansion,80
-2007,MNG,expansion,148
-2015,MNG,expansion,206
-2019,MNG,expansion,322
-2007,MNG,liberated ,86
-2007,MNG,liberated ,120
-2015,MNG,liberated ,131
-2019,MNG,liberated ,142
-2007,MNG,stable ,295
-2007,MNG,stable ,261
-2015,MNG,stable ,250
-2019,MNG,stable ,239
-2003,MOZ,Total ,1790
-2007,MOZ,Total ,1970
-2007,MOZ,Total ,2359
-2015,MOZ,Total ,3069
-2019,MOZ,Total ,3940
-2007,MOZ,expansion,494
-2007,MOZ,expansion,1002
-2015,MOZ,expansion,1755
-2019,MOZ,expansion,2644
-2007,MOZ,liberated ,314
-2007,MOZ,liberated ,432
-2015,MOZ,liberated ,475
-2019,MOZ,liberated ,493
-2007,MOZ,stable ,1476
-2007,MOZ,stable ,1358
-2015,MOZ,stable ,1314
-2019,MOZ,stable ,1297
-2003,MRT,Total ,23
-2007,MRT,Total ,17
-2007,MRT,Total ,22
-2015,MRT,Total ,35
-2019,MRT,Total ,51
-2007,MRT,expansion,4
-2007,MRT,expansion,10
-2015,MRT,expansion,23
-2019,MRT,expansion,38
-2007,MRT,liberated ,10
-2007,MRT,liberated ,10
-2015,MRT,liberated ,10
-2019,MRT,liberated ,9
-2007,MRT,stable ,13
-2007,MRT,stable ,12
-2015,MRT,stable ,13
-2019,MRT,stable ,13
-2003,MSR,Total ,0
-2007,MSR,Total ,0
-2007,MSR,Total ,0
-2015,MSR,Total ,0
-2019,MSR,Total ,0
-2007,MSR,expansion,0
-2015,MSR,expansion,0
-2019,MSR,expansion,0
-2007,MSR,liberated ,0
-2007,MSR,liberated ,0
-2015,MSR,liberated ,0
-2019,MSR,liberated ,0
-2007,MSR,stable ,0
-2007,MSR,stable ,0
-2003,MTQ,Total ,1
-2007,MTQ,Total ,1
-2007,MTQ,Total ,1
-2015,MTQ,Total ,2
-2019,MTQ,Total ,3
-2007,MTQ,expansion,1
-2007,MTQ,expansion,1
-2015,MTQ,expansion,2
-2019,MTQ,expansion,3
-2007,MTQ,liberated ,0
-2007,MTQ,liberated ,0
-2015,MTQ,liberated ,0
-2019,MTQ,liberated ,0
-2007,MTQ,stable ,1
-2007,MTQ,stable ,0
-2015,MTQ,stable ,0
-2019,MTQ,stable ,0
-2003,MWI,Total ,1722
-2007,MWI,Total ,1823
-2007,MWI,Total ,1938
-2015,MWI,Total ,2138
-2019,MWI,Total ,2320
-2007,MWI,expansion,217
-2007,MWI,expansion,362
-2015,MWI,expansion,550
-2019,MWI,expansion,740
-2007,MWI,liberated ,115
-2007,MWI,liberated ,146
-2015,MWI,liberated ,134
-2019,MWI,liberated ,142
-2007,MWI,stable ,1607
-2007,MWI,stable ,1576
-2015,MWI,stable ,1588
-2019,MWI,stable ,1580
-2003,MYS,Total ,306
-2007,MYS,Total ,301
-2007,MYS,Total ,297
-2015,MYS,Total ,299
-2019,MYS,Total ,307
-2007,MYS,expansion,14
-2007,MYS,expansion,22
-2015,MYS,expansion,32
-2019,MYS,expansion,44
-2007,MYS,liberated ,19
-2007,MYS,liberated ,32
-2015,MYS,liberated ,40
-2019,MYS,liberated ,43
-2007,MYS,stable ,288
-2007,MYS,stable ,275
-2015,MYS,stable ,267
-2019,MYS,stable ,263
-2003,MYT,Total ,0
-2015,MYT,Total ,0
-2019,MYT,Total ,0
-2015,MYT,expansion,0
-2019,MYT,expansion,0
-2007,MYT,liberated ,0
-2007,MYT,liberated ,0
-2015,MYT,liberated ,0
-2019,MYT,liberated ,0
-2015,MYT,stable ,0
-2019,MYT,stable ,0
-2003,NAM,Total ,361
-2007,NAM,Total ,389
-2007,NAM,Total ,421
-2015,NAM,Total ,512
-2019,NAM,Total ,582
-2007,NAM,expansion,64
-2007,NAM,expansion,106
-2015,NAM,expansion,194
-2019,NAM,expansion,266
-2007,NAM,liberated ,36
-2007,NAM,liberated ,45
-2015,NAM,liberated ,42
-2019,NAM,liberated ,45
-2007,NAM,stable ,325
-2007,NAM,stable ,315
-2015,NAM,stable ,318
-2019,NAM,stable ,316
-2003,NCL,Total ,1
-2007,NCL,Total ,1
-2007,NCL,Total ,2
-2015,NCL,Total ,2
-2019,NCL,Total ,2
-2007,NCL,expansion,0
-2007,NCL,expansion,0
-2015,NCL,expansion,0
-2019,NCL,expansion,1
-2007,NCL,liberated ,0
-2007,NCL,liberated ,0
-2015,NCL,liberated ,0
-2019,NCL,liberated ,0
-2007,NCL,stable ,1
-2007,NCL,stable ,1
-2015,NCL,stable ,1
-2019,NCL,stable ,1
-2003,NER,Total ,7090
-2007,NER,Total ,7453
-2007,NER,Total ,7664
-2015,NER,Total ,7818
-2019,NER,Total ,8024
-2007,NER,expansion,576
-2007,NER,expansion,875
-2015,NER,expansion,1090
-2019,NER,expansion,1352
-2007,NER,liberated ,213
-2007,NER,liberated ,301
-2015,NER,liberated ,362
-2019,NER,liberated ,418
-2007,NER,stable ,6877
-2007,NER,stable ,6789
-2015,NER,stable ,6728
-2019,NER,stable ,6672
-2003,NGA,Total ,28379
-2007,NGA,Total ,29625
-2007,NGA,Total ,30780
-2015,NGA,Total ,32056
-2019,NGA,Total ,32966
-2007,NGA,expansion,2378
-2007,NGA,expansion,4004
-2015,NGA,expansion,5486
-2019,NGA,expansion,6861
-2007,NGA,liberated ,1133
-2007,NGA,liberated ,1604
-2015,NGA,liberated ,1809
-2019,NGA,liberated ,2274
-2007,NGA,stable ,27247
-2007,NGA,stable ,26775
-2015,NGA,stable ,26570
-2019,NGA,stable ,26105
-2003,NIC,Total ,160
-2007,NIC,Total ,165
-2007,NIC,Total ,194
-2015,NIC,Total ,223
-2019,NIC,Total ,242
-2007,NIC,expansion,29
-2007,NIC,expansion,61
-2015,NIC,expansion,90
-2019,NIC,expansion,112
-2007,NIC,liberated ,24
-2007,NIC,liberated ,28
-2015,NIC,liberated ,28
-2019,NIC,liberated ,31
-2007,NIC,stable ,136
-2007,NIC,stable ,132
-2015,NIC,stable ,133
-2019,NIC,stable ,130
-2003,NLD,Total ,1004
-2007,NLD,Total ,983
-2007,NLD,Total ,975
-2015,NLD,Total ,973
-2019,NLD,Total ,970
-2007,NLD,expansion,75
-2007,NLD,expansion,122
-2015,NLD,expansion,149
-2019,NLD,expansion,184
-2007,NLD,liberated ,96
-2007,NLD,liberated ,151
-2015,NLD,liberated ,180
-2019,NLD,liberated ,218
-2007,NLD,stable ,908
-2007,NLD,stable ,853
-2015,NLD,stable ,824
-2019,NLD,stable ,786
-2003,NOR,Total ,421
-2007,NOR,Total ,422
-2007,NOR,Total ,426
-2015,NOR,Total ,434
-2019,NOR,Total ,443
-2007,NOR,expansion,27
-2007,NOR,expansion,42
-2015,NOR,expansion,53
-2019,NOR,expansion,69
-2007,NOR,liberated ,26
-2007,NOR,liberated ,37
-2015,NOR,liberated ,41
-2019,NOR,liberated ,48
-2007,NOR,stable ,395
-2007,NOR,stable ,384
-2015,NOR,stable ,380
-2019,NOR,stable ,373
-2003,NPL,Total ,1621
-2007,NPL,Total ,1671
-2007,NPL,Total ,1721
-2015,NPL,Total ,1763
-2019,NPL,Total ,1827
-2007,NPL,expansion,92
-2007,NPL,expansion,158
-2015,NPL,expansion,210
-2019,NPL,expansion,287
-2007,NPL,liberated ,42
-2007,NPL,liberated ,58
-2015,NPL,liberated ,68
-2019,NPL,liberated ,81
-2007,NPL,stable ,1579
-2007,NPL,stable ,1563
-2015,NPL,stable ,1553
-2019,NPL,stable ,1540
-2003,NZL,Total ,464
-2007,NZL,Total ,454
-2007,NZL,Total ,518
-2015,NZL,Total ,527
-2019,NZL,Total ,548
-2007,NZL,expansion,104
-2007,NZL,expansion,202
-2015,NZL,expansion,236
-2019,NZL,expansion,265
-2007,NZL,liberated ,114
-2007,NZL,liberated ,147
-2015,NZL,liberated ,173
-2019,NZL,liberated ,181
-2007,NZL,stable ,350
-2007,NZL,stable ,316
-2015,NZL,stable ,291
-2019,NZL,stable ,283
-2003,OMN,Total ,13
-2007,OMN,Total ,14
-2007,OMN,Total ,16
-2015,OMN,Total ,23
-2019,OMN,Total ,30
-2007,OMN,expansion,3
-2007,OMN,expansion,6
-2015,OMN,expansion,13
-2019,OMN,expansion,21
-2007,OMN,liberated ,2
-2007,OMN,liberated ,4
-2015,OMN,liberated ,4
-2019,OMN,liberated ,4
-2007,OMN,stable ,11
-2007,OMN,stable ,10
-2015,OMN,stable ,10
-2019,OMN,stable ,9
-2003,PAK,Total ,16977
-2007,PAK,Total ,17831
-2007,PAK,Total ,18239
-2015,PAK,Total ,18555
-2019,PAK,Total ,18906
-2007,PAK,expansion,1072
-2007,PAK,expansion,1641
-2015,PAK,expansion,2051
-2019,PAK,expansion,2526
-2007,PAK,liberated ,218
-2007,PAK,liberated ,379
-2015,PAK,liberated ,473
-2019,PAK,liberated ,597
-2007,PAK,stable ,16759
-2007,PAK,stable ,16598
-2015,PAK,stable ,16504
-2019,PAK,stable ,16380
-2003,PAN,Total ,35
-2007,PAN,Total ,29
-2007,PAN,Total ,45
-2015,PAN,Total ,80
-2019,PAN,Total ,121
-2007,PAN,expansion,5
-2007,PAN,expansion,23
-2015,PAN,expansion,56
-2019,PAN,expansion,97
-2007,PAN,liberated ,11
-2007,PAN,liberated ,13
-2015,PAN,liberated ,11
-2019,PAN,liberated ,10
-2007,PAN,stable ,24
-2007,PAN,stable ,22
-2015,PAN,stable ,24
-2019,PAN,stable ,25
-2003,PER,Total ,746
-2007,PER,Total ,795
-2007,PER,Total ,853
-2015,PER,Total ,951
-2019,PER,Total ,1087
-2007,PER,expansion,108
-2007,PER,expansion,193
-2015,PER,expansion,303
-2019,PER,expansion,458
-2007,PER,liberated ,59
-2007,PER,liberated ,86
-2015,PER,liberated ,98
-2019,PER,liberated ,117
-2007,PER,stable ,686
-2007,PER,stable ,660
-2015,PER,stable ,647
-2019,PER,stable ,628
-2003,PHL,Total ,3157
-2007,PHL,Total ,3224
-2007,PHL,Total ,3286
-2015,PHL,Total ,3486
-2019,PHL,Total ,3668
-2007,PHL,expansion,243
-2007,PHL,expansion,368
-2015,PHL,expansion,571
-2019,PHL,expansion,784
-2007,PHL,liberated ,176
-2007,PHL,liberated ,238
-2015,PHL,liberated ,242
-2019,PHL,liberated ,273
-2007,PHL,stable ,2981
-2007,PHL,stable ,2918
-2015,PHL,stable ,2915
-2019,PHL,stable ,2883
-2003,PLW,Total ,0
-2007,PLW,Total ,0
-2007,PLW,Total ,0
-2015,PLW,Total ,0
-2019,PLW,Total ,0
-2015,PLW,expansion,0
-2019,PLW,expansion,0
-2007,PLW,stable ,0
-2007,PLW,stable ,0
-2015,PLW,stable ,0
-2019,PLW,stable ,0
-2003,PNG,Total ,15
-2007,PNG,Total ,15
-2007,PNG,Total ,15
-2015,PNG,Total ,18
-2019,PNG,Total ,23
-2007,PNG,expansion,3
-2007,PNG,expansion,5
-2015,PNG,expansion,8
-2019,PNG,expansion,14
-2007,PNG,liberated ,4
-2007,PNG,liberated ,5
-2015,PNG,liberated ,6
-2019,PNG,liberated ,6
-2007,PNG,stable ,12
-2007,PNG,stable ,10
-2015,PNG,stable ,9
-2019,PNG,stable ,9
-2003,POL,Total ,11612
-2007,POL,Total ,11759
-2007,POL,Total ,11734
-2015,POL,Total ,11861
-2019,POL,Total ,11941
-2007,POL,expansion,523
-2007,POL,expansion,708
-2015,POL,expansion,905
-2019,POL,expansion,1102
-2007,POL,liberated ,377
-2007,POL,liberated ,585
-2015,POL,liberated ,656
-2019,POL,liberated ,773
-2007,POL,stable ,11235
-2007,POL,stable ,11027
-2015,POL,stable ,10957
-2019,POL,stable ,10839
-2003,PRI,Total ,25
-2007,PRI,Total ,18
-2007,PRI,Total ,18
-2015,PRI,Total ,20
-2019,PRI,Total ,27
-2007,PRI,expansion,3
-2007,PRI,expansion,7
-2015,PRI,expansion,9
-2019,PRI,expansion,17
-2007,PRI,liberated ,11
-2007,PRI,liberated ,13
-2015,PRI,liberated ,14
-2019,PRI,liberated ,14
-2007,PRI,stable ,14
-2007,PRI,stable ,12
-2015,PRI,stable ,11
-2019,PRI,stable ,11
-2003,PRK,Total ,1727
-2007,PRK,Total ,1765
-2007,PRK,Total ,1805
-2015,PRK,Total ,1880
-2019,PRK,Total ,1930
-2007,PRK,expansion,117
-2007,PRK,expansion,184
-2015,PRK,expansion,262
-2019,PRK,expansion,323
-2007,PRK,liberated ,79
-2007,PRK,liberated ,106
-2015,PRK,liberated ,108
-2019,PRK,liberated ,121
-2007,PRK,stable ,1648
-2007,PRK,stable ,1621
-2015,PRK,stable ,1619
-2019,PRK,stable ,1606
-2003,PRT,Total ,702
-2007,PRT,Total ,625
-2007,PRT,Total ,595
-2015,PRT,Total ,591
-2019,PRT,Total ,662
-2007,PRT,expansion,61
-2007,PRT,expansion,94
-2015,PRT,expansion,118
-2019,PRT,expansion,195
-2007,PRT,liberated ,138
-2007,PRT,liberated ,201
-2015,PRT,liberated ,229
-2019,PRT,liberated ,235
-2007,PRT,stable ,564
-2007,PRT,stable ,501
-2015,PRT,stable ,474
-2019,PRT,stable ,467
-2003,PRY,Total ,1518
-2007,PRY,Total ,1938
-2007,PRY,Total ,2206
-2015,PRY,Total ,2530
-2019,PRY,Total ,2815
-2007,PRY,expansion,459
-2007,PRY,expansion,748
-2015,PRY,expansion,1081
-2019,PRY,expansion,1371
-2007,PRY,liberated ,40
-2007,PRY,liberated ,60
-2015,PRY,liberated ,70
-2019,PRY,liberated ,75
-2007,PRY,stable ,1479
-2007,PRY,stable ,1458
-2015,PRY,stable ,1449
-2019,PRY,stable ,1443
-2003,PSE,Total ,75
-2007,PSE,Total ,69
-2007,PSE,Total ,68
-2015,PSE,Total ,70
-2019,PSE,Total ,75
-2007,PSE,expansion,4
-2007,PSE,expansion,6
-2015,PSE,expansion,9
-2019,PSE,expansion,15
-2007,PSE,liberated ,10
-2007,PSE,liberated ,13
-2015,PSE,liberated ,14
-2019,PSE,liberated ,15
-2007,PSE,stable ,66
-2007,PSE,stable ,62
-2015,PSE,stable ,61
-2019,PSE,stable ,60
-2003,QAT,Total ,3
-2007,QAT,Total ,3
-2007,QAT,Total ,4
-2015,QAT,Total ,5
-2019,QAT,Total ,7
-2007,QAT,expansion,1
-2007,QAT,expansion,2
-2015,QAT,expansion,3
-2019,QAT,expansion,5
-2007,QAT,liberated ,1
-2007,QAT,liberated ,1
-2015,QAT,liberated ,1
-2019,QAT,liberated ,1
-2007,QAT,stable ,2
-2007,QAT,stable ,2
-2015,QAT,stable ,2
-2019,QAT,stable ,2
-2003,ROU,Total ,7229
-2007,ROU,Total ,6953
-2007,ROU,Total ,7006
-2015,ROU,Total ,7415
-2019,ROU,Total ,7542
-2007,ROU,expansion,348
-2007,ROU,expansion,570
-2015,ROU,expansion,856
-2019,ROU,expansion,1038
-2007,ROU,liberated ,624
-2007,ROU,liberated ,793
-2015,ROU,liberated ,670
-2019,ROU,liberated ,725
-2007,ROU,stable ,6605
-2007,ROU,stable ,6436
-2015,ROU,stable ,6560
-2019,ROU,stable ,6505
-2003,RUS,Total ,90937
-2007,RUS,Total ,85988
-2007,RUS,Total ,85205
-2015,RUS,Total ,85186
-2019,RUS,Total ,85279
-2007,RUS,expansion,5332
-2007,RUS,expansion,8739
-2015,RUS,expansion,10565
-2019,RUS,expansion,12686
-2007,RUS,liberated ,10282
-2007,RUS,liberated ,14471
-2015,RUS,liberated ,16316
-2019,RUS,liberated ,18345
-2007,RUS,stable ,80655
-2007,RUS,stable ,76466
-2015,RUS,stable ,74621
-2019,RUS,stable ,72592
-2003,RWA,Total ,767
-2007,RWA,Total ,783
-2007,RWA,Total ,812
-2015,RWA,Total ,853
-2019,RWA,Total ,911
-2007,RWA,expansion,57
-2007,RWA,expansion,101
-2015,RWA,expansion,146
-2019,RWA,expansion,208
-2007,RWA,liberated ,41
-2007,RWA,liberated ,56
-2015,RWA,liberated ,60
-2019,RWA,liberated ,64
-2007,RWA,stable ,726
-2007,RWA,stable ,712
-2015,RWA,stable ,708
-2019,RWA,stable ,703
-2003,SAU,Total ,1346
-2007,SAU,Total ,1285
-2007,SAU,Total ,1198
-2015,SAU,Total ,1252
-2019,SAU,Total ,1298
-2007,SAU,expansion,189
-2007,SAU,expansion,290
-2015,SAU,expansion,426
-2019,SAU,expansion,543
-2007,SAU,liberated ,251
-2007,SAU,liberated ,439
-2015,SAU,liberated ,521
-2019,SAU,liberated ,592
-2007,SAU,stable ,1096
-2007,SAU,stable ,908
-2015,SAU,stable ,826
-2019,SAU,stable ,754
-2003,SDN,Total ,14588
-2007,SDN,Total ,15310
-2007,SDN,Total ,16081
-2015,SDN,Total ,17420
-2019,SDN,Total ,18694
-2007,SDN,expansion,1732
-2007,SDN,expansion,2788
-2015,SDN,expansion,4005
-2019,SDN,expansion,5316
-2007,SDN,liberated ,1010
-2007,SDN,liberated ,1294
-2015,SDN,liberated ,1172
-2019,SDN,liberated ,1210
-2007,SDN,stable ,13578
-2007,SDN,stable ,13294
-2015,SDN,stable ,13415
-2019,SDN,stable ,13378
-2003,SEN,Total ,2937
-2007,SEN,Total ,3078
-2007,SEN,Total ,3191
-2015,SEN,Total ,3318
-2019,SEN,Total ,3411
-2007,SEN,expansion,277
-2007,SEN,expansion,429
-2015,SEN,expansion,554
-2019,SEN,expansion,686
-2007,SEN,liberated ,136
-2007,SEN,liberated ,175
-2015,SEN,liberated ,173
-2019,SEN,liberated ,212
-2007,SEN,stable ,2801
-2007,SEN,stable ,2762
-2015,SEN,stable ,2764
-2019,SEN,stable ,2725
-2003,SGP,Total ,0
-2007,SGP,Total ,0
-2007,SGP,Total ,0
-2015,SGP,Total ,0
-2019,SGP,Total ,0
-2007,SGP,expansion,0
-2007,SGP,expansion,0
-2015,SGP,expansion,0
-2019,SGP,expansion,0
-2007,SGP,liberated ,0
-2007,SGP,liberated ,0
-2015,SGP,liberated ,0
-2019,SGP,liberated ,0
-2007,SGP,stable ,0
-2007,SGP,stable ,0
-2015,SGP,stable ,0
-2019,SGP,stable ,0
-2003,SLB,Total ,0
-2007,SLB,Total ,0
-2007,SLB,Total ,0
-2015,SLB,Total ,0
-2019,SLB,Total ,0
-2007,SLB,expansion,0
-2007,SLB,expansion,0
-2015,SLB,expansion,0
-2019,SLB,expansion,0
-2007,SLB,liberated ,0
-2007,SLB,liberated ,0
-2015,SLB,liberated ,0
-2019,SLB,liberated ,0
-2007,SLB,stable ,0
-2007,SLB,stable ,0
-2015,SLB,stable ,0
-2019,SLB,stable ,0
-2003,SLE,Total ,18
-2007,SLE,Total ,22
-2007,SLE,Total ,25
-2015,SLE,Total ,29
-2019,SLE,Total ,32
-2007,SLE,expansion,5
-2007,SLE,expansion,9
-2015,SLE,expansion,13
-2019,SLE,expansion,17
-2007,SLE,liberated ,1
-2007,SLE,liberated ,1
-2015,SLE,liberated ,2
-2019,SLE,liberated ,3
-2007,SLE,stable ,17
-2007,SLE,stable ,17
-2015,SLE,stable ,16
-2019,SLE,stable ,15
-2003,SLV,Total ,72
-2007,SLV,Total ,66
-2007,SLV,Total ,67
-2015,SLV,Total ,74
-2019,SLV,Total ,78
-2007,SLV,expansion,7
-2007,SLV,expansion,12
-2015,SLV,expansion,19
-2019,SLV,expansion,26
-2007,SLV,liberated ,13
-2007,SLV,liberated ,17
-2015,SLV,liberated ,18
-2019,SLV,liberated ,20
-2007,SLV,stable ,59
-2007,SLV,stable ,55
-2015,SLV,stable ,55
-2019,SLV,stable ,52
-2003,SMR,Total ,1
-2007,SMR,Total ,1
-2007,SMR,Total ,1
-2015,SMR,Total ,1
-2019,SMR,Total ,1
-2007,SMR,expansion,0
-2007,SMR,expansion,0
-2015,SMR,expansion,0
-2019,SMR,expansion,0
-2007,SMR,liberated ,0
-2007,SMR,liberated ,0
-2015,SMR,liberated ,0
-2019,SMR,liberated ,0
-2007,SMR,stable ,1
-2007,SMR,stable ,1
-2015,SMR,stable ,1
-2019,SMR,stable ,1
-2003,SOM,Total ,715
-2007,SOM,Total ,787
-2007,SOM,Total ,853
-2015,SOM,Total ,1033
-2019,SOM,Total ,1180
-2007,SOM,expansion,163
-2007,SOM,expansion,252
-2015,SOM,expansion,423
-2019,SOM,expansion,569
-2007,SOM,liberated ,91
-2007,SOM,liberated ,115
-2015,SOM,liberated ,105
-2019,SOM,liberated ,105
-2007,SOM,stable ,624
-2007,SOM,stable ,600
-2015,SOM,stable ,610
-2019,SOM,stable ,611
-2003,SPM,Total ,0
-2007,SPM,Total ,0
-2007,SPM,Total ,0
-2015,SPM,Total ,0
-2019,SPM,Total ,0
-2007,SPM,expansion,0
-2007,SPM,expansion,0
-2015,SPM,expansion,0
-2019,SPM,expansion,0
-2007,SPM,liberated ,0
-2007,SPM,liberated ,0
-2015,SPM,liberated ,0
-2019,SPM,liberated ,0
-2007,SPM,stable ,0
-2007,SPM,stable ,0
-2015,SPM,stable ,0
-2019,SPM,stable ,0
-2003,SRB,Total ,2409
-2007,SRB,Total ,2438
-2007,SRB,Total ,2451
-2015,SRB,Total ,2469
-2019,SRB,Total ,2457
-2007,SRB,expansion,98
-2007,SRB,expansion,136
-2015,SRB,expansion,164
-2019,SRB,expansion,187
-2007,SRB,liberated ,70
-2007,SRB,liberated ,94
-2015,SRB,liberated ,104
-2019,SRB,liberated ,139
-2007,SRB,stable ,2339
-2007,SRB,stable ,2315
-2015,SRB,stable ,2305
-2019,SRB,stable ,2271
-2003,SSD,Total ,195
-2007,SSD,Total ,197
-2007,SSD,Total ,223
-2015,SSD,Total ,297
-2019,SSD,Total ,390
-2007,SSD,expansion,26
-2007,SSD,expansion,60
-2015,SSD,expansion,130
-2019,SSD,expansion,220
-2007,SSD,liberated ,25
-2007,SSD,liberated ,32
-2015,SSD,liberated ,28
-2019,SSD,liberated ,26
-2007,SSD,stable ,171
-2007,SSD,stable ,163
-2015,SSD,stable ,167
-2019,SSD,stable ,170
-2003,SUR,Total ,37
-2007,SUR,Total ,33
-2007,SUR,Total ,36
-2015,SUR,Total ,40
-2019,SUR,Total ,41
-2007,SUR,expansion,6
-2007,SUR,expansion,10
-2015,SUR,expansion,13
-2019,SUR,expansion,15
-2007,SUR,liberated ,10
-2007,SUR,liberated ,11
-2015,SUR,liberated ,11
-2019,SUR,liberated ,11
-2007,SUR,stable ,28
-2007,SUR,stable ,26
-2015,SUR,stable ,26
-2019,SUR,stable ,26
-2003,SVK,Total ,1420
-2007,SVK,Total ,1380
-2007,SVK,Total ,1358
-2015,SVK,Total ,1354
-2019,SVK,Total ,1342
-2007,SVK,expansion,35
-2007,SVK,expansion,50
-2015,SVK,expansion,60
-2019,SVK,expansion,70
-2007,SVK,liberated ,74
-2007,SVK,liberated ,111
-2015,SVK,liberated ,125
-2019,SVK,liberated ,147
-2007,SVK,stable ,1345
-2007,SVK,stable ,1309
-2015,SVK,stable ,1294
-2019,SVK,stable ,1273
-2003,SVN,Total ,134
-2007,SVN,Total ,145
-2007,SVN,Total ,149
-2015,SVN,Total ,151
-2019,SVN,Total ,143
-2007,SVN,expansion,16
-2007,SVN,expansion,23
-2015,SVN,expansion,26
-2019,SVN,expansion,26
-2007,SVN,liberated ,6
-2007,SVN,liberated ,9
-2015,SVN,liberated ,10
-2019,SVN,liberated ,17
-2007,SVN,stable ,129
-2007,SVN,stable ,126
-2015,SVN,stable ,124
-2019,SVN,stable ,117
-2003,SWE,Total ,1834
-2007,SWE,Total ,1843
-2007,SWE,Total ,1850
-2015,SWE,Total ,1890
-2019,SWE,Total ,1900
-2007,SWE,expansion,98
-2007,SWE,expansion,143
-2015,SWE,expansion,184
-2019,SWE,expansion,226
-2007,SWE,liberated ,89
-2007,SWE,liberated ,128
-2015,SWE,liberated ,129
-2019,SWE,liberated ,160
-2007,SWE,stable ,1745
-2007,SWE,stable ,1707
-2015,SWE,stable ,1705
-2019,SWE,stable ,1674
-2003,SWZ,Total ,69
-2007,SWZ,Total ,73
-2007,SWZ,Total ,77
-2015,SWZ,Total ,90
-2019,SWZ,Total ,104
-2007,SWZ,expansion,7
-2007,SWZ,expansion,13
-2015,SWZ,expansion,26
-2019,SWZ,expansion,42
-2007,SWZ,liberated ,4
-2007,SWZ,liberated ,5
-2015,SWZ,liberated ,5
-2019,SWZ,liberated ,7
-2007,SWZ,stable ,66
-2007,SWZ,stable ,64
-2015,SWZ,stable ,64
-2019,SWZ,stable ,63
-2003,SYR,Total ,4411
-2007,SYR,Total ,4256
-2007,SYR,Total ,4139
-2015,SYR,Total ,4310
-2019,SYR,Total ,4569
-2007,SYR,expansion,148
-2007,SYR,expansion,206
-2015,SYR,expansion,346
-2019,SYR,expansion,658
-2007,SYR,liberated ,303
-2007,SYR,liberated ,478
-2015,SYR,liberated ,447
-2019,SYR,liberated ,499
-2007,SYR,stable ,4107
-2007,SYR,stable ,3933
-2015,SYR,stable ,3964
-2019,SYR,stable ,3911
-2003,TCA,Total ,0
-2007,TCA,Total ,0
-2007,TCA,Total ,0
-2015,TCA,Total ,0
-2019,TCA,Total ,0
-2007,TCA,expansion,0
-2007,TCA,expansion,0
-2015,TCA,expansion,0
-2019,TCA,expansion,0
-2007,TCA,liberated ,0
-2007,TCA,liberated ,0
-2015,TCA,liberated ,0
-2019,TCA,liberated ,0
-2007,TCA,stable ,0
-2007,TCA,stable ,0
-2015,TCA,stable ,0
-2019,TCA,stable ,0
-2003,TCD,Total ,3332
-2007,TCD,Total ,3776
-2007,TCD,Total ,4248
-2015,TCD,Total ,5094
-2019,TCD,Total ,5939
-2007,TCD,expansion,736
-2007,TCD,expansion,1298
-2015,TCD,expansion,2109
-2019,TCD,expansion,2918
-2007,TCD,liberated ,292
-2007,TCD,liberated ,382
-2015,TCD,liberated ,347
-2019,TCD,liberated ,311
-2007,TCD,stable ,3039
-2007,TCD,stable ,2950
-2015,TCD,stable ,2985
-2019,TCD,stable ,3020
-2003,TGO,Total ,998
-2007,TGO,Total ,1018
-2007,TGO,Total ,1083
-2015,TGO,Total ,1187
-2019,TGO,Total ,1339
-2007,TGO,expansion,152
-2007,TGO,expansion,262
-2015,TGO,expansion,370
-2019,TGO,expansion,522
-2007,TGO,liberated ,131
-2007,TGO,liberated ,176
-2015,TGO,liberated ,181
-2019,TGO,liberated ,181
-2007,TGO,stable ,866
-2007,TGO,stable ,822
-2015,TGO,stable ,816
-2019,TGO,stable ,817
-2003,THA,Total ,16944
-2007,THA,Total ,17364
-2007,THA,Total ,17386
-2015,THA,Total ,17551
-2019,THA,Total ,17379
-2007,THA,expansion,934
-2007,THA,expansion,1417
-2015,THA,expansion,1889
-2019,THA,expansion,2099
-2007,THA,liberated ,515
-2007,THA,liberated ,976
-2015,THA,liberated ,1283
-2019,THA,liberated ,1664
-2007,THA,stable ,16430
-2007,THA,stable ,15969
-2015,THA,stable ,15661
-2019,THA,stable ,15280
-2003,TJK,Total ,1054
-2007,TJK,Total ,1073
-2007,TJK,Total ,1086
-2015,TJK,Total ,1094
-2019,TJK,Total ,1132
-2007,TJK,expansion,72
-2007,TJK,expansion,116
-2015,TJK,expansion,140
-2019,TJK,expansion,187
-2007,TJK,liberated ,54
-2007,TJK,liberated ,84
-2015,TJK,liberated ,101
-2019,TJK,liberated ,109
-2007,TJK,stable ,1001
-2007,TJK,stable ,970
-2015,TJK,stable ,954
-2019,TJK,stable ,945
-2003,TKM,Total ,2016
-2007,TKM,Total ,2245
-2007,TKM,Total ,2366
-2015,TKM,Total ,2499
-2019,TKM,Total ,2618
-2007,TKM,expansion,328
-2007,TKM,expansion,492
-2015,TKM,expansion,630
-2019,TKM,expansion,770
-2007,TKM,liberated ,99
-2007,TKM,liberated ,142
-2015,TKM,liberated ,147
-2019,TKM,liberated ,167
-2007,TKM,stable ,1917
-2007,TKM,stable ,1874
-2015,TKM,stable ,1869
-2019,TKM,stable ,1848
-2003,TLS,Total ,46
-2007,TLS,Total ,47
-2007,TLS,Total ,49
-2015,TLS,Total ,51
-2019,TLS,Total ,54
-2007,TLS,expansion,7
-2007,TLS,expansion,13
-2015,TLS,expansion,19
-2019,TLS,expansion,24
-2007,TLS,liberated ,6
-2007,TLS,liberated ,10
-2015,TLS,liberated ,14
-2019,TLS,liberated ,16
-2007,TLS,stable ,40
-2007,TLS,stable ,36
-2015,TLS,stable ,32
-2019,TLS,stable ,30
-2003,TTO,Total ,3
-2007,TTO,Total ,4
-2007,TTO,Total ,4
-2015,TTO,Total ,4
-2019,TTO,Total ,3
-2007,TTO,expansion,0
-2007,TTO,expansion,1
-2015,TTO,expansion,1
-2019,TTO,expansion,1
-2007,TTO,liberated ,0
-2007,TTO,liberated ,0
-2015,TTO,liberated ,1
-2019,TTO,liberated ,1
-2007,TTO,stable ,3
-2007,TTO,stable ,3
-2015,TTO,stable ,3
-2019,TTO,stable ,3
-2003,TUN,Total ,1809
-2007,TUN,Total ,1856
-2007,TUN,Total ,1871
-2015,TUN,Total ,1893
-2019,TUN,Total ,1933
-2007,TUN,expansion,122
-2007,TUN,expansion,168
-2015,TUN,expansion,203
-2019,TUN,expansion,272
-2007,TUN,liberated ,76
-2007,TUN,liberated ,106
-2015,TUN,liberated ,119
-2019,TUN,liberated ,148
-2007,TUN,stable ,1733
-2007,TUN,stable ,1703
-2015,TUN,stable ,1690
-2019,TUN,stable ,1661
-2003,TUR,Total ,17764
-2007,TUR,Total ,17988
-2007,TUR,Total ,18091
-2015,TUR,Total ,18171
-2019,TUR,Total ,18297
-2007,TUR,expansion,856
-2007,TUR,expansion,1303
-2015,TUR,expansion,1603
-2019,TUR,expansion,2043
-2007,TUR,liberated ,632
-2007,TUR,liberated ,976
-2015,TUR,liberated ,1196
-2019,TUR,liberated ,1510
-2007,TUR,stable ,17132
-2007,TUR,stable ,16788
-2015,TUR,stable ,16568
-2019,TUR,stable ,16254
-2003,TWN,Total ,343
-2007,TWN,Total ,324
-2007,TWN,Total ,319
-2015,TWN,Total ,326
-2019,TWN,Total ,333
-2007,TWN,expansion,13
-2007,TWN,expansion,21
-2015,TWN,expansion,32
-2019,TWN,expansion,44
-2007,TWN,liberated ,31
-2007,TWN,liberated ,44
-2015,TWN,liberated ,48
-2019,TWN,liberated ,54
-2007,TWN,stable ,311
-2007,TWN,stable ,299
-2015,TWN,stable ,294
-2019,TWN,stable ,289
-2003,TZA,Total ,9566
-2007,TZA,Total ,10272
-2007,TZA,Total ,11617
-2015,TZA,Total ,13694
-2019,TZA,Total ,15570
-2007,TZA,expansion,1459
-2007,TZA,expansion,3024
-2015,TZA,expansion,5063
-2019,TZA,expansion,6984
-2007,TZA,liberated ,753
-2007,TZA,liberated ,973
-2015,TZA,liberated ,935
-2019,TZA,liberated ,979
-2007,TZA,stable ,8813
-2007,TZA,stable ,8592
-2015,TZA,stable ,8631
-2019,TZA,stable ,8587
-2003,UGA,Total ,3306
-2007,UGA,Total ,3791
-2007,UGA,Total ,4309
-2015,UGA,Total ,5049
-2019,UGA,Total ,5789
-2007,UGA,expansion,688
-2007,UGA,expansion,1270
-2015,UGA,expansion,2003
-2019,UGA,expansion,2779
-2007,UGA,liberated ,203
-2007,UGA,liberated ,267
-2015,UGA,liberated ,261
-2019,UGA,liberated ,296
-2007,UGA,stable ,3103
-2007,UGA,stable ,3039
-2015,UGA,stable ,3046
-2019,UGA,stable ,3011
-2003,UKR,Total ,31431
-2007,UKR,Total ,31250
-2007,UKR,Total ,31678
-2015,UKR,Total ,32382
-2019,UKR,Total ,32718
-2007,UKR,expansion,1019
-2007,UKR,expansion,1768
-2015,UKR,expansion,2346
-2019,UKR,expansion,2894
-2007,UKR,liberated ,1201
-2007,UKR,liberated ,1521
-2015,UKR,liberated ,1396
-2019,UKR,liberated ,1607
-2007,UKR,stable ,30231
-2007,UKR,stable ,29910
-2015,UKR,stable ,30036
-2019,UKR,stable ,29824
-2003,URY,Total ,1291
-2007,URY,Total ,1695
-2007,URY,Total ,2302
-2015,URY,Total ,2636
-2019,URY,Total ,2674
-2007,URY,expansion,517
-2007,URY,expansion,1150
-2015,URY,expansion,1480
-2019,URY,expansion,1555
-2007,URY,liberated ,113
-2007,URY,liberated ,140
-2015,URY,liberated ,136
-2019,URY,liberated ,172
-2007,URY,stable ,1178
-2007,URY,stable ,1151
-2015,URY,stable ,1156
-2019,URY,stable ,1119
-2003,USA,Total ,146840
-2007,USA,Total ,145010
-2007,USA,Total ,144912
-2015,USA,Total ,147661
-2019,USA,Total ,149131
-2007,USA,expansion,3993
-2007,USA,expansion,7021
-2015,USA,expansion,10782
-2019,USA,expansion,13631
-2007,USA,liberated ,5823
-2007,USA,liberated ,8948
-2015,USA,liberated ,9960
-2019,USA,liberated ,11339
-2007,USA,stable ,141016
-2007,USA,stable ,137891
-2015,USA,stable ,136879
-2019,USA,stable ,135501
-2003,UZB,Total ,5442
-2007,UZB,Total ,5586
-2007,UZB,Total ,5619
-2015,UZB,Total ,5679
-2019,UZB,Total ,5801
-2007,UZB,expansion,345
-2007,UZB,expansion,489
-2015,UZB,expansion,580
-2019,UZB,expansion,729
-2007,UZB,liberated ,201
-2007,UZB,liberated ,312
-2015,UZB,liberated ,344
-2019,UZB,liberated ,370
-2007,UZB,stable ,5241
-2007,UZB,stable ,5131
-2015,UZB,stable ,5099
-2019,UZB,stable ,5072
-2019,VCT,Total ,0
-2019,VCT,expansion,0
-2003,VEN,Total ,628
-2007,VEN,Total ,623
-2007,VEN,Total ,662
-2015,VEN,Total ,703
-2019,VEN,Total ,725
-2007,VEN,expansion,95
-2007,VEN,expansion,171
-2015,VEN,expansion,239
-2019,VEN,expansion,318
-2007,VEN,liberated ,101
-2007,VEN,liberated ,137
-2015,VEN,liberated ,165
-2019,VEN,liberated ,221
-2007,VEN,stable ,528
-2007,VEN,stable ,491
-2015,VEN,stable ,464
-2019,VEN,stable ,407
-2003,VGB,Total ,0
-2015,VGB,Total ,0
-2019,VGB,Total ,0
-2015,VGB,expansion,0
-2019,VGB,expansion,0
-2007,VGB,liberated ,0
-2007,VGB,liberated ,0
-2015,VGB,liberated ,0
-2019,VGB,liberated ,0
-2019,VGB,stable ,0
-2003,VNM,Total ,5140
-2007,VNM,Total ,5073
-2007,VNM,Total ,5020
-2015,VNM,Total ,5063
-2019,VNM,Total ,5010
-2007,VNM,expansion,340
-2007,VNM,expansion,534
-2015,VNM,expansion,746
-2019,VNM,expansion,906
-2007,VNM,liberated ,406
-2007,VNM,liberated ,654
-2015,VNM,liberated ,822
-2019,VNM,liberated ,1036
-2007,VNM,stable ,4733
-2007,VNM,stable ,4486
-2015,VNM,stable ,4317
-2019,VNM,stable ,4103
-2003,VUT,Total ,0
-2007,VUT,Total ,0
-2007,VUT,Total ,0
-2015,VUT,Total ,0
-2019,VUT,Total ,0
-2007,VUT,expansion,0
-2007,VUT,expansion,0
-2015,VUT,expansion,0
-2019,VUT,expansion,0
-2007,VUT,liberated ,0
-2007,VUT,liberated ,0
-2015,VUT,liberated ,0
-2019,VUT,liberated ,0
-2007,VUT,stable ,0
-2007,VUT,stable ,0
-2015,VUT,stable ,0
-2019,VUT,stable ,0
-2003,YEM,Total ,532
-2007,YEM,Total ,474
-2007,YEM,Total ,502
-2015,YEM,Total ,564
-2019,YEM,Total ,628
-2007,YEM,expansion,33
-2007,YEM,expansion,74
-2015,YEM,expansion,122
-2019,YEM,expansion,187
-2007,YEM,liberated ,91
-2007,YEM,liberated ,105
-2015,YEM,liberated ,90
-2019,YEM,liberated ,91
-2007,YEM,stable ,441
-2007,YEM,stable ,427
-2015,YEM,stable ,442
-2019,YEM,stable ,441
-2003,ZAF,Total ,7182
-2007,ZAF,Total ,7041
-2007,ZAF,Total ,6960
-2015,ZAF,Total ,7297
-2019,ZAF,Total ,7732
-2007,ZAF,expansion,492
-2007,ZAF,expansion,775
-2015,ZAF,expansion,1208
-2019,ZAF,expansion,1737
-2007,ZAF,liberated ,632
-2007,ZAF,liberated ,997
-2015,ZAF,liberated ,1093
-2019,ZAF,liberated ,1187
-2007,ZAF,stable ,6549
-2007,ZAF,stable ,6185
-2015,ZAF,stable ,6089
-2019,ZAF,stable ,5995
-2003,ZMB,Total ,1851
-2007,ZMB,Total ,2075
-2007,ZMB,Total ,2577
-2015,ZMB,Total ,3294
-2019,ZMB,Total ,4080
-2007,ZMB,expansion,435
-2007,ZMB,expansion,1012
-2015,ZMB,expansion,1737
-2019,ZMB,expansion,2535
-2007,ZMB,liberated ,211
-2007,ZMB,liberated ,286
-2015,ZMB,liberated ,295
-2019,ZMB,liberated ,306
-2007,ZMB,stable ,1640
-2007,ZMB,stable ,1566
-2015,ZMB,stable ,1557
-2019,ZMB,stable ,1545
-2003,ZWE,Total ,4366
-2007,ZWE,Total ,4521
-2007,ZWE,Total ,4763
-2015,ZWE,Total ,5283
-2019,ZWE,Total ,5823
-2007,ZWE,expansion,527
-2007,ZWE,expansion,936
-2015,ZWE,expansion,1480
-2019,ZWE,expansion,2039
-2007,ZWE,liberated ,372
-2007,ZWE,liberated ,539
-2015,ZWE,liberated ,563
-2019,ZWE,liberated ,582
-2007,ZWE,stable ,3994
-2007,ZWE,stable ,3827
-2015,ZWE,stable ,3803
-2019,ZWE,stable ,3784
+2003,WLD,Total,1090255
+2007,WLD,Total,1110716
+2007,WLD,Total,1135781
+2015,WLD,Total,1179235
+2019,WLD,Total,1215363
+2007,WLD,Expansion,78943
+2007,WLD,Expansion,130093
+2015,WLD,Expansion,182097
+2019,WLD,Expansion,232781
+2007,WLD,Liberated,58483
+2007,WLD,Liberated,84567
+2015,WLD,Liberated,93117
+2019,WLD,Liberated,107674
+2007,WLD,Stable,1031773
+2007,WLD,Stable,1005688
+2015,WLD,Stable,997138
+2019,WLD,Stable,982581
+2003,AFG,Total,2085
+2007,AFG,Total,2427
+2007,AFG,Total,2704
+2015,AFG,Total,2908
+2019,AFG,Total,3166
+2007,AFG,Expansion,468
+2007,AFG,Expansion,786
+2015,AFG,Expansion,1009
+2019,AFG,Expansion,1311
+2007,AFG,Liberated,127
+2007,AFG,Liberated,167
+2015,AFG,Liberated,186
+2019,AFG,Liberated,230
+2007,AFG,Stable,1958
+2007,AFG,Stable,1918
+2015,AFG,Stable,1898
+2019,AFG,Stable,1855
+2003,AGO,Total,1132
+2007,AGO,Total,1213
+2007,AGO,Total,1424
+2015,AGO,Total,2142
+2019,AGO,Total,2995
+2007,AGO,Expansion,262
+2007,AGO,Expansion,537
+2015,AGO,Expansion,1250
+2019,AGO,Expansion,2090
+2007,AGO,Liberated,180
+2007,AGO,Liberated,245
+2015,AGO,Liberated,239
+2019,AGO,Liberated,227
+2007,AGO,Stable,951
+2007,AGO,Stable,887
+2015,AGO,Stable,892
+2019,AGO,Stable,905
+2003,AIA,Total,0
+2007,AIA,Total,0
+2007,AIA,Total,0
+2015,AIA,Total,0
+2019,AIA,Total,0
+2007,AIA,Expansion,0
+2007,AIA,Expansion,0
+2015,AIA,Expansion,0
+2019,AIA,Expansion,0
+2007,AIA,Liberated,0
+2007,AIA,Liberated,0
+2015,AIA,Liberated,0
+2019,AIA,Liberated,0
+2007,AIA,Stable,0
+2007,AIA,Stable,0
+2015,AIA,Stable,0
+2019,AIA,Stable,0
+2003,ALB,Total,300
+2007,ALB,Total,270
+2007,ALB,Total,261
+2015,ALB,Total,255
+2019,ALB,Total,243
+2007,ALB,Expansion,15
+2007,ALB,Expansion,22
+2015,ALB,Expansion,25
+2019,ALB,Expansion,29
+2007,ALB,Liberated,46
+2007,ALB,Liberated,62
+2015,ALB,Liberated,71
+2019,ALB,Liberated,86
+2007,ALB,Stable,255
+2007,ALB,Stable,239
+2015,ALB,Stable,230
+2019,ALB,Stable,215
+2003,AND,Total,0
+2007,AND,Total,0
+2007,AND,Total,0
+2015,AND,Total,0
+2019,AND,Total,0
+2007,AND,Expansion,0
+2007,AND,Expansion,0
+2015,AND,Expansion,0
+2019,AND,Expansion,0
+2007,AND,Liberated,0
+2007,AND,Liberated,0
+2015,AND,Liberated,0
+2019,AND,Liberated,0
+2007,AND,Stable,0
+2007,AND,Stable,0
+2015,AND,Stable,0
+2019,AND,Stable,0
+2003,ARE,Total,39
+2007,ARE,Total,8
+2007,ARE,Total,7
+2015,ARE,Total,9
+2019,ARE,Total,11
+2007,ARE,Expansion,1
+2007,ARE,Expansion,2
+2015,ARE,Expansion,5
+2019,ARE,Expansion,7
+2007,ARE,Liberated,31
+2007,ARE,Liberated,33
+2015,ARE,Liberated,35
+2019,ARE,Liberated,35
+2007,ARE,Stable,8
+2007,ARE,Stable,5
+2015,ARE,Stable,4
+2019,ARE,Stable,4
+2003,ARG,Total,37695
+2007,ARG,Total,41071
+2007,ARG,Total,43334
+2015,ARG,Total,44311
+2019,ARG,Total,43358
+2007,ARG,Expansion,4429
+2007,ARG,Expansion,7215
+2015,ARG,Expansion,8478
+2019,ARG,Expansion,8683
+2007,ARG,Liberated,1053
+2007,ARG,Liberated,1576
+2015,ARG,Liberated,1863
+2019,ARG,Liberated,3019
+2007,ARG,Stable,36642
+2007,ARG,Stable,36119
+2015,ARG,Stable,35832
+2019,ARG,Stable,34676
+2003,ARM,Total,303
+2007,ARM,Total,284
+2007,ARM,Total,290
+2015,ARM,Total,327
+2019,ARM,Total,367
+2007,ARM,Expansion,39
+2007,ARM,Expansion,59
+2015,ARM,Expansion,89
+2019,ARM,Expansion,128
+2007,ARM,Liberated,58
+2007,ARM,Liberated,72
+2015,ARM,Liberated,65
+2019,ARM,Liberated,64
+2007,ARM,Stable,245
+2007,ARM,Stable,231
+2015,ARM,Stable,238
+2019,ARM,Stable,239
+2003,ATG,Total,0
+2007,ATG,Total,0
+2007,ATG,Total,0
+2015,ATG,Total,0
+2019,ATG,Total,1
+2007,ATG,Expansion,0
+2007,ATG,Expansion,0
+2015,ATG,Expansion,0
+2019,ATG,Expansion,1
+2007,ATG,Liberated,0
+2007,ATG,Liberated,0
+2015,ATG,Liberated,0
+2019,ATG,Liberated,0
+2007,ATG,Stable,0
+2007,ATG,Stable,0
+2015,ATG,Stable,0
+2019,ATG,Stable,0
+2003,AUS,Total,42368
+2007,AUS,Total,43413
+2007,AUS,Total,43603
+2015,AUS,Total,44706
+2019,AUS,Total,45470
+2007,AUS,Expansion,2412
+2007,AUS,Expansion,3456
+2015,AUS,Expansion,4419
+2019,AUS,Expansion,4913
+2007,AUS,Liberated,1367
+2007,AUS,Liberated,2221
+2015,AUS,Liberated,2081
+2019,AUS,Liberated,1811
+2007,AUS,Stable,41001
+2007,AUS,Stable,40147
+2015,AUS,Stable,40287
+2019,AUS,Stable,40557
+2003,AUT,Total,1306
+2007,AUT,Total,1315
+2007,AUT,Total,1321
+2015,AUT,Total,1314
+2019,AUT,Total,1267
+2007,AUT,Expansion,43
+2007,AUT,Expansion,68
+2015,AUT,Expansion,75
+2019,AUT,Expansion,75
+2007,AUT,Liberated,33
+2007,AUT,Liberated,53
+2015,AUT,Liberated,67
+2019,AUT,Liberated,114
+2007,AUT,Stable,1272
+2007,AUT,Stable,1253
+2015,AUT,Stable,1239
+2019,AUT,Stable,1192
+2003,AZE,Total,1726
+2007,AZE,Total,1652
+2007,AZE,Total,1726
+2015,AZE,Total,1928
+2019,AZE,Total,2123
+2007,AZE,Expansion,174
+2007,AZE,Expansion,300
+2015,AZE,Expansion,437
+2019,AZE,Expansion,627
+2007,AZE,Liberated,247
+2007,AZE,Liberated,300
+2015,AZE,Liberated,235
+2019,AZE,Liberated,230
+2007,AZE,Stable,1478
+2007,AZE,Stable,1426
+2015,AZE,Stable,1491
+2019,AZE,Stable,1496
+2003,BDI,Total,285
+2007,BDI,Total,293
+2007,BDI,Total,315
+2015,BDI,Total,349
+2019,BDI,Total,409
+2007,BDI,Expansion,28
+2007,BDI,Expansion,56
+2015,BDI,Expansion,90
+2019,BDI,Expansion,148
+2007,BDI,Liberated,20
+2007,BDI,Liberated,26
+2015,BDI,Liberated,26
+2019,BDI,Liberated,25
+2007,BDI,Stable,265
+2007,BDI,Stable,259
+2015,BDI,Stable,259
+2019,BDI,Stable,260
+2003,BEL,Total,879
+2007,BEL,Total,888
+2007,BEL,Total,898
+2015,BEL,Total,916
+2019,BEL,Total,933
+2007,BEL,Expansion,41
+2007,BEL,Expansion,68
+2015,BEL,Expansion,93
+2019,BEL,Expansion,123
+2007,BEL,Liberated,32
+2007,BEL,Liberated,48
+2015,BEL,Liberated,55
+2019,BEL,Liberated,68
+2007,BEL,Stable,847
+2007,BEL,Stable,831
+2015,BEL,Stable,824
+2019,BEL,Stable,810
+2003,BEN,Total,1851
+2007,BEN,Total,1915
+2007,BEN,Total,2101
+2015,BEN,Total,2382
+2019,BEN,Total,2698
+2007,BEN,Expansion,345
+2007,BEN,Expansion,627
+2015,BEN,Expansion,958
+2019,BEN,Expansion,1316
+2007,BEN,Liberated,281
+2007,BEN,Liberated,377
+2015,BEN,Liberated,427
+2019,BEN,Liberated,469
+2007,BEN,Stable,1570
+2007,BEN,Stable,1474
+2015,BEN,Stable,1424
+2019,BEN,Stable,1382
+2003,BFA,Total,2645
+2007,BFA,Total,2966
+2007,BFA,Total,3321
+2015,BFA,Total,3708
+2019,BFA,Total,4239
+2007,BFA,Expansion,573
+2007,BFA,Expansion,998
+2015,BFA,Expansion,1397
+2019,BFA,Expansion,1933
+2007,BFA,Liberated,252
+2007,BFA,Liberated,322
+2015,BFA,Liberated,334
+2019,BFA,Liberated,339
+2007,BFA,Stable,2393
+2007,BFA,Stable,2323
+2015,BFA,Stable,2311
+2019,BFA,Stable,2306
+2003,BGD,Total,6581
+2007,BGD,Total,6628
+2007,BGD,Total,6620
+2015,BGD,Total,6658
+2019,BGD,Total,6545
+2007,BGD,Expansion,290
+2007,BGD,Expansion,414
+2015,BGD,Expansion,528
+2019,BGD,Expansion,593
+2007,BGD,Liberated,244
+2007,BGD,Liberated,375
+2015,BGD,Liberated,452
+2019,BGD,Liberated,629
+2007,BGD,Stable,6338
+2007,BGD,Stable,6206
+2015,BGD,Stable,6130
+2019,BGD,Stable,5952
+2003,BGR,Total,3430
+2007,BGR,Total,3396
+2007,BGR,Total,3493
+2015,BGR,Total,3656
+2019,BGR,Total,3692
+2007,BGR,Expansion,133
+2007,BGR,Expansion,257
+2015,BGR,Expansion,382
+2019,BGR,Expansion,451
+2007,BGR,Liberated,167
+2007,BGR,Liberated,194
+2015,BGR,Liberated,157
+2019,BGR,Liberated,188
+2007,BGR,Stable,3263
+2007,BGR,Stable,3236
+2015,BGR,Stable,3273
+2019,BGR,Stable,3242
+2003,BHR,Total,0
+2007,BHR,Total,0
+2007,BHR,Total,0
+2015,BHR,Total,0
+2019,BHR,Total,0
+2007,BHR,Expansion,0
+2007,BHR,Expansion,0
+2015,BHR,Expansion,0
+2019,BHR,Expansion,0
+2007,BHR,Liberated,0
+2007,BHR,Liberated,0
+2015,BHR,Liberated,0
+2019,BHR,Liberated,0
+2007,BHR,Stable,0
+2007,BHR,Stable,0
+2015,BHR,Stable,0
+2019,BHR,Stable,0
+2003,BHS,Total,1
+2007,BHS,Total,1
+2007,BHS,Total,1
+2015,BHS,Total,1
+2019,BHS,Total,1
+2007,BHS,Expansion,0
+2007,BHS,Expansion,1
+2015,BHS,Expansion,1
+2019,BHS,Expansion,1
+2007,BHS,Liberated,1
+2007,BHS,Liberated,1
+2015,BHS,Liberated,1
+2019,BHS,Liberated,1
+2007,BHS,Stable,1
+2007,BHS,Stable,1
+2015,BHS,Stable,1
+2019,BHS,Stable,1
+2003,BIH,Total,200
+2007,BIH,Total,203
+2007,BIH,Total,221
+2015,BIH,Total,235
+2019,BIH,Total,238
+2007,BIH,Expansion,24
+2007,BIH,Expansion,46
+2015,BIH,Expansion,62
+2019,BIH,Expansion,72
+2007,BIH,Liberated,21
+2007,BIH,Liberated,26
+2015,BIH,Liberated,28
+2019,BIH,Liberated,34
+2007,BIH,Stable,179
+2007,BIH,Stable,175
+2015,BIH,Stable,173
+2019,BIH,Stable,166
+2003,BLR,Total,5154
+2007,BLR,Total,5414
+2007,BLR,Total,5681
+2015,BLR,Total,5908
+2019,BLR,Total,5677
+2007,BLR,Expansion,682
+2007,BLR,Expansion,1060
+2015,BLR,Expansion,1279
+2019,BLR,Expansion,1265
+2007,BLR,Liberated,422
+2007,BLR,Liberated,533
+2015,BLR,Liberated,525
+2019,BLR,Liberated,742
+2007,BLR,Stable,4733
+2007,BLR,Stable,4621
+2015,BLR,Stable,4629
+2019,BLR,Stable,4412
+2003,BLZ,Total,21
+2007,BLZ,Total,17
+2007,BLZ,Total,21
+2015,BLZ,Total,35
+2019,BLZ,Total,56
+2007,BLZ,Expansion,4
+2007,BLZ,Expansion,9
+2015,BLZ,Expansion,23
+2019,BLZ,Expansion,45
+2007,BLZ,Liberated,8
+2007,BLZ,Liberated,10
+2015,BLZ,Liberated,10
+2019,BLZ,Liberated,10
+2007,BLZ,Stable,13
+2007,BLZ,Stable,11
+2015,BLZ,Stable,12
+2019,BLZ,Stable,12
+2003,BOL,Total,1371
+2007,BOL,Total,1631
+2007,BOL,Total,1965
+2015,BOL,Total,2305
+2019,BOL,Total,2710
+2007,BOL,Expansion,376
+2007,BOL,Expansion,792
+2015,BOL,Expansion,1187
+2019,BOL,Expansion,1652
+2007,BOL,Liberated,116
+2007,BOL,Liberated,197
+2015,BOL,Liberated,253
+2019,BOL,Liberated,313
+2007,BOL,Stable,1254
+2007,BOL,Stable,1174
+2015,BOL,Stable,1118
+2019,BOL,Stable,1058
+2003,BRA,Total,30102
+2007,BRA,Total,36351
+2007,BRA,Total,40625
+2015,BRA,Total,47535
+2019,BRA,Total,53203
+2007,BRA,Expansion,7898
+2007,BRA,Expansion,13056
+2015,BRA,Expansion,20140
+2019,BRA,Expansion,26103
+2007,BRA,Liberated,1649
+2007,BRA,Liberated,2533
+2015,BRA,Liberated,2707
+2019,BRA,Liberated,3002
+2007,BRA,Stable,28453
+2007,BRA,Stable,27569
+2015,BRA,Stable,27395
+2019,BRA,Stable,27100
+2003,BRB,Total,4
+2007,BRB,Total,3
+2007,BRB,Total,3
+2015,BRB,Total,6
+2019,BRB,Total,8
+2007,BRB,Expansion,1
+2007,BRB,Expansion,1
+2015,BRB,Expansion,3
+2019,BRB,Expansion,6
+2007,BRB,Liberated,2
+2007,BRB,Liberated,2
+2015,BRB,Liberated,2
+2019,BRB,Liberated,1
+2007,BRB,Stable,2
+2007,BRB,Stable,2
+2015,BRB,Stable,2
+2019,BRB,Stable,2
+2003,BRN,Total,0
+2007,BRN,Total,0
+2007,BRN,Total,0
+2015,BRN,Total,0
+2019,BRN,Total,0
+2007,BRN,Expansion,0
+2015,BRN,Expansion,0
+2019,BRN,Expansion,0
+2007,BRN,Liberated,0
+2007,BRN,Liberated,0
+2007,BRN,Stable,0
+2007,BRN,Stable,0
+2015,BRN,Stable,0
+2019,BRN,Stable,0
+2003,BTN,Total,10
+2007,BTN,Total,10
+2007,BTN,Total,11
+2015,BTN,Total,11
+2019,BTN,Total,13
+2007,BTN,Expansion,1
+2007,BTN,Expansion,2
+2015,BTN,Expansion,3
+2019,BTN,Expansion,5
+2007,BTN,Liberated,1
+2007,BTN,Liberated,1
+2015,BTN,Liberated,2
+2019,BTN,Liberated,2
+2007,BTN,Stable,9
+2007,BTN,Stable,9
+2015,BTN,Stable,8
+2019,BTN,Stable,8
+2003,BWA,Total,115
+2007,BWA,Total,119
+2007,BWA,Total,151
+2015,BWA,Total,214
+2019,BWA,Total,284
+2007,BWA,Expansion,22
+2007,BWA,Expansion,59
+2015,BWA,Expansion,120
+2019,BWA,Expansion,191
+2007,BWA,Liberated,19
+2007,BWA,Liberated,23
+2015,BWA,Liberated,22
+2019,BWA,Liberated,22
+2007,BWA,Stable,96
+2007,BWA,Stable,92
+2015,BWA,Stable,94
+2019,BWA,Stable,93
+2003,CAF,Total,64
+2007,CAF,Total,56
+2007,CAF,Total,77
+2015,CAF,Total,148
+2019,CAF,Total,256
+2007,CAF,Expansion,18
+2007,CAF,Expansion,42
+2015,CAF,Expansion,109
+2019,CAF,Expansion,214
+2007,CAF,Liberated,26
+2007,CAF,Liberated,29
+2015,CAF,Liberated,25
+2019,CAF,Liberated,22
+2007,CAF,Stable,38
+2007,CAF,Stable,35
+2015,CAF,Stable,39
+2019,CAF,Stable,42
+2003,CAN,Total,36999
+2007,CAN,Total,37005
+2007,CAN,Total,36989
+2015,CAN,Total,37613
+2019,CAN,Total,38216
+2007,CAN,Expansion,1436
+2007,CAN,Expansion,2195
+2015,CAN,Expansion,3042
+2019,CAN,Expansion,3847
+2007,CAN,Liberated,1429
+2007,CAN,Liberated,2205
+2015,CAN,Liberated,2427
+2019,CAN,Liberated,2630
+2007,CAN,Stable,35569
+2007,CAN,Stable,34793
+2015,CAN,Stable,34572
+2019,CAN,Stable,34369
+2003,CHE,Total,293
+2007,CHE,Total,300
+2007,CHE,Total,294
+2015,CHE,Total,291
+2019,CHE,Total,274
+2007,CHE,Expansion,28
+2007,CHE,Expansion,35
+2015,CHE,Expansion,38
+2019,CHE,Expansion,42
+2007,CHE,Liberated,21
+2007,CHE,Liberated,34
+2015,CHE,Liberated,41
+2019,CHE,Liberated,62
+2007,CHE,Stable,272
+2007,CHE,Stable,259
+2015,CHE,Stable,253
+2019,CHE,Stable,231
+2003,CHL,Total,1071
+2007,CHL,Total,1016
+2007,CHL,Total,1064
+2015,CHL,Total,1147
+2019,CHL,Total,1202
+2007,CHL,Expansion,130
+2007,CHL,Expansion,259
+2015,CHL,Expansion,365
+2019,CHL,Expansion,457
+2007,CHL,Liberated,185
+2007,CHL,Liberated,266
+2015,CHL,Liberated,289
+2019,CHL,Liberated,325
+2007,CHL,Stable,886
+2007,CHL,Stable,805
+2015,CHL,Stable,782
+2019,CHL,Stable,745
+2003,CHN,Total,117965
+2007,CHN,Total,118424
+2007,CHN,Total,119420
+2015,CHN,Total,121361
+2019,CHN,Total,123344
+2007,CHN,Expansion,6475
+2007,CHN,Expansion,10794
+2015,CHN,Expansion,15029
+2019,CHN,Expansion,19162
+2007,CHN,Liberated,6017
+2007,CHN,Liberated,9340
+2015,CHN,Liberated,11633
+2019,CHN,Liberated,13784
+2007,CHN,Stable,111949
+2007,CHN,Stable,108626
+2015,CHN,Stable,106332
+2019,CHN,Stable,104181
+2003,CIV,Total,693
+2007,CIV,Total,681
+2007,CIV,Total,802
+2015,CIV,Total,1021
+2019,CIV,Total,1363
+2007,CIV,Expansion,158
+2007,CIV,Expansion,333
+2015,CIV,Expansion,583
+2019,CIV,Expansion,934
+2007,CIV,Liberated,169
+2007,CIV,Liberated,224
+2015,CIV,Liberated,254
+2019,CIV,Liberated,265
+2007,CIV,Stable,523
+2007,CIV,Stable,469
+2015,CIV,Stable,438
+2019,CIV,Stable,428
+2003,CMR,Total,1253
+2007,CMR,Total,1342
+2007,CMR,Total,1455
+2015,CMR,Total,1796
+2019,CMR,Total,2087
+2007,CMR,Expansion,179
+2007,CMR,Expansion,309
+2015,CMR,Expansion,632
+2019,CMR,Expansion,920
+2007,CMR,Liberated,90
+2007,CMR,Liberated,108
+2015,CMR,Liberated,89
+2019,CMR,Liberated,86
+2007,CMR,Stable,1163
+2007,CMR,Stable,1146
+2015,CMR,Stable,1164
+2019,CMR,Stable,1167
+2003,COD,Total,1538
+2007,COD,Total,1603
+2007,COD,Total,1902
+2015,COD,Total,2654
+2019,COD,Total,3815
+2007,COD,Expansion,350
+2007,COD,Expansion,724
+2015,COD,Expansion,1474
+2019,COD,Expansion,2631
+2007,COD,Liberated,285
+2007,COD,Liberated,359
+2015,COD,Liberated,358
+2019,COD,Liberated,354
+2007,COD,Stable,1253
+2007,COD,Stable,1178
+2015,COD,Stable,1180
+2019,COD,Stable,1184
+2003,COG,Total,56
+2007,COG,Total,67
+2007,COG,Total,84
+2015,COG,Total,115
+2019,COG,Total,171
+2007,COG,Expansion,25
+2007,COG,Expansion,46
+2015,COG,Expansion,79
+2019,COG,Expansion,135
+2007,COG,Liberated,14
+2007,COG,Liberated,18
+2015,COG,Liberated,19
+2019,COG,Liberated,20
+2007,COG,Stable,42
+2007,COG,Stable,37
+2015,COG,Stable,36
+2019,COG,Stable,36
+2003,COL,Total,545
+2007,COL,Total,501
+2007,COL,Total,543
+2015,COL,Total,654
+2019,COL,Total,902
+2007,COL,Expansion,45
+2007,COL,Expansion,113
+2015,COL,Expansion,232
+2019,COL,Expansion,500
+2007,COL,Liberated,89
+2007,COL,Liberated,115
+2015,COL,Liberated,122
+2019,COL,Liberated,143
+2007,COL,Stable,455
+2007,COL,Stable,430
+2015,COL,Stable,423
+2019,COL,Stable,402
+2003,CRI,Total,89
+2007,CRI,Total,92
+2007,CRI,Total,113
+2015,CRI,Total,141
+2019,CRI,Total,175
+2007,CRI,Expansion,19
+2007,CRI,Expansion,43
+2015,CRI,Expansion,70
+2019,CRI,Expansion,105
+2007,CRI,Liberated,16
+2007,CRI,Liberated,19
+2015,CRI,Liberated,18
+2019,CRI,Liberated,20
+2007,CRI,Stable,73
+2007,CRI,Stable,70
+2015,CRI,Stable,71
+2019,CRI,Stable,70
+2003,CUB,Total,1805
+2007,CUB,Total,1495
+2007,CUB,Total,1378
+2015,CUB,Total,1329
+2019,CUB,Total,1307
+2007,CUB,Expansion,114
+2007,CUB,Expansion,179
+2015,CUB,Expansion,217
+2019,CUB,Expansion,250
+2007,CUB,Liberated,424
+2007,CUB,Liberated,606
+2015,CUB,Liberated,693
+2019,CUB,Liberated,748
+2007,CUB,Stable,1381
+2007,CUB,Stable,1199
+2015,CUB,Stable,1112
+2019,CUB,Stable,1057
+2003,CYM,Total,0
+2007,CYM,Total,0
+2007,CYM,Total,0
+2015,CYM,Total,0
+2019,CYM,Total,0
+2007,CYM,Expansion,0
+2007,CYM,Expansion,0
+2015,CYM,Expansion,0
+2019,CYM,Expansion,0
+2007,CYM,Liberated,0
+2007,CYM,Liberated,0
+2015,CYM,Liberated,0
+2019,CYM,Liberated,0
+2007,CYM,Stable,0
+2007,CYM,Stable,0
+2015,CYM,Stable,0
+2019,CYM,Stable,0
+2003,CYP,Total,112
+2007,CYP,Total,102
+2007,CYP,Total,100
+2015,CYP,Total,104
+2019,CYP,Total,109
+2007,CYP,Expansion,2
+2007,CYP,Expansion,4
+2015,CYP,Expansion,7
+2019,CYP,Expansion,11
+2007,CYP,Liberated,12
+2007,CYP,Liberated,16
+2015,CYP,Liberated,15
+2019,CYP,Liberated,14
+2007,CYP,Stable,100
+2007,CYP,Stable,96
+2015,CYP,Stable,97
+2019,CYP,Stable,98
+2003,CZE,Total,2856
+2007,CZE,Total,2801
+2007,CZE,Total,2743
+2015,CZE,Total,2713
+2019,CZE,Total,2668
+2007,CZE,Expansion,72
+2007,CZE,Expansion,89
+2015,CZE,Expansion,99
+2019,CZE,Expansion,112
+2007,CZE,Liberated,126
+2007,CZE,Liberated,202
+2015,CZE,Liberated,241
+2019,CZE,Liberated,300
+2007,CZE,Stable,2729
+2007,CZE,Stable,2654
+2015,CZE,Stable,2614
+2019,CZE,Stable,2556
+2003,DEU,Total,12034
+2007,DEU,Total,12106
+2007,DEU,Total,12301
+2015,DEU,Total,12397
+2019,DEU,Total,12300
+2007,DEU,Expansion,342
+2007,DEU,Expansion,662
+2015,DEU,Expansion,824
+2019,DEU,Expansion,948
+2007,DEU,Liberated,269
+2007,DEU,Liberated,395
+2015,DEU,Liberated,462
+2019,DEU,Liberated,682
+2007,DEU,Stable,11765
+2007,DEU,Stable,11639
+2015,DEU,Stable,11572
+2019,DEU,Stable,11352
+2015,DJI,Total,0
+2019,DJI,Total,0
+2015,DJI,Expansion,0
+2019,DJI,Expansion,0
+2003,DMA,Total,0
+2007,DMA,Total,0
+2007,DMA,Total,0
+2015,DMA,Total,0
+2019,DMA,Total,0
+2007,DMA,Expansion,0
+2007,DMA,Expansion,0
+2015,DMA,Expansion,0
+2019,DMA,Expansion,0
+2007,DMA,Liberated,0
+2007,DMA,Liberated,0
+2015,DMA,Liberated,0
+2019,DMA,Liberated,0
+2007,DMA,Stable,0
+2007,DMA,Stable,0
+2015,DMA,Stable,0
+2019,DMA,Stable,0
+2003,DNK,Total,2222
+2007,DNK,Total,2243
+2007,DNK,Total,2263
+2015,DNK,Total,2275
+2019,DNK,Total,2247
+2007,DNK,Expansion,105
+2007,DNK,Expansion,171
+2015,DNK,Expansion,198
+2019,DNK,Expansion,218
+2007,DNK,Liberated,83
+2007,DNK,Liberated,129
+2015,DNK,Liberated,144
+2019,DNK,Liberated,193
+2007,DNK,Stable,2138
+2007,DNK,Stable,2092
+2015,DNK,Stable,2078
+2019,DNK,Stable,2029
+2003,DOM,Total,293
+2007,DOM,Total,291
+2007,DOM,Total,312
+2015,DOM,Total,332
+2019,DOM,Total,380
+2007,DOM,Expansion,56
+2007,DOM,Expansion,93
+2015,DOM,Expansion,119
+2019,DOM,Expansion,172
+2007,DOM,Liberated,58
+2007,DOM,Liberated,74
+2015,DOM,Liberated,81
+2019,DOM,Liberated,85
+2007,DOM,Stable,235
+2007,DOM,Stable,219
+2015,DOM,Stable,213
+2019,DOM,Stable,208
+2003,DZA,Total,4999
+2007,DZA,Total,5382
+2007,DZA,Total,5579
+2015,DZA,Total,5579
+2019,DZA,Total,5636
+2007,DZA,Expansion,582
+2007,DZA,Expansion,859
+2015,DZA,Expansion,963
+2019,DZA,Expansion,1152
+2007,DZA,Liberated,199
+2007,DZA,Liberated,279
+2015,DZA,Liberated,384
+2019,DZA,Liberated,516
+2007,DZA,Stable,4801
+2007,DZA,Stable,4720
+2015,DZA,Stable,4616
+2019,DZA,Stable,4484
+2003,ECU,Total,293
+2007,ECU,Total,286
+2007,ECU,Total,310
+2015,ECU,Total,346
+2019,ECU,Total,398
+2007,ECU,Expansion,36
+2007,ECU,Expansion,76
+2015,ECU,Expansion,108
+2019,ECU,Expansion,147
+2007,ECU,Liberated,44
+2007,ECU,Liberated,60
+2015,ECU,Liberated,55
+2019,ECU,Liberated,43
+2007,ECU,Stable,249
+2007,ECU,Stable,234
+2015,ECU,Stable,238
+2019,ECU,Stable,251
+2003,EGY,Total,2913
+2007,EGY,Total,3001
+2007,EGY,Total,3100
+2015,EGY,Total,3256
+2019,EGY,Total,3451
+2007,EGY,Expansion,130
+2007,EGY,Expansion,262
+2015,EGY,Expansion,439
+2019,EGY,Expansion,662
+2007,EGY,Liberated,43
+2007,EGY,Liberated,75
+2015,EGY,Liberated,97
+2019,EGY,Liberated,124
+2007,EGY,Stable,2870
+2007,EGY,Stable,2838
+2015,EGY,Stable,2816
+2019,EGY,Stable,2789
+2003,ERI,Total,264
+2007,ERI,Total,260
+2007,ERI,Total,269
+2015,ERI,Total,275
+2019,ERI,Total,285
+2007,ERI,Expansion,16
+2007,ERI,Expansion,31
+2015,ERI,Expansion,41
+2019,ERI,Expansion,55
+2007,ERI,Liberated,20
+2007,ERI,Liberated,26
+2015,ERI,Liberated,30
+2019,ERI,Liberated,34
+2007,ERI,Stable,244
+2007,ERI,Stable,238
+2015,ERI,Stable,235
+2019,ERI,Stable,230
+2003,ESH,Total,0
+2007,ESH,Total,0
+2007,ESH,Total,0
+2015,ESH,Total,0
+2019,ESH,Total,0
+2007,ESH,Expansion,0
+2007,ESH,Expansion,0
+2015,ESH,Expansion,0
+2019,ESH,Expansion,0
+2007,ESH,Liberated,0
+2007,ESH,Liberated,0
+2015,ESH,Liberated,0
+2019,ESH,Liberated,0
+2007,ESH,Stable,0
+2007,ESH,Stable,0
+2015,ESH,Stable,0
+2019,ESH,Stable,0
+2003,ESP,Total,11586
+2007,ESP,Total,11352
+2007,ESP,Total,11209
+2015,ESP,Total,11345
+2019,ESP,Total,11406
+2007,ESP,Expansion,446
+2007,ESP,Expansion,666
+2015,ESP,Expansion,895
+2019,ESP,Expansion,1136
+2007,ESP,Liberated,680
+2007,ESP,Liberated,1043
+2015,ESP,Liberated,1137
+2019,ESP,Liberated,1316
+2007,ESP,Stable,10907
+2007,ESP,Stable,10543
+2015,ESP,Stable,10449
+2019,ESP,Stable,10270
+2003,EST,Total,420
+2007,EST,Total,562
+2007,EST,Total,616
+2015,EST,Total,660
+2019,EST,Total,670
+2007,EST,Expansion,167
+2007,EST,Expansion,233
+2015,EST,Expansion,276
+2019,EST,Expansion,293
+2007,EST,Liberated,25
+2007,EST,Liberated,37
+2015,EST,Liberated,36
+2019,EST,Liberated,43
+2007,EST,Stable,395
+2007,EST,Stable,383
+2015,EST,Stable,384
+2019,EST,Stable,377
+2003,ETH,Total,14177
+2007,ETH,Total,14090
+2007,ETH,Total,14606
+2015,ETH,Total,15444
+2019,ETH,Total,16060
+2007,ETH,Expansion,818
+2007,ETH,Expansion,1557
+2015,ETH,Expansion,2384
+2019,ETH,Expansion,3187
+2007,ETH,Liberated,905
+2007,ETH,Liberated,1128
+2015,ETH,Liberated,1117
+2019,ETH,Liberated,1305
+2007,ETH,Stable,13272
+2007,ETH,Stable,13049
+2015,ETH,Stable,13060
+2019,ETH,Stable,12872
+2003,FIN,Total,1864
+2007,FIN,Total,1921
+2007,FIN,Total,1939
+2015,FIN,Total,1963
+2019,FIN,Total,1963
+2007,FIN,Expansion,87
+2007,FIN,Expansion,117
+2015,FIN,Expansion,146
+2019,FIN,Expansion,170
+2007,FIN,Liberated,29
+2007,FIN,Liberated,42
+2015,FIN,Liberated,46
+2019,FIN,Liberated,71
+2007,FIN,Stable,1835
+2007,FIN,Stable,1821
+2015,FIN,Stable,1818
+2019,FIN,Stable,1792
+2003,FJI,Total,29
+2007,FJI,Total,29
+2007,FJI,Total,32
+2015,FJI,Total,35
+2019,FJI,Total,38
+2007,FJI,Expansion,5
+2007,FJI,Expansion,10
+2015,FJI,Expansion,15
+2019,FJI,Expansion,20
+2007,FJI,Liberated,5
+2007,FJI,Liberated,7
+2015,FJI,Liberated,9
+2019,FJI,Liberated,10
+2007,FJI,Stable,24
+2007,FJI,Stable,22
+2015,FJI,Stable,20
+2019,FJI,Stable,18
+2003,FRA,Total,16827
+2007,FRA,Total,17043
+2007,FRA,Total,17154
+2015,FRA,Total,17272
+2019,FRA,Total,17482
+2007,FRA,Expansion,816
+2007,FRA,Expansion,1271
+2015,FRA,Expansion,1552
+2019,FRA,Expansion,1994
+2007,FRA,Liberated,601
+2007,FRA,Liberated,944
+2015,FRA,Liberated,1108
+2019,FRA,Liberated,1339
+2007,FRA,Stable,16226
+2007,FRA,Stable,15883
+2015,FRA,Stable,15720
+2019,FRA,Stable,15488
+2003,GAB,Total,1
+2007,GAB,Total,1
+2007,GAB,Total,2
+2015,GAB,Total,3
+2019,GAB,Total,4
+2007,GAB,Expansion,0
+2007,GAB,Expansion,1
+2015,GAB,Expansion,2
+2019,GAB,Expansion,3
+2007,GAB,Liberated,1
+2007,GAB,Liberated,1
+2015,GAB,Liberated,0
+2019,GAB,Liberated,0
+2007,GAB,Stable,1
+2007,GAB,Stable,1
+2015,GAB,Stable,1
+2019,GAB,Stable,1
+2003,GBR,Total,5738
+2007,GBR,Total,5615
+2007,GBR,Total,5689
+2015,GBR,Total,5849
+2019,GBR,Total,5991
+2007,GBR,Expansion,325
+2007,GBR,Expansion,559
+2015,GBR,Expansion,736
+2019,GBR,Expansion,945
+2007,GBR,Liberated,449
+2007,GBR,Liberated,609
+2015,GBR,Liberated,626
+2019,GBR,Liberated,692
+2007,GBR,Stable,5290
+2007,GBR,Stable,5129
+2015,GBR,Stable,5112
+2019,GBR,Stable,5046
+2003,GEO,Total,408
+2007,GEO,Total,359
+2007,GEO,Total,349
+2015,GEO,Total,361
+2019,GEO,Total,348
+2007,GEO,Expansion,44
+2007,GEO,Expansion,64
+2015,GEO,Expansion,80
+2019,GEO,Expansion,94
+2007,GEO,Liberated,93
+2007,GEO,Liberated,122
+2015,GEO,Liberated,127
+2019,GEO,Liberated,155
+2007,GEO,Stable,315
+2007,GEO,Stable,285
+2015,GEO,Stable,281
+2019,GEO,Stable,253
+2003,GGY,Total,0
+2007,GGY,Total,0
+2007,GGY,Total,0
+2015,GGY,Total,0
+2019,GGY,Total,0
+2007,GGY,Expansion,0
+2007,GGY,Expansion,0
+2015,GGY,Expansion,0
+2019,GGY,Expansion,0
+2007,GGY,Liberated,0
+2007,GGY,Liberated,0
+2015,GGY,Liberated,0
+2019,GGY,Liberated,0
+2007,GGY,Stable,0
+2007,GGY,Stable,0
+2015,GGY,Stable,0
+2019,GGY,Stable,0
+2003,GHA,Total,1949
+2007,GHA,Total,2122
+2007,GHA,Total,2305
+2015,GHA,Total,2595
+2019,GHA,Total,2995
+2007,GHA,Expansion,429
+2007,GHA,Expansion,689
+2015,GHA,Expansion,984
+2019,GHA,Expansion,1398
+2007,GHA,Liberated,256
+2007,GHA,Liberated,333
+2015,GHA,Liberated,339
+2019,GHA,Liberated,352
+2007,GHA,Stable,1693
+2007,GHA,Stable,1616
+2015,GHA,Stable,1610
+2019,GHA,Stable,1597
+2003,GIB,Total,0
+2007,GIB,Total,0
+2019,GIB,Total,0
+2019,GIB,Expansion,0
+2007,GIB,Liberated,0
+2007,GIB,Liberated,0
+2015,GIB,Liberated,0
+2019,GIB,Liberated,0
+2007,GIB,Stable,0
+2019,GIB,Stable,0
+2003,GIN,Total,148
+2007,GIN,Total,153
+2007,GIN,Total,176
+2015,GIN,Total,242
+2019,GIN,Total,333
+2007,GIN,Expansion,28
+2007,GIN,Expansion,56
+2015,GIN,Expansion,119
+2019,GIN,Expansion,209
+2007,GIN,Liberated,22
+2007,GIN,Liberated,27
+2015,GIN,Liberated,25
+2019,GIN,Liberated,23
+2007,GIN,Stable,125
+2007,GIN,Stable,121
+2015,GIN,Stable,123
+2019,GIN,Stable,125
+2003,GLP,Total,11
+2007,GLP,Total,9
+2007,GLP,Total,10
+2015,GLP,Total,12
+2019,GLP,Total,14
+2007,GLP,Expansion,2
+2007,GLP,Expansion,3
+2015,GLP,Expansion,5
+2019,GLP,Expansion,7
+2007,GLP,Liberated,3
+2007,GLP,Liberated,4
+2015,GLP,Liberated,3
+2019,GLP,Liberated,3
+2007,GLP,Stable,7
+2007,GLP,Stable,7
+2015,GLP,Stable,7
+2019,GLP,Stable,7
+2003,GMB,Total,248
+2007,GMB,Total,252
+2007,GMB,Total,258
+2015,GMB,Total,271
+2019,GMB,Total,282
+2007,GMB,Expansion,18
+2007,GMB,Expansion,27
+2015,GMB,Expansion,38
+2019,GMB,Expansion,51
+2007,GMB,Liberated,13
+2007,GMB,Liberated,17
+2015,GMB,Liberated,15
+2019,GMB,Liberated,17
+2007,GMB,Stable,235
+2007,GMB,Stable,231
+2015,GMB,Stable,232
+2019,GMB,Stable,231
+2003,GNB,Total,34
+2007,GNB,Total,36
+2007,GNB,Total,40
+2015,GNB,Total,47
+2019,GNB,Total,60
+2007,GNB,Expansion,8
+2007,GNB,Expansion,13
+2015,GNB,Expansion,21
+2019,GNB,Expansion,36
+2007,GNB,Liberated,6
+2007,GNB,Liberated,8
+2015,GNB,Liberated,9
+2019,GNB,Liberated,10
+2007,GNB,Stable,28
+2007,GNB,Stable,27
+2015,GNB,Stable,25
+2019,GNB,Stable,25
+2007,GNQ,Total,0
+2015,GNQ,Total,0
+2019,GNQ,Total,0
+2007,GNQ,Expansion,0
+2015,GNQ,Expansion,0
+2019,GNQ,Expansion,0
+2003,GRC,Total,2322
+2007,GRC,Total,2204
+2007,GRC,Total,2167
+2015,GRC,Total,2112
+2019,GRC,Total,2047
+2007,GRC,Expansion,47
+2007,GRC,Expansion,76
+2015,GRC,Expansion,89
+2019,GRC,Expansion,110
+2007,GRC,Liberated,165
+2007,GRC,Liberated,231
+2015,GRC,Liberated,299
+2019,GRC,Liberated,385
+2007,GRC,Stable,2157
+2007,GRC,Stable,2091
+2015,GRC,Stable,2023
+2019,GRC,Stable,1937
+2003,GTM,Total,288
+2007,GTM,Total,304
+2007,GTM,Total,330
+2015,GTM,Total,362
+2019,GTM,Total,350
+2007,GTM,Expansion,57
+2007,GTM,Expansion,94
+2015,GTM,Expansion,137
+2019,GTM,Expansion,157
+2007,GTM,Liberated,41
+2007,GTM,Liberated,52
+2015,GTM,Liberated,63
+2019,GTM,Liberated,95
+2007,GTM,Stable,247
+2007,GTM,Stable,235
+2015,GTM,Stable,225
+2019,GTM,Stable,193
+2003,GUF,Total,5
+2007,GUF,Total,5
+2007,GUF,Total,4
+2015,GUF,Total,2
+2019,GUF,Total,1
+2007,GUF,Expansion,0
+2007,GUF,Expansion,0
+2015,GUF,Expansion,0
+2019,GUF,Expansion,0
+2007,GUF,Liberated,0
+2007,GUF,Liberated,2
+2015,GUF,Liberated,3
+2019,GUF,Liberated,4
+2007,GUF,Stable,5
+2007,GUF,Stable,3
+2015,GUF,Stable,2
+2019,GUF,Stable,1
+2003,GUY,Total,121
+2007,GUY,Total,117
+2007,GUY,Total,124
+2015,GUY,Total,143
+2019,GUY,Total,142
+2007,GUY,Expansion,12
+2007,GUY,Expansion,23
+2015,GUY,Expansion,40
+2019,GUY,Expansion,46
+2007,GUY,Liberated,16
+2007,GUY,Liberated,19
+2015,GUY,Liberated,17
+2019,GUY,Liberated,25
+2007,GUY,Stable,105
+2007,GUY,Stable,101
+2015,GUY,Stable,103
+2019,GUY,Stable,96
+2003,HKG,Total,0
+2007,HKG,Total,0
+2007,HKG,Total,0
+2015,HKG,Total,0
+2019,HKG,Total,0
+2007,HKG,Expansion,0
+2007,HKG,Expansion,0
+2015,HKG,Expansion,0
+2019,HKG,Expansion,0
+2007,HKG,Liberated,0
+2007,HKG,Liberated,0
+2015,HKG,Liberated,0
+2019,HKG,Liberated,0
+2007,HKG,Stable,0
+2007,HKG,Stable,0
+2015,HKG,Stable,0
+2019,HKG,Stable,0
+2003,HND,Total,93
+2007,HND,Total,75
+2007,HND,Total,83
+2015,HND,Total,97
+2019,HND,Total,115
+2007,HND,Expansion,12
+2007,HND,Expansion,24
+2015,HND,Expansion,38
+2019,HND,Expansion,56
+2007,HND,Liberated,30
+2007,HND,Liberated,34
+2015,HND,Liberated,34
+2019,HND,Liberated,34
+2007,HND,Stable,63
+2007,HND,Stable,59
+2015,HND,Stable,59
+2019,HND,Stable,59
+2003,HRV,Total,923
+2007,HRV,Total,908
+2007,HRV,Total,918
+2015,HRV,Total,923
+2019,HRV,Total,916
+2007,HRV,Expansion,36
+2007,HRV,Expansion,61
+2015,HRV,Expansion,76
+2019,HRV,Expansion,88
+2007,HRV,Liberated,51
+2007,HRV,Liberated,66
+2015,HRV,Liberated,77
+2019,HRV,Liberated,95
+2007,HRV,Stable,872
+2007,HRV,Stable,857
+2015,HRV,Stable,847
+2019,HRV,Stable,828
+2003,HTI,Total,73
+2007,HTI,Total,66
+2007,HTI,Total,71
+2015,HTI,Total,77
+2019,HTI,Total,87
+2007,HTI,Expansion,13
+2007,HTI,Expansion,21
+2015,HTI,Expansion,29
+2019,HTI,Expansion,41
+2007,HTI,Liberated,20
+2007,HTI,Liberated,24
+2015,HTI,Liberated,25
+2019,HTI,Liberated,27
+2007,HTI,Stable,52
+2007,HTI,Stable,49
+2015,HTI,Stable,48
+2019,HTI,Stable,46
+2003,HUN,Total,4689
+2007,HUN,Total,4657
+2007,HUN,Total,4642
+2015,HUN,Total,4646
+2019,HUN,Total,4577
+2007,HUN,Expansion,144
+2007,HUN,Expansion,212
+2015,HUN,Expansion,259
+2019,HUN,Expansion,290
+2007,HUN,Liberated,176
+2007,HUN,Liberated,259
+2015,HUN,Liberated,302
+2019,HUN,Liberated,402
+2007,HUN,Stable,4513
+2007,HUN,Stable,4430
+2015,HUN,Stable,4388
+2019,HUN,Stable,4287
+2003,IDN,Total,6901
+2007,IDN,Total,7144
+2007,IDN,Total,7356
+2015,IDN,Total,8018
+2019,IDN,Total,8767
+2007,IDN,Expansion,646
+2007,IDN,Expansion,1080
+2015,IDN,Expansion,1806
+2019,IDN,Expansion,2640
+2007,IDN,Liberated,403
+2007,IDN,Liberated,625
+2015,IDN,Liberated,689
+2019,IDN,Liberated,774
+2007,IDN,Stable,6499
+2007,IDN,Stable,6276
+2015,IDN,Stable,6212
+2019,IDN,Stable,6127
+2003,IMN,Total,8
+2007,IMN,Total,7
+2007,IMN,Total,7
+2015,IMN,Total,7
+2019,IMN,Total,7
+2007,IMN,Expansion,1
+2007,IMN,Expansion,2
+2015,IMN,Expansion,2
+2019,IMN,Expansion,3
+2007,IMN,Liberated,2
+2007,IMN,Liberated,3
+2015,IMN,Liberated,3
+2019,IMN,Liberated,3
+2007,IMN,Stable,6
+2007,IMN,Stable,5
+2015,IMN,Stable,5
+2019,IMN,Stable,5
+2003,IND,Total,121381
+2007,IND,Total,126901
+2007,IND,Total,130193
+2015,IND,Total,134078
+2019,IND,Total,136911
+2007,IND,Expansion,7904
+2007,IND,Expansion,12173
+2015,IND,Expansion,16231
+2019,IND,Expansion,19936
+2007,IND,Liberated,2384
+2007,IND,Liberated,3362
+2015,IND,Liberated,3535
+2019,IND,Liberated,4406
+2007,IND,Stable,118997
+2007,IND,Stable,118020
+2015,IND,Stable,117846
+2019,IND,Stable,116975
+2003,IRL,Total,448
+2007,IRL,Total,399
+2007,IRL,Total,398
+2015,IRL,Total,429
+2019,IRL,Total,470
+2007,IRL,Expansion,52
+2007,IRL,Expansion,99
+2015,IRL,Expansion,144
+2019,IRL,Expansion,200
+2007,IRL,Liberated,101
+2007,IRL,Liberated,148
+2015,IRL,Liberated,162
+2019,IRL,Liberated,177
+2007,IRL,Stable,347
+2007,IRL,Stable,299
+2015,IRL,Stable,286
+2019,IRL,Stable,270
+2003,IRN,Total,12179
+2007,IRN,Total,13087
+2007,IRN,Total,13254
+2015,IRN,Total,13465
+2019,IRN,Total,14082
+2007,IRN,Expansion,1527
+2007,IRN,Expansion,2127
+2015,IRN,Expansion,2502
+2019,IRN,Expansion,3284
+2007,IRN,Liberated,619
+2007,IRN,Liberated,1052
+2015,IRN,Liberated,1217
+2019,IRN,Liberated,1382
+2007,IRN,Stable,11561
+2007,IRN,Stable,11127
+2015,IRN,Stable,10963
+2019,IRN,Stable,10797
+2003,IRQ,Total,4713
+2007,IRQ,Total,4090
+2007,IRQ,Total,4052
+2015,IRQ,Total,5074
+2019,IRQ,Total,6297
+2007,IRQ,Expansion,423
+2007,IRQ,Expansion,606
+2015,IRQ,Expansion,1256
+2019,IRQ,Expansion,2321
+2007,IRQ,Liberated,1046
+2007,IRQ,Liberated,1268
+2015,IRQ,Liberated,895
+2019,IRQ,Liberated,738
+2007,IRQ,Stable,3667
+2007,IRQ,Stable,3446
+2015,IRQ,Stable,3818
+2019,IRQ,Stable,3975
+2003,ISL,Total,47
+2007,ISL,Total,38
+2007,ISL,Total,43
+2015,ISL,Total,48
+2019,ISL,Total,55
+2007,ISL,Expansion,7
+2007,ISL,Expansion,15
+2015,ISL,Expansion,20
+2019,ISL,Expansion,28
+2007,ISL,Liberated,17
+2007,ISL,Liberated,19
+2015,ISL,Liberated,19
+2019,ISL,Liberated,21
+2007,ISL,Stable,31
+2007,ISL,Stable,28
+2015,ISL,Stable,28
+2019,ISL,Stable,27
+2003,ISR,Total,432
+2007,ISR,Total,419
+2007,ISR,Total,418
+2015,ISR,Total,423
+2019,ISR,Total,420
+2007,ISR,Expansion,19
+2007,ISR,Expansion,33
+2015,ISR,Expansion,45
+2019,ISR,Expansion,53
+2007,ISR,Liberated,31
+2007,ISR,Liberated,47
+2015,ISR,Liberated,53
+2019,ISR,Liberated,66
+2007,ISR,Stable,400
+2007,ISR,Stable,385
+2015,ISR,Stable,378
+2019,ISR,Stable,366
+2003,ITA,Total,7818
+2007,ITA,Total,7694
+2007,ITA,Total,7603
+2015,ITA,Total,7617
+2019,ITA,Total,7547
+2007,ITA,Expansion,275
+2007,ITA,Expansion,396
+2015,ITA,Expansion,496
+2019,ITA,Expansion,603
+2007,ITA,Liberated,400
+2007,ITA,Liberated,610
+2015,ITA,Liberated,696
+2019,ITA,Liberated,874
+2007,ITA,Stable,7418
+2007,ITA,Stable,7208
+2015,ITA,Stable,7121
+2019,ITA,Stable,6944
+2003,JAM,Total,30
+2007,JAM,Total,34
+2007,JAM,Total,35
+2015,JAM,Total,33
+2019,JAM,Total,28
+2007,JAM,Expansion,8
+2007,JAM,Expansion,10
+2015,JAM,Expansion,10
+2019,JAM,Expansion,9
+2007,JAM,Liberated,4
+2007,JAM,Liberated,5
+2015,JAM,Liberated,7
+2019,JAM,Liberated,11
+2007,JAM,Stable,27
+2007,JAM,Stable,25
+2015,JAM,Stable,23
+2019,JAM,Stable,19
+2003,JEY,Total,4
+2007,JEY,Total,4
+2007,JEY,Total,4
+2015,JEY,Total,4
+2019,JEY,Total,4
+2007,JEY,Expansion,0
+2007,JEY,Expansion,0
+2015,JEY,Expansion,0
+2019,JEY,Expansion,0
+2007,JEY,Liberated,0
+2007,JEY,Liberated,1
+2015,JEY,Liberated,1
+2019,JEY,Liberated,1
+2007,JEY,Stable,4
+2007,JEY,Stable,4
+2015,JEY,Stable,4
+2019,JEY,Stable,4
+2003,JOR,Total,241
+2007,JOR,Total,232
+2007,JOR,Total,232
+2015,JOR,Total,244
+2019,JOR,Total,259
+2007,JOR,Expansion,20
+2007,JOR,Expansion,32
+2015,JOR,Expansion,45
+2019,JOR,Expansion,67
+2007,JOR,Liberated,30
+2007,JOR,Liberated,41
+2015,JOR,Liberated,42
+2019,JOR,Liberated,49
+2007,JOR,Stable,212
+2007,JOR,Stable,200
+2015,JOR,Stable,199
+2019,JOR,Stable,192
+2003,JPN,Total,3101
+2007,JPN,Total,3147
+2007,JPN,Total,3154
+2015,JPN,Total,3172
+2019,JPN,Total,3187
+2007,JPN,Expansion,115
+2007,JPN,Expansion,155
+2015,JPN,Expansion,191
+2019,JPN,Expansion,236
+2007,JPN,Liberated,69
+2007,JPN,Liberated,101
+2015,JPN,Liberated,119
+2019,JPN,Liberated,150
+2007,JPN,Stable,3032
+2007,JPN,Stable,2999
+2015,JPN,Stable,2981
+2019,JPN,Stable,2951
+2003,KAZ,Total,20744
+2007,KAZ,Total,20752
+2007,KAZ,Total,21103
+2015,KAZ,Total,21650
+2019,KAZ,Total,22038
+2007,KAZ,Expansion,2472
+2007,KAZ,Expansion,3749
+2015,KAZ,Expansion,4491
+2019,KAZ,Expansion,5380
+2007,KAZ,Liberated,2464
+2007,KAZ,Liberated,3390
+2015,KAZ,Liberated,3584
+2019,KAZ,Liberated,4085
+2007,KAZ,Stable,18280
+2007,KAZ,Stable,17354
+2015,KAZ,Stable,17159
+2019,KAZ,Stable,16658
+2003,KEN,Total,4244
+2007,KEN,Total,4504
+2007,KEN,Total,4988
+2015,KEN,Total,5441
+2019,KEN,Total,5797
+2007,KEN,Expansion,489
+2007,KEN,Expansion,1028
+2015,KEN,Expansion,1507
+2019,KEN,Expansion,1932
+2007,KEN,Liberated,229
+2007,KEN,Liberated,284
+2015,KEN,Liberated,310
+2019,KEN,Liberated,380
+2007,KEN,Stable,4015
+2007,KEN,Stable,3961
+2015,KEN,Stable,3934
+2019,KEN,Stable,3864
+2003,KGZ,Total,1162
+2007,KGZ,Total,1288
+2007,KGZ,Total,1349
+2015,KGZ,Total,1381
+2019,KGZ,Total,1406
+2007,KGZ,Expansion,167
+2007,KGZ,Expansion,247
+2015,KGZ,Expansion,291
+2019,KGZ,Expansion,331
+2007,KGZ,Liberated,41
+2007,KGZ,Liberated,61
+2015,KGZ,Liberated,72
+2019,KGZ,Liberated,87
+2007,KGZ,Stable,1121
+2007,KGZ,Stable,1101
+2015,KGZ,Stable,1090
+2019,KGZ,Stable,1075
+2003,KHM,Total,4385
+2007,KHM,Total,4645
+2007,KHM,Total,4903
+2015,KHM,Total,5520
+2019,KHM,Total,5968
+2007,KHM,Expansion,368
+2007,KHM,Expansion,694
+2015,KHM,Expansion,1344
+2019,KHM,Expansion,1825
+2007,KHM,Liberated,107
+2007,KHM,Liberated,176
+2015,KHM,Liberated,209
+2019,KHM,Liberated,242
+2007,KHM,Stable,4278
+2007,KHM,Stable,4209
+2015,KHM,Stable,4176
+2019,KHM,Stable,4143
+2003,KNA,Total,1
+2007,KNA,Total,0
+2007,KNA,Total,0
+2015,KNA,Total,0
+2019,KNA,Total,0
+2007,KNA,Expansion,0
+2007,KNA,Expansion,0
+2015,KNA,Expansion,0
+2019,KNA,Expansion,0
+2007,KNA,Liberated,1
+2007,KNA,Liberated,1
+2015,KNA,Liberated,1
+2019,KNA,Liberated,1
+2007,KNA,Stable,0
+2007,KNA,Stable,0
+2015,KNA,Stable,0
+2019,KNA,Stable,0
+2003,KOR,Total,1410
+2007,KOR,Total,1350
+2007,KOR,Total,1313
+2015,KOR,Total,1269
+2019,KOR,Total,1250
+2007,KOR,Expansion,30
+2007,KOR,Expansion,46
+2015,KOR,Expansion,55
+2019,KOR,Expansion,80
+2007,KOR,Liberated,91
+2007,KOR,Liberated,143
+2015,KOR,Liberated,197
+2019,KOR,Liberated,241
+2007,KOR,Stable,1319
+2007,KOR,Stable,1268
+2015,KOR,Stable,1213
+2019,KOR,Stable,1170
+2003,KOS,Total,200
+2007,KOS,Total,205
+2007,KOS,Total,210
+2015,KOS,Total,210
+2019,KOS,Total,184
+2007,KOS,Expansion,20
+2007,KOS,Expansion,28
+2015,KOS,Expansion,33
+2019,KOS,Expansion,29
+2007,KOS,Liberated,14
+2007,KOS,Liberated,19
+2015,KOS,Liberated,23
+2019,KOS,Liberated,45
+2007,KOS,Stable,186
+2007,KOS,Stable,181
+2015,KOS,Stable,177
+2019,KOS,Stable,155
+2003,KWT,Total,5
+2007,KWT,Total,5
+2007,KWT,Total,5
+2015,KWT,Total,7
+2019,KWT,Total,10
+2007,KWT,Expansion,1
+2007,KWT,Expansion,2
+2015,KWT,Expansion,4
+2019,KWT,Expansion,7
+2007,KWT,Liberated,1
+2007,KWT,Liberated,2
+2015,KWT,Liberated,2
+2019,KWT,Liberated,2
+2007,KWT,Stable,3
+2007,KWT,Stable,3
+2015,KWT,Stable,3
+2019,KWT,Stable,3
+2003,LAO,Total,966
+2007,LAO,Total,1028
+2007,LAO,Total,1112
+2015,LAO,Total,1246
+2019,LAO,Total,1361
+2007,LAO,Expansion,84
+2007,LAO,Expansion,177
+2015,LAO,Expansion,317
+2019,LAO,Expansion,439
+2007,LAO,Liberated,22
+2007,LAO,Liberated,32
+2015,LAO,Liberated,37
+2019,LAO,Liberated,45
+2007,LAO,Stable,944
+2007,LAO,Stable,934
+2015,LAO,Stable,929
+2019,LAO,Stable,921
+2003,LBN,Total,107
+2007,LBN,Total,100
+2007,LBN,Total,102
+2015,LBN,Total,104
+2019,LBN,Total,108
+2007,LBN,Expansion,7
+2007,LBN,Expansion,12
+2015,LBN,Expansion,16
+2019,LBN,Expansion,23
+2007,LBN,Liberated,14
+2007,LBN,Liberated,17
+2015,LBN,Liberated,19
+2019,LBN,Liberated,22
+2007,LBN,Stable,94
+2007,LBN,Stable,90
+2015,LBN,Stable,88
+2019,LBN,Stable,85
+2003,LBR,Total,0
+2007,LBR,Total,0
+2007,LBR,Total,0
+2015,LBR,Total,0
+2019,LBR,Total,1
+2007,LBR,Expansion,0
+2007,LBR,Expansion,0
+2015,LBR,Expansion,0
+2019,LBR,Expansion,1
+2007,LBR,Liberated,0
+2007,LBR,Liberated,0
+2015,LBR,Liberated,0
+2019,LBR,Liberated,0
+2007,LBR,Stable,0
+2007,LBR,Stable,0
+2015,LBR,Stable,0
+2019,LBR,Stable,0
+2003,LBY,Total,735
+2007,LBY,Total,745
+2007,LBY,Total,792
+2015,LBY,Total,847
+2019,LBY,Total,915
+2007,LBY,Expansion,73
+2007,LBY,Expansion,153
+2015,LBY,Expansion,231
+2019,LBY,Expansion,316
+2007,LBY,Liberated,63
+2007,LBY,Liberated,96
+2015,LBY,Liberated,119
+2019,LBY,Liberated,136
+2007,LBY,Stable,672
+2007,LBY,Stable,639
+2015,LBY,Stable,616
+2019,LBY,Stable,599
+2003,LCA,Total,0
+2007,LCA,Total,0
+2007,LCA,Total,0
+2015,LCA,Total,0
+2019,LCA,Total,0
+2007,LCA,Expansion,0
+2007,LCA,Expansion,0
+2015,LCA,Expansion,0
+2019,LCA,Expansion,0
+2007,LCA,Liberated,0
+2007,LCA,Liberated,0
+2015,LCA,Liberated,0
+2019,LCA,Liberated,0
+2007,LCA,Stable,0
+2007,LCA,Stable,0
+2015,LCA,Stable,0
+2019,LCA,Stable,0
+2003,LIE,Total,1
+2007,LIE,Total,1
+2007,LIE,Total,1
+2015,LIE,Total,1
+2019,LIE,Total,1
+2007,LIE,Expansion,0
+2007,LIE,Expansion,0
+2015,LIE,Expansion,0
+2019,LIE,Expansion,0
+2007,LIE,Liberated,0
+2007,LIE,Liberated,0
+2015,LIE,Liberated,0
+2019,LIE,Liberated,0
+2007,LIE,Stable,1
+2007,LIE,Stable,1
+2015,LIE,Stable,1
+2019,LIE,Stable,1
+2003,LKA,Total,762
+2007,LKA,Total,788
+2007,LKA,Total,831
+2015,LKA,Total,917
+2019,LKA,Total,997
+2007,LKA,Expansion,84
+2007,LKA,Expansion,141
+2015,LKA,Expansion,226
+2019,LKA,Expansion,317
+2007,LKA,Liberated,58
+2007,LKA,Liberated,72
+2015,LKA,Liberated,71
+2019,LKA,Liberated,81
+2007,LKA,Stable,704
+2007,LKA,Stable,690
+2015,LKA,Stable,691
+2019,LKA,Stable,681
+2003,LSO,Total,212
+2007,LSO,Total,211
+2007,LSO,Total,214
+2015,LSO,Total,229
+2019,LSO,Total,247
+2007,LSO,Expansion,14
+2007,LSO,Expansion,22
+2015,LSO,Expansion,36
+2019,LSO,Expansion,55
+2007,LSO,Liberated,15
+2007,LSO,Liberated,20
+2015,LSO,Liberated,20
+2019,LSO,Liberated,21
+2007,LSO,Stable,196
+2007,LSO,Stable,192
+2015,LSO,Stable,192
+2019,LSO,Stable,191
+2003,LTU,Total,1182
+2007,LTU,Total,1429
+2007,LTU,Total,1586
+2015,LTU,Total,1830
+2019,LTU,Total,1966
+2007,LTU,Expansion,356
+2007,LTU,Expansion,543
+2015,LTU,Expansion,760
+2019,LTU,Expansion,891
+2007,LTU,Liberated,109
+2007,LTU,Liberated,139
+2015,LTU,Liberated,113
+2019,LTU,Liberated,108
+2007,LTU,Stable,1074
+2007,LTU,Stable,1043
+2015,LTU,Stable,1070
+2019,LTU,Stable,1074
+2003,LUX,Total,53
+2007,LUX,Total,52
+2007,LUX,Total,52
+2015,LUX,Total,53
+2019,LUX,Total,53
+2007,LUX,Expansion,3
+2007,LUX,Expansion,5
+2015,LUX,Expansion,6
+2019,LUX,Expansion,8
+2007,LUX,Liberated,4
+2007,LUX,Liberated,6
+2015,LUX,Liberated,6
+2019,LUX,Liberated,8
+2007,LUX,Stable,49
+2007,LUX,Stable,47
+2015,LUX,Stable,47
+2019,LUX,Stable,45
+2003,LVA,Total,562
+2007,LVA,Total,703
+2007,LVA,Total,789
+2015,LVA,Total,928
+2019,LVA,Total,1017
+2007,LVA,Expansion,210
+2007,LVA,Expansion,315
+2015,LVA,Expansion,442
+2019,LVA,Expansion,531
+2007,LVA,Liberated,70
+2007,LVA,Liberated,88
+2015,LVA,Liberated,76
+2019,LVA,Liberated,76
+2007,LVA,Stable,493
+2007,LVA,Stable,474
+2015,LVA,Stable,486
+2019,LVA,Stable,486
+2003,MAR,Total,6259
+2007,MAR,Total,6329
+2007,MAR,Total,6436
+2015,MAR,Total,6369
+2019,MAR,Total,6311
+2007,MAR,Expansion,346
+2007,MAR,Expansion,558
+2015,MAR,Expansion,621
+2019,MAR,Expansion,706
+2007,MAR,Liberated,277
+2007,MAR,Liberated,381
+2015,MAR,Liberated,511
+2019,MAR,Liberated,655
+2007,MAR,Stable,5983
+2007,MAR,Stable,5878
+2015,MAR,Stable,5748
+2019,MAR,Stable,5605
+2003,MDA,Total,1876
+2007,MDA,Total,1848
+2007,MDA,Total,1835
+2015,MDA,Total,1844
+2019,MDA,Total,1857
+2007,MDA,Expansion,54
+2007,MDA,Expansion,85
+2015,MDA,Expansion,111
+2019,MDA,Expansion,146
+2007,MDA,Liberated,82
+2007,MDA,Liberated,126
+2015,MDA,Liberated,143
+2019,MDA,Liberated,165
+2007,MDA,Stable,1794
+2007,MDA,Stable,1751
+2015,MDA,Stable,1733
+2019,MDA,Stable,1711
+2003,MDG,Total,1253
+2007,MDG,Total,1370
+2007,MDG,Total,1463
+2015,MDG,Total,1698
+2019,MDG,Total,1972
+2007,MDG,Expansion,223
+2007,MDG,Expansion,345
+2015,MDG,Expansion,567
+2019,MDG,Expansion,841
+2007,MDG,Liberated,106
+2007,MDG,Liberated,134
+2015,MDG,Liberated,121
+2019,MDG,Liberated,121
+2007,MDG,Stable,1147
+2007,MDG,Stable,1119
+2015,MDG,Stable,1131
+2019,MDG,Stable,1132
+2003,MEX,Total,10036
+2007,MEX,Total,10110
+2007,MEX,Total,10500
+2015,MEX,Total,10951
+2019,MEX,Total,11169
+2007,MEX,Expansion,974
+2007,MEX,Expansion,1660
+2015,MEX,Expansion,2225
+2019,MEX,Expansion,2752
+2007,MEX,Liberated,899
+2007,MEX,Liberated,1196
+2015,MEX,Liberated,1310
+2019,MEX,Liberated,1619
+2007,MEX,Stable,9137
+2007,MEX,Stable,8840
+2015,MEX,Stable,8726
+2019,MEX,Stable,8417
+2003,MKD,Total,329
+2007,MKD,Total,313
+2007,MKD,Total,310
+2015,MKD,Total,305
+2019,MKD,Total,293
+2007,MKD,Expansion,15
+2007,MKD,Expansion,22
+2015,MKD,Expansion,26
+2019,MKD,Expansion,29
+2007,MKD,Liberated,30
+2007,MKD,Liberated,41
+2015,MKD,Liberated,49
+2019,MKD,Liberated,65
+2007,MKD,Stable,299
+2007,MKD,Stable,288
+2015,MKD,Stable,280
+2019,MKD,Stable,264
+2003,MLI,Total,4468
+2007,MLI,Total,4871
+2007,MLI,Total,5258
+2015,MLI,Total,5676
+2019,MLI,Total,6136
+2007,MLI,Expansion,778
+2007,MLI,Expansion,1276
+2015,MLI,Expansion,1720
+2019,MLI,Expansion,2236
+2007,MLI,Liberated,375
+2007,MLI,Liberated,486
+2015,MLI,Liberated,513
+2019,MLI,Liberated,568
+2007,MLI,Stable,4093
+2007,MLI,Stable,3982
+2015,MLI,Stable,3955
+2019,MLI,Stable,3900
+2003,MLT,Total,3
+2007,MLT,Total,3
+2007,MLT,Total,3
+2015,MLT,Total,4
+2019,MLT,Total,4
+2007,MLT,Expansion,0
+2007,MLT,Expansion,0
+2015,MLT,Expansion,1
+2019,MLT,Expansion,1
+2007,MLT,Liberated,1
+2007,MLT,Liberated,1
+2015,MLT,Liberated,1
+2019,MLT,Liberated,0
+2007,MLT,Stable,3
+2007,MLT,Stable,3
+2015,MLT,Stable,3
+2019,MLT,Stable,3
+2003,MMR,Total,10552
+2007,MMR,Total,10781
+2007,MMR,Total,11010
+2015,MMR,Total,11393
+2019,MMR,Total,11739
+2007,MMR,Expansion,609
+2007,MMR,Expansion,1009
+2015,MMR,Expansion,1452
+2019,MMR,Expansion,1906
+2007,MMR,Liberated,381
+2007,MMR,Liberated,552
+2015,MMR,Liberated,611
+2019,MMR,Liberated,719
+2007,MMR,Stable,10172
+2007,MMR,Stable,10001
+2015,MMR,Stable,9941
+2019,MMR,Stable,9833
+2003,MNE,Total,17
+2007,MNE,Total,16
+2007,MNE,Total,15
+2015,MNE,Total,14
+2019,MNE,Total,13
+2007,MNE,Expansion,1
+2007,MNE,Expansion,2
+2015,MNE,Expansion,2
+2019,MNE,Expansion,2
+2007,MNE,Liberated,2
+2007,MNE,Liberated,3
+2015,MNE,Liberated,4
+2019,MNE,Liberated,6
+2007,MNE,Stable,15
+2007,MNE,Stable,14
+2015,MNE,Stable,13
+2019,MNE,Stable,11
+2003,MNG,Total,381
+2007,MNG,Total,374
+2007,MNG,Total,409
+2015,MNG,Total,456
+2019,MNG,Total,561
+2007,MNG,Expansion,80
+2007,MNG,Expansion,148
+2015,MNG,Expansion,206
+2019,MNG,Expansion,322
+2007,MNG,Liberated,86
+2007,MNG,Liberated,120
+2015,MNG,Liberated,131
+2019,MNG,Liberated,142
+2007,MNG,Stable,295
+2007,MNG,Stable,261
+2015,MNG,Stable,250
+2019,MNG,Stable,239
+2003,MOZ,Total,1790
+2007,MOZ,Total,1970
+2007,MOZ,Total,2359
+2015,MOZ,Total,3069
+2019,MOZ,Total,3940
+2007,MOZ,Expansion,494
+2007,MOZ,Expansion,1002
+2015,MOZ,Expansion,1755
+2019,MOZ,Expansion,2644
+2007,MOZ,Liberated,314
+2007,MOZ,Liberated,432
+2015,MOZ,Liberated,475
+2019,MOZ,Liberated,493
+2007,MOZ,Stable,1476
+2007,MOZ,Stable,1358
+2015,MOZ,Stable,1314
+2019,MOZ,Stable,1297
+2003,MRT,Total,23
+2007,MRT,Total,17
+2007,MRT,Total,22
+2015,MRT,Total,35
+2019,MRT,Total,51
+2007,MRT,Expansion,4
+2007,MRT,Expansion,10
+2015,MRT,Expansion,23
+2019,MRT,Expansion,38
+2007,MRT,Liberated,10
+2007,MRT,Liberated,10
+2015,MRT,Liberated,10
+2019,MRT,Liberated,9
+2007,MRT,Stable,13
+2007,MRT,Stable,12
+2015,MRT,Stable,13
+2019,MRT,Stable,13
+2003,MSR,Total,0
+2007,MSR,Total,0
+2007,MSR,Total,0
+2015,MSR,Total,0
+2019,MSR,Total,0
+2007,MSR,Expansion,0
+2015,MSR,Expansion,0
+2019,MSR,Expansion,0
+2007,MSR,Liberated,0
+2007,MSR,Liberated,0
+2015,MSR,Liberated,0
+2019,MSR,Liberated,0
+2007,MSR,Stable,0
+2007,MSR,Stable,0
+2003,MTQ,Total,1
+2007,MTQ,Total,1
+2007,MTQ,Total,1
+2015,MTQ,Total,2
+2019,MTQ,Total,3
+2007,MTQ,Expansion,1
+2007,MTQ,Expansion,1
+2015,MTQ,Expansion,2
+2019,MTQ,Expansion,3
+2007,MTQ,Liberated,0
+2007,MTQ,Liberated,0
+2015,MTQ,Liberated,0
+2019,MTQ,Liberated,0
+2007,MTQ,Stable,1
+2007,MTQ,Stable,0
+2015,MTQ,Stable,0
+2019,MTQ,Stable,0
+2003,MWI,Total,1722
+2007,MWI,Total,1823
+2007,MWI,Total,1938
+2015,MWI,Total,2138
+2019,MWI,Total,2320
+2007,MWI,Expansion,217
+2007,MWI,Expansion,362
+2015,MWI,Expansion,550
+2019,MWI,Expansion,740
+2007,MWI,Liberated,115
+2007,MWI,Liberated,146
+2015,MWI,Liberated,134
+2019,MWI,Liberated,142
+2007,MWI,Stable,1607
+2007,MWI,Stable,1576
+2015,MWI,Stable,1588
+2019,MWI,Stable,1580
+2003,MYS,Total,306
+2007,MYS,Total,301
+2007,MYS,Total,297
+2015,MYS,Total,299
+2019,MYS,Total,307
+2007,MYS,Expansion,14
+2007,MYS,Expansion,22
+2015,MYS,Expansion,32
+2019,MYS,Expansion,44
+2007,MYS,Liberated,19
+2007,MYS,Liberated,32
+2015,MYS,Liberated,40
+2019,MYS,Liberated,43
+2007,MYS,Stable,288
+2007,MYS,Stable,275
+2015,MYS,Stable,267
+2019,MYS,Stable,263
+2003,MYT,Total,0
+2015,MYT,Total,0
+2019,MYT,Total,0
+2015,MYT,Expansion,0
+2019,MYT,Expansion,0
+2007,MYT,Liberated,0
+2007,MYT,Liberated,0
+2015,MYT,Liberated,0
+2019,MYT,Liberated,0
+2015,MYT,Stable,0
+2019,MYT,Stable,0
+2003,NAM,Total,361
+2007,NAM,Total,389
+2007,NAM,Total,421
+2015,NAM,Total,512
+2019,NAM,Total,582
+2007,NAM,Expansion,64
+2007,NAM,Expansion,106
+2015,NAM,Expansion,194
+2019,NAM,Expansion,266
+2007,NAM,Liberated,36
+2007,NAM,Liberated,45
+2015,NAM,Liberated,42
+2019,NAM,Liberated,45
+2007,NAM,Stable,325
+2007,NAM,Stable,315
+2015,NAM,Stable,318
+2019,NAM,Stable,316
+2003,NCL,Total,1
+2007,NCL,Total,1
+2007,NCL,Total,2
+2015,NCL,Total,2
+2019,NCL,Total,2
+2007,NCL,Expansion,0
+2007,NCL,Expansion,0
+2015,NCL,Expansion,0
+2019,NCL,Expansion,1
+2007,NCL,Liberated,0
+2007,NCL,Liberated,0
+2015,NCL,Liberated,0
+2019,NCL,Liberated,0
+2007,NCL,Stable,1
+2007,NCL,Stable,1
+2015,NCL,Stable,1
+2019,NCL,Stable,1
+2003,NER,Total,7090
+2007,NER,Total,7453
+2007,NER,Total,7664
+2015,NER,Total,7818
+2019,NER,Total,8024
+2007,NER,Expansion,576
+2007,NER,Expansion,875
+2015,NER,Expansion,1090
+2019,NER,Expansion,1352
+2007,NER,Liberated,213
+2007,NER,Liberated,301
+2015,NER,Liberated,362
+2019,NER,Liberated,418
+2007,NER,Stable,6877
+2007,NER,Stable,6789
+2015,NER,Stable,6728
+2019,NER,Stable,6672
+2003,NGA,Total,28379
+2007,NGA,Total,29625
+2007,NGA,Total,30780
+2015,NGA,Total,32056
+2019,NGA,Total,32966
+2007,NGA,Expansion,2378
+2007,NGA,Expansion,4004
+2015,NGA,Expansion,5486
+2019,NGA,Expansion,6861
+2007,NGA,Liberated,1133
+2007,NGA,Liberated,1604
+2015,NGA,Liberated,1809
+2019,NGA,Liberated,2274
+2007,NGA,Stable,27247
+2007,NGA,Stable,26775
+2015,NGA,Stable,26570
+2019,NGA,Stable,26105
+2003,NIC,Total,160
+2007,NIC,Total,165
+2007,NIC,Total,194
+2015,NIC,Total,223
+2019,NIC,Total,242
+2007,NIC,Expansion,29
+2007,NIC,Expansion,61
+2015,NIC,Expansion,90
+2019,NIC,Expansion,112
+2007,NIC,Liberated,24
+2007,NIC,Liberated,28
+2015,NIC,Liberated,28
+2019,NIC,Liberated,31
+2007,NIC,Stable,136
+2007,NIC,Stable,132
+2015,NIC,Stable,133
+2019,NIC,Stable,130
+2003,NLD,Total,1004
+2007,NLD,Total,983
+2007,NLD,Total,975
+2015,NLD,Total,973
+2019,NLD,Total,970
+2007,NLD,Expansion,75
+2007,NLD,Expansion,122
+2015,NLD,Expansion,149
+2019,NLD,Expansion,184
+2007,NLD,Liberated,96
+2007,NLD,Liberated,151
+2015,NLD,Liberated,180
+2019,NLD,Liberated,218
+2007,NLD,Stable,908
+2007,NLD,Stable,853
+2015,NLD,Stable,824
+2019,NLD,Stable,786
+2003,NOR,Total,421
+2007,NOR,Total,422
+2007,NOR,Total,426
+2015,NOR,Total,434
+2019,NOR,Total,443
+2007,NOR,Expansion,27
+2007,NOR,Expansion,42
+2015,NOR,Expansion,53
+2019,NOR,Expansion,69
+2007,NOR,Liberated,26
+2007,NOR,Liberated,37
+2015,NOR,Liberated,41
+2019,NOR,Liberated,48
+2007,NOR,Stable,395
+2007,NOR,Stable,384
+2015,NOR,Stable,380
+2019,NOR,Stable,373
+2003,NPL,Total,1621
+2007,NPL,Total,1671
+2007,NPL,Total,1721
+2015,NPL,Total,1763
+2019,NPL,Total,1827
+2007,NPL,Expansion,92
+2007,NPL,Expansion,158
+2015,NPL,Expansion,210
+2019,NPL,Expansion,287
+2007,NPL,Liberated,42
+2007,NPL,Liberated,58
+2015,NPL,Liberated,68
+2019,NPL,Liberated,81
+2007,NPL,Stable,1579
+2007,NPL,Stable,1563
+2015,NPL,Stable,1553
+2019,NPL,Stable,1540
+2003,NZL,Total,464
+2007,NZL,Total,454
+2007,NZL,Total,518
+2015,NZL,Total,527
+2019,NZL,Total,548
+2007,NZL,Expansion,104
+2007,NZL,Expansion,202
+2015,NZL,Expansion,236
+2019,NZL,Expansion,265
+2007,NZL,Liberated,114
+2007,NZL,Liberated,147
+2015,NZL,Liberated,173
+2019,NZL,Liberated,181
+2007,NZL,Stable,350
+2007,NZL,Stable,316
+2015,NZL,Stable,291
+2019,NZL,Stable,283
+2003,OMN,Total,13
+2007,OMN,Total,14
+2007,OMN,Total,16
+2015,OMN,Total,23
+2019,OMN,Total,30
+2007,OMN,Expansion,3
+2007,OMN,Expansion,6
+2015,OMN,Expansion,13
+2019,OMN,Expansion,21
+2007,OMN,Liberated,2
+2007,OMN,Liberated,4
+2015,OMN,Liberated,4
+2019,OMN,Liberated,4
+2007,OMN,Stable,11
+2007,OMN,Stable,10
+2015,OMN,Stable,10
+2019,OMN,Stable,9
+2003,PAK,Total,16977
+2007,PAK,Total,17831
+2007,PAK,Total,18239
+2015,PAK,Total,18555
+2019,PAK,Total,18906
+2007,PAK,Expansion,1072
+2007,PAK,Expansion,1641
+2015,PAK,Expansion,2051
+2019,PAK,Expansion,2526
+2007,PAK,Liberated,218
+2007,PAK,Liberated,379
+2015,PAK,Liberated,473
+2019,PAK,Liberated,597
+2007,PAK,Stable,16759
+2007,PAK,Stable,16598
+2015,PAK,Stable,16504
+2019,PAK,Stable,16380
+2003,PAN,Total,35
+2007,PAN,Total,29
+2007,PAN,Total,45
+2015,PAN,Total,80
+2019,PAN,Total,121
+2007,PAN,Expansion,5
+2007,PAN,Expansion,23
+2015,PAN,Expansion,56
+2019,PAN,Expansion,97
+2007,PAN,Liberated,11
+2007,PAN,Liberated,13
+2015,PAN,Liberated,11
+2019,PAN,Liberated,10
+2007,PAN,Stable,24
+2007,PAN,Stable,22
+2015,PAN,Stable,24
+2019,PAN,Stable,25
+2003,PER,Total,746
+2007,PER,Total,795
+2007,PER,Total,853
+2015,PER,Total,951
+2019,PER,Total,1087
+2007,PER,Expansion,108
+2007,PER,Expansion,193
+2015,PER,Expansion,303
+2019,PER,Expansion,458
+2007,PER,Liberated,59
+2007,PER,Liberated,86
+2015,PER,Liberated,98
+2019,PER,Liberated,117
+2007,PER,Stable,686
+2007,PER,Stable,660
+2015,PER,Stable,647
+2019,PER,Stable,628
+2003,PHL,Total,3157
+2007,PHL,Total,3224
+2007,PHL,Total,3286
+2015,PHL,Total,3486
+2019,PHL,Total,3668
+2007,PHL,Expansion,243
+2007,PHL,Expansion,368
+2015,PHL,Expansion,571
+2019,PHL,Expansion,784
+2007,PHL,Liberated,176
+2007,PHL,Liberated,238
+2015,PHL,Liberated,242
+2019,PHL,Liberated,273
+2007,PHL,Stable,2981
+2007,PHL,Stable,2918
+2015,PHL,Stable,2915
+2019,PHL,Stable,2883
+2003,PLW,Total,0
+2007,PLW,Total,0
+2007,PLW,Total,0
+2015,PLW,Total,0
+2019,PLW,Total,0
+2015,PLW,Expansion,0
+2019,PLW,Expansion,0
+2007,PLW,Stable,0
+2007,PLW,Stable,0
+2015,PLW,Stable,0
+2019,PLW,Stable,0
+2003,PNG,Total,15
+2007,PNG,Total,15
+2007,PNG,Total,15
+2015,PNG,Total,18
+2019,PNG,Total,23
+2007,PNG,Expansion,3
+2007,PNG,Expansion,5
+2015,PNG,Expansion,8
+2019,PNG,Expansion,14
+2007,PNG,Liberated,4
+2007,PNG,Liberated,5
+2015,PNG,Liberated,6
+2019,PNG,Liberated,6
+2007,PNG,Stable,12
+2007,PNG,Stable,10
+2015,PNG,Stable,9
+2019,PNG,Stable,9
+2003,POL,Total,11612
+2007,POL,Total,11759
+2007,POL,Total,11734
+2015,POL,Total,11861
+2019,POL,Total,11941
+2007,POL,Expansion,523
+2007,POL,Expansion,708
+2015,POL,Expansion,905
+2019,POL,Expansion,1102
+2007,POL,Liberated,377
+2007,POL,Liberated,585
+2015,POL,Liberated,656
+2019,POL,Liberated,773
+2007,POL,Stable,11235
+2007,POL,Stable,11027
+2015,POL,Stable,10957
+2019,POL,Stable,10839
+2003,PRI,Total,25
+2007,PRI,Total,18
+2007,PRI,Total,18
+2015,PRI,Total,20
+2019,PRI,Total,27
+2007,PRI,Expansion,3
+2007,PRI,Expansion,7
+2015,PRI,Expansion,9
+2019,PRI,Expansion,17
+2007,PRI,Liberated,11
+2007,PRI,Liberated,13
+2015,PRI,Liberated,14
+2019,PRI,Liberated,14
+2007,PRI,Stable,14
+2007,PRI,Stable,12
+2015,PRI,Stable,11
+2019,PRI,Stable,11
+2003,PRK,Total,1727
+2007,PRK,Total,1765
+2007,PRK,Total,1805
+2015,PRK,Total,1880
+2019,PRK,Total,1930
+2007,PRK,Expansion,117
+2007,PRK,Expansion,184
+2015,PRK,Expansion,262
+2019,PRK,Expansion,323
+2007,PRK,Liberated,79
+2007,PRK,Liberated,106
+2015,PRK,Liberated,108
+2019,PRK,Liberated,121
+2007,PRK,Stable,1648
+2007,PRK,Stable,1621
+2015,PRK,Stable,1619
+2019,PRK,Stable,1606
+2003,PRT,Total,702
+2007,PRT,Total,625
+2007,PRT,Total,595
+2015,PRT,Total,591
+2019,PRT,Total,662
+2007,PRT,Expansion,61
+2007,PRT,Expansion,94
+2015,PRT,Expansion,118
+2019,PRT,Expansion,195
+2007,PRT,Liberated,138
+2007,PRT,Liberated,201
+2015,PRT,Liberated,229
+2019,PRT,Liberated,235
+2007,PRT,Stable,564
+2007,PRT,Stable,501
+2015,PRT,Stable,474
+2019,PRT,Stable,467
+2003,PRY,Total,1518
+2007,PRY,Total,1938
+2007,PRY,Total,2206
+2015,PRY,Total,2530
+2019,PRY,Total,2815
+2007,PRY,Expansion,459
+2007,PRY,Expansion,748
+2015,PRY,Expansion,1081
+2019,PRY,Expansion,1371
+2007,PRY,Liberated,40
+2007,PRY,Liberated,60
+2015,PRY,Liberated,70
+2019,PRY,Liberated,75
+2007,PRY,Stable,1479
+2007,PRY,Stable,1458
+2015,PRY,Stable,1449
+2019,PRY,Stable,1443
+2003,PSE,Total,75
+2007,PSE,Total,69
+2007,PSE,Total,68
+2015,PSE,Total,70
+2019,PSE,Total,75
+2007,PSE,Expansion,4
+2007,PSE,Expansion,6
+2015,PSE,Expansion,9
+2019,PSE,Expansion,15
+2007,PSE,Liberated,10
+2007,PSE,Liberated,13
+2015,PSE,Liberated,14
+2019,PSE,Liberated,15
+2007,PSE,Stable,66
+2007,PSE,Stable,62
+2015,PSE,Stable,61
+2019,PSE,Stable,60
+2003,QAT,Total,3
+2007,QAT,Total,3
+2007,QAT,Total,4
+2015,QAT,Total,5
+2019,QAT,Total,7
+2007,QAT,Expansion,1
+2007,QAT,Expansion,2
+2015,QAT,Expansion,3
+2019,QAT,Expansion,5
+2007,QAT,Liberated,1
+2007,QAT,Liberated,1
+2015,QAT,Liberated,1
+2019,QAT,Liberated,1
+2007,QAT,Stable,2
+2007,QAT,Stable,2
+2015,QAT,Stable,2
+2019,QAT,Stable,2
+2003,ROU,Total,7229
+2007,ROU,Total,6953
+2007,ROU,Total,7006
+2015,ROU,Total,7415
+2019,ROU,Total,7542
+2007,ROU,Expansion,348
+2007,ROU,Expansion,570
+2015,ROU,Expansion,856
+2019,ROU,Expansion,1038
+2007,ROU,Liberated,624
+2007,ROU,Liberated,793
+2015,ROU,Liberated,670
+2019,ROU,Liberated,725
+2007,ROU,Stable,6605
+2007,ROU,Stable,6436
+2015,ROU,Stable,6560
+2019,ROU,Stable,6505
+2003,RUS,Total,90937
+2007,RUS,Total,85988
+2007,RUS,Total,85205
+2015,RUS,Total,85186
+2019,RUS,Total,85279
+2007,RUS,Expansion,5332
+2007,RUS,Expansion,8739
+2015,RUS,Expansion,10565
+2019,RUS,Expansion,12686
+2007,RUS,Liberated,10282
+2007,RUS,Liberated,14471
+2015,RUS,Liberated,16316
+2019,RUS,Liberated,18345
+2007,RUS,Stable,80655
+2007,RUS,Stable,76466
+2015,RUS,Stable,74621
+2019,RUS,Stable,72592
+2003,RWA,Total,767
+2007,RWA,Total,783
+2007,RWA,Total,812
+2015,RWA,Total,853
+2019,RWA,Total,911
+2007,RWA,Expansion,57
+2007,RWA,Expansion,101
+2015,RWA,Expansion,146
+2019,RWA,Expansion,208
+2007,RWA,Liberated,41
+2007,RWA,Liberated,56
+2015,RWA,Liberated,60
+2019,RWA,Liberated,64
+2007,RWA,Stable,726
+2007,RWA,Stable,712
+2015,RWA,Stable,708
+2019,RWA,Stable,703
+2003,SAU,Total,1346
+2007,SAU,Total,1285
+2007,SAU,Total,1198
+2015,SAU,Total,1252
+2019,SAU,Total,1298
+2007,SAU,Expansion,189
+2007,SAU,Expansion,290
+2015,SAU,Expansion,426
+2019,SAU,Expansion,543
+2007,SAU,Liberated,251
+2007,SAU,Liberated,439
+2015,SAU,Liberated,521
+2019,SAU,Liberated,592
+2007,SAU,Stable,1096
+2007,SAU,Stable,908
+2015,SAU,Stable,826
+2019,SAU,Stable,754
+2003,SDN,Total,14588
+2007,SDN,Total,15310
+2007,SDN,Total,16081
+2015,SDN,Total,17420
+2019,SDN,Total,18694
+2007,SDN,Expansion,1732
+2007,SDN,Expansion,2788
+2015,SDN,Expansion,4005
+2019,SDN,Expansion,5316
+2007,SDN,Liberated,1010
+2007,SDN,Liberated,1294
+2015,SDN,Liberated,1172
+2019,SDN,Liberated,1210
+2007,SDN,Stable,13578
+2007,SDN,Stable,13294
+2015,SDN,Stable,13415
+2019,SDN,Stable,13378
+2003,SEN,Total,2937
+2007,SEN,Total,3078
+2007,SEN,Total,3191
+2015,SEN,Total,3318
+2019,SEN,Total,3411
+2007,SEN,Expansion,277
+2007,SEN,Expansion,429
+2015,SEN,Expansion,554
+2019,SEN,Expansion,686
+2007,SEN,Liberated,136
+2007,SEN,Liberated,175
+2015,SEN,Liberated,173
+2019,SEN,Liberated,212
+2007,SEN,Stable,2801
+2007,SEN,Stable,2762
+2015,SEN,Stable,2764
+2019,SEN,Stable,2725
+2003,SGP,Total,0
+2007,SGP,Total,0
+2007,SGP,Total,0
+2015,SGP,Total,0
+2019,SGP,Total,0
+2007,SGP,Expansion,0
+2007,SGP,Expansion,0
+2015,SGP,Expansion,0
+2019,SGP,Expansion,0
+2007,SGP,Liberated,0
+2007,SGP,Liberated,0
+2015,SGP,Liberated,0
+2019,SGP,Liberated,0
+2007,SGP,Stable,0
+2007,SGP,Stable,0
+2015,SGP,Stable,0
+2019,SGP,Stable,0
+2003,SLB,Total,0
+2007,SLB,Total,0
+2007,SLB,Total,0
+2015,SLB,Total,0
+2019,SLB,Total,0
+2007,SLB,Expansion,0
+2007,SLB,Expansion,0
+2015,SLB,Expansion,0
+2019,SLB,Expansion,0
+2007,SLB,Liberated,0
+2007,SLB,Liberated,0
+2015,SLB,Liberated,0
+2019,SLB,Liberated,0
+2007,SLB,Stable,0
+2007,SLB,Stable,0
+2015,SLB,Stable,0
+2019,SLB,Stable,0
+2003,SLE,Total,18
+2007,SLE,Total,22
+2007,SLE,Total,25
+2015,SLE,Total,29
+2019,SLE,Total,32
+2007,SLE,Expansion,5
+2007,SLE,Expansion,9
+2015,SLE,Expansion,13
+2019,SLE,Expansion,17
+2007,SLE,Liberated,1
+2007,SLE,Liberated,1
+2015,SLE,Liberated,2
+2019,SLE,Liberated,3
+2007,SLE,Stable,17
+2007,SLE,Stable,17
+2015,SLE,Stable,16
+2019,SLE,Stable,15
+2003,SLV,Total,72
+2007,SLV,Total,66
+2007,SLV,Total,67
+2015,SLV,Total,74
+2019,SLV,Total,78
+2007,SLV,Expansion,7
+2007,SLV,Expansion,12
+2015,SLV,Expansion,19
+2019,SLV,Expansion,26
+2007,SLV,Liberated,13
+2007,SLV,Liberated,17
+2015,SLV,Liberated,18
+2019,SLV,Liberated,20
+2007,SLV,Stable,59
+2007,SLV,Stable,55
+2015,SLV,Stable,55
+2019,SLV,Stable,52
+2003,SMR,Total,1
+2007,SMR,Total,1
+2007,SMR,Total,1
+2015,SMR,Total,1
+2019,SMR,Total,1
+2007,SMR,Expansion,0
+2007,SMR,Expansion,0
+2015,SMR,Expansion,0
+2019,SMR,Expansion,0
+2007,SMR,Liberated,0
+2007,SMR,Liberated,0
+2015,SMR,Liberated,0
+2019,SMR,Liberated,0
+2007,SMR,Stable,1
+2007,SMR,Stable,1
+2015,SMR,Stable,1
+2019,SMR,Stable,1
+2003,SOM,Total,715
+2007,SOM,Total,787
+2007,SOM,Total,853
+2015,SOM,Total,1033
+2019,SOM,Total,1180
+2007,SOM,Expansion,163
+2007,SOM,Expansion,252
+2015,SOM,Expansion,423
+2019,SOM,Expansion,569
+2007,SOM,Liberated,91
+2007,SOM,Liberated,115
+2015,SOM,Liberated,105
+2019,SOM,Liberated,105
+2007,SOM,Stable,624
+2007,SOM,Stable,600
+2015,SOM,Stable,610
+2019,SOM,Stable,611
+2003,SPM,Total,0
+2007,SPM,Total,0
+2007,SPM,Total,0
+2015,SPM,Total,0
+2019,SPM,Total,0
+2007,SPM,Expansion,0
+2007,SPM,Expansion,0
+2015,SPM,Expansion,0
+2019,SPM,Expansion,0
+2007,SPM,Liberated,0
+2007,SPM,Liberated,0
+2015,SPM,Liberated,0
+2019,SPM,Liberated,0
+2007,SPM,Stable,0
+2007,SPM,Stable,0
+2015,SPM,Stable,0
+2019,SPM,Stable,0
+2003,SRB,Total,2409
+2007,SRB,Total,2438
+2007,SRB,Total,2451
+2015,SRB,Total,2469
+2019,SRB,Total,2457
+2007,SRB,Expansion,98
+2007,SRB,Expansion,136
+2015,SRB,Expansion,164
+2019,SRB,Expansion,187
+2007,SRB,Liberated,70
+2007,SRB,Liberated,94
+2015,SRB,Liberated,104
+2019,SRB,Liberated,139
+2007,SRB,Stable,2339
+2007,SRB,Stable,2315
+2015,SRB,Stable,2305
+2019,SRB,Stable,2271
+2003,SSD,Total,195
+2007,SSD,Total,197
+2007,SSD,Total,223
+2015,SSD,Total,297
+2019,SSD,Total,390
+2007,SSD,Expansion,26
+2007,SSD,Expansion,60
+2015,SSD,Expansion,130
+2019,SSD,Expansion,220
+2007,SSD,Liberated,25
+2007,SSD,Liberated,32
+2015,SSD,Liberated,28
+2019,SSD,Liberated,26
+2007,SSD,Stable,171
+2007,SSD,Stable,163
+2015,SSD,Stable,167
+2019,SSD,Stable,170
+2003,SUR,Total,37
+2007,SUR,Total,33
+2007,SUR,Total,36
+2015,SUR,Total,40
+2019,SUR,Total,41
+2007,SUR,Expansion,6
+2007,SUR,Expansion,10
+2015,SUR,Expansion,13
+2019,SUR,Expansion,15
+2007,SUR,Liberated,10
+2007,SUR,Liberated,11
+2015,SUR,Liberated,11
+2019,SUR,Liberated,11
+2007,SUR,Stable,28
+2007,SUR,Stable,26
+2015,SUR,Stable,26
+2019,SUR,Stable,26
+2003,SVK,Total,1420
+2007,SVK,Total,1380
+2007,SVK,Total,1358
+2015,SVK,Total,1354
+2019,SVK,Total,1342
+2007,SVK,Expansion,35
+2007,SVK,Expansion,50
+2015,SVK,Expansion,60
+2019,SVK,Expansion,70
+2007,SVK,Liberated,74
+2007,SVK,Liberated,111
+2015,SVK,Liberated,125
+2019,SVK,Liberated,147
+2007,SVK,Stable,1345
+2007,SVK,Stable,1309
+2015,SVK,Stable,1294
+2019,SVK,Stable,1273
+2003,SVN,Total,134
+2007,SVN,Total,145
+2007,SVN,Total,149
+2015,SVN,Total,151
+2019,SVN,Total,143
+2007,SVN,Expansion,16
+2007,SVN,Expansion,23
+2015,SVN,Expansion,26
+2019,SVN,Expansion,26
+2007,SVN,Liberated,6
+2007,SVN,Liberated,9
+2015,SVN,Liberated,10
+2019,SVN,Liberated,17
+2007,SVN,Stable,129
+2007,SVN,Stable,126
+2015,SVN,Stable,124
+2019,SVN,Stable,117
+2003,SWE,Total,1834
+2007,SWE,Total,1843
+2007,SWE,Total,1850
+2015,SWE,Total,1890
+2019,SWE,Total,1900
+2007,SWE,Expansion,98
+2007,SWE,Expansion,143
+2015,SWE,Expansion,184
+2019,SWE,Expansion,226
+2007,SWE,Liberated,89
+2007,SWE,Liberated,128
+2015,SWE,Liberated,129
+2019,SWE,Liberated,160
+2007,SWE,Stable,1745
+2007,SWE,Stable,1707
+2015,SWE,Stable,1705
+2019,SWE,Stable,1674
+2003,SWZ,Total,69
+2007,SWZ,Total,73
+2007,SWZ,Total,77
+2015,SWZ,Total,90
+2019,SWZ,Total,104
+2007,SWZ,Expansion,7
+2007,SWZ,Expansion,13
+2015,SWZ,Expansion,26
+2019,SWZ,Expansion,42
+2007,SWZ,Liberated,4
+2007,SWZ,Liberated,5
+2015,SWZ,Liberated,5
+2019,SWZ,Liberated,7
+2007,SWZ,Stable,66
+2007,SWZ,Stable,64
+2015,SWZ,Stable,64
+2019,SWZ,Stable,63
+2003,SYR,Total,4411
+2007,SYR,Total,4256
+2007,SYR,Total,4139
+2015,SYR,Total,4310
+2019,SYR,Total,4569
+2007,SYR,Expansion,148
+2007,SYR,Expansion,206
+2015,SYR,Expansion,346
+2019,SYR,Expansion,658
+2007,SYR,Liberated,303
+2007,SYR,Liberated,478
+2015,SYR,Liberated,447
+2019,SYR,Liberated,499
+2007,SYR,Stable,4107
+2007,SYR,Stable,3933
+2015,SYR,Stable,3964
+2019,SYR,Stable,3911
+2003,TCA,Total,0
+2007,TCA,Total,0
+2007,TCA,Total,0
+2015,TCA,Total,0
+2019,TCA,Total,0
+2007,TCA,Expansion,0
+2007,TCA,Expansion,0
+2015,TCA,Expansion,0
+2019,TCA,Expansion,0
+2007,TCA,Liberated,0
+2007,TCA,Liberated,0
+2015,TCA,Liberated,0
+2019,TCA,Liberated,0
+2007,TCA,Stable,0
+2007,TCA,Stable,0
+2015,TCA,Stable,0
+2019,TCA,Stable,0
+2003,TCD,Total,3332
+2007,TCD,Total,3776
+2007,TCD,Total,4248
+2015,TCD,Total,5094
+2019,TCD,Total,5939
+2007,TCD,Expansion,736
+2007,TCD,Expansion,1298
+2015,TCD,Expansion,2109
+2019,TCD,Expansion,2918
+2007,TCD,Liberated,292
+2007,TCD,Liberated,382
+2015,TCD,Liberated,347
+2019,TCD,Liberated,311
+2007,TCD,Stable,3039
+2007,TCD,Stable,2950
+2015,TCD,Stable,2985
+2019,TCD,Stable,3020
+2003,TGO,Total,998
+2007,TGO,Total,1018
+2007,TGO,Total,1083
+2015,TGO,Total,1187
+2019,TGO,Total,1339
+2007,TGO,Expansion,152
+2007,TGO,Expansion,262
+2015,TGO,Expansion,370
+2019,TGO,Expansion,522
+2007,TGO,Liberated,131
+2007,TGO,Liberated,176
+2015,TGO,Liberated,181
+2019,TGO,Liberated,181
+2007,TGO,Stable,866
+2007,TGO,Stable,822
+2015,TGO,Stable,816
+2019,TGO,Stable,817
+2003,THA,Total,16944
+2007,THA,Total,17364
+2007,THA,Total,17386
+2015,THA,Total,17551
+2019,THA,Total,17379
+2007,THA,Expansion,934
+2007,THA,Expansion,1417
+2015,THA,Expansion,1889
+2019,THA,Expansion,2099
+2007,THA,Liberated,515
+2007,THA,Liberated,976
+2015,THA,Liberated,1283
+2019,THA,Liberated,1664
+2007,THA,Stable,16430
+2007,THA,Stable,15969
+2015,THA,Stable,15661
+2019,THA,Stable,15280
+2003,TJK,Total,1054
+2007,TJK,Total,1073
+2007,TJK,Total,1086
+2015,TJK,Total,1094
+2019,TJK,Total,1132
+2007,TJK,Expansion,72
+2007,TJK,Expansion,116
+2015,TJK,Expansion,140
+2019,TJK,Expansion,187
+2007,TJK,Liberated,54
+2007,TJK,Liberated,84
+2015,TJK,Liberated,101
+2019,TJK,Liberated,109
+2007,TJK,Stable,1001
+2007,TJK,Stable,970
+2015,TJK,Stable,954
+2019,TJK,Stable,945
+2003,TKM,Total,2016
+2007,TKM,Total,2245
+2007,TKM,Total,2366
+2015,TKM,Total,2499
+2019,TKM,Total,2618
+2007,TKM,Expansion,328
+2007,TKM,Expansion,492
+2015,TKM,Expansion,630
+2019,TKM,Expansion,770
+2007,TKM,Liberated,99
+2007,TKM,Liberated,142
+2015,TKM,Liberated,147
+2019,TKM,Liberated,167
+2007,TKM,Stable,1917
+2007,TKM,Stable,1874
+2015,TKM,Stable,1869
+2019,TKM,Stable,1848
+2003,TLS,Total,46
+2007,TLS,Total,47
+2007,TLS,Total,49
+2015,TLS,Total,51
+2019,TLS,Total,54
+2007,TLS,Expansion,7
+2007,TLS,Expansion,13
+2015,TLS,Expansion,19
+2019,TLS,Expansion,24
+2007,TLS,Liberated,6
+2007,TLS,Liberated,10
+2015,TLS,Liberated,14
+2019,TLS,Liberated,16
+2007,TLS,Stable,40
+2007,TLS,Stable,36
+2015,TLS,Stable,32
+2019,TLS,Stable,30
+2003,TTO,Total,3
+2007,TTO,Total,4
+2007,TTO,Total,4
+2015,TTO,Total,4
+2019,TTO,Total,3
+2007,TTO,Expansion,0
+2007,TTO,Expansion,1
+2015,TTO,Expansion,1
+2019,TTO,Expansion,1
+2007,TTO,Liberated,0
+2007,TTO,Liberated,0
+2015,TTO,Liberated,1
+2019,TTO,Liberated,1
+2007,TTO,Stable,3
+2007,TTO,Stable,3
+2015,TTO,Stable,3
+2019,TTO,Stable,3
+2003,TUN,Total,1809
+2007,TUN,Total,1856
+2007,TUN,Total,1871
+2015,TUN,Total,1893
+2019,TUN,Total,1933
+2007,TUN,Expansion,122
+2007,TUN,Expansion,168
+2015,TUN,Expansion,203
+2019,TUN,Expansion,272
+2007,TUN,Liberated,76
+2007,TUN,Liberated,106
+2015,TUN,Liberated,119
+2019,TUN,Liberated,148
+2007,TUN,Stable,1733
+2007,TUN,Stable,1703
+2015,TUN,Stable,1690
+2019,TUN,Stable,1661
+2003,TUR,Total,17764
+2007,TUR,Total,17988
+2007,TUR,Total,18091
+2015,TUR,Total,18171
+2019,TUR,Total,18297
+2007,TUR,Expansion,856
+2007,TUR,Expansion,1303
+2015,TUR,Expansion,1603
+2019,TUR,Expansion,2043
+2007,TUR,Liberated,632
+2007,TUR,Liberated,976
+2015,TUR,Liberated,1196
+2019,TUR,Liberated,1510
+2007,TUR,Stable,17132
+2007,TUR,Stable,16788
+2015,TUR,Stable,16568
+2019,TUR,Stable,16254
+2003,TWN,Total,343
+2007,TWN,Total,324
+2007,TWN,Total,319
+2015,TWN,Total,326
+2019,TWN,Total,333
+2007,TWN,Expansion,13
+2007,TWN,Expansion,21
+2015,TWN,Expansion,32
+2019,TWN,Expansion,44
+2007,TWN,Liberated,31
+2007,TWN,Liberated,44
+2015,TWN,Liberated,48
+2019,TWN,Liberated,54
+2007,TWN,Stable,311
+2007,TWN,Stable,299
+2015,TWN,Stable,294
+2019,TWN,Stable,289
+2003,TZA,Total,9566
+2007,TZA,Total,10272
+2007,TZA,Total,11617
+2015,TZA,Total,13694
+2019,TZA,Total,15570
+2007,TZA,Expansion,1459
+2007,TZA,Expansion,3024
+2015,TZA,Expansion,5063
+2019,TZA,Expansion,6984
+2007,TZA,Liberated,753
+2007,TZA,Liberated,973
+2015,TZA,Liberated,935
+2019,TZA,Liberated,979
+2007,TZA,Stable,8813
+2007,TZA,Stable,8592
+2015,TZA,Stable,8631
+2019,TZA,Stable,8587
+2003,UGA,Total,3306
+2007,UGA,Total,3791
+2007,UGA,Total,4309
+2015,UGA,Total,5049
+2019,UGA,Total,5789
+2007,UGA,Expansion,688
+2007,UGA,Expansion,1270
+2015,UGA,Expansion,2003
+2019,UGA,Expansion,2779
+2007,UGA,Liberated,203
+2007,UGA,Liberated,267
+2015,UGA,Liberated,261
+2019,UGA,Liberated,296
+2007,UGA,Stable,3103
+2007,UGA,Stable,3039
+2015,UGA,Stable,3046
+2019,UGA,Stable,3011
+2003,UKR,Total,31431
+2007,UKR,Total,31250
+2007,UKR,Total,31678
+2015,UKR,Total,32382
+2019,UKR,Total,32718
+2007,UKR,Expansion,1019
+2007,UKR,Expansion,1768
+2015,UKR,Expansion,2346
+2019,UKR,Expansion,2894
+2007,UKR,Liberated,1201
+2007,UKR,Liberated,1521
+2015,UKR,Liberated,1396
+2019,UKR,Liberated,1607
+2007,UKR,Stable,30231
+2007,UKR,Stable,29910
+2015,UKR,Stable,30036
+2019,UKR,Stable,29824
+2003,URY,Total,1291
+2007,URY,Total,1695
+2007,URY,Total,2302
+2015,URY,Total,2636
+2019,URY,Total,2674
+2007,URY,Expansion,517
+2007,URY,Expansion,1150
+2015,URY,Expansion,1480
+2019,URY,Expansion,1555
+2007,URY,Liberated,113
+2007,URY,Liberated,140
+2015,URY,Liberated,136
+2019,URY,Liberated,172
+2007,URY,Stable,1178
+2007,URY,Stable,1151
+2015,URY,Stable,1156
+2019,URY,Stable,1119
+2003,USA,Total,146840
+2007,USA,Total,145010
+2007,USA,Total,144912
+2015,USA,Total,147661
+2019,USA,Total,149131
+2007,USA,Expansion,3993
+2007,USA,Expansion,7021
+2015,USA,Expansion,10782
+2019,USA,Expansion,13631
+2007,USA,Liberated,5823
+2007,USA,Liberated,8948
+2015,USA,Liberated,9960
+2019,USA,Liberated,11339
+2007,USA,Stable,141016
+2007,USA,Stable,137891
+2015,USA,Stable,136879
+2019,USA,Stable,135501
+2003,UZB,Total,5442
+2007,UZB,Total,5586
+2007,UZB,Total,5619
+2015,UZB,Total,5679
+2019,UZB,Total,5801
+2007,UZB,Expansion,345
+2007,UZB,Expansion,489
+2015,UZB,Expansion,580
+2019,UZB,Expansion,729
+2007,UZB,Liberated,201
+2007,UZB,Liberated,312
+2015,UZB,Liberated,344
+2019,UZB,Liberated,370
+2007,UZB,Stable,5241
+2007,UZB,Stable,5131
+2015,UZB,Stable,5099
+2019,UZB,Stable,5072
+2019,VCT,Total,0
+2019,VCT,Expansion,0
+2003,VEN,Total,628
+2007,VEN,Total,623
+2007,VEN,Total,662
+2015,VEN,Total,703
+2019,VEN,Total,725
+2007,VEN,Expansion,95
+2007,VEN,Expansion,171
+2015,VEN,Expansion,239
+2019,VEN,Expansion,318
+2007,VEN,Liberated,101
+2007,VEN,Liberated,137
+2015,VEN,Liberated,165
+2019,VEN,Liberated,221
+2007,VEN,Stable,528
+2007,VEN,Stable,491
+2015,VEN,Stable,464
+2019,VEN,Stable,407
+2003,VGB,Total,0
+2015,VGB,Total,0
+2019,VGB,Total,0
+2015,VGB,Expansion,0
+2019,VGB,Expansion,0
+2007,VGB,Liberated,0
+2007,VGB,Liberated,0
+2015,VGB,Liberated,0
+2019,VGB,Liberated,0
+2019,VGB,Stable,0
+2003,VNM,Total,5140
+2007,VNM,Total,5073
+2007,VNM,Total,5020
+2015,VNM,Total,5063
+2019,VNM,Total,5010
+2007,VNM,Expansion,340
+2007,VNM,Expansion,534
+2015,VNM,Expansion,746
+2019,VNM,Expansion,906
+2007,VNM,Liberated,406
+2007,VNM,Liberated,654
+2015,VNM,Liberated,822
+2019,VNM,Liberated,1036
+2007,VNM,Stable,4733
+2007,VNM,Stable,4486
+2015,VNM,Stable,4317
+2019,VNM,Stable,4103
+2003,VUT,Total,0
+2007,VUT,Total,0
+2007,VUT,Total,0
+2015,VUT,Total,0
+2019,VUT,Total,0
+2007,VUT,Expansion,0
+2007,VUT,Expansion,0
+2015,VUT,Expansion,0
+2019,VUT,Expansion,0
+2007,VUT,Liberated,0
+2007,VUT,Liberated,0
+2015,VUT,Liberated,0
+2019,VUT,Liberated,0
+2007,VUT,Stable,0
+2007,VUT,Stable,0
+2015,VUT,Stable,0
+2019,VUT,Stable,0
+2003,YEM,Total,532
+2007,YEM,Total,474
+2007,YEM,Total,502
+2015,YEM,Total,564
+2019,YEM,Total,628
+2007,YEM,Expansion,33
+2007,YEM,Expansion,74
+2015,YEM,Expansion,122
+2019,YEM,Expansion,187
+2007,YEM,Liberated,91
+2007,YEM,Liberated,105
+2015,YEM,Liberated,90
+2019,YEM,Liberated,91
+2007,YEM,Stable,441
+2007,YEM,Stable,427
+2015,YEM,Stable,442
+2019,YEM,Stable,441
+2003,ZAF,Total,7182
+2007,ZAF,Total,7041
+2007,ZAF,Total,6960
+2015,ZAF,Total,7297
+2019,ZAF,Total,7732
+2007,ZAF,Expansion,492
+2007,ZAF,Expansion,775
+2015,ZAF,Expansion,1208
+2019,ZAF,Expansion,1737
+2007,ZAF,Liberated,632
+2007,ZAF,Liberated,997
+2015,ZAF,Liberated,1093
+2019,ZAF,Liberated,1187
+2007,ZAF,Stable,6549
+2007,ZAF,Stable,6185
+2015,ZAF,Stable,6089
+2019,ZAF,Stable,5995
+2003,ZMB,Total,1851
+2007,ZMB,Total,2075
+2007,ZMB,Total,2577
+2015,ZMB,Total,3294
+2019,ZMB,Total,4080
+2007,ZMB,Expansion,435
+2007,ZMB,Expansion,1012
+2015,ZMB,Expansion,1737
+2019,ZMB,Expansion,2535
+2007,ZMB,Liberated,211
+2007,ZMB,Liberated,286
+2015,ZMB,Liberated,295
+2019,ZMB,Liberated,306
+2007,ZMB,Stable,1640
+2007,ZMB,Stable,1566
+2015,ZMB,Stable,1557
+2019,ZMB,Stable,1545
+2003,ZWE,Total,4366
+2007,ZWE,Total,4521
+2007,ZWE,Total,4763
+2015,ZWE,Total,5283
+2019,ZWE,Total,5823
+2007,ZWE,Expansion,527
+2007,ZWE,Expansion,936
+2015,ZWE,Expansion,1480
+2019,ZWE,Expansion,2039
+2007,ZWE,Liberated,372
+2007,ZWE,Liberated,539
+2015,ZWE,Liberated,563
+2019,ZWE,Liberated,582
+2007,ZWE,Stable,3994
+2007,ZWE,Stable,3827
+2015,ZWE,Stable,3803
+2019,ZWE,Stable,3784
