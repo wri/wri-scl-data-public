@@ -1,51 +1,41 @@
 year,geo,disagg,value
-2021,AUS,Not at all,11
-2021,AUS,Somewhat,17
-2021,AUS,Moderately,26
-2021,AUS,Very ,25
-2021,AUS,Extremely,20
-2021,DNK,Not at all,23
-2021,DNK,Somewhat,20
+2021,AUT,Somewhat,16
+2021,AUT,Moderately,24
+2021,AUT,Very,24
+2021,AUT,Extremely,27
+2021,DNK,Somewhat,22
 2021,DNK,Moderately,29
-2021,DNK,Very ,19
-2021,DNK,Extremely,10
-2021,FRA,Not at all,21
-2021,FRA,Somewhat,20
-2021,FRA,Moderately,29
-2021,FRA,Very ,19
-2021,FRA,Extremely,10
-2021,DEU,Not at all,13
+2021,DNK,Very,17
+2021,DNK,Extremely,14
+2021,FRA,Somewhat,24
+2021,FRA,Moderately,28
+2021,FRA,Very,15
+2021,FRA,Extremely,14
 2021,DEU,Somewhat,18
-2021,DEU,Moderately,27
-2021,DEU,Very ,24
-2021,DEU,Extremely,19
-2021,ITA,Not at all,17
-2021,ITA,Somewhat,21
-2021,ITA,Moderately,30
-2021,ITA,Very ,18
+2021,DEU,Moderately,25
+2021,DEU,Very,22
+2021,DEU,Extremely,23
+2021,ITA,Somewhat,25
+2021,ITA,Moderately,25
+2021,ITA,Very,19
 2021,ITA,Extremely,14
-2021,NLD,Not at all,15
-2021,NLD,Somewhat,25
-2021,NLD,Moderately,30
-2021,NLD,Very ,18
-2021,NLD,Extremely,13
-2021,POL,Not at all,19
-2021,POL,Somewhat,16
-2021,POL,Moderately,29
-2021,POL,Very ,19
-2021,POL,Extremely,17
-2021,ROU,Not at all,8
-2021,ROU,Somewhat,18
-2021,ROU,Moderately,34
-2021,ROU,Very ,28
-2021,ROU,Extremely,12
-2021,ESP,Not at all,9
-2021,ESP,Somewhat,15
-2021,ESP,Moderately,33
-2021,ESP,Very ,26
-2021,ESP,Extremely,17
-2021,GBR,Not at all,22
-2021,GBR,Somewhat,19
+2021,NLD,Somewhat,27
+2021,NLD,Moderately,28
+2021,NLD,Very,14
+2021,NLD,Extremely,17
+2021,POL,Somewhat,25
+2021,POL,Moderately,26
+2021,POL,Very,15
+2021,POL,Extremely,21
+2021,ROU,Somewhat,19
+2021,ROU,Moderately,28
+2021,ROU,Very,32
+2021,ROU,Extremely,14
+2021,ESP,Somewhat,14
+2021,ESP,Moderately,30
+2021,ESP,Very,26
+2021,ESP,Extremely,21
+2021,GBR,Somewhat,23
 2021,GBR,Moderately,23
-2021,GBR,Very ,20
-2021,GBR,Extremely,16
+2021,GBR,Very,15
+2021,GBR,Extremely,19
