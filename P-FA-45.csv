@@ -8,12 +8,3522 @@ year,geo,disagg,value
 2023,WLD,Food security,50.7
 2023,WLD,Irrigation,43.4
 2023,WLD,Rice cultivation,17.8
-2023,WLD,Agricultural waste,23.0
+2023,WLD,Agricultural waste,23
 2023,WLD,Soil carbon sequestration,14.5
 2023,WLD,Climate smart agriculture,61.8
-2023,WLD,Crops,48.0
+2023,WLD,Crops,48
 2023,WLD,Fisheries and aquaculture,42.1
 2023,WLD,Land and soil management,46.7
 2023,WLD,Soil fertilization emissions,18.4
 2023,WLD,Diets,5.9
 2023,WLD,Agroecology,9.9
+2023,AND,Total,1
+2023,ARE,Total,1
+2023,AFG,Total,1
+2023,ATG,Total,1
+2023,ALB,Total,1
+2023,ARM,Total,1
+2023,AGO,Total,1
+2023,ARG,Total,1
+2023,AUS,Total,1
+2023,AZE,Total,1
+2023,BRB,Total,1
+2023,BGD,Total,1
+2023,BFA,Total,1
+2023,BDI,Total,1
+2023,BEN,Total,1
+2023,BRN,Total,1
+2023,BOL,Total,1
+2023,BRA,Total,1
+2023,BHS,Total,1
+2023,BTN,Total,1
+2023,BWA,Total,1
+2023,BLR,Total,1
+2023,BLZ,Total,1
+2023,CAN,Total,1
+2023,COD,Total,1
+2023,CAF,Total,1
+2023,COG,Total,1
+2023,CIV,Total,1
+2023,COK,Total,1
+2023,CHL,Total,1
+2023,CMR,Total,1
+2023,CHN,Total,1
+2023,COL,Total,1
+2023,CRI,Total,1
+2023,CUB,Total,1
+2023,CPV,Total,1
+2023,DJI,Total,1
+2023,DMA,Total,1
+2023,DOM,Total,1
+2023,DZA,Total,1
+2023,ECU,Total,1
+2023,EGY,Total,1
+2023,ERI,Total,1
+2023,ETH,Total,1
+2023,FJI,Total,1
+2023,FSM,Total,1
+2023,GAB,Total,1
+2023,GBR,Total,1
+2023,GEO,Total,1
+2023,GHA,Total,1
+2023,GMB,Total,1
+2023,GIN,Total,1
+2023,GNQ,Total,1
+2023,GTM,Total,1
+2023,GNB,Total,1
+2023,GUY,Total,1
+2023,HND,Total,1
+2023,HTI,Total,1
+2023,IDN,Total,1
+2023,IND,Total,1
+2023,IRQ,Total,1
+2023,JAM,Total,1
+2023,JOR,Total,1
+2023,JPN,Total,1
+2023,KEN,Total,1
+2023,KGZ,Total,1
+2023,KHM,Total,1
+2023,KIR,Total,1
+2023,COM,Total,1
+2023,KNA,Total,1
+2023,PRK,Total,1
+2023,KOR,Total,1
+2023,KWT,Total,1
+2023,KAZ,Total,1
+2023,LAO,Total,1
+2023,LBN,Total,1
+2023,LCA,Total,1
+2023,LKA,Total,1
+2023,LBR,Total,1
+2023,LSO,Total,1
+2023,MAR,Total,1
+2023,MDA,Total,1
+2023,MDG,Total,1
+2023,MKD,Total,1
+2023,MLI,Total,1
+2023,MMR,Total,1
+2023,MNG,Total,1
+2023,MRT,Total,1
+2023,MUS,Total,1
+2023,MDV,Total,1
+2023,MWI,Total,1
+2023,MEX,Total,1
+2023,MYS,Total,1
+2023,MOZ,Total,1
+2023,NAM,Total,1
+2023,NER,Total,1
+2023,NGA,Total,1
+2023,NIC,Total,1
+2023,NO,Total,1
+2023,NPL,Total,1
+2023,NRU,Total,1
+2023,NU,Total,1
+2023,NZL,Total,1
+2023,OMN,Total,1
+2023,PAN,Total,1
+2023,PER,Total,1
+2023,PNG,Total,1
+2023,PHL,Total,1
+2023,PAK,Total,1
+2023,PSE,Total,1
+2023,PRY,Total,1
+2023,QAT,Total,1
+2023,RWA,Total,1
+2023,SLB,Total,1
+2023,SYC,Total,1
+2023,SDN,Total,1
+2023,SGP,Total,1
+2023,SLE,Total,1
+2023,SMR,Total,1
+2023,SEN,Total,1
+2023,SOM,Total,1
+2023,SUR,Total,1
+2023,SSD,Total,1
+2023,STP,Total,1
+2023,SLV,Total,1
+2023,SYR,Total,1
+2023,SWZ,Total,1
+2023,TCD,Total,1
+2023,TGO,Total,1
+2023,THA,Total,1
+2023,TJK,Total,1
+2023,TLS,Total,1
+2023,TUN,Total,1
+2023,TON,Total,1
+2023,TUR,Total,1
+2023,TZA,Total,1
+2023,UGA,Total,1
+2023,USA,Total,1
+2023,URY,Total,1
+2023,UZB,Total,1
+2023,VCT,Total,1
+2023,VEN,Total,1
+2023,VNM,Total,1
+2023,VUT,Total,1
+2023,WSM,Total,1
+2023,YEM,Total,1
+2023,ZAF,Total,1
+2023,ZMB,Total,1
+2023,ZWE,Total,1
+2023,AND,Agricultural productivity,1
+2023,ARE,Agricultural productivity,1
+2023,AFG,Agricultural productivity,1
+2023,ALB,Agricultural productivity,1
+2023,ARG,Agricultural productivity,1
+2023,BEN,Agricultural productivity,1
+2023,BOL,Agricultural productivity,1
+2023,BTN,Agricultural productivity,1
+2023,COD,Agricultural productivity,1
+2023,CIV,Agricultural productivity,1
+2023,CMR,Agricultural productivity,1
+2023,DMA,Agricultural productivity,1
+2023,ETH,Agricultural productivity,1
+2023,FJI,Agricultural productivity,1
+2023,GBR,Agricultural productivity,1
+2023,GNQ,Agricultural productivity,1
+2023,GNB,Agricultural productivity,1
+2023,HTI,Agricultural productivity,1
+2023,IDN,Agricultural productivity,1
+2023,JAM,Agricultural productivity,1
+2023,KEN,Agricultural productivity,1
+2023,KGZ,Agricultural productivity,1
+2023,LKA,Agricultural productivity,1
+2023,LBR,Agricultural productivity,1
+2023,LSO,Agricultural productivity,1
+2023,MLI,Agricultural productivity,1
+2023,MUS,Agricultural productivity,1
+2023,MDV,Agricultural productivity,1
+2023,MWI,Agricultural productivity,1
+2023,NAM,Agricultural productivity,1
+2023,NPL,Agricultural productivity,1
+2023,PNG,Agricultural productivity,1
+2023,PAK,Agricultural productivity,1
+2023,PSE,Agricultural productivity,1
+2023,PRY,Agricultural productivity,1
+2023,RWA,Agricultural productivity,1
+2023,SEN,Agricultural productivity,1
+2023,SOM,Agricultural productivity,1
+2023,TGO,Agricultural productivity,1
+2023,TUR,Agricultural productivity,1
+2023,UGA,Agricultural productivity,1
+2023,USA,Agricultural productivity,1
+2023,URY,Agricultural productivity,1
+2023,UZB,Agricultural productivity,1
+2023,VNM,Agricultural productivity,1
+2023,ZMB,Agricultural productivity,1
+2023,ZWE,Agricultural productivity,1
+2023,AFG,Agricultural waste,1
+2023,AZE,Agricultural waste,1
+2023,COD,Agricultural waste,1
+2023,COG,Agricultural waste,1
+2023,CIV,Agricultural waste,1
+2023,COL,Agricultural waste,1
+2023,FSM,Agricultural waste,1
+2023,GMB,Agricultural waste,1
+2023,GIN,Agricultural waste,1
+2023,GTM,Agricultural waste,1
+2023,GNB,Agricultural waste,1
+2023,GUY,Agricultural waste,1
+2023,HTI,Agricultural waste,1
+2023,IDN,Agricultural waste,1
+2023,KHM,Agricultural waste,1
+2023,LBR,Agricultural waste,1
+2023,LSO,Agricultural waste,1
+2023,MLI,Agricultural waste,1
+2023,MNG,Agricultural waste,1
+2023,MWI,Agricultural waste,1
+2023,NAM,Agricultural waste,1
+2023,NPL,Agricultural waste,1
+2023,PAK,Agricultural waste,1
+2023,PSE,Agricultural waste,1
+2023,RWA,Agricultural waste,1
+2023,SEN,Agricultural waste,1
+2023,SSD,Agricultural waste,1
+2023,SLV,Agricultural waste,1
+2023,SYR,Agricultural waste,1
+2023,THA,Agricultural waste,1
+2023,TJK,Agricultural waste,1
+2023,TUR,Agricultural waste,1
+2023,UGA,Agricultural waste,1
+2023,URY,Agricultural waste,1
+2023,VNM,Agricultural waste,1
+2023,AND,Agriculture: General,1
+2023,ARE,Agriculture: General,1
+2023,AFG,Agriculture: General,1
+2023,ATG,Agriculture: General,1
+2023,ALB,Agriculture: General,1
+2023,ARM,Agriculture: General,1
+2023,AGO,Agriculture: General,1
+2023,ARG,Agriculture: General,1
+2023,AZE,Agriculture: General,1
+2023,BGD,Agriculture: General,1
+2023,BFA,Agriculture: General,1
+2023,BDI,Agriculture: General,1
+2023,BEN,Agriculture: General,1
+2023,BOL,Agriculture: General,1
+2023,BRA,Agriculture: General,1
+2023,BHS,Agriculture: General,1
+2023,BTN,Agriculture: General,1
+2023,BLR,Agriculture: General,1
+2023,BLZ,Agriculture: General,1
+2023,CAN,Agriculture: General,1
+2023,COD,Agriculture: General,1
+2023,CAF,Agriculture: General,1
+2023,COG,Agriculture: General,1
+2023,CIV,Agriculture: General,1
+2023,COK,Agriculture: General,1
+2023,CMR,Agriculture: General,1
+2023,CHN,Agriculture: General,1
+2023,COL,Agriculture: General,1
+2023,CRI,Agriculture: General,1
+2023,CPV,Agriculture: General,1
+2023,DMA,Agriculture: General,1
+2023,DOM,Agriculture: General,1
+2023,ECU,Agriculture: General,1
+2023,EGY,Agriculture: General,1
+2023,ERI,Agriculture: General,1
+2023,ETH,Agriculture: General,1
+2023,FJI,Agriculture: General,1
+2023,FSM,Agriculture: General,1
+2023,GAB,Agriculture: General,1
+2023,GBR,Agriculture: General,1
+2023,GEO,Agriculture: General,1
+2023,GHA,Agriculture: General,1
+2023,GMB,Agriculture: General,1
+2023,GIN,Agriculture: General,1
+2023,GNQ,Agriculture: General,1
+2023,GTM,Agriculture: General,1
+2023,GNB,Agriculture: General,1
+2023,GUY,Agriculture: General,1
+2023,HND,Agriculture: General,1
+2023,HTI,Agriculture: General,1
+2023,IDN,Agriculture: General,1
+2023,IND,Agriculture: General,1
+2023,IRQ,Agriculture: General,1
+2023,JAM,Agriculture: General,1
+2023,JOR,Agriculture: General,1
+2023,JPN,Agriculture: General,1
+2023,KEN,Agriculture: General,1
+2023,KGZ,Agriculture: General,1
+2023,KHM,Agriculture: General,1
+2023,COM,Agriculture: General,1
+2023,KNA,Agriculture: General,1
+2023,PRK,Agriculture: General,1
+2023,KOR,Agriculture: General,1
+2023,KAZ,Agriculture: General,1
+2023,LAO,Agriculture: General,1
+2023,LBN,Agriculture: General,1
+2023,LCA,Agriculture: General,1
+2023,LKA,Agriculture: General,1
+2023,LBR,Agriculture: General,1
+2023,LSO,Agriculture: General,1
+2023,MAR,Agriculture: General,1
+2023,MDA,Agriculture: General,1
+2023,MDG,Agriculture: General,1
+2023,MKD,Agriculture: General,1
+2023,MLI,Agriculture: General,1
+2023,MMR,Agriculture: General,1
+2023,MNG,Agriculture: General,1
+2023,MRT,Agriculture: General,1
+2023,MUS,Agriculture: General,1
+2023,MDV,Agriculture: General,1
+2023,MWI,Agriculture: General,1
+2023,MEX,Agriculture: General,1
+2023,MYS,Agriculture: General,1
+2023,MOZ,Agriculture: General,1
+2023,NAM,Agriculture: General,1
+2023,NER,Agriculture: General,1
+2023,NGA,Agriculture: General,1
+2023,NIC,Agriculture: General,1
+2023,NO,Agriculture: General,1
+2023,NPL,Agriculture: General,1
+2023,NRU,Agriculture: General,1
+2023,NU,Agriculture: General,1
+2023,NZL,Agriculture: General,1
+2023,PAN,Agriculture: General,1
+2023,PER,Agriculture: General,1
+2023,PNG,Agriculture: General,1
+2023,PAK,Agriculture: General,1
+2023,PSE,Agriculture: General,1
+2023,PRY,Agriculture: General,1
+2023,RWA,Agriculture: General,1
+2023,SLB,Agriculture: General,1
+2023,SYC,Agriculture: General,1
+2023,SDN,Agriculture: General,1
+2023,SLE,Agriculture: General,1
+2023,SMR,Agriculture: General,1
+2023,SEN,Agriculture: General,1
+2023,SOM,Agriculture: General,1
+2023,SUR,Agriculture: General,1
+2023,SSD,Agriculture: General,1
+2023,SLV,Agriculture: General,1
+2023,SYR,Agriculture: General,1
+2023,SWZ,Agriculture: General,1
+2023,TCD,Agriculture: General,1
+2023,TGO,Agriculture: General,1
+2023,THA,Agriculture: General,1
+2023,TJK,Agriculture: General,1
+2023,TLS,Agriculture: General,1
+2023,TUR,Agriculture: General,1
+2023,TZA,Agriculture: General,1
+2023,UGA,Agriculture: General,1
+2023,URY,Agriculture: General,1
+2023,UZB,Agriculture: General,1
+2023,VCT,Agriculture: General,1
+2023,VEN,Agriculture: General,1
+2023,VNM,Agriculture: General,1
+2023,VUT,Agriculture: General,1
+2023,ZMB,Agriculture: General,1
+2023,ZWE,Agriculture: General,1
+2023,ARG,Agroecology,1
+2023,CAF,Agroecology,1
+2023,COG,Agroecology,1
+2023,CIV,Agroecology,1
+2023,CMR,Agroecology,1
+2023,GIN,Agroecology,1
+2023,GNB,Agroecology,1
+2023,HND,Agroecology,1
+2023,KHM,Agroecology,1
+2023,LKA,Agroecology,1
+2023,MEX,Agroecology,1
+2023,RWA,Agroecology,1
+2023,SLV,Agroecology,1
+2023,TGO,Agroecology,1
+2023,VEN,Agroecology,1
+2023,ZWE,Agroecology,1
+2023,AND,Agroforestry,1
+2023,ALB,Agroforestry,1
+2023,BFA,Agroforestry,1
+2023,BDI,Agroforestry,1
+2023,BEN,Agroforestry,1
+2023,BOL,Agroforestry,1
+2023,BHS,Agroforestry,1
+2023,BTN,Agroforestry,1
+2023,BLZ,Agroforestry,1
+2023,COD,Agroforestry,1
+2023,CAF,Agroforestry,1
+2023,CIV,Agroforestry,1
+2023,COL,Agroforestry,1
+2023,CRI,Agroforestry,1
+2023,CPV,Agroforestry,1
+2023,DJI,Agroforestry,1
+2023,DMA,Agroforestry,1
+2023,DOM,Agroforestry,1
+2023,ERI,Agroforestry,1
+2023,ETH,Agroforestry,1
+2023,GAB,Agroforestry,1
+2023,GMB,Agroforestry,1
+2023,GNQ,Agroforestry,1
+2023,GTM,Agroforestry,1
+2023,GNB,Agroforestry,1
+2023,HND,Agroforestry,1
+2023,HTI,Agroforestry,1
+2023,IND,Agroforestry,1
+2023,JAM,Agroforestry,1
+2023,JOR,Agroforestry,1
+2023,KEN,Agroforestry,1
+2023,KGZ,Agroforestry,1
+2023,COM,Agroforestry,1
+2023,LAO,Agroforestry,1
+2023,LBR,Agroforestry,1
+2023,LSO,Agroforestry,1
+2023,MDG,Agroforestry,1
+2023,MLI,Agroforestry,1
+2023,MMR,Agroforestry,1
+2023,MUS,Agroforestry,1
+2023,MWI,Agroforestry,1
+2023,MOZ,Agroforestry,1
+2023,NAM,Agroforestry,1
+2023,NER,Agroforestry,1
+2023,NIC,Agroforestry,1
+2023,NPL,Agroforestry,1
+2023,PAN,Agroforestry,1
+2023,PAK,Agroforestry,1
+2023,PRY,Agroforestry,1
+2023,RWA,Agroforestry,1
+2023,SYC,Agroforestry,1
+2023,SDN,Agroforestry,1
+2023,SOM,Agroforestry,1
+2023,SSD,Agroforestry,1
+2023,STP,Agroforestry,1
+2023,SLV,Agroforestry,1
+2023,SWZ,Agroforestry,1
+2023,TCD,Agroforestry,1
+2023,TJK,Agroforestry,1
+2023,TLS,Agroforestry,1
+2023,TON,Agroforestry,1
+2023,TUR,Agroforestry,1
+2023,UGA,Agroforestry,1
+2023,URY,Agroforestry,1
+2023,VEN,Agroforestry,1
+2023,VNM,Agroforestry,1
+2023,VUT,Agroforestry,1
+2023,WSM,Agroforestry,1
+2023,ZMB,Agroforestry,1
+2023,ZWE,Agroforestry,1
+2023,ALB,Climate smart agriculture,1
+2023,AGO,Climate smart agriculture,1
+2023,ARG,Climate smart agriculture,1
+2023,BRB,Climate smart agriculture,1
+2023,BDI,Climate smart agriculture,1
+2023,BEN,Climate smart agriculture,1
+2023,BOL,Climate smart agriculture,1
+2023,BWA,Climate smart agriculture,1
+2023,BLZ,Climate smart agriculture,1
+2023,CAN,Climate smart agriculture,1
+2023,COD,Climate smart agriculture,1
+2023,CAF,Climate smart agriculture,1
+2023,COG,Climate smart agriculture,1
+2023,CIV,Climate smart agriculture,1
+2023,CHL,Climate smart agriculture,1
+2023,CMR,Climate smart agriculture,1
+2023,CHN,Climate smart agriculture,1
+2023,COL,Climate smart agriculture,1
+2023,CRI,Climate smart agriculture,1
+2023,CPV,Climate smart agriculture,1
+2023,DJI,Climate smart agriculture,1
+2023,DZA,Climate smart agriculture,1
+2023,ECU,Climate smart agriculture,1
+2023,EGY,Climate smart agriculture,1
+2023,ERI,Climate smart agriculture,1
+2023,ETH,Climate smart agriculture,1
+2023,FJI,Climate smart agriculture,1
+2023,GHA,Climate smart agriculture,1
+2023,GIN,Climate smart agriculture,1
+2023,GNQ,Climate smart agriculture,1
+2023,GNB,Climate smart agriculture,1
+2023,GUY,Climate smart agriculture,1
+2023,HND,Climate smart agriculture,1
+2023,HTI,Climate smart agriculture,1
+2023,IDN,Climate smart agriculture,1
+2023,IND,Climate smart agriculture,1
+2023,IRQ,Climate smart agriculture,1
+2023,JOR,Climate smart agriculture,1
+2023,KEN,Climate smart agriculture,1
+2023,KGZ,Climate smart agriculture,1
+2023,KHM,Climate smart agriculture,1
+2023,COM,Climate smart agriculture,1
+2023,PRK,Climate smart agriculture,1
+2023,KWT,Climate smart agriculture,1
+2023,LAO,Climate smart agriculture,1
+2023,LBN,Climate smart agriculture,1
+2023,LKA,Climate smart agriculture,1
+2023,LBR,Climate smart agriculture,1
+2023,LSO,Climate smart agriculture,1
+2023,MAR,Climate smart agriculture,1
+2023,MDA,Climate smart agriculture,1
+2023,MDG,Climate smart agriculture,1
+2023,MLI,Climate smart agriculture,1
+2023,MMR,Climate smart agriculture,1
+2023,MNG,Climate smart agriculture,1
+2023,MRT,Climate smart agriculture,1
+2023,MUS,Climate smart agriculture,1
+2023,MDV,Climate smart agriculture,1
+2023,MWI,Climate smart agriculture,1
+2023,MEX,Climate smart agriculture,1
+2023,MYS,Climate smart agriculture,1
+2023,MOZ,Climate smart agriculture,1
+2023,NAM,Climate smart agriculture,1
+2023,NER,Climate smart agriculture,1
+2023,NGA,Climate smart agriculture,1
+2023,PAN,Climate smart agriculture,1
+2023,PHL,Climate smart agriculture,1
+2023,PAK,Climate smart agriculture,1
+2023,PSE,Climate smart agriculture,1
+2023,PRY,Climate smart agriculture,1
+2023,SYC,Climate smart agriculture,1
+2023,SLE,Climate smart agriculture,1
+2023,SEN,Climate smart agriculture,1
+2023,SOM,Climate smart agriculture,1
+2023,SUR,Climate smart agriculture,1
+2023,SSD,Climate smart agriculture,1
+2023,STP,Climate smart agriculture,1
+2023,SLV,Climate smart agriculture,1
+2023,SWZ,Climate smart agriculture,1
+2023,TCD,Climate smart agriculture,1
+2023,TGO,Climate smart agriculture,1
+2023,THA,Climate smart agriculture,1
+2023,TJK,Climate smart agriculture,1
+2023,TLS,Climate smart agriculture,1
+2023,TUN,Climate smart agriculture,1
+2023,TON,Climate smart agriculture,1
+2023,TZA,Climate smart agriculture,1
+2023,UGA,Climate smart agriculture,1
+2023,URY,Climate smart agriculture,1
+2023,UZB,Climate smart agriculture,1
+2023,VEN,Climate smart agriculture,1
+2023,VNM,Climate smart agriculture,1
+2023,VUT,Climate smart agriculture,1
+2023,YEM,Climate smart agriculture,1
+2023,ZAF,Climate smart agriculture,1
+2023,ZMB,Climate smart agriculture,1
+2023,ZWE,Climate smart agriculture,1
+2023,ALB,Crops,1
+2023,AGO,Crops,1
+2023,ARG,Crops,1
+2023,BGD,Crops,1
+2023,BDI,Crops,1
+2023,BRN,Crops,1
+2023,BOL,Crops,1
+2023,BTN,Crops,1
+2023,BLZ,Crops,1
+2023,CAF,Crops,1
+2023,CIV,Crops,1
+2023,CMR,Crops,1
+2023,CHN,Crops,1
+2023,COL,Crops,1
+2023,CRI,Crops,1
+2023,CUB,Crops,1
+2023,CPV,Crops,1
+2023,DOM,Crops,1
+2023,ECU,Crops,1
+2023,EGY,Crops,1
+2023,ERI,Crops,1
+2023,ETH,Crops,1
+2023,GMB,Crops,1
+2023,GIN,Crops,1
+2023,GNB,Crops,1
+2023,GUY,Crops,1
+2023,HND,Crops,1
+2023,HTI,Crops,1
+2023,IDN,Crops,1
+2023,IND,Crops,1
+2023,JOR,Crops,1
+2023,KEN,Crops,1
+2023,KGZ,Crops,1
+2023,KHM,Crops,1
+2023,KNA,Crops,1
+2023,PRK,Crops,1
+2023,LAO,Crops,1
+2023,LKA,Crops,1
+2023,LBR,Crops,1
+2023,LSO,Crops,1
+2023,MDA,Crops,1
+2023,MDG,Crops,1
+2023,MLI,Crops,1
+2023,MMR,Crops,1
+2023,MNG,Crops,1
+2023,MRT,Crops,1
+2023,MUS,Crops,1
+2023,MDV,Crops,1
+2023,MWI,Crops,1
+2023,MEX,Crops,1
+2023,MYS,Crops,1
+2023,MOZ,Crops,1
+2023,NAM,Crops,1
+2023,NER,Crops,1
+2023,NGA,Crops,1
+2023,PSE,Crops,1
+2023,RWA,Crops,1
+2023,SDN,Crops,1
+2023,SLE,Crops,1
+2023,SEN,Crops,1
+2023,SOM,Crops,1
+2023,STP,Crops,1
+2023,SLV,Crops,1
+2023,SWZ,Crops,1
+2023,TCD,Crops,1
+2023,TGO,Crops,1
+2023,TUN,Crops,1
+2023,TZA,Crops,1
+2023,UGA,Crops,1
+2023,URY,Crops,1
+2023,UZB,Crops,1
+2023,VEN,Crops,1
+2023,VNM,Crops,1
+2023,VUT,Crops,1
+2023,ZMB,Crops,1
+2023,ZWE,Crops,1
+2023,ALB,Diets,1
+2023,BGD,Diets,1
+2023,BTN,Diets,1
+2023,CMR,Diets,1
+2023,ETH,Diets,1
+2023,GTM,Diets,1
+2023,MRT,Diets,1
+2023,SSD,Diets,1
+2023,URY,Diets,1
+2023,ALB,Fisheries and aquaculture,1
+2023,AGO,Fisheries and aquaculture,1
+2023,ARG,Fisheries and aquaculture,1
+2023,BGD,Fisheries and aquaculture,1
+2023,BDI,Fisheries and aquaculture,1
+2023,BOL,Fisheries and aquaculture,1
+2023,BLZ,Fisheries and aquaculture,1
+2023,COD,Fisheries and aquaculture,1
+2023,COG,Fisheries and aquaculture,1
+2023,CMR,Fisheries and aquaculture,1
+2023,CHN,Fisheries and aquaculture,1
+2023,CRI,Fisheries and aquaculture,1
+2023,CPV,Fisheries and aquaculture,1
+2023,DMA,Fisheries and aquaculture,1
+2023,ERI,Fisheries and aquaculture,1
+2023,FJI,Fisheries and aquaculture,1
+2023,FSM,Fisheries and aquaculture,1
+2023,GBR,Fisheries and aquaculture,1
+2023,GHA,Fisheries and aquaculture,1
+2023,GMB,Fisheries and aquaculture,1
+2023,GIN,Fisheries and aquaculture,1
+2023,GNB,Fisheries and aquaculture,1
+2023,HTI,Fisheries and aquaculture,1
+2023,IND,Fisheries and aquaculture,1
+2023,JAM,Fisheries and aquaculture,1
+2023,JPN,Fisheries and aquaculture,1
+2023,KEN,Fisheries and aquaculture,1
+2023,KHM,Fisheries and aquaculture,1
+2023,COM,Fisheries and aquaculture,1
+2023,KNA,Fisheries and aquaculture,1
+2023,KWT,Fisheries and aquaculture,1
+2023,LBN,Fisheries and aquaculture,1
+2023,LCA,Fisheries and aquaculture,1
+2023,LKA,Fisheries and aquaculture,1
+2023,LBR,Fisheries and aquaculture,1
+2023,LSO,Fisheries and aquaculture,1
+2023,MAR,Fisheries and aquaculture,1
+2023,MDG,Fisheries and aquaculture,1
+2023,MLI,Fisheries and aquaculture,1
+2023,MRT,Fisheries and aquaculture,1
+2023,MUS,Fisheries and aquaculture,1
+2023,MDV,Fisheries and aquaculture,1
+2023,MWI,Fisheries and aquaculture,1
+2023,MYS,Fisheries and aquaculture,1
+2023,MOZ,Fisheries and aquaculture,1
+2023,NAM,Fisheries and aquaculture,1
+2023,NGA,Fisheries and aquaculture,1
+2023,NRU,Fisheries and aquaculture,1
+2023,NU,Fisheries and aquaculture,1
+2023,PER,Fisheries and aquaculture,1
+2023,PSE,Fisheries and aquaculture,1
+2023,SYC,Fisheries and aquaculture,1
+2023,SLE,Fisheries and aquaculture,1
+2023,SEN,Fisheries and aquaculture,1
+2023,SOM,Fisheries and aquaculture,1
+2023,SSD,Fisheries and aquaculture,1
+2023,STP,Fisheries and aquaculture,1
+2023,SLV,Fisheries and aquaculture,1
+2023,TCD,Fisheries and aquaculture,1
+2023,TGO,Fisheries and aquaculture,1
+2023,TON,Fisheries and aquaculture,1
+2023,TZA,Fisheries and aquaculture,1
+2023,VCT,Fisheries and aquaculture,1
+2023,VNM,Fisheries and aquaculture,1
+2023,VUT,Fisheries and aquaculture,1
+2023,ZMB,Fisheries and aquaculture,1
+2023,ARE,Food security,1
+2023,AFG,Food security,1
+2023,AGO,Food security,1
+2023,ARG,Food security,1
+2023,BDI,Food security,1
+2023,BEN,Food security,1
+2023,BOL,Food security,1
+2023,BHS,Food security,1
+2023,BTN,Food security,1
+2023,BLZ,Food security,1
+2023,CAF,Food security,1
+2023,COG,Food security,1
+2023,CIV,Food security,1
+2023,CHN,Food security,1
+2023,CRI,Food security,1
+2023,CUB,Food security,1
+2023,CPV,Food security,1
+2023,DMA,Food security,1
+2023,DOM,Food security,1
+2023,ECU,Food security,1
+2023,EGY,Food security,1
+2023,ETH,Food security,1
+2023,FJI,Food security,1
+2023,GEO,Food security,1
+2023,GHA,Food security,1
+2023,GMB,Food security,1
+2023,GIN,Food security,1
+2023,GTM,Food security,1
+2023,GNB,Food security,1
+2023,HND,Food security,1
+2023,HTI,Food security,1
+2023,IDN,Food security,1
+2023,IND,Food security,1
+2023,JAM,Food security,1
+2023,KIR,Food security,1
+2023,KWT,Food security,1
+2023,LBN,Food security,1
+2023,LCA,Food security,1
+2023,LKA,Food security,1
+2023,LBR,Food security,1
+2023,LSO,Food security,1
+2023,MAR,Food security,1
+2023,MDA,Food security,1
+2023,MLI,Food security,1
+2023,MRT,Food security,1
+2023,MDV,Food security,1
+2023,MWI,Food security,1
+2023,MEX,Food security,1
+2023,MYS,Food security,1
+2023,MOZ,Food security,1
+2023,NAM,Food security,1
+2023,NER,Food security,1
+2023,NRU,Food security,1
+2023,NU,Food security,1
+2023,OMN,Food security,1
+2023,PAN,Food security,1
+2023,PNG,Food security,1
+2023,PSE,Food security,1
+2023,PRY,Food security,1
+2023,RWA,Food security,1
+2023,SYC,Food security,1
+2023,SDN,Food security,1
+2023,SGP,Food security,1
+2023,SEN,Food security,1
+2023,SOM,Food security,1
+2023,SSD,Food security,1
+2023,SLV,Food security,1
+2023,SWZ,Food security,1
+2023,TCD,Food security,1
+2023,TGO,Food security,1
+2023,THA,Food security,1
+2023,TJK,Food security,1
+2023,TLS,Food security,1
+2023,UGA,Food security,1
+2023,VCT,Food security,1
+2023,VEN,Food security,1
+2023,VNM,Food security,1
+2023,VUT,Food security,1
+2023,YEM,Food security,1
+2023,AFG,Irrigation,1
+2023,ARG,Irrigation,1
+2023,BFA,Irrigation,1
+2023,BOL,Irrigation,1
+2023,BTN,Irrigation,1
+2023,CMR,Irrigation,1
+2023,CHN,Irrigation,1
+2023,EGY,Irrigation,1
+2023,ERI,Irrigation,1
+2023,ETH,Irrigation,1
+2023,GEO,Irrigation,1
+2023,GMB,Irrigation,1
+2023,GIN,Irrigation,1
+2023,IND,Irrigation,1
+2023,IRQ,Irrigation,1
+2023,JOR,Irrigation,1
+2023,KHM,Irrigation,1
+2023,KNA,Irrigation,1
+2023,LBN,Irrigation,1
+2023,LCA,Irrigation,1
+2023,LSO,Irrigation,1
+2023,MAR,Irrigation,1
+2023,MDA,Irrigation,1
+2023,MUS,Irrigation,1
+2023,MWI,Irrigation,1
+2023,NAM,Irrigation,1
+2023,NGA,Irrigation,1
+2023,RWA,Irrigation,1
+2023,SWZ,Irrigation,1
+2023,TCD,Irrigation,1
+2023,TGO,Irrigation,1
+2023,TJK,Irrigation,1
+2023,TZA,Irrigation,1
+2023,UGA,Irrigation,1
+2023,UZB,Irrigation,1
+2023,ZWE,Irrigation,1
+2023,ALB,Irrigation,1
+2023,AGO,Irrigation,1
+2023,BDI,Irrigation,1
+2023,BEN,Irrigation,1
+2023,BLZ,Irrigation,1
+2023,COG,Irrigation,1
+2023,CIV,Irrigation,1
+2023,CPV,Irrigation,1
+2023,DOM,Irrigation,1
+2023,HND,Irrigation,1
+2023,HTI,Irrigation,1
+2023,KEN,Irrigation,1
+2023,KGZ,Irrigation,1
+2023,COM,Irrigation,1
+2023,LKA,Irrigation,1
+2023,LBR,Irrigation,1
+2023,MLI,Irrigation,1
+2023,MMR,Irrigation,1
+2023,MNG,Irrigation,1
+2023,MRT,Irrigation,1
+2023,MOZ,Irrigation,1
+2023,NER,Irrigation,1
+2023,NIC,Irrigation,1
+2023,PAK,Irrigation,1
+2023,PSE,Irrigation,1
+2023,QAT,Irrigation,1
+2023,SYC,Irrigation,1
+2023,SLE,Irrigation,1
+2023,SEN,Irrigation,1
+2023,SOM,Irrigation,1
+2023,SSD,Irrigation,1
+2023,VNM,Irrigation,1
+2023,ALB,Land and soil management,1
+2023,AGO,Land and soil management,1
+2023,ARG,Land and soil management,1
+2023,AZE,Land and soil management,1
+2023,BFA,Land and soil management,1
+2023,BDI,Land and soil management,1
+2023,BOL,Land and soil management,1
+2023,BTN,Land and soil management,1
+2023,BLZ,Land and soil management,1
+2023,COD,Land and soil management,1
+2023,CAF,Land and soil management,1
+2023,CIV,Land and soil management,1
+2023,CMR,Land and soil management,1
+2023,CHN,Land and soil management,1
+2023,CRI,Land and soil management,1
+2023,CUB,Land and soil management,1
+2023,CPV,Land and soil management,1
+2023,DJI,Land and soil management,1
+2023,DOM,Land and soil management,1
+2023,ECU,Land and soil management,1
+2023,EGY,Land and soil management,1
+2023,ERI,Land and soil management,1
+2023,ETH,Land and soil management,1
+2023,GEO,Land and soil management,1
+2023,GMB,Land and soil management,1
+2023,GIN,Land and soil management,1
+2023,GTM,Land and soil management,1
+2023,HND,Land and soil management,1
+2023,HTI,Land and soil management,1
+2023,IND,Land and soil management,1
+2023,IRQ,Land and soil management,1
+2023,JOR,Land and soil management,1
+2023,KEN,Land and soil management,1
+2023,KGZ,Land and soil management,1
+2023,KHM,Land and soil management,1
+2023,PRK,Land and soil management,1
+2023,LKA,Land and soil management,1
+2023,LSO,Land and soil management,1
+2023,MAR,Land and soil management,1
+2023,MDA,Land and soil management,1
+2023,MMR,Land and soil management,1
+2023,MNG,Land and soil management,1
+2023,MRT,Land and soil management,1
+2023,MWI,Land and soil management,1
+2023,MEX,Land and soil management,1
+2023,MOZ,Land and soil management,1
+2023,NAM,Land and soil management,1
+2023,NER,Land and soil management,1
+2023,NGA,Land and soil management,1
+2023,OMN,Land and soil management,1
+2023,PAK,Land and soil management,1
+2023,PSE,Land and soil management,1
+2023,RWA,Land and soil management,1
+2023,SDN,Land and soil management,1
+2023,SLE,Land and soil management,1
+2023,SEN,Land and soil management,1
+2023,SOM,Land and soil management,1
+2023,SUR,Land and soil management,1
+2023,SSD,Land and soil management,1
+2023,STP,Land and soil management,1
+2023,SLV,Land and soil management,1
+2023,SWZ,Land and soil management,1
+2023,TCD,Land and soil management,1
+2023,TGO,Land and soil management,1
+2023,THA,Land and soil management,1
+2023,TJK,Land and soil management,1
+2023,TLS,Land and soil management,1
+2023,TUN,Land and soil management,1
+2023,TZA,Land and soil management,1
+2023,UGA,Land and soil management,1
+2023,URY,Land and soil management,1
+2023,UZB,Land and soil management,1
+2023,VEN,Land and soil management,1
+2023,AND,Livestock,1
+2023,AFG,Livestock,1
+2023,ALB,Livestock,1
+2023,ARM,Livestock,1
+2023,AGO,Livestock,1
+2023,AZE,Livestock,1
+2023,BGD,Livestock,1
+2023,BFA,Livestock,1
+2023,BDI,Livestock,1
+2023,BOL,Livestock,1
+2023,BTN,Livestock,1
+2023,BWA,Livestock,1
+2023,BLZ,Livestock,1
+2023,COD,Livestock,1
+2023,CAF,Livestock,1
+2023,CIV,Livestock,1
+2023,CHL,Livestock,1
+2023,CMR,Livestock,1
+2023,CHN,Livestock,1
+2023,COL,Livestock,1
+2023,CRI,Livestock,1
+2023,CUB,Livestock,1
+2023,CPV,Livestock,1
+2023,DJI,Livestock,1
+2023,DOM,Livestock,1
+2023,ECU,Livestock,1
+2023,EGY,Livestock,1
+2023,ERI,Livestock,1
+2023,ETH,Livestock,1
+2023,FJI,Livestock,1
+2023,GAB,Livestock,1
+2023,GHA,Livestock,1
+2023,GMB,Livestock,1
+2023,GIN,Livestock,1
+2023,GTM,Livestock,1
+2023,GNB,Livestock,1
+2023,HND,Livestock,1
+2023,HTI,Livestock,1
+2023,IDN,Livestock,1
+2023,IND,Livestock,1
+2023,IRQ,Livestock,1
+2023,JOR,Livestock,1
+2023,KEN,Livestock,1
+2023,KGZ,Livestock,1
+2023,KHM,Livestock,1
+2023,COM,Livestock,1
+2023,KNA,Livestock,1
+2023,KOR,Livestock,1
+2023,LKA,Livestock,1
+2023,LBR,Livestock,1
+2023,LSO,Livestock,1
+2023,MAR,Livestock,1
+2023,MDA,Livestock,1
+2023,MLI,Livestock,1
+2023,MMR,Livestock,1
+2023,MNG,Livestock,1
+2023,MRT,Livestock,1
+2023,MUS,Livestock,1
+2023,MWI,Livestock,1
+2023,MEX,Livestock,1
+2023,NAM,Livestock,1
+2023,NER,Livestock,1
+2023,NGA,Livestock,1
+2023,NIC,Livestock,1
+2023,NPL,Livestock,1
+2023,PAN,Livestock,1
+2023,PER,Livestock,1
+2023,PAK,Livestock,1
+2023,PSE,Livestock,1
+2023,PRY,Livestock,1
+2023,RWA,Livestock,1
+2023,SDN,Livestock,1
+2023,SLE,Livestock,1
+2023,SEN,Livestock,1
+2023,SOM,Livestock,1
+2023,SSD,Livestock,1
+2023,STP,Livestock,1
+2023,SLV,Livestock,1
+2023,SWZ,Livestock,1
+2023,TCD,Livestock,1
+2023,TGO,Livestock,1
+2023,TJK,Livestock,1
+2023,TLS,Livestock,1
+2023,TUR,Livestock,1
+2023,TZA,Livestock,1
+2023,UGA,Livestock,1
+2023,USA,Livestock,1
+2023,URY,Livestock,1
+2023,UZB,Livestock,1
+2023,VEN,Livestock,1
+2023,VNM,Livestock,1
+2023,VUT,Livestock,1
+2023,WSM,Livestock,1
+2023,YEM,Livestock,1
+2023,ZMB,Livestock,1
+2023,ZWE,Livestock,1
+2023,AND,Reducing food loss and waste,1
+2023,ARE,Reducing food loss and waste,1
+2023,BGD,Reducing food loss and waste,1
+2023,BTN,Reducing food loss and waste,1
+2023,CHN,Reducing food loss and waste,1
+2023,ETH,Reducing food loss and waste,1
+2023,GMB,Reducing food loss and waste,1
+2023,GNQ,Reducing food loss and waste,1
+2023,GNB,Reducing food loss and waste,1
+2023,JOR,Reducing food loss and waste,1
+2023,LSO,Reducing food loss and waste,1
+2023,SLE,Reducing food loss and waste,1
+2023,TGO,Reducing food loss and waste,1
+2023,TUR,Reducing food loss and waste,1
+2023,URY,Reducing food loss and waste,1
+2023,AFG,Rice cultivation,1
+2023,BGD,Rice cultivation,1
+2023,BEN,Rice cultivation,1
+2023,BTN,Rice cultivation,1
+2023,COG,Rice cultivation,1
+2023,CIV,Rice cultivation,1
+2023,CMR,Rice cultivation,1
+2023,COL,Rice cultivation,1
+2023,DOM,Rice cultivation,1
+2023,GMB,Rice cultivation,1
+2023,GNB,Rice cultivation,1
+2023,IRQ,Rice cultivation,1
+2023,KOR,Rice cultivation,1
+2023,LAO,Rice cultivation,1
+2023,LKA,Rice cultivation,1
+2023,LBR,Rice cultivation,1
+2023,MDG,Rice cultivation,1
+2023,MLI,Rice cultivation,1
+2023,MWI,Rice cultivation,1
+2023,NGA,Rice cultivation,1
+2023,PAK,Rice cultivation,1
+2023,PRY,Rice cultivation,1
+2023,RWA,Rice cultivation,1
+2023,SEN,Rice cultivation,1
+2023,TUR,Rice cultivation,1
+2023,UGA,Rice cultivation,1
+2023,VNM,Rice cultivation,1
+2023,ATG,Soil carbon sequestration,1
+2023,ALB,Soil carbon sequestration,1
+2023,AUS,Soil carbon sequestration,1
+2023,BDI,Soil carbon sequestration,1
+2023,CMR,Soil carbon sequestration,1
+2023,CHN,Soil carbon sequestration,1
+2023,CRI,Soil carbon sequestration,1
+2023,DMA,Soil carbon sequestration,1
+2023,GNQ,Soil carbon sequestration,1
+2023,GTM,Soil carbon sequestration,1
+2023,HTI,Soil carbon sequestration,1
+2023,KIR,Soil carbon sequestration,1
+2023,LBR,Soil carbon sequestration,1
+2023,MRT,Soil carbon sequestration,1
+2023,MWI,Soil carbon sequestration,1
+2023,NAM,Soil carbon sequestration,1
+2023,NER,Soil carbon sequestration,1
+2023,RWA,Soil carbon sequestration,1
+2023,TJK,Soil carbon sequestration,1
+2023,TUR,Soil carbon sequestration,1
+2023,UGA,Soil carbon sequestration,1
+2023,URY,Soil carbon sequestration,1
+2023,ALB,Soil fertilization emissions,1
+2023,BGD,Soil fertilization emissions,1
+2023,BEN,Soil fertilization emissions,1
+2023,CAN,Soil fertilization emissions,1
+2023,CIV,Soil fertilization emissions,1
+2023,CMR,Soil fertilization emissions,1
+2023,CHN,Soil fertilization emissions,1
+2023,COL,Soil fertilization emissions,1
+2023,DMA,Soil fertilization emissions,1
+2023,GMB,Soil fertilization emissions,1
+2023,IND,Soil fertilization emissions,1
+2023,IRQ,Soil fertilization emissions,1
+2023,KGZ,Soil fertilization emissions,1
+2023,KOR,Soil fertilization emissions,1
+2023,LBR,Soil fertilization emissions,1
+2023,MLI,Soil fertilization emissions,1
+2023,MWI,Soil fertilization emissions,1
+2023,NPL,Soil fertilization emissions,1
+2023,PAK,Soil fertilization emissions,1
+2023,PSE,Soil fertilization emissions,1
+2023,RWA,Soil fertilization emissions,1
+2023,TUR,Soil fertilization emissions,1
+2023,USA,Soil fertilization emissions,1
+2023,URY,Soil fertilization emissions,1
+2023,UZB,Soil fertilization emissions,1
+2023,VEN,Soil fertilization emissions,1
+2023,VNM,Soil fertilization emissions,1
+2023,WSM,Soil fertilization emissions,1
+2023,BHR,Total,0
+2023,GRD,Total,0
+2023,IRN,Total,0
+2023,MHL,Total,0
+2023,SAU,Total,0
+2023,TKM,Total,0
+2023,MCO,Total,0
+2023,BIH,Total,0
+2023,CHE,Total,0
+2023,ISR,Total,0
+2023,ISL,Total,0
+2023,MNE,Total,0
+2023,PLW,Total,0
+2023,SRB,Total,0
+2023,RUS,Total,0
+2023,TTO,Total,0
+2023,TUV,Total,0
+2023,UKR,Total,0
+2023,VAT,Total,0
+2023,ATG,Agricultural productivity,0
+2023,AGO,Agricultural productivity,0
+2023,AZE,Agricultural productivity,0
+2023,BRB,Agricultural productivity,0
+2023,BGD,Agricultural productivity,0
+2023,BFA,Agricultural productivity,0
+2023,BHR,Agricultural productivity,0
+2023,BDI,Agricultural productivity,0
+2023,BRN,Agricultural productivity,0
+2023,BRA,Agricultural productivity,0
+2023,BWA,Agricultural productivity,0
+2023,BLR,Agricultural productivity,0
+2023,BLZ,Agricultural productivity,0
+2023,CAF,Agricultural productivity,0
+2023,COG,Agricultural productivity,0
+2023,CHL,Agricultural productivity,0
+2023,CHN,Agricultural productivity,0
+2023,COL,Agricultural productivity,0
+2023,CRI,Agricultural productivity,0
+2023,CUB,Agricultural productivity,0
+2023,CPV,Agricultural productivity,0
+2023,DJI,Agricultural productivity,0
+2023,DOM,Agricultural productivity,0
+2023,DZA,Agricultural productivity,0
+2023,ECU,Agricultural productivity,0
+2023,EGY,Agricultural productivity,0
+2023,ERI,Agricultural productivity,0
+2023,GAB,Agricultural productivity,0
+2023,GRD,Agricultural productivity,0
+2023,GEO,Agricultural productivity,0
+2023,GHA,Agricultural productivity,0
+2023,GMB,Agricultural productivity,0
+2023,GIN,Agricultural productivity,0
+2023,GTM,Agricultural productivity,0
+2023,GUY,Agricultural productivity,0
+2023,HND,Agricultural productivity,0
+2023,IND,Agricultural productivity,0
+2023,IRQ,Agricultural productivity,0
+2023,IRN,Agricultural productivity,0
+2023,JOR,Agricultural productivity,0
+2023,KHM,Agricultural productivity,0
+2023,KIR,Agricultural productivity,0
+2023,COM,Agricultural productivity,0
+2023,KNA,Agricultural productivity,0
+2023,PRK,Agricultural productivity,0
+2023,KOR,Agricultural productivity,0
+2023,KWT,Agricultural productivity,0
+2023,LAO,Agricultural productivity,0
+2023,LBN,Agricultural productivity,0
+2023,LCA,Agricultural productivity,0
+2023,MAR,Agricultural productivity,0
+2023,MDA,Agricultural productivity,0
+2023,MDG,Agricultural productivity,0
+2023,MHL,Agricultural productivity,0
+2023,MMR,Agricultural productivity,0
+2023,MNG,Agricultural productivity,0
+2023,MRT,Agricultural productivity,0
+2023,MEX,Agricultural productivity,0
+2023,MYS,Agricultural productivity,0
+2023,MOZ,Agricultural productivity,0
+2023,NER,Agricultural productivity,0
+2023,NGA,Agricultural productivity,0
+2023,NRU,Agricultural productivity,0
+2023,NU,Agricultural productivity,0
+2023,OMN,Agricultural productivity,0
+2023,PER,Agricultural productivity,0
+2023,PHL,Agricultural productivity,0
+2023,QAT,Agricultural productivity,0
+2023,SAU,Agricultural productivity,0
+2023,SLB,Agricultural productivity,0
+2023,SYC,Agricultural productivity,0
+2023,SDN,Agricultural productivity,0
+2023,SGP,Agricultural productivity,0
+2023,SLE,Agricultural productivity,0
+2023,SUR,Agricultural productivity,0
+2023,SSD,Agricultural productivity,0
+2023,STP,Agricultural productivity,0
+2023,SLV,Agricultural productivity,0
+2023,SWZ,Agricultural productivity,0
+2023,TCD,Agricultural productivity,0
+2023,THA,Agricultural productivity,0
+2023,TJK,Agricultural productivity,0
+2023,TLS,Agricultural productivity,0
+2023,TKM,Agricultural productivity,0
+2023,TUN,Agricultural productivity,0
+2023,TON,Agricultural productivity,0
+2023,TZA,Agricultural productivity,0
+2023,VCT,Agricultural productivity,0
+2023,VUT,Agricultural productivity,0
+2023,YEM,Agricultural productivity,0
+2023,ZAF,Agricultural productivity,0
+2023,BHS,Agricultural productivity,0
+2023,CAN,Agricultural productivity,0
+2023,COK,Agricultural productivity,0
+2023,MCO,Agricultural productivity,0
+2023,MKD,Agricultural productivity,0
+2023,NIC,Agricultural productivity,0
+2023,PAN,Agricultural productivity,0
+2023,VEN,Agricultural productivity,0
+2023,WSM,Agricultural productivity,0
+2023,ARM,Agricultural productivity,0
+2023,AUS,Agricultural productivity,0
+2023,BIH,Agricultural productivity,0
+2023,CHE,Agricultural productivity,0
+2023,FSM,Agricultural productivity,0
+2023,ISR,Agricultural productivity,0
+2023,ISL,Agricultural productivity,0
+2023,JPN,Agricultural productivity,0
+2023,KAZ,Agricultural productivity,0
+2023,MNE,Agricultural productivity,0
+2023,NO,Agricultural productivity,0
+2023,NZL,Agricultural productivity,0
+2023,PLW,Agricultural productivity,0
+2023,SRB,Agricultural productivity,0
+2023,RUS,Agricultural productivity,0
+2023,SMR,Agricultural productivity,0
+2023,SYR,Agricultural productivity,0
+2023,TTO,Agricultural productivity,0
+2023,TUV,Agricultural productivity,0
+2023,UKR,Agricultural productivity,0
+2023,VAT,Agricultural productivity,0
+2023,ARE,Agricultural waste,0
+2023,ATG,Agricultural waste,0
+2023,AGO,Agricultural waste,0
+2023,ARG,Agricultural waste,0
+2023,BRB,Agricultural waste,0
+2023,BGD,Agricultural waste,0
+2023,BFA,Agricultural waste,0
+2023,BHR,Agricultural waste,0
+2023,BDI,Agricultural waste,0
+2023,BEN,Agricultural waste,0
+2023,BRN,Agricultural waste,0
+2023,BOL,Agricultural waste,0
+2023,BRA,Agricultural waste,0
+2023,BTN,Agricultural waste,0
+2023,BWA,Agricultural waste,0
+2023,BLR,Agricultural waste,0
+2023,BLZ,Agricultural waste,0
+2023,CAF,Agricultural waste,0
+2023,CHL,Agricultural waste,0
+2023,CMR,Agricultural waste,0
+2023,CHN,Agricultural waste,0
+2023,CRI,Agricultural waste,0
+2023,CUB,Agricultural waste,0
+2023,CPV,Agricultural waste,0
+2023,DJI,Agricultural waste,0
+2023,DMA,Agricultural waste,0
+2023,DOM,Agricultural waste,0
+2023,DZA,Agricultural waste,0
+2023,ECU,Agricultural waste,0
+2023,EGY,Agricultural waste,0
+2023,ERI,Agricultural waste,0
+2023,ETH,Agricultural waste,0
+2023,FJI,Agricultural waste,0
+2023,GAB,Agricultural waste,0
+2023,GRD,Agricultural waste,0
+2023,GEO,Agricultural waste,0
+2023,GHA,Agricultural waste,0
+2023,GNQ,Agricultural waste,0
+2023,HND,Agricultural waste,0
+2023,IND,Agricultural waste,0
+2023,IRQ,Agricultural waste,0
+2023,IRN,Agricultural waste,0
+2023,JAM,Agricultural waste,0
+2023,JOR,Agricultural waste,0
+2023,KEN,Agricultural waste,0
+2023,KIR,Agricultural waste,0
+2023,COM,Agricultural waste,0
+2023,KNA,Agricultural waste,0
+2023,PRK,Agricultural waste,0
+2023,KOR,Agricultural waste,0
+2023,KWT,Agricultural waste,0
+2023,LAO,Agricultural waste,0
+2023,LBN,Agricultural waste,0
+2023,LCA,Agricultural waste,0
+2023,MAR,Agricultural waste,0
+2023,MDA,Agricultural waste,0
+2023,MDG,Agricultural waste,0
+2023,MHL,Agricultural waste,0
+2023,MMR,Agricultural waste,0
+2023,MRT,Agricultural waste,0
+2023,MUS,Agricultural waste,0
+2023,MDV,Agricultural waste,0
+2023,MEX,Agricultural waste,0
+2023,MYS,Agricultural waste,0
+2023,MOZ,Agricultural waste,0
+2023,NER,Agricultural waste,0
+2023,NGA,Agricultural waste,0
+2023,NRU,Agricultural waste,0
+2023,NU,Agricultural waste,0
+2023,OMN,Agricultural waste,0
+2023,PER,Agricultural waste,0
+2023,PNG,Agricultural waste,0
+2023,PHL,Agricultural waste,0
+2023,QAT,Agricultural waste,0
+2023,SAU,Agricultural waste,0
+2023,SLB,Agricultural waste,0
+2023,SYC,Agricultural waste,0
+2023,SDN,Agricultural waste,0
+2023,SGP,Agricultural waste,0
+2023,SLE,Agricultural waste,0
+2023,SOM,Agricultural waste,0
+2023,SUR,Agricultural waste,0
+2023,STP,Agricultural waste,0
+2023,SWZ,Agricultural waste,0
+2023,TCD,Agricultural waste,0
+2023,TGO,Agricultural waste,0
+2023,TLS,Agricultural waste,0
+2023,TKM,Agricultural waste,0
+2023,TUN,Agricultural waste,0
+2023,TON,Agricultural waste,0
+2023,TZA,Agricultural waste,0
+2023,UZB,Agricultural waste,0
+2023,VCT,Agricultural waste,0
+2023,VUT,Agricultural waste,0
+2023,YEM,Agricultural waste,0
+2023,ZAF,Agricultural waste,0
+2023,ZMB,Agricultural waste,0
+2023,ZWE,Agricultural waste,0
+2023,ALB,Agricultural waste,0
+2023,BHS,Agricultural waste,0
+2023,CAN,Agricultural waste,0
+2023,COK,Agricultural waste,0
+2023,KGZ,Agricultural waste,0
+2023,LKA,Agricultural waste,0
+2023,MCO,Agricultural waste,0
+2023,MKD,Agricultural waste,0
+2023,NIC,Agricultural waste,0
+2023,PAN,Agricultural waste,0
+2023,PRY,Agricultural waste,0
+2023,VEN,Agricultural waste,0
+2023,WSM,Agricultural waste,0
+2023,AND,Agricultural waste,0
+2023,ARM,Agricultural waste,0
+2023,AUS,Agricultural waste,0
+2023,BIH,Agricultural waste,0
+2023,CHE,Agricultural waste,0
+2023,GBR,Agricultural waste,0
+2023,ISR,Agricultural waste,0
+2023,ISL,Agricultural waste,0
+2023,JPN,Agricultural waste,0
+2023,KAZ,Agricultural waste,0
+2023,MNE,Agricultural waste,0
+2023,NO,Agricultural waste,0
+2023,NZL,Agricultural waste,0
+2023,PLW,Agricultural waste,0
+2023,SRB,Agricultural waste,0
+2023,RUS,Agricultural waste,0
+2023,SMR,Agricultural waste,0
+2023,TTO,Agricultural waste,0
+2023,TUV,Agricultural waste,0
+2023,UKR,Agricultural waste,0
+2023,USA,Agricultural waste,0
+2023,VAT,Agricultural waste,0
+2023,BRB,Agriculture: General,0
+2023,BHR,Agriculture: General,0
+2023,BRN,Agriculture: General,0
+2023,BWA,Agriculture: General,0
+2023,CHL,Agriculture: General,0
+2023,CUB,Agriculture: General,0
+2023,DJI,Agriculture: General,0
+2023,DZA,Agriculture: General,0
+2023,GRD,Agriculture: General,0
+2023,IRN,Agriculture: General,0
+2023,KIR,Agriculture: General,0
+2023,KWT,Agriculture: General,0
+2023,MHL,Agriculture: General,0
+2023,OMN,Agriculture: General,0
+2023,PHL,Agriculture: General,0
+2023,QAT,Agriculture: General,0
+2023,SAU,Agriculture: General,0
+2023,SGP,Agriculture: General,0
+2023,STP,Agriculture: General,0
+2023,TKM,Agriculture: General,0
+2023,TUN,Agriculture: General,0
+2023,TON,Agriculture: General,0
+2023,YEM,Agriculture: General,0
+2023,ZAF,Agriculture: General,0
+2023,MCO,Agriculture: General,0
+2023,WSM,Agriculture: General,0
+2023,AUS,Agriculture: General,0
+2023,BIH,Agriculture: General,0
+2023,CHE,Agriculture: General,0
+2023,ISR,Agriculture: General,0
+2023,ISL,Agriculture: General,0
+2023,MNE,Agriculture: General,0
+2023,PLW,Agriculture: General,0
+2023,SRB,Agriculture: General,0
+2023,RUS,Agriculture: General,0
+2023,TTO,Agriculture: General,0
+2023,TUV,Agriculture: General,0
+2023,UKR,Agriculture: General,0
+2023,USA,Agriculture: General,0
+2023,VAT,Agriculture: General,0
+2023,ARE,Agroecology,0
+2023,AFG,Agroecology,0
+2023,ATG,Agroecology,0
+2023,AGO,Agroecology,0
+2023,AZE,Agroecology,0
+2023,BRB,Agroecology,0
+2023,BGD,Agroecology,0
+2023,BFA,Agroecology,0
+2023,BHR,Agroecology,0
+2023,BDI,Agroecology,0
+2023,BEN,Agroecology,0
+2023,BRN,Agroecology,0
+2023,BOL,Agroecology,0
+2023,BRA,Agroecology,0
+2023,BTN,Agroecology,0
+2023,BWA,Agroecology,0
+2023,BLR,Agroecology,0
+2023,BLZ,Agroecology,0
+2023,COD,Agroecology,0
+2023,CHL,Agroecology,0
+2023,CHN,Agroecology,0
+2023,COL,Agroecology,0
+2023,CRI,Agroecology,0
+2023,CUB,Agroecology,0
+2023,CPV,Agroecology,0
+2023,DJI,Agroecology,0
+2023,DMA,Agroecology,0
+2023,DOM,Agroecology,0
+2023,DZA,Agroecology,0
+2023,ECU,Agroecology,0
+2023,EGY,Agroecology,0
+2023,ERI,Agroecology,0
+2023,ETH,Agroecology,0
+2023,FJI,Agroecology,0
+2023,GAB,Agroecology,0
+2023,GRD,Agroecology,0
+2023,GEO,Agroecology,0
+2023,GHA,Agroecology,0
+2023,GMB,Agroecology,0
+2023,GNQ,Agroecology,0
+2023,GTM,Agroecology,0
+2023,GUY,Agroecology,0
+2023,HTI,Agroecology,0
+2023,IDN,Agroecology,0
+2023,IND,Agroecology,0
+2023,IRQ,Agroecology,0
+2023,IRN,Agroecology,0
+2023,JAM,Agroecology,0
+2023,JOR,Agroecology,0
+2023,KEN,Agroecology,0
+2023,KIR,Agroecology,0
+2023,COM,Agroecology,0
+2023,KNA,Agroecology,0
+2023,PRK,Agroecology,0
+2023,KOR,Agroecology,0
+2023,KWT,Agroecology,0
+2023,LAO,Agroecology,0
+2023,LBN,Agroecology,0
+2023,LCA,Agroecology,0
+2023,LBR,Agroecology,0
+2023,LSO,Agroecology,0
+2023,MAR,Agroecology,0
+2023,MDA,Agroecology,0
+2023,MDG,Agroecology,0
+2023,MHL,Agroecology,0
+2023,MLI,Agroecology,0
+2023,MMR,Agroecology,0
+2023,MNG,Agroecology,0
+2023,MRT,Agroecology,0
+2023,MUS,Agroecology,0
+2023,MDV,Agroecology,0
+2023,MWI,Agroecology,0
+2023,MYS,Agroecology,0
+2023,MOZ,Agroecology,0
+2023,NAM,Agroecology,0
+2023,NER,Agroecology,0
+2023,NGA,Agroecology,0
+2023,NPL,Agroecology,0
+2023,NRU,Agroecology,0
+2023,NU,Agroecology,0
+2023,OMN,Agroecology,0
+2023,PER,Agroecology,0
+2023,PNG,Agroecology,0
+2023,PHL,Agroecology,0
+2023,QAT,Agroecology,0
+2023,SAU,Agroecology,0
+2023,SLB,Agroecology,0
+2023,SYC,Agroecology,0
+2023,SDN,Agroecology,0
+2023,SGP,Agroecology,0
+2023,SLE,Agroecology,0
+2023,SEN,Agroecology,0
+2023,SOM,Agroecology,0
+2023,SUR,Agroecology,0
+2023,SSD,Agroecology,0
+2023,STP,Agroecology,0
+2023,SWZ,Agroecology,0
+2023,TCD,Agroecology,0
+2023,THA,Agroecology,0
+2023,TJK,Agroecology,0
+2023,TLS,Agroecology,0
+2023,TKM,Agroecology,0
+2023,TUN,Agroecology,0
+2023,TON,Agroecology,0
+2023,TZA,Agroecology,0
+2023,UGA,Agroecology,0
+2023,UZB,Agroecology,0
+2023,VCT,Agroecology,0
+2023,VNM,Agroecology,0
+2023,VUT,Agroecology,0
+2023,YEM,Agroecology,0
+2023,ZAF,Agroecology,0
+2023,ZMB,Agroecology,0
+2023,ALB,Agroecology,0
+2023,BHS,Agroecology,0
+2023,CAN,Agroecology,0
+2023,COK,Agroecology,0
+2023,KGZ,Agroecology,0
+2023,MCO,Agroecology,0
+2023,MKD,Agroecology,0
+2023,NIC,Agroecology,0
+2023,PAN,Agroecology,0
+2023,PAK,Agroecology,0
+2023,PSE,Agroecology,0
+2023,PRY,Agroecology,0
+2023,URY,Agroecology,0
+2023,WSM,Agroecology,0
+2023,AND,Agroecology,0
+2023,ARM,Agroecology,0
+2023,AUS,Agroecology,0
+2023,BIH,Agroecology,0
+2023,CHE,Agroecology,0
+2023,FSM,Agroecology,0
+2023,GBR,Agroecology,0
+2023,ISR,Agroecology,0
+2023,ISL,Agroecology,0
+2023,JPN,Agroecology,0
+2023,KAZ,Agroecology,0
+2023,MNE,Agroecology,0
+2023,NO,Agroecology,0
+2023,NZL,Agroecology,0
+2023,PLW,Agroecology,0
+2023,SRB,Agroecology,0
+2023,RUS,Agroecology,0
+2023,SMR,Agroecology,0
+2023,SYR,Agroecology,0
+2023,TUR,Agroecology,0
+2023,TTO,Agroecology,0
+2023,TUV,Agroecology,0
+2023,UKR,Agroecology,0
+2023,USA,Agroecology,0
+2023,VAT,Agroecology,0
+2023,ARE,Agroforestry,0
+2023,AFG,Agroforestry,0
+2023,ATG,Agroforestry,0
+2023,AGO,Agroforestry,0
+2023,ARG,Agroforestry,0
+2023,AZE,Agroforestry,0
+2023,BRB,Agroforestry,0
+2023,BGD,Agroforestry,0
+2023,BHR,Agroforestry,0
+2023,BRN,Agroforestry,0
+2023,BRA,Agroforestry,0
+2023,BWA,Agroforestry,0
+2023,BLR,Agroforestry,0
+2023,COG,Agroforestry,0
+2023,CHL,Agroforestry,0
+2023,CMR,Agroforestry,0
+2023,CHN,Agroforestry,0
+2023,CUB,Agroforestry,0
+2023,DZA,Agroforestry,0
+2023,ECU,Agroforestry,0
+2023,EGY,Agroforestry,0
+2023,FJI,Agroforestry,0
+2023,GRD,Agroforestry,0
+2023,GEO,Agroforestry,0
+2023,GHA,Agroforestry,0
+2023,GIN,Agroforestry,0
+2023,GUY,Agroforestry,0
+2023,IDN,Agroforestry,0
+2023,IRQ,Agroforestry,0
+2023,IRN,Agroforestry,0
+2023,KHM,Agroforestry,0
+2023,KIR,Agroforestry,0
+2023,KNA,Agroforestry,0
+2023,PRK,Agroforestry,0
+2023,KOR,Agroforestry,0
+2023,KWT,Agroforestry,0
+2023,LBN,Agroforestry,0
+2023,LCA,Agroforestry,0
+2023,MAR,Agroforestry,0
+2023,MDA,Agroforestry,0
+2023,MHL,Agroforestry,0
+2023,MNG,Agroforestry,0
+2023,MRT,Agroforestry,0
+2023,MDV,Agroforestry,0
+2023,MEX,Agroforestry,0
+2023,MYS,Agroforestry,0
+2023,NGA,Agroforestry,0
+2023,NRU,Agroforestry,0
+2023,NU,Agroforestry,0
+2023,OMN,Agroforestry,0
+2023,PER,Agroforestry,0
+2023,PNG,Agroforestry,0
+2023,PHL,Agroforestry,0
+2023,QAT,Agroforestry,0
+2023,SAU,Agroforestry,0
+2023,SLB,Agroforestry,0
+2023,SGP,Agroforestry,0
+2023,SLE,Agroforestry,0
+2023,SEN,Agroforestry,0
+2023,SUR,Agroforestry,0
+2023,TGO,Agroforestry,0
+2023,THA,Agroforestry,0
+2023,TKM,Agroforestry,0
+2023,TUN,Agroforestry,0
+2023,TZA,Agroforestry,0
+2023,UZB,Agroforestry,0
+2023,VCT,Agroforestry,0
+2023,YEM,Agroforestry,0
+2023,ZAF,Agroforestry,0
+2023,CAN,Agroforestry,0
+2023,COK,Agroforestry,0
+2023,LKA,Agroforestry,0
+2023,MCO,Agroforestry,0
+2023,MKD,Agroforestry,0
+2023,PSE,Agroforestry,0
+2023,ARM,Agroforestry,0
+2023,AUS,Agroforestry,0
+2023,BIH,Agroforestry,0
+2023,CHE,Agroforestry,0
+2023,FSM,Agroforestry,0
+2023,GBR,Agroforestry,0
+2023,ISR,Agroforestry,0
+2023,ISL,Agroforestry,0
+2023,JPN,Agroforestry,0
+2023,KAZ,Agroforestry,0
+2023,MNE,Agroforestry,0
+2023,NO,Agroforestry,0
+2023,NZL,Agroforestry,0
+2023,PLW,Agroforestry,0
+2023,SRB,Agroforestry,0
+2023,RUS,Agroforestry,0
+2023,SMR,Agroforestry,0
+2023,SYR,Agroforestry,0
+2023,TTO,Agroforestry,0
+2023,TUV,Agroforestry,0
+2023,UKR,Agroforestry,0
+2023,USA,Agroforestry,0
+2023,VAT,Agroforestry,0
+2023,ARE,Climate smart agriculture,0
+2023,AFG,Climate smart agriculture,0
+2023,ATG,Climate smart agriculture,0
+2023,AZE,Climate smart agriculture,0
+2023,BGD,Climate smart agriculture,0
+2023,BFA,Climate smart agriculture,0
+2023,BHR,Climate smart agriculture,0
+2023,BRN,Climate smart agriculture,0
+2023,BRA,Climate smart agriculture,0
+2023,BTN,Climate smart agriculture,0
+2023,BLR,Climate smart agriculture,0
+2023,CUB,Climate smart agriculture,0
+2023,DMA,Climate smart agriculture,0
+2023,DOM,Climate smart agriculture,0
+2023,GAB,Climate smart agriculture,0
+2023,GRD,Climate smart agriculture,0
+2023,GEO,Climate smart agriculture,0
+2023,GMB,Climate smart agriculture,0
+2023,GTM,Climate smart agriculture,0
+2023,IRN,Climate smart agriculture,0
+2023,JAM,Climate smart agriculture,0
+2023,KIR,Climate smart agriculture,0
+2023,KNA,Climate smart agriculture,0
+2023,KOR,Climate smart agriculture,0
+2023,LCA,Climate smart agriculture,0
+2023,MHL,Climate smart agriculture,0
+2023,NPL,Climate smart agriculture,0
+2023,NRU,Climate smart agriculture,0
+2023,NU,Climate smart agriculture,0
+2023,OMN,Climate smart agriculture,0
+2023,PER,Climate smart agriculture,0
+2023,PNG,Climate smart agriculture,0
+2023,QAT,Climate smart agriculture,0
+2023,RWA,Climate smart agriculture,0
+2023,SAU,Climate smart agriculture,0
+2023,SLB,Climate smart agriculture,0
+2023,SDN,Climate smart agriculture,0
+2023,SGP,Climate smart agriculture,0
+2023,TKM,Climate smart agriculture,0
+2023,VCT,Climate smart agriculture,0
+2023,BHS,Climate smart agriculture,0
+2023,COK,Climate smart agriculture,0
+2023,MCO,Climate smart agriculture,0
+2023,MKD,Climate smart agriculture,0
+2023,NIC,Climate smart agriculture,0
+2023,WSM,Climate smart agriculture,0
+2023,AND,Climate smart agriculture,0
+2023,ARM,Climate smart agriculture,0
+2023,AUS,Climate smart agriculture,0
+2023,BIH,Climate smart agriculture,0
+2023,CHE,Climate smart agriculture,0
+2023,FSM,Climate smart agriculture,0
+2023,GBR,Climate smart agriculture,0
+2023,ISR,Climate smart agriculture,0
+2023,ISL,Climate smart agriculture,0
+2023,JPN,Climate smart agriculture,0
+2023,KAZ,Climate smart agriculture,0
+2023,MNE,Climate smart agriculture,0
+2023,NO,Climate smart agriculture,0
+2023,NZL,Climate smart agriculture,0
+2023,PLW,Climate smart agriculture,0
+2023,SRB,Climate smart agriculture,0
+2023,RUS,Climate smart agriculture,0
+2023,SMR,Climate smart agriculture,0
+2023,SYR,Climate smart agriculture,0
+2023,TUR,Climate smart agriculture,0
+2023,TTO,Climate smart agriculture,0
+2023,TUV,Climate smart agriculture,0
+2023,UKR,Climate smart agriculture,0
+2023,USA,Climate smart agriculture,0
+2023,VAT,Climate smart agriculture,0
+2023,ARE,Crops,0
+2023,AFG,Crops,0
+2023,ATG,Crops,0
+2023,AZE,Crops,0
+2023,BRB,Crops,0
+2023,BFA,Crops,0
+2023,BHR,Crops,0
+2023,BEN,Crops,0
+2023,BRA,Crops,0
+2023,BWA,Crops,0
+2023,BLR,Crops,0
+2023,COD,Crops,0
+2023,COG,Crops,0
+2023,CHL,Crops,0
+2023,DJI,Crops,0
+2023,DMA,Crops,0
+2023,DZA,Crops,0
+2023,FJI,Crops,0
+2023,GAB,Crops,0
+2023,GRD,Crops,0
+2023,GEO,Crops,0
+2023,GHA,Crops,0
+2023,GNQ,Crops,0
+2023,GTM,Crops,0
+2023,IRQ,Crops,0
+2023,IRN,Crops,0
+2023,JAM,Crops,0
+2023,KIR,Crops,0
+2023,COM,Crops,0
+2023,KOR,Crops,0
+2023,KWT,Crops,0
+2023,LBN,Crops,0
+2023,LCA,Crops,0
+2023,MAR,Crops,0
+2023,MHL,Crops,0
+2023,NPL,Crops,0
+2023,NRU,Crops,0
+2023,NU,Crops,0
+2023,OMN,Crops,0
+2023,PER,Crops,0
+2023,PNG,Crops,0
+2023,PHL,Crops,0
+2023,QAT,Crops,0
+2023,SAU,Crops,0
+2023,SLB,Crops,0
+2023,SYC,Crops,0
+2023,SGP,Crops,0
+2023,SUR,Crops,0
+2023,SSD,Crops,0
+2023,THA,Crops,0
+2023,TJK,Crops,0
+2023,TLS,Crops,0
+2023,TKM,Crops,0
+2023,TON,Crops,0
+2023,VCT,Crops,0
+2023,YEM,Crops,0
+2023,ZAF,Crops,0
+2023,BHS,Crops,0
+2023,CAN,Crops,0
+2023,COK,Crops,0
+2023,MCO,Crops,0
+2023,MKD,Crops,0
+2023,NIC,Crops,0
+2023,PAN,Crops,0
+2023,PAK,Crops,0
+2023,PRY,Crops,0
+2023,WSM,Crops,0
+2023,AND,Crops,0
+2023,ARM,Crops,0
+2023,AUS,Crops,0
+2023,BIH,Crops,0
+2023,CHE,Crops,0
+2023,FSM,Crops,0
+2023,GBR,Crops,0
+2023,ISR,Crops,0
+2023,ISL,Crops,0
+2023,JPN,Crops,0
+2023,KAZ,Crops,0
+2023,MNE,Crops,0
+2023,NO,Crops,0
+2023,NZL,Crops,0
+2023,PLW,Crops,0
+2023,SRB,Crops,0
+2023,RUS,Crops,0
+2023,SMR,Crops,0
+2023,SYR,Crops,0
+2023,TUR,Crops,0
+2023,TTO,Crops,0
+2023,TUV,Crops,0
+2023,UKR,Crops,0
+2023,USA,Crops,0
+2023,VAT,Crops,0
+2023,ARE,Diets,0
+2023,AFG,Diets,0
+2023,ATG,Diets,0
+2023,AGO,Diets,0
+2023,ARG,Diets,0
+2023,AZE,Diets,0
+2023,BRB,Diets,0
+2023,BFA,Diets,0
+2023,BHR,Diets,0
+2023,BDI,Diets,0
+2023,BEN,Diets,0
+2023,BRN,Diets,0
+2023,BOL,Diets,0
+2023,BRA,Diets,0
+2023,BWA,Diets,0
+2023,BLR,Diets,0
+2023,BLZ,Diets,0
+2023,COD,Diets,0
+2023,CAF,Diets,0
+2023,COG,Diets,0
+2023,CIV,Diets,0
+2023,CHL,Diets,0
+2023,CHN,Diets,0
+2023,COL,Diets,0
+2023,CRI,Diets,0
+2023,CUB,Diets,0
+2023,CPV,Diets,0
+2023,DJI,Diets,0
+2023,DMA,Diets,0
+2023,DOM,Diets,0
+2023,DZA,Diets,0
+2023,ECU,Diets,0
+2023,EGY,Diets,0
+2023,ERI,Diets,0
+2023,FJI,Diets,0
+2023,GAB,Diets,0
+2023,GRD,Diets,0
+2023,GEO,Diets,0
+2023,GHA,Diets,0
+2023,GMB,Diets,0
+2023,GIN,Diets,0
+2023,GNQ,Diets,0
+2023,GNB,Diets,0
+2023,GUY,Diets,0
+2023,HND,Diets,0
+2023,HTI,Diets,0
+2023,IDN,Diets,0
+2023,IND,Diets,0
+2023,IRQ,Diets,0
+2023,IRN,Diets,0
+2023,JAM,Diets,0
+2023,JOR,Diets,0
+2023,KEN,Diets,0
+2023,KHM,Diets,0
+2023,KIR,Diets,0
+2023,COM,Diets,0
+2023,KNA,Diets,0
+2023,PRK,Diets,0
+2023,KOR,Diets,0
+2023,KWT,Diets,0
+2023,LAO,Diets,0
+2023,LBN,Diets,0
+2023,LCA,Diets,0
+2023,LBR,Diets,0
+2023,LSO,Diets,0
+2023,MAR,Diets,0
+2023,MDA,Diets,0
+2023,MDG,Diets,0
+2023,MHL,Diets,0
+2023,MLI,Diets,0
+2023,MMR,Diets,0
+2023,MNG,Diets,0
+2023,MUS,Diets,0
+2023,MDV,Diets,0
+2023,MWI,Diets,0
+2023,MEX,Diets,0
+2023,MYS,Diets,0
+2023,MOZ,Diets,0
+2023,NAM,Diets,0
+2023,NER,Diets,0
+2023,NGA,Diets,0
+2023,NPL,Diets,0
+2023,NRU,Diets,0
+2023,NU,Diets,0
+2023,OMN,Diets,0
+2023,PER,Diets,0
+2023,PNG,Diets,0
+2023,PHL,Diets,0
+2023,QAT,Diets,0
+2023,RWA,Diets,0
+2023,SAU,Diets,0
+2023,SLB,Diets,0
+2023,SYC,Diets,0
+2023,SDN,Diets,0
+2023,SGP,Diets,0
+2023,SLE,Diets,0
+2023,SEN,Diets,0
+2023,SOM,Diets,0
+2023,SUR,Diets,0
+2023,STP,Diets,0
+2023,SLV,Diets,0
+2023,SWZ,Diets,0
+2023,TCD,Diets,0
+2023,TGO,Diets,0
+2023,THA,Diets,0
+2023,TJK,Diets,0
+2023,TLS,Diets,0
+2023,TKM,Diets,0
+2023,TUN,Diets,0
+2023,TON,Diets,0
+2023,TZA,Diets,0
+2023,UGA,Diets,0
+2023,UZB,Diets,0
+2023,VCT,Diets,0
+2023,VNM,Diets,0
+2023,VUT,Diets,0
+2023,YEM,Diets,0
+2023,ZAF,Diets,0
+2023,ZMB,Diets,0
+2023,ZWE,Diets,0
+2023,BHS,Diets,0
+2023,CAN,Diets,0
+2023,COK,Diets,0
+2023,KGZ,Diets,0
+2023,LKA,Diets,0
+2023,MCO,Diets,0
+2023,MKD,Diets,0
+2023,NIC,Diets,0
+2023,PAN,Diets,0
+2023,PAK,Diets,0
+2023,PSE,Diets,0
+2023,PRY,Diets,0
+2023,VEN,Diets,0
+2023,WSM,Diets,0
+2023,AND,Diets,0
+2023,ARM,Diets,0
+2023,AUS,Diets,0
+2023,BIH,Diets,0
+2023,CHE,Diets,0
+2023,FSM,Diets,0
+2023,GBR,Diets,0
+2023,ISR,Diets,0
+2023,ISL,Diets,0
+2023,JPN,Diets,0
+2023,KAZ,Diets,0
+2023,MNE,Diets,0
+2023,NO,Diets,0
+2023,NZL,Diets,0
+2023,PLW,Diets,0
+2023,SRB,Diets,0
+2023,RUS,Diets,0
+2023,SMR,Diets,0
+2023,SYR,Diets,0
+2023,TUR,Diets,0
+2023,TTO,Diets,0
+2023,TUV,Diets,0
+2023,UKR,Diets,0
+2023,USA,Diets,0
+2023,VAT,Diets,0
+2023,ARE,Fisheries and aquaculture,0
+2023,AFG,Fisheries and aquaculture,0
+2023,ATG,Fisheries and aquaculture,0
+2023,AZE,Fisheries and aquaculture,0
+2023,BRB,Fisheries and aquaculture,0
+2023,BFA,Fisheries and aquaculture,0
+2023,BHR,Fisheries and aquaculture,0
+2023,BEN,Fisheries and aquaculture,0
+2023,BRN,Fisheries and aquaculture,0
+2023,BRA,Fisheries and aquaculture,0
+2023,BTN,Fisheries and aquaculture,0
+2023,BWA,Fisheries and aquaculture,0
+2023,BLR,Fisheries and aquaculture,0
+2023,CAF,Fisheries and aquaculture,0
+2023,CIV,Fisheries and aquaculture,0
+2023,CHL,Fisheries and aquaculture,0
+2023,COL,Fisheries and aquaculture,0
+2023,CUB,Fisheries and aquaculture,0
+2023,DJI,Fisheries and aquaculture,0
+2023,DOM,Fisheries and aquaculture,0
+2023,DZA,Fisheries and aquaculture,0
+2023,ECU,Fisheries and aquaculture,0
+2023,EGY,Fisheries and aquaculture,0
+2023,ETH,Fisheries and aquaculture,0
+2023,GAB,Fisheries and aquaculture,0
+2023,GRD,Fisheries and aquaculture,0
+2023,GEO,Fisheries and aquaculture,0
+2023,GNQ,Fisheries and aquaculture,0
+2023,GTM,Fisheries and aquaculture,0
+2023,GUY,Fisheries and aquaculture,0
+2023,HND,Fisheries and aquaculture,0
+2023,IDN,Fisheries and aquaculture,0
+2023,IRQ,Fisheries and aquaculture,0
+2023,IRN,Fisheries and aquaculture,0
+2023,JOR,Fisheries and aquaculture,0
+2023,KIR,Fisheries and aquaculture,0
+2023,PRK,Fisheries and aquaculture,0
+2023,KOR,Fisheries and aquaculture,0
+2023,LAO,Fisheries and aquaculture,0
+2023,MDA,Fisheries and aquaculture,0
+2023,MHL,Fisheries and aquaculture,0
+2023,MMR,Fisheries and aquaculture,0
+2023,MNG,Fisheries and aquaculture,0
+2023,MEX,Fisheries and aquaculture,0
+2023,NER,Fisheries and aquaculture,0
+2023,NPL,Fisheries and aquaculture,0
+2023,OMN,Fisheries and aquaculture,0
+2023,PNG,Fisheries and aquaculture,0
+2023,PHL,Fisheries and aquaculture,0
+2023,QAT,Fisheries and aquaculture,0
+2023,RWA,Fisheries and aquaculture,0
+2023,SAU,Fisheries and aquaculture,0
+2023,SLB,Fisheries and aquaculture,0
+2023,SDN,Fisheries and aquaculture,0
+2023,SGP,Fisheries and aquaculture,0
+2023,SUR,Fisheries and aquaculture,0
+2023,SWZ,Fisheries and aquaculture,0
+2023,THA,Fisheries and aquaculture,0
+2023,TJK,Fisheries and aquaculture,0
+2023,TLS,Fisheries and aquaculture,0
+2023,TKM,Fisheries and aquaculture,0
+2023,TUN,Fisheries and aquaculture,0
+2023,UGA,Fisheries and aquaculture,0
+2023,UZB,Fisheries and aquaculture,0
+2023,YEM,Fisheries and aquaculture,0
+2023,ZAF,Fisheries and aquaculture,0
+2023,ZWE,Fisheries and aquaculture,0
+2023,BHS,Fisheries and aquaculture,0
+2023,CAN,Fisheries and aquaculture,0
+2023,COK,Fisheries and aquaculture,0
+2023,KGZ,Fisheries and aquaculture,0
+2023,MCO,Fisheries and aquaculture,0
+2023,MKD,Fisheries and aquaculture,0
+2023,NIC,Fisheries and aquaculture,0
+2023,PAN,Fisheries and aquaculture,0
+2023,PAK,Fisheries and aquaculture,0
+2023,PRY,Fisheries and aquaculture,0
+2023,URY,Fisheries and aquaculture,0
+2023,VEN,Fisheries and aquaculture,0
+2023,WSM,Fisheries and aquaculture,0
+2023,AND,Fisheries and aquaculture,0
+2023,ARM,Fisheries and aquaculture,0
+2023,AUS,Fisheries and aquaculture,0
+2023,BIH,Fisheries and aquaculture,0
+2023,CHE,Fisheries and aquaculture,0
+2023,ISR,Fisheries and aquaculture,0
+2023,ISL,Fisheries and aquaculture,0
+2023,KAZ,Fisheries and aquaculture,0
+2023,MNE,Fisheries and aquaculture,0
+2023,NO,Fisheries and aquaculture,0
+2023,NZL,Fisheries and aquaculture,0
+2023,PLW,Fisheries and aquaculture,0
+2023,SRB,Fisheries and aquaculture,0
+2023,RUS,Fisheries and aquaculture,0
+2023,SMR,Fisheries and aquaculture,0
+2023,SYR,Fisheries and aquaculture,0
+2023,TUR,Fisheries and aquaculture,0
+2023,TTO,Fisheries and aquaculture,0
+2023,TUV,Fisheries and aquaculture,0
+2023,UKR,Fisheries and aquaculture,0
+2023,USA,Fisheries and aquaculture,0
+2023,VAT,Fisheries and aquaculture,0
+2023,ATG,Food security,0
+2023,AZE,Food security,0
+2023,BRB,Food security,0
+2023,BGD,Food security,0
+2023,BFA,Food security,0
+2023,BHR,Food security,0
+2023,BRN,Food security,0
+2023,BRA,Food security,0
+2023,BWA,Food security,0
+2023,BLR,Food security,0
+2023,COD,Food security,0
+2023,CHL,Food security,0
+2023,CMR,Food security,0
+2023,COL,Food security,0
+2023,DJI,Food security,0
+2023,DZA,Food security,0
+2023,ERI,Food security,0
+2023,GAB,Food security,0
+2023,GRD,Food security,0
+2023,GNQ,Food security,0
+2023,GUY,Food security,0
+2023,IRQ,Food security,0
+2023,IRN,Food security,0
+2023,JOR,Food security,0
+2023,KEN,Food security,0
+2023,KHM,Food security,0
+2023,COM,Food security,0
+2023,KNA,Food security,0
+2023,PRK,Food security,0
+2023,KOR,Food security,0
+2023,LAO,Food security,0
+2023,MDG,Food security,0
+2023,MHL,Food security,0
+2023,MMR,Food security,0
+2023,MNG,Food security,0
+2023,MUS,Food security,0
+2023,NGA,Food security,0
+2023,NPL,Food security,0
+2023,PER,Food security,0
+2023,PHL,Food security,0
+2023,QAT,Food security,0
+2023,SAU,Food security,0
+2023,SLB,Food security,0
+2023,SLE,Food security,0
+2023,SUR,Food security,0
+2023,STP,Food security,0
+2023,TKM,Food security,0
+2023,TUN,Food security,0
+2023,TON,Food security,0
+2023,TZA,Food security,0
+2023,UZB,Food security,0
+2023,ZAF,Food security,0
+2023,ZMB,Food security,0
+2023,ZWE,Food security,0
+2023,ALB,Food security,0
+2023,CAN,Food security,0
+2023,COK,Food security,0
+2023,KGZ,Food security,0
+2023,MCO,Food security,0
+2023,MKD,Food security,0
+2023,NIC,Food security,0
+2023,PAK,Food security,0
+2023,URY,Food security,0
+2023,WSM,Food security,0
+2023,AND,Food security,0
+2023,ARM,Food security,0
+2023,AUS,Food security,0
+2023,BIH,Food security,0
+2023,CHE,Food security,0
+2023,FSM,Food security,0
+2023,GBR,Food security,0
+2023,ISR,Food security,0
+2023,ISL,Food security,0
+2023,JPN,Food security,0
+2023,KAZ,Food security,0
+2023,MNE,Food security,0
+2023,NO,Food security,0
+2023,NZL,Food security,0
+2023,PLW,Food security,0
+2023,SRB,Food security,0
+2023,RUS,Food security,0
+2023,SMR,Food security,0
+2023,SYR,Food security,0
+2023,TUR,Food security,0
+2023,TTO,Food security,0
+2023,TUV,Food security,0
+2023,UKR,Food security,0
+2023,USA,Food security,0
+2023,VAT,Food security,0
+2023,AND,Irrigation,0
+2023,ARE,Irrigation,0
+2023,ATG,Irrigation,0
+2023,ARM,Irrigation,0
+2023,AUS,Irrigation,0
+2023,AZE,Irrigation,0
+2023,BIH,Irrigation,0
+2023,BRB,Irrigation,0
+2023,BGD,Irrigation,0
+2023,BHR,Irrigation,0
+2023,BRN,Irrigation,0
+2023,BRA,Irrigation,0
+2023,BHS,Irrigation,0
+2023,BWA,Irrigation,0
+2023,BLR,Irrigation,0
+2023,CAN,Irrigation,0
+2023,COD,Irrigation,0
+2023,CAF,Irrigation,0
+2023,CHE,Irrigation,0
+2023,COK,Irrigation,0
+2023,CHL,Irrigation,0
+2023,COL,Irrigation,0
+2023,CRI,Irrigation,0
+2023,CUB,Irrigation,0
+2023,DJI,Irrigation,0
+2023,DMA,Irrigation,0
+2023,DZA,Irrigation,0
+2023,ECU,Irrigation,0
+2023,FJI,Irrigation,0
+2023,FSM,Irrigation,0
+2023,GAB,Irrigation,0
+2023,GBR,Irrigation,0
+2023,GRD,Irrigation,0
+2023,GHA,Irrigation,0
+2023,GNQ,Irrigation,0
+2023,GTM,Irrigation,0
+2023,GNB,Irrigation,0
+2023,GUY,Irrigation,0
+2023,IDN,Irrigation,0
+2023,ISR,Irrigation,0
+2023,IRN,Irrigation,0
+2023,ISL,Irrigation,0
+2023,JAM,Irrigation,0
+2023,JPN,Irrigation,0
+2023,KIR,Irrigation,0
+2023,PRK,Irrigation,0
+2023,KOR,Irrigation,0
+2023,KWT,Irrigation,0
+2023,KAZ,Irrigation,0
+2023,LAO,Irrigation,0
+2023,MCO,Irrigation,0
+2023,MNE,Irrigation,0
+2023,MDG,Irrigation,0
+2023,MHL,Irrigation,0
+2023,MKD,Irrigation,0
+2023,MDV,Irrigation,0
+2023,MEX,Irrigation,0
+2023,MYS,Irrigation,0
+2023,NO,Irrigation,0
+2023,NPL,Irrigation,0
+2023,NRU,Irrigation,0
+2023,NU,Irrigation,0
+2023,NZL,Irrigation,0
+2023,OMN,Irrigation,0
+2023,PAN,Irrigation,0
+2023,PER,Irrigation,0
+2023,PNG,Irrigation,0
+2023,PHL,Irrigation,0
+2023,PLW,Irrigation,0
+2023,PRY,Irrigation,0
+2023,SRB,Irrigation,0
+2023,RUS,Irrigation,0
+2023,SAU,Irrigation,0
+2023,SLB,Irrigation,0
+2023,SDN,Irrigation,0
+2023,SGP,Irrigation,0
+2023,SMR,Irrigation,0
+2023,SUR,Irrigation,0
+2023,STP,Irrigation,0
+2023,SLV,Irrigation,0
+2023,SYR,Irrigation,0
+2023,THA,Irrigation,0
+2023,TLS,Irrigation,0
+2023,TKM,Irrigation,0
+2023,TUN,Irrigation,0
+2023,TON,Irrigation,0
+2023,TUR,Irrigation,0
+2023,TTO,Irrigation,0
+2023,TUV,Irrigation,0
+2023,UKR,Irrigation,0
+2023,USA,Irrigation,0
+2023,URY,Irrigation,0
+2023,VAT,Irrigation,0
+2023,VCT,Irrigation,0
+2023,VEN,Irrigation,0
+2023,VUT,Irrigation,0
+2023,WSM,Irrigation,0
+2023,YEM,Irrigation,0
+2023,ZAF,Irrigation,0
+2023,ZMB,Irrigation,0
+2023,AND,Land and soil management,0
+2023,ARE,Land and soil management,0
+2023,AFG,Land and soil management,0
+2023,ATG,Land and soil management,0
+2023,ARM,Land and soil management,0
+2023,AUS,Land and soil management,0
+2023,BIH,Land and soil management,0
+2023,BRB,Land and soil management,0
+2023,BGD,Land and soil management,0
+2023,BHR,Land and soil management,0
+2023,BEN,Land and soil management,0
+2023,BRN,Land and soil management,0
+2023,BRA,Land and soil management,0
+2023,BHS,Land and soil management,0
+2023,BWA,Land and soil management,0
+2023,BLR,Land and soil management,0
+2023,CAN,Land and soil management,0
+2023,COG,Land and soil management,0
+2023,CHE,Land and soil management,0
+2023,COK,Land and soil management,0
+2023,CHL,Land and soil management,0
+2023,COL,Land and soil management,0
+2023,DMA,Land and soil management,0
+2023,DZA,Land and soil management,0
+2023,FJI,Land and soil management,0
+2023,FSM,Land and soil management,0
+2023,GAB,Land and soil management,0
+2023,GBR,Land and soil management,0
+2023,GRD,Land and soil management,0
+2023,GHA,Land and soil management,0
+2023,GNQ,Land and soil management,0
+2023,GNB,Land and soil management,0
+2023,GUY,Land and soil management,0
+2023,IDN,Land and soil management,0
+2023,ISR,Land and soil management,0
+2023,IRN,Land and soil management,0
+2023,ISL,Land and soil management,0
+2023,JAM,Land and soil management,0
+2023,JPN,Land and soil management,0
+2023,KIR,Land and soil management,0
+2023,COM,Land and soil management,0
+2023,KNA,Land and soil management,0
+2023,KOR,Land and soil management,0
+2023,KWT,Land and soil management,0
+2023,KAZ,Land and soil management,0
+2023,LAO,Land and soil management,0
+2023,LBN,Land and soil management,0
+2023,LCA,Land and soil management,0
+2023,LBR,Land and soil management,0
+2023,MCO,Land and soil management,0
+2023,MNE,Land and soil management,0
+2023,MDG,Land and soil management,0
+2023,MHL,Land and soil management,0
+2023,MKD,Land and soil management,0
+2023,MLI,Land and soil management,0
+2023,MUS,Land and soil management,0
+2023,MDV,Land and soil management,0
+2023,MYS,Land and soil management,0
+2023,NIC,Land and soil management,0
+2023,NO,Land and soil management,0
+2023,NPL,Land and soil management,0
+2023,NRU,Land and soil management,0
+2023,NU,Land and soil management,0
+2023,NZL,Land and soil management,0
+2023,PAN,Land and soil management,0
+2023,PER,Land and soil management,0
+2023,PNG,Land and soil management,0
+2023,PHL,Land and soil management,0
+2023,PLW,Land and soil management,0
+2023,PRY,Land and soil management,0
+2023,QAT,Land and soil management,0
+2023,SRB,Land and soil management,0
+2023,RUS,Land and soil management,0
+2023,SAU,Land and soil management,0
+2023,SLB,Land and soil management,0
+2023,SYC,Land and soil management,0
+2023,SGP,Land and soil management,0
+2023,SMR,Land and soil management,0
+2023,SYR,Land and soil management,0
+2023,TKM,Land and soil management,0
+2023,TON,Land and soil management,0
+2023,TUR,Land and soil management,0
+2023,TTO,Land and soil management,0
+2023,TUV,Land and soil management,0
+2023,UKR,Land and soil management,0
+2023,USA,Land and soil management,0
+2023,VAT,Land and soil management,0
+2023,VCT,Land and soil management,0
+2023,VNM,Land and soil management,0
+2023,VUT,Land and soil management,0
+2023,WSM,Land and soil management,0
+2023,YEM,Land and soil management,0
+2023,ZAF,Land and soil management,0
+2023,ZMB,Land and soil management,0
+2023,ZWE,Land and soil management,0
+2023,ARE,Livestock,0
+2023,ATG,Livestock,0
+2023,ARG,Livestock,0
+2023,AUS,Livestock,0
+2023,BIH,Livestock,0
+2023,BRB,Livestock,0
+2023,BHR,Livestock,0
+2023,BEN,Livestock,0
+2023,BRN,Livestock,0
+2023,BRA,Livestock,0
+2023,BHS,Livestock,0
+2023,BLR,Livestock,0
+2023,CAN,Livestock,0
+2023,COG,Livestock,0
+2023,CHE,Livestock,0
+2023,COK,Livestock,0
+2023,DMA,Livestock,0
+2023,DZA,Livestock,0
+2023,FSM,Livestock,0
+2023,GBR,Livestock,0
+2023,GRD,Livestock,0
+2023,GEO,Livestock,0
+2023,GNQ,Livestock,0
+2023,GUY,Livestock,0
+2023,ISR,Livestock,0
+2023,IRN,Livestock,0
+2023,ISL,Livestock,0
+2023,JAM,Livestock,0
+2023,JPN,Livestock,0
+2023,KIR,Livestock,0
+2023,PRK,Livestock,0
+2023,KWT,Livestock,0
+2023,KAZ,Livestock,0
+2023,LAO,Livestock,0
+2023,LBN,Livestock,0
+2023,LCA,Livestock,0
+2023,MCO,Livestock,0
+2023,MNE,Livestock,0
+2023,MDG,Livestock,0
+2023,MHL,Livestock,0
+2023,MKD,Livestock,0
+2023,MDV,Livestock,0
+2023,MYS,Livestock,0
+2023,MOZ,Livestock,0
+2023,NO,Livestock,0
+2023,NRU,Livestock,0
+2023,NU,Livestock,0
+2023,NZL,Livestock,0
+2023,OMN,Livestock,0
+2023,PNG,Livestock,0
+2023,PHL,Livestock,0
+2023,PLW,Livestock,0
+2023,QAT,Livestock,0
+2023,SRB,Livestock,0
+2023,RUS,Livestock,0
+2023,SAU,Livestock,0
+2023,SLB,Livestock,0
+2023,SYC,Livestock,0
+2023,SGP,Livestock,0
+2023,SMR,Livestock,0
+2023,SUR,Livestock,0
+2023,SYR,Livestock,0
+2023,THA,Livestock,0
+2023,TKM,Livestock,0
+2023,TUN,Livestock,0
+2023,TON,Livestock,0
+2023,TTO,Livestock,0
+2023,TUV,Livestock,0
+2023,UKR,Livestock,0
+2023,VAT,Livestock,0
+2023,VCT,Livestock,0
+2023,ZAF,Livestock,0
+2023,AFG,Reducing food loss and waste,0
+2023,ATG,Reducing food loss and waste,0
+2023,ALB,Reducing food loss and waste,0
+2023,ARM,Reducing food loss and waste,0
+2023,AGO,Reducing food loss and waste,0
+2023,ARG,Reducing food loss and waste,0
+2023,AUS,Reducing food loss and waste,0
+2023,AZE,Reducing food loss and waste,0
+2023,BIH,Reducing food loss and waste,0
+2023,BRB,Reducing food loss and waste,0
+2023,BFA,Reducing food loss and waste,0
+2023,BHR,Reducing food loss and waste,0
+2023,BDI,Reducing food loss and waste,0
+2023,BEN,Reducing food loss and waste,0
+2023,BRN,Reducing food loss and waste,0
+2023,BOL,Reducing food loss and waste,0
+2023,BRA,Reducing food loss and waste,0
+2023,BHS,Reducing food loss and waste,0
+2023,BWA,Reducing food loss and waste,0
+2023,BLR,Reducing food loss and waste,0
+2023,BLZ,Reducing food loss and waste,0
+2023,CAN,Reducing food loss and waste,0
+2023,COD,Reducing food loss and waste,0
+2023,CAF,Reducing food loss and waste,0
+2023,COG,Reducing food loss and waste,0
+2023,CHE,Reducing food loss and waste,0
+2023,CIV,Reducing food loss and waste,0
+2023,COK,Reducing food loss and waste,0
+2023,CHL,Reducing food loss and waste,0
+2023,CMR,Reducing food loss and waste,0
+2023,COL,Reducing food loss and waste,0
+2023,CRI,Reducing food loss and waste,0
+2023,CUB,Reducing food loss and waste,0
+2023,CPV,Reducing food loss and waste,0
+2023,DJI,Reducing food loss and waste,0
+2023,DMA,Reducing food loss and waste,0
+2023,DOM,Reducing food loss and waste,0
+2023,DZA,Reducing food loss and waste,0
+2023,ECU,Reducing food loss and waste,0
+2023,EGY,Reducing food loss and waste,0
+2023,ERI,Reducing food loss and waste,0
+2023,FJI,Reducing food loss and waste,0
+2023,FSM,Reducing food loss and waste,0
+2023,GAB,Reducing food loss and waste,0
+2023,GBR,Reducing food loss and waste,0
+2023,GRD,Reducing food loss and waste,0
+2023,GEO,Reducing food loss and waste,0
+2023,GHA,Reducing food loss and waste,0
+2023,GIN,Reducing food loss and waste,0
+2023,GTM,Reducing food loss and waste,0
+2023,GUY,Reducing food loss and waste,0
+2023,HND,Reducing food loss and waste,0
+2023,HTI,Reducing food loss and waste,0
+2023,IDN,Reducing food loss and waste,0
+2023,ISR,Reducing food loss and waste,0
+2023,IND,Reducing food loss and waste,0
+2023,IRQ,Reducing food loss and waste,0
+2023,IRN,Reducing food loss and waste,0
+2023,ISL,Reducing food loss and waste,0
+2023,JAM,Reducing food loss and waste,0
+2023,JPN,Reducing food loss and waste,0
+2023,KEN,Reducing food loss and waste,0
+2023,KGZ,Reducing food loss and waste,0
+2023,KHM,Reducing food loss and waste,0
+2023,KIR,Reducing food loss and waste,0
+2023,COM,Reducing food loss and waste,0
+2023,KNA,Reducing food loss and waste,0
+2023,PRK,Reducing food loss and waste,0
+2023,KOR,Reducing food loss and waste,0
+2023,KWT,Reducing food loss and waste,0
+2023,KAZ,Reducing food loss and waste,0
+2023,LAO,Reducing food loss and waste,0
+2023,LBN,Reducing food loss and waste,0
+2023,LCA,Reducing food loss and waste,0
+2023,LKA,Reducing food loss and waste,0
+2023,LBR,Reducing food loss and waste,0
+2023,MAR,Reducing food loss and waste,0
+2023,MCO,Reducing food loss and waste,0
+2023,MDA,Reducing food loss and waste,0
+2023,MNE,Reducing food loss and waste,0
+2023,MDG,Reducing food loss and waste,0
+2023,MHL,Reducing food loss and waste,0
+2023,MKD,Reducing food loss and waste,0
+2023,MLI,Reducing food loss and waste,0
+2023,MMR,Reducing food loss and waste,0
+2023,MNG,Reducing food loss and waste,0
+2023,MRT,Reducing food loss and waste,0
+2023,MUS,Reducing food loss and waste,0
+2023,MDV,Reducing food loss and waste,0
+2023,MWI,Reducing food loss and waste,0
+2023,MEX,Reducing food loss and waste,0
+2023,MYS,Reducing food loss and waste,0
+2023,MOZ,Reducing food loss and waste,0
+2023,NAM,Reducing food loss and waste,0
+2023,NER,Reducing food loss and waste,0
+2023,NGA,Reducing food loss and waste,0
+2023,NIC,Reducing food loss and waste,0
+2023,NO,Reducing food loss and waste,0
+2023,NPL,Reducing food loss and waste,0
+2023,NRU,Reducing food loss and waste,0
+2023,NU,Reducing food loss and waste,0
+2023,NZL,Reducing food loss and waste,0
+2023,OMN,Reducing food loss and waste,0
+2023,PAN,Reducing food loss and waste,0
+2023,PER,Reducing food loss and waste,0
+2023,PNG,Reducing food loss and waste,0
+2023,PHL,Reducing food loss and waste,0
+2023,PAK,Reducing food loss and waste,0
+2023,PSE,Reducing food loss and waste,0
+2023,PLW,Reducing food loss and waste,0
+2023,PRY,Reducing food loss and waste,0
+2023,QAT,Reducing food loss and waste,0
+2023,SRB,Reducing food loss and waste,0
+2023,RUS,Reducing food loss and waste,0
+2023,RWA,Reducing food loss and waste,0
+2023,SAU,Reducing food loss and waste,0
+2023,SLB,Reducing food loss and waste,0
+2023,SYC,Reducing food loss and waste,0
+2023,SDN,Reducing food loss and waste,0
+2023,SGP,Reducing food loss and waste,0
+2023,SMR,Reducing food loss and waste,0
+2023,SEN,Reducing food loss and waste,0
+2023,SOM,Reducing food loss and waste,0
+2023,SUR,Reducing food loss and waste,0
+2023,SSD,Reducing food loss and waste,0
+2023,STP,Reducing food loss and waste,0
+2023,SLV,Reducing food loss and waste,0
+2023,SYR,Reducing food loss and waste,0
+2023,SWZ,Reducing food loss and waste,0
+2023,TCD,Reducing food loss and waste,0
+2023,THA,Reducing food loss and waste,0
+2023,TJK,Reducing food loss and waste,0
+2023,TLS,Reducing food loss and waste,0
+2023,TKM,Reducing food loss and waste,0
+2023,TUN,Reducing food loss and waste,0
+2023,TON,Reducing food loss and waste,0
+2023,TTO,Reducing food loss and waste,0
+2023,TUV,Reducing food loss and waste,0
+2023,TZA,Reducing food loss and waste,0
+2023,UKR,Reducing food loss and waste,0
+2023,UGA,Reducing food loss and waste,0
+2023,USA,Reducing food loss and waste,0
+2023,UZB,Reducing food loss and waste,0
+2023,VAT,Reducing food loss and waste,0
+2023,VCT,Reducing food loss and waste,0
+2023,VEN,Reducing food loss and waste,0
+2023,VNM,Reducing food loss and waste,0
+2023,VUT,Reducing food loss and waste,0
+2023,WSM,Reducing food loss and waste,0
+2023,YEM,Reducing food loss and waste,0
+2023,ZAF,Reducing food loss and waste,0
+2023,ZMB,Reducing food loss and waste,0
+2023,ZWE,Reducing food loss and waste,0
+2023,AND,Rice cultivation,0
+2023,ARE,Rice cultivation,0
+2023,ATG,Rice cultivation,0
+2023,ALB,Rice cultivation,0
+2023,ARM,Rice cultivation,0
+2023,AGO,Rice cultivation,0
+2023,ARG,Rice cultivation,0
+2023,AUS,Rice cultivation,0
+2023,AZE,Rice cultivation,0
+2023,BIH,Rice cultivation,0
+2023,BRB,Rice cultivation,0
+2023,BFA,Rice cultivation,0
+2023,BHR,Rice cultivation,0
+2023,BDI,Rice cultivation,0
+2023,BRN,Rice cultivation,0
+2023,BOL,Rice cultivation,0
+2023,BRA,Rice cultivation,0
+2023,BHS,Rice cultivation,0
+2023,BWA,Rice cultivation,0
+2023,BLR,Rice cultivation,0
+2023,BLZ,Rice cultivation,0
+2023,CAN,Rice cultivation,0
+2023,COD,Rice cultivation,0
+2023,CAF,Rice cultivation,0
+2023,CHE,Rice cultivation,0
+2023,COK,Rice cultivation,0
+2023,CHL,Rice cultivation,0
+2023,CHN,Rice cultivation,0
+2023,CRI,Rice cultivation,0
+2023,CUB,Rice cultivation,0
+2023,CPV,Rice cultivation,0
+2023,DJI,Rice cultivation,0
+2023,DMA,Rice cultivation,0
+2023,DZA,Rice cultivation,0
+2023,ECU,Rice cultivation,0
+2023,EGY,Rice cultivation,0
+2023,ERI,Rice cultivation,0
+2023,ETH,Rice cultivation,0
+2023,FJI,Rice cultivation,0
+2023,FSM,Rice cultivation,0
+2023,GAB,Rice cultivation,0
+2023,GBR,Rice cultivation,0
+2023,GRD,Rice cultivation,0
+2023,GEO,Rice cultivation,0
+2023,GHA,Rice cultivation,0
+2023,GIN,Rice cultivation,0
+2023,GNQ,Rice cultivation,0
+2023,GTM,Rice cultivation,0
+2023,GUY,Rice cultivation,0
+2023,HND,Rice cultivation,0
+2023,HTI,Rice cultivation,0
+2023,IDN,Rice cultivation,0
+2023,ISR,Rice cultivation,0
+2023,IND,Rice cultivation,0
+2023,IRN,Rice cultivation,0
+2023,ISL,Rice cultivation,0
+2023,JAM,Rice cultivation,0
+2023,JOR,Rice cultivation,0
+2023,JPN,Rice cultivation,0
+2023,KEN,Rice cultivation,0
+2023,KGZ,Rice cultivation,0
+2023,KHM,Rice cultivation,0
+2023,KIR,Rice cultivation,0
+2023,COM,Rice cultivation,0
+2023,KNA,Rice cultivation,0
+2023,PRK,Rice cultivation,0
+2023,KWT,Rice cultivation,0
+2023,KAZ,Rice cultivation,0
+2023,LBN,Rice cultivation,0
+2023,LCA,Rice cultivation,0
+2023,LSO,Rice cultivation,0
+2023,MAR,Rice cultivation,0
+2023,MCO,Rice cultivation,0
+2023,MDA,Rice cultivation,0
+2023,MNE,Rice cultivation,0
+2023,MHL,Rice cultivation,0
+2023,MKD,Rice cultivation,0
+2023,MMR,Rice cultivation,0
+2023,MNG,Rice cultivation,0
+2023,MRT,Rice cultivation,0
+2023,MUS,Rice cultivation,0
+2023,MDV,Rice cultivation,0
+2023,MEX,Rice cultivation,0
+2023,MYS,Rice cultivation,0
+2023,MOZ,Rice cultivation,0
+2023,NAM,Rice cultivation,0
+2023,NER,Rice cultivation,0
+2023,NIC,Rice cultivation,0
+2023,NO,Rice cultivation,0
+2023,NPL,Rice cultivation,0
+2023,NRU,Rice cultivation,0
+2023,NU,Rice cultivation,0
+2023,NZL,Rice cultivation,0
+2023,OMN,Rice cultivation,0
+2023,PAN,Rice cultivation,0
+2023,PER,Rice cultivation,0
+2023,PNG,Rice cultivation,0
+2023,PHL,Rice cultivation,0
+2023,PSE,Rice cultivation,0
+2023,PLW,Rice cultivation,0
+2023,QAT,Rice cultivation,0
+2023,SRB,Rice cultivation,0
+2023,RUS,Rice cultivation,0
+2023,SAU,Rice cultivation,0
+2023,SLB,Rice cultivation,0
+2023,SYC,Rice cultivation,0
+2023,SDN,Rice cultivation,0
+2023,SGP,Rice cultivation,0
+2023,SLE,Rice cultivation,0
+2023,SMR,Rice cultivation,0
+2023,SOM,Rice cultivation,0
+2023,SUR,Rice cultivation,0
+2023,SSD,Rice cultivation,0
+2023,STP,Rice cultivation,0
+2023,SLV,Rice cultivation,0
+2023,SYR,Rice cultivation,0
+2023,SWZ,Rice cultivation,0
+2023,TCD,Rice cultivation,0
+2023,TGO,Rice cultivation,0
+2023,THA,Rice cultivation,0
+2023,TJK,Rice cultivation,0
+2023,TLS,Rice cultivation,0
+2023,TKM,Rice cultivation,0
+2023,TUN,Rice cultivation,0
+2023,TON,Rice cultivation,0
+2023,TTO,Rice cultivation,0
+2023,TUV,Rice cultivation,0
+2023,TZA,Rice cultivation,0
+2023,UKR,Rice cultivation,0
+2023,USA,Rice cultivation,0
+2023,URY,Rice cultivation,0
+2023,UZB,Rice cultivation,0
+2023,VAT,Rice cultivation,0
+2023,VCT,Rice cultivation,0
+2023,VEN,Rice cultivation,0
+2023,VUT,Rice cultivation,0
+2023,WSM,Rice cultivation,0
+2023,YEM,Rice cultivation,0
+2023,ZAF,Rice cultivation,0
+2023,ZMB,Rice cultivation,0
+2023,ZWE,Rice cultivation,0
+2023,AND,Soil carbon sequestration,0
+2023,ARE,Soil carbon sequestration,0
+2023,AFG,Soil carbon sequestration,0
+2023,ARM,Soil carbon sequestration,0
+2023,AGO,Soil carbon sequestration,0
+2023,ARG,Soil carbon sequestration,0
+2023,AZE,Soil carbon sequestration,0
+2023,BIH,Soil carbon sequestration,0
+2023,BRB,Soil carbon sequestration,0
+2023,BGD,Soil carbon sequestration,0
+2023,BFA,Soil carbon sequestration,0
+2023,BHR,Soil carbon sequestration,0
+2023,BEN,Soil carbon sequestration,0
+2023,BRN,Soil carbon sequestration,0
+2023,BOL,Soil carbon sequestration,0
+2023,BRA,Soil carbon sequestration,0
+2023,BHS,Soil carbon sequestration,0
+2023,BTN,Soil carbon sequestration,0
+2023,BWA,Soil carbon sequestration,0
+2023,BLR,Soil carbon sequestration,0
+2023,BLZ,Soil carbon sequestration,0
+2023,CAN,Soil carbon sequestration,0
+2023,COD,Soil carbon sequestration,0
+2023,CAF,Soil carbon sequestration,0
+2023,COG,Soil carbon sequestration,0
+2023,CHE,Soil carbon sequestration,0
+2023,CIV,Soil carbon sequestration,0
+2023,COK,Soil carbon sequestration,0
+2023,CHL,Soil carbon sequestration,0
+2023,COL,Soil carbon sequestration,0
+2023,CUB,Soil carbon sequestration,0
+2023,CPV,Soil carbon sequestration,0
+2023,DJI,Soil carbon sequestration,0
+2023,DOM,Soil carbon sequestration,0
+2023,DZA,Soil carbon sequestration,0
+2023,ECU,Soil carbon sequestration,0
+2023,EGY,Soil carbon sequestration,0
+2023,ERI,Soil carbon sequestration,0
+2023,ETH,Soil carbon sequestration,0
+2023,FJI,Soil carbon sequestration,0
+2023,FSM,Soil carbon sequestration,0
+2023,GAB,Soil carbon sequestration,0
+2023,GBR,Soil carbon sequestration,0
+2023,GRD,Soil carbon sequestration,0
+2023,GEO,Soil carbon sequestration,0
+2023,GHA,Soil carbon sequestration,0
+2023,GMB,Soil carbon sequestration,0
+2023,GIN,Soil carbon sequestration,0
+2023,GNB,Soil carbon sequestration,0
+2023,GUY,Soil carbon sequestration,0
+2023,HND,Soil carbon sequestration,0
+2023,IDN,Soil carbon sequestration,0
+2023,ISR,Soil carbon sequestration,0
+2023,IND,Soil carbon sequestration,0
+2023,IRQ,Soil carbon sequestration,0
+2023,IRN,Soil carbon sequestration,0
+2023,ISL,Soil carbon sequestration,0
+2023,JAM,Soil carbon sequestration,0
+2023,JOR,Soil carbon sequestration,0
+2023,JPN,Soil carbon sequestration,0
+2023,KEN,Soil carbon sequestration,0
+2023,KGZ,Soil carbon sequestration,0
+2023,KHM,Soil carbon sequestration,0
+2023,COM,Soil carbon sequestration,0
+2023,KNA,Soil carbon sequestration,0
+2023,PRK,Soil carbon sequestration,0
+2023,KOR,Soil carbon sequestration,0
+2023,KWT,Soil carbon sequestration,0
+2023,KAZ,Soil carbon sequestration,0
+2023,LAO,Soil carbon sequestration,0
+2023,LBN,Soil carbon sequestration,0
+2023,LCA,Soil carbon sequestration,0
+2023,LKA,Soil carbon sequestration,0
+2023,LSO,Soil carbon sequestration,0
+2023,MAR,Soil carbon sequestration,0
+2023,MCO,Soil carbon sequestration,0
+2023,MDA,Soil carbon sequestration,0
+2023,MNE,Soil carbon sequestration,0
+2023,MDG,Soil carbon sequestration,0
+2023,MHL,Soil carbon sequestration,0
+2023,MKD,Soil carbon sequestration,0
+2023,MLI,Soil carbon sequestration,0
+2023,MMR,Soil carbon sequestration,0
+2023,MNG,Soil carbon sequestration,0
+2023,MUS,Soil carbon sequestration,0
+2023,MDV,Soil carbon sequestration,0
+2023,MEX,Soil carbon sequestration,0
+2023,MYS,Soil carbon sequestration,0
+2023,MOZ,Soil carbon sequestration,0
+2023,NGA,Soil carbon sequestration,0
+2023,NIC,Soil carbon sequestration,0
+2023,NO,Soil carbon sequestration,0
+2023,NPL,Soil carbon sequestration,0
+2023,NRU,Soil carbon sequestration,0
+2023,NU,Soil carbon sequestration,0
+2023,NZL,Soil carbon sequestration,0
+2023,OMN,Soil carbon sequestration,0
+2023,PAN,Soil carbon sequestration,0
+2023,PER,Soil carbon sequestration,0
+2023,PNG,Soil carbon sequestration,0
+2023,PHL,Soil carbon sequestration,0
+2023,PAK,Soil carbon sequestration,0
+2023,PSE,Soil carbon sequestration,0
+2023,PLW,Soil carbon sequestration,0
+2023,PRY,Soil carbon sequestration,0
+2023,QAT,Soil carbon sequestration,0
+2023,SRB,Soil carbon sequestration,0
+2023,RUS,Soil carbon sequestration,0
+2023,SAU,Soil carbon sequestration,0
+2023,SLB,Soil carbon sequestration,0
+2023,SYC,Soil carbon sequestration,0
+2023,SDN,Soil carbon sequestration,0
+2023,SGP,Soil carbon sequestration,0
+2023,SLE,Soil carbon sequestration,0
+2023,SMR,Soil carbon sequestration,0
+2023,SEN,Soil carbon sequestration,0
+2023,SOM,Soil carbon sequestration,0
+2023,SUR,Soil carbon sequestration,0
+2023,SSD,Soil carbon sequestration,0
+2023,STP,Soil carbon sequestration,0
+2023,SLV,Soil carbon sequestration,0
+2023,SYR,Soil carbon sequestration,0
+2023,SWZ,Soil carbon sequestration,0
+2023,TCD,Soil carbon sequestration,0
+2023,TGO,Soil carbon sequestration,0
+2023,THA,Soil carbon sequestration,0
+2023,TLS,Soil carbon sequestration,0
+2023,TKM,Soil carbon sequestration,0
+2023,TUN,Soil carbon sequestration,0
+2023,TON,Soil carbon sequestration,0
+2023,TTO,Soil carbon sequestration,0
+2023,TUV,Soil carbon sequestration,0
+2023,TZA,Soil carbon sequestration,0
+2023,UKR,Soil carbon sequestration,0
+2023,USA,Soil carbon sequestration,0
+2023,UZB,Soil carbon sequestration,0
+2023,VAT,Soil carbon sequestration,0
+2023,VCT,Soil carbon sequestration,0
+2023,VEN,Soil carbon sequestration,0
+2023,VNM,Soil carbon sequestration,0
+2023,VUT,Soil carbon sequestration,0
+2023,WSM,Soil carbon sequestration,0
+2023,YEM,Soil carbon sequestration,0
+2023,ZAF,Soil carbon sequestration,0
+2023,ZMB,Soil carbon sequestration,0
+2023,ZWE,Soil carbon sequestration,0
+2023,AND,Soil fertilization emissions,0
+2023,ARE,Soil fertilization emissions,0
+2023,AFG,Soil fertilization emissions,0
+2023,ATG,Soil fertilization emissions,0
+2023,ARM,Soil fertilization emissions,0
+2023,AGO,Soil fertilization emissions,0
+2023,ARG,Soil fertilization emissions,0
+2023,AUS,Soil fertilization emissions,0
+2023,AZE,Soil fertilization emissions,0
+2023,BIH,Soil fertilization emissions,0
+2023,BRB,Soil fertilization emissions,0
+2023,BFA,Soil fertilization emissions,0
+2023,BHR,Soil fertilization emissions,0
+2023,BDI,Soil fertilization emissions,0
+2023,BRN,Soil fertilization emissions,0
+2023,BOL,Soil fertilization emissions,0
+2023,BRA,Soil fertilization emissions,0
+2023,BHS,Soil fertilization emissions,0
+2023,BTN,Soil fertilization emissions,0
+2023,BWA,Soil fertilization emissions,0
+2023,BLR,Soil fertilization emissions,0
+2023,BLZ,Soil fertilization emissions,0
+2023,COD,Soil fertilization emissions,0
+2023,CAF,Soil fertilization emissions,0
+2023,COG,Soil fertilization emissions,0
+2023,CHE,Soil fertilization emissions,0
+2023,COK,Soil fertilization emissions,0
+2023,CHL,Soil fertilization emissions,0
+2023,CRI,Soil fertilization emissions,0
+2023,CUB,Soil fertilization emissions,0
+2023,CPV,Soil fertilization emissions,0
+2023,DJI,Soil fertilization emissions,0
+2023,DOM,Soil fertilization emissions,0
+2023,DZA,Soil fertilization emissions,0
+2023,ECU,Soil fertilization emissions,0
+2023,EGY,Soil fertilization emissions,0
+2023,ERI,Soil fertilization emissions,0
+2023,ETH,Soil fertilization emissions,0
+2023,FJI,Soil fertilization emissions,0
+2023,FSM,Soil fertilization emissions,0
+2023,GAB,Soil fertilization emissions,0
+2023,GBR,Soil fertilization emissions,0
+2023,GRD,Soil fertilization emissions,0
+2023,GEO,Soil fertilization emissions,0
+2023,GHA,Soil fertilization emissions,0
+2023,GIN,Soil fertilization emissions,0
+2023,GNQ,Soil fertilization emissions,0
+2023,GTM,Soil fertilization emissions,0
+2023,GNB,Soil fertilization emissions,0
+2023,GUY,Soil fertilization emissions,0
+2023,HND,Soil fertilization emissions,0
+2023,HTI,Soil fertilization emissions,0
+2023,IDN,Soil fertilization emissions,0
+2023,ISR,Soil fertilization emissions,0
+2023,IRN,Soil fertilization emissions,0
+2023,ISL,Soil fertilization emissions,0
+2023,JAM,Soil fertilization emissions,0
+2023,JOR,Soil fertilization emissions,0
+2023,JPN,Soil fertilization emissions,0
+2023,KEN,Soil fertilization emissions,0
+2023,KHM,Soil fertilization emissions,0
+2023,KIR,Soil fertilization emissions,0
+2023,COM,Soil fertilization emissions,0
+2023,KNA,Soil fertilization emissions,0
+2023,PRK,Soil fertilization emissions,0
+2023,KWT,Soil fertilization emissions,0
+2023,KAZ,Soil fertilization emissions,0
+2023,LAO,Soil fertilization emissions,0
+2023,LBN,Soil fertilization emissions,0
+2023,LCA,Soil fertilization emissions,0
+2023,LKA,Soil fertilization emissions,0
+2023,LSO,Soil fertilization emissions,0
+2023,MAR,Soil fertilization emissions,0
+2023,MCO,Soil fertilization emissions,0
+2023,MDA,Soil fertilization emissions,0
+2023,MNE,Soil fertilization emissions,0
+2023,MDG,Soil fertilization emissions,0
+2023,MHL,Soil fertilization emissions,0
+2023,MKD,Soil fertilization emissions,0
+2023,MMR,Soil fertilization emissions,0
+2023,MNG,Soil fertilization emissions,0
+2023,MRT,Soil fertilization emissions,0
+2023,MUS,Soil fertilization emissions,0
+2023,MDV,Soil fertilization emissions,0
+2023,MEX,Soil fertilization emissions,0
+2023,MYS,Soil fertilization emissions,0
+2023,MOZ,Soil fertilization emissions,0
+2023,NAM,Soil fertilization emissions,0
+2023,NER,Soil fertilization emissions,0
+2023,NGA,Soil fertilization emissions,0
+2023,NIC,Soil fertilization emissions,0
+2023,NO,Soil fertilization emissions,0
+2023,NRU,Soil fertilization emissions,0
+2023,NU,Soil fertilization emissions,0
+2023,NZL,Soil fertilization emissions,0
+2023,OMN,Soil fertilization emissions,0
+2023,PAN,Soil fertilization emissions,0
+2023,PER,Soil fertilization emissions,0
+2023,PNG,Soil fertilization emissions,0
+2023,PHL,Soil fertilization emissions,0
+2023,PLW,Soil fertilization emissions,0
+2023,PRY,Soil fertilization emissions,0
+2023,QAT,Soil fertilization emissions,0
+2023,SRB,Soil fertilization emissions,0
+2023,RUS,Soil fertilization emissions,0
+2023,SAU,Soil fertilization emissions,0
+2023,SLB,Soil fertilization emissions,0
+2023,SYC,Soil fertilization emissions,0
+2023,SDN,Soil fertilization emissions,0
+2023,SGP,Soil fertilization emissions,0
+2023,SLE,Soil fertilization emissions,0
+2023,SMR,Soil fertilization emissions,0
+2023,SEN,Soil fertilization emissions,0
+2023,SOM,Soil fertilization emissions,0
+2023,SUR,Soil fertilization emissions,0
+2023,SSD,Soil fertilization emissions,0
+2023,STP,Soil fertilization emissions,0
+2023,SLV,Soil fertilization emissions,0
+2023,SYR,Soil fertilization emissions,0
+2023,SWZ,Soil fertilization emissions,0
+2023,TCD,Soil fertilization emissions,0
+2023,TGO,Soil fertilization emissions,0
+2023,THA,Soil fertilization emissions,0
+2023,TJK,Soil fertilization emissions,0
+2023,TLS,Soil fertilization emissions,0
+2023,TKM,Soil fertilization emissions,0
+2023,TUN,Soil fertilization emissions,0
+2023,TON,Soil fertilization emissions,0
+2023,TTO,Soil fertilization emissions,0
+2023,TUV,Soil fertilization emissions,0
+2023,TZA,Soil fertilization emissions,0
+2023,UKR,Soil fertilization emissions,0
+2023,UGA,Soil fertilization emissions,0
+2023,VAT,Soil fertilization emissions,0
+2023,VCT,Soil fertilization emissions,0
+2023,VUT,Soil fertilization emissions,0
+2023,YEM,Soil fertilization emissions,0
+2023,ZAF,Soil fertilization emissions,0
+2023,ZMB,Soil fertilization emissions,0
+2023,ZWE,Soil fertilization emissions,0
+2023,AUT,Total,1
+2023,BEL,Total,1
+2023,BGR,Total,1
+2023,HRV,Total,1
+2023,CYP,Total,1
+2023,CZE,Total,1
+2023,DNK,Total,1
+2023,EST,Total,1
+2023,FIN,Total,1
+2023,FRA,Total,1
+2023,DEU,Total,1
+2023,GRC,Total,1
+2023,HUN,Total,1
+2023,IRL,Total,1
+2023,ITA,Total,1
+2023,LVA,Total,1
+2023,LTU,Total,1
+2023,LUX,Total,1
+2023,MLT,Total,1
+2023,NLD,Total,1
+2023,POL,Total,1
+2023,PRT,Total,1
+2023,ROU,Total,1
+2023,SVK,Total,1
+2023,SVN,Total,1
+2023,ESP,Total,1
+2023,SWE,Total,1
+2023,AUT,Agriculture: General,1
+2023,BEL,Agriculture: General,1
+2023,BGR,Agriculture: General,1
+2023,HRV,Agriculture: General,1
+2023,CYP,Agriculture: General,1
+2023,CZE,Agriculture: General,1
+2023,DNK,Agriculture: General,1
+2023,EST,Agriculture: General,1
+2023,FIN,Agriculture: General,1
+2023,FRA,Agriculture: General,1
+2023,DEU,Agriculture: General,1
+2023,GRC,Agriculture: General,1
+2023,HUN,Agriculture: General,1
+2023,IRL,Agriculture: General,1
+2023,ITA,Agriculture: General,1
+2023,LVA,Agriculture: General,1
+2023,LTU,Agriculture: General,1
+2023,LUX,Agriculture: General,1
+2023,MLT,Agriculture: General,1
+2023,NLD,Agriculture: General,1
+2023,POL,Agriculture: General,1
+2023,PRT,Agriculture: General,1
+2023,ROU,Agriculture: General,1
+2023,SVK,Agriculture: General,1
+2023,SVN,Agriculture: General,1
+2023,ESP,Agriculture: General,1
+2023,SWE,Agriculture: General,1
+2023,AUT,Agricultural productivity,0
+2023,BEL,Agricultural productivity,0
+2023,BGR,Agricultural productivity,0
+2023,HRV,Agricultural productivity,0
+2023,CYP,Agricultural productivity,0
+2023,CZE,Agricultural productivity,0
+2023,DNK,Agricultural productivity,0
+2023,EST,Agricultural productivity,0
+2023,FIN,Agricultural productivity,0
+2023,FRA,Agricultural productivity,0
+2023,DEU,Agricultural productivity,0
+2023,GRC,Agricultural productivity,0
+2023,HUN,Agricultural productivity,0
+2023,IRL,Agricultural productivity,0
+2023,ITA,Agricultural productivity,0
+2023,LVA,Agricultural productivity,0
+2023,LTU,Agricultural productivity,0
+2023,LUX,Agricultural productivity,0
+2023,MLT,Agricultural productivity,0
+2023,NLD,Agricultural productivity,0
+2023,POL,Agricultural productivity,0
+2023,PRT,Agricultural productivity,0
+2023,ROU,Agricultural productivity,0
+2023,SVK,Agricultural productivity,0
+2023,SVN,Agricultural productivity,0
+2023,ESP,Agricultural productivity,0
+2023,SWE,Agricultural productivity,0
+2023,AUT,Agricultural waste,0
+2023,BEL,Agricultural waste,0
+2023,BGR,Agricultural waste,0
+2023,HRV,Agricultural waste,0
+2023,CYP,Agricultural waste,0
+2023,CZE,Agricultural waste,0
+2023,DNK,Agricultural waste,0
+2023,EST,Agricultural waste,0
+2023,FIN,Agricultural waste,0
+2023,FRA,Agricultural waste,0
+2023,DEU,Agricultural waste,0
+2023,GRC,Agricultural waste,0
+2023,HUN,Agricultural waste,0
+2023,IRL,Agricultural waste,0
+2023,ITA,Agricultural waste,0
+2023,LVA,Agricultural waste,0
+2023,LTU,Agricultural waste,0
+2023,LUX,Agricultural waste,0
+2023,MLT,Agricultural waste,0
+2023,NLD,Agricultural waste,0
+2023,POL,Agricultural waste,0
+2023,PRT,Agricultural waste,0
+2023,ROU,Agricultural waste,0
+2023,SVK,Agricultural waste,0
+2023,SVN,Agricultural waste,0
+2023,ESP,Agricultural waste,0
+2023,SWE,Agricultural waste,0
+2023,AUT,Agroecology,0
+2023,BEL,Agroecology,0
+2023,BGR,Agroecology,0
+2023,HRV,Agroecology,0
+2023,CYP,Agroecology,0
+2023,CZE,Agroecology,0
+2023,DNK,Agroecology,0
+2023,EST,Agroecology,0
+2023,FIN,Agroecology,0
+2023,FRA,Agroecology,0
+2023,DEU,Agroecology,0
+2023,GRC,Agroecology,0
+2023,HUN,Agroecology,0
+2023,IRL,Agroecology,0
+2023,ITA,Agroecology,0
+2023,LVA,Agroecology,0
+2023,LTU,Agroecology,0
+2023,LUX,Agroecology,0
+2023,MLT,Agroecology,0
+2023,NLD,Agroecology,0
+2023,POL,Agroecology,0
+2023,PRT,Agroecology,0
+2023,ROU,Agroecology,0
+2023,SVK,Agroecology,0
+2023,SVN,Agroecology,0
+2023,ESP,Agroecology,0
+2023,SWE,Agroecology,0
+2023,AUT,Agroforestry,0
+2023,BEL,Agroforestry,0
+2023,BGR,Agroforestry,0
+2023,HRV,Agroforestry,0
+2023,CYP,Agroforestry,0
+2023,CZE,Agroforestry,0
+2023,DNK,Agroforestry,0
+2023,EST,Agroforestry,0
+2023,FIN,Agroforestry,0
+2023,FRA,Agroforestry,0
+2023,DEU,Agroforestry,0
+2023,GRC,Agroforestry,0
+2023,HUN,Agroforestry,0
+2023,IRL,Agroforestry,0
+2023,ITA,Agroforestry,0
+2023,LVA,Agroforestry,0
+2023,LTU,Agroforestry,0
+2023,LUX,Agroforestry,0
+2023,MLT,Agroforestry,0
+2023,NLD,Agroforestry,0
+2023,POL,Agroforestry,0
+2023,PRT,Agroforestry,0
+2023,ROU,Agroforestry,0
+2023,SVK,Agroforestry,0
+2023,SVN,Agroforestry,0
+2023,ESP,Agroforestry,0
+2023,SWE,Agroforestry,0
+2023,AUT,Climate smart agriculture,0
+2023,BEL,Climate smart agriculture,0
+2023,BGR,Climate smart agriculture,0
+2023,HRV,Climate smart agriculture,0
+2023,CYP,Climate smart agriculture,0
+2023,CZE,Climate smart agriculture,0
+2023,DNK,Climate smart agriculture,0
+2023,EST,Climate smart agriculture,0
+2023,FIN,Climate smart agriculture,0
+2023,FRA,Climate smart agriculture,0
+2023,DEU,Climate smart agriculture,0
+2023,GRC,Climate smart agriculture,0
+2023,HUN,Climate smart agriculture,0
+2023,IRL,Climate smart agriculture,0
+2023,ITA,Climate smart agriculture,0
+2023,LVA,Climate smart agriculture,0
+2023,LTU,Climate smart agriculture,0
+2023,LUX,Climate smart agriculture,0
+2023,MLT,Climate smart agriculture,0
+2023,NLD,Climate smart agriculture,0
+2023,POL,Climate smart agriculture,0
+2023,PRT,Climate smart agriculture,0
+2023,ROU,Climate smart agriculture,0
+2023,SVK,Climate smart agriculture,0
+2023,SVN,Climate smart agriculture,0
+2023,ESP,Climate smart agriculture,0
+2023,SWE,Climate smart agriculture,0
+2023,AUT,Crops,0
+2023,BEL,Crops,0
+2023,BGR,Crops,0
+2023,HRV,Crops,0
+2023,CYP,Crops,0
+2023,CZE,Crops,0
+2023,DNK,Crops,0
+2023,EST,Crops,0
+2023,FIN,Crops,0
+2023,FRA,Crops,0
+2023,DEU,Crops,0
+2023,GRC,Crops,0
+2023,HUN,Crops,0
+2023,IRL,Crops,0
+2023,ITA,Crops,0
+2023,LVA,Crops,0
+2023,LTU,Crops,0
+2023,LUX,Crops,0
+2023,MLT,Crops,0
+2023,NLD,Crops,0
+2023,POL,Crops,0
+2023,PRT,Crops,0
+2023,ROU,Crops,0
+2023,SVK,Crops,0
+2023,SVN,Crops,0
+2023,ESP,Crops,0
+2023,SWE,Crops,0
+2023,AUT,Diets,0
+2023,BEL,Diets,0
+2023,BGR,Diets,0
+2023,HRV,Diets,0
+2023,CYP,Diets,0
+2023,CZE,Diets,0
+2023,DNK,Diets,0
+2023,EST,Diets,0
+2023,FIN,Diets,0
+2023,FRA,Diets,0
+2023,DEU,Diets,0
+2023,GRC,Diets,0
+2023,HUN,Diets,0
+2023,IRL,Diets,0
+2023,ITA,Diets,0
+2023,LVA,Diets,0
+2023,LTU,Diets,0
+2023,LUX,Diets,0
+2023,MLT,Diets,0
+2023,NLD,Diets,0
+2023,POL,Diets,0
+2023,PRT,Diets,0
+2023,ROU,Diets,0
+2023,SVK,Diets,0
+2023,SVN,Diets,0
+2023,ESP,Diets,0
+2023,SWE,Diets,0
+2023,AUT,Fisheries and aquaculture,0
+2023,BEL,Fisheries and aquaculture,0
+2023,BGR,Fisheries and aquaculture,0
+2023,HRV,Fisheries and aquaculture,0
+2023,CYP,Fisheries and aquaculture,0
+2023,CZE,Fisheries and aquaculture,0
+2023,DNK,Fisheries and aquaculture,0
+2023,EST,Fisheries and aquaculture,0
+2023,FIN,Fisheries and aquaculture,0
+2023,FRA,Fisheries and aquaculture,0
+2023,DEU,Fisheries and aquaculture,0
+2023,GRC,Fisheries and aquaculture,0
+2023,HUN,Fisheries and aquaculture,0
+2023,IRL,Fisheries and aquaculture,0
+2023,ITA,Fisheries and aquaculture,0
+2023,LVA,Fisheries and aquaculture,0
+2023,LTU,Fisheries and aquaculture,0
+2023,LUX,Fisheries and aquaculture,0
+2023,MLT,Fisheries and aquaculture,0
+2023,NLD,Fisheries and aquaculture,0
+2023,POL,Fisheries and aquaculture,0
+2023,PRT,Fisheries and aquaculture,0
+2023,ROU,Fisheries and aquaculture,0
+2023,SVK,Fisheries and aquaculture,0
+2023,SVN,Fisheries and aquaculture,0
+2023,ESP,Fisheries and aquaculture,0
+2023,SWE,Fisheries and aquaculture,0
+2023,AUT,Food security,0
+2023,BEL,Food security,0
+2023,BGR,Food security,0
+2023,HRV,Food security,0
+2023,CYP,Food security,0
+2023,CZE,Food security,0
+2023,DNK,Food security,0
+2023,EST,Food security,0
+2023,FIN,Food security,0
+2023,FRA,Food security,0
+2023,DEU,Food security,0
+2023,GRC,Food security,0
+2023,HUN,Food security,0
+2023,IRL,Food security,0
+2023,ITA,Food security,0
+2023,LVA,Food security,0
+2023,LTU,Food security,0
+2023,LUX,Food security,0
+2023,MLT,Food security,0
+2023,NLD,Food security,0
+2023,POL,Food security,0
+2023,PRT,Food security,0
+2023,ROU,Food security,0
+2023,SVK,Food security,0
+2023,SVN,Food security,0
+2023,ESP,Food security,0
+2023,SWE,Food security,0
+2023,AUT,Irrigation,0
+2023,BEL,Irrigation,0
+2023,BGR,Irrigation,0
+2023,HRV,Irrigation,0
+2023,CYP,Irrigation,0
+2023,CZE,Irrigation,0
+2023,DNK,Irrigation,0
+2023,EST,Irrigation,0
+2023,FIN,Irrigation,0
+2023,FRA,Irrigation,0
+2023,DEU,Irrigation,0
+2023,GRC,Irrigation,0
+2023,HUN,Irrigation,0
+2023,IRL,Irrigation,0
+2023,ITA,Irrigation,0
+2023,LVA,Irrigation,0
+2023,LTU,Irrigation,0
+2023,LUX,Irrigation,0
+2023,MLT,Irrigation,0
+2023,NLD,Irrigation,0
+2023,POL,Irrigation,0
+2023,PRT,Irrigation,0
+2023,ROU,Irrigation,0
+2023,SVK,Irrigation,0
+2023,SVN,Irrigation,0
+2023,ESP,Irrigation,0
+2023,SWE,Irrigation,0
+2023,AUT,Land and soil management,0
+2023,BEL,Land and soil management,0
+2023,BGR,Land and soil management,0
+2023,HRV,Land and soil management,0
+2023,CYP,Land and soil management,0
+2023,CZE,Land and soil management,0
+2023,DNK,Land and soil management,0
+2023,EST,Land and soil management,0
+2023,FIN,Land and soil management,0
+2023,FRA,Land and soil management,0
+2023,DEU,Land and soil management,0
+2023,GRC,Land and soil management,0
+2023,HUN,Land and soil management,0
+2023,IRL,Land and soil management,0
+2023,ITA,Land and soil management,0
+2023,LVA,Land and soil management,0
+2023,LTU,Land and soil management,0
+2023,LUX,Land and soil management,0
+2023,MLT,Land and soil management,0
+2023,NLD,Land and soil management,0
+2023,POL,Land and soil management,0
+2023,PRT,Land and soil management,0
+2023,ROU,Land and soil management,0
+2023,SVK,Land and soil management,0
+2023,SVN,Land and soil management,0
+2023,ESP,Land and soil management,0
+2023,SWE,Land and soil management,0
+2023,AUT,Livestock,0
+2023,BEL,Livestock,0
+2023,BGR,Livestock,0
+2023,HRV,Livestock,0
+2023,CYP,Livestock,0
+2023,CZE,Livestock,0
+2023,DNK,Livestock,0
+2023,EST,Livestock,0
+2023,FIN,Livestock,0
+2023,FRA,Livestock,0
+2023,DEU,Livestock,0
+2023,GRC,Livestock,0
+2023,HUN,Livestock,0
+2023,IRL,Livestock,0
+2023,ITA,Livestock,0
+2023,LVA,Livestock,0
+2023,LTU,Livestock,0
+2023,LUX,Livestock,0
+2023,MLT,Livestock,0
+2023,NLD,Livestock,0
+2023,POL,Livestock,0
+2023,PRT,Livestock,0
+2023,ROU,Livestock,0
+2023,SVK,Livestock,0
+2023,SVN,Livestock,0
+2023,ESP,Livestock,0
+2023,SWE,Livestock,0
+2023,AUT,Reducing food loss and waste,0
+2023,BEL,Reducing food loss and waste,0
+2023,BGR,Reducing food loss and waste,0
+2023,HRV,Reducing food loss and waste,0
+2023,CYP,Reducing food loss and waste,0
+2023,CZE,Reducing food loss and waste,0
+2023,DNK,Reducing food loss and waste,0
+2023,EST,Reducing food loss and waste,0
+2023,FIN,Reducing food loss and waste,0
+2023,FRA,Reducing food loss and waste,0
+2023,DEU,Reducing food loss and waste,0
+2023,GRC,Reducing food loss and waste,0
+2023,HUN,Reducing food loss and waste,0
+2023,IRL,Reducing food loss and waste,0
+2023,ITA,Reducing food loss and waste,0
+2023,LVA,Reducing food loss and waste,0
+2023,LTU,Reducing food loss and waste,0
+2023,LUX,Reducing food loss and waste,0
+2023,MLT,Reducing food loss and waste,0
+2023,NLD,Reducing food loss and waste,0
+2023,POL,Reducing food loss and waste,0
+2023,PRT,Reducing food loss and waste,0
+2023,ROU,Reducing food loss and waste,0
+2023,SVK,Reducing food loss and waste,0
+2023,SVN,Reducing food loss and waste,0
+2023,ESP,Reducing food loss and waste,0
+2023,SWE,Reducing food loss and waste,0
+2023,AUT,Rice cultivation,0
+2023,BEL,Rice cultivation,0
+2023,BGR,Rice cultivation,0
+2023,HRV,Rice cultivation,0
+2023,CYP,Rice cultivation,0
+2023,CZE,Rice cultivation,0
+2023,DNK,Rice cultivation,0
+2023,EST,Rice cultivation,0
+2023,FIN,Rice cultivation,0
+2023,FRA,Rice cultivation,0
+2023,DEU,Rice cultivation,0
+2023,GRC,Rice cultivation,0
+2023,HUN,Rice cultivation,0
+2023,IRL,Rice cultivation,0
+2023,ITA,Rice cultivation,0
+2023,LVA,Rice cultivation,0
+2023,LTU,Rice cultivation,0
+2023,LUX,Rice cultivation,0
+2023,MLT,Rice cultivation,0
+2023,NLD,Rice cultivation,0
+2023,POL,Rice cultivation,0
+2023,PRT,Rice cultivation,0
+2023,ROU,Rice cultivation,0
+2023,SVK,Rice cultivation,0
+2023,SVN,Rice cultivation,0
+2023,ESP,Rice cultivation,0
+2023,SWE,Rice cultivation,0
+2023,AUT,Soil carbon sequestration,0
+2023,BEL,Soil carbon sequestration,0
+2023,BGR,Soil carbon sequestration,0
+2023,HRV,Soil carbon sequestration,0
+2023,CYP,Soil carbon sequestration,0
+2023,CZE,Soil carbon sequestration,0
+2023,DNK,Soil carbon sequestration,0
+2023,EST,Soil carbon sequestration,0
+2023,FIN,Soil carbon sequestration,0
+2023,FRA,Soil carbon sequestration,0
+2023,DEU,Soil carbon sequestration,0
+2023,GRC,Soil carbon sequestration,0
+2023,HUN,Soil carbon sequestration,0
+2023,IRL,Soil carbon sequestration,0
+2023,ITA,Soil carbon sequestration,0
+2023,LVA,Soil carbon sequestration,0
+2023,LTU,Soil carbon sequestration,0
+2023,LUX,Soil carbon sequestration,0
+2023,MLT,Soil carbon sequestration,0
+2023,NLD,Soil carbon sequestration,0
+2023,POL,Soil carbon sequestration,0
+2023,PRT,Soil carbon sequestration,0
+2023,ROU,Soil carbon sequestration,0
+2023,SVK,Soil carbon sequestration,0
+2023,SVN,Soil carbon sequestration,0
+2023,ESP,Soil carbon sequestration,0
+2023,SWE,Soil carbon sequestration,0
+2023,AUT,Soil fertilization emissions,0
+2023,BEL,Soil fertilization emissions,0
+2023,BGR,Soil fertilization emissions,0
+2023,HRV,Soil fertilization emissions,0
+2023,CYP,Soil fertilization emissions,0
+2023,CZE,Soil fertilization emissions,0
+2023,DNK,Soil fertilization emissions,0
+2023,EST,Soil fertilization emissions,0
+2023,FIN,Soil fertilization emissions,0
+2023,FRA,Soil fertilization emissions,0
+2023,DEU,Soil fertilization emissions,0
+2023,GRC,Soil fertilization emissions,0
+2023,HUN,Soil fertilization emissions,0
+2023,IRL,Soil fertilization emissions,0
+2023,ITA,Soil fertilization emissions,0
+2023,LVA,Soil fertilization emissions,0
+2023,LTU,Soil fertilization emissions,0
+2023,LUX,Soil fertilization emissions,0
+2023,MLT,Soil fertilization emissions,0
+2023,NLD,Soil fertilization emissions,0
+2023,POL,Soil fertilization emissions,0
+2023,PRT,Soil fertilization emissions,0
+2023,ROU,Soil fertilization emissions,0
+2023,SVK,Soil fertilization emissions,0
+2023,SVN,Soil fertilization emissions,0
+2023,ESP,Soil fertilization emissions,0
+2023,SWE,Soil fertilization emissions,0
