@@ -1,47 +1,47 @@
 year,geo,disagg,value
-2012,WLD,Private,0.097
-2012,WLD,Public ,0.002
-2012,WLD,Philanthropic,0.008
-2012,WLD,Total,0.108
-2013,WLD,Private,0.739
-2013,WLD,Public ,0.01
-2013,WLD,Philanthropic,0.016
-2013,WLD,Total,0.765
-2014,WLD,Private,0.207
-2014,WLD,Philanthropic,0.011
-2014,WLD,Total,0.218
-2015,WLD,Private,0.899
-2015,WLD,Public ,0.002
-2015,WLD,Philanthropic,0.015
-2015,WLD,Total,0.916
-2016,WLD,Private,0.221
-2016,WLD,Public ,0.008
-2016,WLD,Philanthropic,0.021
-2016,WLD,Total,0.25
-2017,WLD,Private,0.749
-2017,WLD,Public ,0.003
-2017,WLD,Philanthropic,0.026
-2017,WLD,Total,0.778
-2018,WLD,Private,1.29
-2018,WLD,Public ,0.003
-2018,WLD,Philanthropic,0.018
-2018,WLD,Total,1.31
-2019,WLD,Private,0.463
-2019,WLD,Public ,0.005
-2019,WLD,Philanthropic,0.039
-2019,WLD,Total,0.508
-2020,WLD,Private,1.01
-2020,WLD,Public ,0.011
-2020,WLD,Philanthropic,0.017
-2020,WLD,Total,1.04
-2021,WLD,Private,1.95
-2021,WLD,Public ,0.01
-2021,WLD,Philanthropic,0
-2021,WLD,Total,1.96
-2022,WLD,Private,1.84
-2022,WLD,Public ,0.001
-2022,WLD,Philanthropic,0.004
-2022,WLD,Total,1.85
-2023,WLD,Private,1.22
-2023,WLD,Philanthropic,0.006
-2023,WLD,Total,1.23
+2012,USA,Private,0.097
+2012,USA,Public ,0.002
+2012,USA,Philanthropic,0.008
+2012,USA,Total,0.108
+2013,USA,Private,0.739
+2013,USA,Public ,0.01
+2013,USA,Philanthropic,0.016
+2013,USA,Total,0.765
+2014,USA,Private,0.207
+2014,USA,Philanthropic,0.011
+2014,USA,Total,0.218
+2015,USA,Private,0.899
+2015,USA,Public ,0.002
+2015,USA,Philanthropic,0.015
+2015,USA,Total,0.916
+2016,USA,Private,0.221
+2016,USA,Public ,0.008
+2016,USA,Philanthropic,0.021
+2016,USA,Total,0.25
+2017,USA,Private,0.749
+2017,USA,Public ,0.003
+2017,USA,Philanthropic,0.026
+2017,USA,Total,0.778
+2018,USA,Private,1.29
+2018,USA,Public ,0.003
+2018,USA,Philanthropic,0.018
+2018,USA,Total,1.31
+2019,USA,Private,0.463
+2019,USA,Public ,0.005
+2019,USA,Philanthropic,0.039
+2019,USA,Total,0.508
+2020,USA,Private,1.01
+2020,USA,Public ,0.011
+2020,USA,Philanthropic,0.017
+2020,USA,Total,1.04
+2021,USA,Private,1.95
+2021,USA,Public ,0.01
+2021,USA,Philanthropic,0
+2021,USA,Total,1.96
+2022,USA,Private,1.84
+2022,USA,Public ,0.001
+2022,USA,Philanthropic,0.004
+2022,USA,Total,1.85
+2023,USA,Private,1.22
+2023,USA,Philanthropic,0.006
+2023,USA,Total,1.23
