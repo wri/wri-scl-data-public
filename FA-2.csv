@@ -5,6 +5,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2015,WLD,Total,1179235,,,,
 2019,WLD,Total,1215363,,,,
 2024,WLD,Total,,1588655.6,,,
+2050,WLD,Total,,,,781000,
 2007,WLD,Expansion,78943,,,,
 2011,WLD,Expansion,130093,,,,
 2015,WLD,Expansion,182097,,,,
