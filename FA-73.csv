@@ -2,551 +2,336 @@
 1998,WLD,Total,1
 2003,WLD,Total,2
 2010,WLD,Total,3
-2011,WLD,Total,6.1
-2013,WLD,Total,9.1
-2014,WLD,Total,12.1
-2015,WLD,Total,19.2
-2016,WLD,Total,24.2
-2017,WLD,Total,28.3
-2018,WLD,Total,32.3
-2019,WLD,Total,35.4
-2020,WLD,Total,38.4
+2011,WLD,Total,6
+2013,WLD,Total,9
+2014,WLD,Total,12
+2015,WLD,Total,19
+2016,WLD,Total,24
+2017,WLD,Total,28
+2018,WLD,Total,32
+2019,WLD,Total,35
+2020,WLD,Total,38
 2014,WLD,Consumer-facing FBDGs include env. impacts,1
 2015,WLD,Consumer-facing FBDGs include env. impacts,3
-2016,WLD,Consumer-facing FBDGs include env. impacts,5.1
-2017,WLD,Consumer-facing FBDGs include env. impacts,7.1
-2019,WLD,Consumer-facing FBDGs include env. impacts,8.1
-2020,WLD,Consumer-facing FBDGs include env. impacts,9.1
+2016,WLD,Consumer-facing FBDGs include env. impacts,5
+2017,WLD,Consumer-facing FBDGs include env. impacts,7
+2019,WLD,Consumer-facing FBDGs include env. impacts,8
+2020,WLD,Consumer-facing FBDGs include env. impacts,9
 2011,WLD,Background docs for FBDGs include env. impacts,1
 2013,WLD,Background docs for FBDGs include env. impacts,3
 2014,WLD,Background docs for FBDGs include env. impacts,4
-2015,WLD,Background docs for FBDGs include env. impacts,9.1
-2016,WLD,Background docs for FBDGs include env. impacts,10.1
-2017,WLD,Background docs for FBDGs include env. impacts,11.1
-2018,WLD,Background docs for FBDGs include env. impacts,12.1
-2019,WLD,Background docs for FBDGs include env. impacts,15.2
-2020,WLD,Background docs for FBDGs include env. impacts,19.2
+2015,WLD,Background docs for FBDGs include env. impacts,9
+2016,WLD,Background docs for FBDGs include env. impacts,10
+2017,WLD,Background docs for FBDGs include env. impacts,11
+2018,WLD,Background docs for FBDGs include env. impacts,12
+2019,WLD,Background docs for FBDGs include env. impacts,15
+2020,WLD,Background docs for FBDGs include env. impacts,19
 1998,WLD,FBDGs include plant-based dietary patterns,1
 2003,WLD,FBDGs include plant-based dietary patterns,2
 2010,WLD,FBDGs include plant-based dietary patterns,3
-2011,WLD,FBDGs include plant-based dietary patterns,5.1
-2013,WLD,FBDGs include plant-based dietary patterns,8.1
-2014,WLD,FBDGs include plant-based dietary patterns,10.1
-2015,WLD,FBDGs include plant-based dietary patterns,13.1
-2016,WLD,FBDGs include plant-based dietary patterns,17.2
-2017,WLD,FBDGs include plant-based dietary patterns,19.2
-2018,WLD,FBDGs include plant-based dietary patterns,24.2
-2019,WLD,FBDGs include plant-based dietary patterns,26.3
-2020,WLD,FBDGs include plant-based dietary patterns,28.3
-2021,WLD,FBDGs include plant-based dietary patterns,29.3
-1998,THA,Total,1
-2003,THA,Total,1
-2003,PRT,Total,1
-2010,THA,Total,1
-2010,PRT,Total,1
-2010,MYS,Total,1
-2011,THA,Total,1
-2011,PRT,Total,1
-2011,MYS,Total,1
-2011,BEL,Total,1
-2011,NOR,Total,1
-2011,LKA,Total,1
-2013,THA,Total,1
-2013,PRT,Total,1
-2013,MYS,Total,1
-2013,BEL,Total,1
-2013,NOR,Total,1
-2013,LKA,Total,1
-2013,AUS,Total,1
-2013,LBN,Total,1
-2013,ZAF,Total,1
-2014,THA,Total,1
-2014,PRT,Total,1
-2014,MYS,Total,1
-2014,BEL,Total,1
-2014,NOR,Total,1
-2014,LKA,Total,1
-2014,AUS,Total,1
-2014,LBN,Total,1
-2014,ZAF,Total,1
-2014,GRC,Total,1
-2014,FIN,Total,1
-2014,MKD,Total,1
-2015,THA,Total,1
-2015,PRT,Total,1
-2015,MYS,Total,1
-2015,BEL,Total,1
-2015,NOR,Total,1
-2015,LKA,Total,1
-2015,AUS,Total,1
-2015,LBN,Total,1
-2015,ZAF,Total,1
-2015,GRC,Total,1
-2015,FIN,Total,1
-2015,MKD,Total,1
-2015,COL,Total,1
-2015,BRA,Total,1
-2015,MEX,Total,1
-2015,NLD,Total,1
-2015,QAT,Total,1
-2015,SVN,Total,1
-2015,SWE,Total,1
-2016,THA,Total,1
-2016,PRT,Total,1
-2016,MYS,Total,1
-2016,BEL,Total,1
-2016,NOR,Total,1
-2016,LKA,Total,1
-2016,AUS,Total,1
-2016,LBN,Total,1
-2016,ZAF,Total,1
-2016,GRC,Total,1
-2016,FIN,Total,1
-2016,MKD,Total,1
-2016,COL,Total,1
-2016,BRA,Total,1
-2016,MEX,Total,1
-2016,NLD,Total,1
-2016,QAT,Total,1
-2016,SVN,Total,1
-2016,SWE,Total,1
-2016,URY,Total,1
-2016,ARG,Total,1
-2016,MLT,Total,1
-2016,CHE,Total,1
-2016,TUR,Total,1
-2017,THA,Total,1
-2017,PRT,Total,1
-2017,MYS,Total,1
-2017,BEL,Total,1
-2017,NOR,Total,1
-2017,LKA,Total,1
-2017,AUS,Total,1
-2017,LBN,Total,1
-2017,ZAF,Total,1
-2017,GRC,Total,1
-2017,FIN,Total,1
-2017,MKD,Total,1
-2017,COL,Total,1
-2017,BRA,Total,1
-2017,MEX,Total,1
-2017,NLD,Total,1
-2017,QAT,Total,1
-2017,SVN,Total,1
-2017,SWE,Total,1
-2017,URY,Total,1
-2017,ARG,Total,1
-2017,MLT,Total,1
-2017,CHE,Total,1
-2017,TUR,Total,1
-2017,DEU,Total,1
-2017,ISL,Total,1
-2017,IDN,Total,1
-2017,EST,Total,1
-2018,THA,Total,1
-2018,PRT,Total,1
-2018,MYS,Total,1
-2018,BEL,Total,1
-2018,NOR,Total,1
-2018,LKA,Total,1
-2018,AUS,Total,1
-2018,LBN,Total,1
-2018,ZAF,Total,1
-2018,GRC,Total,1
-2018,FIN,Total,1
-2018,MKD,Total,1
-2018,COL,Total,1
-2018,BRA,Total,1
-2018,MEX,Total,1
-2018,NLD,Total,1
-2018,QAT,Total,1
-2018,SVN,Total,1
-2018,SWE,Total,1
-2018,URY,Total,1
-2018,ARG,Total,1
-2018,MLT,Total,1
-2018,CHE,Total,1
-2018,TUR,Total,1
-2018,DEU,Total,1
-2018,ISL,Total,1
-2018,IDN,Total,1
-2018,EST,Total,1
-2018,HKG,Total,1
-2018,ECU,Total,1
-2018,ITA,Total,1
-2018,GBR,Total,1
-2019,THA,Total,1
-2019,PRT,Total,1
-2019,MYS,Total,1
-2019,BEL,Total,1
-2019,NOR,Total,1
-2019,LKA,Total,1
-2019,AUS,Total,1
-2019,LBN,Total,1
-2019,ZAF,Total,1
-2019,GRC,Total,1
-2019,FIN,Total,1
-2019,MKD,Total,1
-2019,COL,Total,1
-2019,BRA,Total,1
-2019,MEX,Total,1
-2019,NLD,Total,1
-2019,QAT,Total,1
-2019,SVN,Total,1
-2019,SWE,Total,1
-2019,URY,Total,1
-2019,ARG,Total,1
-2019,MLT,Total,1
-2019,CHE,Total,1
-2019,TUR,Total,1
-2019,DEU,Total,1
-2019,ISL,Total,1
-2019,IDN,Total,1
-2019,EST,Total,1
-2019,HKG,Total,1
-2019,ECU,Total,1
-2019,ITA,Total,1
-2019,GBR,Total,1
-2019,PER,Total,1
-2019,CAN,Total,1
-2019,ISR,Total,1
-2020,THA,Total,1
-2020,PRT,Total,1
-2020,MYS,Total,1
-2020,BEL,Total,1
-2020,NOR,Total,1
-2020,LKA,Total,1
-2020,AUS,Total,1
-2020,LBN,Total,1
-2020,ZAF,Total,1
-2020,GRC,Total,1
-2020,FIN,Total,1
-2020,MKD,Total,1
-2020,COL,Total,1
-2020,BRA,Total,1
-2020,MEX,Total,1
-2020,NLD,Total,1
-2020,QAT,Total,1
-2020,SVN,Total,1
-2020,SWE,Total,1
-2020,URY,Total,1
-2020,ARG,Total,1
-2020,MLT,Total,1
-2020,CHE,Total,1
-2020,TUR,Total,1
-2020,DEU,Total,1
-2020,ISL,Total,1
-2020,IDN,Total,1
-2020,EST,Total,1
-2020,HKG,Total,1
-2020,ECU,Total,1
-2020,ITA,Total,1
-2020,GBR,Total,1
-2020,PER,Total,1
-2020,CAN,Total,1
-2020,ISR,Total,1
-2020,DNK,Total,1
-2020,NZL,Total,1
-2020,USA,Total,1
-2014,NOR,Consumer-facing FBDGs include env. impacts,1
-2015,NOR,Consumer-facing FBDGs include env. impacts,1
-2015,QAT,Consumer-facing FBDGs include env. impacts,1
-2015,SWE,Consumer-facing FBDGs include env. impacts,1
-2016,NOR,Consumer-facing FBDGs include env. impacts,1
-2016,QAT,Consumer-facing FBDGs include env. impacts,1
-2016,SWE,Consumer-facing FBDGs include env. impacts,1
+2011,WLD,FBDGs include plant-based dietary patterns,5
+2013,WLD,FBDGs include plant-based dietary patterns,8
+2014,WLD,FBDGs include plant-based dietary patterns,10
+2015,WLD,FBDGs include plant-based dietary patterns,13
+2016,WLD,FBDGs include plant-based dietary patterns,17
+2017,WLD,FBDGs include plant-based dietary patterns,19
+2018,WLD,FBDGs include plant-based dietary patterns,24
+2019,WLD,FBDGs include plant-based dietary patterns,26
+2020,WLD,FBDGs include plant-based dietary patterns,28
+2021,WLD,FBDGs include plant-based dietary patterns,29
+2013,ATG,Consumer-facing FBDGs include env. impacts,0
+2010,AUT,Consumer-facing FBDGs include env. impacts,0
+2002,BHS,Consumer-facing FBDGs include env. impacts,0
+2013,BGD,Consumer-facing FBDGs include env. impacts,0
+2017,BRB,Consumer-facing FBDGs include env. impacts,0
+2012,BLZ,Consumer-facing FBDGs include env. impacts,0
+2006,BGR,Consumer-facing FBDGs include env. impacts,0
+2013,CHL,Consumer-facing FBDGs include env. impacts,0
+2009,CUB,Consumer-facing FBDGs include env. impacts,0
+2007,CYP,Consumer-facing FBDGs include env. impacts,0
+2007,DMA,Consumer-facing FBDGs include env. impacts,0
+2009,DOM,Consumer-facing FBDGs include env. impacts,0
+2019,FRA,Consumer-facing FBDGs include env. impacts,0
+2005,GEO,Consumer-facing FBDGs include env. impacts,0
+2008,GRD,Consumer-facing FBDGs include env. impacts,0
+2018,GUY,Consumer-facing FBDGs include env. impacts,0
+2013,HND,Consumer-facing FBDGs include env. impacts,0
+2016,IRL,Consumer-facing FBDGs include env. impacts,0
+2015,JAM,Consumer-facing FBDGs include env. impacts,0
+2016,JPN,Consumer-facing FBDGs include env. impacts,0
+2016,KOR,Consumer-facing FBDGs include env. impacts,0
+2009,OMN,Consumer-facing FBDGs include env. impacts,0
+2012,PHL,Consumer-facing FBDGs include env. impacts,0
+2020,POL,Consumer-facing FBDGs include env. impacts,0
+2010,KNA,Consumer-facing FBDGs include env. impacts,0
+2007,LCA,Consumer-facing FBDGs include env. impacts,0
+2006,VCT,Consumer-facing FBDGs include env. impacts,0
+2006,SYC,Consumer-facing FBDGs include env. impacts,0
+2016,SLE,Consumer-facing FBDGs include env. impacts,0
+2007,VEN,Consumer-facing FBDGs include env. impacts,0
+2008,ALB,Consumer-facing FBDGs include env. impacts,0
+2015,BEN,Consumer-facing FBDGs include env. impacts,0
+2016,CHN,Consumer-facing FBDGs include env. impacts,0
+2012,SLV,Consumer-facing FBDGs include env. impacts,0
+2013,FJI,Consumer-facing FBDGs include env. impacts,0
+2012,GTM,Consumer-facing FBDGs include env. impacts,0
+2020,LVA,Consumer-facing FBDGs include env. impacts,0
+2000,NAM,Consumer-facing FBDGs include env. impacts,0
+2015,PRY,Consumer-facing FBDGs include env. impacts,0
+2013,SAU,Consumer-facing FBDGs include env. impacts,0
+2008,ESP,Consumer-facing FBDGs include env. impacts,0
+2015,COL,Consumer-facing FBDGs include env. impacts,0
+2014,GRC,Consumer-facing FBDGs include env. impacts,0
+2018,PER,Consumer-facing FBDGs include env. impacts,0
 2016,URY,Consumer-facing FBDGs include env. impacts,1
-2016,CHE,Consumer-facing FBDGs include env. impacts,1
-2017,NOR,Consumer-facing FBDGs include env. impacts,1
-2017,QAT,Consumer-facing FBDGs include env. impacts,1
-2017,SWE,Consumer-facing FBDGs include env. impacts,1
-2017,URY,Consumer-facing FBDGs include env. impacts,1
-2017,CHE,Consumer-facing FBDGs include env. impacts,1
+2018,ARG,Consumer-facing FBDGs include env. impacts,0
 2017,DEU,Consumer-facing FBDGs include env. impacts,1
-2017,ISL,Consumer-facing FBDGs include env. impacts,1
-2019,NOR,Consumer-facing FBDGs include env. impacts,1
-2019,QAT,Consumer-facing FBDGs include env. impacts,1
-2019,SWE,Consumer-facing FBDGs include env. impacts,1
-2019,URY,Consumer-facing FBDGs include env. impacts,1
-2019,CHE,Consumer-facing FBDGs include env. impacts,1
-2019,DEU,Consumer-facing FBDGs include env. impacts,1
-2019,ISL,Consumer-facing FBDGs include env. impacts,1
-2019,ITA,Consumer-facing FBDGs include env. impacts,1
-2020,NOR,Consumer-facing FBDGs include env. impacts,1
-2020,QAT,Consumer-facing FBDGs include env. impacts,1
-2020,SWE,Consumer-facing FBDGs include env. impacts,1
-2020,URY,Consumer-facing FBDGs include env. impacts,1
-2020,CHE,Consumer-facing FBDGs include env. impacts,1
-2020,DEU,Consumer-facing FBDGs include env. impacts,1
-2020,ISL,Consumer-facing FBDGs include env. impacts,1
-2020,ITA,Consumer-facing FBDGs include env. impacts,1
+2013,AUS,Consumer-facing FBDGs include env. impacts,0
+2019,BEL,Consumer-facing FBDGs include env. impacts,1
+2019,CAN,Consumer-facing FBDGs include env. impacts,0
+2021,DNK,Consumer-facing FBDGs include env. impacts,0
 2020,FIN,Consumer-facing FBDGs include env. impacts,1
-2011,NOR,Background docs for FBDGs include env. impacts,1
-2013,NOR,Background docs for FBDGs include env. impacts,1
-2013,AUS,Background docs for FBDGs include env. impacts,1
-2013,ZAF,Background docs for FBDGs include env. impacts,1
-2014,NOR,Background docs for FBDGs include env. impacts,1
-2014,AUS,Background docs for FBDGs include env. impacts,1
-2014,ZAF,Background docs for FBDGs include env. impacts,1
-2014,GRC,Background docs for FBDGs include env. impacts,1
-2015,NOR,Background docs for FBDGs include env. impacts,1
-2015,AUS,Background docs for FBDGs include env. impacts,1
-2015,ZAF,Background docs for FBDGs include env. impacts,1
-2015,GRC,Background docs for FBDGs include env. impacts,1
+2017,ISL,Consumer-facing FBDGs include env. impacts,1
+2019,ISR,Consumer-facing FBDGs include env. impacts,0
+2019,ITA,Consumer-facing FBDGs include env. impacts,1
+2013,LBN,Consumer-facing FBDGs include env. impacts,0
+2015,MLT,Consumer-facing FBDGs include env. impacts,0
+2017,NLD,Consumer-facing FBDGs include env. impacts,0
+2021,NZL,Consumer-facing FBDGs include env. impacts,0
+2014,MKD,Consumer-facing FBDGs include env. impacts,0
+2014,NOR,Consumer-facing FBDGs include env. impacts,1
+2003,PRT,Consumer-facing FBDGs include env. impacts,0
+2015,QAT,Consumer-facing FBDGs include env. impacts,1
+2009,SVN,Consumer-facing FBDGs include env. impacts,0
+2011,LKA,Consumer-facing FBDGs include env. impacts,0
+2015,SWE,Consumer-facing FBDGs include env. impacts,1
+2016,CHE,Consumer-facing FBDGs include env. impacts,1
+2007,THA,Consumer-facing FBDGs include env. impacts,0
+2018,GBR,Consumer-facing FBDGs include env. impacts,0
+2015,USA,Consumer-facing FBDGs include env. impacts,0
+2017,EST,Consumer-facing FBDGs include env. impacts,0
+2013,BGD,Background docs for FBDGs include env. impacts,0
+2013,CHL,Background docs for FBDGs include env. impacts,0
+2007,CRI,Background docs for FBDGs include env. impacts,0
+2019,FRA,Background docs for FBDGs include env. impacts,0
+2011,IND,Background docs for FBDGs include env. impacts,0
+2016,IRL,Background docs for FBDGs include env. impacts,0
+2016,JPN,Background docs for FBDGs include env. impacts,0
+2017,KEN,Background docs for FBDGs include env. impacts,0
+2009,OMN,Background docs for FBDGs include env. impacts,0
+2017,POL,Background docs for FBDGs include env. impacts,0
+2016,SLE,Background docs for FBDGs include env. impacts,0
+2010,VEN,Background docs for FBDGs include env. impacts,0
+2014,BOL,Background docs for FBDGs include env. impacts,0
+2012,SLV,Background docs for FBDGs include env. impacts,0
+2012,GTM,Background docs for FBDGs include env. impacts,0
+2000,NAM,Background docs for FBDGs include env. impacts,0
+2006,NGA,Background docs for FBDGs include env. impacts,0
+2015,PRY,Background docs for FBDGs include env. impacts,0
+2013,SAU,Background docs for FBDGs include env. impacts,0
 2015,COL,Background docs for FBDGs include env. impacts,1
+2014,GRC,Background docs for FBDGs include env. impacts,1
+2019,PER,Background docs for FBDGs include env. impacts,1
+2016,URY,Background docs for FBDGs include env. impacts,0
+2016,ARG,Background docs for FBDGs include env. impacts,1
 2015,BRA,Background docs for FBDGs include env. impacts,1
 2015,MEX,Background docs for FBDGs include env. impacts,1
-2015,NLD,Background docs for FBDGs include env. impacts,1
-2015,SWE,Background docs for FBDGs include env. impacts,1
-2016,NOR,Background docs for FBDGs include env. impacts,1
-2016,AUS,Background docs for FBDGs include env. impacts,1
-2016,ZAF,Background docs for FBDGs include env. impacts,1
-2016,GRC,Background docs for FBDGs include env. impacts,1
-2016,COL,Background docs for FBDGs include env. impacts,1
-2016,BRA,Background docs for FBDGs include env. impacts,1
-2016,MEX,Background docs for FBDGs include env. impacts,1
-2016,NLD,Background docs for FBDGs include env. impacts,1
-2016,SWE,Background docs for FBDGs include env. impacts,1
-2016,ARG,Background docs for FBDGs include env. impacts,1
-2017,NOR,Background docs for FBDGs include env. impacts,1
-2017,AUS,Background docs for FBDGs include env. impacts,1
-2017,ZAF,Background docs for FBDGs include env. impacts,1
-2017,GRC,Background docs for FBDGs include env. impacts,1
-2017,COL,Background docs for FBDGs include env. impacts,1
-2017,BRA,Background docs for FBDGs include env. impacts,1
-2017,MEX,Background docs for FBDGs include env. impacts,1
-2017,NLD,Background docs for FBDGs include env. impacts,1
-2017,SWE,Background docs for FBDGs include env. impacts,1
-2017,ARG,Background docs for FBDGs include env. impacts,1
-2017,EST,Background docs for FBDGs include env. impacts,1
-2018,NOR,Background docs for FBDGs include env. impacts,1
-2018,AUS,Background docs for FBDGs include env. impacts,1
-2018,ZAF,Background docs for FBDGs include env. impacts,1
-2018,GRC,Background docs for FBDGs include env. impacts,1
-2018,COL,Background docs for FBDGs include env. impacts,1
-2018,BRA,Background docs for FBDGs include env. impacts,1
-2018,MEX,Background docs for FBDGs include env. impacts,1
-2018,NLD,Background docs for FBDGs include env. impacts,1
-2018,SWE,Background docs for FBDGs include env. impacts,1
-2018,ARG,Background docs for FBDGs include env. impacts,1
-2018,EST,Background docs for FBDGs include env. impacts,1
-2018,FIN,Background docs for FBDGs include env. impacts,1
-2019,NOR,Background docs for FBDGs include env. impacts,1
-2019,AUS,Background docs for FBDGs include env. impacts,1
-2019,ZAF,Background docs for FBDGs include env. impacts,1
-2019,GRC,Background docs for FBDGs include env. impacts,1
-2019,COL,Background docs for FBDGs include env. impacts,1
-2019,BRA,Background docs for FBDGs include env. impacts,1
-2019,MEX,Background docs for FBDGs include env. impacts,1
-2019,NLD,Background docs for FBDGs include env. impacts,1
-2019,SWE,Background docs for FBDGs include env. impacts,1
-2019,ARG,Background docs for FBDGs include env. impacts,1
-2019,EST,Background docs for FBDGs include env. impacts,1
-2019,FIN,Background docs for FBDGs include env. impacts,1
-2019,PER,Background docs for FBDGs include env. impacts,1
+2013,AUS,Background docs for FBDGs include env. impacts,1
 2019,BEL,Background docs for FBDGs include env. impacts,1
 2019,CAN,Background docs for FBDGs include env. impacts,1
-2020,NOR,Background docs for FBDGs include env. impacts,1
-2020,AUS,Background docs for FBDGs include env. impacts,1
-2020,ZAF,Background docs for FBDGs include env. impacts,1
-2020,GRC,Background docs for FBDGs include env. impacts,1
-2020,COL,Background docs for FBDGs include env. impacts,1
-2020,BRA,Background docs for FBDGs include env. impacts,1
-2020,MEX,Background docs for FBDGs include env. impacts,1
-2020,NLD,Background docs for FBDGs include env. impacts,1
-2020,SWE,Background docs for FBDGs include env. impacts,1
-2020,ARG,Background docs for FBDGs include env. impacts,1
-2020,EST,Background docs for FBDGs include env. impacts,1
-2020,FIN,Background docs for FBDGs include env. impacts,1
-2020,PER,Background docs for FBDGs include env. impacts,1
-2020,BEL,Background docs for FBDGs include env. impacts,1
-2020,CAN,Background docs for FBDGs include env. impacts,1
 2020,DNK,Background docs for FBDGs include env. impacts,1
 2020,ECU,Background docs for FBDGs include env. impacts,1
+2018,FIN,Background docs for FBDGs include env. impacts,1
+2016,ISL,Background docs for FBDGs include env. impacts,0
 2020,ITA,Background docs for FBDGs include env. impacts,1
+2016,MLT,Background docs for FBDGs include env. impacts,0
+2015,NLD,Background docs for FBDGs include env. impacts,1
 2020,NZL,Background docs for FBDGs include env. impacts,1
-1998,THA,FBDGs include plant-based dietary patterns,1
-2003,THA,FBDGs include plant-based dietary patterns,1
-2003,PRT,FBDGs include plant-based dietary patterns,1
-2010,THA,FBDGs include plant-based dietary patterns,1
-2010,PRT,FBDGs include plant-based dietary patterns,1
-2010,MYS,FBDGs include plant-based dietary patterns,1
-2011,THA,FBDGs include plant-based dietary patterns,1
-2011,PRT,FBDGs include plant-based dietary patterns,1
-2011,MYS,FBDGs include plant-based dietary patterns,1
-2011,BEL,FBDGs include plant-based dietary patterns,1
-2011,LKA,FBDGs include plant-based dietary patterns,1
-2013,THA,FBDGs include plant-based dietary patterns,1
-2013,PRT,FBDGs include plant-based dietary patterns,1
-2013,MYS,FBDGs include plant-based dietary patterns,1
-2013,BEL,FBDGs include plant-based dietary patterns,1
-2013,LKA,FBDGs include plant-based dietary patterns,1
+2014,MKD,Background docs for FBDGs include env. impacts,1
+2011,NOR,Background docs for FBDGs include env. impacts,1
+2005,PRT,Background docs for FBDGs include env. impacts,0
+2013,ZAF,Background docs for FBDGs include env. impacts,1
+2015,SWE,Background docs for FBDGs include env. impacts,1
+2016,TUR,Background docs for FBDGs include env. impacts,0
+2016,GBR,Background docs for FBDGs include env. impacts,0
+2015,USA,Background docs for FBDGs include env. impacts,0
+2017,EST,Background docs for FBDGs include env. impacts,1
+2016,AFG,FBDGs include plant-based dietary patterns,0
+2012,DZA,FBDGs include plant-based dietary patterns,0
+2013,ATG,FBDGs include plant-based dietary patterns,0
+2019,AUT,FBDGs include plant-based dietary patterns,0
+2002,BHS,FBDGs include plant-based dietary patterns,0
+2012,BHR,FBDGs include plant-based dietary patterns,0
+2013,BGD,FBDGs include plant-based dietary patterns,0
+2017,BRB,FBDGs include plant-based dietary patterns,0
+2012,BLZ,FBDGs include plant-based dietary patterns,0
+2006,BGR,FBDGs include plant-based dietary patterns,0
+2013,CHL,FBDGs include plant-based dietary patterns,0
+2011,CRI,FBDGs include plant-based dietary patterns,0
+2009,CUB,FBDGs include plant-based dietary patterns,0
+2008,CYP,FBDGs include plant-based dietary patterns,0
+2007,DMA,FBDGs include plant-based dietary patterns,0
+2009,DOM,FBDGs include plant-based dietary patterns,0
+2012,EGY,FBDGs include plant-based dietary patterns,0
+2019,FRA,FBDGs include plant-based dietary patterns,0
+2005,GEO,FBDGs include plant-based dietary patterns,0
+2008,GRD,FBDGs include plant-based dietary patterns,0
+2018,GUY,FBDGs include plant-based dietary patterns,0
+2013,HND,FBDGs include plant-based dietary patterns,0
+2011,IND,FBDGs include plant-based dietary patterns,0
+2012,IRQ,FBDGs include plant-based dietary patterns,0
+2016,IRL,FBDGs include plant-based dietary patterns,0
+2015,JAM,FBDGs include plant-based dietary patterns,0
+2016,JPN,FBDGs include plant-based dietary patterns,0
+2012,JOR,FBDGs include plant-based dietary patterns,0
+2017,KEN,FBDGs include plant-based dietary patterns,0
+2016,KOR,FBDGs include plant-based dietary patterns,0
+2012,KWT,FBDGs include plant-based dietary patterns,0
+2010,MNG,FBDGs include plant-based dietary patterns,0
+2017,NPL,FBDGs include plant-based dietary patterns,0
+2009,OMN,FBDGs include plant-based dietary patterns,0
+2013,PAN,FBDGs include plant-based dietary patterns,0
+2012,PHL,FBDGs include plant-based dietary patterns,0
+2020,POL,FBDGs include plant-based dietary patterns,0
+2009,RUS,FBDGs include plant-based dietary patterns,0
+2010,KNA,FBDGs include plant-based dietary patterns,0
+2007,LCA,FBDGs include plant-based dietary patterns,0
+2006,VCT,FBDGs include plant-based dietary patterns,0
+2006,SYC,FBDGs include plant-based dietary patterns,0
+2016,SLE,FBDGs include plant-based dietary patterns,0
+2015,SVK,FBDGs include plant-based dietary patterns,0
+1991,VEN,FBDGs include plant-based dietary patterns,0
+2012,YEM,FBDGs include plant-based dietary patterns,0
+2015,COL,FBDGs include plant-based dietary patterns,0
+2014,GRC,FBDGs include plant-based dietary patterns,0
+2019,PER,FBDGs include plant-based dietary patterns,0
+2016,URY,FBDGs include plant-based dietary patterns,0
 2013,AUS,FBDGs include plant-based dietary patterns,1
-2013,LBN,FBDGs include plant-based dietary patterns,1
-2013,ZAF,FBDGs include plant-based dietary patterns,1
-2014,THA,FBDGs include plant-based dietary patterns,1
-2014,PRT,FBDGs include plant-based dietary patterns,1
-2014,MYS,FBDGs include plant-based dietary patterns,1
-2014,BEL,FBDGs include plant-based dietary patterns,1
-2014,LKA,FBDGs include plant-based dietary patterns,1
-2014,AUS,FBDGs include plant-based dietary patterns,1
-2014,LBN,FBDGs include plant-based dietary patterns,1
-2014,ZAF,FBDGs include plant-based dietary patterns,1
+2011,BEL,FBDGs include plant-based dietary patterns,1
+2019,CAN,FBDGs include plant-based dietary patterns,1
+2018,HKG,FBDGs include plant-based dietary patterns,1
+2021,DNK,FBDGs include plant-based dietary patterns,1
+2018,ECU,FBDGs include plant-based dietary patterns,1
 2014,FIN,FBDGs include plant-based dietary patterns,1
-2014,MKD,FBDGs include plant-based dietary patterns,1
-2015,THA,FBDGs include plant-based dietary patterns,1
-2015,PRT,FBDGs include plant-based dietary patterns,1
-2015,MYS,FBDGs include plant-based dietary patterns,1
-2015,BEL,FBDGs include plant-based dietary patterns,1
-2015,LKA,FBDGs include plant-based dietary patterns,1
-2015,AUS,FBDGs include plant-based dietary patterns,1
-2015,LBN,FBDGs include plant-based dietary patterns,1
-2015,ZAF,FBDGs include plant-based dietary patterns,1
-2015,FIN,FBDGs include plant-based dietary patterns,1
-2015,MKD,FBDGs include plant-based dietary patterns,1
-2015,QAT,FBDGs include plant-based dietary patterns,1
-2015,SVN,FBDGs include plant-based dietary patterns,1
-2015,SWE,FBDGs include plant-based dietary patterns,1
-2016,THA,FBDGs include plant-based dietary patterns,1
-2016,PRT,FBDGs include plant-based dietary patterns,1
-2016,MYS,FBDGs include plant-based dietary patterns,1
-2016,BEL,FBDGs include plant-based dietary patterns,1
-2016,LKA,FBDGs include plant-based dietary patterns,1
-2016,AUS,FBDGs include plant-based dietary patterns,1
-2016,LBN,FBDGs include plant-based dietary patterns,1
-2016,ZAF,FBDGs include plant-based dietary patterns,1
-2016,FIN,FBDGs include plant-based dietary patterns,1
-2016,MKD,FBDGs include plant-based dietary patterns,1
-2016,QAT,FBDGs include plant-based dietary patterns,1
-2016,SVN,FBDGs include plant-based dietary patterns,1
-2016,SWE,FBDGs include plant-based dietary patterns,1
-2016,MLT,FBDGs include plant-based dietary patterns,1
-2016,NOR,FBDGs include plant-based dietary patterns,1
-2016,CHE,FBDGs include plant-based dietary patterns,1
-2016,TUR,FBDGs include plant-based dietary patterns,1
-2017,THA,FBDGs include plant-based dietary patterns,1
-2017,PRT,FBDGs include plant-based dietary patterns,1
-2017,MYS,FBDGs include plant-based dietary patterns,1
-2017,BEL,FBDGs include plant-based dietary patterns,1
-2017,LKA,FBDGs include plant-based dietary patterns,1
-2017,AUS,FBDGs include plant-based dietary patterns,1
-2017,LBN,FBDGs include plant-based dietary patterns,1
-2017,ZAF,FBDGs include plant-based dietary patterns,1
-2017,FIN,FBDGs include plant-based dietary patterns,1
-2017,MKD,FBDGs include plant-based dietary patterns,1
-2017,QAT,FBDGs include plant-based dietary patterns,1
-2017,SVN,FBDGs include plant-based dietary patterns,1
-2017,SWE,FBDGs include plant-based dietary patterns,1
-2017,MLT,FBDGs include plant-based dietary patterns,1
-2017,NOR,FBDGs include plant-based dietary patterns,1
-2017,CHE,FBDGs include plant-based dietary patterns,1
-2017,TUR,FBDGs include plant-based dietary patterns,1
 2017,ISL,FBDGs include plant-based dietary patterns,1
 2017,IDN,FBDGs include plant-based dietary patterns,1
-2018,THA,FBDGs include plant-based dietary patterns,1
-2018,PRT,FBDGs include plant-based dietary patterns,1
-2018,MYS,FBDGs include plant-based dietary patterns,1
-2018,BEL,FBDGs include plant-based dietary patterns,1
-2018,LKA,FBDGs include plant-based dietary patterns,1
-2018,AUS,FBDGs include plant-based dietary patterns,1
-2018,LBN,FBDGs include plant-based dietary patterns,1
-2018,ZAF,FBDGs include plant-based dietary patterns,1
-2018,FIN,FBDGs include plant-based dietary patterns,1
-2018,MKD,FBDGs include plant-based dietary patterns,1
-2018,QAT,FBDGs include plant-based dietary patterns,1
-2018,SVN,FBDGs include plant-based dietary patterns,1
-2018,SWE,FBDGs include plant-based dietary patterns,1
-2018,MLT,FBDGs include plant-based dietary patterns,1
-2018,NOR,FBDGs include plant-based dietary patterns,1
-2018,CHE,FBDGs include plant-based dietary patterns,1
-2018,TUR,FBDGs include plant-based dietary patterns,1
-2018,ISL,FBDGs include plant-based dietary patterns,1
-2018,IDN,FBDGs include plant-based dietary patterns,1
-2018,HKG,FBDGs include plant-based dietary patterns,1
-2018,ECU,FBDGs include plant-based dietary patterns,1
-2018,ITA,FBDGs include plant-based dietary patterns,1
-2018,NLD,FBDGs include plant-based dietary patterns,1
-2018,GBR,FBDGs include plant-based dietary patterns,1
-2019,THA,FBDGs include plant-based dietary patterns,1
-2019,PRT,FBDGs include plant-based dietary patterns,1
-2019,MYS,FBDGs include plant-based dietary patterns,1
-2019,BEL,FBDGs include plant-based dietary patterns,1
-2019,LKA,FBDGs include plant-based dietary patterns,1
-2019,AUS,FBDGs include plant-based dietary patterns,1
-2019,LBN,FBDGs include plant-based dietary patterns,1
-2019,ZAF,FBDGs include plant-based dietary patterns,1
-2019,FIN,FBDGs include plant-based dietary patterns,1
-2019,MKD,FBDGs include plant-based dietary patterns,1
-2019,QAT,FBDGs include plant-based dietary patterns,1
-2019,SVN,FBDGs include plant-based dietary patterns,1
-2019,SWE,FBDGs include plant-based dietary patterns,1
-2019,MLT,FBDGs include plant-based dietary patterns,1
-2019,NOR,FBDGs include plant-based dietary patterns,1
-2019,CHE,FBDGs include plant-based dietary patterns,1
-2019,TUR,FBDGs include plant-based dietary patterns,1
-2019,ISL,FBDGs include plant-based dietary patterns,1
-2019,IDN,FBDGs include plant-based dietary patterns,1
-2019,HKG,FBDGs include plant-based dietary patterns,1
-2019,ECU,FBDGs include plant-based dietary patterns,1
-2019,ITA,FBDGs include plant-based dietary patterns,1
-2019,NLD,FBDGs include plant-based dietary patterns,1
-2019,GBR,FBDGs include plant-based dietary patterns,1
-2019,CAN,FBDGs include plant-based dietary patterns,1
 2019,ISR,FBDGs include plant-based dietary patterns,1
-2020,THA,FBDGs include plant-based dietary patterns,1
-2020,PRT,FBDGs include plant-based dietary patterns,1
-2020,MYS,FBDGs include plant-based dietary patterns,1
-2020,BEL,FBDGs include plant-based dietary patterns,1
-2020,LKA,FBDGs include plant-based dietary patterns,1
-2020,AUS,FBDGs include plant-based dietary patterns,1
-2020,LBN,FBDGs include plant-based dietary patterns,1
-2020,ZAF,FBDGs include plant-based dietary patterns,1
-2020,FIN,FBDGs include plant-based dietary patterns,1
-2020,MKD,FBDGs include plant-based dietary patterns,1
-2020,QAT,FBDGs include plant-based dietary patterns,1
-2020,SVN,FBDGs include plant-based dietary patterns,1
-2020,SWE,FBDGs include plant-based dietary patterns,1
-2020,MLT,FBDGs include plant-based dietary patterns,1
-2020,NOR,FBDGs include plant-based dietary patterns,1
-2020,CHE,FBDGs include plant-based dietary patterns,1
-2020,TUR,FBDGs include plant-based dietary patterns,1
-2020,ISL,FBDGs include plant-based dietary patterns,1
-2020,IDN,FBDGs include plant-based dietary patterns,1
-2020,HKG,FBDGs include plant-based dietary patterns,1
-2020,ECU,FBDGs include plant-based dietary patterns,1
-2020,ITA,FBDGs include plant-based dietary patterns,1
-2020,NLD,FBDGs include plant-based dietary patterns,1
-2020,GBR,FBDGs include plant-based dietary patterns,1
-2020,CAN,FBDGs include plant-based dietary patterns,1
-2020,ISR,FBDGs include plant-based dietary patterns,1
+2018,ITA,FBDGs include plant-based dietary patterns,1
+2013,LBN,FBDGs include plant-based dietary patterns,1
+2010,MYS,FBDGs include plant-based dietary patterns,1
+2016,MLT,FBDGs include plant-based dietary patterns,1
+2018,NLD,FBDGs include plant-based dietary patterns,1
 2020,NZL,FBDGs include plant-based dietary patterns,1
+2014,MKD,FBDGs include plant-based dietary patterns,1
+2016,NOR,FBDGs include plant-based dietary patterns,1
+2003,PRT,FBDGs include plant-based dietary patterns,1
+2015,QAT,FBDGs include plant-based dietary patterns,1
+2015,SVN,FBDGs include plant-based dietary patterns,1
+2013,ZAF,FBDGs include plant-based dietary patterns,1
+2011,LKA,FBDGs include plant-based dietary patterns,1
+2015,SWE,FBDGs include plant-based dietary patterns,1
+2016,CHE,FBDGs include plant-based dietary patterns,1
+1998,THA,FBDGs include plant-based dietary patterns,1
+2016,TUR,FBDGs include plant-based dietary patterns,1
+2018,GBR,FBDGs include plant-based dietary patterns,1
 2020,USA,FBDGs include plant-based dietary patterns,1
-2021,THA,FBDGs include plant-based dietary patterns,1
-2021,PRT,FBDGs include plant-based dietary patterns,1
-2021,MYS,FBDGs include plant-based dietary patterns,1
-2021,BEL,FBDGs include plant-based dietary patterns,1
-2021,LKA,FBDGs include plant-based dietary patterns,1
-2021,AUS,FBDGs include plant-based dietary patterns,1
-2021,LBN,FBDGs include plant-based dietary patterns,1
-2021,ZAF,FBDGs include plant-based dietary patterns,1
-2021,FIN,FBDGs include plant-based dietary patterns,1
-2021,MKD,FBDGs include plant-based dietary patterns,1
-2021,QAT,FBDGs include plant-based dietary patterns,1
-2021,SVN,FBDGs include plant-based dietary patterns,1
-2021,SWE,FBDGs include plant-based dietary patterns,1
-2021,MLT,FBDGs include plant-based dietary patterns,1
-2021,NOR,FBDGs include plant-based dietary patterns,1
-2021,CHE,FBDGs include plant-based dietary patterns,1
-2021,TUR,FBDGs include plant-based dietary patterns,1
-2021,ISL,FBDGs include plant-based dietary patterns,1
-2021,IDN,FBDGs include plant-based dietary patterns,1
-2021,HKG,FBDGs include plant-based dietary patterns,1
-2021,ECU,FBDGs include plant-based dietary patterns,1
-2021,ITA,FBDGs include plant-based dietary patterns,1
-2021,NLD,FBDGs include plant-based dietary patterns,1
-2021,GBR,FBDGs include plant-based dietary patterns,1
-2021,CAN,FBDGs include plant-based dietary patterns,1
-2021,ISR,FBDGs include plant-based dietary patterns,1
-2021,NZL,FBDGs include plant-based dietary patterns,1
-2021,USA,FBDGs include plant-based dietary patterns,1
-2021,DNK,FBDGs include plant-based dietary patterns,1
+2016,AFG,Total,0
+2012,DZA,Total,0
+2013,ATG,Total,0
+2010,AUT,Total,0
+2002,BHS,Total,0
+2012,BHR,Total,0
+2013,BGD,Total,0
+2017,BRB,Total,0
+2012,BLZ,Total,0
+2006,BGR,Total,0
+2013,CHL,Total,0
+2007,CRI,Total,0
+2009,CUB,Total,0
+2007,CYP,Total,0
+2007,DMA,Total,0
+2009,DOM,Total,0
+2012,EGY,Total,0
+2019,FRA,Total,0
+2005,GEO,Total,0
+2008,GRD,Total,0
+2018,GUY,Total,0
+2013,HND,Total,0
+2011,IND,Total,0
+2012,IRQ,Total,0
+2016,IRL,Total,0
+2015,JAM,Total,0
+2016,JPN,Total,0
+2012,JOR,Total,0
+2017,KEN,Total,0
+2016,KOR,Total,0
+2012,KWT,Total,0
+2010,MNG,Total,0
+2017,NPL,Total,0
+2009,OMN,Total,0
+2013,PAN,Total,0
+2012,PHL,Total,0
+2017,POL,Total,0
+2009,RUS,Total,0
+2010,KNA,Total,0
+2007,LCA,Total,0
+2006,VCT,Total,0
+2006,SYC,Total,0
+2016,SLE,Total,0
+2015,SVK,Total,0
+1991,VEN,Total,0
+2012,YEM,Total,0
+2008,ALB,Total,0
+2015,BEN,Total,0
+2014,BOL,Total,0
+2016,CHN,Total,0
+2012,SLV,Total,0
+2014,FJI,Total,0
+2012,GTM,Total,0
+2020,LVA,Total,0
+2016,LUX,Total,0
+2000,NAM,Total,0
+2000,NGA,Total,0
+2018,PAK,Total,0
+2015,PRY,Total,0
+2012,SAU,Total,0
+2008,ESP,Total,0
+2019,ARE,Total,0
+2015,COL,Total,1
+2014,GRC,Total,1
+2019,PER,Total,1
+2016,URY,Total,1
+2016,ARG,Total,1
+2015,BRA,Total,1
+2017,DEU,Total,1
+2015,MEX,Total,1
+2013,AUS,Total,1
+2011,BEL,Total,1
+2019,CAN,Total,1
+2018,HKG,Total,1
+2020,DNK,Total,1
+2018,ECU,Total,1
+2014,FIN,Total,1
+2017,ISL,Total,1
+2017,IDN,Total,1
+2019,ISR,Total,1
+2018,ITA,Total,1
+2013,LBN,Total,1
+2010,MYS,Total,1
+2016,MLT,Total,1
+2015,NLD,Total,1
+2020,NZL,Total,1
+2014,MKD,Total,1
+2011,NOR,Total,1
+2003,PRT,Total,1
+2015,QAT,Total,1
+2015,SVN,Total,1
+2013,ZAF,Total,1
+2011,LKA,Total,1
+2015,SWE,Total,1
+2016,CHE,Total,1
+1998,THA,Total,1
+2016,TUR,Total,1
+2018,GBR,Total,1
+2020,USA,Total,1
+2017,EST,Total,1
