@@ -15,6 +15,6 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2020,WLD,1880,,,,
 2021,WLD,1910,,,,
 2022,WLD,1910,,,,
-2027,WLD,,,,2055,
+2027,WLD,,2055,,,
 2030,WLD,,,1335,1342.5,1350
 2050,WLD,,,0,65,130
