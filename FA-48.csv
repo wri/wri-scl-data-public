@@ -1,2 +1,7 @@
-year,geo,value
-2023,WLD,21
+year,geo,disagg,value
+2023,WLD,Total,16
+2023,WLD,Ag products and commodities,41
+2023,WLD,Animal proteins,28
+2023,WLD,Manufacturers/processors,69
+2023,WLD,Food retailers,17
+2023,WLD,Restaurants and food service,8
