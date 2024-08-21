@@ -1,2 +1,15 @@
-year,geo,value
-2023,WLD,25.3
+year,geo,disagg,value
+2021,WLD,Total,22
+2021,WLD,Agricultural inputs,24
+2021,WLD,Ag products and commodities,18
+2021,WLD,Animal proteins,15
+2021,WLD,Manufacturers/processors,21
+2021,WLD,Food retailers,21
+2021,WLD,Restaurants and food service,23
+2023,WLD,Total,26
+2023,WLD,Agricultural inputs,23
+2023,WLD,Ag products and commodities,24
+2023,WLD,Animal proteins,16
+2023,WLD,Manufacturers/processors,26
+2023,WLD,Food retailers,26
+2023,WLD,Restaurants and food service,38
