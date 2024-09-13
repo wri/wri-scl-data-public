@@ -1,0 +1,169 @@
+year,geo,disagg,value
+1990,WLD,Total,618
+1991,WLD,Total,664
+1992,WLD,Total,747
+1993,WLD,Total,862
+1994,WLD,Total,816
+1995,WLD,Total,925
+1996,WLD,Total,944
+1997,WLD,Total,832
+1998,WLD,Total,1018
+1999,WLD,Total,1066
+2000,WLD,Total,1166
+2001,WLD,Total,1126
+2002,WLD,Total,1270
+2003,WLD,Total,1255
+2004,WLD,Total,1197
+2005,WLD,Total,1336
+2006,WLD,Total,1502
+2007,WLD,Total,1752
+2008,WLD,Total,1875
+2009,WLD,Total,1897
+2010,WLD,Total,2160
+2011,WLD,Total,2306
+2012,WLD,Total,2583
+2013,WLD,Total,2839
+2014,WLD,Total,2617
+2015,WLD,Total,2592
+2016,WLD,Total,2669
+2017,WLD,Total,2491
+1990,WLD,Prevention and recycling,231
+1991,WLD,Prevention and recycling,250
+1992,WLD,Prevention and recycling,267
+1993,WLD,Prevention and recycling,271
+1994,WLD,Prevention and recycling,267
+1995,WLD,Prevention and recycling,290
+1996,WLD,Prevention and recycling,309
+1997,WLD,Prevention and recycling,290
+1998,WLD,Prevention and recycling,357
+1999,WLD,Prevention and recycling,369
+2000,WLD,Prevention and recycling,397
+2001,WLD,Prevention and recycling,359
+2002,WLD,Prevention and recycling,395
+2003,WLD,Prevention and recycling,392
+2004,WLD,Prevention and recycling,387
+2005,WLD,Prevention and recycling,444
+2006,WLD,Prevention and recycling,484
+2007,WLD,Prevention and recycling,586
+2008,WLD,Prevention and recycling,595
+2009,WLD,Prevention and recycling,619
+2010,WLD,Prevention and recycling,680
+2011,WLD,Prevention and recycling,720
+2012,WLD,Prevention and recycling,884
+2013,WLD,Prevention and recycling,959
+2014,WLD,Prevention and recycling,860
+2015,WLD,Prevention and recycling,906
+2016,WLD,Prevention and recycling,902
+2017,WLD,Prevention and recycling,879
+1990,WLD,"Waste prevention (reuse, repair, reduction, durability)",169
+1991,WLD,"Waste prevention (reuse, repair, reduction, durability)",146
+1992,WLD,"Waste prevention (reuse, repair, reduction, durability)",168
+1993,WLD,"Waste prevention (reuse, repair, reduction, durability)",172
+1994,WLD,"Waste prevention (reuse, repair, reduction, durability)",156
+1995,WLD,"Waste prevention (reuse, repair, reduction, durability)",180
+1996,WLD,"Waste prevention (reuse, repair, reduction, durability)",197
+1997,WLD,"Waste prevention (reuse, repair, reduction, durability)",190
+1998,WLD,"Waste prevention (reuse, repair, reduction, durability)",215
+1999,WLD,"Waste prevention (reuse, repair, reduction, durability)",219
+2000,WLD,"Waste prevention (reuse, repair, reduction, durability)",232
+2001,WLD,"Waste prevention (reuse, repair, reduction, durability)",207
+2002,WLD,"Waste prevention (reuse, repair, reduction, durability)",244
+2003,WLD,"Waste prevention (reuse, repair, reduction, durability)",235
+2004,WLD,"Waste prevention (reuse, repair, reduction, durability)",269
+2005,WLD,"Waste prevention (reuse, repair, reduction, durability)",294
+2006,WLD,"Waste prevention (reuse, repair, reduction, durability)",318
+2007,WLD,"Waste prevention (reuse, repair, reduction, durability)",383
+2008,WLD,"Waste prevention (reuse, repair, reduction, durability)",391
+2009,WLD,"Waste prevention (reuse, repair, reduction, durability)",402
+2010,WLD,"Waste prevention (reuse, repair, reduction, durability)",413
+2011,WLD,"Waste prevention (reuse, repair, reduction, durability)",408
+2012,WLD,"Waste prevention (reuse, repair, reduction, durability)",431
+2013,WLD,"Waste prevention (reuse, repair, reduction, durability)",469
+2014,WLD,"Waste prevention (reuse, repair, reduction, durability)",452
+2015,WLD,"Waste prevention (reuse, repair, reduction, durability)",388
+2016,WLD,"Waste prevention (reuse, repair, reduction, durability)",390
+2017,WLD,"Waste prevention (reuse, repair, reduction, durability)",286
+1990,WLD,"Waste recycling (sorting, recycling, recyclability)",62
+1991,WLD,"Waste recycling (sorting, recycling, recyclability)",104
+1992,WLD,"Waste recycling (sorting, recycling, recyclability)",99
+1993,WLD,"Waste recycling (sorting, recycling, recyclability)",99
+1994,WLD,"Waste recycling (sorting, recycling, recyclability)",111
+1995,WLD,"Waste recycling (sorting, recycling, recyclability)",110
+1996,WLD,"Waste recycling (sorting, recycling, recyclability)",112
+1997,WLD,"Waste recycling (sorting, recycling, recyclability)",100
+1998,WLD,"Waste recycling (sorting, recycling, recyclability)",143
+1999,WLD,"Waste recycling (sorting, recycling, recyclability)",149
+2000,WLD,"Waste recycling (sorting, recycling, recyclability)",165
+2001,WLD,"Waste recycling (sorting, recycling, recyclability)",153
+2002,WLD,"Waste recycling (sorting, recycling, recyclability)",151
+2003,WLD,"Waste recycling (sorting, recycling, recyclability)",156
+2004,WLD,"Waste recycling (sorting, recycling, recyclability)",118
+2005,WLD,"Waste recycling (sorting, recycling, recyclability)",150
+2006,WLD,"Waste recycling (sorting, recycling, recyclability)",165
+2007,WLD,"Waste recycling (sorting, recycling, recyclability)",203
+2008,WLD,"Waste recycling (sorting, recycling, recyclability)",204
+2009,WLD,"Waste recycling (sorting, recycling, recyclability)",218
+2010,WLD,"Waste recycling (sorting, recycling, recyclability)",267
+2011,WLD,"Waste recycling (sorting, recycling, recyclability)",313
+2012,WLD,"Waste recycling (sorting, recycling, recyclability)",453
+2013,WLD,"Waste recycling (sorting, recycling, recyclability)",490
+2014,WLD,"Waste recycling (sorting, recycling, recyclability)",408
+2015,WLD,"Waste recycling (sorting, recycling, recyclability)",518
+2016,WLD,"Waste recycling (sorting, recycling, recyclability)",512
+2017,WLD,"Waste recycling (sorting, recycling, recyclability)",593
+1990,WLD,Conversion or disposal of waste and leakage removal,54
+1991,WLD,Conversion or disposal of waste and leakage removal,73
+1992,WLD,Conversion or disposal of waste and leakage removal,93
+1993,WLD,Conversion or disposal of waste and leakage removal,177
+1994,WLD,Conversion or disposal of waste and leakage removal,123
+1995,WLD,Conversion or disposal of waste and leakage removal,169
+1996,WLD,Conversion or disposal of waste and leakage removal,144
+1997,WLD,Conversion or disposal of waste and leakage removal,119
+1998,WLD,Conversion or disposal of waste and leakage removal,146
+1999,WLD,Conversion or disposal of waste and leakage removal,138
+2000,WLD,Conversion or disposal of waste and leakage removal,192
+2001,WLD,Conversion or disposal of waste and leakage removal,191
+2002,WLD,Conversion or disposal of waste and leakage removal,237
+2003,WLD,Conversion or disposal of waste and leakage removal,216
+2004,WLD,Conversion or disposal of waste and leakage removal,163
+2005,WLD,Conversion or disposal of waste and leakage removal,181
+2006,WLD,Conversion or disposal of waste and leakage removal,191
+2007,WLD,Conversion or disposal of waste and leakage removal,192
+2008,WLD,Conversion or disposal of waste and leakage removal,218
+2009,WLD,Conversion or disposal of waste and leakage removal,240
+2010,WLD,Conversion or disposal of waste and leakage removal,317
+2011,WLD,Conversion or disposal of waste and leakage removal,318
+2012,WLD,Conversion or disposal of waste and leakage removal,308
+2013,WLD,Conversion or disposal of waste and leakage removal,319
+2014,WLD,Conversion or disposal of waste and leakage removal,282
+2015,WLD,Conversion or disposal of waste and leakage removal,209
+2016,WLD,Conversion or disposal of waste and leakage removal,292
+2017,WLD,Conversion or disposal of waste and leakage removal,228
+1990,WLD,Biobased feedstock,101
+1991,WLD,Biobased feedstock,92
+1992,WLD,Biobased feedstock,120
+1993,WLD,Biobased feedstock,142
+1994,WLD,Biobased feedstock,159
+1995,WLD,Biobased feedstock,175
+1996,WLD,Biobased feedstock,183
+1997,WLD,Biobased feedstock,134
+1998,WLD,Biobased feedstock,157
+1999,WLD,Biobased feedstock,191
+2000,WLD,Biobased feedstock,181
+2001,WLD,Biobased feedstock,216
+2002,WLD,Biobased feedstock,243
+2003,WLD,Biobased feedstock,256
+2004,WLD,Biobased feedstock,260
+2005,WLD,Biobased feedstock,267
+2006,WLD,Biobased feedstock,344
+2007,WLD,Biobased feedstock,387
+2008,WLD,Biobased feedstock,466
+2009,WLD,Biobased feedstock,419
+2010,WLD,Biobased feedstock,484
+2011,WLD,Biobased feedstock,547
+2012,WLD,Biobased feedstock,506
+2013,WLD,Biobased feedstock,602
+2014,WLD,Biobased feedstock,615
+2015,WLD,Biobased feedstock,571
+2016,WLD,Biobased feedstock,573
+2017,WLD,Biobased feedstock,506
