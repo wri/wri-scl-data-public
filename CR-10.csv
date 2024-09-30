@@ -1,0 +1,277 @@
+year,geo,disagg,value
+2000,WLD,Total,77
+2001,WLD,Total,68
+2002,WLD,Total,104
+2003,WLD,Total,135
+2004,WLD,Total,132
+2005,WLD,Total,162
+2006,WLD,Total,178
+2007,WLD,Total,211
+2008,WLD,Total,249
+2009,WLD,Total,399
+2010,WLD,Total,528
+2011,WLD,Total,638
+2012,WLD,Total,853
+2013,WLD,Total,1066
+2014,WLD,Total,1242
+2015,WLD,Total,1350
+2016,WLD,Total,1457
+2017,WLD,Total,1766
+2018,WLD,Total,2057
+2019,WLD,Total,2531
+2020,WLD,Total,3329
+2021,WLD,Total,3923
+2022,WLD,Total,4673
+2000,WLD,Afforestation and Reforestation,34
+2001,WLD,Afforestation and Reforestation,26
+2002,WLD,Afforestation and Reforestation,39
+2003,WLD,Afforestation and Reforestation,52
+2004,WLD,Afforestation and Reforestation,42
+2005,WLD,Afforestation and Reforestation,51
+2006,WLD,Afforestation and Reforestation,56
+2007,WLD,Afforestation and Reforestation,79
+2008,WLD,Afforestation and Reforestation,75
+2009,WLD,Afforestation and Reforestation,105
+2010,WLD,Afforestation and Reforestation,121
+2011,WLD,Afforestation and Reforestation,124
+2012,WLD,Afforestation and Reforestation,127
+2013,WLD,Afforestation and Reforestation,120
+2014,WLD,Afforestation and Reforestation,120
+2015,WLD,Afforestation and Reforestation,134
+2016,WLD,Afforestation and Reforestation,133
+2017,WLD,Afforestation and Reforestation,124
+2018,WLD,Afforestation and Reforestation,127
+2019,WLD,Afforestation and Reforestation,172
+2020,WLD,Afforestation and Reforestation,209
+2021,WLD,Afforestation and Reforestation,238
+2022,WLD,Afforestation and Reforestation,286
+2000,WLD,Biochar,5
+2001,WLD,Biochar,2
+2002,WLD,Biochar,2
+2003,WLD,Biochar,3
+2004,WLD,Biochar,3
+2005,WLD,Biochar,12
+2006,WLD,Biochar,17
+2007,WLD,Biochar,25
+2008,WLD,Biochar,30
+2009,WLD,Biochar,58
+2010,WLD,Biochar,138
+2011,WLD,Biochar,210
+2012,WLD,Biochar,354
+2013,WLD,Biochar,473
+2014,WLD,Biochar,664
+2015,WLD,Biochar,730
+2016,WLD,Biochar,817
+2017,WLD,Biochar,989
+2018,WLD,Biochar,1150
+2019,WLD,Biochar,1466
+2020,WLD,Biochar,1990
+2021,WLD,Biochar,2203
+2022,WLD,Biochar,2692
+2000,WLD,Bioenergy with CCS,1
+2001,WLD,Bioenergy with CCS,3
+2002,WLD,Bioenergy with CCS,3
+2003,WLD,Bioenergy with CCS,10
+2004,WLD,Bioenergy with CCS,6
+2005,WLD,Bioenergy with CCS,11
+2006,WLD,Bioenergy with CCS,8
+2007,WLD,Bioenergy with CCS,10
+2008,WLD,Bioenergy with CCS,15
+2009,WLD,Bioenergy with CCS,30
+2010,WLD,Bioenergy with CCS,31
+2011,WLD,Bioenergy with CCS,47
+2012,WLD,Bioenergy with CCS,42
+2013,WLD,Bioenergy with CCS,60
+2014,WLD,Bioenergy with CCS,64
+2015,WLD,Bioenergy with CCS,52
+2016,WLD,Bioenergy with CCS,52
+2017,WLD,Bioenergy with CCS,101
+2018,WLD,Bioenergy with CCS,121
+2019,WLD,Bioenergy with CCS,121
+2020,WLD,Bioenergy with CCS,136
+2021,WLD,Bioenergy with CCS,185
+2022,WLD,Bioenergy with CCS,177
+2000,WLD,Coastal Wetland Restoration,0
+2001,WLD,Coastal Wetland Restoration,0
+2002,WLD,Coastal Wetland Restoration,1
+2003,WLD,Coastal Wetland Restoration,0
+2004,WLD,Coastal Wetland Restoration,1
+2005,WLD,Coastal Wetland Restoration,2
+2006,WLD,Coastal Wetland Restoration,3
+2007,WLD,Coastal Wetland Restoration,0
+2008,WLD,Coastal Wetland Restoration,2
+2009,WLD,Coastal Wetland Restoration,5
+2010,WLD,Coastal Wetland Restoration,3
+2011,WLD,Coastal Wetland Restoration,11
+2012,WLD,Coastal Wetland Restoration,19
+2013,WLD,Coastal Wetland Restoration,26
+2014,WLD,Coastal Wetland Restoration,26
+2015,WLD,Coastal Wetland Restoration,30
+2016,WLD,Coastal Wetland Restoration,30
+2017,WLD,Coastal Wetland Restoration,52
+2018,WLD,Coastal Wetland Restoration,72
+2019,WLD,Coastal Wetland Restoration,97
+2020,WLD,Coastal Wetland Restoration,117
+2021,WLD,Coastal Wetland Restoration,156
+2022,WLD,Coastal Wetland Restoration,201
+2000,WLD,Direct Air Capture with CCS,1
+2001,WLD,Direct Air Capture with CCS,1
+2002,WLD,Direct Air Capture with CCS,2
+2003,WLD,Direct Air Capture with CCS,2
+2004,WLD,Direct Air Capture with CCS,5
+2005,WLD,Direct Air Capture with CCS,5
+2006,WLD,Direct Air Capture with CCS,2
+2007,WLD,Direct Air Capture with CCS,5
+2008,WLD,Direct Air Capture with CCS,1
+2009,WLD,Direct Air Capture with CCS,6
+2010,WLD,Direct Air Capture with CCS,6
+2011,WLD,Direct Air Capture with CCS,19
+2012,WLD,Direct Air Capture with CCS,11
+2013,WLD,Direct Air Capture with CCS,21
+2014,WLD,Direct Air Capture with CCS,15
+2015,WLD,Direct Air Capture with CCS,14
+2016,WLD,Direct Air Capture with CCS,19
+2017,WLD,Direct Air Capture with CCS,28
+2018,WLD,Direct Air Capture with CCS,40
+2019,WLD,Direct Air Capture with CCS,61
+2020,WLD,Direct Air Capture with CCS,74
+2021,WLD,Direct Air Capture with CCS,103
+2022,WLD,Direct Air Capture with CCS,174
+2000,WLD,Enhanced Weathering,0
+2001,WLD,Enhanced Weathering,0
+2002,WLD,Enhanced Weathering,2
+2003,WLD,Enhanced Weathering,5
+2004,WLD,Enhanced Weathering,1
+2005,WLD,Enhanced Weathering,1
+2006,WLD,Enhanced Weathering,1
+2007,WLD,Enhanced Weathering,3
+2008,WLD,Enhanced Weathering,3
+2009,WLD,Enhanced Weathering,4
+2010,WLD,Enhanced Weathering,7
+2011,WLD,Enhanced Weathering,7
+2012,WLD,Enhanced Weathering,12
+2013,WLD,Enhanced Weathering,12
+2014,WLD,Enhanced Weathering,10
+2015,WLD,Enhanced Weathering,16
+2016,WLD,Enhanced Weathering,4
+2017,WLD,Enhanced Weathering,10
+2018,WLD,Enhanced Weathering,17
+2019,WLD,Enhanced Weathering,22
+2020,WLD,Enhanced Weathering,27
+2021,WLD,Enhanced Weathering,44
+2022,WLD,Enhanced Weathering,58
+2000,WLD,General,1
+2001,WLD,General,2
+2002,WLD,General,2
+2003,WLD,General,3
+2004,WLD,General,3
+2005,WLD,General,0
+2006,WLD,General,3
+2007,WLD,General,4
+2008,WLD,General,6
+2009,WLD,General,16
+2010,WLD,General,17
+2011,WLD,General,24
+2012,WLD,General,21
+2013,WLD,General,38
+2014,WLD,General,19
+2015,WLD,General,29
+2016,WLD,General,30
+2017,WLD,General,44
+2018,WLD,General,68
+2019,WLD,General,69
+2020,WLD,General,93
+2021,WLD,General,152
+2022,WLD,General,128
+2000,WLD,Ocean Alkalinity Enhancement,0
+2001,WLD,Ocean Alkalinity Enhancement,0
+2002,WLD,Ocean Alkalinity Enhancement,2
+2003,WLD,Ocean Alkalinity Enhancement,2
+2004,WLD,Ocean Alkalinity Enhancement,2
+2005,WLD,Ocean Alkalinity Enhancement,1
+2006,WLD,Ocean Alkalinity Enhancement,0
+2007,WLD,Ocean Alkalinity Enhancement,2
+2008,WLD,Ocean Alkalinity Enhancement,3
+2009,WLD,Ocean Alkalinity Enhancement,3
+2010,WLD,Ocean Alkalinity Enhancement,3
+2011,WLD,Ocean Alkalinity Enhancement,3
+2012,WLD,Ocean Alkalinity Enhancement,5
+2013,WLD,Ocean Alkalinity Enhancement,9
+2014,WLD,Ocean Alkalinity Enhancement,4
+2015,WLD,Ocean Alkalinity Enhancement,8
+2016,WLD,Ocean Alkalinity Enhancement,8
+2017,WLD,Ocean Alkalinity Enhancement,16
+2018,WLD,Ocean Alkalinity Enhancement,16
+2019,WLD,Ocean Alkalinity Enhancement,3
+2020,WLD,Ocean Alkalinity Enhancement,12
+2021,WLD,Ocean Alkalinity Enhancement,22
+2022,WLD,Ocean Alkalinity Enhancement,33
+2000,WLD,Ocean Fertilization,6
+2001,WLD,Ocean Fertilization,9
+2002,WLD,Ocean Fertilization,9
+2003,WLD,Ocean Fertilization,13
+2004,WLD,Ocean Fertilization,6
+2005,WLD,Ocean Fertilization,25
+2006,WLD,Ocean Fertilization,23
+2007,WLD,Ocean Fertilization,8
+2008,WLD,Ocean Fertilization,29
+2009,WLD,Ocean Fertilization,31
+2010,WLD,Ocean Fertilization,14
+2011,WLD,Ocean Fertilization,11
+2012,WLD,Ocean Fertilization,5
+2013,WLD,Ocean Fertilization,18
+2014,WLD,Ocean Fertilization,10
+2015,WLD,Ocean Fertilization,8
+2016,WLD,Ocean Fertilization,7
+2017,WLD,Ocean Fertilization,16
+2018,WLD,Ocean Fertilization,12
+2019,WLD,Ocean Fertilization,4
+2020,WLD,Ocean Fertilization,7
+2021,WLD,Ocean Fertilization,17
+2022,WLD,Ocean Fertilization,30
+2000,WLD,Peatland Restoration,4
+2001,WLD,Peatland Restoration,9
+2002,WLD,Peatland Restoration,7
+2003,WLD,Peatland Restoration,3
+2004,WLD,Peatland Restoration,13
+2005,WLD,Peatland Restoration,8
+2006,WLD,Peatland Restoration,8
+2007,WLD,Peatland Restoration,13
+2008,WLD,Peatland Restoration,12
+2009,WLD,Peatland Restoration,22
+2010,WLD,Peatland Restoration,27
+2011,WLD,Peatland Restoration,23
+2012,WLD,Peatland Restoration,25
+2013,WLD,Peatland Restoration,31
+2014,WLD,Peatland Restoration,33
+2015,WLD,Peatland Restoration,29
+2016,WLD,Peatland Restoration,31
+2017,WLD,Peatland Restoration,38
+2018,WLD,Peatland Restoration,63
+2019,WLD,Peatland Restoration,54
+2020,WLD,Peatland Restoration,95
+2021,WLD,Peatland Restoration,103
+2022,WLD,Peatland Restoration,110
+2000,WLD,Soil Carbon Sequestration,26
+2001,WLD,Soil Carbon Sequestration,18
+2002,WLD,Soil Carbon Sequestration,36
+2003,WLD,Soil Carbon Sequestration,43
+2004,WLD,Soil Carbon Sequestration,51
+2005,WLD,Soil Carbon Sequestration,47
+2006,WLD,Soil Carbon Sequestration,58
+2007,WLD,Soil Carbon Sequestration,63
+2008,WLD,Soil Carbon Sequestration,73
+2009,WLD,Soil Carbon Sequestration,118
+2010,WLD,Soil Carbon Sequestration,160
+2011,WLD,Soil Carbon Sequestration,159
+2012,WLD,Soil Carbon Sequestration,231
+2013,WLD,Soil Carbon Sequestration,258
+2014,WLD,Soil Carbon Sequestration,277
+2015,WLD,Soil Carbon Sequestration,300
+2016,WLD,Soil Carbon Sequestration,325
+2017,WLD,Soil Carbon Sequestration,348
+2018,WLD,Soil Carbon Sequestration,370
+2019,WLD,Soil Carbon Sequestration,463
+2020,WLD,Soil Carbon Sequestration,569
+2021,WLD,Soil Carbon Sequestration,700
+2022,WLD,Soil Carbon Sequestration,785
