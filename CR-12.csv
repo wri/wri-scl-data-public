@@ -1,18 +1,19 @@
 year,geo,disagg,value
-2010,WLD,Total,12
-2011,WLD,Total,8
-2012,WLD,Total,7
-2013,WLD,Total,14
-2014,WLD,Total,16
-2015,WLD,Total,11
-2016,WLD,Total,25
-2017,WLD,Total,33
-2018,WLD,Total,47
-2019,WLD,Total,51
-2020,WLD,Total,70
-2021,WLD,Total,78
-2022,WLD,Total,60
-2023,WLD,Total,14
+2009,WLD,Total,3
+2010,WLD,Total,3
+2011,WLD,Total,3
+2012,WLD,Total,2
+2013,WLD,Total,4
+2014,WLD,Total,7
+2015,WLD,Total,4
+2016,WLD,Total,6
+2017,WLD,Total,14
+2018,WLD,Total,9
+2019,WLD,Total,15
+2020,WLD,Total,28
+2021,WLD,Total,39
+2022,WLD,Total,34
+2023,WLD,Total,7
 2009,WLD,Biochar,1
 2011,WLD,Biochar,2
 2012,WLD,Biochar,1
@@ -65,28 +66,8 @@ year,geo,disagg,value
 2009,WLD,Forestry,2
 2010,WLD,Forestry,9
 2011,WLD,Forestry,5
-2012,WLD,Forestry,5
-2013,WLD,Forestry,10
-2014,WLD,Forestry,9
-2015,WLD,Forestry,7
-2016,WLD,Forestry,17
-2017,WLD,Forestry,18
-2018,WLD,Forestry,35
-2019,WLD,Forestry,33
-2020,WLD,Forestry,41
-2021,WLD,Forestry,38
-2022,WLD,Forestry,23
-2023,WLD,Forestry,6
 2017,WLD,Ocean Alkalinity Enhancement,1
 2019,WLD,Ocean Alkalinity Enhancement,3
 2021,WLD,Ocean Alkalinity Enhancement,2
 2022,WLD,Ocean Alkalinity Enhancement,3
 2023,WLD,Ocean Alkalinity Enhancement,1
-2016,WLD,Soil Carbon Sequestration,2
-2017,WLD,Soil Carbon Sequestration,1
-2018,WLD,Soil Carbon Sequestration,3
-2019,WLD,Soil Carbon Sequestration,3
-2020,WLD,Soil Carbon Sequestration,1
-2021,WLD,Soil Carbon Sequestration,1
-2022,WLD,Soil Carbon Sequestration,3
-2023,WLD,Soil Carbon Sequestration,1
