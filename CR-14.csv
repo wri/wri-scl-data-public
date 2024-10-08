@@ -1,70 +1,37 @@
 year,geo,disagg,value
-1990,WLD,Total,49
-1991,WLD,Total,29
-1992,WLD,Total,22
-1993,WLD,Total,16
-1994,WLD,Total,11
-1995,WLD,Total,33
-1996,WLD,Total,24
-1997,WLD,Total,32
-1998,WLD,Total,48
-1999,WLD,Total,38
-2000,WLD,Total,168
-2001,WLD,Total,95
-2002,WLD,Total,76
-2003,WLD,Total,42
-2004,WLD,Total,42
-2005,WLD,Total,72
-2006,WLD,Total,115
-2007,WLD,Total,418
-2008,WLD,Total,302
-2009,WLD,Total,466
-2010,WLD,Total,311
-2011,WLD,Total,266
-2012,WLD,Total,194
-2013,WLD,Total,218
-2014,WLD,Total,215
-2015,WLD,Total,292
-2016,WLD,Total,278
-2017,WLD,Total,227
-2018,WLD,Total,359
-2019,WLD,Total,869
-2020,WLD,Total,728
-2021,WLD,Total,1634
-2022,WLD,Total,1265
-1990,WLD,Afforestation and Reforestation,34
-1991,WLD,Afforestation and Reforestation,7
-1992,WLD,Afforestation and Reforestation,17
-1993,WLD,Afforestation and Reforestation,4
-1994,WLD,Afforestation and Reforestation,6
-1995,WLD,Afforestation and Reforestation,18
-1996,WLD,Afforestation and Reforestation,4
-1997,WLD,Afforestation and Reforestation,24
-1998,WLD,Afforestation and Reforestation,34
-1999,WLD,Afforestation and Reforestation,24
-2000,WLD,Afforestation and Reforestation,133
-2001,WLD,Afforestation and Reforestation,74
-2002,WLD,Afforestation and Reforestation,38
-2003,WLD,Afforestation and Reforestation,18
-2004,WLD,Afforestation and Reforestation,15
-2005,WLD,Afforestation and Reforestation,36
-2006,WLD,Afforestation and Reforestation,76
-2007,WLD,Afforestation and Reforestation,245
-2008,WLD,Afforestation and Reforestation,135
-2009,WLD,Afforestation and Reforestation,153
-2010,WLD,Afforestation and Reforestation,101
-2011,WLD,Afforestation and Reforestation,114
-2012,WLD,Afforestation and Reforestation,27
-2013,WLD,Afforestation and Reforestation,57
-2014,WLD,Afforestation and Reforestation,79
-2015,WLD,Afforestation and Reforestation,107
-2016,WLD,Afforestation and Reforestation,105
-2017,WLD,Afforestation and Reforestation,82
-2018,WLD,Afforestation and Reforestation,149
-2019,WLD,Afforestation and Reforestation,384
-2020,WLD,Afforestation and Reforestation,283
-2021,WLD,Afforestation and Reforestation,394
-2022,WLD,Afforestation and Reforestation,287
+1990,WLD,Total,13
+1991,WLD,Total,19
+1992,WLD,Total,2
+1993,WLD,Total,3
+1994,WLD,Total,3
+1995,WLD,Total,8
+1996,WLD,Total,18
+1997,WLD,Total,4
+1998,WLD,Total,5
+1999,WLD,Total,7
+2000,WLD,Total,21
+2001,WLD,Total,4
+2002,WLD,Total,11
+2003,WLD,Total,5
+2004,WLD,Total,8
+2005,WLD,Total,8
+2006,WLD,Total,10
+2007,WLD,Total,97
+2008,WLD,Total,69
+2009,WLD,Total,159
+2010,WLD,Total,85
+2011,WLD,Total,45
+2012,WLD,Total,88
+2013,WLD,Total,52
+2014,WLD,Total,58
+2015,WLD,Total,68
+2016,WLD,Total,43
+2017,WLD,Total,45
+2018,WLD,Total,72
+2019,WLD,Total,148
+2020,WLD,Total,94
+2021,WLD,Total,351
+2022,WLD,Total,278
 1991,WLD,Biochar,1
 2004,WLD,Biochar,1
 2005,WLD,Biochar,1
@@ -105,35 +72,6 @@ year,geo,disagg,value
 2020,WLD,Bioenergy with CCS,34
 2021,WLD,Bioenergy with CCS,125
 2022,WLD,Bioenergy with CCS,95
-1991,WLD,Coastal Wetland Restoration,1
-1993,WLD,Coastal Wetland Restoration,2
-1994,WLD,Coastal Wetland Restoration,1
-1996,WLD,Coastal Wetland Restoration,1
-1997,WLD,Coastal Wetland Restoration,4
-1999,WLD,Coastal Wetland Restoration,1
-2000,WLD,Coastal Wetland Restoration,2
-2001,WLD,Coastal Wetland Restoration,4
-2002,WLD,Coastal Wetland Restoration,6
-2003,WLD,Coastal Wetland Restoration,3
-2004,WLD,Coastal Wetland Restoration,3
-2005,WLD,Coastal Wetland Restoration,2
-2006,WLD,Coastal Wetland Restoration,10
-2007,WLD,Coastal Wetland Restoration,13
-2008,WLD,Coastal Wetland Restoration,18
-2009,WLD,Coastal Wetland Restoration,25
-2010,WLD,Coastal Wetland Restoration,12
-2011,WLD,Coastal Wetland Restoration,24
-2012,WLD,Coastal Wetland Restoration,22
-2013,WLD,Coastal Wetland Restoration,13
-2014,WLD,Coastal Wetland Restoration,16
-2015,WLD,Coastal Wetland Restoration,36
-2016,WLD,Coastal Wetland Restoration,54
-2017,WLD,Coastal Wetland Restoration,32
-2018,WLD,Coastal Wetland Restoration,62
-2019,WLD,Coastal Wetland Restoration,113
-2020,WLD,Coastal Wetland Restoration,117
-2021,WLD,Coastal Wetland Restoration,287
-2022,WLD,Coastal Wetland Restoration,295
 1991,WLD,Direct Air Capture with CCS,3
 1992,WLD,Direct Air Capture with CCS,1
 1998,WLD,Direct Air Capture with CCS,3
@@ -204,59 +142,3 @@ year,geo,disagg,value
 2020,WLD,Ocean Fertilization,3
 2021,WLD,Ocean Fertilization,11
 2022,WLD,Ocean Fertilization,6
-1991,WLD,Peatland Restoration,2
-1992,WLD,Peatland Restoration,1
-1995,WLD,Peatland Restoration,5
-1998,WLD,Peatland Restoration,5
-1999,WLD,Peatland Restoration,2
-2003,WLD,Peatland Restoration,2
-2004,WLD,Peatland Restoration,5
-2005,WLD,Peatland Restoration,4
-2006,WLD,Peatland Restoration,5
-2007,WLD,Peatland Restoration,27
-2008,WLD,Peatland Restoration,21
-2009,WLD,Peatland Restoration,28
-2010,WLD,Peatland Restoration,32
-2011,WLD,Peatland Restoration,15
-2012,WLD,Peatland Restoration,25
-2013,WLD,Peatland Restoration,51
-2014,WLD,Peatland Restoration,19
-2015,WLD,Peatland Restoration,36
-2016,WLD,Peatland Restoration,46
-2017,WLD,Peatland Restoration,36
-2018,WLD,Peatland Restoration,39
-2019,WLD,Peatland Restoration,136
-2020,WLD,Peatland Restoration,141
-2021,WLD,Peatland Restoration,372
-2022,WLD,Peatland Restoration,254
-1990,WLD,Soil Carbon Sequestration,2
-1992,WLD,Soil Carbon Sequestration,2
-1993,WLD,Soil Carbon Sequestration,7
-1994,WLD,Soil Carbon Sequestration,1
-1995,WLD,Soil Carbon Sequestration,2
-1996,WLD,Soil Carbon Sequestration,1
-1998,WLD,Soil Carbon Sequestration,4
-1999,WLD,Soil Carbon Sequestration,4
-2000,WLD,Soil Carbon Sequestration,12
-2001,WLD,Soil Carbon Sequestration,13
-2002,WLD,Soil Carbon Sequestration,21
-2003,WLD,Soil Carbon Sequestration,14
-2004,WLD,Soil Carbon Sequestration,11
-2005,WLD,Soil Carbon Sequestration,22
-2006,WLD,Soil Carbon Sequestration,14
-2007,WLD,Soil Carbon Sequestration,36
-2008,WLD,Soil Carbon Sequestration,59
-2009,WLD,Soil Carbon Sequestration,101
-2010,WLD,Soil Carbon Sequestration,81
-2011,WLD,Soil Carbon Sequestration,68
-2012,WLD,Soil Carbon Sequestration,32
-2013,WLD,Soil Carbon Sequestration,45
-2014,WLD,Soil Carbon Sequestration,43
-2015,WLD,Soil Carbon Sequestration,45
-2016,WLD,Soil Carbon Sequestration,30
-2017,WLD,Soil Carbon Sequestration,32
-2018,WLD,Soil Carbon Sequestration,37
-2019,WLD,Soil Carbon Sequestration,88
-2020,WLD,Soil Carbon Sequestration,93
-2021,WLD,Soil Carbon Sequestration,230
-2022,WLD,Soil Carbon Sequestration,151
