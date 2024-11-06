@@ -1,0 +1,185 @@
+year,geo,disagg,value
+2000,WLD,Total,13
+2001,WLD,Total,15
+2002,WLD,Total,21
+2003,WLD,Total,37
+2004,WLD,Total,26
+2005,WLD,Total,54
+2006,WLD,Total,53
+2007,WLD,Total,56
+2008,WLD,Total,87
+2009,WLD,Total,148
+2010,WLD,Total,217
+2011,WLD,Total,321
+2012,WLD,Total,451
+2013,WLD,Total,632
+2014,WLD,Total,786
+2015,WLD,Total,857
+2016,WLD,Total,937
+2017,WLD,Total,1204
+2018,WLD,Total,1425
+2019,WLD,Total,1746
+2020,WLD,Total,2338
+2021,WLD,Total,2726
+2022,WLD,Total,3291
+2000,WLD,Biochar,5
+2001,WLD,Biochar,2
+2002,WLD,Biochar,2
+2003,WLD,Biochar,3
+2004,WLD,Biochar,3
+2005,WLD,Biochar,12
+2006,WLD,Biochar,17
+2007,WLD,Biochar,25
+2008,WLD,Biochar,30
+2009,WLD,Biochar,58
+2010,WLD,Biochar,138
+2011,WLD,Biochar,210
+2012,WLD,Biochar,354
+2013,WLD,Biochar,473
+2014,WLD,Biochar,664
+2015,WLD,Biochar,730
+2016,WLD,Biochar,817
+2017,WLD,Biochar,989
+2018,WLD,Biochar,1150
+2019,WLD,Biochar,1466
+2020,WLD,Biochar,1990
+2021,WLD,Biochar,2203
+2022,WLD,Biochar,2692
+2000,WLD,Bioenergy with CCS,1
+2001,WLD,Bioenergy with CCS,3
+2002,WLD,Bioenergy with CCS,3
+2003,WLD,Bioenergy with CCS,10
+2004,WLD,Bioenergy with CCS,6
+2005,WLD,Bioenergy with CCS,11
+2006,WLD,Bioenergy with CCS,8
+2007,WLD,Bioenergy with CCS,10
+2008,WLD,Bioenergy with CCS,15
+2009,WLD,Bioenergy with CCS,30
+2010,WLD,Bioenergy with CCS,31
+2011,WLD,Bioenergy with CCS,47
+2012,WLD,Bioenergy with CCS,42
+2013,WLD,Bioenergy with CCS,60
+2014,WLD,Bioenergy with CCS,64
+2015,WLD,Bioenergy with CCS,52
+2016,WLD,Bioenergy with CCS,52
+2017,WLD,Bioenergy with CCS,101
+2018,WLD,Bioenergy with CCS,121
+2019,WLD,Bioenergy with CCS,121
+2020,WLD,Bioenergy with CCS,136
+2021,WLD,Bioenergy with CCS,185
+2022,WLD,Bioenergy with CCS,177
+2000,WLD,Direct Air Capture with CCS,1
+2001,WLD,Direct Air Capture with CCS,1
+2002,WLD,Direct Air Capture with CCS,2
+2003,WLD,Direct Air Capture with CCS,2
+2004,WLD,Direct Air Capture with CCS,5
+2005,WLD,Direct Air Capture with CCS,5
+2006,WLD,Direct Air Capture with CCS,2
+2007,WLD,Direct Air Capture with CCS,5
+2008,WLD,Direct Air Capture with CCS,1
+2009,WLD,Direct Air Capture with CCS,6
+2010,WLD,Direct Air Capture with CCS,6
+2011,WLD,Direct Air Capture with CCS,19
+2012,WLD,Direct Air Capture with CCS,11
+2013,WLD,Direct Air Capture with CCS,21
+2014,WLD,Direct Air Capture with CCS,15
+2015,WLD,Direct Air Capture with CCS,14
+2016,WLD,Direct Air Capture with CCS,19
+2017,WLD,Direct Air Capture with CCS,28
+2018,WLD,Direct Air Capture with CCS,40
+2019,WLD,Direct Air Capture with CCS,61
+2020,WLD,Direct Air Capture with CCS,74
+2021,WLD,Direct Air Capture with CCS,103
+2022,WLD,Direct Air Capture with CCS,174
+2000,WLD,Enhanced Weathering,0
+2001,WLD,Enhanced Weathering,0
+2002,WLD,Enhanced Weathering,2
+2003,WLD,Enhanced Weathering,5
+2004,WLD,Enhanced Weathering,1
+2005,WLD,Enhanced Weathering,1
+2006,WLD,Enhanced Weathering,1
+2007,WLD,Enhanced Weathering,3
+2008,WLD,Enhanced Weathering,3
+2009,WLD,Enhanced Weathering,4
+2010,WLD,Enhanced Weathering,7
+2011,WLD,Enhanced Weathering,7
+2012,WLD,Enhanced Weathering,12
+2013,WLD,Enhanced Weathering,12
+2014,WLD,Enhanced Weathering,10
+2015,WLD,Enhanced Weathering,16
+2016,WLD,Enhanced Weathering,4
+2017,WLD,Enhanced Weathering,10
+2018,WLD,Enhanced Weathering,17
+2019,WLD,Enhanced Weathering,22
+2020,WLD,Enhanced Weathering,27
+2021,WLD,Enhanced Weathering,44
+2022,WLD,Enhanced Weathering,58
+2000,WLD,General,1
+2001,WLD,General,2
+2002,WLD,General,2
+2003,WLD,General,3
+2004,WLD,General,3
+2005,WLD,General,0
+2006,WLD,General,3
+2007,WLD,General,4
+2008,WLD,General,6
+2009,WLD,General,16
+2010,WLD,General,17
+2011,WLD,General,24
+2012,WLD,General,21
+2013,WLD,General,38
+2014,WLD,General,19
+2015,WLD,General,29
+2016,WLD,General,30
+2017,WLD,General,44
+2018,WLD,General,68
+2019,WLD,General,69
+2020,WLD,General,93
+2021,WLD,General,152
+2022,WLD,General,128
+2000,WLD,Ocean Alkalinity Enhancement,0
+2001,WLD,Ocean Alkalinity Enhancement,0
+2002,WLD,Ocean Alkalinity Enhancement,2
+2003,WLD,Ocean Alkalinity Enhancement,2
+2004,WLD,Ocean Alkalinity Enhancement,2
+2005,WLD,Ocean Alkalinity Enhancement,1
+2006,WLD,Ocean Alkalinity Enhancement,0
+2007,WLD,Ocean Alkalinity Enhancement,2
+2008,WLD,Ocean Alkalinity Enhancement,3
+2009,WLD,Ocean Alkalinity Enhancement,3
+2010,WLD,Ocean Alkalinity Enhancement,3
+2011,WLD,Ocean Alkalinity Enhancement,3
+2012,WLD,Ocean Alkalinity Enhancement,5
+2013,WLD,Ocean Alkalinity Enhancement,9
+2014,WLD,Ocean Alkalinity Enhancement,4
+2015,WLD,Ocean Alkalinity Enhancement,8
+2016,WLD,Ocean Alkalinity Enhancement,8
+2017,WLD,Ocean Alkalinity Enhancement,16
+2018,WLD,Ocean Alkalinity Enhancement,16
+2019,WLD,Ocean Alkalinity Enhancement,3
+2020,WLD,Ocean Alkalinity Enhancement,12
+2021,WLD,Ocean Alkalinity Enhancement,22
+2022,WLD,Ocean Alkalinity Enhancement,33
+2000,WLD,Ocean Fertilization,6
+2001,WLD,Ocean Fertilization,9
+2002,WLD,Ocean Fertilization,9
+2003,WLD,Ocean Fertilization,13
+2004,WLD,Ocean Fertilization,6
+2005,WLD,Ocean Fertilization,25
+2006,WLD,Ocean Fertilization,23
+2007,WLD,Ocean Fertilization,8
+2008,WLD,Ocean Fertilization,29
+2009,WLD,Ocean Fertilization,31
+2010,WLD,Ocean Fertilization,14
+2011,WLD,Ocean Fertilization,11
+2012,WLD,Ocean Fertilization,5
+2013,WLD,Ocean Fertilization,18
+2014,WLD,Ocean Fertilization,10
+2015,WLD,Ocean Fertilization,8
+2016,WLD,Ocean Fertilization,7
+2017,WLD,Ocean Fertilization,16
+2018,WLD,Ocean Fertilization,12
+2019,WLD,Ocean Fertilization,4
+2020,WLD,Ocean Fertilization,7
+2021,WLD,Ocean Fertilization,17
+2022,WLD,Ocean Fertilization,30

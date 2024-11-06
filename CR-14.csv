@@ -1,0 +1,144 @@
+year,geo,disagg,value
+1990,WLD,Total,13
+1991,WLD,Total,19
+1992,WLD,Total,2
+1993,WLD,Total,3
+1994,WLD,Total,3
+1995,WLD,Total,8
+1996,WLD,Total,18
+1997,WLD,Total,4
+1998,WLD,Total,5
+1999,WLD,Total,7
+2000,WLD,Total,21
+2001,WLD,Total,4
+2002,WLD,Total,11
+2003,WLD,Total,5
+2004,WLD,Total,8
+2005,WLD,Total,8
+2006,WLD,Total,10
+2007,WLD,Total,97
+2008,WLD,Total,69
+2009,WLD,Total,159
+2010,WLD,Total,85
+2011,WLD,Total,45
+2012,WLD,Total,88
+2013,WLD,Total,52
+2014,WLD,Total,58
+2015,WLD,Total,68
+2016,WLD,Total,43
+2017,WLD,Total,45
+2018,WLD,Total,72
+2019,WLD,Total,148
+2020,WLD,Total,94
+2021,WLD,Total,351
+2022,WLD,Total,278
+1991,WLD,Biochar,1
+2004,WLD,Biochar,1
+2005,WLD,Biochar,1
+2007,WLD,Biochar,5
+2008,WLD,Biochar,20
+2009,WLD,Biochar,103
+2010,WLD,Biochar,48
+2011,WLD,Biochar,12
+2012,WLD,Biochar,6
+2013,WLD,Biochar,14
+2014,WLD,Biochar,22
+2015,WLD,Biochar,18
+2016,WLD,Biochar,18
+2017,WLD,Biochar,12
+2018,WLD,Biochar,7
+2019,WLD,Biochar,24
+2020,WLD,Biochar,11
+2021,WLD,Biochar,31
+2022,WLD,Biochar,26
+1997,WLD,Bioenergy with CCS,2
+2002,WLD,Bioenergy with CCS,5
+2003,WLD,Bioenergy with CCS,1
+2005,WLD,Bioenergy with CCS,3
+2006,WLD,Bioenergy with CCS,9
+2007,WLD,Bioenergy with CCS,18
+2008,WLD,Bioenergy with CCS,17
+2009,WLD,Bioenergy with CCS,20
+2010,WLD,Bioenergy with CCS,17
+2011,WLD,Bioenergy with CCS,15
+2012,WLD,Bioenergy with CCS,9
+2013,WLD,Bioenergy with CCS,13
+2014,WLD,Bioenergy with CCS,21
+2015,WLD,Bioenergy with CCS,26
+2016,WLD,Bioenergy with CCS,16
+2017,WLD,Bioenergy with CCS,13
+2018,WLD,Bioenergy with CCS,33
+2019,WLD,Bioenergy with CCS,66
+2020,WLD,Bioenergy with CCS,34
+2021,WLD,Bioenergy with CCS,125
+2022,WLD,Bioenergy with CCS,95
+1991,WLD,Direct Air Capture with CCS,3
+1992,WLD,Direct Air Capture with CCS,1
+1998,WLD,Direct Air Capture with CCS,3
+2004,WLD,Direct Air Capture with CCS,1
+2005,WLD,Direct Air Capture with CCS,1
+2006,WLD,Direct Air Capture with CCS,1
+2007,WLD,Direct Air Capture with CCS,14
+2008,WLD,Direct Air Capture with CCS,6
+2009,WLD,Direct Air Capture with CCS,7
+2010,WLD,Direct Air Capture with CCS,1
+2011,WLD,Direct Air Capture with CCS,5
+2012,WLD,Direct Air Capture with CCS,4
+2013,WLD,Direct Air Capture with CCS,5
+2015,WLD,Direct Air Capture with CCS,13
+2016,WLD,Direct Air Capture with CCS,4
+2017,WLD,Direct Air Capture with CCS,15
+2018,WLD,Direct Air Capture with CCS,27
+2019,WLD,Direct Air Capture with CCS,49
+2020,WLD,Direct Air Capture with CCS,41
+2021,WLD,Direct Air Capture with CCS,175
+2022,WLD,Direct Air Capture with CCS,143
+1998,WLD,Enhanced Weathering,1
+2001,WLD,Enhanced Weathering,1
+2003,WLD,Enhanced Weathering,1
+2005,WLD,Enhanced Weathering,3
+2007,WLD,Enhanced Weathering,2
+2008,WLD,Enhanced Weathering,1
+2009,WLD,Enhanced Weathering,2
+2010,WLD,Enhanced Weathering,1
+2011,WLD,Enhanced Weathering,2
+2012,WLD,Enhanced Weathering,3
+2014,WLD,Enhanced Weathering,3
+2015,WLD,Enhanced Weathering,2
+2017,WLD,Enhanced Weathering,2
+2018,WLD,Enhanced Weathering,3
+2019,WLD,Enhanced Weathering,2
+2020,WLD,Enhanced Weathering,5
+2021,WLD,Enhanced Weathering,9
+2022,WLD,Enhanced Weathering,8
+1990,WLD,Ocean Fertilization,13
+1991,WLD,Ocean Fertilization,15
+1992,WLD,Ocean Fertilization,1
+1993,WLD,Ocean Fertilization,3
+1994,WLD,Ocean Fertilization,3
+1995,WLD,Ocean Fertilization,8
+1996,WLD,Ocean Fertilization,18
+1997,WLD,Ocean Fertilization,2
+1998,WLD,Ocean Fertilization,1
+1999,WLD,Ocean Fertilization,7
+2000,WLD,Ocean Fertilization,21
+2001,WLD,Ocean Fertilization,3
+2002,WLD,Ocean Fertilization,6
+2003,WLD,Ocean Fertilization,3
+2004,WLD,Ocean Fertilization,6
+2007,WLD,Ocean Fertilization,58
+2008,WLD,Ocean Fertilization,25
+2009,WLD,Ocean Fertilization,27
+2010,WLD,Ocean Fertilization,18
+2011,WLD,Ocean Fertilization,11
+2012,WLD,Ocean Fertilization,66
+2013,WLD,Ocean Fertilization,20
+2014,WLD,Ocean Fertilization,12
+2015,WLD,Ocean Fertilization,9
+2016,WLD,Ocean Fertilization,5
+2017,WLD,Ocean Fertilization,3
+2018,WLD,Ocean Fertilization,2
+2019,WLD,Ocean Fertilization,7
+2020,WLD,Ocean Fertilization,3
+2021,WLD,Ocean Fertilization,11
+2022,WLD,Ocean Fertilization,6
