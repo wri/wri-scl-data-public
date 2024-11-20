@@ -1,2 +1,1783 @@
-﻿year,geo,value
-2019,WLD,103
+year,geo,disagg_type,disagg,value
+2023,WLD,All,Total,8
+2023,BGD,All,Total,1
+2023,BTN,All,Total,1
+2023,COL,All,Total,1
+2023,CRI,All,Total,1
+2023,ETH,All,Total,1
+2023,RWA,All,Total,1
+2023,SGP,All,Total,1
+2023,UGA,All,Total,1
+2023,AFG,All,Total,0
+2023,DZA,All,Total,0
+2023,AGO,All,Total,0
+2023,ATG,All,Total,0
+2023,BHR,All,Total,0
+2023,BLZ,All,Total,0
+2023,BEN,All,Total,0
+2023,BOL,All,Total,0
+2023,BIH,All,Total,0
+2023,BWA,All,Total,0
+2023,BFA,All,Total,0
+2023,CMR,All,Total,0
+2023,CAF,All,Total,0
+2023,TCD,All,Total,0
+2023,COM,All,Total,0
+2023,COG,All,Total,0
+2023,COK,All,Total,0
+2023,CUB,All,Total,0
+2023,CYP,All,Total,0
+2023,ECU,All,Total,0
+2023,GNQ,All,Total,0
+2023,ERI,All,Total,0
+2023,SWZ,All,Total,0
+2023,GAB,All,Total,0
+2023,GHA,All,Total,0
+2023,GRD,All,Total,0
+2023,GTM,All,Total,0
+2023,GIN,All,Total,0
+2023,GNB,All,Total,0
+2023,GUY,All,Total,0
+2023,HND,All,Total,0
+2023,HUN,All,Total,0
+2023,IRN,All,Total,0
+2023,IRQ,All,Total,0
+2023,CIV,All,Total,0
+2023,JPN,All,Total,0
+2023,KAZ,All,Total,0
+2023,KWT,All,Total,0
+2023,KGZ,All,Total,0
+2023,LBR,All,Total,0
+2023,LBY,All,Total,0
+2023,MDG,All,Total,0
+2023,MUS,All,Total,0
+2023,MAR,All,Total,0
+2023,MOZ,All,Total,0
+2023,NER,All,Total,0
+2023,NGA,All,Total,0
+2023,NIU,All,Total,0
+2023,PRK,All,Total,0
+2023,OMN,All,Total,0
+2023,PNG,All,Total,0
+2023,PRY,All,Total,0
+2023,RUS,All,Total,0
+2023,KNA,All,Total,0
+2023,LCA,All,Total,0
+2023,VCT,All,Total,0
+2023,SMR,All,Total,0
+2023,SAU,All,Total,0
+2023,SEN,All,Total,0
+2023,SOM,All,Total,0
+2023,KOR,All,Total,0
+2023,SDN,All,Total,0
+2023,SWE,All,Total,0
+2023,SYR,All,Total,0
+2023,TKM,All,Total,0
+2023,TUV,All,Total,0
+2023,UKR,All,Total,0
+2023,UZB,All,Total,0
+2023,VAT,All,Total,0
+2023,VEN,All,Total,0
+2023,VNM,All,Total,0
+2023,YEM,All,Total,0
+2023,ZWE,All,Total,0
+2023,BDI,All,Total,0
+2023,CPV,All,Total,0
+2023,CHN,All,Total,0
+2023,COD,All,Total,0
+2023,DMA,All,Total,0
+2023,DOM,All,Total,0
+2023,SLV,All,Total,0
+2023,LSO,All,Total,0
+2023,MCO,All,Total,0
+2023,NIC,All,Total,0
+2023,PSE,All,Total,0
+2023,SUR,All,Total,0
+2023,TLS,All,Total,0
+2023,AND,All,Total,0
+2023,AZE,All,Total,0
+2023,BHS,All,Total,0
+2023,BRB,All,Total,0
+2023,KHM,All,Total,0
+2023,CAN,All,Total,0
+2023,EGY,All,Total,0
+2023,FSM,All,Total,0
+2023,JOR,All,Total,0
+2023,LAO,All,Total,0
+2023,MWI,All,Total,0
+2023,MEX,All,Total,0
+2023,MDA,All,Total,0
+2023,MMR,All,Total,0
+2023,NPL,All,Total,0
+2023,PAN,All,Total,0
+2023,SYC,All,Total,0
+2023,SLE,All,Total,0
+2023,LKA,All,Total,0
+2023,TJK,All,Total,0
+2023,TZA,All,Total,0
+2023,TON,All,Total,0
+2023,USA,All,Total,0
+2023,ALB,All,Total,0
+2023,ARG,All,Total,0
+2023,ARM,All,Total,0
+2023,AUS,All,Total,0
+2023,AUT,All,Total,0
+2023,BLR,All,Total,0
+2023,BEL,All,Total,0
+2023,BRA,All,Total,0
+2023,BRN,All,Total,0
+2023,BGR,All,Total,0
+2023,CHL,All,Total,0
+2023,HRV,All,Total,0
+2023,CZE,All,Total,0
+2023,DNK,All,Total,0
+2023,DJI,All,Total,0
+2023,EST,All,Total,0
+2023,FJI,All,Total,0
+2023,FIN,All,Total,0
+2023,FRA,All,Total,0
+2023,GMB,All,Total,0
+2023,GEO,All,Total,0
+2023,DEU,All,Total,0
+2023,GRC,All,Total,0
+2023,HTI,All,Total,0
+2023,ISL,All,Total,0
+2023,IND,All,Total,0
+2023,IDN,All,Total,0
+2023,IRL,All,Total,0
+2023,ISR,All,Total,0
+2023,ITA,All,Total,0
+2023,JAM,All,Total,0
+2023,KEN,All,Total,0
+2023,KIR,All,Total,0
+2023,LVA,All,Total,0
+2023,LBN,All,Total,0
+2023,LIE,All,Total,0
+2023,LTU,All,Total,0
+2023,LUX,All,Total,0
+2023,MYS,All,Total,0
+2023,MDV,All,Total,0
+2023,MLI,All,Total,0
+2023,MLT,All,Total,0
+2023,MHL,All,Total,0
+2023,MRT,All,Total,0
+2023,MNG,All,Total,0
+2023,MNE,All,Total,0
+2023,NAM,All,Total,0
+2023,NRU,All,Total,0
+2023,NLD,All,Total,0
+2023,NZL,All,Total,0
+2023,NOR,All,Total,0
+2023,PAK,All,Total,0
+2023,PLW,All,Total,0
+2023,PER,All,Total,0
+2023,PHL,All,Total,0
+2023,POL,All,Total,0
+2023,PRT,All,Total,0
+2023,QAT,All,Total,0
+2023,MKD,All,Total,0
+2023,ROU,All,Total,0
+2023,WSM,All,Total,0
+2023,STP,All,Total,0
+2023,SRB,All,Total,0
+2023,SVK,All,Total,0
+2023,SVN,All,Total,0
+2023,SLB,All,Total,0
+2023,ZAF,All,Total,0
+2023,SSD,All,Total,0
+2023,ESP,All,Total,0
+2023,CHE,All,Total,0
+2023,THA,All,Total,0
+2023,TGO,All,Total,0
+2023,TTO,All,Total,0
+2023,TUN,All,Total,0
+2023,TUR,All,Total,0
+2023,ARE,All,Total,0
+2023,GBR,All,Total,0
+2023,URY,All,Total,0
+2023,VUT,All,Total,0
+2023,ZMB,All,Total,0
+2023,WLD,Cycling Strategies,National policy and NDC,10
+2023,WLD,Cycling Strategies,NDC only,36
+2023,WLD,Cycling Strategies,National policy only,34
+2023,WLD,Cycling Strategies,No national policy or NDC,117
+2023,WLD,Walking Strategies,National Policy and NDC,31
+2023,WLD,Walking Strategies,NDC only,13
+2023,WLD,Walking Strategies,National policy only,80
+2023,WLD,Walking Strategies,No national policy or NDC,73
+2023,BGD,Cycling Strategies,National policy and NDC,1
+2023,BTN,Cycling Strategies,National policy and NDC,1
+2023,CHL,Cycling Strategies,National policy and NDC,1
+2023,COL,Cycling Strategies,National policy and NDC,1
+2023,CRI,Cycling Strategies,National policy and NDC,1
+2023,ETH,Cycling Strategies,National policy and NDC,1
+2023,RWA,Cycling Strategies,National policy and NDC,1
+2023,SGP,Cycling Strategies,National policy and NDC,1
+2023,UGA,Cycling Strategies,National policy and NDC,1
+2023,VEN,Cycling Strategies,National policy and NDC,1
+2023,AUS,Cycling Strategies,National policy and NDC,0
+2023,AUT,Cycling Strategies,National policy and NDC,0
+2023,BLR,Cycling Strategies,National policy and NDC,0
+2023,BEL,Cycling Strategies,National policy and NDC,0
+2023,CMR,Cycling Strategies,National policy and NDC,0
+2023,CYP,Cycling Strategies,National policy and NDC,0
+2023,CZE,Cycling Strategies,National policy and NDC,0
+2023,DNK,Cycling Strategies,National policy and NDC,0
+2023,FIN,Cycling Strategies,National policy and NDC,0
+2023,FRA,Cycling Strategies,National policy and NDC,0
+2023,DEU,Cycling Strategies,National policy and NDC,0
+2023,HUN,Cycling Strategies,National policy and NDC,0
+2023,IND,Cycling Strategies,National policy and NDC,0
+2023,IDN,Cycling Strategies,National policy and NDC,0
+2023,IRL,Cycling Strategies,National policy and NDC,0
+2023,ITA,Cycling Strategies,National policy and NDC,0
+2023,JPN,Cycling Strategies,National policy and NDC,0
+2023,LVA,Cycling Strategies,National policy and NDC,0
+2023,LIE,Cycling Strategies,National policy and NDC,0
+2023,LUX,Cycling Strategies,National policy and NDC,0
+2023,MWI,Cycling Strategies,National policy and NDC,0
+2023,NLD,Cycling Strategies,National policy and NDC,0
+2023,NOR,Cycling Strategies,National policy and NDC,0
+2023,PHL,Cycling Strategies,National policy and NDC,0
+2023,PRT,Cycling Strategies,National policy and NDC,0
+2023,SVK,Cycling Strategies,National policy and NDC,0
+2023,ZAF,Cycling Strategies,National policy and NDC,0
+2023,ESP,Cycling Strategies,National policy and NDC,0
+2023,SWE,Cycling Strategies,National policy and NDC,0
+2023,CHE,Cycling Strategies,National policy and NDC,0
+2023,TUN,Cycling Strategies,National policy and NDC,0
+2023,GBR,Cycling Strategies,National policy and NDC,0
+2023,URY,Cycling Strategies,National policy and NDC,0
+2023,ZMB,Cycling Strategies,National policy and NDC,0
+2023,ALB,Cycling Strategies,National policy and NDC,0
+2023,AND,Cycling Strategies,National policy and NDC,0
+2023,BHS,Cycling Strategies,National policy and NDC,0
+2023,BRB,Cycling Strategies,National policy and NDC,0
+2023,BDI,Cycling Strategies,National policy and NDC,0
+2023,CPV,Cycling Strategies,National policy and NDC,0
+2023,KHM,Cycling Strategies,National policy and NDC,0
+2023,CAN,Cycling Strategies,National policy and NDC,0
+2023,CHN,Cycling Strategies,National policy and NDC,0
+2023,COD,Cycling Strategies,National policy and NDC,0
+2023,DMA,Cycling Strategies,National policy and NDC,0
+2023,DOM,Cycling Strategies,National policy and NDC,0
+2023,EGY,Cycling Strategies,National policy and NDC,0
+2023,SLV,Cycling Strategies,National policy and NDC,0
+2023,JOR,Cycling Strategies,National policy and NDC,0
+2023,KIR,Cycling Strategies,National policy and NDC,0
+2023,LAO,Cycling Strategies,National policy and NDC,0
+2023,MEX,Cycling Strategies,National policy and NDC,0
+2023,MDA,Cycling Strategies,National policy and NDC,0
+2023,MCO,Cycling Strategies,National policy and NDC,0
+2023,MMR,Cycling Strategies,National policy and NDC,0
+2023,NRU,Cycling Strategies,National policy and NDC,0
+2023,NPL,Cycling Strategies,National policy and NDC,0
+2023,PAN,Cycling Strategies,National policy and NDC,0
+2023,SYC,Cycling Strategies,National policy and NDC,0
+2023,SLE,Cycling Strategies,National policy and NDC,0
+2023,LKA,Cycling Strategies,National policy and NDC,0
+2023,SUR,Cycling Strategies,National policy and NDC,0
+2023,TJK,Cycling Strategies,National policy and NDC,0
+2023,TZA,Cycling Strategies,National policy and NDC,0
+2023,TLS,Cycling Strategies,National policy and NDC,0
+2023,TON,Cycling Strategies,National policy and NDC,0
+2023,TUR,Cycling Strategies,National policy and NDC,0
+2023,TUV,Cycling Strategies,National policy and NDC,0
+2023,USA,Cycling Strategies,National policy and NDC,0
+2023,VUT,Cycling Strategies,National policy and NDC,0
+2023,AFG,Cycling Strategies,National policy and NDC,0
+2023,ARG,Cycling Strategies,National policy and NDC,0
+2023,ARM,Cycling Strategies,National policy and NDC,0
+2023,AZE,Cycling Strategies,National policy and NDC,0
+2023,DZA,Cycling Strategies,National policy and NDC,0
+2023,AGO,Cycling Strategies,National policy and NDC,0
+2023,ATG,Cycling Strategies,National policy and NDC,0
+2023,BHR,Cycling Strategies,National policy and NDC,0
+2023,BLZ,Cycling Strategies,National policy and NDC,0
+2023,BEN,Cycling Strategies,National policy and NDC,0
+2023,BOL,Cycling Strategies,National policy and NDC,0
+2023,BIH,Cycling Strategies,National policy and NDC,0
+2023,BWA,Cycling Strategies,National policy and NDC,0
+2023,BRA,Cycling Strategies,National policy and NDC,0
+2023,BRN,Cycling Strategies,National policy and NDC,0
+2023,BGR,Cycling Strategies,National policy and NDC,0
+2023,BFA,Cycling Strategies,National policy and NDC,0
+2023,CAF,Cycling Strategies,National policy and NDC,0
+2023,TCD,Cycling Strategies,National policy and NDC,0
+2023,COM,Cycling Strategies,National policy and NDC,0
+2023,COG,Cycling Strategies,National policy and NDC,0
+2023,COK,Cycling Strategies,National policy and NDC,0
+2023,HRV,Cycling Strategies,National policy and NDC,0
+2023,CUB,Cycling Strategies,National policy and NDC,0
+2023,DJI,Cycling Strategies,National policy and NDC,0
+2023,ECU,Cycling Strategies,National policy and NDC,0
+2023,GNQ,Cycling Strategies,National policy and NDC,0
+2023,ERI,Cycling Strategies,National policy and NDC,0
+2023,SWZ,Cycling Strategies,National policy and NDC,0
+2023,EST,Cycling Strategies,National policy and NDC,0
+2023,FSM,Cycling Strategies,National policy and NDC,0
+2023,FJI,Cycling Strategies,National policy and NDC,0
+2023,GAB,Cycling Strategies,National policy and NDC,0
+2023,GMB,Cycling Strategies,National policy and NDC,0
+2023,GEO,Cycling Strategies,National policy and NDC,0
+2023,GHA,Cycling Strategies,National policy and NDC,0
+2023,GRC,Cycling Strategies,National policy and NDC,0
+2023,GRD,Cycling Strategies,National policy and NDC,0
+2023,GTM,Cycling Strategies,National policy and NDC,0
+2023,GIN,Cycling Strategies,National policy and NDC,0
+2023,GNB,Cycling Strategies,National policy and NDC,0
+2023,GUY,Cycling Strategies,National policy and NDC,0
+2023,HTI,Cycling Strategies,National policy and NDC,0
+2023,HND,Cycling Strategies,National policy and NDC,0
+2023,ISL,Cycling Strategies,National policy and NDC,0
+2023,IRN,Cycling Strategies,National policy and NDC,0
+2023,IRQ,Cycling Strategies,National policy and NDC,0
+2023,ISR,Cycling Strategies,National policy and NDC,0
+2023,CIV,Cycling Strategies,National policy and NDC,0
+2023,JAM,Cycling Strategies,National policy and NDC,0
+2023,KAZ,Cycling Strategies,National policy and NDC,0
+2023,KEN,Cycling Strategies,National policy and NDC,0
+2023,KWT,Cycling Strategies,National policy and NDC,0
+2023,KGZ,Cycling Strategies,National policy and NDC,0
+2023,LBN,Cycling Strategies,National policy and NDC,0
+2023,LSO,Cycling Strategies,National policy and NDC,0
+2023,LBR,Cycling Strategies,National policy and NDC,0
+2023,LBY,Cycling Strategies,National policy and NDC,0
+2023,LTU,Cycling Strategies,National policy and NDC,0
+2023,MDG,Cycling Strategies,National policy and NDC,0
+2023,MYS,Cycling Strategies,National policy and NDC,0
+2023,MDV,Cycling Strategies,National policy and NDC,0
+2023,MLI,Cycling Strategies,National policy and NDC,0
+2023,MLT,Cycling Strategies,National policy and NDC,0
+2023,MHL,Cycling Strategies,National policy and NDC,0
+2023,MRT,Cycling Strategies,National policy and NDC,0
+2023,MUS,Cycling Strategies,National policy and NDC,0
+2023,MNG,Cycling Strategies,National policy and NDC,0
+2023,MNE,Cycling Strategies,National policy and NDC,0
+2023,MAR,Cycling Strategies,National policy and NDC,0
+2023,MOZ,Cycling Strategies,National policy and NDC,0
+2023,NAM,Cycling Strategies,National policy and NDC,0
+2023,NZL,Cycling Strategies,National policy and NDC,0
+2023,NIC,Cycling Strategies,National policy and NDC,0
+2023,NER,Cycling Strategies,National policy and NDC,0
+2023,NGA,Cycling Strategies,National policy and NDC,0
+2023,NIU,Cycling Strategies,National policy and NDC,0
+2023,PRK,Cycling Strategies,National policy and NDC,0
+2023,OMN,Cycling Strategies,National policy and NDC,0
+2023,PAK,Cycling Strategies,National policy and NDC,0
+2023,PLW,Cycling Strategies,National policy and NDC,0
+2023,PSE,Cycling Strategies,National policy and NDC,0
+2023,PNG,Cycling Strategies,National policy and NDC,0
+2023,PRY,Cycling Strategies,National policy and NDC,0
+2023,PER,Cycling Strategies,National policy and NDC,0
+2023,POL,Cycling Strategies,National policy and NDC,0
+2023,QAT,Cycling Strategies,National policy and NDC,0
+2023,MKD,Cycling Strategies,National policy and NDC,0
+2023,RUS,Cycling Strategies,National policy and NDC,0
+2023,ROU,Cycling Strategies,National policy and NDC,0
+2023,WSM,Cycling Strategies,National policy and NDC,0
+2023,STP,Cycling Strategies,National policy and NDC,0
+2023,KNA,Cycling Strategies,National policy and NDC,0
+2023,LCA,Cycling Strategies,National policy and NDC,0
+2023,VCT,Cycling Strategies,National policy and NDC,0
+2023,SMR,Cycling Strategies,National policy and NDC,0
+2023,SAU,Cycling Strategies,National policy and NDC,0
+2023,SEN,Cycling Strategies,National policy and NDC,0
+2023,SRB,Cycling Strategies,National policy and NDC,0
+2023,SVN,Cycling Strategies,National policy and NDC,0
+2023,SLB,Cycling Strategies,National policy and NDC,0
+2023,SOM,Cycling Strategies,National policy and NDC,0
+2023,KOR,Cycling Strategies,National policy and NDC,0
+2023,SSD,Cycling Strategies,National policy and NDC,0
+2023,SDN,Cycling Strategies,National policy and NDC,0
+2023,SYR,Cycling Strategies,National policy and NDC,0
+2023,THA,Cycling Strategies,National policy and NDC,0
+2023,TGO,Cycling Strategies,National policy and NDC,0
+2023,TTO,Cycling Strategies,National policy and NDC,0
+2023,TKM,Cycling Strategies,National policy and NDC,0
+2023,UKR,Cycling Strategies,National policy and NDC,0
+2023,UZB,Cycling Strategies,National policy and NDC,0
+2023,ARE,Cycling Strategies,National policy and NDC,0
+2023,VAT,Cycling Strategies,National policy and NDC,0
+2023,VNM,Cycling Strategies,National policy and NDC,0
+2023,YEM,Cycling Strategies,National policy and NDC,0
+2023,ZWE,Cycling Strategies,National policy and NDC,0
+2023,ALB,Cycling Strategies,NDC only,1
+2023,AND,Cycling Strategies,NDC only,1
+2023,BHS,Cycling Strategies,NDC only,1
+2023,BRB,Cycling Strategies,NDC only,1
+2023,BDI,Cycling Strategies,NDC only,1
+2023,CPV,Cycling Strategies,NDC only,1
+2023,KHM,Cycling Strategies,NDC only,1
+2023,CAN,Cycling Strategies,NDC only,1
+2023,CHN,Cycling Strategies,NDC only,1
+2023,COD,Cycling Strategies,NDC only,1
+2023,DMA,Cycling Strategies,NDC only,1
+2023,DOM,Cycling Strategies,NDC only,1
+2023,EGY,Cycling Strategies,NDC only,1
+2023,SLV,Cycling Strategies,NDC only,1
+2023,JOR,Cycling Strategies,NDC only,1
+2023,KIR,Cycling Strategies,NDC only,1
+2023,LAO,Cycling Strategies,NDC only,1
+2023,MEX,Cycling Strategies,NDC only,1
+2023,MDA,Cycling Strategies,NDC only,1
+2023,MCO,Cycling Strategies,NDC only,1
+2023,MMR,Cycling Strategies,NDC only,1
+2023,NRU,Cycling Strategies,NDC only,1
+2023,NPL,Cycling Strategies,NDC only,1
+2023,PAN,Cycling Strategies,NDC only,1
+2023,SYC,Cycling Strategies,NDC only,1
+2023,SLE,Cycling Strategies,NDC only,1
+2023,LKA,Cycling Strategies,NDC only,1
+2023,SUR,Cycling Strategies,NDC only,1
+2023,TJK,Cycling Strategies,NDC only,1
+2023,TZA,Cycling Strategies,NDC only,1
+2023,TLS,Cycling Strategies,NDC only,1
+2023,TON,Cycling Strategies,NDC only,1
+2023,TUR,Cycling Strategies,NDC only,1
+2023,TUV,Cycling Strategies,NDC only,1
+2023,USA,Cycling Strategies,NDC only,1
+2023,VUT,Cycling Strategies,NDC only,1
+2023,AUS,Cycling Strategies,NDC only,0
+2023,AUT,Cycling Strategies,NDC only,0
+2023,BLR,Cycling Strategies,NDC only,0
+2023,BEL,Cycling Strategies,NDC only,0
+2023,CMR,Cycling Strategies,NDC only,0
+2023,CYP,Cycling Strategies,NDC only,0
+2023,CZE,Cycling Strategies,NDC only,0
+2023,DNK,Cycling Strategies,NDC only,0
+2023,FIN,Cycling Strategies,NDC only,0
+2023,FRA,Cycling Strategies,NDC only,0
+2023,DEU,Cycling Strategies,NDC only,0
+2023,HUN,Cycling Strategies,NDC only,0
+2023,IND,Cycling Strategies,NDC only,0
+2023,IDN,Cycling Strategies,NDC only,0
+2023,IRL,Cycling Strategies,NDC only,0
+2023,ITA,Cycling Strategies,NDC only,0
+2023,JPN,Cycling Strategies,NDC only,0
+2023,LVA,Cycling Strategies,NDC only,0
+2023,LIE,Cycling Strategies,NDC only,0
+2023,LUX,Cycling Strategies,NDC only,0
+2023,MWI,Cycling Strategies,NDC only,0
+2023,NLD,Cycling Strategies,NDC only,0
+2023,NOR,Cycling Strategies,NDC only,0
+2023,PHL,Cycling Strategies,NDC only,0
+2023,PRT,Cycling Strategies,NDC only,0
+2023,SVK,Cycling Strategies,NDC only,0
+2023,ZAF,Cycling Strategies,NDC only,0
+2023,ESP,Cycling Strategies,NDC only,0
+2023,SWE,Cycling Strategies,NDC only,0
+2023,CHE,Cycling Strategies,NDC only,0
+2023,TUN,Cycling Strategies,NDC only,0
+2023,GBR,Cycling Strategies,NDC only,0
+2023,URY,Cycling Strategies,NDC only,0
+2023,ZMB,Cycling Strategies,NDC only,0
+2023,BGD,Cycling Strategies,NDC only,0
+2023,BTN,Cycling Strategies,NDC only,0
+2023,CHL,Cycling Strategies,NDC only,0
+2023,COL,Cycling Strategies,NDC only,0
+2023,CRI,Cycling Strategies,NDC only,0
+2023,ETH,Cycling Strategies,NDC only,0
+2023,RWA,Cycling Strategies,NDC only,0
+2023,SGP,Cycling Strategies,NDC only,0
+2023,UGA,Cycling Strategies,NDC only,0
+2023,VEN,Cycling Strategies,NDC only,0
+2023,AFG,Cycling Strategies,NDC only,0
+2023,ARG,Cycling Strategies,NDC only,0
+2023,ARM,Cycling Strategies,NDC only,0
+2023,AZE,Cycling Strategies,NDC only,0
+2023,DZA,Cycling Strategies,NDC only,0
+2023,AGO,Cycling Strategies,NDC only,0
+2023,ATG,Cycling Strategies,NDC only,0
+2023,BHR,Cycling Strategies,NDC only,0
+2023,BLZ,Cycling Strategies,NDC only,0
+2023,BEN,Cycling Strategies,NDC only,0
+2023,BOL,Cycling Strategies,NDC only,0
+2023,BIH,Cycling Strategies,NDC only,0
+2023,BWA,Cycling Strategies,NDC only,0
+2023,BRA,Cycling Strategies,NDC only,0
+2023,BRN,Cycling Strategies,NDC only,0
+2023,BGR,Cycling Strategies,NDC only,0
+2023,BFA,Cycling Strategies,NDC only,0
+2023,CAF,Cycling Strategies,NDC only,0
+2023,TCD,Cycling Strategies,NDC only,0
+2023,COM,Cycling Strategies,NDC only,0
+2023,COG,Cycling Strategies,NDC only,0
+2023,COK,Cycling Strategies,NDC only,0
+2023,HRV,Cycling Strategies,NDC only,0
+2023,CUB,Cycling Strategies,NDC only,0
+2023,DJI,Cycling Strategies,NDC only,0
+2023,ECU,Cycling Strategies,NDC only,0
+2023,GNQ,Cycling Strategies,NDC only,0
+2023,ERI,Cycling Strategies,NDC only,0
+2023,SWZ,Cycling Strategies,NDC only,0
+2023,EST,Cycling Strategies,NDC only,0
+2023,FSM,Cycling Strategies,NDC only,0
+2023,FJI,Cycling Strategies,NDC only,0
+2023,GAB,Cycling Strategies,NDC only,0
+2023,GMB,Cycling Strategies,NDC only,0
+2023,GEO,Cycling Strategies,NDC only,0
+2023,GHA,Cycling Strategies,NDC only,0
+2023,GRC,Cycling Strategies,NDC only,0
+2023,GRD,Cycling Strategies,NDC only,0
+2023,GTM,Cycling Strategies,NDC only,0
+2023,GIN,Cycling Strategies,NDC only,0
+2023,GNB,Cycling Strategies,NDC only,0
+2023,GUY,Cycling Strategies,NDC only,0
+2023,HTI,Cycling Strategies,NDC only,0
+2023,HND,Cycling Strategies,NDC only,0
+2023,ISL,Cycling Strategies,NDC only,0
+2023,IRN,Cycling Strategies,NDC only,0
+2023,IRQ,Cycling Strategies,NDC only,0
+2023,ISR,Cycling Strategies,NDC only,0
+2023,CIV,Cycling Strategies,NDC only,0
+2023,JAM,Cycling Strategies,NDC only,0
+2023,KAZ,Cycling Strategies,NDC only,0
+2023,KEN,Cycling Strategies,NDC only,0
+2023,KWT,Cycling Strategies,NDC only,0
+2023,KGZ,Cycling Strategies,NDC only,0
+2023,LBN,Cycling Strategies,NDC only,0
+2023,LSO,Cycling Strategies,NDC only,0
+2023,LBR,Cycling Strategies,NDC only,0
+2023,LBY,Cycling Strategies,NDC only,0
+2023,LTU,Cycling Strategies,NDC only,0
+2023,MDG,Cycling Strategies,NDC only,0
+2023,MYS,Cycling Strategies,NDC only,0
+2023,MDV,Cycling Strategies,NDC only,0
+2023,MLI,Cycling Strategies,NDC only,0
+2023,MLT,Cycling Strategies,NDC only,0
+2023,MHL,Cycling Strategies,NDC only,0
+2023,MRT,Cycling Strategies,NDC only,0
+2023,MUS,Cycling Strategies,NDC only,0
+2023,MNG,Cycling Strategies,NDC only,0
+2023,MNE,Cycling Strategies,NDC only,0
+2023,MAR,Cycling Strategies,NDC only,0
+2023,MOZ,Cycling Strategies,NDC only,0
+2023,NAM,Cycling Strategies,NDC only,0
+2023,NZL,Cycling Strategies,NDC only,0
+2023,NIC,Cycling Strategies,NDC only,0
+2023,NER,Cycling Strategies,NDC only,0
+2023,NGA,Cycling Strategies,NDC only,0
+2023,NIU,Cycling Strategies,NDC only,0
+2023,PRK,Cycling Strategies,NDC only,0
+2023,OMN,Cycling Strategies,NDC only,0
+2023,PAK,Cycling Strategies,NDC only,0
+2023,PLW,Cycling Strategies,NDC only,0
+2023,PSE,Cycling Strategies,NDC only,0
+2023,PNG,Cycling Strategies,NDC only,0
+2023,PRY,Cycling Strategies,NDC only,0
+2023,PER,Cycling Strategies,NDC only,0
+2023,POL,Cycling Strategies,NDC only,0
+2023,QAT,Cycling Strategies,NDC only,0
+2023,MKD,Cycling Strategies,NDC only,0
+2023,RUS,Cycling Strategies,NDC only,0
+2023,ROU,Cycling Strategies,NDC only,0
+2023,WSM,Cycling Strategies,NDC only,0
+2023,STP,Cycling Strategies,NDC only,0
+2023,KNA,Cycling Strategies,NDC only,0
+2023,LCA,Cycling Strategies,NDC only,0
+2023,VCT,Cycling Strategies,NDC only,0
+2023,SMR,Cycling Strategies,NDC only,0
+2023,SAU,Cycling Strategies,NDC only,0
+2023,SEN,Cycling Strategies,NDC only,0
+2023,SRB,Cycling Strategies,NDC only,0
+2023,SVN,Cycling Strategies,NDC only,0
+2023,SLB,Cycling Strategies,NDC only,0
+2023,SOM,Cycling Strategies,NDC only,0
+2023,KOR,Cycling Strategies,NDC only,0
+2023,SSD,Cycling Strategies,NDC only,0
+2023,SDN,Cycling Strategies,NDC only,0
+2023,SYR,Cycling Strategies,NDC only,0
+2023,THA,Cycling Strategies,NDC only,0
+2023,TGO,Cycling Strategies,NDC only,0
+2023,TTO,Cycling Strategies,NDC only,0
+2023,TKM,Cycling Strategies,NDC only,0
+2023,UKR,Cycling Strategies,NDC only,0
+2023,UZB,Cycling Strategies,NDC only,0
+2023,ARE,Cycling Strategies,NDC only,0
+2023,VAT,Cycling Strategies,NDC only,0
+2023,VNM,Cycling Strategies,NDC only,0
+2023,YEM,Cycling Strategies,NDC only,0
+2023,ZWE,Cycling Strategies,NDC only,0
+2023,AUS,Cycling Strategies,National policy only,1
+2023,AUT,Cycling Strategies,National policy only,1
+2023,BLR,Cycling Strategies,National policy only,1
+2023,BEL,Cycling Strategies,National policy only,1
+2023,CMR,Cycling Strategies,National policy only,1
+2023,CYP,Cycling Strategies,National policy only,1
+2023,CZE,Cycling Strategies,National policy only,1
+2023,DNK,Cycling Strategies,National policy only,1
+2023,FIN,Cycling Strategies,National policy only,1
+2023,FRA,Cycling Strategies,National policy only,1
+2023,DEU,Cycling Strategies,National policy only,1
+2023,HUN,Cycling Strategies,National policy only,1
+2023,IND,Cycling Strategies,National policy only,1
+2023,IDN,Cycling Strategies,National policy only,1
+2023,IRL,Cycling Strategies,National policy only,1
+2023,ITA,Cycling Strategies,National policy only,1
+2023,JPN,Cycling Strategies,National policy only,1
+2023,LVA,Cycling Strategies,National policy only,1
+2023,LIE,Cycling Strategies,National policy only,1
+2023,LUX,Cycling Strategies,National policy only,1
+2023,MWI,Cycling Strategies,National policy only,1
+2023,NLD,Cycling Strategies,National policy only,1
+2023,NOR,Cycling Strategies,National policy only,1
+2023,PHL,Cycling Strategies,National policy only,1
+2023,PRT,Cycling Strategies,National policy only,1
+2023,SVK,Cycling Strategies,National policy only,1
+2023,ZAF,Cycling Strategies,National policy only,1
+2023,ESP,Cycling Strategies,National policy only,1
+2023,SWE,Cycling Strategies,National policy only,1
+2023,CHE,Cycling Strategies,National policy only,1
+2023,TUN,Cycling Strategies,National policy only,1
+2023,GBR,Cycling Strategies,National policy only,1
+2023,URY,Cycling Strategies,National policy only,1
+2023,ZMB,Cycling Strategies,National policy only,1
+2023,BGD,Cycling Strategies,National policy only,0
+2023,BTN,Cycling Strategies,National policy only,0
+2023,CHL,Cycling Strategies,National policy only,0
+2023,COL,Cycling Strategies,National policy only,0
+2023,CRI,Cycling Strategies,National policy only,0
+2023,ETH,Cycling Strategies,National policy only,0
+2023,RWA,Cycling Strategies,National policy only,0
+2023,SGP,Cycling Strategies,National policy only,0
+2023,UGA,Cycling Strategies,National policy only,0
+2023,VEN,Cycling Strategies,National policy only,0
+2023,ALB,Cycling Strategies,National policy only,0
+2023,AND,Cycling Strategies,National policy only,0
+2023,BHS,Cycling Strategies,National policy only,0
+2023,BRB,Cycling Strategies,National policy only,0
+2023,BDI,Cycling Strategies,National policy only,0
+2023,CPV,Cycling Strategies,National policy only,0
+2023,KHM,Cycling Strategies,National policy only,0
+2023,CAN,Cycling Strategies,National policy only,0
+2023,CHN,Cycling Strategies,National policy only,0
+2023,COD,Cycling Strategies,National policy only,0
+2023,DMA,Cycling Strategies,National policy only,0
+2023,DOM,Cycling Strategies,National policy only,0
+2023,EGY,Cycling Strategies,National policy only,0
+2023,SLV,Cycling Strategies,National policy only,0
+2023,JOR,Cycling Strategies,National policy only,0
+2023,KIR,Cycling Strategies,National policy only,0
+2023,LAO,Cycling Strategies,National policy only,0
+2023,MEX,Cycling Strategies,National policy only,0
+2023,MDA,Cycling Strategies,National policy only,0
+2023,MCO,Cycling Strategies,National policy only,0
+2023,MMR,Cycling Strategies,National policy only,0
+2023,NRU,Cycling Strategies,National policy only,0
+2023,NPL,Cycling Strategies,National policy only,0
+2023,PAN,Cycling Strategies,National policy only,0
+2023,SYC,Cycling Strategies,National policy only,0
+2023,SLE,Cycling Strategies,National policy only,0
+2023,LKA,Cycling Strategies,National policy only,0
+2023,SUR,Cycling Strategies,National policy only,0
+2023,TJK,Cycling Strategies,National policy only,0
+2023,TZA,Cycling Strategies,National policy only,0
+2023,TLS,Cycling Strategies,National policy only,0
+2023,TON,Cycling Strategies,National policy only,0
+2023,TUR,Cycling Strategies,National policy only,0
+2023,TUV,Cycling Strategies,National policy only,0
+2023,USA,Cycling Strategies,National policy only,0
+2023,VUT,Cycling Strategies,National policy only,0
+2023,AFG,Cycling Strategies,National policy only,0
+2023,ARG,Cycling Strategies,National policy only,0
+2023,ARM,Cycling Strategies,National policy only,0
+2023,AZE,Cycling Strategies,National policy only,0
+2023,DZA,Cycling Strategies,National policy only,0
+2023,AGO,Cycling Strategies,National policy only,0
+2023,ATG,Cycling Strategies,National policy only,0
+2023,BHR,Cycling Strategies,National policy only,0
+2023,BLZ,Cycling Strategies,National policy only,0
+2023,BEN,Cycling Strategies,National policy only,0
+2023,BOL,Cycling Strategies,National policy only,0
+2023,BIH,Cycling Strategies,National policy only,0
+2023,BWA,Cycling Strategies,National policy only,0
+2023,BRA,Cycling Strategies,National policy only,0
+2023,BRN,Cycling Strategies,National policy only,0
+2023,BGR,Cycling Strategies,National policy only,0
+2023,BFA,Cycling Strategies,National policy only,0
+2023,CAF,Cycling Strategies,National policy only,0
+2023,TCD,Cycling Strategies,National policy only,0
+2023,COM,Cycling Strategies,National policy only,0
+2023,COG,Cycling Strategies,National policy only,0
+2023,COK,Cycling Strategies,National policy only,0
+2023,HRV,Cycling Strategies,National policy only,0
+2023,CUB,Cycling Strategies,National policy only,0
+2023,DJI,Cycling Strategies,National policy only,0
+2023,ECU,Cycling Strategies,National policy only,0
+2023,GNQ,Cycling Strategies,National policy only,0
+2023,ERI,Cycling Strategies,National policy only,0
+2023,SWZ,Cycling Strategies,National policy only,0
+2023,EST,Cycling Strategies,National policy only,0
+2023,FSM,Cycling Strategies,National policy only,0
+2023,FJI,Cycling Strategies,National policy only,0
+2023,GAB,Cycling Strategies,National policy only,0
+2023,GMB,Cycling Strategies,National policy only,0
+2023,GEO,Cycling Strategies,National policy only,0
+2023,GHA,Cycling Strategies,National policy only,0
+2023,GRC,Cycling Strategies,National policy only,0
+2023,GRD,Cycling Strategies,National policy only,0
+2023,GTM,Cycling Strategies,National policy only,0
+2023,GIN,Cycling Strategies,National policy only,0
+2023,GNB,Cycling Strategies,National policy only,0
+2023,GUY,Cycling Strategies,National policy only,0
+2023,HTI,Cycling Strategies,National policy only,0
+2023,HND,Cycling Strategies,National policy only,0
+2023,ISL,Cycling Strategies,National policy only,0
+2023,IRN,Cycling Strategies,National policy only,0
+2023,IRQ,Cycling Strategies,National policy only,0
+2023,ISR,Cycling Strategies,National policy only,0
+2023,CIV,Cycling Strategies,National policy only,0
+2023,JAM,Cycling Strategies,National policy only,0
+2023,KAZ,Cycling Strategies,National policy only,0
+2023,KEN,Cycling Strategies,National policy only,0
+2023,KWT,Cycling Strategies,National policy only,0
+2023,KGZ,Cycling Strategies,National policy only,0
+2023,LBN,Cycling Strategies,National policy only,0
+2023,LSO,Cycling Strategies,National policy only,0
+2023,LBR,Cycling Strategies,National policy only,0
+2023,LBY,Cycling Strategies,National policy only,0
+2023,LTU,Cycling Strategies,National policy only,0
+2023,MDG,Cycling Strategies,National policy only,0
+2023,MYS,Cycling Strategies,National policy only,0
+2023,MDV,Cycling Strategies,National policy only,0
+2023,MLI,Cycling Strategies,National policy only,0
+2023,MLT,Cycling Strategies,National policy only,0
+2023,MHL,Cycling Strategies,National policy only,0
+2023,MRT,Cycling Strategies,National policy only,0
+2023,MUS,Cycling Strategies,National policy only,0
+2023,MNG,Cycling Strategies,National policy only,0
+2023,MNE,Cycling Strategies,National policy only,0
+2023,MAR,Cycling Strategies,National policy only,0
+2023,MOZ,Cycling Strategies,National policy only,0
+2023,NAM,Cycling Strategies,National policy only,0
+2023,NZL,Cycling Strategies,National policy only,0
+2023,NIC,Cycling Strategies,National policy only,0
+2023,NER,Cycling Strategies,National policy only,0
+2023,NGA,Cycling Strategies,National policy only,0
+2023,NIU,Cycling Strategies,National policy only,0
+2023,PRK,Cycling Strategies,National policy only,0
+2023,OMN,Cycling Strategies,National policy only,0
+2023,PAK,Cycling Strategies,National policy only,0
+2023,PLW,Cycling Strategies,National policy only,0
+2023,PSE,Cycling Strategies,National policy only,0
+2023,PNG,Cycling Strategies,National policy only,0
+2023,PRY,Cycling Strategies,National policy only,0
+2023,PER,Cycling Strategies,National policy only,0
+2023,POL,Cycling Strategies,National policy only,0
+2023,QAT,Cycling Strategies,National policy only,0
+2023,MKD,Cycling Strategies,National policy only,0
+2023,RUS,Cycling Strategies,National policy only,0
+2023,ROU,Cycling Strategies,National policy only,0
+2023,WSM,Cycling Strategies,National policy only,0
+2023,STP,Cycling Strategies,National policy only,0
+2023,KNA,Cycling Strategies,National policy only,0
+2023,LCA,Cycling Strategies,National policy only,0
+2023,VCT,Cycling Strategies,National policy only,0
+2023,SMR,Cycling Strategies,National policy only,0
+2023,SAU,Cycling Strategies,National policy only,0
+2023,SEN,Cycling Strategies,National policy only,0
+2023,SRB,Cycling Strategies,National policy only,0
+2023,SVN,Cycling Strategies,National policy only,0
+2023,SLB,Cycling Strategies,National policy only,0
+2023,SOM,Cycling Strategies,National policy only,0
+2023,KOR,Cycling Strategies,National policy only,0
+2023,SSD,Cycling Strategies,National policy only,0
+2023,SDN,Cycling Strategies,National policy only,0
+2023,SYR,Cycling Strategies,National policy only,0
+2023,THA,Cycling Strategies,National policy only,0
+2023,TGO,Cycling Strategies,National policy only,0
+2023,TTO,Cycling Strategies,National policy only,0
+2023,TKM,Cycling Strategies,National policy only,0
+2023,UKR,Cycling Strategies,National policy only,0
+2023,UZB,Cycling Strategies,National policy only,0
+2023,ARE,Cycling Strategies,National policy only,0
+2023,VAT,Cycling Strategies,National policy only,0
+2023,VNM,Cycling Strategies,National policy only,0
+2023,YEM,Cycling Strategies,National policy only,0
+2023,ZWE,Cycling Strategies,National policy only,0
+2023,AFG,Cycling Strategies,No national policy or NDC,1
+2023,ARG,Cycling Strategies,No national policy or NDC,1
+2023,ARM,Cycling Strategies,No national policy or NDC,1
+2023,AZE,Cycling Strategies,No national policy or NDC,1
+2023,DZA,Cycling Strategies,No national policy or NDC,1
+2023,AGO,Cycling Strategies,No national policy or NDC,1
+2023,ATG,Cycling Strategies,No national policy or NDC,1
+2023,BHR,Cycling Strategies,No national policy or NDC,1
+2023,BLZ,Cycling Strategies,No national policy or NDC,1
+2023,BEN,Cycling Strategies,No national policy or NDC,1
+2023,BOL,Cycling Strategies,No national policy or NDC,1
+2023,BIH,Cycling Strategies,No national policy or NDC,1
+2023,BWA,Cycling Strategies,No national policy or NDC,1
+2023,BRA,Cycling Strategies,No national policy or NDC,1
+2023,BRN,Cycling Strategies,No national policy or NDC,1
+2023,BGR,Cycling Strategies,No national policy or NDC,1
+2023,BFA,Cycling Strategies,No national policy or NDC,1
+2023,CAF,Cycling Strategies,No national policy or NDC,1
+2023,TCD,Cycling Strategies,No national policy or NDC,1
+2023,COM,Cycling Strategies,No national policy or NDC,1
+2023,COG,Cycling Strategies,No national policy or NDC,1
+2023,COK,Cycling Strategies,No national policy or NDC,1
+2023,HRV,Cycling Strategies,No national policy or NDC,1
+2023,CUB,Cycling Strategies,No national policy or NDC,1
+2023,DJI,Cycling Strategies,No national policy or NDC,1
+2023,ECU,Cycling Strategies,No national policy or NDC,1
+2023,GNQ,Cycling Strategies,No national policy or NDC,1
+2023,ERI,Cycling Strategies,No national policy or NDC,1
+2023,SWZ,Cycling Strategies,No national policy or NDC,1
+2023,EST,Cycling Strategies,No national policy or NDC,1
+2023,FSM,Cycling Strategies,No national policy or NDC,1
+2023,FJI,Cycling Strategies,No national policy or NDC,1
+2023,GAB,Cycling Strategies,No national policy or NDC,1
+2023,GMB,Cycling Strategies,No national policy or NDC,1
+2023,GEO,Cycling Strategies,No national policy or NDC,1
+2023,GHA,Cycling Strategies,No national policy or NDC,1
+2023,GRC,Cycling Strategies,No national policy or NDC,1
+2023,GRD,Cycling Strategies,No national policy or NDC,1
+2023,GTM,Cycling Strategies,No national policy or NDC,1
+2023,GIN,Cycling Strategies,No national policy or NDC,1
+2023,GNB,Cycling Strategies,No national policy or NDC,1
+2023,GUY,Cycling Strategies,No national policy or NDC,1
+2023,HTI,Cycling Strategies,No national policy or NDC,1
+2023,HND,Cycling Strategies,No national policy or NDC,1
+2023,ISL,Cycling Strategies,No national policy or NDC,1
+2023,IRN,Cycling Strategies,No national policy or NDC,1
+2023,IRQ,Cycling Strategies,No national policy or NDC,1
+2023,ISR,Cycling Strategies,No national policy or NDC,1
+2023,CIV,Cycling Strategies,No national policy or NDC,1
+2023,JAM,Cycling Strategies,No national policy or NDC,1
+2023,KAZ,Cycling Strategies,No national policy or NDC,1
+2023,KEN,Cycling Strategies,No national policy or NDC,1
+2023,KWT,Cycling Strategies,No national policy or NDC,1
+2023,KGZ,Cycling Strategies,No national policy or NDC,1
+2023,LBN,Cycling Strategies,No national policy or NDC,1
+2023,LSO,Cycling Strategies,No national policy or NDC,1
+2023,LBR,Cycling Strategies,No national policy or NDC,1
+2023,LBY,Cycling Strategies,No national policy or NDC,1
+2023,LTU,Cycling Strategies,No national policy or NDC,1
+2023,MDG,Cycling Strategies,No national policy or NDC,1
+2023,MYS,Cycling Strategies,No national policy or NDC,1
+2023,MDV,Cycling Strategies,No national policy or NDC,1
+2023,MLI,Cycling Strategies,No national policy or NDC,1
+2023,MLT,Cycling Strategies,No national policy or NDC,1
+2023,MHL,Cycling Strategies,No national policy or NDC,1
+2023,MRT,Cycling Strategies,No national policy or NDC,1
+2023,MUS,Cycling Strategies,No national policy or NDC,1
+2023,MNG,Cycling Strategies,No national policy or NDC,1
+2023,MNE,Cycling Strategies,No national policy or NDC,1
+2023,MAR,Cycling Strategies,No national policy or NDC,1
+2023,MOZ,Cycling Strategies,No national policy or NDC,1
+2023,NAM,Cycling Strategies,No national policy or NDC,1
+2023,NZL,Cycling Strategies,No national policy or NDC,1
+2023,NIC,Cycling Strategies,No national policy or NDC,1
+2023,NER,Cycling Strategies,No national policy or NDC,1
+2023,NGA,Cycling Strategies,No national policy or NDC,1
+2023,NIU,Cycling Strategies,No national policy or NDC,1
+2023,PRK,Cycling Strategies,No national policy or NDC,1
+2023,OMN,Cycling Strategies,No national policy or NDC,1
+2023,PAK,Cycling Strategies,No national policy or NDC,1
+2023,PLW,Cycling Strategies,No national policy or NDC,1
+2023,PSE,Cycling Strategies,No national policy or NDC,1
+2023,PNG,Cycling Strategies,No national policy or NDC,1
+2023,PRY,Cycling Strategies,No national policy or NDC,1
+2023,PER,Cycling Strategies,No national policy or NDC,1
+2023,POL,Cycling Strategies,No national policy or NDC,1
+2023,QAT,Cycling Strategies,No national policy or NDC,1
+2023,MKD,Cycling Strategies,No national policy or NDC,1
+2023,RUS,Cycling Strategies,No national policy or NDC,1
+2023,ROU,Cycling Strategies,No national policy or NDC,1
+2023,WSM,Cycling Strategies,No national policy or NDC,1
+2023,STP,Cycling Strategies,No national policy or NDC,1
+2023,KNA,Cycling Strategies,No national policy or NDC,1
+2023,LCA,Cycling Strategies,No national policy or NDC,1
+2023,VCT,Cycling Strategies,No national policy or NDC,1
+2023,SMR,Cycling Strategies,No national policy or NDC,1
+2023,SAU,Cycling Strategies,No national policy or NDC,1
+2023,SEN,Cycling Strategies,No national policy or NDC,1
+2023,SRB,Cycling Strategies,No national policy or NDC,1
+2023,SVN,Cycling Strategies,No national policy or NDC,1
+2023,SLB,Cycling Strategies,No national policy or NDC,1
+2023,SOM,Cycling Strategies,No national policy or NDC,1
+2023,KOR,Cycling Strategies,No national policy or NDC,1
+2023,SSD,Cycling Strategies,No national policy or NDC,1
+2023,SDN,Cycling Strategies,No national policy or NDC,1
+2023,SYR,Cycling Strategies,No national policy or NDC,1
+2023,THA,Cycling Strategies,No national policy or NDC,1
+2023,TGO,Cycling Strategies,No national policy or NDC,1
+2023,TTO,Cycling Strategies,No national policy or NDC,1
+2023,TKM,Cycling Strategies,No national policy or NDC,1
+2023,UKR,Cycling Strategies,No national policy or NDC,1
+2023,UZB,Cycling Strategies,No national policy or NDC,1
+2023,ARE,Cycling Strategies,No national policy or NDC,1
+2023,VAT,Cycling Strategies,No national policy or NDC,1
+2023,VNM,Cycling Strategies,No national policy or NDC,1
+2023,YEM,Cycling Strategies,No national policy or NDC,1
+2023,ZWE,Cycling Strategies,No national policy or NDC,1
+2023,ALB,Cycling Strategies,No national policy or NDC,0
+2023,AND,Cycling Strategies,No national policy or NDC,0
+2023,BHS,Cycling Strategies,No national policy or NDC,0
+2023,BRB,Cycling Strategies,No national policy or NDC,0
+2023,BDI,Cycling Strategies,No national policy or NDC,0
+2023,CPV,Cycling Strategies,No national policy or NDC,0
+2023,KHM,Cycling Strategies,No national policy or NDC,0
+2023,CAN,Cycling Strategies,No national policy or NDC,0
+2023,CHN,Cycling Strategies,No national policy or NDC,0
+2023,COD,Cycling Strategies,No national policy or NDC,0
+2023,DMA,Cycling Strategies,No national policy or NDC,0
+2023,DOM,Cycling Strategies,No national policy or NDC,0
+2023,EGY,Cycling Strategies,No national policy or NDC,0
+2023,SLV,Cycling Strategies,No national policy or NDC,0
+2023,JOR,Cycling Strategies,No national policy or NDC,0
+2023,KIR,Cycling Strategies,No national policy or NDC,0
+2023,LAO,Cycling Strategies,No national policy or NDC,0
+2023,MEX,Cycling Strategies,No national policy or NDC,0
+2023,MDA,Cycling Strategies,No national policy or NDC,0
+2023,MCO,Cycling Strategies,No national policy or NDC,0
+2023,MMR,Cycling Strategies,No national policy or NDC,0
+2023,NRU,Cycling Strategies,No national policy or NDC,0
+2023,NPL,Cycling Strategies,No national policy or NDC,0
+2023,PAN,Cycling Strategies,No national policy or NDC,0
+2023,SYC,Cycling Strategies,No national policy or NDC,0
+2023,SLE,Cycling Strategies,No national policy or NDC,0
+2023,LKA,Cycling Strategies,No national policy or NDC,0
+2023,SUR,Cycling Strategies,No national policy or NDC,0
+2023,TJK,Cycling Strategies,No national policy or NDC,0
+2023,TZA,Cycling Strategies,No national policy or NDC,0
+2023,TLS,Cycling Strategies,No national policy or NDC,0
+2023,TON,Cycling Strategies,No national policy or NDC,0
+2023,TUR,Cycling Strategies,No national policy or NDC,0
+2023,TUV,Cycling Strategies,No national policy or NDC,0
+2023,USA,Cycling Strategies,No national policy or NDC,0
+2023,VUT,Cycling Strategies,No national policy or NDC,0
+2023,BGD,Cycling Strategies,No national policy or NDC,0
+2023,BTN,Cycling Strategies,No national policy or NDC,0
+2023,CHL,Cycling Strategies,No national policy or NDC,0
+2023,COL,Cycling Strategies,No national policy or NDC,0
+2023,CRI,Cycling Strategies,No national policy or NDC,0
+2023,ETH,Cycling Strategies,No national policy or NDC,0
+2023,RWA,Cycling Strategies,No national policy or NDC,0
+2023,SGP,Cycling Strategies,No national policy or NDC,0
+2023,UGA,Cycling Strategies,No national policy or NDC,0
+2023,VEN,Cycling Strategies,No national policy or NDC,0
+2023,AUS,Cycling Strategies,No national policy or NDC,0
+2023,AUT,Cycling Strategies,No national policy or NDC,0
+2023,BLR,Cycling Strategies,No national policy or NDC,0
+2023,BEL,Cycling Strategies,No national policy or NDC,0
+2023,CMR,Cycling Strategies,No national policy or NDC,0
+2023,CYP,Cycling Strategies,No national policy or NDC,0
+2023,CZE,Cycling Strategies,No national policy or NDC,0
+2023,DNK,Cycling Strategies,No national policy or NDC,0
+2023,FIN,Cycling Strategies,No national policy or NDC,0
+2023,FRA,Cycling Strategies,No national policy or NDC,0
+2023,DEU,Cycling Strategies,No national policy or NDC,0
+2023,HUN,Cycling Strategies,No national policy or NDC,0
+2023,IND,Cycling Strategies,No national policy or NDC,0
+2023,IDN,Cycling Strategies,No national policy or NDC,0
+2023,IRL,Cycling Strategies,No national policy or NDC,0
+2023,ITA,Cycling Strategies,No national policy or NDC,0
+2023,JPN,Cycling Strategies,No national policy or NDC,0
+2023,LVA,Cycling Strategies,No national policy or NDC,0
+2023,LIE,Cycling Strategies,No national policy or NDC,0
+2023,LUX,Cycling Strategies,No national policy or NDC,0
+2023,MWI,Cycling Strategies,No national policy or NDC,0
+2023,NLD,Cycling Strategies,No national policy or NDC,0
+2023,NOR,Cycling Strategies,No national policy or NDC,0
+2023,PHL,Cycling Strategies,No national policy or NDC,0
+2023,PRT,Cycling Strategies,No national policy or NDC,0
+2023,SVK,Cycling Strategies,No national policy or NDC,0
+2023,ZAF,Cycling Strategies,No national policy or NDC,0
+2023,ESP,Cycling Strategies,No national policy or NDC,0
+2023,SWE,Cycling Strategies,No national policy or NDC,0
+2023,CHE,Cycling Strategies,No national policy or NDC,0
+2023,TUN,Cycling Strategies,No national policy or NDC,0
+2023,GBR,Cycling Strategies,No national policy or NDC,0
+2023,URY,Cycling Strategies,No national policy or NDC,0
+2023,ZMB,Cycling Strategies,No national policy or NDC,0
+2023,AND,Walking Strategies,National Policy and NDC,1
+2023,AZE,Walking Strategies,National Policy and NDC,1
+2023,BHS,Walking Strategies,National Policy and NDC,1
+2023,BGD,Walking Strategies,National Policy and NDC,1
+2023,BRB,Walking Strategies,National Policy and NDC,1
+2023,BTN,Walking Strategies,National Policy and NDC,1
+2023,KHM,Walking Strategies,National Policy and NDC,1
+2023,CAN,Walking Strategies,National Policy and NDC,1
+2023,COL,Walking Strategies,National Policy and NDC,1
+2023,CRI,Walking Strategies,National Policy and NDC,1
+2023,EGY,Walking Strategies,National Policy and NDC,1
+2023,ETH,Walking Strategies,National Policy and NDC,1
+2023,FSM,Walking Strategies,National Policy and NDC,1
+2023,JOR,Walking Strategies,National Policy and NDC,1
+2023,LAO,Walking Strategies,National Policy and NDC,1
+2023,MWI,Walking Strategies,National Policy and NDC,1
+2023,MEX,Walking Strategies,National Policy and NDC,1
+2023,MDA,Walking Strategies,National Policy and NDC,1
+2023,MMR,Walking Strategies,National Policy and NDC,1
+2023,NPL,Walking Strategies,National Policy and NDC,1
+2023,PAN,Walking Strategies,National Policy and NDC,1
+2023,RWA,Walking Strategies,National Policy and NDC,1
+2023,SYC,Walking Strategies,National Policy and NDC,1
+2023,SLE,Walking Strategies,National Policy and NDC,1
+2023,SGP,Walking Strategies,National Policy and NDC,1
+2023,LKA,Walking Strategies,National Policy and NDC,1
+2023,TJK,Walking Strategies,National Policy and NDC,1
+2023,TZA,Walking Strategies,National Policy and NDC,1
+2023,TON,Walking Strategies,National Policy and NDC,1
+2023,UGA,Walking Strategies,National Policy and NDC,1
+2023,USA,Walking Strategies,National Policy and NDC,1
+2023,ALB,Walking Strategies,National Policy and NDC,0
+2023,ARG,Walking Strategies,National Policy and NDC,0
+2023,ARM,Walking Strategies,National Policy and NDC,0
+2023,AUS,Walking Strategies,National Policy and NDC,0
+2023,AUT,Walking Strategies,National Policy and NDC,0
+2023,BLR,Walking Strategies,National Policy and NDC,0
+2023,BEL,Walking Strategies,National Policy and NDC,0
+2023,BRA,Walking Strategies,National Policy and NDC,0
+2023,BRN,Walking Strategies,National Policy and NDC,0
+2023,BGR,Walking Strategies,National Policy and NDC,0
+2023,CHL,Walking Strategies,National Policy and NDC,0
+2023,HRV,Walking Strategies,National Policy and NDC,0
+2023,CZE,Walking Strategies,National Policy and NDC,0
+2023,DNK,Walking Strategies,National Policy and NDC,0
+2023,DJI,Walking Strategies,National Policy and NDC,0
+2023,EST,Walking Strategies,National Policy and NDC,0
+2023,FJI,Walking Strategies,National Policy and NDC,0
+2023,FIN,Walking Strategies,National Policy and NDC,0
+2023,FRA,Walking Strategies,National Policy and NDC,0
+2023,GMB,Walking Strategies,National Policy and NDC,0
+2023,GEO,Walking Strategies,National Policy and NDC,0
+2023,DEU,Walking Strategies,National Policy and NDC,0
+2023,GRC,Walking Strategies,National Policy and NDC,0
+2023,HTI,Walking Strategies,National Policy and NDC,0
+2023,ISL,Walking Strategies,National Policy and NDC,0
+2023,IND,Walking Strategies,National Policy and NDC,0
+2023,IDN,Walking Strategies,National Policy and NDC,0
+2023,IRL,Walking Strategies,National Policy and NDC,0
+2023,ISR,Walking Strategies,National Policy and NDC,0
+2023,ITA,Walking Strategies,National Policy and NDC,0
+2023,JAM,Walking Strategies,National Policy and NDC,0
+2023,KEN,Walking Strategies,National Policy and NDC,0
+2023,KIR,Walking Strategies,National Policy and NDC,0
+2023,LVA,Walking Strategies,National Policy and NDC,0
+2023,LBN,Walking Strategies,National Policy and NDC,0
+2023,LIE,Walking Strategies,National Policy and NDC,0
+2023,LTU,Walking Strategies,National Policy and NDC,0
+2023,LUX,Walking Strategies,National Policy and NDC,0
+2023,MYS,Walking Strategies,National Policy and NDC,0
+2023,MDV,Walking Strategies,National Policy and NDC,0
+2023,MLI,Walking Strategies,National Policy and NDC,0
+2023,MLT,Walking Strategies,National Policy and NDC,0
+2023,MHL,Walking Strategies,National Policy and NDC,0
+2023,MRT,Walking Strategies,National Policy and NDC,0
+2023,MNG,Walking Strategies,National Policy and NDC,0
+2023,MNE,Walking Strategies,National Policy and NDC,0
+2023,NAM,Walking Strategies,National Policy and NDC,0
+2023,NRU,Walking Strategies,National Policy and NDC,0
+2023,NLD,Walking Strategies,National Policy and NDC,0
+2023,NZL,Walking Strategies,National Policy and NDC,0
+2023,NOR,Walking Strategies,National Policy and NDC,0
+2023,PAK,Walking Strategies,National Policy and NDC,0
+2023,PLW,Walking Strategies,National Policy and NDC,0
+2023,PER,Walking Strategies,National Policy and NDC,0
+2023,PHL,Walking Strategies,National Policy and NDC,0
+2023,POL,Walking Strategies,National Policy and NDC,0
+2023,PRT,Walking Strategies,National Policy and NDC,0
+2023,QAT,Walking Strategies,National Policy and NDC,0
+2023,MKD,Walking Strategies,National Policy and NDC,0
+2023,ROU,Walking Strategies,National Policy and NDC,0
+2023,WSM,Walking Strategies,National Policy and NDC,0
+2023,STP,Walking Strategies,National Policy and NDC,0
+2023,SRB,Walking Strategies,National Policy and NDC,0
+2023,SVK,Walking Strategies,National Policy and NDC,0
+2023,SVN,Walking Strategies,National Policy and NDC,0
+2023,SLB,Walking Strategies,National Policy and NDC,0
+2023,ZAF,Walking Strategies,National Policy and NDC,0
+2023,SSD,Walking Strategies,National Policy and NDC,0
+2023,ESP,Walking Strategies,National Policy and NDC,0
+2023,CHE,Walking Strategies,National Policy and NDC,0
+2023,THA,Walking Strategies,National Policy and NDC,0
+2023,TGO,Walking Strategies,National Policy and NDC,0
+2023,TTO,Walking Strategies,National Policy and NDC,0
+2023,TUN,Walking Strategies,National Policy and NDC,0
+2023,TUR,Walking Strategies,National Policy and NDC,0
+2023,ARE,Walking Strategies,National Policy and NDC,0
+2023,GBR,Walking Strategies,National Policy and NDC,0
+2023,URY,Walking Strategies,National Policy and NDC,0
+2023,VUT,Walking Strategies,National Policy and NDC,0
+2023,ZMB,Walking Strategies,National Policy and NDC,0
+2023,BDI,Walking Strategies,National Policy and NDC,0
+2023,CPV,Walking Strategies,National Policy and NDC,0
+2023,CHN,Walking Strategies,National Policy and NDC,0
+2023,COD,Walking Strategies,National Policy and NDC,0
+2023,DMA,Walking Strategies,National Policy and NDC,0
+2023,DOM,Walking Strategies,National Policy and NDC,0
+2023,SLV,Walking Strategies,National Policy and NDC,0
+2023,LSO,Walking Strategies,National Policy and NDC,0
+2023,MCO,Walking Strategies,National Policy and NDC,0
+2023,NIC,Walking Strategies,National Policy and NDC,0
+2023,PSE,Walking Strategies,National Policy and NDC,0
+2023,SUR,Walking Strategies,National Policy and NDC,0
+2023,TLS,Walking Strategies,National Policy and NDC,0
+2023,AFG,Walking Strategies,National Policy and NDC,0
+2023,DZA,Walking Strategies,National Policy and NDC,0
+2023,AGO,Walking Strategies,National Policy and NDC,0
+2023,ATG,Walking Strategies,National Policy and NDC,0
+2023,BHR,Walking Strategies,National Policy and NDC,0
+2023,BLZ,Walking Strategies,National Policy and NDC,0
+2023,BEN,Walking Strategies,National Policy and NDC,0
+2023,BOL,Walking Strategies,National Policy and NDC,0
+2023,BIH,Walking Strategies,National Policy and NDC,0
+2023,BWA,Walking Strategies,National Policy and NDC,0
+2023,BFA,Walking Strategies,National Policy and NDC,0
+2023,CMR,Walking Strategies,National Policy and NDC,0
+2023,CAF,Walking Strategies,National Policy and NDC,0
+2023,TCD,Walking Strategies,National Policy and NDC,0
+2023,COM,Walking Strategies,National Policy and NDC,0
+2023,COG,Walking Strategies,National Policy and NDC,0
+2023,COK,Walking Strategies,National Policy and NDC,0
+2023,CUB,Walking Strategies,National Policy and NDC,0
+2023,CYP,Walking Strategies,National Policy and NDC,0
+2023,ECU,Walking Strategies,National Policy and NDC,0
+2023,GNQ,Walking Strategies,National Policy and NDC,0
+2023,ERI,Walking Strategies,National Policy and NDC,0
+2023,SWZ,Walking Strategies,National Policy and NDC,0
+2023,GAB,Walking Strategies,National Policy and NDC,0
+2023,GHA,Walking Strategies,National Policy and NDC,0
+2023,GRD,Walking Strategies,National Policy and NDC,0
+2023,GTM,Walking Strategies,National Policy and NDC,0
+2023,GIN,Walking Strategies,National Policy and NDC,0
+2023,GNB,Walking Strategies,National Policy and NDC,0
+2023,GUY,Walking Strategies,National Policy and NDC,0
+2023,HND,Walking Strategies,National Policy and NDC,0
+2023,HUN,Walking Strategies,National Policy and NDC,0
+2023,IRN,Walking Strategies,National Policy and NDC,0
+2023,IRQ,Walking Strategies,National Policy and NDC,0
+2023,CIV,Walking Strategies,National Policy and NDC,0
+2023,JPN,Walking Strategies,National Policy and NDC,0
+2023,KAZ,Walking Strategies,National Policy and NDC,0
+2023,KWT,Walking Strategies,National Policy and NDC,0
+2023,KGZ,Walking Strategies,National Policy and NDC,0
+2023,LBR,Walking Strategies,National Policy and NDC,0
+2023,LBY,Walking Strategies,National Policy and NDC,0
+2023,MDG,Walking Strategies,National Policy and NDC,0
+2023,MUS,Walking Strategies,National Policy and NDC,0
+2023,MAR,Walking Strategies,National Policy and NDC,0
+2023,MOZ,Walking Strategies,National Policy and NDC,0
+2023,NER,Walking Strategies,National Policy and NDC,0
+2023,NGA,Walking Strategies,National Policy and NDC,0
+2023,NIU,Walking Strategies,National Policy and NDC,0
+2023,PRK,Walking Strategies,National Policy and NDC,0
+2023,OMN,Walking Strategies,National Policy and NDC,0
+2023,PNG,Walking Strategies,National Policy and NDC,0
+2023,PRY,Walking Strategies,National Policy and NDC,0
+2023,RUS,Walking Strategies,National Policy and NDC,0
+2023,KNA,Walking Strategies,National Policy and NDC,0
+2023,LCA,Walking Strategies,National Policy and NDC,0
+2023,VCT,Walking Strategies,National Policy and NDC,0
+2023,SMR,Walking Strategies,National Policy and NDC,0
+2023,SAU,Walking Strategies,National Policy and NDC,0
+2023,SEN,Walking Strategies,National Policy and NDC,0
+2023,SOM,Walking Strategies,National Policy and NDC,0
+2023,KOR,Walking Strategies,National Policy and NDC,0
+2023,SDN,Walking Strategies,National Policy and NDC,0
+2023,SWE,Walking Strategies,National Policy and NDC,0
+2023,SYR,Walking Strategies,National Policy and NDC,0
+2023,TKM,Walking Strategies,National Policy and NDC,0
+2023,TUV,Walking Strategies,National Policy and NDC,0
+2023,UKR,Walking Strategies,National Policy and NDC,0
+2023,UZB,Walking Strategies,National Policy and NDC,0
+2023,VAT,Walking Strategies,National Policy and NDC,0
+2023,VEN,Walking Strategies,National Policy and NDC,0
+2023,VNM,Walking Strategies,National Policy and NDC,0
+2023,YEM,Walking Strategies,National Policy and NDC,0
+2023,ZWE,Walking Strategies,National Policy and NDC,0
+2023,BDI,Walking Strategies,NDC only,1
+2023,CPV,Walking Strategies,NDC only,1
+2023,CHN,Walking Strategies,NDC only,1
+2023,COD,Walking Strategies,NDC only,1
+2023,DMA,Walking Strategies,NDC only,1
+2023,DOM,Walking Strategies,NDC only,1
+2023,SLV,Walking Strategies,NDC only,1
+2023,LSO,Walking Strategies,NDC only,1
+2023,MCO,Walking Strategies,NDC only,1
+2023,NIC,Walking Strategies,NDC only,1
+2023,PSE,Walking Strategies,NDC only,1
+2023,SUR,Walking Strategies,NDC only,1
+2023,TLS,Walking Strategies,NDC only,1
+2023,ALB,Walking Strategies,NDC only,0
+2023,ARG,Walking Strategies,NDC only,0
+2023,ARM,Walking Strategies,NDC only,0
+2023,AUS,Walking Strategies,NDC only,0
+2023,AUT,Walking Strategies,NDC only,0
+2023,BLR,Walking Strategies,NDC only,0
+2023,BEL,Walking Strategies,NDC only,0
+2023,BRA,Walking Strategies,NDC only,0
+2023,BRN,Walking Strategies,NDC only,0
+2023,BGR,Walking Strategies,NDC only,0
+2023,CHL,Walking Strategies,NDC only,0
+2023,HRV,Walking Strategies,NDC only,0
+2023,CZE,Walking Strategies,NDC only,0
+2023,DNK,Walking Strategies,NDC only,0
+2023,DJI,Walking Strategies,NDC only,0
+2023,EST,Walking Strategies,NDC only,0
+2023,FJI,Walking Strategies,NDC only,0
+2023,FIN,Walking Strategies,NDC only,0
+2023,FRA,Walking Strategies,NDC only,0
+2023,GMB,Walking Strategies,NDC only,0
+2023,GEO,Walking Strategies,NDC only,0
+2023,DEU,Walking Strategies,NDC only,0
+2023,GRC,Walking Strategies,NDC only,0
+2023,HTI,Walking Strategies,NDC only,0
+2023,ISL,Walking Strategies,NDC only,0
+2023,IND,Walking Strategies,NDC only,0
+2023,IDN,Walking Strategies,NDC only,0
+2023,IRL,Walking Strategies,NDC only,0
+2023,ISR,Walking Strategies,NDC only,0
+2023,ITA,Walking Strategies,NDC only,0
+2023,JAM,Walking Strategies,NDC only,0
+2023,KEN,Walking Strategies,NDC only,0
+2023,KIR,Walking Strategies,NDC only,0
+2023,LVA,Walking Strategies,NDC only,0
+2023,LBN,Walking Strategies,NDC only,0
+2023,LIE,Walking Strategies,NDC only,0
+2023,LTU,Walking Strategies,NDC only,0
+2023,LUX,Walking Strategies,NDC only,0
+2023,MYS,Walking Strategies,NDC only,0
+2023,MDV,Walking Strategies,NDC only,0
+2023,MLI,Walking Strategies,NDC only,0
+2023,MLT,Walking Strategies,NDC only,0
+2023,MHL,Walking Strategies,NDC only,0
+2023,MRT,Walking Strategies,NDC only,0
+2023,MNG,Walking Strategies,NDC only,0
+2023,MNE,Walking Strategies,NDC only,0
+2023,NAM,Walking Strategies,NDC only,0
+2023,NRU,Walking Strategies,NDC only,0
+2023,NLD,Walking Strategies,NDC only,0
+2023,NZL,Walking Strategies,NDC only,0
+2023,NOR,Walking Strategies,NDC only,0
+2023,PAK,Walking Strategies,NDC only,0
+2023,PLW,Walking Strategies,NDC only,0
+2023,PER,Walking Strategies,NDC only,0
+2023,PHL,Walking Strategies,NDC only,0
+2023,POL,Walking Strategies,NDC only,0
+2023,PRT,Walking Strategies,NDC only,0
+2023,QAT,Walking Strategies,NDC only,0
+2023,MKD,Walking Strategies,NDC only,0
+2023,ROU,Walking Strategies,NDC only,0
+2023,WSM,Walking Strategies,NDC only,0
+2023,STP,Walking Strategies,NDC only,0
+2023,SRB,Walking Strategies,NDC only,0
+2023,SVK,Walking Strategies,NDC only,0
+2023,SVN,Walking Strategies,NDC only,0
+2023,SLB,Walking Strategies,NDC only,0
+2023,ZAF,Walking Strategies,NDC only,0
+2023,SSD,Walking Strategies,NDC only,0
+2023,ESP,Walking Strategies,NDC only,0
+2023,CHE,Walking Strategies,NDC only,0
+2023,THA,Walking Strategies,NDC only,0
+2023,TGO,Walking Strategies,NDC only,0
+2023,TTO,Walking Strategies,NDC only,0
+2023,TUN,Walking Strategies,NDC only,0
+2023,TUR,Walking Strategies,NDC only,0
+2023,ARE,Walking Strategies,NDC only,0
+2023,GBR,Walking Strategies,NDC only,0
+2023,URY,Walking Strategies,NDC only,0
+2023,VUT,Walking Strategies,NDC only,0
+2023,ZMB,Walking Strategies,NDC only,0
+2023,AND,Walking Strategies,NDC only,0
+2023,AZE,Walking Strategies,NDC only,0
+2023,BHS,Walking Strategies,NDC only,0
+2023,BGD,Walking Strategies,NDC only,0
+2023,BRB,Walking Strategies,NDC only,0
+2023,BTN,Walking Strategies,NDC only,0
+2023,KHM,Walking Strategies,NDC only,0
+2023,CAN,Walking Strategies,NDC only,0
+2023,COL,Walking Strategies,NDC only,0
+2023,CRI,Walking Strategies,NDC only,0
+2023,EGY,Walking Strategies,NDC only,0
+2023,ETH,Walking Strategies,NDC only,0
+2023,FSM,Walking Strategies,NDC only,0
+2023,JOR,Walking Strategies,NDC only,0
+2023,LAO,Walking Strategies,NDC only,0
+2023,MWI,Walking Strategies,NDC only,0
+2023,MEX,Walking Strategies,NDC only,0
+2023,MDA,Walking Strategies,NDC only,0
+2023,MMR,Walking Strategies,NDC only,0
+2023,NPL,Walking Strategies,NDC only,0
+2023,PAN,Walking Strategies,NDC only,0
+2023,RWA,Walking Strategies,NDC only,0
+2023,SYC,Walking Strategies,NDC only,0
+2023,SLE,Walking Strategies,NDC only,0
+2023,SGP,Walking Strategies,NDC only,0
+2023,LKA,Walking Strategies,NDC only,0
+2023,TJK,Walking Strategies,NDC only,0
+2023,TZA,Walking Strategies,NDC only,0
+2023,TON,Walking Strategies,NDC only,0
+2023,UGA,Walking Strategies,NDC only,0
+2023,USA,Walking Strategies,NDC only,0
+2023,AFG,Walking Strategies,NDC only,0
+2023,DZA,Walking Strategies,NDC only,0
+2023,AGO,Walking Strategies,NDC only,0
+2023,ATG,Walking Strategies,NDC only,0
+2023,BHR,Walking Strategies,NDC only,0
+2023,BLZ,Walking Strategies,NDC only,0
+2023,BEN,Walking Strategies,NDC only,0
+2023,BOL,Walking Strategies,NDC only,0
+2023,BIH,Walking Strategies,NDC only,0
+2023,BWA,Walking Strategies,NDC only,0
+2023,BFA,Walking Strategies,NDC only,0
+2023,CMR,Walking Strategies,NDC only,0
+2023,CAF,Walking Strategies,NDC only,0
+2023,TCD,Walking Strategies,NDC only,0
+2023,COM,Walking Strategies,NDC only,0
+2023,COG,Walking Strategies,NDC only,0
+2023,COK,Walking Strategies,NDC only,0
+2023,CUB,Walking Strategies,NDC only,0
+2023,CYP,Walking Strategies,NDC only,0
+2023,ECU,Walking Strategies,NDC only,0
+2023,GNQ,Walking Strategies,NDC only,0
+2023,ERI,Walking Strategies,NDC only,0
+2023,SWZ,Walking Strategies,NDC only,0
+2023,GAB,Walking Strategies,NDC only,0
+2023,GHA,Walking Strategies,NDC only,0
+2023,GRD,Walking Strategies,NDC only,0
+2023,GTM,Walking Strategies,NDC only,0
+2023,GIN,Walking Strategies,NDC only,0
+2023,GNB,Walking Strategies,NDC only,0
+2023,GUY,Walking Strategies,NDC only,0
+2023,HND,Walking Strategies,NDC only,0
+2023,HUN,Walking Strategies,NDC only,0
+2023,IRN,Walking Strategies,NDC only,0
+2023,IRQ,Walking Strategies,NDC only,0
+2023,CIV,Walking Strategies,NDC only,0
+2023,JPN,Walking Strategies,NDC only,0
+2023,KAZ,Walking Strategies,NDC only,0
+2023,KWT,Walking Strategies,NDC only,0
+2023,KGZ,Walking Strategies,NDC only,0
+2023,LBR,Walking Strategies,NDC only,0
+2023,LBY,Walking Strategies,NDC only,0
+2023,MDG,Walking Strategies,NDC only,0
+2023,MUS,Walking Strategies,NDC only,0
+2023,MAR,Walking Strategies,NDC only,0
+2023,MOZ,Walking Strategies,NDC only,0
+2023,NER,Walking Strategies,NDC only,0
+2023,NGA,Walking Strategies,NDC only,0
+2023,NIU,Walking Strategies,NDC only,0
+2023,PRK,Walking Strategies,NDC only,0
+2023,OMN,Walking Strategies,NDC only,0
+2023,PNG,Walking Strategies,NDC only,0
+2023,PRY,Walking Strategies,NDC only,0
+2023,RUS,Walking Strategies,NDC only,0
+2023,KNA,Walking Strategies,NDC only,0
+2023,LCA,Walking Strategies,NDC only,0
+2023,VCT,Walking Strategies,NDC only,0
+2023,SMR,Walking Strategies,NDC only,0
+2023,SAU,Walking Strategies,NDC only,0
+2023,SEN,Walking Strategies,NDC only,0
+2023,SOM,Walking Strategies,NDC only,0
+2023,KOR,Walking Strategies,NDC only,0
+2023,SDN,Walking Strategies,NDC only,0
+2023,SWE,Walking Strategies,NDC only,0
+2023,SYR,Walking Strategies,NDC only,0
+2023,TKM,Walking Strategies,NDC only,0
+2023,TUV,Walking Strategies,NDC only,0
+2023,UKR,Walking Strategies,NDC only,0
+2023,UZB,Walking Strategies,NDC only,0
+2023,VAT,Walking Strategies,NDC only,0
+2023,VEN,Walking Strategies,NDC only,0
+2023,VNM,Walking Strategies,NDC only,0
+2023,YEM,Walking Strategies,NDC only,0
+2023,ZWE,Walking Strategies,NDC only,0
+2023,AFG,Walking Strategies,No national policy or NDC,1
+2023,DZA,Walking Strategies,No national policy or NDC,1
+2023,AGO,Walking Strategies,No national policy or NDC,1
+2023,ATG,Walking Strategies,No national policy or NDC,1
+2023,BHR,Walking Strategies,No national policy or NDC,1
+2023,BLZ,Walking Strategies,No national policy or NDC,1
+2023,BEN,Walking Strategies,No national policy or NDC,1
+2023,BOL,Walking Strategies,No national policy or NDC,1
+2023,BIH,Walking Strategies,No national policy or NDC,1
+2023,BWA,Walking Strategies,No national policy or NDC,1
+2023,BFA,Walking Strategies,No national policy or NDC,1
+2023,CMR,Walking Strategies,No national policy or NDC,1
+2023,CAF,Walking Strategies,No national policy or NDC,1
+2023,TCD,Walking Strategies,No national policy or NDC,1
+2023,COM,Walking Strategies,No national policy or NDC,1
+2023,COG,Walking Strategies,No national policy or NDC,1
+2023,COK,Walking Strategies,No national policy or NDC,1
+2023,CUB,Walking Strategies,No national policy or NDC,1
+2023,CYP,Walking Strategies,No national policy or NDC,1
+2023,ECU,Walking Strategies,No national policy or NDC,1
+2023,GNQ,Walking Strategies,No national policy or NDC,1
+2023,ERI,Walking Strategies,No national policy or NDC,1
+2023,SWZ,Walking Strategies,No national policy or NDC,1
+2023,GAB,Walking Strategies,No national policy or NDC,1
+2023,GHA,Walking Strategies,No national policy or NDC,1
+2023,GRD,Walking Strategies,No national policy or NDC,1
+2023,GTM,Walking Strategies,No national policy or NDC,1
+2023,GIN,Walking Strategies,No national policy or NDC,1
+2023,GNB,Walking Strategies,No national policy or NDC,1
+2023,GUY,Walking Strategies,No national policy or NDC,1
+2023,HND,Walking Strategies,No national policy or NDC,1
+2023,HUN,Walking Strategies,No national policy or NDC,1
+2023,IRN,Walking Strategies,No national policy or NDC,1
+2023,IRQ,Walking Strategies,No national policy or NDC,1
+2023,CIV,Walking Strategies,No national policy or NDC,1
+2023,JPN,Walking Strategies,No national policy or NDC,1
+2023,KAZ,Walking Strategies,No national policy or NDC,1
+2023,KWT,Walking Strategies,No national policy or NDC,1
+2023,KGZ,Walking Strategies,No national policy or NDC,1
+2023,LBR,Walking Strategies,No national policy or NDC,1
+2023,LBY,Walking Strategies,No national policy or NDC,1
+2023,MDG,Walking Strategies,No national policy or NDC,1
+2023,MUS,Walking Strategies,No national policy or NDC,1
+2023,MAR,Walking Strategies,No national policy or NDC,1
+2023,MOZ,Walking Strategies,No national policy or NDC,1
+2023,NER,Walking Strategies,No national policy or NDC,1
+2023,NGA,Walking Strategies,No national policy or NDC,1
+2023,NIU,Walking Strategies,No national policy or NDC,1
+2023,PRK,Walking Strategies,No national policy or NDC,1
+2023,OMN,Walking Strategies,No national policy or NDC,1
+2023,PNG,Walking Strategies,No national policy or NDC,1
+2023,PRY,Walking Strategies,No national policy or NDC,1
+2023,RUS,Walking Strategies,No national policy or NDC,1
+2023,KNA,Walking Strategies,No national policy or NDC,1
+2023,LCA,Walking Strategies,No national policy or NDC,1
+2023,VCT,Walking Strategies,No national policy or NDC,1
+2023,SMR,Walking Strategies,No national policy or NDC,1
+2023,SAU,Walking Strategies,No national policy or NDC,1
+2023,SEN,Walking Strategies,No national policy or NDC,1
+2023,SOM,Walking Strategies,No national policy or NDC,1
+2023,KOR,Walking Strategies,No national policy or NDC,1
+2023,SDN,Walking Strategies,No national policy or NDC,1
+2023,SWE,Walking Strategies,No national policy or NDC,1
+2023,SYR,Walking Strategies,No national policy or NDC,1
+2023,TKM,Walking Strategies,No national policy or NDC,1
+2023,TUV,Walking Strategies,No national policy or NDC,1
+2023,UKR,Walking Strategies,No national policy or NDC,1
+2023,UZB,Walking Strategies,No national policy or NDC,1
+2023,VAT,Walking Strategies,No national policy or NDC,1
+2023,VEN,Walking Strategies,No national policy or NDC,1
+2023,VNM,Walking Strategies,No national policy or NDC,1
+2023,YEM,Walking Strategies,No national policy or NDC,1
+2023,ZWE,Walking Strategies,No national policy or NDC,1
+2023,BDI,Walking Strategies,No national policy or NDC,0
+2023,CPV,Walking Strategies,No national policy or NDC,0
+2023,CHN,Walking Strategies,No national policy or NDC,0
+2023,COD,Walking Strategies,No national policy or NDC,0
+2023,DMA,Walking Strategies,No national policy or NDC,0
+2023,DOM,Walking Strategies,No national policy or NDC,0
+2023,SLV,Walking Strategies,No national policy or NDC,0
+2023,LSO,Walking Strategies,No national policy or NDC,0
+2023,MCO,Walking Strategies,No national policy or NDC,0
+2023,NIC,Walking Strategies,No national policy or NDC,0
+2023,PSE,Walking Strategies,No national policy or NDC,0
+2023,SUR,Walking Strategies,No national policy or NDC,0
+2023,TLS,Walking Strategies,No national policy or NDC,0
+2023,AND,Walking Strategies,No national policy or NDC,0
+2023,AZE,Walking Strategies,No national policy or NDC,0
+2023,BHS,Walking Strategies,No national policy or NDC,0
+2023,BGD,Walking Strategies,No national policy or NDC,0
+2023,BRB,Walking Strategies,No national policy or NDC,0
+2023,BTN,Walking Strategies,No national policy or NDC,0
+2023,KHM,Walking Strategies,No national policy or NDC,0
+2023,CAN,Walking Strategies,No national policy or NDC,0
+2023,COL,Walking Strategies,No national policy or NDC,0
+2023,CRI,Walking Strategies,No national policy or NDC,0
+2023,EGY,Walking Strategies,No national policy or NDC,0
+2023,ETH,Walking Strategies,No national policy or NDC,0
+2023,FSM,Walking Strategies,No national policy or NDC,0
+2023,JOR,Walking Strategies,No national policy or NDC,0
+2023,LAO,Walking Strategies,No national policy or NDC,0
+2023,MWI,Walking Strategies,No national policy or NDC,0
+2023,MEX,Walking Strategies,No national policy or NDC,0
+2023,MDA,Walking Strategies,No national policy or NDC,0
+2023,MMR,Walking Strategies,No national policy or NDC,0
+2023,NPL,Walking Strategies,No national policy or NDC,0
+2023,PAN,Walking Strategies,No national policy or NDC,0
+2023,RWA,Walking Strategies,No national policy or NDC,0
+2023,SYC,Walking Strategies,No national policy or NDC,0
+2023,SLE,Walking Strategies,No national policy or NDC,0
+2023,SGP,Walking Strategies,No national policy or NDC,0
+2023,LKA,Walking Strategies,No national policy or NDC,0
+2023,TJK,Walking Strategies,No national policy or NDC,0
+2023,TZA,Walking Strategies,No national policy or NDC,0
+2023,TON,Walking Strategies,No national policy or NDC,0
+2023,UGA,Walking Strategies,No national policy or NDC,0
+2023,USA,Walking Strategies,No national policy or NDC,0
+2023,ALB,Walking Strategies,No national policy or NDC,0
+2023,ARG,Walking Strategies,No national policy or NDC,0
+2023,ARM,Walking Strategies,No national policy or NDC,0
+2023,AUS,Walking Strategies,No national policy or NDC,0
+2023,AUT,Walking Strategies,No national policy or NDC,0
+2023,BLR,Walking Strategies,No national policy or NDC,0
+2023,BEL,Walking Strategies,No national policy or NDC,0
+2023,BRA,Walking Strategies,No national policy or NDC,0
+2023,BRN,Walking Strategies,No national policy or NDC,0
+2023,BGR,Walking Strategies,No national policy or NDC,0
+2023,CHL,Walking Strategies,No national policy or NDC,0
+2023,HRV,Walking Strategies,No national policy or NDC,0
+2023,CZE,Walking Strategies,No national policy or NDC,0
+2023,DNK,Walking Strategies,No national policy or NDC,0
+2023,DJI,Walking Strategies,No national policy or NDC,0
+2023,EST,Walking Strategies,No national policy or NDC,0
+2023,FJI,Walking Strategies,No national policy or NDC,0
+2023,FIN,Walking Strategies,No national policy or NDC,0
+2023,FRA,Walking Strategies,No national policy or NDC,0
+2023,GMB,Walking Strategies,No national policy or NDC,0
+2023,GEO,Walking Strategies,No national policy or NDC,0
+2023,DEU,Walking Strategies,No national policy or NDC,0
+2023,GRC,Walking Strategies,No national policy or NDC,0
+2023,HTI,Walking Strategies,No national policy or NDC,0
+2023,ISL,Walking Strategies,No national policy or NDC,0
+2023,IND,Walking Strategies,No national policy or NDC,0
+2023,IDN,Walking Strategies,No national policy or NDC,0
+2023,IRL,Walking Strategies,No national policy or NDC,0
+2023,ISR,Walking Strategies,No national policy or NDC,0
+2023,ITA,Walking Strategies,No national policy or NDC,0
+2023,JAM,Walking Strategies,No national policy or NDC,0
+2023,KEN,Walking Strategies,No national policy or NDC,0
+2023,KIR,Walking Strategies,No national policy or NDC,0
+2023,LVA,Walking Strategies,No national policy or NDC,0
+2023,LBN,Walking Strategies,No national policy or NDC,0
+2023,LIE,Walking Strategies,No national policy or NDC,0
+2023,LTU,Walking Strategies,No national policy or NDC,0
+2023,LUX,Walking Strategies,No national policy or NDC,0
+2023,MYS,Walking Strategies,No national policy or NDC,0
+2023,MDV,Walking Strategies,No national policy or NDC,0
+2023,MLI,Walking Strategies,No national policy or NDC,0
+2023,MLT,Walking Strategies,No national policy or NDC,0
+2023,MHL,Walking Strategies,No national policy or NDC,0
+2023,MRT,Walking Strategies,No national policy or NDC,0
+2023,MNG,Walking Strategies,No national policy or NDC,0
+2023,MNE,Walking Strategies,No national policy or NDC,0
+2023,NAM,Walking Strategies,No national policy or NDC,0
+2023,NRU,Walking Strategies,No national policy or NDC,0
+2023,NLD,Walking Strategies,No national policy or NDC,0
+2023,NZL,Walking Strategies,No national policy or NDC,0
+2023,NOR,Walking Strategies,No national policy or NDC,0
+2023,PAK,Walking Strategies,No national policy or NDC,0
+2023,PLW,Walking Strategies,No national policy or NDC,0
+2023,PER,Walking Strategies,No national policy or NDC,0
+2023,PHL,Walking Strategies,No national policy or NDC,0
+2023,POL,Walking Strategies,No national policy or NDC,0
+2023,PRT,Walking Strategies,No national policy or NDC,0
+2023,QAT,Walking Strategies,No national policy or NDC,0
+2023,MKD,Walking Strategies,No national policy or NDC,0
+2023,ROU,Walking Strategies,No national policy or NDC,0
+2023,WSM,Walking Strategies,No national policy or NDC,0
+2023,STP,Walking Strategies,No national policy or NDC,0
+2023,SRB,Walking Strategies,No national policy or NDC,0
+2023,SVK,Walking Strategies,No national policy or NDC,0
+2023,SVN,Walking Strategies,No national policy or NDC,0
+2023,SLB,Walking Strategies,No national policy or NDC,0
+2023,ZAF,Walking Strategies,No national policy or NDC,0
+2023,SSD,Walking Strategies,No national policy or NDC,0
+2023,ESP,Walking Strategies,No national policy or NDC,0
+2023,CHE,Walking Strategies,No national policy or NDC,0
+2023,THA,Walking Strategies,No national policy or NDC,0
+2023,TGO,Walking Strategies,No national policy or NDC,0
+2023,TTO,Walking Strategies,No national policy or NDC,0
+2023,TUN,Walking Strategies,No national policy or NDC,0
+2023,TUR,Walking Strategies,No national policy or NDC,0
+2023,ARE,Walking Strategies,No national policy or NDC,0
+2023,GBR,Walking Strategies,No national policy or NDC,0
+2023,URY,Walking Strategies,No national policy or NDC,0
+2023,VUT,Walking Strategies,No national policy or NDC,0
+2023,ZMB,Walking Strategies,No national policy or NDC,0
+2023,ALB,Walking Strategies,National policy only,1
+2023,ARG,Walking Strategies,National policy only,1
+2023,ARM,Walking Strategies,National policy only,1
+2023,AUS,Walking Strategies,National policy only,1
+2023,AUT,Walking Strategies,National policy only,1
+2023,BLR,Walking Strategies,National policy only,1
+2023,BEL,Walking Strategies,National policy only,1
+2023,BRA,Walking Strategies,National policy only,1
+2023,BRN,Walking Strategies,National policy only,1
+2023,BGR,Walking Strategies,National policy only,1
+2023,CHL,Walking Strategies,National policy only,1
+2023,HRV,Walking Strategies,National policy only,1
+2023,CZE,Walking Strategies,National policy only,1
+2023,DNK,Walking Strategies,National policy only,1
+2023,DJI,Walking Strategies,National policy only,1
+2023,EST,Walking Strategies,National policy only,1
+2023,FJI,Walking Strategies,National policy only,1
+2023,FIN,Walking Strategies,National policy only,1
+2023,FRA,Walking Strategies,National policy only,1
+2023,GMB,Walking Strategies,National policy only,1
+2023,GEO,Walking Strategies,National policy only,1
+2023,DEU,Walking Strategies,National policy only,1
+2023,GRC,Walking Strategies,National policy only,1
+2023,HTI,Walking Strategies,National policy only,1
+2023,ISL,Walking Strategies,National policy only,1
+2023,IND,Walking Strategies,National policy only,1
+2023,IDN,Walking Strategies,National policy only,1
+2023,IRL,Walking Strategies,National policy only,1
+2023,ISR,Walking Strategies,National policy only,1
+2023,ITA,Walking Strategies,National policy only,1
+2023,JAM,Walking Strategies,National policy only,1
+2023,KEN,Walking Strategies,National policy only,1
+2023,KIR,Walking Strategies,National policy only,1
+2023,LVA,Walking Strategies,National policy only,1
+2023,LBN,Walking Strategies,National policy only,1
+2023,LIE,Walking Strategies,National policy only,1
+2023,LTU,Walking Strategies,National policy only,1
+2023,LUX,Walking Strategies,National policy only,1
+2023,MYS,Walking Strategies,National policy only,1
+2023,MDV,Walking Strategies,National policy only,1
+2023,MLI,Walking Strategies,National policy only,1
+2023,MLT,Walking Strategies,National policy only,1
+2023,MHL,Walking Strategies,National policy only,1
+2023,MRT,Walking Strategies,National policy only,1
+2023,MNG,Walking Strategies,National policy only,1
+2023,MNE,Walking Strategies,National policy only,1
+2023,NAM,Walking Strategies,National policy only,1
+2023,NRU,Walking Strategies,National policy only,1
+2023,NLD,Walking Strategies,National policy only,1
+2023,NZL,Walking Strategies,National policy only,1
+2023,NOR,Walking Strategies,National policy only,1
+2023,PAK,Walking Strategies,National policy only,1
+2023,PLW,Walking Strategies,National policy only,1
+2023,PER,Walking Strategies,National policy only,1
+2023,PHL,Walking Strategies,National policy only,1
+2023,POL,Walking Strategies,National policy only,1
+2023,PRT,Walking Strategies,National policy only,1
+2023,QAT,Walking Strategies,National policy only,1
+2023,MKD,Walking Strategies,National policy only,1
+2023,ROU,Walking Strategies,National policy only,1
+2023,WSM,Walking Strategies,National policy only,1
+2023,STP,Walking Strategies,National policy only,1
+2023,SRB,Walking Strategies,National policy only,1
+2023,SVK,Walking Strategies,National policy only,1
+2023,SVN,Walking Strategies,National policy only,1
+2023,SLB,Walking Strategies,National policy only,1
+2023,ZAF,Walking Strategies,National policy only,1
+2023,SSD,Walking Strategies,National policy only,1
+2023,ESP,Walking Strategies,National policy only,1
+2023,CHE,Walking Strategies,National policy only,1
+2023,THA,Walking Strategies,National policy only,1
+2023,TGO,Walking Strategies,National policy only,1
+2023,TTO,Walking Strategies,National policy only,1
+2023,TUN,Walking Strategies,National policy only,1
+2023,TUR,Walking Strategies,National policy only,1
+2023,ARE,Walking Strategies,National policy only,1
+2023,GBR,Walking Strategies,National policy only,1
+2023,URY,Walking Strategies,National policy only,1
+2023,VUT,Walking Strategies,National policy only,1
+2023,ZMB,Walking Strategies,National policy only,1
+2023,AND,Walking Strategies,National policy only,0
+2023,AZE,Walking Strategies,National policy only,0
+2023,BHS,Walking Strategies,National policy only,0
+2023,BGD,Walking Strategies,National policy only,0
+2023,BRB,Walking Strategies,National policy only,0
+2023,BTN,Walking Strategies,National policy only,0
+2023,KHM,Walking Strategies,National policy only,0
+2023,CAN,Walking Strategies,National policy only,0
+2023,COL,Walking Strategies,National policy only,0
+2023,CRI,Walking Strategies,National policy only,0
+2023,EGY,Walking Strategies,National policy only,0
+2023,ETH,Walking Strategies,National policy only,0
+2023,FSM,Walking Strategies,National policy only,0
+2023,JOR,Walking Strategies,National policy only,0
+2023,LAO,Walking Strategies,National policy only,0
+2023,MWI,Walking Strategies,National policy only,0
+2023,MEX,Walking Strategies,National policy only,0
+2023,MDA,Walking Strategies,National policy only,0
+2023,MMR,Walking Strategies,National policy only,0
+2023,NPL,Walking Strategies,National policy only,0
+2023,PAN,Walking Strategies,National policy only,0
+2023,RWA,Walking Strategies,National policy only,0
+2023,SYC,Walking Strategies,National policy only,0
+2023,SLE,Walking Strategies,National policy only,0
+2023,SGP,Walking Strategies,National policy only,0
+2023,LKA,Walking Strategies,National policy only,0
+2023,TJK,Walking Strategies,National policy only,0
+2023,TZA,Walking Strategies,National policy only,0
+2023,TON,Walking Strategies,National policy only,0
+2023,UGA,Walking Strategies,National policy only,0
+2023,USA,Walking Strategies,National policy only,0
+2023,BDI,Walking Strategies,National policy only,0
+2023,CPV,Walking Strategies,National policy only,0
+2023,CHN,Walking Strategies,National policy only,0
+2023,COD,Walking Strategies,National policy only,0
+2023,DMA,Walking Strategies,National policy only,0
+2023,DOM,Walking Strategies,National policy only,0
+2023,SLV,Walking Strategies,National policy only,0
+2023,LSO,Walking Strategies,National policy only,0
+2023,MCO,Walking Strategies,National policy only,0
+2023,NIC,Walking Strategies,National policy only,0
+2023,PSE,Walking Strategies,National policy only,0
+2023,SUR,Walking Strategies,National policy only,0
+2023,TLS,Walking Strategies,National policy only,0
+2023,AFG,Walking Strategies,National policy only,0
+2023,DZA,Walking Strategies,National policy only,0
+2023,AGO,Walking Strategies,National policy only,0
+2023,ATG,Walking Strategies,National policy only,0
+2023,BHR,Walking Strategies,National policy only,0
+2023,BLZ,Walking Strategies,National policy only,0
+2023,BEN,Walking Strategies,National policy only,0
+2023,BOL,Walking Strategies,National policy only,0
+2023,BIH,Walking Strategies,National policy only,0
+2023,BWA,Walking Strategies,National policy only,0
+2023,BFA,Walking Strategies,National policy only,0
+2023,CMR,Walking Strategies,National policy only,0
+2023,CAF,Walking Strategies,National policy only,0
+2023,TCD,Walking Strategies,National policy only,0
+2023,COM,Walking Strategies,National policy only,0
+2023,COG,Walking Strategies,National policy only,0
+2023,COK,Walking Strategies,National policy only,0
+2023,CUB,Walking Strategies,National policy only,0
+2023,CYP,Walking Strategies,National policy only,0
+2023,ECU,Walking Strategies,National policy only,0
+2023,GNQ,Walking Strategies,National policy only,0
+2023,ERI,Walking Strategies,National policy only,0
+2023,SWZ,Walking Strategies,National policy only,0
+2023,GAB,Walking Strategies,National policy only,0
+2023,GHA,Walking Strategies,National policy only,0
+2023,GRD,Walking Strategies,National policy only,0
+2023,GTM,Walking Strategies,National policy only,0
+2023,GIN,Walking Strategies,National policy only,0
+2023,GNB,Walking Strategies,National policy only,0
+2023,GUY,Walking Strategies,National policy only,0
+2023,HND,Walking Strategies,National policy only,0
+2023,HUN,Walking Strategies,National policy only,0
+2023,IRN,Walking Strategies,National policy only,0
+2023,IRQ,Walking Strategies,National policy only,0
+2023,CIV,Walking Strategies,National policy only,0
+2023,JPN,Walking Strategies,National policy only,0
+2023,KAZ,Walking Strategies,National policy only,0
+2023,KWT,Walking Strategies,National policy only,0
+2023,KGZ,Walking Strategies,National policy only,0
+2023,LBR,Walking Strategies,National policy only,0
+2023,LBY,Walking Strategies,National policy only,0
+2023,MDG,Walking Strategies,National policy only,0
+2023,MUS,Walking Strategies,National policy only,0
+2023,MAR,Walking Strategies,National policy only,0
+2023,MOZ,Walking Strategies,National policy only,0
+2023,NER,Walking Strategies,National policy only,0
+2023,NGA,Walking Strategies,National policy only,0
+2023,NIU,Walking Strategies,National policy only,0
+2023,PRK,Walking Strategies,National policy only,0
+2023,OMN,Walking Strategies,National policy only,0
+2023,PNG,Walking Strategies,National policy only,0
+2023,PRY,Walking Strategies,National policy only,0
+2023,RUS,Walking Strategies,National policy only,0
+2023,KNA,Walking Strategies,National policy only,0
+2023,LCA,Walking Strategies,National policy only,0
+2023,VCT,Walking Strategies,National policy only,0
+2023,SMR,Walking Strategies,National policy only,0
+2023,SAU,Walking Strategies,National policy only,0
+2023,SEN,Walking Strategies,National policy only,0
+2023,SOM,Walking Strategies,National policy only,0
+2023,KOR,Walking Strategies,National policy only,0
+2023,SDN,Walking Strategies,National policy only,0
+2023,SWE,Walking Strategies,National policy only,0
+2023,SYR,Walking Strategies,National policy only,0
+2023,TKM,Walking Strategies,National policy only,0
+2023,TUV,Walking Strategies,National policy only,0
+2023,UKR,Walking Strategies,National policy only,0
+2023,UZB,Walking Strategies,National policy only,0
+2023,VAT,Walking Strategies,National policy only,0
+2023,VEN,Walking Strategies,National policy only,0
+2023,VNM,Walking Strategies,National policy only,0
+2023,YEM,Walking Strategies,National policy only,0
+2023,ZWE,Walking Strategies,National policy only,0
