@@ -1,5 +1,9 @@
-year,geo,disagg,value
-2020,WLD,United States,43
-2022,WLD,United States,67
-2023,WLD,United States,77
-2022,WLD,Asia Pacific,35
+year,geo,value
+2020,USA,43
+2022,USA,67
+2023,USA,77
+2022,IDN,-19
+2022,MYS,67
+2022,PHL,86
+2022,THA,22
+2022,SGP,22
