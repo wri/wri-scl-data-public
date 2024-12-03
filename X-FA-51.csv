@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 1990,WLD,111.8,,,,
 1991,WLD,111.6,,,,
 1992,WLD,111.9,,,,
@@ -32,6 +32,7 @@
 2020,WLD,105.8,,,,
 2021,WLD,103.7,,,,
 2022,WLD,104,,,,
-2027,WLD,,101.1,,,
+2027,WLD,,101,,,
 2030,WLD,,,,79,
+2035,WLD,,,,74,
 2050,WLD,,,,60,
