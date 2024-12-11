@@ -1,17 +1,9 @@
 ﻿year,geo,disagg,value
-2013,WLD,Total,9.9
-2014,WLD,Total,9.9
-2015,WLD,Total,11.4
-2016,WLD,Total,11.4
-2017,WLD,Total,20.5
-2018,WLD,Total,20.5
-2019,WLD,Total,16.3
-2020,WLD,Total,16.3
-2021,WLD,Total,43
-2022,WLD,Total,43
-2021,WLD,Public (Intenational),11
-2022,WLD,Public (Intenational),11
-2021,WLD,Public (Domestic),24
-2022,WLD,Public (Domestic),24
-2021,WLD,Private,8
-2022,WLD,Private,8
+2019,WLD,Total,13
+2020,WLD,Total,17
+2021,WLD,Total,45.1
+2021,WLD,Public,37.4
+2021,WLD,Private,7.8
+2022,WLD,Total,44.8
+2022,WLD,Public,8.5
+2022,WLD,Private,36.3
