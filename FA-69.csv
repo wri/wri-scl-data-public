@@ -1,58 +1,59 @@
 year,geo,disagg,value
 1999,WLD,Total,0.1
-2005,WLD,Total,3
+2005,WLD,Total,3.0
 2012,WLD,Total,0.1
 2014,WLD,Total,0.2
-2015,WLD,Total,10
+2015,WLD,Total,10.0
 2016,WLD,Total,0.2
-2017,WLD,Total,3
+2017,WLD,Total,3.0
 2018,WLD,Total,24.4
 2019,WLD,Total,42.6
 2020,WLD,Total,181.1
 2021,WLD,Total,204.7
-2022,WLD,Total,582
+2022,WLD,Total,582.0
 2023,WLD,Total,580.5
-2019,WLD,Commercialization,0.02
+2024,WLD,Total,21.1
+2019,WLD,Commercialization,0.0
 2020,WLD,Commercialization,92.8
 2021,WLD,Commercialization,87.5
 2022,WLD,Commercialization,224.5
 2023,WLD,Commercialization,162.9
 2024,WLD,Commercialization,13.2
 1999,WLD,Research & Development,0.1
-2005,WLD,Research & Development,3
+2005,WLD,Research & Development,3.0
 2012,WLD,Research & Development,0.1
 2014,WLD,Research & Development,0.2
-2015,WLD,Research & Development,10
+2015,WLD,Research & Development,10.0
 2016,WLD,Research & Development,0.2
-2017,WLD,Research & Development,3
-2018,WLD,Research & Development,13
+2017,WLD,Research & Development,3.0
+2018,WLD,Research & Development,13.0
 2019,WLD,Research & Development,35.6
-2020,WLD,Research & Development,77
+2020,WLD,Research & Development,77.0
 2021,WLD,Research & Development,109.7
 2022,WLD,Research & Development,172.2
 2023,WLD,Research & Development,227.5
 2024,WLD,Research & Development,0.9
 2018,WLD,Mixed,11.4
-2019,WLD,Mixed,7
+2019,WLD,Mixed,7.0
 2020,WLD,Mixed,11.2
 2021,WLD,Mixed,7.6
 2022,WLD,Mixed,185.3
 2023,WLD,Mixed,190.1
-2024,WLD,Mixed,7
-2019,AUS,Total,0.02
+2024,WLD,Mixed,7.0
+2019,AUS,Total,0.0
 2020,AUS,Total,2.1
 2023,AUT,Total,0.5
 2020,BEL,Total,4.2
 2016,CAN,Total,0.2
 2021,CAN,Total,0.6
 2022,CAN,Total,0.4
-2023,CAN,Total,4
+2023,CAN,Total,4.0
 2020,CHN,Total,3.1
 2021,CHN,Total,0.1
 2022,DNK,Total,85.6
 2024,DNK,Total,0.9
 2023,EST,Total,0.8
-2015,EUU,Total,10
+2015,EUU,Total,10.0
 2018,EUU,Total,12.3
 2022,EUU,Total,18.5
 2024,EUU,Total,13.2
@@ -61,7 +62,7 @@ year,geo,disagg,value
 2022,FIN,Total,5.3
 2023,FIN,Total,3.2
 2023,FRA,Total,10.5
-2020,DEU,Total,10
+2020,DEU,Total,10.0
 2021,DEU,Total,20.4
 2022,DEU,Total,1.2
 2023,DEU,Total,42.1
@@ -74,15 +75,15 @@ year,geo,disagg,value
 2022,NOR,Total,2.1
 2021,SGP,Total,22.2
 2023,SGP,Total,4.9
-2023,KOR,Total,6
+2023,KOR,Total,6.0
 2020,ESP,Total,0.3
 2014,SWE,Total,0.2
 2022,SWE,Total,15.2
-2023,SWE,Total,5
+2023,SWE,Total,5.0
 2022,CHE,Total,11.2
 2023,CHE,Total,4.4
 2005,NLD,Total,2.7
-2017,NLD,Total,3
+2017,NLD,Total,3.0
 2021,NLD,Total,0.6
 2022,NLD,Total,59.3
 2021,GBR,Total,0.4
@@ -92,10 +93,10 @@ year,geo,disagg,value
 2012,USA,Total,0.1
 2019,USA,Total,7.8
 2020,USA,Total,7.3
-2021,USA,Total,7
-2023,USA,Total,7
-2024,USA,Total,7
-2019,AUS,Commercialization,0.02
+2021,USA,Total,7.0
+2023,USA,Total,7.0
+2024,USA,Total,7.0
+2019,AUS,Commercialization,0.0
 2020,CAN,Commercialization,82.8
 2020,FIN,Commercialization,4.8
 2020,JPN,Commercialization,5.1
@@ -105,7 +106,7 @@ year,geo,disagg,value
 2021,CHN,Commercialization,0.1
 2021,FIN,Commercialization,11.9
 2021,GBR,Commercialization,0.4
-2021,ISR,Commercialization,35
+2021,ISR,Commercialization,35.0
 2021,NZL,Commercialization,5.6
 2021,SGP,Commercialization,22.2
 2022,AUS,Commercialization,19.6
@@ -113,7 +114,7 @@ year,geo,disagg,value
 2022,DNK,Commercialization,85.6
 2022,EUU,Commercialization,18.5
 2022,FIN,Commercialization,40.5
-2022,FRA,Commercialization,11
+2022,FRA,Commercialization,11.0
 2022,GBR,Commercialization,4.9
 2022,ISR,Commercialization,14.3
 2022,NLD,Commercialization,0.1
@@ -125,7 +126,7 @@ year,geo,disagg,value
 2023,EUU,Commercialization,69.1
 2023,FRA,Commercialization,10.5
 2023,GBR,Commercialization,2.6
-2023,ISR,Commercialization,15
+2023,ISR,Commercialization,15.0
 2023,JPN,Commercialization,19.8
 2023,USA,Commercialization,25.8
 2024,EUU,Commercialization,13.2
@@ -134,9 +135,9 @@ year,geo,disagg,value
 2005,USA,Research & Development,0.3
 2012,USA,Research & Development,0.1
 2014,SWE,Research & Development,0.2
-2015,EUU,Research & Development,10
+2015,EUU,Research & Development,10.0
 2016,CAN,Research & Development,0.2
-2017,NLD,Research & Development,3
+2017,NLD,Research & Development,3.0
 2018,CAN,Research & Development,0.4
 2018,EUU,Research & Development,12.3
 2018,USA,Research & Development,0.4
@@ -148,7 +149,7 @@ year,geo,disagg,value
 2020,AUS,Research & Development,2.1
 2020,CAN,Research & Development,37.2
 2020,CHN,Research & Development,3.1
-2020,DEU,Research & Development,10
+2020,DEU,Research & Development,10.0
 2020,ESP,Research & Development,0.3
 2020,EUU,Research & Development,5.1
 2020,FIN,Research & Development,2.4
@@ -167,7 +168,7 @@ year,geo,disagg,value
 2021,NLD,Research & Development,0.6
 2021,NOR,Research & Development,7.6
 2021,USA,Research & Development,14.6
-2022,AUS,Research & Development,9
+2022,AUS,Research & Development,9.0
 2022,CAN,Research & Development,7.6
 2022,CHE,Research & Development,11.2
 2022,DEU,Research & Development,1.2
@@ -176,15 +177,15 @@ year,geo,disagg,value
 2022,FIN,Research & Development,5.3
 2022,FRA,Research & Development,7.9
 2022,GBR,Research & Development,1.9
-2022,ISR,Research & Development,31
-2022,KOR,Research & Development,15
-2022,NLD,Research & Development,4
+2022,ISR,Research & Development,31.0
+2022,KOR,Research & Development,15.0
+2022,NLD,Research & Development,4.0
 2022,NOR,Research & Development,2.1
 2022,USA,Research & Development,22.3
 2023,AUS,Research & Development,1.8
 2023,AUT,Research & Development,0.5
 2023,BRA,Research & Development,1.6
-2023,CAN,Research & Development,4
+2023,CAN,Research & Development,4.0
 2023,DEU,Research & Development,1.4
 2023,ESP,Research & Development,7.8
 2023,EUU,Research & Development,36.9
@@ -196,25 +197,25 @@ year,geo,disagg,value
 2023,NZL,Research & Development,7.6
 2023,SGP,Research & Development,0.5
 2023,SWE,Research & Development,0.5
-2023,USA,Research & Development,56
+2023,USA,Research & Development,56.0
 2024,DNK,Research & Development,0.9
 2018,USA,Mixed,11.4
-2019,USA,Mixed,7
+2019,USA,Mixed,7.0
 2020,BEL,Mixed,4.2
-2020,USA,Mixed,7
+2020,USA,Mixed,7.0
 2021,CAN,Mixed,0.6
-2021,USA,Mixed,7
+2021,USA,Mixed,7.0
 2022,CAN,Mixed,0.4
 2022,DNK,Mixed,118.7
 2022,NLD,Mixed,59.2
-2022,USA,Mixed,7
-2023,CAN,Mixed,117
+2022,USA,Mixed,7.0
+2023,CAN,Mixed,117.0
 2023,CHE,Mixed,4.4
 2023,DEU,Mixed,41.6
 2023,ISR,Mixed,5.2
-2023,KOR,Mixed,6
+2023,KOR,Mixed,6.0
 2023,SGP,Mixed,4.4
 2023,SWE,Mixed,4.4
-2023,USA,Mixed,7
-2024,USA,Mixed,7
-2024,USA,Mixed,7
+2023,USA,Mixed,7.0
+2024,USA,Mixed,7.0
+2024,USA,Mixed,7.0
