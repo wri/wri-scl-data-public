@@ -1,3 +1,319 @@
-year,geo,value
-2022,WLD,653
-2023,WLD,1354
+year,geo,disagg,value
+2022,WLD,Total,653
+2023,WLD,Total,1354
+2024,WLD,Total,1688
+2024,WLD,Corporate,524
+2024,WLD,Civil society and NGOs,168
+2024,WLD,Governments,82
+2024,WLD,Data provider,19
+2024,WLD,Financial institution,316
+2024,WLD,Market association & consortia,105
+2024,WLD,Market service provider,351
+2024,WLD,Multilateral & IGO,4
+2024,WLD,Other,17
+2024,WLD,Public & development finance,1
+2024,WLD,Not classified,101
+2024,ARG,Total,2
+2024,AUS,Total,148
+2024,AUT,Total,4
+2024,BEL,Total,5
+2024,BGD,Total,2
+2024,BRA,Total,28
+2024,BWA,Total,1
+2024,CAN,Total,69
+2024,CHE,Total,61
+2024,CHL,Total,3
+2024,CHN,Total,20
+2024,COD,Total,1
+2024,COL,Total,12
+2024,CYM,Total,1
+2024,CZE,Total,1
+2024,DEU,Total,32
+2024,DNK,Total,14
+2024,EGY,Total,12
+2024,ESP,Total,34
+2024,EST,Total,4
+2024,ETH,Total,1
+2024,FIN,Total,8
+2024,FRA,Total,72
+2024,GBR,Total,359
+2024,GHA,Total,2
+2024,GRC,Total,3
+2024,HKG,Total,19
+2024,IDN,Total,6
+2024,IND,Total,21
+2024,IRL,Total,11
+2024,ISL,Total,1
+2024,ISR,Total,1
+2024,ITA,Total,8
+2024,JPN,Total,273
+2024,KEN,Total,7
+2024,KOR,Total,28
+2024,LKA,Total,1
+2024,LUX,Total,1
+2024,MAR,Total,1
+2024,MEX,Total,13
+2024,MUS,Total,1
+2024,MYS,Total,12
+2024,NGA,Total,3
+2024,NLD,Total,38
+2024,NOR,Total,20
+2024,NZL,Total,17
+2024,PAK,Total,3
+2024,PER,Total,4
+2024,PHL,Total,8
+2024,PNG,Total,1
+2024,POL,Total,3
+2024,PRT,Total,2
+2024,RWA,Total,2
+2024,SAU,Total,1
+2024,SGP,Total,24
+2024,SWE,Total,15
+2024,TGO,Total,1
+2024,THA,Total,11
+2024,TTO,Total,1
+2024,TUR,Total,6
+2024,TWN,Total,25
+2024,TZA,Total,2
+2024,UAE,Total,7
+2024,UKR,Total,1
+2024,USA,Total,168
+2024,UZB,Total,1
+2024,VCT,Total,1
+2024,VNM,Total,3
+2024,ZAF,Total,15
+2024,ARG,Corporate,1
+2024,AUS,Corporate,33
+2024,AUT,Corporate,2
+2024,BRA,Corporate,10
+2024,CAN,Corporate,20
+2024,CHL,Corporate,1
+2024,CHN,Corporate,6
+2024,COL,Corporate,3
+2024,CZE,Corporate,1
+2024,DNK,Corporate,7
+2024,FIN,Corporate,2
+2024,FRA,Corporate,16
+2024,DEU,Corporate,8
+2024,GRC,Corporate,2
+2024,HKG,Corporate,8
+2024,ISL,Corporate,1
+2024,IND,Corporate,11
+2024,IDN,Corporate,4
+2024,IRL,Corporate,3
+2024,ITA,Corporate,4
+2024,JPN,Corporate,166
+2024,KOR,Corporate,10
+2024,MYS,Corporate,4
+2024,MUS,Corporate,1
+2024,MEX,Corporate,2
+2024,NLD,Corporate,7
+2024,NZL,Corporate,3
+2024,NGA,Corporate,1
+2024,NOR,Corporate,9
+2024,PHL,Corporate,3
+2024,POL,Corporate,1
+2024,PRT,Corporate,2
+2024,VCT,Corporate,1
+2024,SAU,Corporate,1
+2024,SGP,Corporate,9
+2024,ZAF,Corporate,1
+2024,ESP,Corporate,12
+2024,LKA,Corporate,1
+2024,SWE,Corporate,4
+2024,CHE,Corporate,9
+2024,TWN,Corporate,11
+2024,THA,Corporate,9
+2024,TUR,Corporate,1
+2024,UAE,Corporate,3
+2024,GBR,Corporate,71
+2024,USA,Corporate,38
+2024,UZB,Corporate,1
+2024,AUS,Civil society and NGOs,23
+2024,BEL,Civil society and NGOs,2
+2024,BRA,Civil society and NGOs,3
+2024,CAN,Civil society and NGOs,3
+2024,CHN,Civil society and NGOs,1
+2024,COL,Civil society and NGOs,3
+2024,COD,Civil society and NGOs,1
+2024,DNK,Civil society and NGOs,1
+2024,EST,Civil society and NGOs,1
+2024,FRA,Civil society and NGOs,4
+2024,DEU,Civil society and NGOs,4
+2024,GHA,Civil society and NGOs,2
+2024,HKG,Civil society and NGOs,3
+2024,IND,Civil society and NGOs,1
+2024,IRL,Civil society and NGOs,2
+2024,JPN,Civil society and NGOs,7
+2024,KEN,Civil society and NGOs,2
+2024,KOR,Civil society and NGOs,1
+2024,MEX,Civil society and NGOs,2
+2024,NLD,Civil society and NGOs,4
+2024,NZL,Civil society and NGOs,4
+2024,NGA,Civil society and NGOs,1
+2024,PAK,Civil society and NGOs,1
+2024,PNG,Civil society and NGOs,1
+2024,PER,Civil society and NGOs,1
+2024,PHL,Civil society and NGOs,1
+2024,POL,Civil society and NGOs,1
+2024,RWA,Civil society and NGOs,1
+2024,SGP,Civil society and NGOs,1
+2024,ZAF,Civil society and NGOs,5
+2024,ESP,Civil society and NGOs,3
+2024,CHE,Civil society and NGOs,8
+2024,TZA,Civil society and NGOs,1
+2024,THA,Civil society and NGOs,1
+2024,TTO,Civil society and NGOs,1
+2024,GBR,Civil society and NGOs,32
+2024,USA,Civil society and NGOs,32
+2024,VNM,Civil society and NGOs,2
+2024,AUS,Governments,12
+2024,BGD,Governments,1
+2024,BRA,Governments,2
+2024,CAN,Governments,5
+2024,COL,Governments,1
+2024,DNK,Governments,1
+2024,FRA,Governments,3
+2024,DEU,Governments,2
+2024,HKG,Governments,1
+2024,IRL,Governments,1
+2024,JPN,Governments,7
+2024,KEN,Governments,3
+2024,KOR,Governments,1
+2024,LUX,Governments,1
+2024,MEX,Governments,2
+2024,NLD,Governments,1
+2024,NGA,Governments,1
+2024,NOR,Governments,1
+2024,PER,Governments,1
+2024,PHL,Governments,1
+2024,ZAF,Governments,1
+2024,ESP,Governments,1
+2024,CHE,Governments,6
+2024,TGO,Governments,1
+2024,GBR,Governments,18
+2024,USA,Governments,7
+2024,AUS,Data provider,1
+2024,CAN,Data provider,1
+2024,DNK,Data provider,1
+2024,FRA,Data provider,1
+2024,DEU,Data provider,3
+2024,IRL,Data provider,1
+2024,ISR,Data provider,1
+2024,JPN,Data provider,1
+2024,NLD,Data provider,1
+2024,SGP,Data provider,1
+2024,CHE,Data provider,1
+2024,GBR,Data provider,4
+2024,USA,Data provider,2
+2024,AUS,Financial institution,19
+2024,BEL,Financial institution,1
+2024,BWA,Financial institution,1
+2024,BRA,Financial institution,2
+2024,CAN,Financial institution,15
+2024,CYM,Financial institution,1
+2024,COL,Financial institution,2
+2024,DNK,Financial institution,3
+2024,EGY,Financial institution,10
+2024,FIN,Financial institution,4
+2024,FRA,Financial institution,23
+2024,DEU,Financial institution,5
+2024,HKG,Financial institution,1
+2024,IND,Financial institution,1
+2024,IRL,Financial institution,1
+2024,ITA,Financial institution,4
+2024,JPN,Financial institution,47
+2024,KEN,Financial institution,1
+2024,KOR,Financial institution,10
+2024,MYS,Financial institution,4
+2024,MEX,Financial institution,2
+2024,NLD,Financial institution,9
+2024,NOR,Financial institution,6
+2024,PHL,Financial institution,1
+2024,SGP,Financial institution,5
+2024,ZAF,Financial institution,5
+2024,ESP,Financial institution,4
+2024,SWE,Financial institution,6
+2024,CHE,Financial institution,13
+2024,TWN,Financial institution,6
+2024,UAE,Financial institution,3
+2024,GBR,Financial institution,70
+2024,USA,Financial institution,31
+2024,AUS,Market association & consortia,14
+2024,BRA,Market association & consortia,2
+2024,CAN,Market association & consortia,6
+2024,CHN,Market association & consortia,1
+2024,COL,Market association & consortia,2
+2024,DNK,Market association & consortia,1
+2024,FRA,Market association & consortia,8
+2024,DEU,Market association & consortia,2
+2024,HKG,Market association & consortia,1
+2024,IND,Market association & consortia,3
+2024,JPN,Market association & consortia,11
+2024,KEN,Market association & consortia,1
+2024,KOR,Market association & consortia,2
+2024,MEX,Market association & consortia,2
+2024,MAR,Market association & consortia,1
+2024,NLD,Market association & consortia,3
+2024,NZL,Market association & consortia,3
+2024,PER,Market association & consortia,2
+2024,PHL,Market association & consortia,1
+2024,SGP,Market association & consortia,1
+2024,ESP,Market association & consortia,1
+2024,CHE,Market association & consortia,6
+2024,TWN,Market association & consortia,1
+2024,TZA,Market association & consortia,1
+2024,GBR,Market association & consortia,23
+2024,USA,Market association & consortia,6
+2024,ARG,Market service provider,1
+2024,AUS,Market service provider,34
+2024,AUT,Market service provider,2
+2024,BEL,Market service provider,2
+2024,BRA,Market service provider,8
+2024,CAN,Market service provider,13
+2024,CHL,Market service provider,1
+2024,CHN,Market service provider,6
+2024,COL,Market service provider,1
+2024,EGY,Market service provider,1
+2024,EST,Market service provider,2
+2024,FIN,Market service provider,2
+2024,FRA,Market service provider,16
+2024,DEU,Market service provider,5
+2024,GRC,Market service provider,1
+2024,HKG,Market service provider,4
+2024,IND,Market service provider,5
+2024,IDN,Market service provider,1
+2024,IRL,Market service provider,3
+2024,JPN,Market service provider,19
+2024,MYS,Market service provider,2
+2024,MEX,Market service provider,3
+2024,NLD,Market service provider,11
+2024,NZL,Market service provider,6
+2024,NOR,Market service provider,3
+2024,PAK,Market service provider,1
+2024,PHL,Market service provider,1
+2024,POL,Market service provider,1
+2024,SGP,Market service provider,5
+2024,ZAF,Market service provider,3
+2024,ESP,Market service provider,11
+2024,SWE,Market service provider,2
+2024,CHE,Market service provider,14
+2024,TWN,Market service provider,2
+2024,TUR,Market service provider,3
+2024,UKR,Market service provider,1
+2024,UAE,Market service provider,1
+2024,GBR,Market service provider,111
+2024,USA,Market service provider,43
+2024,CHE,Multilateral & IGO,1
+2024,TWN,Multilateral & IGO,1
+2024,USA,Multilateral & IGO,1
+2024,VNM,Multilateral & IGO,1
+2024,AUS,Other,1
+2024,CHN,Other,2
+2024,EST,Other,1
+2024,JPN,Other,2
+2024,KOR,Other,1
+2024,CHE,Other,1
+2024,GBR,Other,7
+2024,USA,Other,2
+2024,CAN,Public & development finance,1
