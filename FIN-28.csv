@@ -1,15 +1,42 @@
 year,geo,disagg,value
 2022,WLD,Total,48
-2023,WLD,Total,64
-2024,WLD,Total,77
+2023,WLD,Total,63
+2024,WLD,Total,76
 2022,WLD,Taxonomy developed,36
 2022,WLD,Taxonomy in development,12
-2023,WLD,Taxonomy developed,48
+2023,WLD,Taxonomy developed,47
 2023,WLD,Taxonomy in development,16
-2024,WLD,Taxonomy developed,53
+2024,WLD,Taxonomy developed,52
 2024,WLD,Taxonomy in development,24
 2022,CHN,Total,1
 2022,EUU,Total,1
+2022,AUT,Total,1
+2022,BEL,Total,1
+2022,BGR,Total,1
+2022,HRV,Total,1
+2022,CYP,Total,1
+2022,CZE,Total,1
+2022,DNK,Total,1
+2022,EST,Total,1
+2022,FIN,Total,1
+2022,FRA,Total,1
+2022,DEU,Total,1
+2022,GRC,Total,1
+2022,HUN,Total,1
+2022,IRL,Total,1
+2022,ITA,Total,1
+2022,LVA,Total,1
+2022,LTU,Total,1
+2022,LUX,Total,1
+2022,MLT,Total,1
+2022,NLD,Total,1
+2022,POL,Total,1
+2022,PRT,Total,1
+2022,ROU,Total,1
+2022,SVK,Total,1
+2022,SVN,Total,1
+2022,ESP,Total,1
+2022,SWE,Total,1
 2022,BGD,Total,1
 2022,MNG,Total,1
 2022,RUS,Total,1
@@ -34,11 +61,37 @@ year,geo,disagg,value
 2023,MEX,Total,1
 2023,NOR,Total,1
 2023,EUU,Total,1
+2023,AUT,Total,1
+2023,BEL,Total,1
+2023,BGR,Total,1
+2023,HRV,Total,1
+2023,CYP,Total,1
+2023,CZE,Total,1
+2023,DNK,Total,1
+2023,EST,Total,1
+2023,FIN,Total,1
+2023,FRA,Total,1
+2023,DEU,Total,1
+2023,GRC,Total,1
+2023,HUN,Total,1
+2023,IRL,Total,1
+2023,ITA,Total,1
+2023,LVA,Total,1
+2023,LTU,Total,1
+2023,LUX,Total,1
+2023,MLT,Total,1
+2023,NLD,Total,1
+2023,POL,Total,1
+2023,PRT,Total,1
+2023,ROU,Total,1
+2023,SVK,Total,1
+2023,SVN,Total,1
+2023,ESP,Total,1
+2023,SWE,Total,1
 2023,ZAF,Total,1
 2023,RUS,Total,1
 2023,GEO,Total,1
 2023,MNG,Total,1
-2023,JPN,Total,1
 2023,KOR,Total,1
 2023,CHN,Total,1
 2023,LKA,Total,1
@@ -76,6 +129,33 @@ year,geo,disagg,value
 2024,ZAF,Total,1
 2024,GEO,Total,1
 2024,EUU,Total,1
+2024,AUT,Total,1
+2024,BEL,Total,1
+2024,BGR,Total,1
+2024,HRV,Total,1
+2024,CYP,Total,1
+2024,CZE,Total,1
+2024,DNK,Total,1
+2024,EST,Total,1
+2024,FIN,Total,1
+2024,FRA,Total,1
+2024,DEU,Total,1
+2024,GRC,Total,1
+2024,HUN,Total,1
+2024,IRL,Total,1
+2024,ITA,Total,1
+2024,LVA,Total,1
+2024,LTU,Total,1
+2024,LUX,Total,1
+2024,MLT,Total,1
+2024,NLD,Total,1
+2024,POL,Total,1
+2024,PRT,Total,1
+2024,ROU,Total,1
+2024,SVK,Total,1
+2024,SVN,Total,1
+2024,ESP,Total,1
+2024,SWE,Total,1
 2024,NOR,Total,1
 2024,RUS,Total,1
 2024,KAZ,Total,1
@@ -83,7 +163,6 @@ year,geo,disagg,value
 2024,MNG,Total,1
 2024,CHN,Total,1
 2024,KOR,Total,1
-2024,HND,Total,1
 2024,BGD,Total,1
 2024,LKA,Total,1
 2024,VGB,Total,1
@@ -121,6 +200,33 @@ year,geo,disagg,value
 2024,GBR,Total,1
 2022,CHN,Taxonomy developed,1
 2022,EUU,Taxonomy developed,1
+2022,AUT,Taxonomy developed,1
+2022,BEL,Taxonomy developed,1
+2022,BGR,Taxonomy developed,1
+2022,HRV,Taxonomy developed,1
+2022,CYP,Taxonomy developed,1
+2022,CZE,Taxonomy developed,1
+2022,DNK,Taxonomy developed,1
+2022,EST,Taxonomy developed,1
+2022,FIN,Taxonomy developed,1
+2022,FRA,Taxonomy developed,1
+2022,DEU,Taxonomy developed,1
+2022,GRC,Taxonomy developed,1
+2022,HUN,Taxonomy developed,1
+2022,IRL,Taxonomy developed,1
+2022,ITA,Taxonomy developed,1
+2022,LVA,Taxonomy developed,1
+2022,LTU,Taxonomy developed,1
+2022,LUX,Taxonomy developed,1
+2022,MLT,Taxonomy developed,1
+2022,NLD,Taxonomy developed,1
+2022,POL,Taxonomy developed,1
+2022,PRT,Taxonomy developed,1
+2022,ROU,Taxonomy developed,1
+2022,SVK,Taxonomy developed,1
+2022,SVN,Taxonomy developed,1
+2022,ESP,Taxonomy developed,1
+2022,SWE,Taxonomy developed,1
 2022,BGD,Taxonomy developed,1
 2022,MNG,Taxonomy developed,1
 2022,RUS,Taxonomy developed,1
@@ -161,11 +267,37 @@ year,geo,disagg,value
 2023,MEX,Taxonomy developed,1
 2023,NOR,Taxonomy developed,1
 2023,EUU,Taxonomy developed,1
+2023,AUT,Taxonomy developed,1
+2023,BEL,Taxonomy developed,1
+2023,BGR,Taxonomy developed,1
+2023,HRV,Taxonomy developed,1
+2023,CYP,Taxonomy developed,1
+2023,CZE,Taxonomy developed,1
+2023,DNK,Taxonomy developed,1
+2023,EST,Taxonomy developed,1
+2023,FIN,Taxonomy developed,1
+2023,FRA,Taxonomy developed,1
+2023,DEU,Taxonomy developed,1
+2023,GRC,Taxonomy developed,1
+2023,HUN,Taxonomy developed,1
+2023,IRL,Taxonomy developed,1
+2023,ITA,Taxonomy developed,1
+2023,LVA,Taxonomy developed,1
+2023,LTU,Taxonomy developed,1
+2023,LUX,Taxonomy developed,1
+2023,MLT,Taxonomy developed,1
+2023,NLD,Taxonomy developed,1
+2023,POL,Taxonomy developed,1
+2023,PRT,Taxonomy developed,1
+2023,ROU,Taxonomy developed,1
+2023,SVK,Taxonomy developed,1
+2023,SVN,Taxonomy developed,1
+2023,ESP,Taxonomy developed,1
+2023,SWE,Taxonomy developed,1
 2023,ZAF,Taxonomy developed,1
 2023,RUS,Taxonomy developed,1
 2023,GEO,Taxonomy developed,1
 2023,MNG,Taxonomy developed,1
-2023,JPN,Taxonomy developed,1
 2023,KOR,Taxonomy developed,1
 2023,CHN,Taxonomy developed,1
 2023,LKA,Taxonomy developed,1
@@ -211,6 +343,33 @@ year,geo,disagg,value
 2024,ZAF,Taxonomy developed,1
 2024,GEO,Taxonomy developed,1
 2024,EUU,Taxonomy developed,1
+2024,AUT,Taxonomy developed,1
+2024,BEL,Taxonomy developed,1
+2024,BGR,Taxonomy developed,1
+2024,HRV,Taxonomy developed,1
+2024,CYP,Taxonomy developed,1
+2024,CZE,Taxonomy developed,1
+2024,DNK,Taxonomy developed,1
+2024,EST,Taxonomy developed,1
+2024,FIN,Taxonomy developed,1
+2024,FRA,Taxonomy developed,1
+2024,DEU,Taxonomy developed,1
+2024,GRC,Taxonomy developed,1
+2024,HUN,Taxonomy developed,1
+2024,IRL,Taxonomy developed,1
+2024,ITA,Taxonomy developed,1
+2024,LVA,Taxonomy developed,1
+2024,LTU,Taxonomy developed,1
+2024,LUX,Taxonomy developed,1
+2024,MLT,Taxonomy developed,1
+2024,NLD,Taxonomy developed,1
+2024,POL,Taxonomy developed,1
+2024,PRT,Taxonomy developed,1
+2024,ROU,Taxonomy developed,1
+2024,SVK,Taxonomy developed,1
+2024,SVN,Taxonomy developed,1
+2024,ESP,Taxonomy developed,1
+2024,SWE,Taxonomy developed,1
 2024,NOR,Taxonomy developed,1
 2024,RUS,Taxonomy developed,1
 2024,KAZ,Taxonomy developed,1
@@ -218,7 +377,6 @@ year,geo,disagg,value
 2024,MNG,Taxonomy developed,1
 2024,CHN,Taxonomy developed,1
 2024,KOR,Taxonomy developed,1
-2024,HND,Taxonomy developed,1
 2024,BGD,Taxonomy developed,1
 2024,LKA,Taxonomy developed,1
 2024,VGB,Taxonomy developed,1

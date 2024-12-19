@@ -1,0 +1,5 @@
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+2022,WLD,Total,2,,,,
+2022,WLD,CCUS-equipped,0.5,,,,
+2022,WLD,Electrolytic hydrogen-based,0,,,,
+2022,WLD,Other,1,,,,
