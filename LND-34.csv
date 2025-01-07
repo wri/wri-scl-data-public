@@ -1,9 +1,19 @@
-﻿year,geo,disagg,value
-2019,WLD,Total,13
-2020,WLD,Total,17
-2021,WLD,Total,45.1
-2021,WLD,Public,37.4
-2021,WLD,Private,7.8
-2022,WLD,Total,44.8
-2022,WLD,Public,8.5
-2022,WLD,Private,36.3
+﻿year,geo,disagg_type,disagg,value
+2021,WLD,,Total,45.192
+2022,WLD,,Total,44.819
+2019,WLD,Benefits,Adaptation,4
+2019,WLD,Benefits,Mitigation,7
+2019,WLD,Benefits,Dual Benefits ,2
+2020,WLD,Benefits,Adaptation,6
+2020,WLD,Benefits,Mitigation,9
+2020,WLD,Benefits,Dual Benefits ,2
+2021,WLD,Benefits,Adaptation,7.301222015
+2021,WLD,Benefits,Mitigation,6.348745235
+2021,WLD,Benefits,Dual Benefits ,31.24725433
+2021,WLD,Investment,Private,7.772
+2021,WLD,Investment,Public,37.42
+2022,WLD,Benefits,Adaptation,6.773174177
+2022,WLD,Benefits,Mitigation,6.761772982
+2022,WLD,Benefits,Dual Benefits ,26.69268749
+2022,WLD,Investment,Private,8.46
+2022,WLD,Investment,Public,36.359
