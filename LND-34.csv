@@ -1,8 +1,8 @@
 ﻿year,geo,disagg_type,disagg,value
-2019,WLD,,Total,14.7
-2020,WLD,,Total,17.9
-2021,WLD,,Total,45.2
-2022,WLD,,Total,44.8
+2019,WLD,All,Total,14.7
+2020,WLD,All,Total,17.9
+2021,WLD,All,Total,45.2
+2022,WLD,All,Total,44.8
 2019,WLD,Uses,Adaptation,4
 2019,WLD,Uses,Mitigation,7
 2019,WLD,Uses,Dual Benefits ,2
