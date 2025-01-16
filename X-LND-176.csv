@@ -1,2 +1,9 @@
-﻿year,geo,value
-2024,WLD,945
+year,geo,disagg,value
+2024,WLD,Total,945
+2024,WLD,Animalia,452
+2024,WLD,Bacteria,7
+2024,WLD,Chromista,2
+2024,WLD,Fungi,17
+2024,WLD,Plantae,458
+2024,WLD,Protista,1
+2024,WLD,Virus,8
