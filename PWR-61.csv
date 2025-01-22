@@ -1,19 +1,18 @@
-﻿year,geo,value
-2023,WLD,192
-2024,WLD,360
-2025,WLD,494
-2026,WLD,601
-2027,WLD,678
-2028,WLD,722
-2029,WLD,734
-2030,WLD,805
-2031,WLD,809
-2032,WLD,815
-2033,WLD,817
-2034,WLD,817
-2035,WLD,822
-2036,WLD,823
-2037,WLD,823
-2038,WLD,824
-2039,WLD,824
-2040,WLD,827
+year,geo,disagg,value
+2018,WLD,Natural gas,2.05
+2018,WLD,Natural gas with CCUS,2.2
+2018,WLD,Coal,1.7
+2018,WLD,Renewables,5.25
+2019,WLD,Natural gas,1.15
+2019,WLD,Natural gas with CCUS,1.65
+2019,WLD,Coal,2.2
+2019,WLD,Coal with CCS,2.35
+2019,WLD,Low-Carbon electricity,5.45
+2021,WLD,Natural gas,1.08
+2021,WLD,Natural gas with CCUS,1.50
+2021,WLD,Coal,1.71
+2021,WLD,Coal with CCUS,2.09
+2021,WLD,Wind onshore,5.72
+2021,WLD,Wind offshore,5.72
+2021,WLD,Solar PV,5.72
+2021,WLD,Nuclear,3.50
