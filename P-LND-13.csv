@@ -1,12 +1,7 @@
-﻿year,geo,disagg,value
-2019,WLD,Companies' Commitment Strength,29
-2020,WLD,Companies' Commitment Strength,32
-2021,WLD,Companies' Commitment Strength,30
-2022,WLD,Companies' Commitment Strength,29
-2023,WLD,Companies' Commitment Strength,31
-2018,WLD,Financial Institutions' Policy Strength,15
-2019,WLD,Financial Institutions' Policy Strength,18.3
-2020,WLD,Financial Institutions' Policy Strength,20.4
-2021,WLD,Financial Institutions' Policy Strength,11.9
-2022,WLD,Financial Institutions' Policy Strength,13
-2023,WLD,Financial Institutions' Policy Strength,15.9
+﻿year,geo,value
+2018,WLD,25
+2019,WLD,29
+2020,WLD,32
+2021,WLD,30
+2022,WLD,29
+2023,WLD,31
