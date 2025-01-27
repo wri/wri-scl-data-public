@@ -1,32 +1,376 @@
-year,geo,value
-1990,WLD,9075145737
-1991,WLD,113373864280
-1992,WLD,4010630494
-1993,WLD,59353873504
-1994,WLD,885141374
-1995,WLD,9628131918
-1996,WLD,4554864818
-1997,WLD,1356161978
-1998,WLD,10148788341
-1999,WLD,8426561268
-2000,WLD,116559903069
-2001,WLD,86062949755
-2002,WLD,59423008453
-2003,WLD,3073770773
-2004,WLD,61171880204
-2005,WLD,558447809567
-2006,WLD,40156542204
-2007,WLD,77447920675
-2008,WLD,7298223404
-2009,WLD,42462640044
-2010,WLD,48096465047
-2011,WLD,152363355545
-2012,WLD,80424592014
-2013,WLD,57225986314
-2014,WLD,107674338547
-2015,WLD,7372458785
-2016,WLD,23189301383
-2017,WLD,64409361431
-2018,WLD,15030414247
-2019,WLD,8771527794
-2020,WLD,567778200
+year,geo,disagg_type,disagg,value
+1990,WLD,All,Total,9078897807
+1991,WLD,All,Total,113381931946
+1992,WLD,All,Total,4202519037
+1993,WLD,All,Total,59414185307
+1994,WLD,All,Total,10807337360
+1995,WLD,All,Total,9628131918
+1996,WLD,All,Total,5194674768
+1997,WLD,All,Total,1420604174
+1998,WLD,All,Total,10148788341
+1999,WLD,All,Total,232118947983
+2000,WLD,All,Total,314001870339
+2001,WLD,All,Total,277972804030
+2002,WLD,All,Total,683623474098
+2003,WLD,All,Total,553249087093
+2004,WLD,All,Total,451029240683
+2005,WLD,All,Total,579963920383
+2006,WLD,All,Total,42020188987
+2007,WLD,All,Total,77447931369
+2008,WLD,All,Total,7351281050
+2009,WLD,All,Total,42480306834
+2010,WLD,All,Total,56082529638
+2011,WLD,All,Total,175907934724
+2012,WLD,All,Total,108179110402
+2013,WLD,All,Total,205274815381
+2014,WLD,All,Total,107690703310
+2015,WLD,All,Total,7372713758
+2016,WLD,All,Total,23189898115
+2017,WLD,All,Total,64417270897
+2018,WLD,All,Total,15062417851
+2019,WLD,All,Total,8771911107
+2020,WLD,All,Total,568195649
+1990,WLD,Management Type,Knowledge funding,5017776
+1990,WLD,Management Type,Mixed,546237
+1990,WLD,Management Type,NA,8432753863
+1990,WLD,Management Type,Post-invasion_management,640579931
+1991,WLD,Management Type,Knowledge funding,3007308
+1991,WLD,Management Type,Mixed,332281430
+1991,WLD,Management Type,NA,112973597072
+1991,WLD,Management Type,Post-invasion_management,53248189
+1991,WLD,Management Type,Pre-invasion_management,19797947
+1992,WLD,Management Type,Knowledge funding,15878473
+1992,WLD,Management Type,Mixed,1764927
+1992,WLD,Management Type,NA,2224361042
+1992,WLD,Management Type,Post-invasion_management,1768626051
+1992,WLD,Management Type,Pre-invasion_management,191888542
+1993,WLD,Management Type,Knowledge funding,56101053
+1993,WLD,Management Type,Mixed,9926389
+1993,WLD,Management Type,NA,53579786000
+1993,WLD,Management Type,Post-invasion_management,5767353774
+1993,WLD,Management Type,Pre-invasion_management,1018091
+1994,WLD,Management Type,Mixed,15194
+1994,WLD,Management Type,NA,10790394751
+1994,WLD,Management Type,Post-invasion_management,16927415
+1995,WLD,Management Type,Knowledge funding,8043
+1995,WLD,Management Type,Mixed,48257164
+1995,WLD,Management Type,NA,8480362208
+1995,WLD,Management Type,Post-invasion_management,1099504503
+1996,WLD,Management Type,Knowledge funding,625106
+1996,WLD,Management Type,NA,4318123182
+1996,WLD,Management Type,Post-invasion_management,875682385
+1996,WLD,Management Type,Unspecified,244095
+1997,WLD,Management Type,Knowledge funding,5497438
+1997,WLD,Management Type,Mixed,21637
+1997,WLD,Management Type,NA,116035263
+1997,WLD,Management Type,Post-invasion_management,1299049835
+1998,WLD,Management Type,Knowledge funding,5442780
+1998,WLD,Management Type,Mixed,13371
+1998,WLD,Management Type,NA,9775830632
+1998,WLD,Management Type,Post-invasion_management,347666494
+1998,WLD,Management Type,Pre-invasion_management,19835064
+1999,WLD,Management Type,Knowledge funding,523716402
+1999,WLD,Management Type,Mixed,29078231
+1999,WLD,Management Type,NA,230858965883
+1999,WLD,Management Type,Post-invasion_management,297357781
+1999,WLD,Management Type,Pre-invasion_management,409673072
+1999,WLD,Management Type,Unspecified,156614
+2000,WLD,Management Type,Knowledge funding,241618146
+2000,WLD,Management Type,Mixed,17907039
+2000,WLD,Management Type,NA,281107256549
+2000,WLD,Management Type,Post-invasion_management,5029185037
+2000,WLD,Management Type,Pre-invasion_management,459919497
+2000,WLD,Management Type,Unspecified,27145984071
+2001,WLD,Management Type,Knowledge funding,820220814
+2001,WLD,Management Type,Mixed,116974
+2001,WLD,Management Type,NA,277047201595
+2001,WLD,Management Type,Post-invasion_management,103741117
+2001,WLD,Management Type,Unspecified,1523530
+2002,WLD,Management Type,Knowledge funding,41418933
+2002,WLD,Management Type,Mixed,396005846
+2002,WLD,Management Type,NA,654742487602
+2002,WLD,Management Type,Post-invasion_management,27472100185
+2002,WLD,Management Type,Pre-invasion_management,970788019
+2002,WLD,Management Type,Unspecified,673513
+2003,WLD,Management Type,Knowledge funding,30176756
+2003,WLD,Management Type,Mixed,27578
+2003,WLD,Management Type,NA,551875629189
+2003,WLD,Management Type,Post-invasion_management,1126472141
+2003,WLD,Management Type,Pre-invasion_management,903375
+2003,WLD,Management Type,Unspecified,215878053
+2004,WLD,Management Type,Knowledge funding,166317979
+2004,WLD,Management Type,Mixed,22067
+2004,WLD,Management Type,NA,448693006443
+2004,WLD,Management Type,Post-invasion_management,1265821450
+2004,WLD,Management Type,Pre-invasion_management,904072745
+2005,WLD,Management Type,Knowledge funding,169067002
+2005,WLD,Management Type,Mixed,25460577
+2005,WLD,Management Type,NA,547522118796
+2005,WLD,Management Type,Post-invasion_management,7154181947
+2005,WLD,Management Type,Pre-invasion_management,444546824
+2005,WLD,Management Type,Unspecified,24648545237
+2006,WLD,Management Type,Knowledge funding,15187423
+2006,WLD,Management Type,Mixed,1534402006
+2006,WLD,Management Type,NA,39648761633
+2006,WLD,Management Type,Post-invasion_management,821837925
+2007,WLD,Management Type,Knowledge funding,4365397
+2007,WLD,Management Type,Mixed,2918217
+2007,WLD,Management Type,NA,71404360743
+2007,WLD,Management Type,Post-invasion_management,6028306174
+2007,WLD,Management Type,Pre-invasion_management,5673652
+2007,WLD,Management Type,Unspecified,2307186
+2008,WLD,Management Type,Knowledge funding,14641961
+2008,WLD,Management Type,Mixed,48637908
+2008,WLD,Management Type,NA,6602501201
+2008,WLD,Management Type,Post-invasion_management,596709690
+2008,WLD,Management Type,Pre-invasion_management,86128719
+2008,WLD,Management Type,Unspecified,2661572
+2009,WLD,Management Type,Knowledge funding,15592035
+2009,WLD,Management Type,Mixed,249142512
+2009,WLD,Management Type,NA,35004177693
+2009,WLD,Management Type,Post-invasion_management,7203963972
+2009,WLD,Management Type,Pre-invasion_management,1907623
+2009,WLD,Management Type,Unspecified,5522999
+2010,WLD,Management Type,Knowledge funding,55020364
+2010,WLD,Management Type,Mixed,67057257
+2010,WLD,Management Type,NA,50665840869
+2010,WLD,Management Type,Post-invasion_management,3900103348
+2010,WLD,Management Type,Pre-invasion_management,1341207976
+2010,WLD,Management Type,Unspecified,53299824
+2011,WLD,Management Type,Knowledge funding,3205868
+2011,WLD,Management Type,Mixed,461115905
+2011,WLD,Management Type,NA,174450422815
+2011,WLD,Management Type,Post-invasion_management,609862381
+2011,WLD,Management Type,Pre-invasion_management,365889804
+2011,WLD,Management Type,Unspecified,17437951
+2012,WLD,Management Type,Knowledge funding,1097604
+2012,WLD,Management Type,Mixed,10676675
+2012,WLD,Management Type,NA,99580608331
+2012,WLD,Management Type,Post-invasion_management,8545763201
+2012,WLD,Management Type,Pre-invasion_management,40054771
+2012,WLD,Management Type,Unspecified,909819
+2013,WLD,Management Type,Knowledge funding,23313872
+2013,WLD,Management Type,Mixed,24488474
+2013,WLD,Management Type,NA,202525641853
+2013,WLD,Management Type,Post-invasion_management,2667702944
+2013,WLD,Management Type,Pre-invasion_management,33668239
+2014,WLD,Management Type,Knowledge funding,3061506
+2014,WLD,Management Type,Mixed,6784972
+2014,WLD,Management Type,NA,103396979675
+2014,WLD,Management Type,Post-invasion_management,4273863464
+2014,WLD,Management Type,Pre-invasion_management,10013693
+2015,WLD,Management Type,Knowledge funding,1574271
+2015,WLD,Management Type,Mixed,73003159
+2015,WLD,Management Type,NA,4924543256
+2015,WLD,Management Type,Post-invasion_management,2319973010
+2015,WLD,Management Type,Pre-invasion_management,12440150
+2015,WLD,Management Type,Unspecified,41179912
+2016,WLD,Management Type,Knowledge funding,6521874
+2016,WLD,Management Type,Mixed,297655
+2016,WLD,Management Type,NA,22194929626
+2016,WLD,Management Type,Post-invasion_management,978033681
+2016,WLD,Management Type,Pre-invasion_management,10115279
+2017,WLD,Management Type,Knowledge funding,17737614
+2017,WLD,Management Type,Mixed,359613928
+2017,WLD,Management Type,NA,39246382502
+2017,WLD,Management Type,Post-invasion_management,24286839098
+2017,WLD,Management Type,Pre-invasion_management,504563184
+2017,WLD,Management Type,Unspecified,2134571
+2018,WLD,Management Type,Knowledge funding,11228451
+2018,WLD,Management Type,Mixed,1783794
+2018,WLD,Management Type,NA,9376092822
+2018,WLD,Management Type,Post-invasion_management,5640250282
+2018,WLD,Management Type,Pre-invasion_management,8007503
+2018,WLD,Management Type,Unspecified,25054999
+2019,WLD,Management Type,Knowledge funding,2173524
+2019,WLD,Management Type,Mixed,1941979
+2019,WLD,Management Type,NA,7236709895
+2019,WLD,Management Type,Post-invasion_management,1342046597
+2019,WLD,Management Type,Pre-invasion_management,5327756
+2019,WLD,Management Type,Unspecified,183711356
+2020,WLD,Management Type,Knowledge funding,1913777
+2020,WLD,Management Type,Mixed,744352
+2020,WLD,Management Type,NA,352857554
+2020,WLD,Management Type,Post-invasion_management,205565739
+2020,WLD,Management Type,Pre-invasion_management,7114226
+1990,WLD,Kingdom,Animalia,8192181164
+1990,WLD,Kingdom,Diverse/Unspecified,3752070
+1990,WLD,Kingdom,Plantae,882964574
+1991,WLD,Kingdom,Animalia,112829438443
+1991,WLD,Kingdom,Diverse/Unspecified,8348064
+1991,WLD,Kingdom,Plantae,544145439
+1992,WLD,Kingdom,Animalia,3976917375
+1992,WLD,Kingdom,Animalia/Plantae,191427360
+1992,WLD,Kingdom,Diverse/Unspecified,461182
+1992,WLD,Kingdom,Plantae,33713119
+1993,WLD,Kingdom,Animalia,5263639666
+1993,WLD,Kingdom,Bacteria,1502896
+1993,WLD,Kingdom,Chromista,20359078
+1993,WLD,Kingdom,Diverse/Unspecified,352876752
+1993,WLD,Kingdom,Fungi,169681858
+1993,WLD,Kingdom,Plantae,53606125056
+1994,WLD,Kingdom,Animalia,473447270
+1994,WLD,Kingdom,Diverse/Unspecified,9922195986
+1994,WLD,Kingdom,Plantae,411694104
+1995,WLD,Kingdom,Animalia,9596716580
+1995,WLD,Kingdom,Plantae,31407294
+1995,WLD,Kingdom,Unspecified,8043
+1996,WLD,Kingdom,Animalia,4077332401
+1996,WLD,Kingdom,Diverse/Unspecified,281297577
+1996,WLD,Kingdom,Fungi,153443907
+1996,WLD,Kingdom,Plantae,574592988
+1996,WLD,Kingdom,Viruses,108007894
+1997,WLD,Kingdom,Animalia,1233267055
+1997,WLD,Kingdom,Diverse/Unspecified,64442196
+1997,WLD,Kingdom,Plantae,95281002
+1997,WLD,Kingdom,Viruses,27613921
+1998,WLD,Kingdom,Animalia,7179766169
+1998,WLD,Kingdom,Diverse/Unspecified,746
+1998,WLD,Kingdom,Plantae,2458651666
+1998,WLD,Kingdom,Viruses,59252486
+1998,WLD,Kingdom,Unspecified,451117274
+1999,WLD,Kingdom,Animalia,2406266964
+1999,WLD,Kingdom,Bacteria,103865269
+1999,WLD,Kingdom,Diverse/Unspecified,223692386714
+1999,WLD,Kingdom,Plantae,5916429035
+2000,WLD,Kingdom,Animalia,88314821948
+2000,WLD,Kingdom,Bacteria,89260795
+2000,WLD,Kingdom,Chromista,12315856
+2000,WLD,Kingdom,Diverse/Unspecified,210630061174
+2000,WLD,Kingdom,Fungi,15477322
+2000,WLD,Kingdom,Plantae,14925267136
+2000,WLD,Kingdom,Viruses,2398652
+2000,WLD,Kingdom,Unspecified,12267456
+2001,WLD,Kingdom,Animalia,69458360207
+2001,WLD,Kingdom,Animalia/Plantae,191038229480
+2001,WLD,Kingdom,Bacteria,6575591
+2001,WLD,Kingdom,Diverse/Unspecified,3778499458
+2001,WLD,Kingdom,Fungi,7911054117
+2001,WLD,Kingdom,Plantae,4142444224
+2001,WLD,Kingdom,Viruses,1637297453
+2001,WLD,Kingdom,Unspecified,343500
+2002,WLD,Kingdom,Animalia,38375066132
+2002,WLD,Kingdom,Bacteria,17715383
+2002,WLD,Kingdom,Diverse/Unspecified,637073590752
+2002,WLD,Kingdom,Fungi,6520083
+2002,WLD,Kingdom,Plantae,8150516882
+2002,WLD,Kingdom,Unspecified,64866
+2003,WLD,Kingdom,Animalia,2410944894
+2003,WLD,Kingdom,Bacteria,66956788
+2003,WLD,Kingdom,Diverse/Unspecified,549534493595
+2003,WLD,Kingdom,Fungi,4896954
+2003,WLD,Kingdom,Plantae,1016630940
+2003,WLD,Kingdom,Viruses,214754934
+2003,WLD,Kingdom,Unspecified,408989
+2004,WLD,Kingdom,Animalia,39094602667
+2004,WLD,Kingdom,Animalia/Plantae,26665
+2004,WLD,Kingdom,Diverse/Unspecified,389856999710
+2004,WLD,Kingdom,Orthornavirae,216288347
+2004,WLD,Kingdom,Plantae,1097271611
+2004,WLD,Kingdom,Viruses,20763681285
+2004,WLD,Kingdom,Unspecified,370398
+2005,WLD,Kingdom,Animalia,197544327026
+2005,WLD,Kingdom,Animalia/Plantae,18200147906
+2005,WLD,Kingdom,Bacteria,15302848
+2005,WLD,Kingdom,Chromista,121
+2005,WLD,Kingdom,Diverse/Unspecified,61971539571
+2005,WLD,Kingdom,Plantae,51202831150
+2005,WLD,Kingdom,Unspecified,251029771761
+2006,WLD,Kingdom,Animalia,18476489465
+2006,WLD,Kingdom,Animalia/Plantae,62445395
+2006,WLD,Kingdom,Bacteria,952982113
+2006,WLD,Kingdom,Chromista,69755238
+2006,WLD,Kingdom,Diverse/Unspecified,1862965307
+2006,WLD,Kingdom,Fungi,2654178437
+2006,WLD,Kingdom,Plantae,14883345383
+2006,WLD,Kingdom,Viruses,2935324426
+2006,WLD,Kingdom,Unspecified,122703221
+2007,WLD,Kingdom,Animalia,70843562964
+2007,WLD,Kingdom,Bacteria,16363768
+2007,WLD,Kingdom,Diverse/Unspecified,5556325909
+2007,WLD,Kingdom,Plantae,1031058120
+2007,WLD,Kingdom,Unspecified,620610
+2008,WLD,Kingdom,Animalia,2747776949
+2008,WLD,Kingdom,Chromista,243978248
+2008,WLD,Kingdom,Diverse/Unspecified,15895714
+2008,WLD,Kingdom,Fungi,3706303755
+2008,WLD,Kingdom,Plantae,581055806
+2008,WLD,Kingdom,Viruses,55806712
+2008,WLD,Kingdom,Unspecified,463866
+2009,WLD,Kingdom,Animalia,32005912066
+2009,WLD,Kingdom,Animalia/Plantae,55939
+2009,WLD,Kingdom,Bacteria,37736710
+2009,WLD,Kingdom,Diverse/Unspecified,15261153
+2009,WLD,Kingdom,Fungi,6104352
+2009,WLD,Kingdom,Plantae,10400225595
+2009,WLD,Kingdom,Viruses,14392743
+2009,WLD,Kingdom,Unspecified,618276
+2010,WLD,Kingdom,Animalia,29778842882
+2010,WLD,Kingdom,Animalia/Plantae,6942538
+2010,WLD,Kingdom,Bacteria,9
+2010,WLD,Kingdom,Chromista,14788574
+2010,WLD,Kingdom,Diverse/Unspecified,13344600206
+2010,WLD,Kingdom,Fungi,206682678
+2010,WLD,Kingdom,Plantae,8793610998
+2010,WLD,Kingdom,Viruses,3374736254
+2010,WLD,Kingdom,Unspecified,562325498
+2011,WLD,Kingdom,Animalia,128852725400
+2011,WLD,Kingdom,Animalia/Plantae,265446
+2011,WLD,Kingdom,Chromista,197188514
+2011,WLD,Kingdom,Diverse/Unspecified,23549000888
+2011,WLD,Kingdom,Fungi,973019004
+2011,WLD,Kingdom,Ortharnavirae,8764989
+2011,WLD,Kingdom,Plantae,22217907181
+2011,WLD,Kingdom,Viruses,22880
+2011,WLD,Kingdom,Unspecified,109040421
+2012,WLD,Kingdom,Animalia,79551779377
+2012,WLD,Kingdom,Animalia/Plantae,358845624
+2012,WLD,Kingdom,Diverse/Unspecified,23094173216
+2012,WLD,Kingdom,Fungi,32438898
+2012,WLD,Kingdom,Plantae,5141830800
+2012,WLD,Kingdom,Viruses,20690
+2012,WLD,Kingdom,Unspecified,21796
+2013,WLD,Kingdom,Animalia,14680086780
+2013,WLD,Kingdom,Animalia/Fungi,5855
+2013,WLD,Kingdom,Animalia/Plantae,1245108205
+2013,WLD,Kingdom,Bacteria,340779659
+2013,WLD,Kingdom,Diverse/Unspecified,188996661416
+2013,WLD,Kingdom,Fungi,171437
+2013,WLD,Kingdom,Plantae,11973978
+2013,WLD,Kingdom,Viruses,21079
+2013,WLD,Kingdom,Unspecified,6972
+2014,WLD,Kingdom,Animalia,84897558775
+2014,WLD,Kingdom,Bacteria,108097064
+2014,WLD,Kingdom,Diverse/Unspecified,18337839872
+2014,WLD,Kingdom,Plantae,4222748511
+2014,WLD,Kingdom,Unspecified,124459089
+2015,WLD,Kingdom,Animalia,5025675032
+2015,WLD,Kingdom,Animalia/Plantae,3718
+2015,WLD,Kingdom,Diverse/Unspecified,2055848898
+2015,WLD,Kingdom,Plantae,291186110
+2016,WLD,Kingdom,Animalia,18191572845
+2016,WLD,Kingdom,Diverse/Unspecified,14855211
+2016,WLD,Kingdom,Fungi,10174
+2016,WLD,Kingdom,Plantae,4624636619
+2016,WLD,Kingdom,Viruses,358253857
+2016,WLD,Kingdom,Unspecified,569408
+2017,WLD,Kingdom,Animalia,61817179595
+2017,WLD,Kingdom,Bacteria,4799597
+2017,WLD,Kingdom,Diverse/Unspecified,1288045270
+2017,WLD,Kingdom,Fungi,3392543
+2017,WLD,Kingdom,Plantae,1303853891
+2018,WLD,Kingdom,Animalia,10967023915
+2018,WLD,Kingdom,Bacteria,403433988
+2018,WLD,Kingdom,Diverse/Unspecified,10934540
+2018,WLD,Kingdom,Plantae,3680939977
+2018,WLD,Kingdom,Unspecified,85430
+2019,WLD,Kingdom,Animalia,4935609667
+2019,WLD,Kingdom,Diverse/Unspecified,977978904
+2019,WLD,Kingdom,Fungi,2111351594
+2019,WLD,Kingdom,Plantae,746970942
+2020,WLD,Kingdom,Animalia,387286839
+2020,WLD,Kingdom,Diverse/Unspecified,14721658
+2020,WLD,Kingdom,Plantae,4867234
+2020,WLD,Kingdom,Unspecified,161319917
+,,,,
+,,,,
