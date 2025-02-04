@@ -1,73 +1,51 @@
 ﻿year,geo,disagg,value
-2000,WLD,Total,73
-2001,WLD,Total,75
-2002,WLD,Total,78
-2003,WLD,Total,78
-2004,WLD,Total,79
-2005,WLD,Total,81
-2006,WLD,Total,81
-2007,WLD,Total,81
-2008,WLD,Total,81
-2009,WLD,Total,81
-2010,WLD,Total,82
-2011,WLD,Total,84
-2012,WLD,Total,84
-2013,WLD,Total,84
-2014,WLD,Total,84
-2015,WLD,Total,86
-2016,WLD,Total,86
-2017,WLD,Total,86
-2018,WLD,Total,87
-2019,WLD,Total,87
-2020,WLD,Total,87
-2021,WLD,Total,87
-2022,WLD,Total,87
-2023,WLD,Total,87
-2000,WLD,Taxes and Fees,69
-2001,WLD,Taxes and Fees,71
-2002,WLD,Taxes and Fees,73
+2000,WLD,Taxes and Fees,70
+2001,WLD,Taxes and Fees,72
+2002,WLD,Taxes and Fees,72
 2003,WLD,Taxes and Fees,73
-2004,WLD,Taxes and Fees,74
-2005,WLD,Taxes and Fees,76
-2006,WLD,Taxes and Fees,76
+2004,WLD,Taxes and Fees,75
+2005,WLD,Taxes and Fees,75
+2006,WLD,Taxes and Fees,75
 2007,WLD,Taxes and Fees,76
-2008,WLD,Taxes and Fees,77
-2009,WLD,Taxes and Fees,77
-2010,WLD,Taxes and Fees,77
-2011,WLD,Taxes and Fees,79
-2012,WLD,Taxes and Fees,79
-2013,WLD,Taxes and Fees,79
-2014,WLD,Taxes and Fees,79
-2015,WLD,Taxes and Fees,81
-2016,WLD,Taxes and Fees,81
+2008,WLD,Taxes and Fees,76
+2009,WLD,Taxes and Fees,76
+2010,WLD,Taxes and Fees,78
+2011,WLD,Taxes and Fees,78
+2012,WLD,Taxes and Fees,78
+2013,WLD,Taxes and Fees,78
+2014,WLD,Taxes and Fees,80
+2015,WLD,Taxes and Fees,80
+2016,WLD,Taxes and Fees,80
 2017,WLD,Taxes and Fees,81
-2018,WLD,Taxes and Fees,82
-2019,WLD,Taxes and Fees,82
-2020,WLD,Taxes and Fees,82
-2021,WLD,Taxes and Fees,82
-2022,WLD,Taxes and Fees,82
-2023,WLD,Taxes and Fees,82
-2000,WLD,Tradable Permits and Offsets,19
-2001,WLD,Tradable Permits and Offsets,20
-2002,WLD,Tradable Permits and Offsets,22
-2003,WLD,Tradable Permits and Offsets,23
+2018,WLD,Taxes and Fees,81
+2019,WLD,Taxes and Fees,81
+2020,WLD,Taxes and Fees,81
+2021,WLD,Taxes and Fees,81
+2022,WLD,Taxes and Fees,81
+2023,WLD,Taxes and Fees,81
+2024,WLD,Taxes and Fees,81
+2000,WLD,Tradable Permits and Offsets,20
+2001,WLD,Tradable Permits and Offsets,22
+2002,WLD,Tradable Permits and Offsets,23
+2003,WLD,Tradable Permits and Offsets,24
 2004,WLD,Tradable Permits and Offsets,25
 2005,WLD,Tradable Permits and Offsets,26
-2006,WLD,Tradable Permits and Offsets,27
-2007,WLD,Tradable Permits and Offsets,27
+2006,WLD,Tradable Permits and Offsets,26
+2007,WLD,Tradable Permits and Offsets,26
 2008,WLD,Tradable Permits and Offsets,27
-2009,WLD,Tradable Permits and Offsets,28
-2010,WLD,Tradable Permits and Offsets,30
-2011,WLD,Tradable Permits and Offsets,30
-2012,WLD,Tradable Permits and Offsets,30
-2013,WLD,Tradable Permits and Offsets,30
-2014,WLD,Tradable Permits and Offsets,30
-2015,WLD,Tradable Permits and Offsets,30
-2016,WLD,Tradable Permits and Offsets,31
-2017,WLD,Tradable Permits and Offsets,31
-2018,WLD,Tradable Permits and Offsets,31
-2019,WLD,Tradable Permits and Offsets,31
-2020,WLD,Tradable Permits and Offsets,31
-2021,WLD,Tradable Permits and Offsets,31
-2022,WLD,Tradable Permits and Offsets,31
-2023,WLD,Tradable Permits and Offsets,32
+2009,WLD,Tradable Permits and Offsets,29
+2010,WLD,Tradable Permits and Offsets,29
+2011,WLD,Tradable Permits and Offsets,28
+2012,WLD,Tradable Permits and Offsets,28
+2013,WLD,Tradable Permits and Offsets,28
+2014,WLD,Tradable Permits and Offsets,28
+2015,WLD,Tradable Permits and Offsets,29
+2016,WLD,Tradable Permits and Offsets,29
+2017,WLD,Tradable Permits and Offsets,29
+2018,WLD,Tradable Permits and Offsets,29
+2019,WLD,Tradable Permits and Offsets,29
+2020,WLD,Tradable Permits and Offsets,29
+2021,WLD,Tradable Permits and Offsets,29
+2022,WLD,Tradable Permits and Offsets,30
+2023,WLD,Tradable Permits and Offsets,30
+2024,WLD,Tradable Permits and Offsets,30
