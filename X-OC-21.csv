@@ -1,25 +1,1503 @@
-﻿year,geo,value
-2001,WLD,1
-2002,WLD,3
-2003,WLD,5
-2004,WLD,6
-2005,WLD,7
-2006,WLD,9
-2007,WLD,11
-2008,WLD,13
-2009,WLD,13
-2010,WLD,13
-2011,WLD,12
-2012,WLD,14
-2013,WLD,14
-2014,WLD,14
-2015,WLD,14
-2016,WLD,14
-2017,WLD,15
-2018,WLD,15
-2019,WLD,15
-2020,WLD,15
-2021,WLD,15
-2022,WLD,16
-2023,WLD,15
-2024,WLD,15
+year,geo,disagg,value
+1950,WLD,Total,1
+1951,WLD,Total,1
+1952,WLD,Total,1
+1953,WLD,Total,1
+1954,WLD,Total,1
+1955,WLD,Total,1
+1956,WLD,Total,1
+1957,WLD,Total,1
+1958,WLD,Total,1
+1959,WLD,Total,1
+1960,WLD,Total,1
+1961,WLD,Total,1
+1962,WLD,Total,1
+1963,WLD,Total,1
+1964,WLD,Total,1
+1965,WLD,Total,1
+1966,WLD,Total,1
+1967,WLD,Total,1
+1968,WLD,Total,1
+1969,WLD,Total,1
+1970,WLD,Total,1
+1971,WLD,Total,1
+1972,WLD,Total,1
+1973,WLD,Total,1
+1974,WLD,Total,1
+1975,WLD,Total,1
+1976,WLD,Total,1
+1977,WLD,Total,1
+1978,WLD,Total,1
+1979,WLD,Total,1
+1980,WLD,Total,2
+1981,WLD,Total,2
+1982,WLD,Total,2
+1983,WLD,Total,2
+1984,WLD,Total,2
+1985,WLD,Total,2
+1986,WLD,Total,2
+1987,WLD,Total,2
+1988,WLD,Total,3
+1989,WLD,Total,3
+1990,WLD,Total,3
+1991,WLD,Total,4
+1992,WLD,Total,6
+1993,WLD,Total,6
+1994,WLD,Total,9
+1995,WLD,Total,9
+1996,WLD,Total,10
+1997,WLD,Total,12
+1998,WLD,Total,12
+1999,WLD,Total,14
+2000,WLD,Total,14
+2001,WLD,Total,15
+2002,WLD,Total,16
+2003,WLD,Total,18
+2004,WLD,Total,18
+2005,WLD,Total,19
+2006,WLD,Total,20
+2007,WLD,Total,25
+2008,WLD,Total,28
+2009,WLD,Total,28
+2010,WLD,Total,27
+2011,WLD,Total,28
+2012,WLD,Total,29
+2013,WLD,Total,28
+2014,WLD,Total,26
+2015,WLD,Total,27
+2016,WLD,Total,27
+2017,WLD,Total,27
+2018,WLD,Total,27
+2019,WLD,Total,27
+2020,WLD,Total,27
+2021,WLD,Total,27
+2022,WLD,Total,28
+2023,WLD,Total,28
+2024,WLD,Total,27
+1980,WLD,Grant (one-off),1
+1981,WLD,Grant (one-off),1
+1982,WLD,Grant (one-off),1
+1983,WLD,Grant (one-off),1
+1984,WLD,Grant (one-off),1
+1985,WLD,Grant (one-off),1
+1986,WLD,Grant (one-off),1
+1987,WLD,Grant (one-off),1
+1988,WLD,Grant (one-off),1
+1989,WLD,Grant (one-off),1
+1990,WLD,Grant (one-off),1
+1991,WLD,Grant (one-off),2
+1992,WLD,Grant (one-off),2
+1993,WLD,Grant (one-off),2
+1994,WLD,Grant (one-off),4
+1995,WLD,Grant (one-off),4
+1996,WLD,Grant (one-off),4
+1997,WLD,Grant (one-off),5
+1998,WLD,Grant (one-off),5
+1999,WLD,Grant (one-off),6
+2000,WLD,Grant (one-off),6
+2001,WLD,Grant (one-off),6
+2002,WLD,Grant (one-off),6
+2003,WLD,Grant (one-off),6
+2004,WLD,Grant (one-off),6
+2005,WLD,Grant (one-off),7
+2006,WLD,Grant (one-off),7
+2007,WLD,Grant (one-off),10
+2008,WLD,Grant (one-off),13
+2009,WLD,Grant (one-off),13
+2010,WLD,Grant (one-off),12
+2011,WLD,Grant (one-off),13
+2012,WLD,Grant (one-off),13
+2013,WLD,Grant (one-off),12
+2014,WLD,Grant (one-off),11
+2015,WLD,Grant (one-off),12
+2016,WLD,Grant (one-off),12
+2017,WLD,Grant (one-off),12
+2018,WLD,Grant (one-off),12
+2019,WLD,Grant (one-off),12
+2020,WLD,Grant (one-off),12
+2021,WLD,Grant (one-off),12
+2022,WLD,Grant (one-off),13
+2023,WLD,Grant (one-off),13
+2024,WLD,Grant (one-off),12
+1988,WLD,Per physical unit (recurrent),1
+1989,WLD,Per physical unit (recurrent),1
+1990,WLD,Per physical unit (recurrent),1
+1991,WLD,Per physical unit (recurrent),1
+1992,WLD,Per physical unit (recurrent),3
+1993,WLD,Per physical unit (recurrent),3
+1994,WLD,Per physical unit (recurrent),4
+1995,WLD,Per physical unit (recurrent),4
+1996,WLD,Per physical unit (recurrent),5
+1997,WLD,Per physical unit (recurrent),6
+1998,WLD,Per physical unit (recurrent),6
+1999,WLD,Per physical unit (recurrent),7
+2000,WLD,Per physical unit (recurrent),7
+2001,WLD,Per physical unit (recurrent),8
+2002,WLD,Per physical unit (recurrent),8
+2003,WLD,Per physical unit (recurrent),10
+2004,WLD,Per physical unit (recurrent),10
+2005,WLD,Per physical unit (recurrent),10
+2006,WLD,Per physical unit (recurrent),10
+2007,WLD,Per physical unit (recurrent),10
+2008,WLD,Per physical unit (recurrent),10
+2009,WLD,Per physical unit (recurrent),10
+2010,WLD,Per physical unit (recurrent),10
+2011,WLD,Per physical unit (recurrent),10
+2012,WLD,Per physical unit (recurrent),11
+2013,WLD,Per physical unit (recurrent),11
+2014,WLD,Per physical unit (recurrent),10
+2015,WLD,Per physical unit (recurrent),10
+2016,WLD,Per physical unit (recurrent),10
+2017,WLD,Per physical unit (recurrent),10
+2018,WLD,Per physical unit (recurrent),10
+2019,WLD,Per physical unit (recurrent),10
+2020,WLD,Per physical unit (recurrent),10
+2021,WLD,Per physical unit (recurrent),10
+2022,WLD,Per physical unit (recurrent),10
+2023,WLD,Per physical unit (recurrent),10
+2024,WLD,Per physical unit (recurrent),10
+1950,WLD,Tax reduction,1
+1951,WLD,Tax reduction,1
+1952,WLD,Tax reduction,1
+1953,WLD,Tax reduction,1
+1954,WLD,Tax reduction,1
+1955,WLD,Tax reduction,1
+1956,WLD,Tax reduction,1
+1957,WLD,Tax reduction,1
+1958,WLD,Tax reduction,1
+1959,WLD,Tax reduction,1
+1960,WLD,Tax reduction,1
+1961,WLD,Tax reduction,1
+1962,WLD,Tax reduction,1
+1963,WLD,Tax reduction,1
+1964,WLD,Tax reduction,1
+1965,WLD,Tax reduction,1
+1966,WLD,Tax reduction,1
+1967,WLD,Tax reduction,1
+1968,WLD,Tax reduction,1
+1969,WLD,Tax reduction,1
+1970,WLD,Tax reduction,1
+1971,WLD,Tax reduction,1
+1972,WLD,Tax reduction,1
+1973,WLD,Tax reduction,1
+1974,WLD,Tax reduction,1
+1975,WLD,Tax reduction,1
+1976,WLD,Tax reduction,1
+1977,WLD,Tax reduction,1
+1978,WLD,Tax reduction,1
+1979,WLD,Tax reduction,1
+1980,WLD,Tax reduction,1
+1981,WLD,Tax reduction,1
+1982,WLD,Tax reduction,1
+1983,WLD,Tax reduction,1
+1984,WLD,Tax reduction,1
+1985,WLD,Tax reduction,1
+1986,WLD,Tax reduction,1
+1987,WLD,Tax reduction,1
+1988,WLD,Tax reduction,1
+1989,WLD,Tax reduction,1
+1990,WLD,Tax reduction,1
+1991,WLD,Tax reduction,1
+1992,WLD,Tax reduction,1
+1993,WLD,Tax reduction,1
+1994,WLD,Tax reduction,1
+1995,WLD,Tax reduction,1
+1996,WLD,Tax reduction,1
+1997,WLD,Tax reduction,1
+1998,WLD,Tax reduction,1
+1999,WLD,Tax reduction,1
+2000,WLD,Tax reduction,1
+2001,WLD,Tax reduction,1
+2002,WLD,Tax reduction,1
+2003,WLD,Tax reduction,1
+2004,WLD,Tax reduction,1
+2005,WLD,Tax reduction,1
+2006,WLD,Tax reduction,2
+2007,WLD,Tax reduction,2
+2008,WLD,Tax reduction,2
+2009,WLD,Tax reduction,2
+2010,WLD,Tax reduction,2
+2011,WLD,Tax reduction,2
+2012,WLD,Tax reduction,2
+2013,WLD,Tax reduction,2
+2014,WLD,Tax reduction,2
+2015,WLD,Tax reduction,2
+2016,WLD,Tax reduction,2
+2017,WLD,Tax reduction,2
+2018,WLD,Tax reduction,2
+2019,WLD,Tax reduction,2
+2020,WLD,Tax reduction,2
+2021,WLD,Tax reduction,2
+2022,WLD,Tax reduction,2
+2023,WLD,Tax reduction,2
+2024,WLD,Tax reduction,2
+2007,WLD,Tax credit,1
+2008,WLD,Tax credit,1
+2009,WLD,Tax credit,1
+2010,WLD,Tax credit,1
+2011,WLD,Tax credit,1
+2012,WLD,Tax credit,1
+2013,WLD,Tax credit,1
+2014,WLD,Tax credit,1
+2015,WLD,Tax credit,1
+2016,WLD,Tax credit,1
+2017,WLD,Tax credit,1
+2018,WLD,Tax credit,1
+2019,WLD,Tax credit,1
+2020,WLD,Tax credit,1
+2021,WLD,Tax credit,1
+2022,WLD,Tax credit,1
+2023,WLD,Tax credit,1
+2024,WLD,Tax credit,1
+2007,WLD,In kind,1
+2008,WLD,In kind,1
+2009,WLD,In kind,1
+2010,WLD,In kind,1
+2011,WLD,In kind,1
+2012,WLD,In kind,1
+2013,WLD,In kind,1
+2014,WLD,In kind,1
+2015,WLD,In kind,1
+2016,WLD,In kind,1
+2017,WLD,In kind,1
+2018,WLD,In kind,1
+2019,WLD,In kind,1
+2020,WLD,In kind,1
+2021,WLD,In kind,1
+2022,WLD,In kind,1
+2023,WLD,In kind,1
+2024,WLD,In kind,1
+2002,WLD,Payment for ecosystem service,1
+2003,WLD,Payment for ecosystem service,1
+2004,WLD,Payment for ecosystem service,1
+2005,WLD,Payment for ecosystem service,1
+2006,WLD,Payment for ecosystem service,1
+2007,WLD,Payment for ecosystem service,1
+2008,WLD,Payment for ecosystem service,1
+2009,WLD,Payment for ecosystem service,1
+2010,WLD,Payment for ecosystem service,1
+2011,WLD,Payment for ecosystem service,1
+2012,WLD,Payment for ecosystem service,1
+2013,WLD,Payment for ecosystem service,1
+2014,WLD,Payment for ecosystem service,1
+2015,WLD,Payment for ecosystem service,1
+2016,WLD,Payment for ecosystem service,1
+2017,WLD,Payment for ecosystem service,1
+2018,WLD,Payment for ecosystem service,1
+2019,WLD,Payment for ecosystem service,1
+2020,WLD,Payment for ecosystem service,1
+2021,WLD,Payment for ecosystem service,1
+2022,WLD,Payment for ecosystem service,1
+2023,WLD,Payment for ecosystem service,1
+2024,WLD,Payment for ecosystem service,1
+1999,ARG,Total,1
+2000,ARG,Total,1
+2001,ARG,Total,1
+2002,ARG,Total,1
+2003,ARG,Total,1
+2004,ARG,Total,1
+2005,ARG,Total,1
+2006,ARG,Total,1
+2007,ARG,Total,1
+2008,ARG,Total,1
+2009,ARG,Total,1
+2010,ARG,Total,1
+2011,ARG,Total,1
+2012,ARG,Total,1
+2013,ARG,Total,1
+2014,ARG,Total,1
+2015,ARG,Total,1
+2016,ARG,Total,1
+2017,ARG,Total,1
+2018,ARG,Total,1
+2019,ARG,Total,1
+2020,ARG,Total,1
+2021,ARG,Total,1
+2022,ARG,Total,1
+2023,ARG,Total,1
+2024,ARG,Total,1
+1999,ARG,Per physical unit (recurrent),1
+2000,ARG,Per physical unit (recurrent),1
+2001,ARG,Per physical unit (recurrent),1
+2002,ARG,Per physical unit (recurrent),1
+2003,ARG,Per physical unit (recurrent),1
+2004,ARG,Per physical unit (recurrent),1
+2005,ARG,Per physical unit (recurrent),1
+2006,ARG,Per physical unit (recurrent),1
+2007,ARG,Per physical unit (recurrent),1
+2008,ARG,Per physical unit (recurrent),1
+2009,ARG,Per physical unit (recurrent),1
+2010,ARG,Per physical unit (recurrent),1
+2011,ARG,Per physical unit (recurrent),1
+2012,ARG,Per physical unit (recurrent),1
+2013,ARG,Per physical unit (recurrent),1
+2014,ARG,Per physical unit (recurrent),1
+2015,ARG,Per physical unit (recurrent),1
+2016,ARG,Per physical unit (recurrent),1
+2017,ARG,Per physical unit (recurrent),1
+2018,ARG,Per physical unit (recurrent),1
+2019,ARG,Per physical unit (recurrent),1
+2020,ARG,Per physical unit (recurrent),1
+2021,ARG,Per physical unit (recurrent),1
+2022,ARG,Per physical unit (recurrent),1
+2023,ARG,Per physical unit (recurrent),1
+2024,ARG,Per physical unit (recurrent),1
+1997,AUS,Total,1
+1998,AUS,Total,1
+1999,AUS,Total,1
+2000,AUS,Total,1
+2001,AUS,Total,1
+2002,AUS,Total,1
+2003,AUS,Total,1
+2004,AUS,Total,1
+2005,AUS,Total,1
+2006,AUS,Total,1
+2007,AUS,Total,1
+2008,AUS,Total,2
+2009,AUS,Total,2
+2010,AUS,Total,2
+2011,AUS,Total,2
+2012,AUS,Total,2
+2013,AUS,Total,2
+2014,AUS,Total,2
+2015,AUS,Total,2
+2016,AUS,Total,2
+2017,AUS,Total,2
+2018,AUS,Total,2
+2019,AUS,Total,2
+2020,AUS,Total,2
+2021,AUS,Total,2
+2022,AUS,Total,2
+2023,AUS,Total,2
+2024,AUS,Total,1
+1997,AUS,Grant (one-off),1
+1998,AUS,Grant (one-off),1
+1999,AUS,Grant (one-off),1
+2000,AUS,Grant (one-off),1
+2001,AUS,Grant (one-off),1
+2002,AUS,Grant (one-off),1
+2003,AUS,Grant (one-off),1
+2004,AUS,Grant (one-off),1
+2005,AUS,Grant (one-off),1
+2006,AUS,Grant (one-off),1
+2007,AUS,Grant (one-off),1
+2008,AUS,Grant (one-off),2
+2009,AUS,Grant (one-off),2
+2010,AUS,Grant (one-off),2
+2011,AUS,Grant (one-off),2
+2012,AUS,Grant (one-off),2
+2013,AUS,Grant (one-off),2
+2014,AUS,Grant (one-off),2
+2015,AUS,Grant (one-off),2
+2016,AUS,Grant (one-off),2
+2017,AUS,Grant (one-off),2
+2018,AUS,Grant (one-off),2
+2019,AUS,Grant (one-off),2
+2020,AUS,Grant (one-off),2
+2021,AUS,Grant (one-off),2
+2022,AUS,Grant (one-off),2
+2023,AUS,Grant (one-off),2
+2024,AUS,Grant (one-off),1
+1991,CHL,Total,1
+1992,CHL,Total,1
+1993,CHL,Total,1
+1994,CHL,Total,1
+1995,CHL,Total,1
+1996,CHL,Total,1
+1997,CHL,Total,1
+1998,CHL,Total,1
+1999,CHL,Total,1
+2000,CHL,Total,1
+2001,CHL,Total,1
+2002,CHL,Total,1
+2003,CHL,Total,1
+2004,CHL,Total,1
+2005,CHL,Total,1
+2006,CHL,Total,1
+2007,CHL,Total,1
+2008,CHL,Total,1
+2009,CHL,Total,1
+2010,CHL,Total,1
+2011,CHL,Total,1
+2012,CHL,Total,1
+2013,CHL,Total,1
+2014,CHL,Total,1
+2015,CHL,Total,1
+2016,CHL,Total,1
+2017,CHL,Total,1
+2018,CHL,Total,1
+2019,CHL,Total,1
+2020,CHL,Total,1
+2021,CHL,Total,1
+2022,CHL,Total,1
+2023,CHL,Total,1
+2024,CHL,Total,1
+1991,CHL,Grant (one-off),1
+1992,CHL,Grant (one-off),1
+1993,CHL,Grant (one-off),1
+1994,CHL,Grant (one-off),1
+1995,CHL,Grant (one-off),1
+1996,CHL,Grant (one-off),1
+1997,CHL,Grant (one-off),1
+1998,CHL,Grant (one-off),1
+1999,CHL,Grant (one-off),1
+2000,CHL,Grant (one-off),1
+2001,CHL,Grant (one-off),1
+2002,CHL,Grant (one-off),1
+2003,CHL,Grant (one-off),1
+2004,CHL,Grant (one-off),1
+2005,CHL,Grant (one-off),1
+2006,CHL,Grant (one-off),1
+2007,CHL,Grant (one-off),1
+2008,CHL,Grant (one-off),1
+2009,CHL,Grant (one-off),1
+2010,CHL,Grant (one-off),1
+2011,CHL,Grant (one-off),1
+2012,CHL,Grant (one-off),1
+2013,CHL,Grant (one-off),1
+2014,CHL,Grant (one-off),1
+2015,CHL,Grant (one-off),1
+2016,CHL,Grant (one-off),1
+2017,CHL,Grant (one-off),1
+2018,CHL,Grant (one-off),1
+2019,CHL,Grant (one-off),1
+2020,CHL,Grant (one-off),1
+2021,CHL,Grant (one-off),1
+2022,CHL,Grant (one-off),1
+2023,CHL,Grant (one-off),1
+2024,CHL,Grant (one-off),1
+1992,DNK,Total,1
+1993,DNK,Total,1
+1994,DNK,Total,1
+1995,DNK,Total,1
+1996,DNK,Total,1
+1997,DNK,Total,1
+1998,DNK,Total,1
+1999,DNK,Total,1
+2000,DNK,Total,1
+2001,DNK,Total,1
+2002,DNK,Total,1
+2003,DNK,Total,1
+2004,DNK,Total,1
+2005,DNK,Total,1
+2006,DNK,Total,1
+2007,DNK,Total,2
+2008,DNK,Total,2
+2009,DNK,Total,2
+2010,DNK,Total,1
+2011,DNK,Total,1
+2012,DNK,Total,1
+2013,DNK,Total,1
+2014,DNK,Total,1
+2015,DNK,Total,1
+2016,DNK,Total,1
+2017,DNK,Total,1
+2018,DNK,Total,1
+2019,DNK,Total,1
+2020,DNK,Total,1
+2021,DNK,Total,1
+2022,DNK,Total,1
+2023,DNK,Total,1
+2024,DNK,Total,1
+1992,DNK,Per physical unit (recurrent),1
+1993,DNK,Per physical unit (recurrent),1
+1994,DNK,Per physical unit (recurrent),1
+1995,DNK,Per physical unit (recurrent),1
+1996,DNK,Per physical unit (recurrent),1
+1997,DNK,Per physical unit (recurrent),1
+1998,DNK,Per physical unit (recurrent),1
+1999,DNK,Per physical unit (recurrent),1
+2000,DNK,Per physical unit (recurrent),1
+2001,DNK,Per physical unit (recurrent),1
+2002,DNK,Per physical unit (recurrent),1
+2003,DNK,Per physical unit (recurrent),1
+2004,DNK,Per physical unit (recurrent),1
+2005,DNK,Per physical unit (recurrent),1
+2006,DNK,Per physical unit (recurrent),1
+2007,DNK,Per physical unit (recurrent),1
+2008,DNK,Per physical unit (recurrent),1
+2009,DNK,Per physical unit (recurrent),1
+2010,DNK,Per physical unit (recurrent),1
+2011,DNK,Per physical unit (recurrent),1
+2012,DNK,Per physical unit (recurrent),1
+2013,DNK,Per physical unit (recurrent),1
+2014,DNK,Per physical unit (recurrent),1
+2015,DNK,Per physical unit (recurrent),1
+2016,DNK,Per physical unit (recurrent),1
+2017,DNK,Per physical unit (recurrent),1
+2018,DNK,Per physical unit (recurrent),1
+2019,DNK,Per physical unit (recurrent),1
+2020,DNK,Per physical unit (recurrent),1
+2021,DNK,Per physical unit (recurrent),1
+2022,DNK,Per physical unit (recurrent),1
+2023,DNK,Per physical unit (recurrent),1
+2024,DNK,Per physical unit (recurrent),1
+2007,DNK,Grant (one-off),1
+2008,DNK,Grant (one-off),1
+2009,DNK,Grant (one-off),1
+1994,ESP,Total,1
+1995,ESP,Total,1
+1996,ESP,Total,1
+1997,ESP,Total,1
+1998,ESP,Total,1
+1999,ESP,Total,1
+2000,ESP,Total,1
+2001,ESP,Total,1
+2002,ESP,Total,1
+2003,ESP,Total,1
+2004,ESP,Total,1
+2005,ESP,Total,1
+2006,ESP,Total,1
+2007,ESP,Total,1
+2008,ESP,Total,1
+2009,ESP,Total,1
+2010,ESP,Total,1
+2011,ESP,Total,1
+2012,ESP,Total,1
+2013,ESP,Total,1
+1994,ESP,Per physical unit (recurrent),1
+1995,ESP,Per physical unit (recurrent),1
+1996,ESP,Per physical unit (recurrent),1
+1997,ESP,Per physical unit (recurrent),1
+1998,ESP,Per physical unit (recurrent),1
+1999,ESP,Per physical unit (recurrent),1
+2000,ESP,Per physical unit (recurrent),1
+2001,ESP,Per physical unit (recurrent),1
+2002,ESP,Per physical unit (recurrent),1
+2003,ESP,Per physical unit (recurrent),1
+2004,ESP,Per physical unit (recurrent),1
+2005,ESP,Per physical unit (recurrent),1
+2006,ESP,Per physical unit (recurrent),1
+2007,ESP,Per physical unit (recurrent),1
+2008,ESP,Per physical unit (recurrent),1
+2009,ESP,Per physical unit (recurrent),1
+2010,ESP,Per physical unit (recurrent),1
+2011,ESP,Per physical unit (recurrent),1
+2012,ESP,Per physical unit (recurrent),1
+2013,ESP,Per physical unit (recurrent),1
+2003,EST,Total,1
+2004,EST,Total,1
+2005,EST,Total,1
+2006,EST,Total,1
+2007,EST,Total,1
+2008,EST,Total,1
+2009,EST,Total,1
+2010,EST,Total,1
+2011,EST,Total,1
+2012,EST,Total,1
+2013,EST,Total,1
+2014,EST,Total,1
+2015,EST,Total,1
+2016,EST,Total,1
+2017,EST,Total,1
+2018,EST,Total,1
+2019,EST,Total,1
+2020,EST,Total,1
+2021,EST,Total,1
+2022,EST,Total,1
+2023,EST,Total,1
+2024,EST,Total,1
+2003,EST,Per physical unit (recurrent),1
+2004,EST,Per physical unit (recurrent),1
+2005,EST,Per physical unit (recurrent),1
+2006,EST,Per physical unit (recurrent),1
+2007,EST,Per physical unit (recurrent),1
+2008,EST,Per physical unit (recurrent),1
+2009,EST,Per physical unit (recurrent),1
+2010,EST,Per physical unit (recurrent),1
+2011,EST,Per physical unit (recurrent),1
+2012,EST,Per physical unit (recurrent),1
+2013,EST,Per physical unit (recurrent),1
+2014,EST,Per physical unit (recurrent),1
+2015,EST,Per physical unit (recurrent),1
+2016,EST,Per physical unit (recurrent),1
+2017,EST,Per physical unit (recurrent),1
+2018,EST,Per physical unit (recurrent),1
+2019,EST,Per physical unit (recurrent),1
+2020,EST,Per physical unit (recurrent),1
+2021,EST,Per physical unit (recurrent),1
+2022,EST,Per physical unit (recurrent),1
+2023,EST,Per physical unit (recurrent),1
+2024,EST,Per physical unit (recurrent),1
+1950,FIN,Total,1
+1951,FIN,Total,1
+1952,FIN,Total,1
+1953,FIN,Total,1
+1954,FIN,Total,1
+1955,FIN,Total,1
+1956,FIN,Total,1
+1957,FIN,Total,1
+1958,FIN,Total,1
+1959,FIN,Total,1
+1960,FIN,Total,1
+1961,FIN,Total,1
+1962,FIN,Total,1
+1963,FIN,Total,1
+1964,FIN,Total,1
+1965,FIN,Total,1
+1966,FIN,Total,1
+1967,FIN,Total,1
+1968,FIN,Total,1
+1969,FIN,Total,1
+1970,FIN,Total,1
+1971,FIN,Total,1
+1972,FIN,Total,1
+1973,FIN,Total,1
+1974,FIN,Total,1
+1975,FIN,Total,1
+1976,FIN,Total,1
+1977,FIN,Total,1
+1978,FIN,Total,1
+1979,FIN,Total,1
+1980,FIN,Total,1
+1981,FIN,Total,1
+1982,FIN,Total,1
+1983,FIN,Total,1
+1984,FIN,Total,1
+1985,FIN,Total,1
+1986,FIN,Total,1
+1987,FIN,Total,1
+1988,FIN,Total,1
+1989,FIN,Total,1
+1990,FIN,Total,1
+1991,FIN,Total,1
+1992,FIN,Total,1
+1993,FIN,Total,1
+1994,FIN,Total,1
+1995,FIN,Total,1
+1996,FIN,Total,1
+1997,FIN,Total,1
+1998,FIN,Total,1
+1999,FIN,Total,1
+2000,FIN,Total,1
+2001,FIN,Total,1
+2002,FIN,Total,1
+2003,FIN,Total,1
+2004,FIN,Total,2
+2005,FIN,Total,2
+2006,FIN,Total,2
+2007,FIN,Total,2
+2008,FIN,Total,2
+2009,FIN,Total,2
+2010,FIN,Total,2
+2011,FIN,Total,2
+2012,FIN,Total,2
+2013,FIN,Total,2
+2014,FIN,Total,2
+2015,FIN,Total,3
+2016,FIN,Total,3
+2017,FIN,Total,3
+2018,FIN,Total,3
+2019,FIN,Total,3
+2020,FIN,Total,3
+2021,FIN,Total,3
+2022,FIN,Total,4
+2023,FIN,Total,4
+2024,FIN,Total,4
+1950,FIN,Tax reduction,1
+1951,FIN,Tax reduction,1
+1952,FIN,Tax reduction,1
+1953,FIN,Tax reduction,1
+1954,FIN,Tax reduction,1
+1955,FIN,Tax reduction,1
+1956,FIN,Tax reduction,1
+1957,FIN,Tax reduction,1
+1958,FIN,Tax reduction,1
+1959,FIN,Tax reduction,1
+1960,FIN,Tax reduction,1
+1961,FIN,Tax reduction,1
+1962,FIN,Tax reduction,1
+1963,FIN,Tax reduction,1
+1964,FIN,Tax reduction,1
+1965,FIN,Tax reduction,1
+1966,FIN,Tax reduction,1
+1967,FIN,Tax reduction,1
+1968,FIN,Tax reduction,1
+1969,FIN,Tax reduction,1
+1970,FIN,Tax reduction,1
+1971,FIN,Tax reduction,1
+1972,FIN,Tax reduction,1
+1973,FIN,Tax reduction,1
+1974,FIN,Tax reduction,1
+1975,FIN,Tax reduction,1
+1976,FIN,Tax reduction,1
+1977,FIN,Tax reduction,1
+1978,FIN,Tax reduction,1
+1979,FIN,Tax reduction,1
+1980,FIN,Tax reduction,1
+1981,FIN,Tax reduction,1
+1982,FIN,Tax reduction,1
+1983,FIN,Tax reduction,1
+1984,FIN,Tax reduction,1
+1985,FIN,Tax reduction,1
+1986,FIN,Tax reduction,1
+1987,FIN,Tax reduction,1
+1988,FIN,Tax reduction,1
+1989,FIN,Tax reduction,1
+1990,FIN,Tax reduction,1
+1991,FIN,Tax reduction,1
+1992,FIN,Tax reduction,1
+1993,FIN,Tax reduction,1
+1994,FIN,Tax reduction,1
+1995,FIN,Tax reduction,1
+1996,FIN,Tax reduction,1
+1997,FIN,Tax reduction,1
+1998,FIN,Tax reduction,1
+1999,FIN,Tax reduction,1
+2000,FIN,Tax reduction,1
+2001,FIN,Tax reduction,1
+2002,FIN,Tax reduction,1
+2003,FIN,Tax reduction,1
+2004,FIN,Tax reduction,1
+2005,FIN,Tax reduction,1
+2006,FIN,Tax reduction,1
+2007,FIN,Tax reduction,1
+2008,FIN,Tax reduction,1
+2009,FIN,Tax reduction,1
+2010,FIN,Tax reduction,1
+2011,FIN,Tax reduction,1
+2012,FIN,Tax reduction,1
+2013,FIN,Tax reduction,1
+2014,FIN,Tax reduction,1
+2015,FIN,Tax reduction,1
+2016,FIN,Tax reduction,1
+2017,FIN,Tax reduction,1
+2018,FIN,Tax reduction,1
+2019,FIN,Tax reduction,1
+2020,FIN,Tax reduction,1
+2021,FIN,Tax reduction,1
+2022,FIN,Tax reduction,1
+2023,FIN,Tax reduction,1
+2024,FIN,Tax reduction,1
+2004,FIN,Grant (one-off),1
+2005,FIN,Grant (one-off),1
+2006,FIN,Grant (one-off),1
+2007,FIN,Grant (one-off),1
+2008,FIN,Grant (one-off),1
+2009,FIN,Grant (one-off),1
+2010,FIN,Grant (one-off),1
+2011,FIN,Grant (one-off),1
+2012,FIN,Grant (one-off),1
+2013,FIN,Grant (one-off),1
+2014,FIN,Grant (one-off),1
+2015,FIN,Grant (one-off),2
+2016,FIN,Grant (one-off),2
+2017,FIN,Grant (one-off),2
+2018,FIN,Grant (one-off),2
+2019,FIN,Grant (one-off),2
+2020,FIN,Grant (one-off),2
+2021,FIN,Grant (one-off),2
+2022,FIN,Grant (one-off),3
+2023,FIN,Grant (one-off),3
+2024,FIN,Grant (one-off),3
+1996,FRA,Total,1
+1997,FRA,Total,1
+1998,FRA,Total,1
+1999,FRA,Total,1
+2000,FRA,Total,1
+2001,FRA,Total,1
+2002,FRA,Total,1
+2003,FRA,Total,1
+2004,FRA,Total,1
+2005,FRA,Total,1
+2006,FRA,Total,2
+2007,FRA,Total,2
+2008,FRA,Total,2
+2009,FRA,Total,2
+2010,FRA,Total,2
+2011,FRA,Total,2
+2012,FRA,Total,2
+2013,FRA,Total,2
+2014,FRA,Total,2
+2015,FRA,Total,2
+2016,FRA,Total,2
+2017,FRA,Total,2
+2018,FRA,Total,2
+2019,FRA,Total,2
+2020,FRA,Total,2
+2021,FRA,Total,2
+2022,FRA,Total,2
+2023,FRA,Total,2
+2024,FRA,Total,2
+2006,FRA,Tax reduction,1
+2007,FRA,Tax reduction,1
+2008,FRA,Tax reduction,1
+2009,FRA,Tax reduction,1
+2010,FRA,Tax reduction,1
+2011,FRA,Tax reduction,1
+2012,FRA,Tax reduction,1
+2013,FRA,Tax reduction,1
+2014,FRA,Tax reduction,1
+2015,FRA,Tax reduction,1
+2016,FRA,Tax reduction,1
+2017,FRA,Tax reduction,1
+2018,FRA,Tax reduction,1
+2019,FRA,Tax reduction,1
+2020,FRA,Tax reduction,1
+2021,FRA,Tax reduction,1
+2022,FRA,Tax reduction,1
+2023,FRA,Tax reduction,1
+2024,FRA,Tax reduction,1
+1996,FRA,Per physical unit (recurrent),1
+1997,FRA,Per physical unit (recurrent),1
+1998,FRA,Per physical unit (recurrent),1
+1999,FRA,Per physical unit (recurrent),1
+2000,FRA,Per physical unit (recurrent),1
+2001,FRA,Per physical unit (recurrent),1
+2002,FRA,Per physical unit (recurrent),1
+2003,FRA,Per physical unit (recurrent),1
+2004,FRA,Per physical unit (recurrent),1
+2005,FRA,Per physical unit (recurrent),1
+2006,FRA,Per physical unit (recurrent),1
+2007,FRA,Per physical unit (recurrent),1
+2008,FRA,Per physical unit (recurrent),1
+2009,FRA,Per physical unit (recurrent),1
+2010,FRA,Per physical unit (recurrent),1
+2011,FRA,Per physical unit (recurrent),1
+2012,FRA,Per physical unit (recurrent),1
+2013,FRA,Per physical unit (recurrent),1
+2014,FRA,Per physical unit (recurrent),1
+2015,FRA,Per physical unit (recurrent),1
+2016,FRA,Per physical unit (recurrent),1
+2017,FRA,Per physical unit (recurrent),1
+2018,FRA,Per physical unit (recurrent),1
+2019,FRA,Per physical unit (recurrent),1
+2020,FRA,Per physical unit (recurrent),1
+2021,FRA,Per physical unit (recurrent),1
+2022,FRA,Per physical unit (recurrent),1
+2023,FRA,Per physical unit (recurrent),1
+2024,FRA,Per physical unit (recurrent),1
+1994,GBR,Total,1
+1995,GBR,Total,1
+1996,GBR,Total,1
+1997,GBR,Total,1
+1998,GBR,Total,1
+1999,GBR,Total,1
+2000,GBR,Total,1
+2001,GBR,Total,1
+2002,GBR,Total,1
+2003,GBR,Total,1
+2004,GBR,Total,1
+2005,GBR,Total,2
+2006,GBR,Total,2
+2007,GBR,Total,2
+2008,GBR,Total,2
+2009,GBR,Total,2
+2010,GBR,Total,2
+2011,GBR,Total,3
+2012,GBR,Total,4
+2013,GBR,Total,4
+2014,GBR,Total,4
+2015,GBR,Total,4
+2016,GBR,Total,4
+2017,GBR,Total,3
+2018,GBR,Total,3
+2019,GBR,Total,3
+2020,GBR,Total,3
+2021,GBR,Total,3
+2022,GBR,Total,3
+2023,GBR,Total,3
+2024,GBR,Total,3
+1994,GBR,Grant (one-off),1
+1995,GBR,Grant (one-off),1
+1996,GBR,Grant (one-off),1
+1997,GBR,Grant (one-off),1
+1998,GBR,Grant (one-off),1
+1999,GBR,Grant (one-off),1
+2000,GBR,Grant (one-off),1
+2001,GBR,Grant (one-off),1
+2002,GBR,Grant (one-off),1
+2003,GBR,Grant (one-off),1
+2004,GBR,Grant (one-off),1
+2005,GBR,Grant (one-off),2
+2006,GBR,Grant (one-off),2
+2007,GBR,Grant (one-off),2
+2008,GBR,Grant (one-off),2
+2009,GBR,Grant (one-off),2
+2010,GBR,Grant (one-off),2
+2011,GBR,Grant (one-off),3
+2012,GBR,Grant (one-off),4
+2013,GBR,Grant (one-off),4
+2014,GBR,Grant (one-off),4
+2015,GBR,Grant (one-off),4
+2016,GBR,Grant (one-off),4
+2017,GBR,Grant (one-off),3
+2018,GBR,Grant (one-off),3
+2019,GBR,Grant (one-off),3
+2020,GBR,Grant (one-off),3
+2021,GBR,Grant (one-off),3
+2022,GBR,Grant (one-off),3
+2023,GBR,Grant (one-off),3
+2024,GBR,Grant (one-off),3
+2002,IDN,Total,2
+2003,IDN,Total,2
+2004,IDN,Total,2
+2005,IDN,Total,2
+2006,IDN,Total,2
+2007,IDN,Total,3
+2008,IDN,Total,3
+2009,IDN,Total,3
+2010,IDN,Total,3
+2011,IDN,Total,3
+2012,IDN,Total,3
+2013,IDN,Total,3
+2014,IDN,Total,3
+2015,IDN,Total,3
+2016,IDN,Total,3
+2017,IDN,Total,3
+2018,IDN,Total,3
+2019,IDN,Total,3
+2020,IDN,Total,3
+2021,IDN,Total,3
+2022,IDN,Total,3
+2023,IDN,Total,3
+2024,IDN,Total,3
+2007,IDN,Tax credit,1
+2008,IDN,Tax credit,1
+2009,IDN,Tax credit,1
+2010,IDN,Tax credit,1
+2011,IDN,Tax credit,1
+2012,IDN,Tax credit,1
+2013,IDN,Tax credit,1
+2014,IDN,Tax credit,1
+2015,IDN,Tax credit,1
+2016,IDN,Tax credit,1
+2017,IDN,Tax credit,1
+2018,IDN,Tax credit,1
+2019,IDN,Tax credit,1
+2020,IDN,Tax credit,1
+2021,IDN,Tax credit,1
+2022,IDN,Tax credit,1
+2023,IDN,Tax credit,1
+2024,IDN,Tax credit,1
+2002,IDN,Per physical unit (recurrent),1
+2003,IDN,Per physical unit (recurrent),1
+2004,IDN,Per physical unit (recurrent),1
+2005,IDN,Per physical unit (recurrent),1
+2006,IDN,Per physical unit (recurrent),1
+2007,IDN,Per physical unit (recurrent),1
+2008,IDN,Per physical unit (recurrent),1
+2009,IDN,Per physical unit (recurrent),1
+2010,IDN,Per physical unit (recurrent),1
+2011,IDN,Per physical unit (recurrent),1
+2012,IDN,Per physical unit (recurrent),1
+2013,IDN,Per physical unit (recurrent),1
+2014,IDN,Per physical unit (recurrent),1
+2015,IDN,Per physical unit (recurrent),1
+2016,IDN,Per physical unit (recurrent),1
+2017,IDN,Per physical unit (recurrent),1
+2018,IDN,Per physical unit (recurrent),1
+2019,IDN,Per physical unit (recurrent),1
+2020,IDN,Per physical unit (recurrent),1
+2021,IDN,Per physical unit (recurrent),1
+2022,IDN,Per physical unit (recurrent),1
+2023,IDN,Per physical unit (recurrent),1
+2024,IDN,Per physical unit (recurrent),1
+2002,IDN,Payment for ecosystem service,1
+2003,IDN,Payment for ecosystem service,1
+2004,IDN,Payment for ecosystem service,1
+2005,IDN,Payment for ecosystem service,1
+2006,IDN,Payment for ecosystem service,1
+2007,IDN,Payment for ecosystem service,1
+2008,IDN,Payment for ecosystem service,1
+2009,IDN,Payment for ecosystem service,1
+2010,IDN,Payment for ecosystem service,1
+2011,IDN,Payment for ecosystem service,1
+2012,IDN,Payment for ecosystem service,1
+2013,IDN,Payment for ecosystem service,1
+2014,IDN,Payment for ecosystem service,1
+2015,IDN,Payment for ecosystem service,1
+2016,IDN,Payment for ecosystem service,1
+2017,IDN,Payment for ecosystem service,1
+2018,IDN,Payment for ecosystem service,1
+2019,IDN,Payment for ecosystem service,1
+2020,IDN,Payment for ecosystem service,1
+2021,IDN,Payment for ecosystem service,1
+2022,IDN,Payment for ecosystem service,1
+2023,IDN,Payment for ecosystem service,1
+2024,IDN,Payment for ecosystem service,1
+1997,IND,Total,1
+1998,IND,Total,1
+1999,IND,Total,1
+2000,IND,Total,1
+2001,IND,Total,1
+2002,IND,Total,1
+2003,IND,Total,1
+2004,IND,Total,1
+2005,IND,Total,1
+2006,IND,Total,1
+2007,IND,Total,1
+2008,IND,Total,1
+2009,IND,Total,1
+2010,IND,Total,1
+2011,IND,Total,1
+2012,IND,Total,1
+2013,IND,Total,1
+2014,IND,Total,1
+2015,IND,Total,1
+2016,IND,Total,1
+2017,IND,Total,1
+2018,IND,Total,1
+2019,IND,Total,1
+2020,IND,Total,1
+2021,IND,Total,1
+2022,IND,Total,1
+2023,IND,Total,1
+2024,IND,Total,1
+1997,IND,Per physical unit (recurrent),1
+1998,IND,Per physical unit (recurrent),1
+1999,IND,Per physical unit (recurrent),1
+2000,IND,Per physical unit (recurrent),1
+2001,IND,Per physical unit (recurrent),1
+2002,IND,Per physical unit (recurrent),1
+2003,IND,Per physical unit (recurrent),1
+2004,IND,Per physical unit (recurrent),1
+2005,IND,Per physical unit (recurrent),1
+2006,IND,Per physical unit (recurrent),1
+2007,IND,Per physical unit (recurrent),1
+2008,IND,Per physical unit (recurrent),1
+2009,IND,Per physical unit (recurrent),1
+2010,IND,Per physical unit (recurrent),1
+2011,IND,Per physical unit (recurrent),1
+2012,IND,Per physical unit (recurrent),1
+2013,IND,Per physical unit (recurrent),1
+2014,IND,Per physical unit (recurrent),1
+2015,IND,Per physical unit (recurrent),1
+2016,IND,Per physical unit (recurrent),1
+2017,IND,Per physical unit (recurrent),1
+2018,IND,Per physical unit (recurrent),1
+2019,IND,Per physical unit (recurrent),1
+2020,IND,Per physical unit (recurrent),1
+2021,IND,Per physical unit (recurrent),1
+2022,IND,Per physical unit (recurrent),1
+2023,IND,Per physical unit (recurrent),1
+2024,IND,Per physical unit (recurrent),1
+2007,IRL,Total,1
+2008,IRL,Total,2
+2009,IRL,Total,2
+2010,IRL,Total,2
+2011,IRL,Total,2
+2012,IRL,Total,3
+2013,IRL,Total,3
+2014,IRL,Total,3
+2015,IRL,Total,3
+2016,IRL,Total,3
+2017,IRL,Total,3
+2018,IRL,Total,3
+2019,IRL,Total,3
+2020,IRL,Total,3
+2021,IRL,Total,3
+2022,IRL,Total,3
+2023,IRL,Total,3
+2024,IRL,Total,3
+2012,IRL,Per physical unit (recurrent),1
+2013,IRL,Per physical unit (recurrent),1
+2014,IRL,Per physical unit (recurrent),1
+2015,IRL,Per physical unit (recurrent),1
+2016,IRL,Per physical unit (recurrent),1
+2017,IRL,Per physical unit (recurrent),1
+2018,IRL,Per physical unit (recurrent),1
+2019,IRL,Per physical unit (recurrent),1
+2020,IRL,Per physical unit (recurrent),1
+2021,IRL,Per physical unit (recurrent),1
+2022,IRL,Per physical unit (recurrent),1
+2023,IRL,Per physical unit (recurrent),1
+2024,IRL,Per physical unit (recurrent),1
+2007,IRL,In kind,1
+2008,IRL,In kind,1
+2009,IRL,In kind,1
+2010,IRL,In kind,1
+2011,IRL,In kind,1
+2012,IRL,In kind,1
+2013,IRL,In kind,1
+2014,IRL,In kind,1
+2015,IRL,In kind,1
+2016,IRL,In kind,1
+2017,IRL,In kind,1
+2018,IRL,In kind,1
+2019,IRL,In kind,1
+2020,IRL,In kind,1
+2021,IRL,In kind,1
+2022,IRL,In kind,1
+2023,IRL,In kind,1
+2024,IRL,In kind,1
+2008,IRL,Grant (one-off),1
+2009,IRL,Grant (one-off),1
+2010,IRL,Grant (one-off),1
+2011,IRL,Grant (one-off),1
+2012,IRL,Grant (one-off),1
+2013,IRL,Grant (one-off),1
+2014,IRL,Grant (one-off),1
+2015,IRL,Grant (one-off),1
+2016,IRL,Grant (one-off),1
+2017,IRL,Grant (one-off),1
+2018,IRL,Grant (one-off),1
+2019,IRL,Grant (one-off),1
+2020,IRL,Grant (one-off),1
+2021,IRL,Grant (one-off),1
+2022,IRL,Grant (one-off),1
+2023,IRL,Grant (one-off),1
+2024,IRL,Grant (one-off),1
+1980,ISR,Total,1
+1981,ISR,Total,1
+1982,ISR,Total,1
+1983,ISR,Total,1
+1984,ISR,Total,1
+1985,ISR,Total,1
+1986,ISR,Total,1
+1987,ISR,Total,1
+1988,ISR,Total,1
+1989,ISR,Total,1
+1990,ISR,Total,1
+1991,ISR,Total,1
+1992,ISR,Total,1
+1993,ISR,Total,1
+1994,ISR,Total,1
+1995,ISR,Total,1
+1996,ISR,Total,1
+1997,ISR,Total,1
+1998,ISR,Total,1
+1999,ISR,Total,1
+2000,ISR,Total,1
+2001,ISR,Total,1
+2002,ISR,Total,1
+2003,ISR,Total,1
+2004,ISR,Total,1
+2005,ISR,Total,1
+2006,ISR,Total,1
+2007,ISR,Total,1
+2008,ISR,Total,1
+2009,ISR,Total,1
+2010,ISR,Total,1
+2011,ISR,Total,1
+2012,ISR,Total,1
+2013,ISR,Total,1
+2014,ISR,Total,1
+2015,ISR,Total,1
+2016,ISR,Total,1
+2017,ISR,Total,1
+2018,ISR,Total,1
+2019,ISR,Total,1
+2020,ISR,Total,1
+2021,ISR,Total,1
+2022,ISR,Total,1
+2023,ISR,Total,1
+2024,ISR,Total,1
+1980,ISR,Grant (one-off),1
+1981,ISR,Grant (one-off),1
+1982,ISR,Grant (one-off),1
+1983,ISR,Grant (one-off),1
+1984,ISR,Grant (one-off),1
+1985,ISR,Grant (one-off),1
+1986,ISR,Grant (one-off),1
+1987,ISR,Grant (one-off),1
+1988,ISR,Grant (one-off),1
+1989,ISR,Grant (one-off),1
+1990,ISR,Grant (one-off),1
+1991,ISR,Grant (one-off),1
+1992,ISR,Grant (one-off),1
+1993,ISR,Grant (one-off),1
+1994,ISR,Grant (one-off),1
+1995,ISR,Grant (one-off),1
+1996,ISR,Grant (one-off),1
+1997,ISR,Grant (one-off),1
+1998,ISR,Grant (one-off),1
+1999,ISR,Grant (one-off),1
+2000,ISR,Grant (one-off),1
+2001,ISR,Grant (one-off),1
+2002,ISR,Grant (one-off),1
+2003,ISR,Grant (one-off),1
+2004,ISR,Grant (one-off),1
+2005,ISR,Grant (one-off),1
+2006,ISR,Grant (one-off),1
+2007,ISR,Grant (one-off),1
+2008,ISR,Grant (one-off),1
+2009,ISR,Grant (one-off),1
+2010,ISR,Grant (one-off),1
+2011,ISR,Grant (one-off),1
+2012,ISR,Grant (one-off),1
+2013,ISR,Grant (one-off),1
+2014,ISR,Grant (one-off),1
+2015,ISR,Grant (one-off),1
+2016,ISR,Grant (one-off),1
+2017,ISR,Grant (one-off),1
+2018,ISR,Grant (one-off),1
+2019,ISR,Grant (one-off),1
+2020,ISR,Grant (one-off),1
+2021,ISR,Grant (one-off),1
+2022,ISR,Grant (one-off),1
+2023,ISR,Grant (one-off),1
+2024,ISR,Grant (one-off),1
+1992,ITA,Total,1
+1993,ITA,Total,1
+1994,ITA,Total,1
+1995,ITA,Total,1
+1996,ITA,Total,1
+1997,ITA,Total,1
+1998,ITA,Total,1
+1999,ITA,Total,1
+2000,ITA,Total,1
+2001,ITA,Total,1
+1992,ITA,Per physical unit (recurrent),1
+1993,ITA,Per physical unit (recurrent),1
+1994,ITA,Per physical unit (recurrent),1
+1995,ITA,Per physical unit (recurrent),1
+1996,ITA,Per physical unit (recurrent),1
+1997,ITA,Per physical unit (recurrent),1
+1998,ITA,Per physical unit (recurrent),1
+1999,ITA,Per physical unit (recurrent),1
+2000,ITA,Per physical unit (recurrent),1
+2001,ITA,Per physical unit (recurrent),1
+2001,KOR,Total,1
+2002,KOR,Total,1
+2003,KOR,Total,1
+2004,KOR,Total,1
+2005,KOR,Total,1
+2006,KOR,Total,1
+2007,KOR,Total,1
+2008,KOR,Total,1
+2009,KOR,Total,1
+2010,KOR,Total,1
+2011,KOR,Total,1
+2012,KOR,Total,1
+2013,KOR,Total,1
+2014,KOR,Total,1
+2015,KOR,Total,1
+2016,KOR,Total,1
+2017,KOR,Total,1
+2018,KOR,Total,1
+2019,KOR,Total,1
+2020,KOR,Total,1
+2021,KOR,Total,1
+2022,KOR,Total,1
+2023,KOR,Total,1
+2024,KOR,Total,1
+2001,KOR,Per physical unit (recurrent),1
+2002,KOR,Per physical unit (recurrent),1
+2003,KOR,Per physical unit (recurrent),1
+2004,KOR,Per physical unit (recurrent),1
+2005,KOR,Per physical unit (recurrent),1
+2006,KOR,Per physical unit (recurrent),1
+2007,KOR,Per physical unit (recurrent),1
+2008,KOR,Per physical unit (recurrent),1
+2009,KOR,Per physical unit (recurrent),1
+2010,KOR,Per physical unit (recurrent),1
+2011,KOR,Per physical unit (recurrent),1
+2012,KOR,Per physical unit (recurrent),1
+2013,KOR,Per physical unit (recurrent),1
+2014,KOR,Per physical unit (recurrent),1
+2015,KOR,Per physical unit (recurrent),1
+2016,KOR,Per physical unit (recurrent),1
+2017,KOR,Per physical unit (recurrent),1
+2018,KOR,Per physical unit (recurrent),1
+2019,KOR,Per physical unit (recurrent),1
+2020,KOR,Per physical unit (recurrent),1
+2021,KOR,Per physical unit (recurrent),1
+2022,KOR,Per physical unit (recurrent),1
+2023,KOR,Per physical unit (recurrent),1
+2024,KOR,Per physical unit (recurrent),1
+2003,NLD,Total,1
+2004,NLD,Total,1
+2005,NLD,Total,1
+2006,NLD,Total,1
+2007,NLD,Total,2
+2008,NLD,Total,2
+2009,NLD,Total,2
+2010,NLD,Total,2
+2011,NLD,Total,2
+2012,NLD,Total,2
+2013,NLD,Total,2
+2014,NLD,Total,1
+2015,NLD,Total,1
+2016,NLD,Total,1
+2017,NLD,Total,2
+2018,NLD,Total,2
+2019,NLD,Total,2
+2020,NLD,Total,2
+2021,NLD,Total,2
+2022,NLD,Total,2
+2023,NLD,Total,2
+2024,NLD,Total,2
+2003,NLD,Per physical unit (recurrent),1
+2004,NLD,Per physical unit (recurrent),1
+2005,NLD,Per physical unit (recurrent),1
+2006,NLD,Per physical unit (recurrent),1
+2007,NLD,Per physical unit (recurrent),1
+2008,NLD,Per physical unit (recurrent),1
+2009,NLD,Per physical unit (recurrent),1
+2010,NLD,Per physical unit (recurrent),1
+2011,NLD,Per physical unit (recurrent),1
+2012,NLD,Per physical unit (recurrent),1
+2013,NLD,Per physical unit (recurrent),1
+2014,NLD,Per physical unit (recurrent),1
+2015,NLD,Per physical unit (recurrent),1
+2016,NLD,Per physical unit (recurrent),1
+2017,NLD,Per physical unit (recurrent),1
+2018,NLD,Per physical unit (recurrent),1
+2019,NLD,Per physical unit (recurrent),1
+2020,NLD,Per physical unit (recurrent),1
+2021,NLD,Per physical unit (recurrent),1
+2022,NLD,Per physical unit (recurrent),1
+2023,NLD,Per physical unit (recurrent),1
+2024,NLD,Per physical unit (recurrent),1
+2007,NLD,Grant (one-off),1
+2008,NLD,Grant (one-off),1
+2009,NLD,Grant (one-off),1
+2010,NLD,Grant (one-off),1
+2011,NLD,Grant (one-off),1
+2012,NLD,Grant (one-off),1
+2013,NLD,Grant (one-off),1
+2017,NLD,Grant (one-off),1
+2018,NLD,Grant (one-off),1
+2019,NLD,Grant (one-off),1
+2020,NLD,Grant (one-off),1
+2021,NLD,Grant (one-off),1
+2022,NLD,Grant (one-off),1
+2023,NLD,Grant (one-off),1
+2024,NLD,Grant (one-off),1
+2007,NZL,Total,1
+2008,NZL,Total,1
+2009,NZL,Total,1
+2010,NZL,Total,1
+2011,NZL,Total,1
+2007,NZL,Grant (one-off),1
+2008,NZL,Grant (one-off),1
+2009,NZL,Grant (one-off),1
+2010,NZL,Grant (one-off),1
+2011,NZL,Grant (one-off),1
+1988,PRT,Total,1
+1989,PRT,Total,1
+1990,PRT,Total,1
+1991,PRT,Total,1
+1992,PRT,Total,1
+1993,PRT,Total,1
+1994,PRT,Total,1
+1995,PRT,Total,1
+1996,PRT,Total,1
+1997,PRT,Total,1
+1998,PRT,Total,1
+1999,PRT,Total,1
+2000,PRT,Total,1
+2001,PRT,Total,1
+2002,PRT,Total,1
+2003,PRT,Total,1
+2004,PRT,Total,1
+2005,PRT,Total,1
+2006,PRT,Total,1
+2007,PRT,Total,1
+2008,PRT,Total,1
+2009,PRT,Total,1
+2010,PRT,Total,1
+2011,PRT,Total,1
+2012,PRT,Total,1
+2013,PRT,Total,1
+2014,PRT,Total,1
+2015,PRT,Total,1
+2016,PRT,Total,1
+2017,PRT,Total,1
+2018,PRT,Total,1
+2019,PRT,Total,1
+2020,PRT,Total,1
+2021,PRT,Total,1
+2022,PRT,Total,1
+2023,PRT,Total,1
+2024,PRT,Total,1
+1988,PRT,Per physical unit (recurrent),1
+1989,PRT,Per physical unit (recurrent),1
+1990,PRT,Per physical unit (recurrent),1
+1991,PRT,Per physical unit (recurrent),1
+1992,PRT,Per physical unit (recurrent),1
+1993,PRT,Per physical unit (recurrent),1
+1994,PRT,Per physical unit (recurrent),1
+1995,PRT,Per physical unit (recurrent),1
+1996,PRT,Per physical unit (recurrent),1
+1997,PRT,Per physical unit (recurrent),1
+1998,PRT,Per physical unit (recurrent),1
+1999,PRT,Per physical unit (recurrent),1
+2000,PRT,Per physical unit (recurrent),1
+2001,PRT,Per physical unit (recurrent),1
+2002,PRT,Per physical unit (recurrent),1
+2003,PRT,Per physical unit (recurrent),1
+2004,PRT,Per physical unit (recurrent),1
+2005,PRT,Per physical unit (recurrent),1
+2006,PRT,Per physical unit (recurrent),1
+2007,PRT,Per physical unit (recurrent),1
+2008,PRT,Per physical unit (recurrent),1
+2009,PRT,Per physical unit (recurrent),1
+2010,PRT,Per physical unit (recurrent),1
+2011,PRT,Per physical unit (recurrent),1
+2012,PRT,Per physical unit (recurrent),1
+2013,PRT,Per physical unit (recurrent),1
+2014,PRT,Per physical unit (recurrent),1
+2015,PRT,Per physical unit (recurrent),1
+2016,PRT,Per physical unit (recurrent),1
+2017,PRT,Per physical unit (recurrent),1
+2018,PRT,Per physical unit (recurrent),1
+2019,PRT,Per physical unit (recurrent),1
+2020,PRT,Per physical unit (recurrent),1
+2021,PRT,Per physical unit (recurrent),1
+2022,PRT,Per physical unit (recurrent),1
+2023,PRT,Per physical unit (recurrent),1
+2024,PRT,Per physical unit (recurrent),1
+1994,SWE,Total,1
+1995,SWE,Total,1
+1996,SWE,Total,1
+1997,SWE,Total,1
+1998,SWE,Total,1
+1999,SWE,Total,2
+2000,SWE,Total,2
+2001,SWE,Total,2
+2002,SWE,Total,2
+2003,SWE,Total,2
+2004,SWE,Total,1
+2005,SWE,Total,1
+2006,SWE,Total,1
+2007,SWE,Total,1
+2008,SWE,Total,2
+2009,SWE,Total,2
+2010,SWE,Total,2
+2011,SWE,Total,2
+2012,SWE,Total,2
+2013,SWE,Total,1
+2014,SWE,Total,1
+2015,SWE,Total,1
+2016,SWE,Total,1
+2017,SWE,Total,1
+2018,SWE,Total,1
+2019,SWE,Total,1
+2020,SWE,Total,1
+2021,SWE,Total,1
+2022,SWE,Total,1
+2023,SWE,Total,1
+2024,SWE,Total,1
+1994,SWE,Grant (one-off),1
+1995,SWE,Grant (one-off),1
+1996,SWE,Grant (one-off),1
+1997,SWE,Grant (one-off),1
+1998,SWE,Grant (one-off),1
+1999,SWE,Grant (one-off),2
+2000,SWE,Grant (one-off),2
+2001,SWE,Grant (one-off),2
+2002,SWE,Grant (one-off),2
+2003,SWE,Grant (one-off),2
+2004,SWE,Grant (one-off),1
+2005,SWE,Grant (one-off),1
+2006,SWE,Grant (one-off),1
+2007,SWE,Grant (one-off),1
+2008,SWE,Grant (one-off),2
+2009,SWE,Grant (one-off),2
+2010,SWE,Grant (one-off),2
+2011,SWE,Grant (one-off),2
+2012,SWE,Grant (one-off),2
+2013,SWE,Grant (one-off),1
+2014,SWE,Grant (one-off),1
+2015,SWE,Grant (one-off),1
+2016,SWE,Grant (one-off),1
+2017,SWE,Grant (one-off),1
+2018,SWE,Grant (one-off),1
+2019,SWE,Grant (one-off),1
+2020,SWE,Grant (one-off),1
+2021,SWE,Grant (one-off),1
+2022,SWE,Grant (one-off),1
+2023,SWE,Grant (one-off),1
+2024,SWE,Grant (one-off),1
