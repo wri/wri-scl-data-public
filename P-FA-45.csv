@@ -1,22 +1,22 @@
 year,geo,disagg,value
-2023,WLD,Total,89.9
-2023,WLD,Agriculture: General,82.9
-2023,WLD,Livestock,62.5
-2023,WLD,Reducing food loss and waste,9.9
-2023,WLD,Agricultural productivity,30.9
-2023,WLD,Agroforestry,46.1
-2023,WLD,Food security,50.7
-2023,WLD,Irrigation,43.4
-2023,WLD,Rice cultivation,17.8
+2023,WLD,Total,90
+2023,WLD,Agricultural productivity,31
 2023,WLD,Agricultural waste,23
-2023,WLD,Soil carbon sequestration,14.5
-2023,WLD,Climate smart agriculture,61.8
-2023,WLD,Crops,48
-2023,WLD,Fisheries and aquaculture,42.1
-2023,WLD,Land and soil management,46.7
-2023,WLD,Soil fertilization emissions,18.4
-2023,WLD,Diets,5.9
+2023,WLD,Agriculture: General,83
 2023,WLD,Agroecology,9.9
+2023,WLD,Agroforestry,46
+2023,WLD,Climate smart agriculture,62
+2023,WLD,Crops,48
+2023,WLD,Diets,5.9
+2023,WLD,Fisheries and aquaculture,42
+2023,WLD,Food security,51
+2023,WLD,Irrigation,43
+2023,WLD,Land and soil management,47
+2023,WLD,Livestock,63
+2023,WLD,Reducing food loss and waste,9.9
+2023,WLD,Rice cultivation,18
+2023,WLD,Soil carbon sequestration,14
+2023,WLD,Soil fertilization emissions,18
 2023,AND,Total,1
 2023,ARE,Total,1
 2023,AFG,Total,1
