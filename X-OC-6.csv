@@ -9,27 +9,27 @@
 2007,WLD,All,Total,2.6
 2008,WLD,All,Total,2.6
 2009,WLD,All,Total,2.7
-2010,WLD,All,Total,3
-2011,WLD,All,Total,3
+2010,WLD,All,Total,3.0
+2011,WLD,All,Total,3.0
 2012,WLD,All,Total,3.4
 2013,WLD,All,Total,3.5
 2014,WLD,All,Total,3.9
 2015,WLD,All,Total,4.1
 2016,WLD,All,Total,4.7
-2017,WLD,All,Total,6
+2017,WLD,All,Total,6.0
 2018,WLD,All,Total,7.2
 2019,WLD,All,Total,7.5
-2020,WLD,All,Total,8
-2021,WLD,All,Total,8
+2020,WLD,All,Total,8.0
+2021,WLD,All,Total,8.0
 2022,WLD,All,Total,8.3
 2023,WLD,All,Total,8.4
 2024,WLD,Area,Marine Protected Areas,8.3
 2024,WLD,Area,OECM,0.1
-2024,WLD,Biome,Saltmarsh,50
-2024,WLD,Biome,Seagrass,24
-2024,WLD,Biome,Warmwater-corals,42
-2024,WLD,Biome,Mangroves,42
-2024,WLD,Biome,Coldwater-corals,29
+2024,WLD,Habitat,Saltmarsh,50
+2024,WLD,Habitat,Seagrasses,24
+2024,WLD,Habitat,Warm water corals,42
+2024,WLD,Habitat,Mangroves,42
+2024,WLD,Habitat,Cold water corals,29
 2024,WLD,All,Total,8.5
 2024,ABW,All,Total,1.4
 2024,AFG,All,Total,0
@@ -39,85 +39,85 @@
 2024,ALB,All,Total,0
 2024,AND,All,Total,3.4
 2024,ARE,All,Total,0
-2024,ARG,All,Total,12
-2024,ARM,All,Total,12
+2024,ARG,All,Total,12.0
+2024,ARM,All,Total,12.0
 2024,ASM,All,Total,0
 2024,ATA,All,Total,8.7
 2024,ATF,All,Total,0
-2024,ATG,All,Total,87.3
+2024,ATG,All,Total,87.0
 2024,AUS,All,Total,0.7
-2024,AUT,All,Total,45.4
+2024,AUT,All,Total,45.0
 2024,AZE,All,Total,0
 2024,BDI,All,Total,1.1
 2024,BEL,All,Total,0
-2024,BEN,All,Total,38.3
+2024,BEN,All,Total,38.0
 2024,BES,All,Total,0
-2024,BFA,All,Total,100
+2024,BFA,All,Total,100.0
 2024,BGD,All,Total,0
-2024,BGR,All,Total,8
+2024,BGR,All,Total,8.0
 2024,BHR,All,Total,8.2
-2024,BHS,All,Total,21.4
+2024,BHS,All,Total,21.0
 2024,BIH,All,Total,7.7
 2024,BLM,All,Total,0
-2024,BLR,All,Total,98.2
+2024,BLR,All,Total,98.0
 2024,BLZ,All,Total,0
-2024,BMU,All,Total,12.4
+2024,BMU,All,Total,12.0
 2024,BOL,All,Total,0
 2024,BRA,All,Total,0
-2024,BRB,All,Total,26.7
+2024,BRB,All,Total,27.0
 2024,BRN,All,Total,0.1
 2024,BTN,All,Total,0
 2024,BVT,All,Total,0
 2024,BWA,All,Total,0
 2024,CAF,All,Total,0
 2024,CAN,All,Total,0
-2024,CCK,All,Total,14.7
-2024,CHE,All,Total,99.9
+2024,CCK,All,Total,15.0
+2024,CHE,All,Total,100.0
 2024,CHL,All,Total,0
-2024,CHN,All,Total,41.2
+2024,CHN,All,Total,41.0
 2024,CIV,All,Total,4.8
 2024,CMR,All,Total,0.1
-2024,COD,All,Total,11.4
+2024,COD,All,Total,11.0
 2024,COG,All,Total,0.5
 2024,COK,All,Total,3.5
-2024,COL,All,Total,100
-2024,COM,All,Total,48
+2024,COL,All,Total,100.0
+2024,COM,All,Total,48.0
 2024,CPV,All,Total,0.4
 2024,CRI,All,Total,0.1
-2024,CUB,All,Total,28.4
+2024,CUB,All,Total,28.0
 2024,CUW,All,Total,4.2
 2024,CXR,All,Total,0
-2024,CYM,All,Total,84.5
+2024,CYM,All,Total,84.0
 2024,CYP,All,Total,0.1
 2024,CZE,All,Total,8.6
 2024,DEU,All,Total,0
-2024,DJI,All,Total,45.4
+2024,DJI,All,Total,45.0
 2024,DMA,All,Total,0.2
 2024,DNK,All,Total,0.1
-2024,DOM,All,Total,18.6
-2024,DZA,All,Total,13.3
+2024,DOM,All,Total,19.0
+2024,DZA,All,Total,13.0
 2024,ECU,All,Total,0.1
-2024,EGY,All,Total,19.3
+2024,EGY,All,Total,19.0
 2024,ERI,All,Total,4.6
 2024,ESH,All,Total,0
 2024,ESP,All,Total,0
-2024,EST,All,Total,12.8
-2024,ETH,All,Total,19.3
+2024,EST,All,Total,13.0
+2024,ETH,All,Total,19.0
 2024,FIN,All,Total,0
-2024,FJI,All,Total,11.8
+2024,FJI,All,Total,12.0
 2024,FLK,All,Total,0.9
 2024,FRA,All,Total,0
-2024,FRO,All,Total,49.8
+2024,FRO,All,Total,50.0
 2024,FSM,All,Total,0
 2024,GAB,All,Total,0
-2024,GBR,All,Total,26.9
-2024,GEO,All,Total,46.8
+2024,GBR,All,Total,27.0
+2024,GEO,All,Total,47.0
 2024,GGY,All,Total,0.7
 2024,GHA,All,Total,0.9
 2024,GIB,All,Total,0.1
 2024,GIN,All,Total,0
 2024,GLP,All,Total,0.6
-2024,GMB,All,Total,99.5
+2024,GMB,All,Total,99.0
 2024,GNB,All,Total,0.6
 2024,GNQ,All,Total,9.1
 2024,GRC,All,Total,0.3
@@ -129,29 +129,29 @@
 2024,GUY,All,Total,0
 2024,HKG,All,Total,0.1
 2024,HMD,All,Total,0
-2024,HND,All,Total,16.9
+2024,HND,All,Total,17.0
 2024,HRV,All,Total,4.9
 2024,HTI,All,Total,9.3
 2024,HUN,All,Total,1.8
 2024,IDN,All,Total,0
-2024,IMN,All,Total,3
-2024,IND,All,Total,10.8
+2024,IMN,All,Total,3.0
+2024,IND,All,Total,11.0
 2024,IRL,All,Total,0.3
 2024,IRN,All,Total,2.4
 2024,IRQ,All,Total,0.9
 2024,ISL,All,Total,0.3
 2024,ISR,All,Total,0.5
 2024,ITA,All,Total,0.6
-2024,JAM,All,Total,10.7
+2024,JAM,All,Total,11.0
 2024,JEY,All,Total,0.7
-2024,JOR,All,Total,8
+2024,JOR,All,Total,8.0
 2024,JPN,All,Total,2.8
-2024,KAZ,All,Total,13.8
-2024,KEN,All,Total,52.5
+2024,KAZ,All,Total,14.0
+2024,KEN,All,Total,52.0
 2024,KGZ,All,Total,0.6
 2024,KHM,All,Total,0
 2024,KIR,All,Total,1.5
-2024,KNA,All,Total,11.9
+2024,KNA,All,Total,12.0
 2024,KOR,All,Total,4.5
 2024,KWT,All,Total,2.2
 2024,LAO,All,Total,3.2
@@ -163,16 +163,16 @@
 2024,LKA,All,Total,0
 2024,LSO,All,Total,0.1
 2024,LTU,All,Total,0
-2024,LUX,All,Total,23.2
+2024,LUX,All,Total,23.0
 2024,LVA,All,Total,0
-2024,MAF,All,Total,16.4
-2024,MAR,All,Total,97
+2024,MAF,All,Total,16.0
+2024,MAR,All,Total,97.0
 2024,MCO,All,Total,0.3
-2024,MDA,All,Total,100
+2024,MDA,All,Total,100.0
 2024,MDG,All,Total,0
 2024,MDV,All,Total,0.9
 2024,MEX,All,Total,0.1
-2024,MHL,All,Total,22.2
+2024,MHL,All,Total,22.0
 2024,MKD,All,Total,0.3
 2024,MLI,All,Total,0
 2024,MLT,All,Total,0
@@ -180,53 +180,53 @@
 2024,MNE,All,Total,0.5
 2024,MNG,All,Total,5.6
 2024,MNP,All,Total,0
-2024,MOZ,All,Total,32.4
+2024,MOZ,All,Total,32.0
 2024,MRT,All,Total,2.2
 2024,MSR,All,Total,3.7
 2024,MTQ,All,Total,0
-2024,MUS,All,Total,100
+2024,MUS,All,Total,100.0
 2024,MWI,All,Total,0
 2024,MYS,All,Total,0
 2024,MYT,All,Total,4.8
-2024,NAM,All,Total,100
+2024,NAM,All,Total,100.0
 2024,NCL,All,Total,1.7
-2024,NER,All,Total,100
+2024,NER,All,Total,100.0
 2024,NFK,All,Total,0
-2024,NGA,All,Total,43.8
+2024,NGA,All,Total,44.0
 2024,NIC,All,Total,0
 2024,NIU,All,Total,3.6
-2024,NLD,All,Total,40.7
-2024,NOR,All,Total,33.6
-2024,NPL,All,Total,1
+2024,NLD,All,Total,41.0
+2024,NOR,All,Total,34.0
+2024,NPL,All,Total,1.0
 2024,NRU,All,Total,0
 2024,NZL,All,Total,0
-2024,OMN,All,Total,30.4
-2024,PAK,All,Total,16.2
+2024,OMN,All,Total,30.0
+2024,PAK,All,Total,16.0
 2024,PAN,All,Total,1.2
-2024,PCN,All,Total,26.3
-2024,PER,All,Total,100
+2024,PCN,All,Total,26.0
+2024,PER,All,Total,100.0
 2024,PHL,All,Total,7.9
 2024,PLW,All,Total,3.4
-2024,PNG,All,Total,98
+2024,PNG,All,Total,98.0
 2024,POL,All,Total,0.1
-2024,PRI,All,Total,24
+2024,PRI,All,Total,24.0
 2024,PRK,All,Total,1.9
 2024,PRT,All,Total,0
-2024,PRY,All,Total,16.8
+2024,PRY,All,Total,17.0
 2024,PSE,All,Total,0
 2024,PYF,All,Total,0
 2024,QAT,All,Total,0
 2024,REU,All,Total,2.3
 2024,ROU,All,Total,0
-2024,RUS,All,Total,22.1
+2024,RUS,All,Total,22.0
 2024,RWA,All,Total,2.2
 2024,SAU,All,Total,0
 2024,SDN,All,Total,3.6
-2024,SEN,All,Total,17
+2024,SEN,All,Total,17.0
 2024,SGP,All,Total,2.2
 2024,SGS,All,Total,0
-2024,SHN,All,Total,99.9
-2024,SJM,All,Total,95.9
+2024,SHN,All,Total,100.0
+2024,SJM,All,Total,96.0
 2024,SLB,All,Total,7.8
 2024,SLE,All,Total,0.1
 2024,SLV,All,Total,1.7
@@ -239,15 +239,15 @@
 2024,SVK,All,Total,1.5
 2024,SVN,All,Total,0
 2024,SWE,All,Total,2.9
-2024,SWZ,All,Total,16.1
+2024,SWZ,All,Total,16.0
 2024,SXM,All,Total,0
 2024,SYC,All,Total,5.1
-2024,SYR,All,Total,32.6
+2024,SYR,All,Total,33.0
 2024,TCA,All,Total,0.2
 2024,TCD,All,Total,0.2
 2024,TGO,All,Total,0
 2024,THA,All,Total,0.7
-2024,TJK,All,Total,5
+2024,TJK,All,Total,5.0
 2024,TKL,All,Total,0
 2024,TKM,All,Total,0
 2024,TLS,All,Total,4.2
@@ -260,10 +260,10 @@
 2024,TZA,All,Total,0
 2024,UGA,All,Total,2.3
 2024,UKR,All,Total,0
-2024,UMI,All,Total,21.6
-2024,URY,All,Total,64.9
+2024,UMI,All,Total,22.0
+2024,URY,All,Total,65.0
 2024,USA,All,Total,1.5
-2024,UZB,All,Total,19
+2024,UZB,All,Total,19.0
 2024,VCT,All,Total,0
 2024,VEN,All,Total,0.2
 2024,VGB,All,Total,4.4
@@ -274,19 +274,649 @@
 2024,WSM,All,Total,0
 2024,YEM,All,Total,0.2
 2024,ZAF,All,Total,0.4
-2024,ZMB,All,Total,15.5
+2024,ZMB,All,Total,15.0
 2024,ZWE,All,Total,0
-2024,53,All,Total,42.66
-2024,143,All,Total,35.64
-2024,30,All,Total,11.28
-2024,151,All,Total,2.75
-2024,54,All,Total,18.81
-2024,57,All,Total,28.25
-2024,15,All,Total,2.23
-2024,21,All,Total,15.08
-2024,154,All,Total,9.97
-2024,35,All,Total,2.88
+2024,53,All,Total,43
+2024,143,All,Total,36
+2024,30,All,Total,11
+2024,151,All,Total,2.8
+2024,54,All,Total,19
+2024,57,All,Total,28
+2024,15,All,Total,2.2
+2024,21,All,Total,15
+2024,154,All,Total,10
+2024,35,All,Total,2.9
 2024,34,All,Total,0.51
-2024,39,All,Total,13.14
-2024,145,All,Total,6.38
-2024,155,All,Total,46.98
+2024,39,All,Total,13
+2024,145,All,Total,6.4
+2024,155,All,Total,47
+2024,ABW,Habitat,Mangroves,2
+2024,AGO,Habitat,Mangroves,0.45
+2024,AIA,Habitat,Mangroves,0
+2024,ARE,Habitat,Mangroves,15
+2024,ASM,Habitat,Mangroves,0
+2024,ATG,Habitat,Mangroves,50
+2024,AUS,Habitat,Mangroves,49
+2024,BEN,Habitat,Mangroves,0
+2024,BES,Habitat,Mangroves,100
+2024,BGD,Habitat,Mangroves,92
+2024,BHR,Habitat,Mangroves,0
+2024,BHS,Habitat,Mangroves,65
+2024,BLZ,Habitat,Mangroves,33
+2024,BRA,Habitat,Mangroves,86
+2024,BRB,Habitat,Mangroves,0
+2024,BRN,Habitat,Mangroves,59
+2024,CHN,Habitat,Mangroves,6.7
+2024,CIV,Habitat,Mangroves,7.5
+2024,CMR,Habitat,Mangroves,75
+2024,COD,Habitat,Mangroves,98
+2024,COL,Habitat,Mangroves,47
+2024,COM,Habitat,Mangroves,92
+2024,CRI,Habitat,Mangroves,49
+2024,CUB,Habitat,Mangroves,51
+2024,CUW,Habitat,Mangroves,42
+2024,CYM,Habitat,Mangroves,22
+2024,DJI,Habitat,Mangroves,0
+2024,DMA,Habitat,Mangroves,100
+2024,DOM,Habitat,Mangroves,82
+2024,DPT,Habitat,Mangroves,11
+2024,ECU,Habitat,Mangroves,49
+2024,EGY,Habitat,Mangroves,49
+2024,ERI,Habitat,Mangroves,0
+2024,FJI,Habitat,Mangroves,33
+2024,FSM,Habitat,Mangroves,0
+2024,GAB,Habitat,Mangroves,52
+2024,GHA,Habitat,Mangroves,49
+2024,GIN,Habitat,Mangroves,25
+2024,GLP,Habitat,Mangroves,97
+2024,GMB,Habitat,Mangroves,45
+2024,GNB,Habitat,Mangroves,37
+2024,GNQ,Habitat,Mangroves,80
+2024,GRD,Habitat,Mangroves,29
+2024,GTM,Habitat,Mangroves,46
+2024,GUF,Habitat,Mangroves,71
+2024,GUY,Habitat,Mangroves,52
+2024,HKG,Habitat,Mangroves,58
+2024,HND,Habitat,Mangroves,66
+2024,HTI,Habitat,Mangroves,46
+2024,IDN,Habitat,Mangroves,24
+2024,IND,Habitat,Mangroves,21
+2024,IRN,Habitat,Mangroves,98
+2024,JAM,Habitat,Mangroves,57
+2024,JPN,Habitat,Mangroves,75
+2024,KEN,Habitat,Mangroves,16
+2024,KHM,Habitat,Mangroves,67
+2024,KNA,Habitat,Mangroves,0.4
+2024,LBR,Habitat,Mangroves,12
+2024,LCA,Habitat,Mangroves,65
+2024,LKA,Habitat,Mangroves,4.8
+2024,MAF,Habitat,Mangroves,98
+2024,MDG,Habitat,Mangroves,18
+2024,MEX,Habitat,Mangroves,75
+2024,MMR,Habitat,Mangroves,3
+2024,MOZ,Habitat,Mangroves,55
+2024,MRT,Habitat,Mangroves,49
+2024,MTQ,Habitat,Mangroves,99
+2024,MUS,Habitat,Mangroves,9.1
+2024,MYS,Habitat,Mangroves,14
+2024,MYT,Habitat,Mangroves,96
+2024,NCL,Habitat,Mangroves,31
+2024,NGA,Habitat,Mangroves,5.4
+2024,NIC,Habitat,Mangroves,79
+2024,NZL,Habitat,Mangroves,7.6
+2024,OMN,Habitat,Mangroves,47
+2024,PAK,Habitat,Mangroves,36
+2024,PAN,Habitat,Mangroves,41
+2024,PER,Habitat,Mangroves,40
+2024,PHL,Habitat,Mangroves,40
+2024,PLW,Habitat,Mangroves,83
+2024,PNG,Habitat,Mangroves,4.5
+2024,PRI,Habitat,Mangroves,50
+2024,QAT,Habitat,Mangroves,90
+2024,SAU,Habitat,Mangroves,12
+2024,SDN,Habitat,Mangroves,3.1
+2024,SEN,Habitat,Mangroves,58
+2024,SGP,Habitat,Mangroves,9.1
+2024,SLB,Habitat,Mangroves,10
+2024,SLE,Habitat,Mangroves,0
+2024,SLV,Habitat,Mangroves,77
+2024,SOM,Habitat,Mangroves,0
+2024,STP,Habitat,Mangroves,0
+2024,SUR,Habitat,Mangroves,69
+2024,SYC,Habitat,Mangroves,36
+2024,TCA,Habitat,Mangroves,78
+2024,THA,Habitat,Mangroves,6.9
+2024,TLS,Habitat,Mangroves,56
+2024,TON,Habitat,Mangroves,22
+2024,TTO,Habitat,Mangroves,33
+2024,TWN,Habitat,Mangroves,77
+2024,TZA,Habitat,Mangroves,84
+2024,USA,Habitat,Mangroves,90
+2024,VCT,Habitat,Mangroves,46
+2024,VEN,Habitat,Mangroves,67
+2024,VGB,Habitat,Mangroves,0
+2024,VIR,Habitat,Mangroves,64
+2024,VNM,Habitat,Mangroves,7.2
+2024,VUT,Habitat,Mangroves,0
+2024,WSM,Habitat,Mangroves,20
+2024,xHT,Habitat,Mangroves,100
+2024,YEM,Habitat,Mangroves,15
+2024,ZAF,Habitat,Mangroves,35
+2024,ABW,Habitat,Seagrasses,0
+2024,AGO,Habitat,Seagrasses,0
+2024,AIA,Habitat,Seagrasses,7.2
+2024,ALA,Habitat,Seagrasses,0
+2024,ALB,Habitat,Seagrasses,6.7
+2024,ARE,Habitat,Seagrasses,43
+2024,ASM,Habitat,Seagrasses,3.8
+2024,ATF,Habitat,Seagrasses,0
+2024,ATG,Habitat,Seagrasses,21
+2024,AUS,Habitat,Seagrasses,40
+2024,AZE,Habitat,Seagrasses,0
+2024,BEN,Habitat,Seagrasses,0
+2024,BES,Habitat,Seagrasses,100
+2024,BGD,Habitat,Seagrasses,0
+2024,BHR,Habitat,Seagrasses,0
+2024,BHS,Habitat,Seagrasses,3.1
+2024,BLM,Habitat,Seagrasses,97
+2024,BLZ,Habitat,Seagrasses,43
+2024,BMU,Habitat,Seagrasses,0
+2024,BRA,Habitat,Seagrasses,0.23
+2024,BRB,Habitat,Seagrasses,0
+2024,CAN,Habitat,Seagrasses,23
+2024,CCK,Habitat,Seagrasses,0
+2024,CHL,Habitat,Seagrasses,0
+2024,CHN,Habitat,Seagrasses,0
+2024,COL,Habitat,Seagrasses,44
+2024,COM,Habitat,Seagrasses,4.5
+2024,CRI,Habitat,Seagrasses,83
+2024,CUB,Habitat,Seagrasses,43
+2024,CUW,Habitat,Seagrasses,23
+2024,CXR,Habitat,Seagrasses,7.1
+2024,CYM,Habitat,Seagrasses,6.8
+2024,CYP,Habitat,Seagrasses,65
+2024,DEU,Habitat,Seagrasses,100
+2024,DMA,Habitat,Seagrasses,1.3
+2024,DNK,Habitat,Seagrasses,53
+2024,DOM,Habitat,Seagrasses,25
+2024,DPT,Habitat,Seagrasses,45
+2024,DZA,Habitat,Seagrasses,0.06
+2024,EGY,Habitat,Seagrasses,19
+2024,ERI,Habitat,Seagrasses,0
+2024,ESH,Habitat,Seagrasses,0
+2024,ESP,Habitat,Seagrasses,66
+2024,EST,Habitat,Seagrasses,80
+2024,FIN,Habitat,Seagrasses,26
+2024,FJI,Habitat,Seagrasses,17
+2024,FRA,Habitat,Seagrasses,97
+2024,FSM,Habitat,Seagrasses,0
+2024,GBR,Habitat,Seagrasses,82
+2024,GGY,Habitat,Seagrasses,0
+2024,GHA,Habitat,Seagrasses,0
+2024,GIN,Habitat,Seagrasses,4.2
+2024,GLP,Habitat,Seagrasses,98
+2024,GNB,Habitat,Seagrasses,15
+2024,GRC,Habitat,Seagrasses,91
+2024,GRD,Habitat,Seagrasses,7
+2024,GRL,Habitat,Seagrasses,0
+2024,GTM,Habitat,Seagrasses,71
+2024,GUM,Habitat,Seagrasses,8.3
+2024,HKG,Habitat,Seagrasses,13
+2024,HND,Habitat,Seagrasses,27
+2024,HRV,Habitat,Seagrasses,57
+2024,HTI,Habitat,Seagrasses,1.5
+2024,IDN,Habitat,Seagrasses,20
+2024,IMN,Habitat,Seagrasses,100
+2024,IND,Habitat,Seagrasses,0
+2024,IRL,Habitat,Seagrasses,100
+2024,IRN,Habitat,Seagrasses,11
+2024,IRQ,Habitat,Seagrasses,0
+2024,ISL,Habitat,Seagrasses,41
+2024,ISR,Habitat,Seagrasses,11
+2024,ITA,Habitat,Seagrasses,49
+2024,JAM,Habitat,Seagrasses,17
+2024,JEY,Habitat,Seagrasses,100
+2024,JOR,Habitat,Seagrasses,0
+2024,JPN,Habitat,Seagrasses,86
+2024,KAZ,Habitat,Seagrasses,42
+2024,KEN,Habitat,Seagrasses,63
+2024,KHM,Habitat,Seagrasses,33
+2024,KIR,Habitat,Seagrasses,0
+2024,KNA,Habitat,Seagrasses,87
+2024,KOR,Habitat,Seagrasses,29
+2024,KWT,Habitat,Seagrasses,12
+2024,LBN,Habitat,Seagrasses,0
+2024,LBY,Habitat,Seagrasses,0
+2024,LCA,Habitat,Seagrasses,65
+2024,LKA,Habitat,Seagrasses,0.14
+2024,LTU,Habitat,Seagrasses,50
+2024,MAF,Habitat,Seagrasses,97
+2024,MAR,Habitat,Seagrasses,50
+2024,MCO,Habitat,Seagrasses,100
+2024,MDG,Habitat,Seagrasses,21
+2024,MDV,Habitat,Seagrasses,1.1
+2024,MEX,Habitat,Seagrasses,61
+2024,MHL,Habitat,Seagrasses,0.38
+2024,MLT,Habitat,Seagrasses,91
+2024,MMR,Habitat,Seagrasses,0.33
+2024,MNE,Habitat,Seagrasses,0
+2024,MNP,Habitat,Seagrasses,25
+2024,MOZ,Habitat,Seagrasses,94
+2024,MRT,Habitat,Seagrasses,83
+2024,MSR,Habitat,Seagrasses,0
+2024,MTQ,Habitat,Seagrasses,99
+2024,MUS,Habitat,Seagrasses,0
+2024,MYS,Habitat,Seagrasses,18
+2024,MYT,Habitat,Seagrasses,92
+2024,NCL,Habitat,Seagrasses,80
+2024,NFK,Habitat,Seagrasses,0
+2024,NGA,Habitat,Seagrasses,0.01
+2024,NIC,Habitat,Seagrasses,17
+2024,NLD,Habitat,Seagrasses,100
+2024,NOR,Habitat,Seagrasses,19
+2024,NZL,Habitat,Seagrasses,14
+2024,OMN,Habitat,Seagrasses,13
+2024,PAN,Habitat,Seagrasses,5.1
+2024,PHL,Habitat,Seagrasses,29
+2024,PLW,Habitat,Seagrasses,99
+2024,PNG,Habitat,Seagrasses,12
+2024,POL,Habitat,Seagrasses,100
+2024,PRI,Habitat,Seagrasses,21
+2024,PRK,Habitat,Seagrasses,0
+2024,PRT,Habitat,Seagrasses,4.5
+2024,PYF,Habitat,Seagrasses,0
+2024,QAT,Habitat,Seagrasses,7.6
+2024,REU,Habitat,Seagrasses,0
+2024,ROU,Habitat,Seagrasses,80
+2024,RUS,Habitat,Seagrasses,2.3
+2024,SAU,Habitat,Seagrasses,1.6
+2024,SDN,Habitat,Seagrasses,0
+2024,SEN,Habitat,Seagrasses,33
+2024,SGP,Habitat,Seagrasses,0
+2024,SLB,Habitat,Seagrasses,13
+2024,SLE,Habitat,Seagrasses,0.03
+2024,SOM,Habitat,Seagrasses,0
+2024,STP,Habitat,Seagrasses,0
+2024,SUR,Habitat,Seagrasses,50
+2024,SVN,Habitat,Seagrasses,0.05
+2024,SWE,Habitat,Seagrasses,56
+2024,SXM,Habitat,Seagrasses,3
+2024,SYC,Habitat,Seagrasses,33
+2024,SYR,Habitat,Seagrasses,0
+2024,TCA,Habitat,Seagrasses,7
+2024,TGO,Habitat,Seagrasses,0
+2024,THA,Habitat,Seagrasses,77
+2024,TKM,Habitat,Seagrasses,13
+2024,TLS,Habitat,Seagrasses,1.2
+2024,TON,Habitat,Seagrasses,5
+2024,TTO,Habitat,Seagrasses,52
+2024,TUN,Habitat,Seagrasses,2.5
+2024,TUR,Habitat,Seagrasses,0
+2024,TWN,Habitat,Seagrasses,11
+2024,TZA,Habitat,Seagrasses,3.5
+2024,UKR,Habitat,Seagrasses,60
+2024,USA,Habitat,Seagrasses,61
+2024,VCT,Habitat,Seagrasses,13
+2024,VEN,Habitat,Seagrasses,7.7
+2024,VGB,Habitat,Seagrasses,0.27
+2024,VIR,Habitat,Seagrasses,31
+2024,VNM,Habitat,Seagrasses,9.8
+2024,VUT,Habitat,Seagrasses,0.26
+2024,WSM,Habitat,Seagrasses,4.8
+2024,xKI,Habitat,Seagrasses,100
+2024,YEM,Habitat,Seagrasses,0
+2024,ZAF,Habitat,Seagrasses,100
+2024,ABW,Habitat,Warm water corals,0.74
+2024,AIA,Habitat,Warm water corals,45
+2024,ARE,Habitat,Warm water corals,47
+2024,ASM,Habitat,Warm water corals,28
+2024,ATF,Habitat,Warm water corals,32
+2024,ATG,Habitat,Warm water corals,62
+2024,AUS,Habitat,Warm water corals,87
+2024,BES,Habitat,Warm water corals,99
+2024,BGD,Habitat,Warm water corals,0
+2024,BHR,Habitat,Warm water corals,0
+2024,BHS,Habitat,Warm water corals,16
+2024,BLM,Habitat,Warm water corals,99
+2024,BLZ,Habitat,Warm water corals,41
+2024,BMU,Habitat,Warm water corals,0.01
+2024,BRA,Habitat,Warm water corals,82
+2024,BRB,Habitat,Warm water corals,0.91
+2024,BRN,Habitat,Warm water corals,0
+2024,CCK,Habitat,Warm water corals,6.2
+2024,CHN,Habitat,Warm water corals,0
+2024,COK,Habitat,Warm water corals,44
+2024,COL,Habitat,Warm water corals,89
+2024,COM,Habitat,Warm water corals,59
+2024,CPT,Habitat,Warm water corals,50
+2024,CRI,Habitat,Warm water corals,35
+2024,CUB,Habitat,Warm water corals,28
+2024,CUW,Habitat,Warm water corals,14
+2024,CXR,Habitat,Warm water corals,13
+2024,CYM,Habitat,Warm water corals,38
+2024,DJI,Habitat,Warm water corals,0
+2024,DMA,Habitat,Warm water corals,4.4
+2024,DOM,Habitat,Warm water corals,65
+2024,DPT,Habitat,Warm water corals,59
+2024,ECU,Habitat,Warm water corals,100
+2024,EGY,Habitat,Warm water corals,52
+2024,ERI,Habitat,Warm water corals,0
+2024,FJI,Habitat,Warm water corals,35
+2024,FSM,Habitat,Warm water corals,1.8
+2024,GLP,Habitat,Warm water corals,99
+2024,GRD,Habitat,Warm water corals,6.6
+2024,GTM,Habitat,Warm water corals,72
+2024,GUM,Habitat,Warm water corals,6.9
+2024,HND,Habitat,Warm water corals,34
+2024,HTI,Habitat,Warm water corals,35
+2024,IDN,Habitat,Warm water corals,34
+2024,IND,Habitat,Warm water corals,0
+2024,IRN,Habitat,Warm water corals,1.5
+2024,ISR,Habitat,Warm water corals,76
+2024,JAM,Habitat,Warm water corals,18
+2024,JOR,Habitat,Warm water corals,11
+2024,JPN,Habitat,Warm water corals,72
+2024,KEN,Habitat,Warm water corals,30
+2024,KHM,Habitat,Warm water corals,17
+2024,KIR,Habitat,Warm water corals,3.7
+2024,KNA,Habitat,Warm water corals,98
+2024,KWT,Habitat,Warm water corals,0
+2024,LCA,Habitat,Warm water corals,13
+2024,LKA,Habitat,Warm water corals,0.91
+2024,MAF,Habitat,Warm water corals,100
+2024,MDG,Habitat,Warm water corals,34
+2024,MDV,Habitat,Warm water corals,4.4
+2024,MEX,Habitat,Warm water corals,70
+2024,MHL,Habitat,Warm water corals,18
+2024,MMR,Habitat,Warm water corals,6.3
+2024,MNP,Habitat,Warm water corals,14
+2024,MOZ,Habitat,Warm water corals,9.7
+2024,MSR,Habitat,Warm water corals,0
+2024,MTQ,Habitat,Warm water corals,100
+2024,MUS,Habitat,Warm water corals,72
+2024,MYS,Habitat,Warm water corals,31
+2024,MYT,Habitat,Warm water corals,99
+2024,NCL,Habitat,Warm water corals,79
+2024,NIC,Habitat,Warm water corals,61
+2024,NIU,Habitat,Warm water corals,2.5
+2024,NRU,Habitat,Warm water corals,0
+2024,OMN,Habitat,Warm water corals,17
+2024,PAN,Habitat,Warm water corals,11
+2024,PCN,Habitat,Warm water corals,90
+2024,PHL,Habitat,Warm water corals,16
+2024,PLW,Habitat,Warm water corals,100
+2024,PNG,Habitat,Warm water corals,4.1
+2024,PRI,Habitat,Warm water corals,21
+2024,PYF,Habitat,Warm water corals,0.01
+2024,QAT,Habitat,Warm water corals,0.37
+2024,REU,Habitat,Warm water corals,84
+2024,SAU,Habitat,Warm water corals,13
+2024,SDN,Habitat,Warm water corals,20
+2024,SGP,Habitat,Warm water corals,0
+2024,SLB,Habitat,Warm water corals,5.2
+2024,SOM,Habitat,Warm water corals,0
+2024,SXM,Habitat,Warm water corals,1.1
+2024,SYC,Habitat,Warm water corals,94
+2024,TCA,Habitat,Warm water corals,8.8
+2024,THA,Habitat,Warm water corals,63
+2024,TKL,Habitat,Warm water corals,0
+2024,TLS,Habitat,Warm water corals,27
+2024,TON,Habitat,Warm water corals,17
+2024,TTO,Habitat,Warm water corals,16
+2024,TUV,Habitat,Warm water corals,7.5
+2024,TWN,Habitat,Warm water corals,52
+2024,TZA,Habitat,Warm water corals,46
+2024,UMI,Habitat,Warm water corals,100
+2024,USA,Habitat,Warm water corals,87
+2024,VCT,Habitat,Warm water corals,48
+2024,VEN,Habitat,Warm water corals,54
+2024,VGB,Habitat,Warm water corals,0.42
+2024,VIR,Habitat,Warm water corals,35
+2024,VNM,Habitat,Warm water corals,22
+2024,VUT,Habitat,Warm water corals,0.34
+2024,WLF,Habitat,Warm water corals,0
+2024,WSM,Habitat,Warm water corals,10
+2024,xHT,Habitat,Warm water corals,100
+2024,xPI,Habitat,Warm water corals,0
+2024,xSI,Habitat,Warm water corals,0
+2024,xSK,Habitat,Warm water corals,0
+2024,YEM,Habitat,Warm water corals,0.25
+2024,ZAF,Habitat,Warm water corals,100
+2024,ABW,Habitat,Cold water corals,0
+2024,AGO,Habitat,Cold water corals,0
+2024,AIA,Habitat,Cold water corals,0
+2024,ALB,Habitat,Cold water corals,0
+2024,ARG,Habitat,Cold water corals,11
+2024,ASM,Habitat,Cold water corals,0
+2024,ATA,Habitat,Cold water corals,29
+2024,ATF,Habitat,Cold water corals,100
+2024,ATG,Habitat,Cold water corals,0
+2024,AUS,Habitat,Cold water corals,37
+2024,BEN,Habitat,Cold water corals,0
+2024,BES,Habitat,Cold water corals,100
+2024,BHS,Habitat,Cold water corals,7.9
+2024,BLM,Habitat,Cold water corals,100
+2024,BLZ,Habitat,Cold water corals,67
+2024,BMU,Habitat,Cold water corals,0
+2024,BRA,Habitat,Cold water corals,0.86
+2024,BRB,Habitat,Cold water corals,0
+2024,CAN,Habitat,Cold water corals,11
+2024,CHL,Habitat,Cold water corals,53
+2024,CHN,Habitat,Cold water corals,0
+2024,CIV,Habitat,Cold water corals,0
+2024,COK,Habitat,Cold water corals,100
+2024,COL,Habitat,Cold water corals,19
+2024,CPV,Habitat,Cold water corals,0
+2024,CRI,Habitat,Cold water corals,33
+2024,CUB,Habitat,Cold water corals,0
+2024,CUW,Habitat,Cold water corals,0
+2024,CYM,Habitat,Cold water corals,0
+2024,CYP,Habitat,Cold water corals,0
+2024,DMA,Habitat,Cold water corals,0
+2024,DNK,Habitat,Cold water corals,0
+2024,DOM,Habitat,Cold water corals,87
+2024,DPT,Habitat,Cold water corals,81
+2024,DZA,Habitat,Cold water corals,0
+2024,ECU,Habitat,Cold water corals,96
+2024,ERI,Habitat,Cold water corals,0
+2024,ESP,Habitat,Cold water corals,86
+2024,FJI,Habitat,Cold water corals,0
+2024,FRA,Habitat,Cold water corals,75
+2024,FRO,Habitat,Cold water corals,0
+2024,FSM,Habitat,Cold water corals,0
+2024,GBR,Habitat,Cold water corals,57
+2024,GHA,Habitat,Cold water corals,0
+2024,GIN,Habitat,Cold water corals,100
+2024,GLP,Habitat,Cold water corals,100
+2024,GNB,Habitat,Cold water corals,0
+2024,GNQ,Habitat,Cold water corals,74
+2024,GRC,Habitat,Cold water corals,5.8
+2024,GRD,Habitat,Cold water corals,1.9
+2024,GRL,Habitat,Cold water corals,0
+2024,GTM,Habitat,Cold water corals,0
+2024,GUF,Habitat,Cold water corals,0
+2024,GUY,Habitat,Cold water corals,0
+2024,HMD,Habitat,Cold water corals,50
+2024,HND,Habitat,Cold water corals,8.1
+2024,HRV,Habitat,Cold water corals,1.4
+2024,HTI,Habitat,Cold water corals,0
+2024,IDN,Habitat,Cold water corals,2.8
+2024,IND,Habitat,Cold water corals,0
+2024,IRL,Habitat,Cold water corals,40
+2024,ISL,Habitat,Cold water corals,60
+2024,ITA,Habitat,Cold water corals,27
+2024,JAM,Habitat,Cold water corals,5.1
+2024,JPN,Habitat,Cold water corals,10
+2024,KEN,Habitat,Cold water corals,0
+2024,KIR,Habitat,Cold water corals,0
+2024,KNA,Habitat,Cold water corals,0
+2024,LBR,Habitat,Cold water corals,0
+2024,LCA,Habitat,Cold water corals,14
+2024,LKA,Habitat,Cold water corals,0
+2024,MAR,Habitat,Cold water corals,0
+2024,MDG,Habitat,Cold water corals,11
+2024,MEX,Habitat,Cold water corals,39
+2024,MHL,Habitat,Cold water corals,0
+2024,MLT,Habitat,Cold water corals,77
+2024,MMR,Habitat,Cold water corals,0
+2024,MNE,Habitat,Cold water corals,0
+2024,MOZ,Habitat,Cold water corals,0
+2024,MRT,Habitat,Cold water corals,0
+2024,MSR,Habitat,Cold water corals,0
+2024,MTQ,Habitat,Cold water corals,100
+2024,MUS,Habitat,Cold water corals,0
+2024,MYS,Habitat,Cold water corals,1.4
+2024,NAM,Habitat,Cold water corals,0
+2024,NCL,Habitat,Cold water corals,89
+2024,NFK,Habitat,Cold water corals,100
+2024,NGA,Habitat,Cold water corals,0
+2024,NIC,Habitat,Cold water corals,7.7
+2024,NOR,Habitat,Cold water corals,7.8
+2024,NZL,Habitat,Cold water corals,28
+2024,OMN,Habitat,Cold water corals,0
+2024,PAN,Habitat,Cold water corals,0.37
+2024,PER,Habitat,Cold water corals,11
+2024,PHL,Habitat,Cold water corals,4.1
+2024,PLW,Habitat,Cold water corals,100
+2024,PNG,Habitat,Cold water corals,0
+2024,PRI,Habitat,Cold water corals,19
+2024,PRT,Habitat,Cold water corals,29
+2024,RUS,Habitat,Cold water corals,0
+2024,SAU,Habitat,Cold water corals,0
+2024,SEN,Habitat,Cold water corals,0
+2024,SGS,Habitat,Cold water corals,13
+2024,SHN,Habitat,Cold water corals,58
+2024,SJM,Habitat,Cold water corals,0
+2024,SOM,Habitat,Cold water corals,0
+2024,SPM,Habitat,Cold water corals,0
+2024,STP,Habitat,Cold water corals,0
+2024,SUR,Habitat,Cold water corals,0
+2024,SWE,Habitat,Cold water corals,62
+2024,SYC,Habitat,Cold water corals,0
+2024,TCA,Habitat,Cold water corals,0
+2024,THA,Habitat,Cold water corals,0
+2024,TLS,Habitat,Cold water corals,0
+2024,TON,Habitat,Cold water corals,0
+2024,TTO,Habitat,Cold water corals,0
+2024,TUN,Habitat,Cold water corals,0
+2024,TUV,Habitat,Cold water corals,0
+2024,TWN,Habitat,Cold water corals,0
+2024,UMI,Habitat,Cold water corals,100
+2024,URY,Habitat,Cold water corals,0
+2024,USA,Habitat,Cold water corals,19
+2024,VCT,Habitat,Cold water corals,0
+2024,VEN,Habitat,Cold water corals,2.9
+2024,VGB,Habitat,Cold water corals,0
+2024,VIR,Habitat,Cold water corals,0.53
+2024,VNM,Habitat,Cold water corals,0
+2024,VUT,Habitat,Cold water corals,0
+2024,WLF,Habitat,Cold water corals,0
+2024,WSM,Habitat,Cold water corals,0
+2024,YEM,Habitat,Cold water corals,0
+2024,ZAF,Habitat,Cold water corals,54
+2024,AGO,Habitat,Saltmarshes,24
+2024,ALA,Habitat,Saltmarshes,2.9
+2024,ALB,Habitat,Saltmarshes,85
+2024,ARE,Habitat,Saltmarshes,19
+2024,ARG,Habitat,Saltmarshes,42
+2024,ASM,Habitat,Saltmarshes,21
+2024,ATG,Habitat,Saltmarshes,88
+2024,AUS,Habitat,Saltmarshes,32
+2024,AZE,Habitat,Saltmarshes,0
+2024,BEL,Habitat,Saltmarshes,83
+2024,BGR,Habitat,Saltmarshes,24
+2024,BHR,Habitat,Saltmarshes,0
+2024,BHS,Habitat,Saltmarshes,89
+2024,BIH,Habitat,Saltmarshes,11
+2024,BRA,Habitat,Saltmarshes,33
+2024,CAN,Habitat,Saltmarshes,75
+2024,CHL,Habitat,Saltmarshes,58
+2024,CHN,Habitat,Saltmarshes,4.5
+2024,COK,Habitat,Saltmarshes,5.1
+2024,CRI,Habitat,Saltmarshes,73
+2024,CUB,Habitat,Saltmarshes,89
+2024,CYP,Habitat,Saltmarshes,94
+2024,DEU,Habitat,Saltmarshes,98
+2024,DJI,Habitat,Saltmarshes,0
+2024,DNK,Habitat,Saltmarshes,96
+2024,DPT,Habitat,Saltmarshes,71
+2024,DZA,Habitat,Saltmarshes,100
+2024,ECU,Habitat,Saltmarshes,44
+2024,EGY,Habitat,Saltmarshes,39
+2024,ESH,Habitat,Saltmarshes,0
+2024,ESP,Habitat,Saltmarshes,96
+2024,EST,Habitat,Saltmarshes,93
+2024,FIN,Habitat,Saltmarshes,66
+2024,FJI,Habitat,Saltmarshes,12
+2024,FRA,Habitat,Saltmarshes,96
+2024,GBR,Habitat,Saltmarshes,93
+2024,GEO,Habitat,Saltmarshes,17
+2024,GHA,Habitat,Saltmarshes,0
+2024,GMB,Habitat,Saltmarshes,71
+2024,GRC,Habitat,Saltmarshes,80
+2024,GRL,Habitat,Saltmarshes,92
+2024,GUM,Habitat,Saltmarshes,9
+2024,HKG,Habitat,Saltmarshes,0
+2024,HND,Habitat,Saltmarshes,70
+2024,HRV,Habitat,Saltmarshes,96
+2024,IND,Habitat,Saltmarshes,0.25
+2024,IRL,Habitat,Saltmarshes,89
+2024,IRN,Habitat,Saltmarshes,20
+2024,IRQ,Habitat,Saltmarshes,1.4
+2024,ISL,Habitat,Saltmarshes,26
+2024,ITA,Habitat,Saltmarshes,95
+2024,JPN,Habitat,Saltmarshes,64
+2024,KEN,Habitat,Saltmarshes,0
+2024,KHM,Habitat,Saltmarshes,0
+2024,KOR,Habitat,Saltmarshes,15
+2024,KWT,Habitat,Saltmarshes,11
+2024,LBY,Habitat,Saltmarshes,0
+2024,LKA,Habitat,Saltmarshes,36
+2024,LTU,Habitat,Saltmarshes,100
+2024,LVA,Habitat,Saltmarshes,89
+2024,MAC,Habitat,Saltmarshes,0
+2024,MAR,Habitat,Saltmarshes,100
+2024,MDG,Habitat,Saltmarshes,63
+2024,MEX,Habitat,Saltmarshes,75
+2024,MLT,Habitat,Saltmarshes,64
+2024,MNE,Habitat,Saltmarshes,96
+2024,MNP,Habitat,Saltmarshes,60
+2024,MRT,Habitat,Saltmarshes,20
+2024,NAM,Habitat,Saltmarshes,68
+2024,NCL,Habitat,Saltmarshes,0
+2024,NIC,Habitat,Saltmarshes,63
+2024,NLD,Habitat,Saltmarshes,97
+2024,NOR,Habitat,Saltmarshes,43
+2024,NZL,Habitat,Saltmarshes,24
+2024,OMN,Habitat,Saltmarshes,82
+2024,PAK,Habitat,Saltmarshes,91
+2024,PAN,Habitat,Saltmarshes,40
+2024,PER,Habitat,Saltmarshes,16
+2024,PHL,Habitat,Saltmarshes,0
+2024,POL,Habitat,Saltmarshes,85
+2024,PRI,Habitat,Saltmarshes,22
+2024,PRK,Habitat,Saltmarshes,0
+2024,PRT,Habitat,Saltmarshes,93
+2024,QAT,Habitat,Saltmarshes,32
+2024,ROU,Habitat,Saltmarshes,100
+2024,RUS,Habitat,Saltmarshes,35
+2024,SAU,Habitat,Saltmarshes,0
+2024,SDN,Habitat,Saltmarshes,0
+2024,SOM,Habitat,Saltmarshes,0
+2024,SUR,Habitat,Saltmarshes,100
+2024,SVN,Habitat,Saltmarshes,33
+2024,SWE,Habitat,Saltmarshes,56
+2024,TON,Habitat,Saltmarshes,3.1
+2024,TUN,Habitat,Saltmarshes,50
+2024,TUR,Habitat,Saltmarshes,56
+2024,TWN,Habitat,Saltmarshes,1.8
+2024,TZA,Habitat,Saltmarshes,60
+2024,UKR,Habitat,Saltmarshes,32
+2024,URY,Habitat,Saltmarshes,65
+2024,USA,Habitat,Saltmarshes,32
+2024,VEN,Habitat,Saltmarshes,15
+2024,VIR,Habitat,Saltmarshes,33
+2024,VNM,Habitat,Saltmarshes,0.33
+2024,VUT,Habitat,Saltmarshes,0
+2024,YEM,Habitat,Saltmarshes,0
+2024,ZAF,Habitat,Saltmarshes,21
