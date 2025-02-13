@@ -1,5 +1,6 @@
 year,geo,disagg,value
-2022,WLD,Total,11
+2020,WLD,Domestic,56
+2022,WLD,Domestic,58
 2015,ALB,Total,11
 2015,AND,Total,100
 2015,ARM,Total,7
@@ -238,7 +239,6 @@ year,geo,disagg,value
 2020,GBR,Domestic,99
 2020,USA,Domestic,91
 2020,UZB,Domestic,32
-2020,WLD,Domestic,56
 2020,YEM,Domestic,34
 2020,ZWE,Domestic,23
 2022,ALB,Domestic,19
@@ -380,7 +380,6 @@ year,geo,disagg,value
 2022,TZA,Domestic,8
 2022,USA,Domestic,98
 2022,VNM,Domestic,40
-2022,WLD,Domestic,58
 2022,YEM,Domestic,28
 2022,ZWE,Domestic,55
 2015,BHR,Industry,79
@@ -417,4 +416,5 @@ year,geo,disagg,value
 2022,LTU,Industry,16
 2022,MEX,Industry,25
 2022,ROU,Industry,38
+2022,SRB,Industry,23
 2022,SRB,Industry,23
