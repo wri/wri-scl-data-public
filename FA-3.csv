@@ -1,4 +1,100 @@
 year,geo,disagg,value
+2000,WLD,Total,4777
+2001,WLD,Total,4986
+2002,WLD,Total,5395
+2003,WLD,Total,5825
+2004,WLD,Total,6131
+2005,WLD,Total,6256
+2006,WLD,Total,14191
+2007,WLD,Total,14196
+2008,WLD,Total,14195
+2009,WLD,Total,14197
+2010,WLD,Total,14198
+2011,WLD,Total,14202
+2012,WLD,Total,14219
+2013,WLD,Total,14231
+2014,WLD,Total,14265
+2015,WLD,Total,14289
+2016,WLD,Total,14304
+2017,WLD,Total,14314
+2018,WLD,Total,14386
+2019,WLD,Total,14457
+2020,WLD,Total,14642
+2021,WLD,Total,14766
+2022,WLD,Total,15044
+2023,WLD,Total,15051
+2000,WLD,Kept in country ,2939
+2001,WLD,Kept in country,3060
+2002,WLD,Kept In Country,3258
+2003,WLD,Kept In Country,3449
+2004,WLD,Kept In Country,3583
+2005,WLD,Kept In Country,3673
+2006,WLD,Kept In Country,7249
+2007,WLD,Kept In Country,7252
+2008,WLD,Kept In Country,7252
+2009,WLD,Kept In Country,7253
+2010,WLD,Kept In Country,7254
+2011,WLD,Kept In Country,7257
+2012,WLD,Kept In Country,7272
+2013,WLD,Kept In Country,7281
+2014,WLD,Kept In Country,7288
+2015,WLD,Kept In Country,7296
+2016,WLD,Kept In Country,7310
+2017,WLD,Kept In Country,7315
+2018,WLD,Kept In Country,7340
+2019,WLD,Kept In Country,7379
+2020,WLD,Kept In Country,7447
+2021,WLD,Kept In Country,7494
+2022,WLD,Kept In Country,7580
+2023,WLD,Kept In Country,7586
+2000,WLD,Transboundary breed,1834
+2001,WLD,Transboundary breed,1922
+2002,WLD,Transboundary breed,2132
+2003,WLD,Transboundary breed,2370
+2004,WLD,Transboundary breed,2542
+2005,WLD,Transboundary breed,2577
+2006,WLD,Transboundary breed,6936
+2007,WLD,Transboundary breed,6936
+2008,WLD,Transboundary breed,6936
+2009,WLD,Transboundary breed,6936
+2010,WLD,Transboundary breed,6936
+2011,WLD,Transboundary breed,6936
+2012,WLD,Transboundary breed,6936
+2013,WLD,Transboundary breed,6936
+2014,WLD,Transboundary breed,6936
+2015,WLD,Transboundary breed,6936
+2016,WLD,Transboundary breed,6936
+2017,WLD,Transboundary breed,6941
+2018,WLD,Transboundary breed,6966
+2019,WLD,Transboundary breed,6970
+2020,WLD,Transboundary breed,6986
+2021,WLD,Transboundary breed,7021
+2022,WLD,Transboundary breed,7177
+2023,WLD,Transboundary breed,7178
+2000,WLD,Stored for reconstitutions,1
+2001,WLD,Stored for reconstitutions,4
+2002,WLD,Stored for reconstitutions,5
+2003,WLD,Stored for reconstitutions,6
+2004,WLD,Stored for reconstitutions,6
+2005,WLD,Stored for reconstitutions,6
+2006,WLD,Stored for reconstitutions,6
+2007,WLD,Stored for reconstitutions,8
+2008,WLD,Stored for reconstitutions,7
+2009,WLD,Stored for reconstitutions,8
+2010,WLD,Stored for reconstitutions,8
+2011,WLD,Stored for reconstitutions,9
+2012,WLD,Stored for reconstitutions,11
+2013,WLD,Stored for reconstitutions,14
+2014,WLD,Stored for reconstitutions,41
+2015,WLD,Stored for reconstitutions,57
+2016,WLD,Stored for reconstitutions,58
+2017,WLD,Stored for reconstitutions,58
+2018,WLD,Stored for reconstitutions,80
+2019,WLD,Stored for reconstitutions,108
+2020,WLD,Stored for reconstitutions,209
+2021,WLD,Stored for reconstitutions,251
+2022,WLD,Stored for reconstitutions,287
+2023,WLD,Stored for reconstitutions,287
 2000,ARG,Total,11
 2001,ARG,Total,11
 2002,ARG,Total,11
@@ -4835,30 +4931,6 @@ year,geo,disagg,value
 2021,VUT,Kept in country,6
 2022,VUT,Kept in country,6
 2023,VUT,Kept in country,6
-2000,WLD,Kept in country,2964
-2001,WLD,Kept in country,3085
-2002,WLD,Kept in country,3283
-2003,WLD,Kept in country,3480
-2004,WLD,Kept in country,3614
-2005,WLD,Kept in country,3704
-2006,WLD,Kept in country,7347
-2007,WLD,Kept in country,7350
-2008,WLD,Kept in country,7350
-2009,WLD,Kept in country,7351
-2010,WLD,Kept in country,7352
-2011,WLD,Kept in country,7355
-2012,WLD,Kept in country,7372
-2013,WLD,Kept in country,7381
-2014,WLD,Kept in country,7388
-2015,WLD,Kept in country,7396
-2016,WLD,Kept in country,7410
-2017,WLD,Kept in country,7415
-2018,WLD,Kept in country,7440
-2019,WLD,Kept in country,7479
-2020,WLD,Kept in country,7549
-2021,WLD,Kept in country,7596
-2022,WLD,Kept in country,7682
-2023,WLD,Kept in country,7688
 2006,WSM,Kept in country,3
 2007,WSM,Kept in country,3
 2008,WSM,Kept in country,3
@@ -9990,30 +10062,6 @@ year,geo,disagg,value
 2021,VUT,Transboundary breed,5
 2022,VUT,Transboundary breed,5
 2023,VUT,Transboundary breed,5
-2000,WLD,Transboundary breed,718
-2001,WLD,Transboundary breed,744
-2002,WLD,Transboundary breed,808
-2003,WLD,Transboundary breed,834
-2004,WLD,Transboundary breed,870
-2005,WLD,Transboundary breed,875
-2006,WLD,Transboundary breed,1093
-2007,WLD,Transboundary breed,1093
-2008,WLD,Transboundary breed,1093
-2009,WLD,Transboundary breed,1093
-2010,WLD,Transboundary breed,1093
-2011,WLD,Transboundary breed,1093
-2012,WLD,Transboundary breed,1093
-2013,WLD,Transboundary breed,1093
-2014,WLD,Transboundary breed,1093
-2015,WLD,Transboundary breed,1093
-2016,WLD,Transboundary breed,1093
-2017,WLD,Transboundary breed,1093
-2018,WLD,Transboundary breed,1093
-2019,WLD,Transboundary breed,1093
-2020,WLD,Transboundary breed,1093
-2021,WLD,Transboundary breed,1094
-2022,WLD,Transboundary breed,1115
-2023,WLD,Transboundary breed,1115
 2004,WSM,Transboundary breed,1
 2005,WSM,Transboundary breed,1
 2006,WSM,Transboundary breed,22
