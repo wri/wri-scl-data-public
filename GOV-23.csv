@@ -33,7 +33,7 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2021,WLD,50,,,,
 2022,WLD,48,,,,
 2023,WLD,49,,,,
-2028,WLD,48,,,,
+2028,WLD,,48,,,
 1990,MEX,0,,,,
 1991,MEX,0,,,,
 1992,MEX,0,,,,
