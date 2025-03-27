@@ -23,6 +23,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2021,WLD,Total,56,,,,
 2022,WLD,Total,57,,,,
 2027,WLD,Total,,62,,,
+2030,WLD,Total,,,,100,
 2000,WLD,Rural,17,,,,
 2001,WLD,Rural,18,,,,
 2002,WLD,Rural,19,,,,
