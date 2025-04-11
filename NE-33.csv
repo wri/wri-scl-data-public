@@ -6,6 +6,7 @@ year,geo,disagg_type,disagg,value,projections,benchmark_low,benchmark_mid,benchm
 2020,WLD,All,Total,83,,,,
 2021,WLD,All,Total,90,,,,
 2022,WLD,All,Total,116,,,,
+2027,WLD,All,Total,,156,,,
 2035,WLD,All,Total,,,,300,
 2016,WLD,Source,Bilateral public,28,,,,
 2016,WLD,Source,Multilateral public,19,,,,
@@ -55,4 +56,3 @@ year,geo,disagg_type,disagg,value,projections,benchmark_low,benchmark_mid,benchm
 2021,WLD,Theme,Adaptation,25,,,,
 2022,WLD,Theme,Mitigation,70,,,,
 2022,WLD,Theme,Cross-cutting,14,,,,
-2022,WLD,Theme,Adaptation,32,,,,
