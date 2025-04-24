@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 year,geo,value
+=======
+﻿year,geo,value
+>>>>>>> Stashed changes
 2024,WLD,35
 2024,CAN,1
 2024,SGP,1
@@ -34,4 +38,8 @@ year,geo,value
 2024,ISL,1
 2024,LIE,1
 2024,NOR,1
+<<<<<<< Updated upstream
 2024,CRI,1
+=======
+2024,CRI,1
+>>>>>>> Stashed changes
