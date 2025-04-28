@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2004,JPN,Refrigerator,10.3,,,,
 2004,JPN,Washing machine,8.9,,,,
 2004,JPN,Air conditioner,10.2,,,,
@@ -115,3 +115,11 @@
 2015,EUU,TV,7.3,,,,
 2015,EUU,Washing machine,8.3,,,,
 2015,EUU,Vacuum cleaner,8,,,,
+2023,EUU,Mobile phone,4.6,,,,
+2023,EUU,Tablet,5.7,,,,
+2023,EUU,TV,8.1,,,,
+2023,EUU,Washing machine,12.2,,,,
+2023,EUU,Combined refrigerator,13.4,,,,
+2023,EUU,Coffee machine,6.5,,,,
+2023,EUU,Microwave oven,9.8,,,,
+2023,EUU,Dishwasher,12.1,,,,
