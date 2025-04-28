@@ -1,6 +1,7 @@
 ﻿year,geo,disagg,value
-2023,WLD,Plants,1061
-2023,WLD,Invertebrates,1852
-2023,WLD,Vertebrates,461
-2023,WLD,Microbes,141
-2023,WLD,Total,3515
+2022,WLD,Total,23996
+2022,WLD,Terrestrial,17750
+2022,WLD,Marine,2838
+2022,WLD,Host,1889
+2022,WLD,Freshwater,2744
+2022,WLD,Brackish,637
