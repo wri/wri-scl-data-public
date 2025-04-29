@@ -2081,3 +2081,19 @@ year,geo,disagg_type,disagg,value
 2021,ZMB,Settlement,Urban,9
 2021,ZWE,Settlement,Rural,2
 2021,ZWE,Settlement,Urban,5
+2011,WLD,Income,High income,14
+2014,WLD,Income,High income,52
+2017,WLD,Income,High income,55
+2021,WLD,Income,High income,56
+2011,WLD,Income,Upper middle income,8
+2014,WLD,Income,Upper middle income,22
+2017,WLD,Income,Upper middle income,22
+2021,WLD,Income,Upper middle income,35
+2011,WLD,Income,Lower middle income,9
+2014,WLD,Income,Lower middle income,11
+2017,WLD,Income,Lower middle income,10
+2021,WLD,Income,Lower middle income,12
+2011,WLD,Income,Low income,4
+2014,WLD,Income,Low income,5
+2017,WLD,Income,Low income,8
+2021,WLD,Income,Low income,9
