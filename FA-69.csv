@@ -97,6 +97,8 @@ year,geo,disagg,value
 2020,CAN,Total,120
 2020,CAN,Research & Development,37
 2020,CAN,Commercialization,83
+2020,DEU,Total,10
+2020,DEU,Research & Development,10
 2020,EUU,Total,5.1
 2020,EUU,Research & Development,5.1
 2020,FIN,Total,7.1
@@ -104,15 +106,20 @@ year,geo,disagg,value
 2020,FIN,Commercialization,4.8
 2020,IND,Total,0.067
 2020,IND,Research & Development,0.067
+2020,IRL,Total,3.5
+2020,IRL,Research & Development,3.5
 2020,JPN,Total,5.1
+2020,JPN,Research & Development,0
 2020,JPN,Commercialization,5.1
 2020,NZL,Total,8.5
 2020,NZL,Research & Development,8.5
+2020,SGP,Total,0
+2020,SGP,Research & Development,0
 2020,USA,Total,5
 2020,USA,Research & Development,4.8
 2020,USA,Commercialization,0.25
-2020,WLD,Total,157
-2020,WLD,Research & Development,64
+2020,WLD,Total,171
+2020,WLD,Research & Development,78
 2020,WLD,Commercialization,93
 2021,AUS,Total,9.9
 2021,AUS,Research & Development,2
@@ -121,16 +128,19 @@ year,geo,disagg,value
 2021,CAN,Research & Development,11
 2021,CAN,Mixed,0.56
 2021,CAN,Commercialization,6.3
-2021,CHN,Total,0.1
+2021,CHN,Total,3.2
+2021,CHN,Research & Development,3.1
 2021,CHN,Commercialization,0.1
+2021,DEU,Total,20
+2021,DEU,Research & Development,20
 2021,ESP,Total,6.6
 2021,ESP,Research & Development,6.6
-2021,EUU,Total,4.2
-2021,EUU,Research & Development,4.2
+2021,EUU,Total,6.6
+2021,EUU,Research & Development,6.6
 2021,FIN,Total,12
 2021,FIN,Commercialization,12
-2021,GBR,Total,1.2
-2021,GBR,Research & Development,1.2
+2021,GBR,Total,2.5
+2021,GBR,Research & Development,2.5
 2021,IND,Total,0.067
 2021,IND,Research & Development,0.067
 2021,ISR,Total,31
@@ -138,53 +148,59 @@ year,geo,disagg,value
 2021,ISR,Commercialization,11
 2021,KOR,Total,8.1
 2021,KOR,Research & Development,8.1
+2021,KOR,Commercialization,0
 2021,NLD,Total,2.6
 2021,NLD,Research & Development,0.61
 2021,NLD,Mixed,2
+2021,NOR,Total,7.6
+2021,NOR,Research & Development,7.6
 2021,NZL,Total,5.6
 2021,NZL,Commercialization,5.6
 2021,SGP,Total,22
 2021,SGP,Commercialization,22
 2021,USA,Total,15
 2021,USA,Research & Development,15
-2021,WLD,Total,136
-2021,WLD,Research & Development,68
+2021,WLD,Total,171
+2021,WLD,Research & Development,103
 2021,WLD,Mixed,2.6
 2021,WLD,Commercialization,65
-2022,AUS,Total,11
+2022,AUS,Total,29
 2022,AUS,Research & Development,9
-2022,AUS,Commercialization,2.2
+2022,AUS,Commercialization,20
 2022,BRA,Total,1.6
 2022,BRA,Research & Development,1.6
-2022,CAN,Total,22
-2022,CAN,Research & Development,6.9
+2022,CAN,Total,23
+2022,CAN,Research & Development,7.6
 2022,CAN,Mixed,0.4
 2022,CAN,Commercialization,15
+2022,CHE,Total,11
+2022,CHE,Research & Development,11
 2022,DEU,Total,1.2
 2022,DEU,Research & Development,1.2
-2022,DNK,Total,185
-2022,DNK,Mixed,100
+2022,DNK,Total,204
+2022,DNK,Mixed,119
 2022,DNK,Commercialization,86
 2022,ESP,Total,0.96
 2022,ESP,Research & Development,0.96
-2022,EUU,Total,27
-2022,EUU,Research & Development,8.7
+2022,EUU,Total,56
+2022,EUU,Research & Development,37
 2022,EUU,Commercialization,19
 2022,FIN,Total,44
 2022,FIN,Commercialization,44
 2022,FRA,Total,39
 2022,FRA,Research & Development,28
 2022,FRA,Commercialization,11
-2022,GBR,Total,13
+2022,GBR,Total,17
 2022,GBR,Research & Development,12
-2022,GBR,Commercialization,0.82
+2022,GBR,Commercialization,5.3
 2022,ISR,Total,27
 2022,ISR,Research & Development,12
 2022,ISR,Commercialization,14
 2022,KOR,Total,37
 2022,KOR,Research & Development,37
-2022,NLD,Total,61
-2022,NLD,Research & Development,1.5
+2022,KOR,Commercialization,0
+2022,NLD,Total,62
+2022,NLD,Research & Development,2.9
 2022,NLD,Mixed,59
 2022,NLD,Commercialization,0.13
 2022,NOR,Total,2.1
@@ -195,17 +211,21 @@ year,geo,disagg,value
 2022,SWE,Commercialization,15
 2022,USA,Total,22
 2022,USA,Research & Development,22
-2022,WLD,Total,510
-2022,WLD,Research & Development,144
-2022,WLD,Mixed,159
-2022,WLD,Commercialization,206
-2023,AUS,Total,9.2
-2023,AUS,Research & Development,1.6
-2023,AUS,Commercialization,7.6
+2022,WLD,Total,592
+2022,WLD,Research & Development,186
+2022,WLD,Mixed,178
+2022,WLD,Commercialization,228
+2023,AUS,Total,13
+2023,AUS,Research & Development,1.8
+2023,AUS,Commercialization,11
+2023,AUT,Total,0.54
+2023,AUT,Research & Development,0.54
 2023,CAN,Total,128
 2023,CAN,Research & Development,4
 2023,CAN,Mixed,117
 2023,CAN,Commercialization,7.3
+2023,CHE,Total,0
+2023,CHE,Mixed,0
 2023,DEU,Total,44
 2023,DEU,Research & Development,1.9
 2023,DEU,Mixed,42
@@ -215,11 +235,11 @@ year,geo,disagg,value
 2023,ESP,Research & Development,7.8
 2023,EST,Total,0.83
 2023,EST,Commercialization,0.83
-2023,EUU,Total,112
-2023,EUU,Research & Development,43
+2023,EUU,Total,123
+2023,EUU,Research & Development,54
 2023,EUU,Commercialization,69
-2023,FIN,Total,3.2
-2023,FIN,Research & Development,3.2
+2023,FIN,Total,8.5
+2023,FIN,Research & Development,8.5
 2023,FRA,Total,28
 2023,FRA,Research & Development,18
 2023,FRA,Commercialization,10
@@ -228,23 +248,32 @@ year,geo,disagg,value
 2023,GBR,Commercialization,2.6
 2023,IND,Total,0.066
 2023,IND,Research & Development,0.066
-2023,ISR,Total,24
-2023,ISR,Research & Development,8.5
+2023,ISR,Total,25
+2023,ISR,Research & Development,8.8
+2023,ISR,Mixed,0
 2023,ISR,Commercialization,16
 2023,JPN,Total,20
+2023,JPN,Mixed,0
 2023,JPN,Commercialization,20
 2023,KOR,Total,6
 2023,KOR,Mixed,6
-2023,NLD,Total,3.9
-2023,NLD,Research & Development,3.9
+2023,NLD,Total,7.2
+2023,NLD,Research & Development,7.2
+2023,NZL,Total,7.6
+2023,NZL,Research & Development,7.6
+2023,SGP,Total,0
+2023,SGP,Mixed,0
+2023,SWE,Total,0.54
+2023,SWE,Research & Development,0.54
+2023,SWE,Mixed,0
 2023,USA,Total,83
 2023,USA,Research & Development,57
 2023,USA,Mixed,0.029
 2023,USA,Commercialization,26
-2023,WLD,Total,495
-2023,WLD,Research & Development,171
+2023,WLD,Total,527
+2023,WLD,Research & Development,200
 2023,WLD,Mixed,165
-2023,WLD,Commercialization,159
+2023,WLD,Commercialization,163
 2024,AUS,Total,5.6
 2024,AUS,Mixed,0.99
 2024,AUS,Commercialization,4.6
@@ -255,20 +284,29 @@ year,geo,disagg,value
 2024,CAN,Commercialization,29
 2024,CHN,Total,44
 2024,CHN,Research & Development,39
+2024,CHN,Mixed,0
 2024,CHN,Commercialization,4.9
+2024,CZE,Total,0.22
+2024,CZE,Commercialization,0.22
+2024,DEU,Total,2.3
+2024,DEU,Research & Development,2.3
 2024,DNK,Total,70
 2024,DNK,Mixed,2.1
 2024,DNK,Commercialization,68
 2024,ESP,Total,5.3
 2024,ESP,Research & Development,5.3
-2024,EUU,Total,85
+2024,EUU,Total,105
 2024,EUU,Research & Development,44
-2024,EUU,Commercialization,41
+2024,EUU,Commercialization,62
+2024,FIN,Total,11
+2024,FIN,Research & Development,11
 2024,FRA,Total,3.3
 2024,FRA,Commercialization,3.3
 2024,GBR,Total,41
 2024,GBR,Research & Development,39
 2024,GBR,Commercialization,2.1
+2024,IND,Total,0
+2024,IND,Mixed,0
 2024,ISR,Total,22
 2024,ISR,Research & Development,22
 2024,JPN,Total,1.3
@@ -290,7 +328,7 @@ year,geo,disagg,value
 2024,USA,Research & Development,53
 2024,USA,Mixed,61
 2024,USA,Commercialization,23
-2024,WLD,Total,530
-2024,WLD,Research & Development,290
+2024,WLD,Total,565
+2024,WLD,Research & Development,304
 2024,WLD,Mixed,64
-2024,WLD,Commercialization,176
+2024,WLD,Commercialization,197
