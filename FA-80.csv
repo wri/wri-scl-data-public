@@ -1,3 +1,5 @@
-year,geo,value
-2021,WLD,50
-2023,WLD,53
+year,geo,disaggs,value
+2021,WLD,Total,50
+2023,WLD,Total,53
+2023,WLD,disclosed quantitative evidence,16
+2023,WLD,disclosed portfolio proportion,4
