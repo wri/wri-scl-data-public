@@ -1,5 +1,7 @@
 year,geo,disaggs,value
 2021,WLD,Total,50
 2023,WLD,Total,53
-2023,WLD,disclosed quantitative evidence,16
-2023,WLD,disclosed portfolio proportion,4
+2023,WLD,Disclosed qualitative evidence,52
+2023,WLD,Disclosed quantitiave evidence,16
+2023,WLD,Disclosed portfolio propotion,4
+2023,WLD,Set sale-based target,2
