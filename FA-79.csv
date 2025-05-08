@@ -3,8 +3,8 @@ year,geo,disagg,value
 2019,WLD,Total,0.73
 2020,WLD,Total,0.69
 2021,WLD,Total,0.86
-2022,WLD,Total,2.20
-2023,WLD,Total,2.44
+2022,WLD,Total,2.2
+2023,WLD,Total,2.4
 2018,WLD,Public,0.01
 2019,WLD,Public,0.03
 2020,WLD,Public,0.04
@@ -15,10 +15,10 @@ year,geo,disagg,value
 2019,WLD,For-profit,0.67
 2020,WLD,For-profit,0.63
 2021,WLD,For-profit,0.68
-2022,WLD,For-profit,1.88
-2023,WLD,For-profit,2.00
+2022,WLD,For-profit,1.9
+2023,WLD,For-profit,2
 2019,WLD,Non-profit,0.03
 2020,WLD,Non-profit,0.02
 2021,WLD,Non-profit,0.03
 2022,WLD,Non-profit,0.07
-2023,WLD,Non-profit,0.10
+2023,WLD,Non-profit,0.1
