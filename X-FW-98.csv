@@ -1,0 +1,694 @@
+year,geo,disagg,value
+2022,WLD,Education and training in water supply and sanitation,44
+2022,WLD,Basic sanitation,220
+2022,WLD,Waste management/disposal,364
+2022,WLD,Basic drinking water supply and basic sanitation,601
+2022,WLD,Water sector policy and administrative management,1033
+2022,WLD,Sanitation - large systems,1073
+2022,WLD,Water supply and sanitation - large systems,1301
+2022,AFG,Basic sanitation,0.017
+2022,AFG,Education and training in water supply and sanitation,0.04
+2022,AFG,Water sector policy and administrative management,0.53
+2022,AFG,Basic drinking water supply and basic sanitation,26
+2022,AFG,Water supply and sanitation - large systems,38
+2022,AGO,Basic sanitation,0.011
+2022,AGO,Water sector policy and administrative management,0.015
+2022,AGO,Water supply and sanitation - large systems,0.097
+2022,AGO,Waste management/disposal,0.14
+2022,AGO,Basic drinking water supply and basic sanitation,0.15
+2022,ALB,Sanitation - large systems,0.039
+2022,ALB,Education and training in water supply and sanitation,1.0
+2022,ALB,Water sector policy and administrative management,2.6
+2022,ALB,Basic drinking water supply and basic sanitation,5.9
+2022,ALB,Water supply and sanitation - large systems,8.8
+2022,ALB,Waste management/disposal,8.9
+2022,ARG,Education and training in water supply and sanitation,0.0015
+2022,ARG,Water supply and sanitation - large systems,0.0075
+2022,ARG,Basic drinking water supply and basic sanitation,0.013
+2022,ARG,Water sector policy and administrative management,0.79
+2022,ARG,Waste management/disposal,5.1
+2022,ARG,Sanitation - large systems,28
+2022,ARM,Water sector policy and administrative management,0.039
+2022,ARM,Waste management/disposal,2.2
+2022,ARM,Basic drinking water supply and basic sanitation,5.7
+2022,ARM,Water supply and sanitation - large systems,6.3
+2022,AZE,Sanitation - large systems,0.0009
+2022,AZE,Waste management/disposal,0.017
+2022,AZE,Water sector policy and administrative management,0.21
+2022,BDI,Waste management/disposal,0.0088
+2022,BDI,Basic sanitation,0.13
+2022,BDI,Water supply and sanitation - large systems,0.25
+2022,BDI,Water sector policy and administrative management,2.0
+2022,BDI,Basic drinking water supply and basic sanitation,5.6
+2022,BDI,Sanitation - large systems,6.0
+2022,BEN,Sanitation - large systems,0.033
+2022,BEN,Water supply and sanitation - large systems,0.33
+2022,BEN,Education and training in water supply and sanitation,0.48
+2022,BEN,Basic sanitation,0.95
+2022,BEN,Water sector policy and administrative management,2.5
+2022,BEN,Waste management/disposal,6.0
+2022,BEN,Basic drinking water supply and basic sanitation,8.9
+2022,BFA,Waste management/disposal,0.046
+2022,BFA,Education and training in water supply and sanitation,0.56
+2022,BFA,Water sector policy and administrative management,2.2
+2022,BFA,Sanitation - large systems,4.6
+2022,BFA,Basic sanitation,6.2
+2022,BFA,Basic drinking water supply and basic sanitation,8.7
+2022,BFA,Water supply and sanitation - large systems,11
+2022,BGD,Education and training in water supply and sanitation,0.066
+2022,BGD,Waste management/disposal,5.6
+2022,BGD,Basic drinking water supply and basic sanitation,11
+2022,BGD,Water sector policy and administrative management,11
+2022,BGD,Water supply and sanitation - large systems,18
+2022,BGD,Basic sanitation,18
+2022,BGD,Sanitation - large systems,25
+2022,BIH,Basic sanitation,0.043
+2022,BIH,Education and training in water supply and sanitation,0.062
+2022,BIH,Waste management/disposal,0.72
+2022,BIH,Water supply and sanitation - large systems,1.3
+2022,BIH,Water sector policy and administrative management,1.7
+2022,BIH,Sanitation - large systems,1.9
+2022,BLR,Waste management/disposal,0.048
+2022,BLZ,Sanitation - large systems,0.11
+2022,BLZ,Waste management/disposal,0.58
+2022,BOL,Education and training in water supply and sanitation,1.0
+2022,BOL,Waste management/disposal,2.4
+2022,BOL,Basic drinking water supply and basic sanitation,6.3
+2022,BOL,Sanitation - large systems,9.2
+2022,BOL,Water supply and sanitation - large systems,14
+2022,BOL,Basic sanitation,18
+2022,BOL,Water sector policy and administrative management,26
+2022,BRA,Education and training in water supply and sanitation,0.0011
+2022,BRA,Basic sanitation,0.095
+2022,BRA,Water sector policy and administrative management,0.22
+2022,BRA,Waste management/disposal,1.9
+2022,BRA,Basic drinking water supply and basic sanitation,5.6
+2022,BRA,Water supply and sanitation - large systems,11
+2022,BRA,Sanitation - large systems,43
+2022,BTN,Education and training in water supply and sanitation,0.026
+2022,BTN,Water sector policy and administrative management,0.035
+2022,BTN,Water supply and sanitation - large systems,0.078
+2022,BTN,Basic drinking water supply and basic sanitation,0.60
+2022,BTN,Basic sanitation,1.2
+2022,BTN,Sanitation - large systems,1.6
+2022,BTN,Waste management/disposal,3.7
+2022,BWA,Basic sanitation,0.0062
+2022,BWA,Waste management/disposal,0.48
+2022,CAF,Basic sanitation,0.0031
+2022,CAF,Water sector policy and administrative management,0.24
+2022,CAF,Water supply and sanitation - large systems,1.3
+2022,CAF,Basic drinking water supply and basic sanitation,2.4
+2022,CHN,Basic sanitation,0.12
+2022,CHN,Sanitation - large systems,0.70
+2022,CHN,Water sector policy and administrative management,1.5
+2022,CHN,Basic drinking water supply and basic sanitation,3.4
+2022,CHN,Waste management/disposal,15
+2022,CHN,Water supply and sanitation - large systems,35
+2022,CIV,Basic sanitation,0.025
+2022,CIV,Waste management/disposal,0.052
+2022,CIV,Water supply and sanitation - large systems,0.22
+2022,CIV,Education and training in water supply and sanitation,0.37
+2022,CIV,Sanitation - large systems,3.5
+2022,CIV,Water sector policy and administrative management,7.5
+2022,CIV,Basic drinking water supply and basic sanitation,9.7
+2022,CMR,Basic sanitation,0.063
+2022,CMR,Waste management/disposal,0.47
+2022,CMR,Basic drinking water supply and basic sanitation,2.6
+2022,CMR,Sanitation - large systems,3.7
+2022,CMR,Water supply and sanitation - large systems,3.8
+2022,CMR,Water sector policy and administrative management,20
+2022,COD,Waste management/disposal,0.068
+2022,COD,Sanitation - large systems,0.082
+2022,COD,Education and training in water supply and sanitation,0.14
+2022,COD,Basic sanitation,0.39
+2022,COD,Water sector policy and administrative management,3.8
+2022,COD,Basic drinking water supply and basic sanitation,17
+2022,COD,Water supply and sanitation - large systems,42
+2022,COG,Water supply and sanitation - large systems,0.021
+2022,COG,Water sector policy and administrative management,0.034
+2022,COG,Sanitation - large systems,0.19
+2022,COG,Basic drinking water supply and basic sanitation,0.45
+2022,COG,Waste management/disposal,1.3
+2022,COG,Basic sanitation,1.8
+2022,COL,Basic drinking water supply and basic sanitation,0.21
+2022,COL,Basic sanitation,0.42
+2022,COL,Waste management/disposal,2.0
+2022,COL,Sanitation - large systems,5.2
+2022,COL,Water sector policy and administrative management,5.8
+2022,COM,Water sector policy and administrative management,0.016
+2022,COM,Waste management/disposal,0.077
+2022,COM,Basic drinking water supply and basic sanitation,0.082
+2022,CPV,Water supply and sanitation - large systems,0.043
+2022,CPV,Basic drinking water supply and basic sanitation,0.20
+2022,CPV,Water sector policy and administrative management,4.7
+2022,CRI,Waste management/disposal,0.27
+2022,CRI,Water sector policy and administrative management,1.4
+2022,CRI,Basic sanitation,3.0
+2022,CRI,Water supply and sanitation - large systems,6.7
+2022,CUB,Sanitation - large systems,0.0012
+2022,CUB,Education and training in water supply and sanitation,0.011
+2022,CUB,Waste management/disposal,0.060
+2022,CUB,Basic sanitation,0.071
+2022,CUB,Basic drinking water supply and basic sanitation,0.26
+2022,CUB,Water supply and sanitation - large systems,10.0
+2022,CUB,Water sector policy and administrative management,10
+2022,DJI,Basic sanitation,0.0021
+2022,DJI,Waste management/disposal,0.12
+2022,DJI,Basic drinking water supply and basic sanitation,0.21
+2022,DJI,Water sector policy and administrative management,0.71
+2022,DJI,Water supply and sanitation - large systems,4.8
+2022,DJI,Sanitation - large systems,5.9
+2022,DOM,Basic drinking water supply and basic sanitation,0.67
+2022,DOM,Water supply and sanitation - large systems,1.0
+2022,DOM,Waste management/disposal,3.1
+2022,DZA,Water sector policy and administrative management,0.45
+2022,DZA,Waste management/disposal,0.69
+2022,ECU,Water supply and sanitation - large systems,0.0021
+2022,ECU,Basic sanitation,0.026
+2022,ECU,Waste management/disposal,0.28
+2022,ECU,Water sector policy and administrative management,0.31
+2022,ECU,Basic drinking water supply and basic sanitation,7.9
+2022,ECU,Sanitation - large systems,42
+2022,EGY,Basic sanitation,0.24
+2022,EGY,Basic drinking water supply and basic sanitation,0.97
+2022,EGY,Education and training in water supply and sanitation,1.2
+2022,EGY,Waste management/disposal,11
+2022,EGY,Water supply and sanitation - large systems,30
+2022,EGY,Water sector policy and administrative management,93
+2022,EGY,Sanitation - large systems,149
+2022,ERI,Sanitation - large systems,0.0009
+2022,ERI,Basic drinking water supply and basic sanitation,0.014
+2022,ERI,Water sector policy and administrative management,0.65
+2022,ETH,Waste management/disposal,0.24
+2022,ETH,Basic sanitation,3.3
+2022,ETH,Education and training in water supply and sanitation,7.1
+2022,ETH,Basic drinking water supply and basic sanitation,25
+2022,ETH,Sanitation - large systems,44
+2022,ETH,Water supply and sanitation - large systems,49
+2022,ETH,Water sector policy and administrative management,77
+2022,FJI,Education and training in water supply and sanitation,0.010
+2022,FJI,Waste management/disposal,0.027
+2022,FJI,Water sector policy and administrative management,0.21
+2022,FJI,Sanitation - large systems,0.40
+2022,FJI,Basic drinking water supply and basic sanitation,1.1
+2022,FJI,Water supply and sanitation - large systems,9.5
+2022,FSM,Basic drinking water supply and basic sanitation,0.011
+2022,FSM,Waste management/disposal,0.14
+2022,FSM,Sanitation - large systems,0.51
+2022,GAB,Water supply and sanitation - large systems,0.27
+2022,GAB,Waste management/disposal,0.62
+2022,GEO,Sanitation - large systems,0.55
+2022,GEO,Basic sanitation,1.5
+2022,GEO,Basic drinking water supply and basic sanitation,1.6
+2022,GEO,Water supply and sanitation - large systems,2.8
+2022,GEO,Waste management/disposal,5.4
+2022,GEO,Water sector policy and administrative management,35
+2022,GHA,Sanitation - large systems,0.36
+2022,GHA,Basic drinking water supply and basic sanitation,0.55
+2022,GHA,Water supply and sanitation - large systems,1.2
+2022,GHA,Water sector policy and administrative management,5.6
+2022,GHA,Basic sanitation,9.1
+2022,GHA,Waste management/disposal,13
+2022,GIN,Sanitation - large systems,0.27
+2022,GIN,Water sector policy and administrative management,0.31
+2022,GIN,Basic drinking water supply and basic sanitation,1.1
+2022,GIN,Water supply and sanitation - large systems,1.6
+2022,GIN,Waste management/disposal,4.9
+2022,GIN,Basic sanitation,4.9
+2022,GMB,Water sector policy and administrative management,0.0036
+2022,GMB,Basic drinking water supply and basic sanitation,0.050
+2022,GMB,Basic sanitation,0.32
+2022,GMB,Water supply and sanitation - large systems,1.3
+2022,GNB,Water supply and sanitation - large systems,0.036
+2022,GNB,Water sector policy and administrative management,0.78
+2022,GNB,Basic drinking water supply and basic sanitation,1.4
+2022,GTM,Education and training in water supply and sanitation,0.047
+2022,GTM,Basic sanitation,0.18
+2022,GTM,Water sector policy and administrative management,0.18
+2022,GTM,Water supply and sanitation - large systems,1.2
+2022,GTM,Basic drinking water supply and basic sanitation,2.5
+2022,GUY,Water supply and sanitation - large systems,0.001
+2022,GUY,Water sector policy and administrative management,0.0093
+2022,GUY,Waste management/disposal,0.0097
+2022,GUY,Education and training in water supply and sanitation,0.022
+2022,GUY,Basic drinking water supply and basic sanitation,0.079
+2022,HND,Basic drinking water supply and basic sanitation,0.23
+2022,HND,Waste management/disposal,0.31
+2022,HND,Sanitation - large systems,0.41
+2022,HND,Education and training in water supply and sanitation,0.42
+2022,HND,Water supply and sanitation - large systems,0.46
+2022,HND,Basic sanitation,2.2
+2022,HND,Water sector policy and administrative management,8.3
+2022,HTI,Education and training in water supply and sanitation,0.082
+2022,HTI,Basic sanitation,0.37
+2022,HTI,Waste management/disposal,2.3
+2022,HTI,Water sector policy and administrative management,2.4
+2022,HTI,Water supply and sanitation - large systems,6.2
+2022,HTI,Basic drinking water supply and basic sanitation,9.3
+2022,IDN,Basic sanitation,0.0006
+2022,IDN,Education and training in water supply and sanitation,0.055
+2022,IDN,Water sector policy and administrative management,0.63
+2022,IDN,Basic drinking water supply and basic sanitation,1.3
+2022,IDN,Waste management/disposal,7.5
+2022,IDN,Water supply and sanitation - large systems,14
+2022,IDN,Sanitation - large systems,17
+2022,IND,Education and training in water supply and sanitation,1.1
+2022,IND,Waste management/disposal,1.5
+2022,IND,Basic sanitation,7.0
+2022,IND,Water sector policy and administrative management,7.0
+2022,IND,Basic drinking water supply and basic sanitation,9.2
+2022,IND,Water supply and sanitation - large systems,64
+2022,IND,Sanitation - large systems,70
+2022,IRN,Sanitation - large systems,0.0058
+2022,IRN,Waste management/disposal,0.018
+2022,IRN,Education and training in water supply and sanitation,0.037
+2022,IRN,Water sector policy and administrative management,3.9
+2022,IRQ,Waste management/disposal,0.41
+2022,IRQ,Water sector policy and administrative management,0.82
+2022,IRQ,Sanitation - large systems,2.5
+2022,IRQ,Basic sanitation,4.4
+2022,IRQ,Basic drinking water supply and basic sanitation,12
+2022,IRQ,Water supply and sanitation - large systems,53
+2022,JAM,Waste management/disposal,0.24
+2022,JOR,Education and training in water supply and sanitation,1.2
+2022,JOR,Basic sanitation,1.5
+2022,JOR,Basic drinking water supply and basic sanitation,5.5
+2022,JOR,Waste management/disposal,20
+2022,JOR,Water supply and sanitation - large systems,39
+2022,JOR,Sanitation - large systems,56
+2022,JOR,Water sector policy and administrative management,98
+2022,KAZ,Waste management/disposal,0.051
+2022,KEN,Education and training in water supply and sanitation,0.60
+2022,KEN,Basic sanitation,1.8
+2022,KEN,Waste management/disposal,11
+2022,KEN,Basic drinking water supply and basic sanitation,19
+2022,KEN,Water supply and sanitation - large systems,20
+2022,KEN,Sanitation - large systems,32
+2022,KEN,Water sector policy and administrative management,80
+2022,KGZ,Basic drinking water supply and basic sanitation,0.012
+2022,KGZ,Waste management/disposal,0.11
+2022,KGZ,Basic sanitation,0.75
+2022,KGZ,Water sector policy and administrative management,2.3
+2022,KGZ,Sanitation - large systems,3.0
+2022,KGZ,Water supply and sanitation - large systems,9.7
+2022,KHM,Education and training in water supply and sanitation,0.17
+2022,KHM,Basic drinking water supply and basic sanitation,3.1
+2022,KHM,Water sector policy and administrative management,3.6
+2022,KHM,Basic sanitation,7.3
+2022,KHM,Waste management/disposal,15
+2022,KHM,Water supply and sanitation - large systems,17
+2022,KHM,Sanitation - large systems,32
+2022,KIR,Education and training in water supply and sanitation,0.038
+2022,KIR,Water sector policy and administrative management,0.24
+2022,KIR,Sanitation - large systems,0.46
+2022,KIR,Basic sanitation,0.70
+2022,KIR,Water supply and sanitation - large systems,1.3
+2022,KIR,Waste management/disposal,1.6
+2022,KIR,Basic drinking water supply and basic sanitation,1.7
+2022,LAO,Education and training in water supply and sanitation,0.16
+2022,LAO,Sanitation - large systems,1.7
+2022,LAO,Basic drinking water supply and basic sanitation,2.0
+2022,LAO,Basic sanitation,2.0
+2022,LAO,Water sector policy and administrative management,2.3
+2022,LAO,Water supply and sanitation - large systems,4.2
+2022,LAO,Waste management/disposal,4.7
+2022,LBN,Education and training in water supply and sanitation,0.25
+2022,LBN,Water sector policy and administrative management,1.6
+2022,LBN,Basic sanitation,4.1
+2022,LBN,Basic drinking water supply and basic sanitation,4.3
+2022,LBN,Waste management/disposal,5.9
+2022,LBN,Sanitation - large systems,6.2
+2022,LBN,Water supply and sanitation - large systems,17
+2022,LBR,Sanitation - large systems,0.0017
+2022,LBR,Education and training in water supply and sanitation,0.031
+2022,LBR,Basic sanitation,0.049
+2022,LBR,Waste management/disposal,0.078
+2022,LBR,Water sector policy and administrative management,0.10
+2022,LBR,Water supply and sanitation - large systems,1.6
+2022,LBR,Basic drinking water supply and basic sanitation,3.3
+2022,LBY,Basic drinking water supply and basic sanitation,0.12
+2022,LBY,Water supply and sanitation - large systems,0.74
+2022,LCA,Waste management/disposal,0.02
+2022,LKA,Education and training in water supply and sanitation,0.0079
+2022,LKA,Waste management/disposal,1.5
+2022,LKA,Sanitation - large systems,3.0
+2022,LKA,Water supply and sanitation - large systems,3.3
+2022,LKA,Basic drinking water supply and basic sanitation,3.5
+2022,LKA,Basic sanitation,4.6
+2022,LKA,Water sector policy and administrative management,5.7
+2022,LSO,Education and training in water supply and sanitation,0.0069
+2022,LSO,Basic drinking water supply and basic sanitation,0.055
+2022,LSO,Basic sanitation,0.069
+2022,LSO,Water sector policy and administrative management,0.31
+2022,LSO,Water supply and sanitation - large systems,4.6
+2022,MAR,Basic sanitation,0.025
+2022,MAR,Education and training in water supply and sanitation,0.04
+2022,MAR,Waste management/disposal,0.29
+2022,MAR,Water sector policy and administrative management,2.1
+2022,MAR,Water supply and sanitation - large systems,14
+2022,MAR,Basic drinking water supply and basic sanitation,17
+2022,MAR,Sanitation - large systems,38
+2022,MDA,Sanitation - large systems,0.32
+2022,MDA,Waste management/disposal,1.1
+2022,MDA,Basic sanitation,1.5
+2022,MDA,Basic drinking water supply and basic sanitation,2.8
+2022,MDA,Water supply and sanitation - large systems,3.3
+2022,MDA,Water sector policy and administrative management,13
+2022,MDG,Education and training in water supply and sanitation,0.081
+2022,MDG,Basic sanitation,1.0
+2022,MDG,Waste management/disposal,1.2
+2022,MDG,Water supply and sanitation - large systems,2.1
+2022,MDG,Water sector policy and administrative management,2.6
+2022,MDG,Sanitation - large systems,6.2
+2022,MDG,Basic drinking water supply and basic sanitation,8.5
+2022,MDV,Water supply and sanitation - large systems,0.57
+2022,MDV,Waste management/disposal,13
+2022,MEX,Waste management/disposal,0.0025
+2022,MEX,Water supply and sanitation - large systems,0.0056
+2022,MEX,Basic drinking water supply and basic sanitation,0.027
+2022,MEX,Education and training in water supply and sanitation,0.041
+2022,MEX,Water sector policy and administrative management,0.22
+2022,MEX,Sanitation - large systems,0.37
+2022,MHL,Sanitation - large systems,0.14
+2022,MHL,Waste management/disposal,0.20
+2022,MHL,Water sector policy and administrative management,2.0
+2022,MKD,Basic drinking water supply and basic sanitation,0.071
+2022,MKD,Basic sanitation,0.071
+2022,MKD,Waste management/disposal,0.53
+2022,MKD,Sanitation - large systems,0.82
+2022,MKD,Water sector policy and administrative management,1.5
+2022,MKD,Water supply and sanitation - large systems,5.9
+2022,MLI,Education and training in water supply and sanitation,0.11
+2022,MLI,Waste management/disposal,0.89
+2022,MLI,Sanitation - large systems,1.1
+2022,MLI,Basic sanitation,2.6
+2022,MLI,Water sector policy and administrative management,4.9
+2022,MLI,Water supply and sanitation - large systems,8.4
+2022,MLI,Basic drinking water supply and basic sanitation,12
+2022,MMR,Education and training in water supply and sanitation,0.053
+2022,MMR,Water supply and sanitation - large systems,0.16
+2022,MMR,Basic sanitation,0.49
+2022,MMR,Waste management/disposal,1.0
+2022,MMR,Basic drinking water supply and basic sanitation,1.3
+2022,MMR,Water sector policy and administrative management,1.9
+2022,MNE,Waste management/disposal,0.088
+2022,MNE,Water supply and sanitation - large systems,12
+2022,MNG,Water sector policy and administrative management,0.10
+2022,MNG,Basic drinking water supply and basic sanitation,0.10
+2022,MNG,Basic sanitation,0.72
+2022,MNG,Waste management/disposal,2.2
+2022,MNG,Sanitation - large systems,2.9
+2022,MNG,Water supply and sanitation - large systems,7.2
+2022,MOZ,Education and training in water supply and sanitation,0.008
+2022,MOZ,Waste management/disposal,1.9
+2022,MOZ,Basic drinking water supply and basic sanitation,3.5
+2022,MOZ,Water sector policy and administrative management,15
+2022,MOZ,Basic sanitation,15
+2022,MOZ,Water supply and sanitation - large systems,19
+2022,MOZ,Sanitation - large systems,19
+2022,MRT,Waste management/disposal,0.14
+2022,MRT,Basic sanitation,0.14
+2022,MRT,Basic drinking water supply and basic sanitation,1.6
+2022,MRT,Water sector policy and administrative management,1.7
+2022,MRT,Water supply and sanitation - large systems,1.9
+2022,MUS,Waste management/disposal,0.034
+2022,MUS,Sanitation - large systems,3.7
+2022,MWI,Education and training in water supply and sanitation,0.0012
+2022,MWI,Basic sanitation,0.096
+2022,MWI,Waste management/disposal,0.21
+2022,MWI,Basic drinking water supply and basic sanitation,2.7
+2022,MWI,Sanitation - large systems,6.5
+2022,MWI,Water supply and sanitation - large systems,7.8
+2022,MWI,Water sector policy and administrative management,12
+2022,MYS,Water supply and sanitation - large systems,0.074
+2022,MYS,Water sector policy and administrative management,0.25
+2022,MYS,Waste management/disposal,0.29
+2022,NAM,Water supply and sanitation - large systems,0.0063
+2022,NAM,Basic drinking water supply and basic sanitation,0.096
+2022,NAM,Water sector policy and administrative management,0.29
+2022,NAM,Waste management/disposal,1.1
+2022,NER,Waste management/disposal,0.047
+2022,NER,Basic sanitation,1.3
+2022,NER,Water supply and sanitation - large systems,2.7
+2022,NER,Sanitation - large systems,3.5
+2022,NER,Basic drinking water supply and basic sanitation,20
+2022,NER,Water sector policy and administrative management,55
+2022,NGA,Waste management/disposal,0.59
+2022,NGA,Basic sanitation,0.59
+2022,NGA,Basic drinking water supply and basic sanitation,2.9
+2022,NGA,Water sector policy and administrative management,8.4
+2022,NGA,Sanitation - large systems,20
+2022,NGA,Water supply and sanitation - large systems,26
+2022,NIC,Education and training in water supply and sanitation,0.17
+2022,NIC,Basic sanitation,0.32
+2022,NIC,Water sector policy and administrative management,0.61
+2022,NIC,Basic drinking water supply and basic sanitation,1.6
+2022,NIC,Waste management/disposal,17
+2022,NIC,Sanitation - large systems,21
+2022,NIC,Water supply and sanitation - large systems,110
+2022,NIU,Water supply and sanitation - large systems,0.012
+2022,NPL,Education and training in water supply and sanitation,0.083
+2022,NPL,Water supply and sanitation - large systems,0.60
+2022,NPL,Waste management/disposal,3.7
+2022,NPL,Sanitation - large systems,9.9
+2022,NPL,Basic sanitation,10
+2022,NPL,Basic drinking water supply and basic sanitation,17
+2022,NPL,Water sector policy and administrative management,22
+2022,NRU,Water sector policy and administrative management,0.068
+2022,NRU,Basic sanitation,0.14
+2022,NRU,Waste management/disposal,2.0
+2022,PAK,Basic sanitation,0.40
+2022,PAK,Waste management/disposal,1.0
+2022,PAK,Education and training in water supply and sanitation,1.5
+2022,PAK,Sanitation - large systems,1.7
+2022,PAK,Basic drinking water supply and basic sanitation,4.1
+2022,PAK,Water sector policy and administrative management,9.8
+2022,PAK,Water supply and sanitation - large systems,13
+2022,PAN,Waste management/disposal,0.037
+2022,PAN,Basic drinking water supply and basic sanitation,0.16
+2022,PAN,Water sector policy and administrative management,0.63
+2022,PAN,Water supply and sanitation - large systems,2.3
+2022,PER,Basic sanitation,0.12
+2022,PER,Basic drinking water supply and basic sanitation,0.34
+2022,PER,Waste management/disposal,0.38
+2022,PER,Water sector policy and administrative management,1.0
+2022,PER,Sanitation - large systems,1.2
+2022,PER,Water supply and sanitation - large systems,1.7
+2022,PER,Education and training in water supply and sanitation,2.5
+2022,PHL,Basic sanitation,0.012
+2022,PHL,Education and training in water supply and sanitation,0.026
+2022,PHL,Basic drinking water supply and basic sanitation,0.37
+2022,PHL,Sanitation - large systems,0.60
+2022,PHL,Water supply and sanitation - large systems,1.8
+2022,PHL,Waste management/disposal,2.3
+2022,PHL,Water sector policy and administrative management,2.5
+2022,PLW,Sanitation - large systems,0.014
+2022,PLW,Basic sanitation,0.18
+2022,PLW,Waste management/disposal,0.62
+2022,PNG,Waste management/disposal,0.027
+2022,PNG,Sanitation - large systems,0.033
+2022,PNG,Education and training in water supply and sanitation,0.16
+2022,PNG,Basic sanitation,0.58
+2022,PNG,Water supply and sanitation - large systems,3.1
+2022,PNG,Water sector policy and administrative management,3.8
+2022,PNG,Basic drinking water supply and basic sanitation,18
+2022,PRK,Water supply and sanitation - large systems,0.023
+2022,PRK,Water sector policy and administrative management,0.040
+2022,PRK,Basic drinking water supply and basic sanitation,0.18
+2022,PRY,Water sector policy and administrative management,0.0072
+2022,PRY,Education and training in water supply and sanitation,0.037
+2022,PRY,Water supply and sanitation - large systems,0.10
+2022,PRY,Waste management/disposal,0.13
+2022,PRY,Basic drinking water supply and basic sanitation,5.5
+2022,PSE,Education and training in water supply and sanitation,0.12
+2022,PSE,Basic sanitation,0.43
+2022,PSE,Basic drinking water supply and basic sanitation,2.4
+2022,PSE,Water sector policy and administrative management,7.1
+2022,PSE,Waste management/disposal,7.9
+2022,PSE,Sanitation - large systems,10
+2022,PSE,Water supply and sanitation - large systems,52
+2022,RWA,Education and training in water supply and sanitation,0.18
+2022,RWA,Waste management/disposal,0.77
+2022,RWA,Basic sanitation,0.82
+2022,RWA,Sanitation - large systems,1.5
+2022,RWA,Water supply and sanitation - large systems,2.9
+2022,RWA,Basic drinking water supply and basic sanitation,3.9
+2022,RWA,Water sector policy and administrative management,4.5
+2022,SDN,Basic sanitation,0.50
+2022,SDN,Water sector policy and administrative management,0.75
+2022,SDN,Waste management/disposal,1.4
+2022,SDN,Water supply and sanitation - large systems,3.2
+2022,SDN,Basic drinking water supply and basic sanitation,5.2
+2022,SEN,Education and training in water supply and sanitation,0.076
+2022,SEN,Waste management/disposal,1.8
+2022,SEN,Basic drinking water supply and basic sanitation,3.3
+2022,SEN,Basic sanitation,5.2
+2022,SEN,Water sector policy and administrative management,7.0
+2022,SEN,Water supply and sanitation - large systems,9.4
+2022,SEN,Sanitation - large systems,12
+2022,SLB,Education and training in water supply and sanitation,0.048
+2022,SLB,Waste management/disposal,0.34
+2022,SLB,Water supply and sanitation - large systems,0.54
+2022,SLB,Water sector policy and administrative management,1.2
+2022,SLB,Basic drinking water supply and basic sanitation,1.4
+2022,SLB,Basic sanitation,2.3
+2022,SLE,Education and training in water supply and sanitation,0.031
+2022,SLE,Sanitation - large systems,0.036
+2022,SLE,Basic sanitation,0.34
+2022,SLE,Water sector policy and administrative management,0.44
+2022,SLE,Waste management/disposal,0.53
+2022,SLE,Basic drinking water supply and basic sanitation,2.9
+2022,SLE,Water supply and sanitation - large systems,9.6
+2022,SLV,Sanitation - large systems,0.012
+2022,SLV,Waste management/disposal,0.021
+2022,SLV,Basic sanitation,0.10
+2022,SLV,Education and training in water supply and sanitation,0.13
+2022,SLV,Water sector policy and administrative management,0.14
+2022,SLV,Water supply and sanitation - large systems,0.33
+2022,SLV,Basic drinking water supply and basic sanitation,0.68
+2022,SOM,Basic sanitation,0.0041
+2022,SOM,Water supply and sanitation - large systems,0.52
+2022,SOM,Waste management/disposal,1.6
+2022,SOM,Water sector policy and administrative management,4.9
+2022,SOM,Basic drinking water supply and basic sanitation,5.4
+2022,SRB,Basic drinking water supply and basic sanitation,0.042
+2022,SRB,Waste management/disposal,0.97
+2022,SRB,Sanitation - large systems,1.6
+2022,SRB,Water supply and sanitation - large systems,5.6
+2022,SSD,Water sector policy and administrative management,0.10
+2022,SSD,Basic sanitation,0.21
+2022,SSD,Waste management/disposal,0.72
+2022,SSD,Water supply and sanitation - large systems,2.0
+2022,SSD,Basic drinking water supply and basic sanitation,11
+2022,STP,Basic sanitation,0.0012
+2022,STP,Water supply and sanitation - large systems,0.18
+2022,STP,Waste management/disposal,1.5
+2022,STP,Water sector policy and administrative management,2.0
+2022,STP,Basic drinking water supply and basic sanitation,2.7
+2022,SUR,Water sector policy and administrative management,0.37
+2022,SUR,Water supply and sanitation - large systems,0.43
+2022,SWZ,Basic sanitation,0.019
+2022,SWZ,Water sector policy and administrative management,0.056
+2022,SWZ,Waste management/disposal,0.37
+2022,SYR,Waste management/disposal,0.0066
+2022,SYR,Education and training in water supply and sanitation,0.17
+2022,SYR,Water sector policy and administrative management,0.34
+2022,SYR,Basic sanitation,3.6
+2022,SYR,Basic drinking water supply and basic sanitation,6.4
+2022,SYR,Sanitation - large systems,7.5
+2022,SYR,Water supply and sanitation - large systems,24
+2022,TCD,Basic sanitation,0.026
+2022,TCD,Education and training in water supply and sanitation,0.43
+2022,TCD,Waste management/disposal,0.51
+2022,TCD,Sanitation - large systems,0.66
+2022,TCD,Water supply and sanitation - large systems,2.1
+2022,TCD,Water sector policy and administrative management,3.0
+2022,TCD,Basic drinking water supply and basic sanitation,5.5
+2022,TGO,Education and training in water supply and sanitation,0.0023
+2022,TGO,Basic sanitation,0.35
+2022,TGO,Sanitation - large systems,0.62
+2022,TGO,Waste management/disposal,1.2
+2022,TGO,Water sector policy and administrative management,1.2
+2022,TGO,Water supply and sanitation - large systems,4.1
+2022,TGO,Basic drinking water supply and basic sanitation,6.1
+2022,THA,Basic sanitation,0.005
+2022,THA,Basic drinking water supply and basic sanitation,0.29
+2022,THA,Water supply and sanitation - large systems,0.42
+2022,THA,Water sector policy and administrative management,0.79
+2022,THA,Waste management/disposal,1.5
+2022,TJK,Education and training in water supply and sanitation,0.16
+2022,TJK,Waste management/disposal,0.73
+2022,TJK,Sanitation - large systems,1.4
+2022,TJK,Basic drinking water supply and basic sanitation,1.9
+2022,TJK,Water supply and sanitation - large systems,2.0
+2022,TJK,Basic sanitation,2.8
+2022,TJK,Water sector policy and administrative management,5.8
+2022,TLS,Waste management/disposal,0.072
+2022,TLS,Education and training in water supply and sanitation,0.14
+2022,TLS,Water sector policy and administrative management,0.15
+2022,TLS,Basic drinking water supply and basic sanitation,1.8
+2022,TON,Waste management/disposal,0.011
+2022,TON,Basic sanitation,0.052
+2022,TON,Basic drinking water supply and basic sanitation,0.055
+2022,TUN,Education and training in water supply and sanitation,0.31
+2022,TUN,Basic drinking water supply and basic sanitation,0.57
+2022,TUN,Water sector policy and administrative management,4.6
+2022,TUN,Waste management/disposal,5.2
+2022,TUN,Water supply and sanitation - large systems,17
+2022,TUN,Sanitation - large systems,37
+2022,TUR,Waste management/disposal,0.0061
+2022,TUR,Water sector policy and administrative management,0.12
+2022,TUR,Water supply and sanitation - large systems,4.5
+2022,TUR,Sanitation - large systems,5.8
+2022,TUR,Basic drinking water supply and basic sanitation,46
+2022,TUV,Water sector policy and administrative management,0.011
+2022,TUV,Basic drinking water supply and basic sanitation,0.089
+2022,TUV,Waste management/disposal,0.79
+2022,TZA,Education and training in water supply and sanitation,0.19
+2022,TZA,Basic drinking water supply and basic sanitation,4.5
+2022,TZA,Basic sanitation,19
+2022,TZA,Water supply and sanitation - large systems,27
+2022,TZA,Sanitation - large systems,42
+2022,TZA,Water sector policy and administrative management,75
+2022,UGA,Education and training in water supply and sanitation,0.12
+2022,UGA,Waste management/disposal,2.2
+2022,UGA,Basic sanitation,2.7
+2022,UGA,Water sector policy and administrative management,5.4
+2022,UGA,Basic drinking water supply and basic sanitation,13
+2022,UGA,Sanitation - large systems,14
+2022,UGA,Water supply and sanitation - large systems,45
+2022,UKR,Education and training in water supply and sanitation,0.037
+2022,UKR,Sanitation - large systems,0.59
+2022,UKR,Basic drinking water supply and basic sanitation,0.89
+2022,UKR,Basic sanitation,1.8
+2022,UKR,Water sector policy and administrative management,2.4
+2022,UKR,Waste management/disposal,12
+2022,UZB,Water supply and sanitation - large systems,0.33
+2022,UZB,Waste management/disposal,1.3
+2022,UZB,Water sector policy and administrative management,2.7
+2022,UZB,Sanitation - large systems,8.0
+2022,UZB,Basic sanitation,8.6
+2022,VCT,Waste management/disposal,0.0025
+2022,VEN,Basic drinking water supply and basic sanitation,0.027
+2022,VEN,Basic sanitation,0.55
+2022,VNM,Education and training in water supply and sanitation,0.15
+2022,VNM,Basic sanitation,3.1
+2022,VNM,Basic drinking water supply and basic sanitation,3.4
+2022,VNM,Waste management/disposal,7.5
+2022,VNM,Water sector policy and administrative management,17
+2022,VNM,Water supply and sanitation - large systems,37
+2022,VNM,Sanitation - large systems,134
+2022,VUT,Waste management/disposal,0.11
+2022,VUT,Basic sanitation,0.29
+2022,VUT,Water sector policy and administrative management,0.33
+2022,VUT,Education and training in water supply and sanitation,0.41
+2022,VUT,Basic drinking water supply and basic sanitation,1.5
+2022,WSM,Water sector policy and administrative management,0.0078
+2022,WSM,Waste management/disposal,0.47
+2022,YEM,Waste management/disposal,0.0009
+2022,YEM,Education and training in water supply and sanitation,0.96
+2022,YEM,Basic sanitation,1.2
+2022,YEM,Sanitation - large systems,5.9
+2022,YEM,Water supply and sanitation - large systems,14
+2022,YEM,Basic drinking water supply and basic sanitation,21
+2022,YEM,Water sector policy and administrative management,29
+2022,ZAF,Basic sanitation,0.028
+2022,ZAF,Education and training in water supply and sanitation,0.10
+2022,ZAF,Sanitation - large systems,0.15
+2022,ZAF,Basic drinking water supply and basic sanitation,0.62
+2022,ZAF,Water supply and sanitation - large systems,0.76
+2022,ZAF,Waste management/disposal,1.1
+2022,ZAF,Water sector policy and administrative management,1.5
+2022,ZMB,Waste management/disposal,0.61
+2022,ZMB,Education and training in water supply and sanitation,1.6
+2022,ZMB,Basic sanitation,1.7
+2022,ZMB,Water sector policy and administrative management,3.1
+2022,ZMB,Basic drinking water supply and basic sanitation,7.0
+2022,ZMB,Water supply and sanitation - large systems,9.8
+2022,ZMB,Sanitation - large systems,36
+2022,ZWE,Water sector policy and administrative management,0.028
+2022,ZWE,Basic sanitation,0.19
+2022,ZWE,Sanitation - large systems,0.20
+2022,ZWE,Waste management/disposal,1.7
+2022,ZWE,Basic drinking water supply and basic sanitation,2.0
+2022,ZWE,Water supply and sanitation - large systems,4.6
