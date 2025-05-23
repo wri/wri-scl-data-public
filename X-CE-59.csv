@@ -1,7 +1,7 @@
-﻿year,geo,disagg,value
+year,geo,disagg,value
 2018,WLD,Taxes on manufacture and production of plastic bags,27
-2018,WLD,Consumers fees charge on plastic bags,30
-2018,WLD,Bans on specific singe-use products,27
+2018,WLD,Consumer fee on plastic bags,30
+2018,WLD,Bans on specific single-use products,27
 2018,WLD,Taxes on single-use plastics,29
 2018,CIV,Total,1
 2018,LSO,Total,1
@@ -278,61 +278,61 @@
 2018,TUN,Taxes on manufacture and production of plastic bags,1
 2018,UZB,Taxes on manufacture and production of plastic bags,1
 2018,VNM,Taxes on manufacture and production of plastic bags,1
-2018,BIH,Consumers fees charge on plastic bags,1
-2018,IRL,Consumers fees charge on plastic bags,1
-2018,CYP,Consumers fees charge on plastic bags,1
-2018,FJI,Consumers fees charge on plastic bags,1
-2018,ISR,Consumers fees charge on plastic bags,1
-2018,COL,Consumers fees charge on plastic bags,1
-2018,AND,Consumers fees charge on plastic bags,1
-2018,BGR,Consumers fees charge on plastic bags,1
-2018,CHN,Consumers fees charge on plastic bags,1
-2018,HRV,Consumers fees charge on plastic bags,1
-2018,CZE,Consumers fees charge on plastic bags,1
-2018,EST,Consumers fees charge on plastic bags,1
-2018,GRC,Consumers fees charge on plastic bags,1
-2018,ITA,Consumers fees charge on plastic bags,1
-2018,LTU,Consumers fees charge on plastic bags,1
-2018,LUX,Consumers fees charge on plastic bags,1
-2018,KOR,Consumers fees charge on plastic bags,1
-2018,GBR,Consumers fees charge on plastic bags,1
-2018,MKD,Consumers fees charge on plastic bags,1
-2018,MDA,Consumers fees charge on plastic bags,1
-2018,TUR,Consumers fees charge on plastic bags,1
-2018,ESP,Consumers fees charge on plastic bags,1
-2018,NPL,Consumers fees charge on plastic bags,1
-2018,NLD,Consumers fees charge on plastic bags,1
-2018,PRY,Consumers fees charge on plastic bags,1
-2018,POL,Consumers fees charge on plastic bags,1
-2018,SEN,Consumers fees charge on plastic bags,1
-2018,SVK,Consumers fees charge on plastic bags,1
-2018,SVN,Consumers fees charge on plastic bags,1
-2018,UZB,Consumers fees charge on plastic bags,1
-2018,ATG,Bans on specific singe-use products,1
-2018,BFA,Bans on specific singe-use products,1
-2018,CAN,Bans on specific singe-use products,1
-2018,CHN,Bans on specific singe-use products,1
-2018,CRI,Bans on specific singe-use products,1
-2018,FJI,Bans on specific singe-use products,1
-2018,HTI,Bans on specific singe-use products,1
-2018,ISR,Bans on specific singe-use products,1
-2018,ITA,Bans on specific singe-use products,1
-2018,GUY,Bans on specific singe-use products,1
-2018,LIE,Bans on specific singe-use products,1
-2018,MLT,Bans on specific singe-use products,1
-2018,MHL,Bans on specific singe-use products,1
-2018,MUS,Bans on specific singe-use products,1
-2018,MCO,Bans on specific singe-use products,1
-2018,PAK,Bans on specific singe-use products,1
-2018,KOR,Bans on specific singe-use products,1
-2018,VCT,Bans on specific singe-use products,1
-2018,SMR,Bans on specific singe-use products,1
-2018,SAU,Bans on specific singe-use products,1
-2018,SYC,Bans on specific singe-use products,1
-2018,LKA,Bans on specific singe-use products,1
-2018,TUV,Bans on specific singe-use products,1
-2018,ARE,Bans on specific singe-use products,1
-2018,VUT,Bans on specific singe-use products,1
+2018,BIH,Consumer fee on plastic bags,1
+2018,IRL,Consumer fee on plastic bags,1
+2018,CYP,Consumer fee on plastic bags,1
+2018,FJI,Consumer fee on plastic bags,1
+2018,ISR,Consumer fee on plastic bags,1
+2018,COL,Consumer fee on plastic bags,1
+2018,AND,Consumer fee on plastic bags,1
+2018,BGR,Consumer fee on plastic bags,1
+2018,CHN,Consumer fee on plastic bags,1
+2018,HRV,Consumer fee on plastic bags,1
+2018,CZE,Consumer fee on plastic bags,1
+2018,EST,Consumer fee on plastic bags,1
+2018,GRC,Consumer fee on plastic bags,1
+2018,ITA,Consumer fee on plastic bags,1
+2018,LTU,Consumer fee on plastic bags,1
+2018,LUX,Consumer fee on plastic bags,1
+2018,KOR,Consumer fee on plastic bags,1
+2018,GBR,Consumer fee on plastic bags,1
+2018,MKD,Consumer fee on plastic bags,1
+2018,MDA,Consumer fee on plastic bags,1
+2018,TUR,Consumer fee on plastic bags,1
+2018,ESP,Consumer fee on plastic bags,1
+2018,NPL,Consumer fee on plastic bags,1
+2018,NLD,Consumer fee on plastic bags,1
+2018,PRY,Consumer fee on plastic bags,1
+2018,POL,Consumer fee on plastic bags,1
+2018,SEN,Consumer fee on plastic bags,1
+2018,SVK,Consumer fee on plastic bags,1
+2018,SVN,Consumer fee on plastic bags,1
+2018,UZB,Consumer fee on plastic bags,1
+2018,ATG,Bans on specific single-use products,1
+2018,BFA,Bans on specific single-use products,1
+2018,CAN,Bans on specific single-use products,1
+2018,CHN,Bans on specific single-use products,1
+2018,CRI,Bans on specific single-use products,1
+2018,FJI,Bans on specific single-use products,1
+2018,HTI,Bans on specific single-use products,1
+2018,ISR,Bans on specific single-use products,1
+2018,ITA,Bans on specific single-use products,1
+2018,GUY,Bans on specific single-use products,1
+2018,LIE,Bans on specific single-use products,1
+2018,MLT,Bans on specific single-use products,1
+2018,MHL,Bans on specific single-use products,1
+2018,MUS,Bans on specific single-use products,1
+2018,MCO,Bans on specific single-use products,1
+2018,PAK,Bans on specific single-use products,1
+2018,KOR,Bans on specific single-use products,1
+2018,VCT,Bans on specific single-use products,1
+2018,SMR,Bans on specific single-use products,1
+2018,SAU,Bans on specific single-use products,1
+2018,SYC,Bans on specific single-use products,1
+2018,LKA,Bans on specific single-use products,1
+2018,TUV,Bans on specific single-use products,1
+2018,ARE,Bans on specific single-use products,1
+2018,VUT,Bans on specific single-use products,1
 2018,BEN,Taxes on single-use plastics,1
 2018,LSO,Taxes on single-use plastics,1
 2018,MAR,Taxes on single-use plastics,1
@@ -363,229 +363,229 @@
 2018,VCT,Taxes on single-use plastics,1
 2018,URY,Taxes on single-use plastics,1
 2018,UZB,Taxes on single-use plastics,1
-2018,ABW,Bans on specific singe-use products,0
-2018,AFG,Bans on specific singe-use products,0
-2018,AGO,Bans on specific singe-use products,0
-2018,AIA,Bans on specific singe-use products,0
-2018,ALA,Bans on specific singe-use products,0
-2018,ALB,Bans on specific singe-use products,0
-2018,AND,Bans on specific singe-use products,0
-2018,ARG,Bans on specific singe-use products,0
-2018,ARM,Bans on specific singe-use products,0
-2018,ASM,Bans on specific singe-use products,0
-2018,ATA,Bans on specific singe-use products,0
-2018,ATF,Bans on specific singe-use products,0
-2018,AUS,Bans on specific singe-use products,0
-2018,AUT,Bans on specific singe-use products,0
-2018,AZE,Bans on specific singe-use products,0
-2018,BDI,Bans on specific singe-use products,0
-2018,BEL,Bans on specific singe-use products,0
-2018,BEN,Bans on specific singe-use products,0
-2018,BES,Bans on specific singe-use products,0
-2018,BGD,Bans on specific singe-use products,0
-2018,BGR,Bans on specific singe-use products,0
-2018,BHR,Bans on specific singe-use products,0
-2018,BHS,Bans on specific singe-use products,0
-2018,BIH,Bans on specific singe-use products,0
-2018,BLM,Bans on specific singe-use products,0
-2018,BLR,Bans on specific singe-use products,0
-2018,BLZ,Bans on specific singe-use products,0
-2018,BMU,Bans on specific singe-use products,0
-2018,BOL,Bans on specific singe-use products,0
-2018,BRA,Bans on specific singe-use products,0
-2018,BRB,Bans on specific singe-use products,0
-2018,BRN,Bans on specific singe-use products,0
-2018,BTN,Bans on specific singe-use products,0
-2018,BVT,Bans on specific singe-use products,0
-2018,BWA,Bans on specific singe-use products,0
-2018,CAF,Bans on specific singe-use products,0
-2018,CCK,Bans on specific singe-use products,0
-2018,CHE,Bans on specific singe-use products,0
-2018,CHL,Bans on specific singe-use products,0
-2018,CIV,Bans on specific singe-use products,0
-2018,CMR,Bans on specific singe-use products,0
-2018,COD,Bans on specific singe-use products,0
-2018,COG,Bans on specific singe-use products,0
-2018,COK,Bans on specific singe-use products,0
-2018,COL,Bans on specific singe-use products,0
-2018,COM,Bans on specific singe-use products,0
-2018,CPV,Bans on specific singe-use products,0
-2018,CUB,Bans on specific singe-use products,0
-2018,CUW,Bans on specific singe-use products,0
-2018,CXR,Bans on specific singe-use products,0
-2018,CYM,Bans on specific singe-use products,0
-2018,CYP,Bans on specific singe-use products,0
-2018,CZE,Bans on specific singe-use products,0
-2018,DEU,Bans on specific singe-use products,0
-2018,DJI,Bans on specific singe-use products,0
-2018,DMA,Bans on specific singe-use products,0
-2018,DNK,Bans on specific singe-use products,0
-2018,DOM,Bans on specific singe-use products,0
-2018,DZA,Bans on specific singe-use products,0
-2018,ECU,Bans on specific singe-use products,0
-2018,EGY,Bans on specific singe-use products,0
-2018,ERI,Bans on specific singe-use products,0
-2018,ESH,Bans on specific singe-use products,0
-2018,ESP,Bans on specific singe-use products,0
-2018,EST,Bans on specific singe-use products,0
-2018,ETH,Bans on specific singe-use products,0
-2018,FIN,Bans on specific singe-use products,0
-2018,FLK,Bans on specific singe-use products,0
-2018,FRA,Bans on specific singe-use products,0
-2018,FRO,Bans on specific singe-use products,0
-2018,FSM,Bans on specific singe-use products,0
-2018,GAB,Bans on specific singe-use products,0
-2018,GBR,Bans on specific singe-use products,0
-2018,GEO,Bans on specific singe-use products,0
-2018,GGY,Bans on specific singe-use products,0
-2018,GHA,Bans on specific singe-use products,0
-2018,GIB,Bans on specific singe-use products,0
-2018,GIN,Bans on specific singe-use products,0
-2018,GLP,Bans on specific singe-use products,0
-2018,GMB,Bans on specific singe-use products,0
-2018,GNB,Bans on specific singe-use products,0
-2018,GNQ,Bans on specific singe-use products,0
-2018,GRC,Bans on specific singe-use products,0
-2018,GRD,Bans on specific singe-use products,0
-2018,GRL,Bans on specific singe-use products,0
-2018,GTM,Bans on specific singe-use products,0
-2018,GUF,Bans on specific singe-use products,0
-2018,GUM,Bans on specific singe-use products,0
-2018,HKG,Bans on specific singe-use products,0
-2018,HMD,Bans on specific singe-use products,0
-2018,HND,Bans on specific singe-use products,0
-2018,HRV,Bans on specific singe-use products,0
-2018,HUN,Bans on specific singe-use products,0
-2018,IDN,Bans on specific singe-use products,0
-2018,IMN,Bans on specific singe-use products,0
-2018,IND,Bans on specific singe-use products,0
-2018,IOT,Bans on specific singe-use products,0
-2018,IRL,Bans on specific singe-use products,0
-2018,IRN,Bans on specific singe-use products,0
-2018,IRQ,Bans on specific singe-use products,0
-2018,ISL,Bans on specific singe-use products,0
-2018,JAM,Bans on specific singe-use products,0
-2018,JEY,Bans on specific singe-use products,0
-2018,JOR,Bans on specific singe-use products,0
-2018,JPN,Bans on specific singe-use products,0
-2018,KAZ,Bans on specific singe-use products,0
-2018,KEN,Bans on specific singe-use products,0
-2018,KGZ,Bans on specific singe-use products,0
-2018,KHM,Bans on specific singe-use products,0
-2018,KIR,Bans on specific singe-use products,0
-2018,KNA,Bans on specific singe-use products,0
-2018,KWT,Bans on specific singe-use products,0
-2018,LAO,Bans on specific singe-use products,0
-2018,LBN,Bans on specific singe-use products,0
-2018,LBR,Bans on specific singe-use products,0
-2018,LBY,Bans on specific singe-use products,0
-2018,LCA,Bans on specific singe-use products,0
-2018,LSO,Bans on specific singe-use products,0
-2018,LTU,Bans on specific singe-use products,0
-2018,LUX,Bans on specific singe-use products,0
-2018,LVA,Bans on specific singe-use products,0
-2018,MAC,Bans on specific singe-use products,0
-2018,MAF,Bans on specific singe-use products,0
-2018,MAR,Bans on specific singe-use products,0
-2018,MDA,Bans on specific singe-use products,0
-2018,MDG,Bans on specific singe-use products,0
-2018,MDV,Bans on specific singe-use products,0
-2018,MEX,Bans on specific singe-use products,0
-2018,MKD,Bans on specific singe-use products,0
-2018,MLI,Bans on specific singe-use products,0
-2018,MMR,Bans on specific singe-use products,0
-2018,MNE,Bans on specific singe-use products,0
-2018,MNG,Bans on specific singe-use products,0
-2018,MNP,Bans on specific singe-use products,0
-2018,MOZ,Bans on specific singe-use products,0
-2018,MRT,Bans on specific singe-use products,0
-2018,MSR,Bans on specific singe-use products,0
-2018,MTQ,Bans on specific singe-use products,0
-2018,MWI,Bans on specific singe-use products,0
-2018,MYS,Bans on specific singe-use products,0
-2018,MYT,Bans on specific singe-use products,0
-2018,NAM,Bans on specific singe-use products,0
-2018,NCL,Bans on specific singe-use products,0
-2018,NER,Bans on specific singe-use products,0
-2018,NFK,Bans on specific singe-use products,0
-2018,NGA,Bans on specific singe-use products,0
-2018,NIC,Bans on specific singe-use products,0
-2018,NIU,Bans on specific singe-use products,0
-2018,NLD,Bans on specific singe-use products,0
-2018,NOR,Bans on specific singe-use products,0
-2018,NPL,Bans on specific singe-use products,0
-2018,NRU,Bans on specific singe-use products,0
-2018,NZL,Bans on specific singe-use products,0
-2018,OMN,Bans on specific singe-use products,0
-2018,PAN,Bans on specific singe-use products,0
-2018,PCN,Bans on specific singe-use products,0
-2018,PER,Bans on specific singe-use products,0
-2018,PHL,Bans on specific singe-use products,0
-2018,PLW,Bans on specific singe-use products,0
-2018,PNG,Bans on specific singe-use products,0
-2018,POL,Bans on specific singe-use products,0
-2018,PRI,Bans on specific singe-use products,0
-2018,PRK,Bans on specific singe-use products,0
-2018,PRT,Bans on specific singe-use products,0
-2018,PRY,Bans on specific singe-use products,0
-2018,PSE,Bans on specific singe-use products,0
-2018,PYF,Bans on specific singe-use products,0
-2018,QAT,Bans on specific singe-use products,0
-2018,REU,Bans on specific singe-use products,0
-2018,ROU,Bans on specific singe-use products,0
-2018,RUS,Bans on specific singe-use products,0
-2018,RWA,Bans on specific singe-use products,0
-2018,SDN,Bans on specific singe-use products,0
-2018,SEN,Bans on specific singe-use products,0
-2018,SGP,Bans on specific singe-use products,0
-2018,SGS,Bans on specific singe-use products,0
-2018,SHN,Bans on specific singe-use products,0
-2018,SJM,Bans on specific singe-use products,0
-2018,SLB,Bans on specific singe-use products,0
-2018,SLE,Bans on specific singe-use products,0
-2018,SLV,Bans on specific singe-use products,0
-2018,SOM,Bans on specific singe-use products,0
-2018,SPM,Bans on specific singe-use products,0
-2018,SRB,Bans on specific singe-use products,0
-2018,SSD,Bans on specific singe-use products,0
-2018,STP,Bans on specific singe-use products,0
-2018,SUR,Bans on specific singe-use products,0
-2018,SVK,Bans on specific singe-use products,0
-2018,SVN,Bans on specific singe-use products,0
-2018,SWE,Bans on specific singe-use products,0
-2018,SWZ,Bans on specific singe-use products,0
-2018,SXM,Bans on specific singe-use products,0
-2018,SYR,Bans on specific singe-use products,0
-2018,TCA,Bans on specific singe-use products,0
-2018,TCD,Bans on specific singe-use products,0
-2018,TGO,Bans on specific singe-use products,0
-2018,THA,Bans on specific singe-use products,0
-2018,TJK,Bans on specific singe-use products,0
-2018,TKL,Bans on specific singe-use products,0
-2018,TKM,Bans on specific singe-use products,0
-2018,TLS,Bans on specific singe-use products,0
-2018,TON,Bans on specific singe-use products,0
-2018,TTO,Bans on specific singe-use products,0
-2018,TUN,Bans on specific singe-use products,0
-2018,TUR,Bans on specific singe-use products,0
-2018,TZA,Bans on specific singe-use products,0
-2018,UGA,Bans on specific singe-use products,0
-2018,UKR,Bans on specific singe-use products,0
-2018,UMI,Bans on specific singe-use products,0
-2018,URY,Bans on specific singe-use products,0
-2018,USA,Bans on specific singe-use products,0
-2018,UZB,Bans on specific singe-use products,0
-2018,VAT,Bans on specific singe-use products,0
-2018,VEN,Bans on specific singe-use products,0
-2018,VGB,Bans on specific singe-use products,0
-2018,VIR,Bans on specific singe-use products,0
-2018,VNM,Bans on specific singe-use products,0
-2018,WLF,Bans on specific singe-use products,0
-2018,WSM,Bans on specific singe-use products,0
-2018,YEM,Bans on specific singe-use products,0
-2018,ZAF,Bans on specific singe-use products,0
-2018,ZMB,Bans on specific singe-use products,0
-2018,ZWE,Bans on specific singe-use products,0
+2018,ABW,Bans on specific single-use products,0
+2018,AFG,Bans on specific single-use products,0
+2018,AGO,Bans on specific single-use products,0
+2018,AIA,Bans on specific single-use products,0
+2018,ALA,Bans on specific single-use products,0
+2018,ALB,Bans on specific single-use products,0
+2018,AND,Bans on specific single-use products,0
+2018,ARG,Bans on specific single-use products,0
+2018,ARM,Bans on specific single-use products,0
+2018,ASM,Bans on specific single-use products,0
+2018,ATA,Bans on specific single-use products,0
+2018,ATF,Bans on specific single-use products,0
+2018,AUS,Bans on specific single-use products,0
+2018,AUT,Bans on specific single-use products,0
+2018,AZE,Bans on specific single-use products,0
+2018,BDI,Bans on specific single-use products,0
+2018,BEL,Bans on specific single-use products,0
+2018,BEN,Bans on specific single-use products,0
+2018,BES,Bans on specific single-use products,0
+2018,BGD,Bans on specific single-use products,0
+2018,BGR,Bans on specific single-use products,0
+2018,BHR,Bans on specific single-use products,0
+2018,BHS,Bans on specific single-use products,0
+2018,BIH,Bans on specific single-use products,0
+2018,BLM,Bans on specific single-use products,0
+2018,BLR,Bans on specific single-use products,0
+2018,BLZ,Bans on specific single-use products,0
+2018,BMU,Bans on specific single-use products,0
+2018,BOL,Bans on specific single-use products,0
+2018,BRA,Bans on specific single-use products,0
+2018,BRB,Bans on specific single-use products,0
+2018,BRN,Bans on specific single-use products,0
+2018,BTN,Bans on specific single-use products,0
+2018,BVT,Bans on specific single-use products,0
+2018,BWA,Bans on specific single-use products,0
+2018,CAF,Bans on specific single-use products,0
+2018,CCK,Bans on specific single-use products,0
+2018,CHE,Bans on specific single-use products,0
+2018,CHL,Bans on specific single-use products,0
+2018,CIV,Bans on specific single-use products,0
+2018,CMR,Bans on specific single-use products,0
+2018,COD,Bans on specific single-use products,0
+2018,COG,Bans on specific single-use products,0
+2018,COK,Bans on specific single-use products,0
+2018,COL,Bans on specific single-use products,0
+2018,COM,Bans on specific single-use products,0
+2018,CPV,Bans on specific single-use products,0
+2018,CUB,Bans on specific single-use products,0
+2018,CUW,Bans on specific single-use products,0
+2018,CXR,Bans on specific single-use products,0
+2018,CYM,Bans on specific single-use products,0
+2018,CYP,Bans on specific single-use products,0
+2018,CZE,Bans on specific single-use products,0
+2018,DEU,Bans on specific single-use products,0
+2018,DJI,Bans on specific single-use products,0
+2018,DMA,Bans on specific single-use products,0
+2018,DNK,Bans on specific single-use products,0
+2018,DOM,Bans on specific single-use products,0
+2018,DZA,Bans on specific single-use products,0
+2018,ECU,Bans on specific single-use products,0
+2018,EGY,Bans on specific single-use products,0
+2018,ERI,Bans on specific single-use products,0
+2018,ESH,Bans on specific single-use products,0
+2018,ESP,Bans on specific single-use products,0
+2018,EST,Bans on specific single-use products,0
+2018,ETH,Bans on specific single-use products,0
+2018,FIN,Bans on specific single-use products,0
+2018,FLK,Bans on specific single-use products,0
+2018,FRA,Bans on specific single-use products,0
+2018,FRO,Bans on specific single-use products,0
+2018,FSM,Bans on specific single-use products,0
+2018,GAB,Bans on specific single-use products,0
+2018,GBR,Bans on specific single-use products,0
+2018,GEO,Bans on specific single-use products,0
+2018,GGY,Bans on specific single-use products,0
+2018,GHA,Bans on specific single-use products,0
+2018,GIB,Bans on specific single-use products,0
+2018,GIN,Bans on specific single-use products,0
+2018,GLP,Bans on specific single-use products,0
+2018,GMB,Bans on specific single-use products,0
+2018,GNB,Bans on specific single-use products,0
+2018,GNQ,Bans on specific single-use products,0
+2018,GRC,Bans on specific single-use products,0
+2018,GRD,Bans on specific single-use products,0
+2018,GRL,Bans on specific single-use products,0
+2018,GTM,Bans on specific single-use products,0
+2018,GUF,Bans on specific single-use products,0
+2018,GUM,Bans on specific single-use products,0
+2018,HKG,Bans on specific single-use products,0
+2018,HMD,Bans on specific single-use products,0
+2018,HND,Bans on specific single-use products,0
+2018,HRV,Bans on specific single-use products,0
+2018,HUN,Bans on specific single-use products,0
+2018,IDN,Bans on specific single-use products,0
+2018,IMN,Bans on specific single-use products,0
+2018,IND,Bans on specific single-use products,0
+2018,IOT,Bans on specific single-use products,0
+2018,IRL,Bans on specific single-use products,0
+2018,IRN,Bans on specific single-use products,0
+2018,IRQ,Bans on specific single-use products,0
+2018,ISL,Bans on specific single-use products,0
+2018,JAM,Bans on specific single-use products,0
+2018,JEY,Bans on specific single-use products,0
+2018,JOR,Bans on specific single-use products,0
+2018,JPN,Bans on specific single-use products,0
+2018,KAZ,Bans on specific single-use products,0
+2018,KEN,Bans on specific single-use products,0
+2018,KGZ,Bans on specific single-use products,0
+2018,KHM,Bans on specific single-use products,0
+2018,KIR,Bans on specific single-use products,0
+2018,KNA,Bans on specific single-use products,0
+2018,KWT,Bans on specific single-use products,0
+2018,LAO,Bans on specific single-use products,0
+2018,LBN,Bans on specific single-use products,0
+2018,LBR,Bans on specific single-use products,0
+2018,LBY,Bans on specific single-use products,0
+2018,LCA,Bans on specific single-use products,0
+2018,LSO,Bans on specific single-use products,0
+2018,LTU,Bans on specific single-use products,0
+2018,LUX,Bans on specific single-use products,0
+2018,LVA,Bans on specific single-use products,0
+2018,MAC,Bans on specific single-use products,0
+2018,MAF,Bans on specific single-use products,0
+2018,MAR,Bans on specific single-use products,0
+2018,MDA,Bans on specific single-use products,0
+2018,MDG,Bans on specific single-use products,0
+2018,MDV,Bans on specific single-use products,0
+2018,MEX,Bans on specific single-use products,0
+2018,MKD,Bans on specific single-use products,0
+2018,MLI,Bans on specific single-use products,0
+2018,MMR,Bans on specific single-use products,0
+2018,MNE,Bans on specific single-use products,0
+2018,MNG,Bans on specific single-use products,0
+2018,MNP,Bans on specific single-use products,0
+2018,MOZ,Bans on specific single-use products,0
+2018,MRT,Bans on specific single-use products,0
+2018,MSR,Bans on specific single-use products,0
+2018,MTQ,Bans on specific single-use products,0
+2018,MWI,Bans on specific single-use products,0
+2018,MYS,Bans on specific single-use products,0
+2018,MYT,Bans on specific single-use products,0
+2018,NAM,Bans on specific single-use products,0
+2018,NCL,Bans on specific single-use products,0
+2018,NER,Bans on specific single-use products,0
+2018,NFK,Bans on specific single-use products,0
+2018,NGA,Bans on specific single-use products,0
+2018,NIC,Bans on specific single-use products,0
+2018,NIU,Bans on specific single-use products,0
+2018,NLD,Bans on specific single-use products,0
+2018,NOR,Bans on specific single-use products,0
+2018,NPL,Bans on specific single-use products,0
+2018,NRU,Bans on specific single-use products,0
+2018,NZL,Bans on specific single-use products,0
+2018,OMN,Bans on specific single-use products,0
+2018,PAN,Bans on specific single-use products,0
+2018,PCN,Bans on specific single-use products,0
+2018,PER,Bans on specific single-use products,0
+2018,PHL,Bans on specific single-use products,0
+2018,PLW,Bans on specific single-use products,0
+2018,PNG,Bans on specific single-use products,0
+2018,POL,Bans on specific single-use products,0
+2018,PRI,Bans on specific single-use products,0
+2018,PRK,Bans on specific single-use products,0
+2018,PRT,Bans on specific single-use products,0
+2018,PRY,Bans on specific single-use products,0
+2018,PSE,Bans on specific single-use products,0
+2018,PYF,Bans on specific single-use products,0
+2018,QAT,Bans on specific single-use products,0
+2018,REU,Bans on specific single-use products,0
+2018,ROU,Bans on specific single-use products,0
+2018,RUS,Bans on specific single-use products,0
+2018,RWA,Bans on specific single-use products,0
+2018,SDN,Bans on specific single-use products,0
+2018,SEN,Bans on specific single-use products,0
+2018,SGP,Bans on specific single-use products,0
+2018,SGS,Bans on specific single-use products,0
+2018,SHN,Bans on specific single-use products,0
+2018,SJM,Bans on specific single-use products,0
+2018,SLB,Bans on specific single-use products,0
+2018,SLE,Bans on specific single-use products,0
+2018,SLV,Bans on specific single-use products,0
+2018,SOM,Bans on specific single-use products,0
+2018,SPM,Bans on specific single-use products,0
+2018,SRB,Bans on specific single-use products,0
+2018,SSD,Bans on specific single-use products,0
+2018,STP,Bans on specific single-use products,0
+2018,SUR,Bans on specific single-use products,0
+2018,SVK,Bans on specific single-use products,0
+2018,SVN,Bans on specific single-use products,0
+2018,SWE,Bans on specific single-use products,0
+2018,SWZ,Bans on specific single-use products,0
+2018,SXM,Bans on specific single-use products,0
+2018,SYR,Bans on specific single-use products,0
+2018,TCA,Bans on specific single-use products,0
+2018,TCD,Bans on specific single-use products,0
+2018,TGO,Bans on specific single-use products,0
+2018,THA,Bans on specific single-use products,0
+2018,TJK,Bans on specific single-use products,0
+2018,TKL,Bans on specific single-use products,0
+2018,TKM,Bans on specific single-use products,0
+2018,TLS,Bans on specific single-use products,0
+2018,TON,Bans on specific single-use products,0
+2018,TTO,Bans on specific single-use products,0
+2018,TUN,Bans on specific single-use products,0
+2018,TUR,Bans on specific single-use products,0
+2018,TZA,Bans on specific single-use products,0
+2018,UGA,Bans on specific single-use products,0
+2018,UKR,Bans on specific single-use products,0
+2018,UMI,Bans on specific single-use products,0
+2018,URY,Bans on specific single-use products,0
+2018,USA,Bans on specific single-use products,0
+2018,UZB,Bans on specific single-use products,0
+2018,VAT,Bans on specific single-use products,0
+2018,VEN,Bans on specific single-use products,0
+2018,VGB,Bans on specific single-use products,0
+2018,VIR,Bans on specific single-use products,0
+2018,VNM,Bans on specific single-use products,0
+2018,WLF,Bans on specific single-use products,0
+2018,WSM,Bans on specific single-use products,0
+2018,YEM,Bans on specific single-use products,0
+2018,ZAF,Bans on specific single-use products,0
+2018,ZMB,Bans on specific single-use products,0
+2018,ZWE,Bans on specific single-use products,0
 2018,AFG,Taxes on single-use plastics,0
 2018,ALA,Taxes on single-use plastics,0
 2018,DZA,Taxes on single-use plastics,0
@@ -805,224 +805,224 @@
 2018,YEM,Taxes on single-use plastics,0
 2018,ZMB,Taxes on single-use plastics,0
 2018,ZWE,Taxes on single-use plastics,0
-2018,AFG,Consumers fees charge on plastic bags,0
-2018,ALA,Consumers fees charge on plastic bags,0
-2018,ALB,Consumers fees charge on plastic bags,0
-2018,DZA,Consumers fees charge on plastic bags,0
-2018,ASM,Consumers fees charge on plastic bags,0
-2018,AGO,Consumers fees charge on plastic bags,0
-2018,AIA,Consumers fees charge on plastic bags,0
-2018,ATA,Consumers fees charge on plastic bags,0
-2018,ATG,Consumers fees charge on plastic bags,0
-2018,ARG,Consumers fees charge on plastic bags,0
-2018,ARM,Consumers fees charge on plastic bags,0
-2018,ABW,Consumers fees charge on plastic bags,0
-2018,AUS,Consumers fees charge on plastic bags,0
-2018,AUT,Consumers fees charge on plastic bags,0
-2018,AZE,Consumers fees charge on plastic bags,0
-2018,BHS,Consumers fees charge on plastic bags,0
-2018,BHR,Consumers fees charge on plastic bags,0
-2018,BGD,Consumers fees charge on plastic bags,0
-2018,BRB,Consumers fees charge on plastic bags,0
-2018,BLR,Consumers fees charge on plastic bags,0
-2018,BEL,Consumers fees charge on plastic bags,0
-2018,BLZ,Consumers fees charge on plastic bags,0
-2018,BEN,Consumers fees charge on plastic bags,0
-2018,BMU,Consumers fees charge on plastic bags,0
-2018,BTN,Consumers fees charge on plastic bags,0
-2018,BOL,Consumers fees charge on plastic bags,0
-2018,BES,Consumers fees charge on plastic bags,0
-2018,BWA,Consumers fees charge on plastic bags,0
-2018,BVT,Consumers fees charge on plastic bags,0
-2018,BRA,Consumers fees charge on plastic bags,0
-2018,IOT,Consumers fees charge on plastic bags,0
-2018,VGB,Consumers fees charge on plastic bags,0
-2018,BRN,Consumers fees charge on plastic bags,0
-2018,BFA,Consumers fees charge on plastic bags,0
-2018,BDI,Consumers fees charge on plastic bags,0
-2018,CPV,Consumers fees charge on plastic bags,0
-2018,KHM,Consumers fees charge on plastic bags,0
-2018,CMR,Consumers fees charge on plastic bags,0
-2018,CAN,Consumers fees charge on plastic bags,0
-2018,CYM,Consumers fees charge on plastic bags,0
-2018,CAF,Consumers fees charge on plastic bags,0
-2018,TCD,Consumers fees charge on plastic bags,0
-2018,CHL,Consumers fees charge on plastic bags,0
-2018,CXR,Consumers fees charge on plastic bags,0
-2018,CCK,Consumers fees charge on plastic bags,0
-2018,COM,Consumers fees charge on plastic bags,0
-2018,COG,Consumers fees charge on plastic bags,0
-2018,COK,Consumers fees charge on plastic bags,0
-2018,CRI,Consumers fees charge on plastic bags,0
-2018,CIV,Consumers fees charge on plastic bags,0
-2018,CUB,Consumers fees charge on plastic bags,0
-2018,CUW,Consumers fees charge on plastic bags,0
-2018,COD,Consumers fees charge on plastic bags,0
-2018,DNK,Consumers fees charge on plastic bags,0
-2018,DJI,Consumers fees charge on plastic bags,0
-2018,DMA,Consumers fees charge on plastic bags,0
-2018,DOM,Consumers fees charge on plastic bags,0
-2018,TLS,Consumers fees charge on plastic bags,0
-2018,ECU,Consumers fees charge on plastic bags,0
-2018,EGY,Consumers fees charge on plastic bags,0
-2018,SLV,Consumers fees charge on plastic bags,0
-2018,GNQ,Consumers fees charge on plastic bags,0
-2018,ERI,Consumers fees charge on plastic bags,0
-2018,SWZ,Consumers fees charge on plastic bags,0
-2018,ETH,Consumers fees charge on plastic bags,0
-2018,FLK,Consumers fees charge on plastic bags,0
-2018,FRO,Consumers fees charge on plastic bags,0
-2018,FIN,Consumers fees charge on plastic bags,0
-2018,FRA,Consumers fees charge on plastic bags,0
-2018,GUF,Consumers fees charge on plastic bags,0
-2018,PYF,Consumers fees charge on plastic bags,0
-2018,ATF,Consumers fees charge on plastic bags,0
-2018,GAB,Consumers fees charge on plastic bags,0
-2018,GMB,Consumers fees charge on plastic bags,0
-2018,GEO,Consumers fees charge on plastic bags,0
-2018,DEU,Consumers fees charge on plastic bags,0
-2018,GHA,Consumers fees charge on plastic bags,0
-2018,GIB,Consumers fees charge on plastic bags,0
-2018,GRL,Consumers fees charge on plastic bags,0
-2018,GRD,Consumers fees charge on plastic bags,0
-2018,GLP,Consumers fees charge on plastic bags,0
-2018,GUM,Consumers fees charge on plastic bags,0
-2018,GTM,Consumers fees charge on plastic bags,0
-2018,GGY,Consumers fees charge on plastic bags,0
-2018,GIN,Consumers fees charge on plastic bags,0
-2018,GNB,Consumers fees charge on plastic bags,0
-2018,GUY,Consumers fees charge on plastic bags,0
-2018,HTI,Consumers fees charge on plastic bags,0
-2018,HMD,Consumers fees charge on plastic bags,0
-2018,HND,Consumers fees charge on plastic bags,0
-2018,HKG,Consumers fees charge on plastic bags,0
-2018,HUN,Consumers fees charge on plastic bags,0
-2018,ISL,Consumers fees charge on plastic bags,0
-2018,IND,Consumers fees charge on plastic bags,0
-2018,IDN,Consumers fees charge on plastic bags,0
-2018,IRN,Consumers fees charge on plastic bags,0
-2018,IRQ,Consumers fees charge on plastic bags,0
-2018,IMN,Consumers fees charge on plastic bags,0
-2018,JAM,Consumers fees charge on plastic bags,0
-2018,JPN,Consumers fees charge on plastic bags,0
-2018,JEY,Consumers fees charge on plastic bags,0
-2018,JOR,Consumers fees charge on plastic bags,0
-2018,KAZ,Consumers fees charge on plastic bags,0
-2018,KEN,Consumers fees charge on plastic bags,0
-2018,KIR,Consumers fees charge on plastic bags,0
-2018,KWT,Consumers fees charge on plastic bags,0
-2018,KGZ,Consumers fees charge on plastic bags,0
-2018,LAO,Consumers fees charge on plastic bags,0
-2018,LVA,Consumers fees charge on plastic bags,0
-2018,LBN,Consumers fees charge on plastic bags,0
-2018,LSO,Consumers fees charge on plastic bags,0
-2018,LBR,Consumers fees charge on plastic bags,0
-2018,LBY,Consumers fees charge on plastic bags,0
-2018,LIE,Consumers fees charge on plastic bags,0
-2018,MAC,Consumers fees charge on plastic bags,0
-2018,MDG,Consumers fees charge on plastic bags,0
-2018,MWI,Consumers fees charge on plastic bags,0
-2018,MYS,Consumers fees charge on plastic bags,0
-2018,MDV,Consumers fees charge on plastic bags,0
-2018,MLI,Consumers fees charge on plastic bags,0
-2018,MLT,Consumers fees charge on plastic bags,0
-2018,MHL,Consumers fees charge on plastic bags,0
-2018,MTQ,Consumers fees charge on plastic bags,0
-2018,MRT,Consumers fees charge on plastic bags,0
-2018,MUS,Consumers fees charge on plastic bags,0
-2018,MYT,Consumers fees charge on plastic bags,0
-2018,MEX,Consumers fees charge on plastic bags,0
-2018,FSM,Consumers fees charge on plastic bags,0
-2018,MCO,Consumers fees charge on plastic bags,0
-2018,MNG,Consumers fees charge on plastic bags,0
-2018,MNE,Consumers fees charge on plastic bags,0
-2018,MSR,Consumers fees charge on plastic bags,0
-2018,MAR,Consumers fees charge on plastic bags,0
-2018,MOZ,Consumers fees charge on plastic bags,0
-2018,MMR,Consumers fees charge on plastic bags,0
-2018,NAM,Consumers fees charge on plastic bags,0
-2018,NRU,Consumers fees charge on plastic bags,0
-2018,NCL,Consumers fees charge on plastic bags,0
-2018,NZL,Consumers fees charge on plastic bags,0
-2018,NIC,Consumers fees charge on plastic bags,0
-2018,NER,Consumers fees charge on plastic bags,0
-2018,NGA,Consumers fees charge on plastic bags,0
-2018,NIU,Consumers fees charge on plastic bags,0
-2018,NFK,Consumers fees charge on plastic bags,0
-2018,PRK,Consumers fees charge on plastic bags,0
-2018,MNP,Consumers fees charge on plastic bags,0
-2018,NOR,Consumers fees charge on plastic bags,0
-2018,OMN,Consumers fees charge on plastic bags,0
-2018,PAK,Consumers fees charge on plastic bags,0
-2018,PLW,Consumers fees charge on plastic bags,0
-2018,PSE,Consumers fees charge on plastic bags,0
-2018,PAN,Consumers fees charge on plastic bags,0
-2018,PNG,Consumers fees charge on plastic bags,0
-2018,PER,Consumers fees charge on plastic bags,0
-2018,PHL,Consumers fees charge on plastic bags,0
-2018,PCN,Consumers fees charge on plastic bags,0
-2018,PRT,Consumers fees charge on plastic bags,0
-2018,PRI,Consumers fees charge on plastic bags,0
-2018,QAT,Consumers fees charge on plastic bags,0
-2018,REU,Consumers fees charge on plastic bags,0
-2018,ROU,Consumers fees charge on plastic bags,0
-2018,RUS,Consumers fees charge on plastic bags,0
-2018,RWA,Consumers fees charge on plastic bags,0
-2018,SHN,Consumers fees charge on plastic bags,0
-2018,KNA,Consumers fees charge on plastic bags,0
-2018,LCA,Consumers fees charge on plastic bags,0
-2018,SPM,Consumers fees charge on plastic bags,0
-2018,VCT,Consumers fees charge on plastic bags,0
-2018,BLM,Consumers fees charge on plastic bags,0
-2018,MAF,Consumers fees charge on plastic bags,0
-2018,WSM,Consumers fees charge on plastic bags,0
-2018,SMR,Consumers fees charge on plastic bags,0
-2018,STP,Consumers fees charge on plastic bags,0
-2018,SAU,Consumers fees charge on plastic bags,0
-2018,SRB,Consumers fees charge on plastic bags,0
-2018,SYC,Consumers fees charge on plastic bags,0
-2018,SLE,Consumers fees charge on plastic bags,0
-2018,SGP,Consumers fees charge on plastic bags,0
-2018,SXM,Consumers fees charge on plastic bags,0
-2018,SLB,Consumers fees charge on plastic bags,0
-2018,SOM,Consumers fees charge on plastic bags,0
-2018,ZAF,Consumers fees charge on plastic bags,0
-2018,SGS,Consumers fees charge on plastic bags,0
-2018,SSD,Consumers fees charge on plastic bags,0
-2018,LKA,Consumers fees charge on plastic bags,0
-2018,SDN,Consumers fees charge on plastic bags,0
-2018,SUR,Consumers fees charge on plastic bags,0
-2018,SJM,Consumers fees charge on plastic bags,0
-2018,SWE,Consumers fees charge on plastic bags,0
-2018,CHE,Consumers fees charge on plastic bags,0
-2018,SYR,Consumers fees charge on plastic bags,0
-2018,TJK,Consumers fees charge on plastic bags,0
-2018,TZA,Consumers fees charge on plastic bags,0
-2018,THA,Consumers fees charge on plastic bags,0
-2018,TGO,Consumers fees charge on plastic bags,0
-2018,TKL,Consumers fees charge on plastic bags,0
-2018,TON,Consumers fees charge on plastic bags,0
-2018,TTO,Consumers fees charge on plastic bags,0
-2018,TUN,Consumers fees charge on plastic bags,0
-2018,TKM,Consumers fees charge on plastic bags,0
-2018,TCA,Consumers fees charge on plastic bags,0
-2018,TUV,Consumers fees charge on plastic bags,0
-2018,UGA,Consumers fees charge on plastic bags,0
-2018,UKR,Consumers fees charge on plastic bags,0
-2018,ARE,Consumers fees charge on plastic bags,0
-2018,USA,Consumers fees charge on plastic bags,0
-2018,UMI,Consumers fees charge on plastic bags,0
-2018,URY,Consumers fees charge on plastic bags,0
-2018,VUT,Consumers fees charge on plastic bags,0
-2018,VAT,Consumers fees charge on plastic bags,0
-2018,VEN,Consumers fees charge on plastic bags,0
-2018,VNM,Consumers fees charge on plastic bags,0
-2018,VIR,Consumers fees charge on plastic bags,0
-2018,WLF,Consumers fees charge on plastic bags,0
-2018,ESH,Consumers fees charge on plastic bags,0
-2018,YEM,Consumers fees charge on plastic bags,0
-2018,ZMB,Consumers fees charge on plastic bags,0
-2018,ZWE,Consumers fees charge on plastic bags,0
+2018,AFG,Consumer fee on plastic bags,0
+2018,ALA,Consumer fee on plastic bags,0
+2018,ALB,Consumer fee on plastic bags,0
+2018,DZA,Consumer fee on plastic bags,0
+2018,ASM,Consumer fee on plastic bags,0
+2018,AGO,Consumer fee on plastic bags,0
+2018,AIA,Consumer fee on plastic bags,0
+2018,ATA,Consumer fee on plastic bags,0
+2018,ATG,Consumer fee on plastic bags,0
+2018,ARG,Consumer fee on plastic bags,0
+2018,ARM,Consumer fee on plastic bags,0
+2018,ABW,Consumer fee on plastic bags,0
+2018,AUS,Consumer fee on plastic bags,0
+2018,AUT,Consumer fee on plastic bags,0
+2018,AZE,Consumer fee on plastic bags,0
+2018,BHS,Consumer fee on plastic bags,0
+2018,BHR,Consumer fee on plastic bags,0
+2018,BGD,Consumer fee on plastic bags,0
+2018,BRB,Consumer fee on plastic bags,0
+2018,BLR,Consumer fee on plastic bags,0
+2018,BEL,Consumer fee on plastic bags,0
+2018,BLZ,Consumer fee on plastic bags,0
+2018,BEN,Consumer fee on plastic bags,0
+2018,BMU,Consumer fee on plastic bags,0
+2018,BTN,Consumer fee on plastic bags,0
+2018,BOL,Consumer fee on plastic bags,0
+2018,BES,Consumer fee on plastic bags,0
+2018,BWA,Consumer fee on plastic bags,0
+2018,BVT,Consumer fee on plastic bags,0
+2018,BRA,Consumer fee on plastic bags,0
+2018,IOT,Consumer fee on plastic bags,0
+2018,VGB,Consumer fee on plastic bags,0
+2018,BRN,Consumer fee on plastic bags,0
+2018,BFA,Consumer fee on plastic bags,0
+2018,BDI,Consumer fee on plastic bags,0
+2018,CPV,Consumer fee on plastic bags,0
+2018,KHM,Consumer fee on plastic bags,0
+2018,CMR,Consumer fee on plastic bags,0
+2018,CAN,Consumer fee on plastic bags,0
+2018,CYM,Consumer fee on plastic bags,0
+2018,CAF,Consumer fee on plastic bags,0
+2018,TCD,Consumer fee on plastic bags,0
+2018,CHL,Consumer fee on plastic bags,0
+2018,CXR,Consumer fee on plastic bags,0
+2018,CCK,Consumer fee on plastic bags,0
+2018,COM,Consumer fee on plastic bags,0
+2018,COG,Consumer fee on plastic bags,0
+2018,COK,Consumer fee on plastic bags,0
+2018,CRI,Consumer fee on plastic bags,0
+2018,CIV,Consumer fee on plastic bags,0
+2018,CUB,Consumer fee on plastic bags,0
+2018,CUW,Consumer fee on plastic bags,0
+2018,COD,Consumer fee on plastic bags,0
+2018,DNK,Consumer fee on plastic bags,0
+2018,DJI,Consumer fee on plastic bags,0
+2018,DMA,Consumer fee on plastic bags,0
+2018,DOM,Consumer fee on plastic bags,0
+2018,TLS,Consumer fee on plastic bags,0
+2018,ECU,Consumer fee on plastic bags,0
+2018,EGY,Consumer fee on plastic bags,0
+2018,SLV,Consumer fee on plastic bags,0
+2018,GNQ,Consumer fee on plastic bags,0
+2018,ERI,Consumer fee on plastic bags,0
+2018,SWZ,Consumer fee on plastic bags,0
+2018,ETH,Consumer fee on plastic bags,0
+2018,FLK,Consumer fee on plastic bags,0
+2018,FRO,Consumer fee on plastic bags,0
+2018,FIN,Consumer fee on plastic bags,0
+2018,FRA,Consumer fee on plastic bags,0
+2018,GUF,Consumer fee on plastic bags,0
+2018,PYF,Consumer fee on plastic bags,0
+2018,ATF,Consumer fee on plastic bags,0
+2018,GAB,Consumer fee on plastic bags,0
+2018,GMB,Consumer fee on plastic bags,0
+2018,GEO,Consumer fee on plastic bags,0
+2018,DEU,Consumer fee on plastic bags,0
+2018,GHA,Consumer fee on plastic bags,0
+2018,GIB,Consumer fee on plastic bags,0
+2018,GRL,Consumer fee on plastic bags,0
+2018,GRD,Consumer fee on plastic bags,0
+2018,GLP,Consumer fee on plastic bags,0
+2018,GUM,Consumer fee on plastic bags,0
+2018,GTM,Consumer fee on plastic bags,0
+2018,GGY,Consumer fee on plastic bags,0
+2018,GIN,Consumer fee on plastic bags,0
+2018,GNB,Consumer fee on plastic bags,0
+2018,GUY,Consumer fee on plastic bags,0
+2018,HTI,Consumer fee on plastic bags,0
+2018,HMD,Consumer fee on plastic bags,0
+2018,HND,Consumer fee on plastic bags,0
+2018,HKG,Consumer fee on plastic bags,0
+2018,HUN,Consumer fee on plastic bags,0
+2018,ISL,Consumer fee on plastic bags,0
+2018,IND,Consumer fee on plastic bags,0
+2018,IDN,Consumer fee on plastic bags,0
+2018,IRN,Consumer fee on plastic bags,0
+2018,IRQ,Consumer fee on plastic bags,0
+2018,IMN,Consumer fee on plastic bags,0
+2018,JAM,Consumer fee on plastic bags,0
+2018,JPN,Consumer fee on plastic bags,0
+2018,JEY,Consumer fee on plastic bags,0
+2018,JOR,Consumer fee on plastic bags,0
+2018,KAZ,Consumer fee on plastic bags,0
+2018,KEN,Consumer fee on plastic bags,0
+2018,KIR,Consumer fee on plastic bags,0
+2018,KWT,Consumer fee on plastic bags,0
+2018,KGZ,Consumer fee on plastic bags,0
+2018,LAO,Consumer fee on plastic bags,0
+2018,LVA,Consumer fee on plastic bags,0
+2018,LBN,Consumer fee on plastic bags,0
+2018,LSO,Consumer fee on plastic bags,0
+2018,LBR,Consumer fee on plastic bags,0
+2018,LBY,Consumer fee on plastic bags,0
+2018,LIE,Consumer fee on plastic bags,0
+2018,MAC,Consumer fee on plastic bags,0
+2018,MDG,Consumer fee on plastic bags,0
+2018,MWI,Consumer fee on plastic bags,0
+2018,MYS,Consumer fee on plastic bags,0
+2018,MDV,Consumer fee on plastic bags,0
+2018,MLI,Consumer fee on plastic bags,0
+2018,MLT,Consumer fee on plastic bags,0
+2018,MHL,Consumer fee on plastic bags,0
+2018,MTQ,Consumer fee on plastic bags,0
+2018,MRT,Consumer fee on plastic bags,0
+2018,MUS,Consumer fee on plastic bags,0
+2018,MYT,Consumer fee on plastic bags,0
+2018,MEX,Consumer fee on plastic bags,0
+2018,FSM,Consumer fee on plastic bags,0
+2018,MCO,Consumer fee on plastic bags,0
+2018,MNG,Consumer fee on plastic bags,0
+2018,MNE,Consumer fee on plastic bags,0
+2018,MSR,Consumer fee on plastic bags,0
+2018,MAR,Consumer fee on plastic bags,0
+2018,MOZ,Consumer fee on plastic bags,0
+2018,MMR,Consumer fee on plastic bags,0
+2018,NAM,Consumer fee on plastic bags,0
+2018,NRU,Consumer fee on plastic bags,0
+2018,NCL,Consumer fee on plastic bags,0
+2018,NZL,Consumer fee on plastic bags,0
+2018,NIC,Consumer fee on plastic bags,0
+2018,NER,Consumer fee on plastic bags,0
+2018,NGA,Consumer fee on plastic bags,0
+2018,NIU,Consumer fee on plastic bags,0
+2018,NFK,Consumer fee on plastic bags,0
+2018,PRK,Consumer fee on plastic bags,0
+2018,MNP,Consumer fee on plastic bags,0
+2018,NOR,Consumer fee on plastic bags,0
+2018,OMN,Consumer fee on plastic bags,0
+2018,PAK,Consumer fee on plastic bags,0
+2018,PLW,Consumer fee on plastic bags,0
+2018,PSE,Consumer fee on plastic bags,0
+2018,PAN,Consumer fee on plastic bags,0
+2018,PNG,Consumer fee on plastic bags,0
+2018,PER,Consumer fee on plastic bags,0
+2018,PHL,Consumer fee on plastic bags,0
+2018,PCN,Consumer fee on plastic bags,0
+2018,PRT,Consumer fee on plastic bags,0
+2018,PRI,Consumer fee on plastic bags,0
+2018,QAT,Consumer fee on plastic bags,0
+2018,REU,Consumer fee on plastic bags,0
+2018,ROU,Consumer fee on plastic bags,0
+2018,RUS,Consumer fee on plastic bags,0
+2018,RWA,Consumer fee on plastic bags,0
+2018,SHN,Consumer fee on plastic bags,0
+2018,KNA,Consumer fee on plastic bags,0
+2018,LCA,Consumer fee on plastic bags,0
+2018,SPM,Consumer fee on plastic bags,0
+2018,VCT,Consumer fee on plastic bags,0
+2018,BLM,Consumer fee on plastic bags,0
+2018,MAF,Consumer fee on plastic bags,0
+2018,WSM,Consumer fee on plastic bags,0
+2018,SMR,Consumer fee on plastic bags,0
+2018,STP,Consumer fee on plastic bags,0
+2018,SAU,Consumer fee on plastic bags,0
+2018,SRB,Consumer fee on plastic bags,0
+2018,SYC,Consumer fee on plastic bags,0
+2018,SLE,Consumer fee on plastic bags,0
+2018,SGP,Consumer fee on plastic bags,0
+2018,SXM,Consumer fee on plastic bags,0
+2018,SLB,Consumer fee on plastic bags,0
+2018,SOM,Consumer fee on plastic bags,0
+2018,ZAF,Consumer fee on plastic bags,0
+2018,SGS,Consumer fee on plastic bags,0
+2018,SSD,Consumer fee on plastic bags,0
+2018,LKA,Consumer fee on plastic bags,0
+2018,SDN,Consumer fee on plastic bags,0
+2018,SUR,Consumer fee on plastic bags,0
+2018,SJM,Consumer fee on plastic bags,0
+2018,SWE,Consumer fee on plastic bags,0
+2018,CHE,Consumer fee on plastic bags,0
+2018,SYR,Consumer fee on plastic bags,0
+2018,TJK,Consumer fee on plastic bags,0
+2018,TZA,Consumer fee on plastic bags,0
+2018,THA,Consumer fee on plastic bags,0
+2018,TGO,Consumer fee on plastic bags,0
+2018,TKL,Consumer fee on plastic bags,0
+2018,TON,Consumer fee on plastic bags,0
+2018,TTO,Consumer fee on plastic bags,0
+2018,TUN,Consumer fee on plastic bags,0
+2018,TKM,Consumer fee on plastic bags,0
+2018,TCA,Consumer fee on plastic bags,0
+2018,TUV,Consumer fee on plastic bags,0
+2018,UGA,Consumer fee on plastic bags,0
+2018,UKR,Consumer fee on plastic bags,0
+2018,ARE,Consumer fee on plastic bags,0
+2018,USA,Consumer fee on plastic bags,0
+2018,UMI,Consumer fee on plastic bags,0
+2018,URY,Consumer fee on plastic bags,0
+2018,VUT,Consumer fee on plastic bags,0
+2018,VAT,Consumer fee on plastic bags,0
+2018,VEN,Consumer fee on plastic bags,0
+2018,VNM,Consumer fee on plastic bags,0
+2018,VIR,Consumer fee on plastic bags,0
+2018,WLF,Consumer fee on plastic bags,0
+2018,ESH,Consumer fee on plastic bags,0
+2018,YEM,Consumer fee on plastic bags,0
+2018,ZMB,Consumer fee on plastic bags,0
+2018,ZWE,Consumer fee on plastic bags,0
 2018,AFG,Taxes on manufacture and production of plastic bags,0
 2018,ALA,Taxes on manufacture and production of plastic bags,0
 2018,DZA,Taxes on manufacture and production of plastic bags,0
