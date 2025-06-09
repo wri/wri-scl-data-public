@@ -1,0 +1,27 @@
+﻿year,geo,disagg_type,disagg,value
+2021,WLD,All,Total,52
+2022,WLD,All,Total,64
+2021,WLD,Public Finance,Total,37
+2022,WLD,Public Finance,Total,47
+2021,WLD,Private Finance,Total,15
+2022,WLD,Private Finance,Total,17
+2021,WLD,Public Finance,"Sustainable agriculture, forestry and fishing",32
+2021,WLD,Public Finance,Biodiversity and landscape,3.5
+2021,WLD,Public Finance,ODA,1
+2021,WLD,Public Finance,Environmental policy and other,0.7
+2021,WLD,Private Finance,Biodiversity offsets and credits,10
+2021,WLD,Private Finance,Conservation NGOs,1.6
+2021,WLD,Private Finance,Farmer's investments,1.5
+2021,WLD,Private Finance,Philanthropy,1
+2021,WLD,Private Finance,Impact investing,0.4
+2021,WLD,Private Finance,Carbon markets,0.011
+2022,WLD,Public Finance,"Sustainable agriculture, forestry and fishing",42
+2022,WLD,Public Finance,Biodiversity and landscape,3.8
+2022,WLD,Public Finance,ODA,1.2
+2022,WLD,Public Finance,Environmental policy and other,0.7
+2022,WLD,Private Finance,Biodiversity offsets and credits,12
+2022,WLD,Private Finance,Conservation NGOs,1.9
+2022,WLD,Private Finance,Farmer's investments,1.5
+2022,WLD,Private Finance,Philanthropy,1.3
+2022,WLD,Private Finance,Impact investing,0.7
+2022,WLD,Private Finance,Carbon markets,0.044
