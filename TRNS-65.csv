@@ -1,0 +1,41 @@
+year,geo,disagg,value
+2015,WLD,Total,191
+2016,WLD,Total,205
+2017,WLD,Total,205
+2018,WLD,Total,248
+2019,WLD,Total,304
+2020,WLD,Total,300
+2021,WLD,Total,296
+2022,WLD,Total,320
+2023,WLD,Total,337
+2024,WLD,Total,339
+2015,WLD,Small car,145
+2016,WLD,Small car,134
+2017,WLD,Small car,142
+2018,WLD,Small car,167
+2019,WLD,Small car,191
+2020,WLD,Small car,196
+2021,WLD,Small car,154
+2022,WLD,Small car,146
+2023,WLD,Small car,155
+2024,WLD,Small car,156
+2015,WLD,Medium car,153
+2016,WLD,Medium car,192
+2017,WLD,Medium car,224
+2018,WLD,Medium car,248
+2019,WLD,Medium car,307
+2020,WLD,Medium car,359
+2021,WLD,Medium car,342
+2022,WLD,Medium car,344
+2023,WLD,Medium car,358
+2024,WLD,Medium car,352
+2015,WLD,Large car,383
+2016,WLD,Large car,372
+2017,WLD,Large car,339
+2018,WLD,Large car,315
+2019,WLD,Large car,338
+2020,WLD,Large car,324
+2021,WLD,Large car,312
+2022,WLD,Large car,358
+2023,WLD,Large car,365
+2024,WLD,Large car,351
