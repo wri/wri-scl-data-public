@@ -1,10 +1,6 @@
 year,geo,disagg_type,disagg,value
 2021,WLD,All,Total,52
 2022,WLD,All,Total,64
-2021,WLD,Public Finance,Total,37
-2022,WLD,Public Finance,Total,47
-2021,WLD,Private Finance,Total,15
-2022,WLD,Private Finance,Total,17
 2021,WLD,Public Finance,"Sustainable agriculture, forestry and fishing",32
 2021,WLD,Public Finance,Biodiversity and landscape,3.5
 2021,WLD,Public Finance,ODA,1
