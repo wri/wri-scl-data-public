@@ -1,467 +1,885 @@
-year,geo,value
-2022,WLD,121
-2023,WLD,156
-2024,WLD,158
-2022,ALB,1
-2022,AND,1
-2022,ATG,1
-2022,ARG,1
-2022,ARM,1
-2022,AUS,1
-2022,AUT,1
-2022,BHR,1
-2022,BGD,1
-2022,BRB,1
-2022,BEL,1
-2022,BLZ,1
-2022,BEN,1
-2022,BIH,1
-2022,BRA,1
-2022,BGR,1
-2022,BFA,1
-2022,CPV,1
-2022,KHM,1
-2022,CMR,1
-2022,CAN,1
-2022,CAF,1
-2022,TCD,1
-2022,CHL,1
-2022,COL,1
-2022,COM,1
-2022,COD,1
-2022,COG,1
-2022,COK,1
-2022,CRI,1
-2022,CIV,1
-2022,HRV,1
-2022,CUB,1
-2022,CYP,1
-2022,CZE,1
-2022,DNK,1
-2022,DJI,1
-2022,DMA,1
-2022,DOM,1
-2022,ECU,1
-2022,EGY,1
-2022,SLV,1
-2022,GNQ,1
-2022,EST,1
-2022,SWZ,1
-2022,ETH,1
-2022,EUU,1
-2022,FJI,1
-2022,FIN,1
-2022,FRA,1
-2022,GAB,1
-2022,GMB,1
-2022,GEO,1
-2022,DEU,1
-2022,GHA,1
-2022,GRC,1
-2022,GRD,1
-2022,GUY,1
-2022,HND,1
-2022,ISL,1
-2022,IDN,1
-2022,IRQ,1
-2022,IRL,1
-2022,ISR,1
-2022,ITA,1
-2022,JAM,1
-2022,JPN,1
-2022,JOR,1
-2022,KOS,1
-2022,KWT,1
-2022,KGZ,1
-2022,LBN,1
-2022,LSO,1
-2022,LBR,1
-2022,LBY,1
-2022,LIE,1
-2022,LUX,1
-2022,MWI,1
-2022,MYS,1
-2022,MLI,1
-2022,MLT,1
-2022,MHL,1
-2022,MRT,1
-2022,MEX,1
-2022,FSM,1
-2022,MDA,1
-2022,MCO,1
-2022,MNG,1
-2022,MNE,1
-2022,MAR,1
-2022,MOZ,1
-2022,NAM,1
-2022,NRU,1
-2022,NPL,1
-2022,NLD,1
-2022,NZL,1
-2022,NER,1
-2022,NGA,1
-2022,NIU,1
-2022,MKD,1
-2022,NOR,1
-2022,OMN,1
-2022,PAK,1
-2022,PLW,1
-2022,PAN,1
-2022,PNG,1
-2022,PER,1
-2022,PHL,1
-2022,PRT,1
-2022,QAT,1
-2022,RWA,1
-2022,KNA,1
-2022,LCA,1
-2022,WSM,1
-2022,SMR,1
-2022,STP,1
-2022,SAU,1
-2022,SEN,1
-2022,SRB,1
-2022,SYC,1
-2022,SLE,1
-2022,SGP,1
-2022,SVK,1
-2022,SVN,1
-2022,SLB,1
-2022,SOM,1
-2022,KOR,1
-2022,ESP,1
-2022,LKA,1
-2022,SDN,1
-2022,SUR,1
-2022,SWE,1
-2022,CHE,1
-2022,TLS,1
-2022,TGO,1
-2022,TON,1
-2022,TTO,1
-2022,TUN,1
-2022,TUV,1
-2022,UKR,1
-2022,ARE,1
-2022,GBR,1
-2022,USA,1
-2022,URY,1
-2022,UZB,1
-2022,VUT,1
-2022,VNM,1
-2022,YEM,1
-2022,ZMB,1
-2023,ALB,1
-2023,AND,1
-2023,AGO,1
-2023,ATG,1
-2023,ARG,1
-2023,ARM,1
-2023,AUS,1
-2023,AUT,1
-2023,BHR,1
-2023,BGD,1
-2023,BRB,1
-2023,BEL,1
-2023,BLZ,1
-2023,BEN,1
-2023,BIH,1
-2023,BRA,1
-2023,BGR,1
-2023,BFA,1
-2023,CPV,1
-2023,KHM,1
-2023,CMR,1
-2023,CAN,1
-2023,CAF,1
-2023,TCD,1
-2023,CHL,1
-2023,COL,1
-2023,COM,1
-2023,COD,1
-2023,COG,1
-2023,COK,1
-2023,CRI,1
-2023,CIV,1
-2023,HRV,1
-2023,CUB,1
-2023,CYP,1
-2023,CZE,1
-2023,DNK,1
-2023,DJI,1
-2023,DMA,1
-2023,DOM,1
-2023,ECU,1
-2023,EGY,1
-2023,SLV,1
-2023,GNQ,1
-2023,EST,1
-2023,SWZ,1
-2023,ETH,1
-2023,EUU,1
-2023,FJI,1
-2023,FIN,1
-2023,FRA,1
-2023,GAB,1
-2023,GMB,1
-2023,GEO,1
-2023,DEU,1
-2023,GHA,1
-2023,GRC,1
-2023,GRD,1
-2023,GIN,1
-2023,GUY,1
-2023,HTI,1
-2023,HND,1
-2023,ISL,1
-2023,IDN,1
-2023,IRQ,1
-2023,IRL,1
-2023,ISR,1
-2023,ITA,1
-2023,JAM,1
-2023,JPN,1
-2023,JOR,1
-2023,KAZ,1
-2023,KEN,1
-2023,KOR,1
-2023,KOS,1
-2023,KWT,1
-2023,KGZ,1
-2023,LBN,1
-2023,LSO,1
-2023,LBR,1
-2023,LBY,1
-2023,LIE,1
-2023,LUX,1
-2023,MWI,1
-2023,MYS,1
-2023,MLI,1
-2023,MLT,1
-2023,MHL,1
-2023,MRT,1
-2023,MEX,1
-2023,FSM,1
-2023,MDA,1
-2023,MCO,1
-2023,MNG,1
-2023,MNE,1
-2023,MAR,1
-2023,MOZ,1
-2023,NAM,1
-2023,NRU,1
-2023,NPL,1
-2023,NLD,1
-2023,NZL,1
-2023,NER,1
-2023,NGA,1
-2023,NIU,1
-2023,MKD,1
-2023,NOR,1
-2023,OMN,1
-2023,PAK,1
-2023,PLW,1
-2023,PAN,1
-2023,PNG,1
-2023,PER,1
-2023,PHL,1
-2023,PRT,1
-2023,QAT,1
-2023,ROU,1
-2023,RWA,1
-2023,KNA,1
-2023,LCA,1
-2023,WSM,1
-2023,SMR,1
-2023,STP,1
-2023,SAU,1
-2023,SEN,1
-2023,SRB,1
-2023,SYC,1
-2023,SLE,1
-2023,SGP,1
-2023,SVK,1
-2023,SVN,1
-2023,SLB,1
-2023,SOM,1
-2023,ESP,1
-2023,LKA,1
-2023,SDN,1
-2023,SUR,1
-2023,SWE,1
-2023,CHE,1
-2023,TLS,1
-2023,TGO,1
-2023,TON,1
-2023,TTO,1
-2023,TUN,1
-2023,TKM,1
-2023,TUV,1
-2023,UKR,1
-2023,ARE,1
-2023,GBR,1
-2023,USA,1
-2023,URY,1
-2023,UZB,1
-2023,VUT,1
-2023,VNM,1
-2023,YEM,1
-2023,ZMB,1
-2024,ALB,1
-2024,AND,1
-2024,AGO,1
-2024,ATG,1
-2024,ARG,1
-2024,ARM,1
-2024,AUS,1
-2024,AUT,1
-2024,AZE,1
-2024,BHR,1
-2024,BGD,1
-2024,BRB,1
-2024,BEL,1
-2024,BLZ,1
-2024,BEN,1
-2024,BIH,1
-2024,BRA,1
-2024,BGR,1
-2024,BFA,1
-2024,CPV,1
-2024,KHM,1
-2024,CMR,1
-2024,CAN,1
-2024,CAF,1
-2024,TCD,1
-2024,CHL,1
-2024,COL,1
-2024,COM,1
-2024,COD,1
-2024,COG,1
-2024,COK,1
-2024,CRI,1
-2024,CIV,1
-2024,HRV,1
-2024,CUB,1
-2024,CYP,1
-2024,CZE,1
-2024,DNK,1
-2024,DJI,1
-2024,DMA,1
-2024,DOM,1
-2024,ECU,1
-2024,EGY,1
-2024,SLV,1
-2024,GNQ,1
-2024,EST,1
-2024,SWZ,1
-2024,ETH,1
-2024,EUU,1
-2024,FJI,1
-2024,FIN,1
-2024,FRA,1
-2024,GAB,1
-2024,GMB,1
-2024,GEO,1
-2024,DEU,1
-2024,GHA,1
-2024,GRC,1
-2024,GRD,1
-2024,GIN,1
-2024,GUY,1
-2024,HTI,1
-2024,HND,1
-2024,ISL,1
-2024,IDN,1
-2024,IRQ,1
-2024,IRL,1
-2024,ISR,1
-2024,ITA,1
-2024,JAM,1
-2024,JPN,1
-2024,JOR,1
-2024,KAZ,1
-2024,KEN,1
-2024,KOR,1
-2024,KOS,1
-2024,KWT,1
-2024,KGZ,1
-2024,LBN,1
-2024,LSO,1
-2024,LBR,1
-2024,LBY,1
-2024,LIE,1
-2024,LUX,1
-2024,MWI,1
-2024,MYS,1
-2024,MLI,1
-2024,MLT,1
-2024,MHL,1
-2024,MRT,1
-2024,MEX,1
-2024,FSM,1
-2024,MDA,1
-2024,MCO,1
-2024,MNG,1
-2024,MNE,1
-2024,MAR,1
-2024,MOZ,1
-2024,NAM,1
-2024,NRU,1
-2024,NPL,1
-2024,NLD,1
-2024,NZL,1
-2024,NER,1
-2024,NGA,1
-2024,NIU,1
-2024,MKD,1
-2024,NOR,1
-2024,OMN,1
-2024,PAK,1
-2024,PLW,1
-2024,PAN,1
-2024,PNG,1
-2024,PER,1
-2024,PHL,1
-2024,PRT,1
-2024,QAT,1
-2024,ROU,1
-2024,RWA,1
-2024,KNA,1
-2024,LCA,1
-2024,WSM,1
-2024,SMR,1
-2024,STP,1
-2024,SAU,1
-2024,SEN,1
-2024,SRB,1
-2024,SYC,1
-2024,SLE,1
-2024,SGP,1
-2024,SVK,1
-2024,SVN,1
-2024,SLB,1
-2024,SOM,1
-2024,ESP,1
-2024,LKA,1
-2024,SDN,1
-2024,SUR,1
-2024,SWE,1
-2024,CHE,1
-2024,TLS,1
-2024,TGO,1
-2024,TON,1
-2024,TTO,1
-2024,TUN,1
-2024,TKM,1
-2024,TUV,1
-2024,UKR,1
-2024,ARE,1
-2024,GBR,1
-2024,USA,1
-2024,URY,1
-2024,UZB,1
-2024,VUT,1
-2024,VNM,1
-2024,YEM,1
-2024,ZMB,1
-2024,TJK,1
+year,geo,disagg,value
+2022,WLD,Global Methane Pledge,120
+2023,WLD,Global Methane Pledge,155
+2024,WLD,Global Methane Pledge,157
+2025,WLD,Global Methane Pledge,159
+2015,WLD,Zero Routing Flaring Initiative,14
+2016,WLD,Zero Routing Flaring Initiative,20
+2017,WLD,Zero Routing Flaring Initiative,25
+2018,WLD,Zero Routing Flaring Initiative,28
+2019,WLD,Zero Routing Flaring Initiative,30
+2020,WLD,Zero Routing Flaring Initiative,31
+2021,WLD,Zero Routing Flaring Initiative,31
+2022,WLD,Zero Routing Flaring Initiative,31
+2023,WLD,Zero Routing Flaring Initiative,32
+2024,WLD,Zero Routing Flaring Initiative,33
+2022,ALB,Global Methane Pledge,1
+2022,AND,Global Methane Pledge,1
+2022,ATG,Global Methane Pledge,1
+2022,ARG,Global Methane Pledge,1
+2022,ARM,Global Methane Pledge,1
+2022,BHR,Global Methane Pledge,1
+2022,BRB,Global Methane Pledge,1
+2022,BEL,Global Methane Pledge,1
+2022,BLZ,Global Methane Pledge,1
+2022,BEN,Global Methane Pledge,1
+2022,BIH,Global Methane Pledge,1
+2022,BRA,Global Methane Pledge,1
+2022,BGR,Global Methane Pledge,1
+2022,BFA,Global Methane Pledge,1
+2022,KHM,Global Methane Pledge,1
+2022,CMR,Global Methane Pledge,1
+2022,CAN,Global Methane Pledge,1
+2022,CAF,Global Methane Pledge,1
+2022,CHL,Global Methane Pledge,1
+2022,COL,Global Methane Pledge,1
+2022,COD,Global Methane Pledge,1
+2022,COG,Global Methane Pledge,1
+2022,CRI,Global Methane Pledge,1
+2022,CIV,Global Methane Pledge,1
+2022,HRV,Global Methane Pledge,1
+2022,CUB,Global Methane Pledge,1
+2022,CYP,Global Methane Pledge,1
+2022,DNK,Global Methane Pledge,1
+2022,DJI,Global Methane Pledge,1
+2022,DOM,Global Methane Pledge,1
+2022,ECU,Global Methane Pledge,1
+2022,EGY,Global Methane Pledge,1
+2022,SLV,Global Methane Pledge,1
+2022,EST,Global Methane Pledge,1
+2022,ETH,Global Methane Pledge,1
+2022,EUU,Global Methane Pledge,1
+2022,FJI,Global Methane Pledge,1
+2022,FIN,Global Methane Pledge,1
+2022,FRA,Global Methane Pledge,1
+2022,GAB,Global Methane Pledge,1
+2022,GMB,Global Methane Pledge,1
+2022,GEO,Global Methane Pledge,1
+2022,DEU,Global Methane Pledge,1
+2022,GHA,Global Methane Pledge,1
+2022,GRC,Global Methane Pledge,1
+2022,GRD,Global Methane Pledge,1
+2022,GTM,Global Methane Pledge,1
+2022,GUY,Global Methane Pledge,1
+2022,HND,Global Methane Pledge,1
+2022,ISL,Global Methane Pledge,1
+2022,IDN,Global Methane Pledge,1
+2022,IRQ,Global Methane Pledge,1
+2022,IRL,Global Methane Pledge,1
+2022,ISR,Global Methane Pledge,1
+2022,ITA,Global Methane Pledge,1
+2022,JAM,Global Methane Pledge,1
+2022,JPN,Global Methane Pledge,1
+2022,JOR,Global Methane Pledge,1
+2022,KOS,Global Methane Pledge,1
+2022,KWT,Global Methane Pledge,1
+2022,KGZ,Global Methane Pledge,1
+2022,LBR,Global Methane Pledge,1
+2022,LBY,Global Methane Pledge,1
+2022,LIE,Global Methane Pledge,1
+2022,LUX,Global Methane Pledge,1
+2022,MWI,Global Methane Pledge,1
+2022,MYS,Global Methane Pledge,1
+2022,MLI,Global Methane Pledge,1
+2022,MLT,Global Methane Pledge,1
+2022,MHL,Global Methane Pledge,1
+2022,MEX,Global Methane Pledge,1
+2022,FSM,Global Methane Pledge,1
+2022,MDA,Global Methane Pledge,1
+2022,MCO,Global Methane Pledge,1
+2022,MNE,Global Methane Pledge,1
+2022,MAR,Global Methane Pledge,1
+2022,NRU,Global Methane Pledge,1
+2022,NPL,Global Methane Pledge,1
+2022,NLD,Global Methane Pledge,1
+2022,NZL,Global Methane Pledge,1
+2022,NGA,Global Methane Pledge,1
+2022,NIU,Global Methane Pledge,1
+2022,MKD,Global Methane Pledge,1
+2022,NOR,Global Methane Pledge,1
+2022,OMN,Global Methane Pledge,1
+2022,PAK,Global Methane Pledge,1
+2022,PLW,Global Methane Pledge,1
+2022,PAN,Global Methane Pledge,1
+2022,PNG,Global Methane Pledge,1
+2022,PER,Global Methane Pledge,1
+2022,PHL,Global Methane Pledge,1
+2022,PRT,Global Methane Pledge,1
+2022,QAT,Global Methane Pledge,1
+2022,RWA,Global Methane Pledge,1
+2022,KNA,Global Methane Pledge,1
+2022,LCA,Global Methane Pledge,1
+2022,WSM,Global Methane Pledge,1
+2022,SAU,Global Methane Pledge,1
+2022,SEN,Global Methane Pledge,1
+2022,SRB,Global Methane Pledge,1
+2022,SGP,Global Methane Pledge,1
+2022,SVN,Global Methane Pledge,1
+2022,KOR,Global Methane Pledge,1
+2022,ESP,Global Methane Pledge,1
+2022,SUR,Global Methane Pledge,1
+2022,SWE,Global Methane Pledge,1
+2022,CHE,Global Methane Pledge,1
+2022,TLS,Global Methane Pledge,1
+2022,TGO,Global Methane Pledge,1
+2022,TON,Global Methane Pledge,1
+2022,TTO,Global Methane Pledge,1
+2022,TUN,Global Methane Pledge,1
+2022,UKR,Global Methane Pledge,1
+2022,UAE,Global Methane Pledge,1
+2022,GBR,Global Methane Pledge,1
+2022,USA,Global Methane Pledge,1
+2022,URY,Global Methane Pledge,1
+2022,UZB,Global Methane Pledge,1
+2022,VUT,Global Methane Pledge,1
+2022,VNM,Global Methane Pledge,1
+2022,ZMB,Global Methane Pledge,1
+2023,ALB,Global Methane Pledge,1
+2023,AND,Global Methane Pledge,1
+2023,AGO,Global Methane Pledge,1
+2023,ATG,Global Methane Pledge,1
+2023,ARG,Global Methane Pledge,1
+2023,ARM,Global Methane Pledge,1
+2023,AUS,Global Methane Pledge,1
+2023,AUT,Global Methane Pledge,1
+2023,BHR,Global Methane Pledge,1
+2023,BGD,Global Methane Pledge,1
+2023,BRB,Global Methane Pledge,1
+2023,BEL,Global Methane Pledge,1
+2023,BLZ,Global Methane Pledge,1
+2023,BEN,Global Methane Pledge,1
+2023,BIH,Global Methane Pledge,1
+2023,BRA,Global Methane Pledge,1
+2023,BGR,Global Methane Pledge,1
+2023,BFA,Global Methane Pledge,1
+2023,CPV,Global Methane Pledge,1
+2023,KHM,Global Methane Pledge,1
+2023,CMR,Global Methane Pledge,1
+2023,CAN,Global Methane Pledge,1
+2023,CAF,Global Methane Pledge,1
+2023,TCD,Global Methane Pledge,1
+2023,CHL,Global Methane Pledge,1
+2023,COL,Global Methane Pledge,1
+2023,COM,Global Methane Pledge,1
+2023,COD,Global Methane Pledge,1
+2023,COG,Global Methane Pledge,1
+2023,COK,Global Methane Pledge,1
+2023,CRI,Global Methane Pledge,1
+2023,CIV,Global Methane Pledge,1
+2023,HRV,Global Methane Pledge,1
+2023,CUB,Global Methane Pledge,1
+2023,CYP,Global Methane Pledge,1
+2023,CZE,Global Methane Pledge,1
+2023,DNK,Global Methane Pledge,1
+2023,DJI,Global Methane Pledge,1
+2023,DMA,Global Methane Pledge,1
+2023,DOM,Global Methane Pledge,1
+2023,ECU,Global Methane Pledge,1
+2023,EGY,Global Methane Pledge,1
+2023,SLV,Global Methane Pledge,1
+2023,GNQ,Global Methane Pledge,1
+2023,EST,Global Methane Pledge,1
+2023,SWZ,Global Methane Pledge,1
+2023,ETH,Global Methane Pledge,1
+2023,EUU,Global Methane Pledge,1
+2023,FJI,Global Methane Pledge,1
+2023,FIN,Global Methane Pledge,1
+2023,FRA,Global Methane Pledge,1
+2023,GAB,Global Methane Pledge,1
+2023,GMB,Global Methane Pledge,1
+2023,GEO,Global Methane Pledge,1
+2023,DEU,Global Methane Pledge,1
+2023,GHA,Global Methane Pledge,1
+2023,GRC,Global Methane Pledge,1
+2023,GRD,Global Methane Pledge,1
+2023,GIN,Global Methane Pledge,1
+2023,GUY,Global Methane Pledge,1
+2023,HTI,Global Methane Pledge,1
+2023,HND,Global Methane Pledge,1
+2023,ISL,Global Methane Pledge,1
+2023,IDN,Global Methane Pledge,1
+2023,IRQ,Global Methane Pledge,1
+2023,IRL,Global Methane Pledge,1
+2023,ISR,Global Methane Pledge,1
+2023,ITA,Global Methane Pledge,1
+2023,JAM,Global Methane Pledge,1
+2023,JPN,Global Methane Pledge,1
+2023,JOR,Global Methane Pledge,1
+2023,KAZ,Global Methane Pledge,1
+2023,KEN,Global Methane Pledge,1
+2023,KOR,Global Methane Pledge,1
+2023,KOS,Global Methane Pledge,1
+2023,KWT,Global Methane Pledge,1
+2023,KGZ,Global Methane Pledge,1
+2023,LBN,Global Methane Pledge,1
+2023,LSO,Global Methane Pledge,1
+2023,LBR,Global Methane Pledge,1
+2023,LBY,Global Methane Pledge,1
+2023,LIE,Global Methane Pledge,1
+2023,LUX,Global Methane Pledge,1
+2023,MWI,Global Methane Pledge,1
+2023,MYS,Global Methane Pledge,1
+2023,MLI,Global Methane Pledge,1
+2023,MLT,Global Methane Pledge,1
+2023,MHL,Global Methane Pledge,1
+2023,MRT,Global Methane Pledge,1
+2023,MEX,Global Methane Pledge,1
+2023,FSM,Global Methane Pledge,1
+2023,MDA,Global Methane Pledge,1
+2023,MCO,Global Methane Pledge,1
+2023,MNG,Global Methane Pledge,1
+2023,MNE,Global Methane Pledge,1
+2023,MAR,Global Methane Pledge,1
+2023,MOZ,Global Methane Pledge,1
+2023,NAM,Global Methane Pledge,1
+2023,NRU,Global Methane Pledge,1
+2023,NPL,Global Methane Pledge,1
+2023,NLD,Global Methane Pledge,1
+2023,NZL,Global Methane Pledge,1
+2023,NER,Global Methane Pledge,1
+2023,NGA,Global Methane Pledge,1
+2023,NIU,Global Methane Pledge,1
+2023,MKD,Global Methane Pledge,1
+2023,NOR,Global Methane Pledge,1
+2023,OMN,Global Methane Pledge,1
+2023,PAK,Global Methane Pledge,1
+2023,PLW,Global Methane Pledge,1
+2023,PAN,Global Methane Pledge,1
+2023,PNG,Global Methane Pledge,1
+2023,PER,Global Methane Pledge,1
+2023,PHL,Global Methane Pledge,1
+2023,PRT,Global Methane Pledge,1
+2023,QAT,Global Methane Pledge,1
+2023,ROU,Global Methane Pledge,1
+2023,RWA,Global Methane Pledge,1
+2023,KNA,Global Methane Pledge,1
+2023,LCA,Global Methane Pledge,1
+2023,WSM,Global Methane Pledge,1
+2023,SMR,Global Methane Pledge,1
+2023,STP,Global Methane Pledge,1
+2023,SAU,Global Methane Pledge,1
+2023,SEN,Global Methane Pledge,1
+2023,SRB,Global Methane Pledge,1
+2023,SYC,Global Methane Pledge,1
+2023,SLE,Global Methane Pledge,1
+2023,SGP,Global Methane Pledge,1
+2023,SVK,Global Methane Pledge,1
+2023,SVN,Global Methane Pledge,1
+2023,SLB,Global Methane Pledge,1
+2023,SOM,Global Methane Pledge,1
+2023,ESP,Global Methane Pledge,1
+2023,LKA,Global Methane Pledge,1
+2023,SDN,Global Methane Pledge,1
+2023,SUR,Global Methane Pledge,1
+2023,SWE,Global Methane Pledge,1
+2023,CHE,Global Methane Pledge,1
+2023,TLS,Global Methane Pledge,1
+2023,TGO,Global Methane Pledge,1
+2023,TON,Global Methane Pledge,1
+2023,TTO,Global Methane Pledge,1
+2023,TUN,Global Methane Pledge,1
+2023,TKM,Global Methane Pledge,1
+2023,TUV,Global Methane Pledge,1
+2023,UKR,Global Methane Pledge,1
+2023,ARE,Global Methane Pledge,1
+2023,GBR,Global Methane Pledge,1
+2023,USA,Global Methane Pledge,1
+2023,URY,Global Methane Pledge,1
+2023,UZB,Global Methane Pledge,1
+2023,VUT,Global Methane Pledge,1
+2023,VNM,Global Methane Pledge,1
+2023,YEM,Global Methane Pledge,1
+2023,ZMB,Global Methane Pledge,1
+2024,ALB,Global Methane Pledge,1
+2024,AND,Global Methane Pledge,1
+2024,AGO,Global Methane Pledge,1
+2024,ATG,Global Methane Pledge,1
+2024,ARG,Global Methane Pledge,1
+2024,ARM,Global Methane Pledge,1
+2024,AUS,Global Methane Pledge,1
+2024,AUT,Global Methane Pledge,1
+2024,AZE,Global Methane Pledge,1
+2024,BHR,Global Methane Pledge,1
+2024,BGD,Global Methane Pledge,1
+2024,BRB,Global Methane Pledge,1
+2024,BEL,Global Methane Pledge,1
+2024,BLZ,Global Methane Pledge,1
+2024,BEN,Global Methane Pledge,1
+2024,BIH,Global Methane Pledge,1
+2024,BRA,Global Methane Pledge,1
+2024,BGR,Global Methane Pledge,1
+2024,BFA,Global Methane Pledge,1
+2024,CPV,Global Methane Pledge,1
+2024,KHM,Global Methane Pledge,1
+2024,CMR,Global Methane Pledge,1
+2024,CAN,Global Methane Pledge,1
+2024,CAF,Global Methane Pledge,1
+2024,TCD,Global Methane Pledge,1
+2024,CHL,Global Methane Pledge,1
+2024,COL,Global Methane Pledge,1
+2024,COM,Global Methane Pledge,1
+2024,COD,Global Methane Pledge,1
+2024,COG,Global Methane Pledge,1
+2024,COK,Global Methane Pledge,1
+2024,CRI,Global Methane Pledge,1
+2024,CIV,Global Methane Pledge,1
+2024,HRV,Global Methane Pledge,1
+2024,CUB,Global Methane Pledge,1
+2024,CYP,Global Methane Pledge,1
+2024,CZE,Global Methane Pledge,1
+2024,DNK,Global Methane Pledge,1
+2024,DJI,Global Methane Pledge,1
+2024,DMA,Global Methane Pledge,1
+2024,DOM,Global Methane Pledge,1
+2024,ECU,Global Methane Pledge,1
+2024,EGY,Global Methane Pledge,1
+2024,SLV,Global Methane Pledge,1
+2024,GNQ,Global Methane Pledge,1
+2024,EST,Global Methane Pledge,1
+2024,SWZ,Global Methane Pledge,1
+2024,ETH,Global Methane Pledge,1
+2024,EUU,Global Methane Pledge,1
+2024,FJI,Global Methane Pledge,1
+2024,FIN,Global Methane Pledge,1
+2024,FRA,Global Methane Pledge,1
+2024,GAB,Global Methane Pledge,1
+2024,GMB,Global Methane Pledge,1
+2024,GEO,Global Methane Pledge,1
+2024,DEU,Global Methane Pledge,1
+2024,GHA,Global Methane Pledge,1
+2024,GRC,Global Methane Pledge,1
+2024,GRD,Global Methane Pledge,1
+2024,GIN,Global Methane Pledge,1
+2024,GUY,Global Methane Pledge,1
+2024,HTI,Global Methane Pledge,1
+2024,HND,Global Methane Pledge,1
+2024,ISL,Global Methane Pledge,1
+2024,IDN,Global Methane Pledge,1
+2024,IRQ,Global Methane Pledge,1
+2024,IRL,Global Methane Pledge,1
+2024,ISR,Global Methane Pledge,1
+2024,ITA,Global Methane Pledge,1
+2024,JAM,Global Methane Pledge,1
+2024,JPN,Global Methane Pledge,1
+2024,JOR,Global Methane Pledge,1
+2024,KAZ,Global Methane Pledge,1
+2024,KEN,Global Methane Pledge,1
+2024,KOR,Global Methane Pledge,1
+2024,KOS,Global Methane Pledge,1
+2024,KWT,Global Methane Pledge,1
+2024,KGZ,Global Methane Pledge,1
+2024,LBN,Global Methane Pledge,1
+2024,LSO,Global Methane Pledge,1
+2024,LBR,Global Methane Pledge,1
+2024,LBY,Global Methane Pledge,1
+2024,LIE,Global Methane Pledge,1
+2024,LUX,Global Methane Pledge,1
+2024,MWI,Global Methane Pledge,1
+2024,MYS,Global Methane Pledge,1
+2024,MLI,Global Methane Pledge,1
+2024,MLT,Global Methane Pledge,1
+2024,MHL,Global Methane Pledge,1
+2024,MRT,Global Methane Pledge,1
+2024,MEX,Global Methane Pledge,1
+2024,FSM,Global Methane Pledge,1
+2024,MDA,Global Methane Pledge,1
+2024,MCO,Global Methane Pledge,1
+2024,MNG,Global Methane Pledge,1
+2024,MNE,Global Methane Pledge,1
+2024,MAR,Global Methane Pledge,1
+2024,MOZ,Global Methane Pledge,1
+2024,NAM,Global Methane Pledge,1
+2024,NRU,Global Methane Pledge,1
+2024,NPL,Global Methane Pledge,1
+2024,NLD,Global Methane Pledge,1
+2024,NZL,Global Methane Pledge,1
+2024,NER,Global Methane Pledge,1
+2024,NGA,Global Methane Pledge,1
+2024,NIU,Global Methane Pledge,1
+2024,MKD,Global Methane Pledge,1
+2024,NOR,Global Methane Pledge,1
+2024,OMN,Global Methane Pledge,1
+2024,PAK,Global Methane Pledge,1
+2024,PLW,Global Methane Pledge,1
+2024,PAN,Global Methane Pledge,1
+2024,PNG,Global Methane Pledge,1
+2024,PER,Global Methane Pledge,1
+2024,PHL,Global Methane Pledge,1
+2024,PRT,Global Methane Pledge,1
+2024,QAT,Global Methane Pledge,1
+2024,ROU,Global Methane Pledge,1
+2024,RWA,Global Methane Pledge,1
+2024,KNA,Global Methane Pledge,1
+2024,LCA,Global Methane Pledge,1
+2024,WSM,Global Methane Pledge,1
+2024,SMR,Global Methane Pledge,1
+2024,STP,Global Methane Pledge,1
+2024,SAU,Global Methane Pledge,1
+2024,SEN,Global Methane Pledge,1
+2024,SRB,Global Methane Pledge,1
+2024,SYC,Global Methane Pledge,1
+2024,SLE,Global Methane Pledge,1
+2024,SGP,Global Methane Pledge,1
+2024,SVK,Global Methane Pledge,1
+2024,SVN,Global Methane Pledge,1
+2024,SLB,Global Methane Pledge,1
+2024,SOM,Global Methane Pledge,1
+2024,ESP,Global Methane Pledge,1
+2024,LKA,Global Methane Pledge,1
+2024,SDN,Global Methane Pledge,1
+2024,SUR,Global Methane Pledge,1
+2024,SWE,Global Methane Pledge,1
+2024,CHE,Global Methane Pledge,1
+2024,TLS,Global Methane Pledge,1
+2024,TGO,Global Methane Pledge,1
+2024,TON,Global Methane Pledge,1
+2024,TTO,Global Methane Pledge,1
+2024,TUN,Global Methane Pledge,1
+2024,TKM,Global Methane Pledge,1
+2024,TUV,Global Methane Pledge,1
+2024,UKR,Global Methane Pledge,1
+2024,ARE,Global Methane Pledge,1
+2024,GBR,Global Methane Pledge,1
+2024,USA,Global Methane Pledge,1
+2024,URY,Global Methane Pledge,1
+2024,UZB,Global Methane Pledge,1
+2024,VUT,Global Methane Pledge,1
+2024,VNM,Global Methane Pledge,1
+2024,YEM,Global Methane Pledge,1
+2024,ZMB,Global Methane Pledge,1
+2024,TJK,Global Methane Pledge,1
+2025,ALB,Global Methane Pledge,1
+2025,AND,Global Methane Pledge,1
+2025,AGO,Global Methane Pledge,1
+2025,ATG,Global Methane Pledge,1
+2025,ARG,Global Methane Pledge,1
+2025,ARM,Global Methane Pledge,1
+2025,AUS,Global Methane Pledge,1
+2025,AUT,Global Methane Pledge,1
+2025,AZE,Global Methane Pledge,1
+2025,BHR,Global Methane Pledge,1
+2025,BGD,Global Methane Pledge,1
+2025,BRB,Global Methane Pledge,1
+2025,BEL,Global Methane Pledge,1
+2025,BLZ,Global Methane Pledge,1
+2025,BEN,Global Methane Pledge,1
+2025,BIH,Global Methane Pledge,1
+2025,BRA,Global Methane Pledge,1
+2025,BGR,Global Methane Pledge,1
+2025,BFA,Global Methane Pledge,1
+2025,CPV,Global Methane Pledge,1
+2025,KHM,Global Methane Pledge,1
+2025,CMR,Global Methane Pledge,1
+2025,CAN,Global Methane Pledge,1
+2025,CAF,Global Methane Pledge,1
+2025,TCD,Global Methane Pledge,1
+2025,CHL,Global Methane Pledge,1
+2025,COL,Global Methane Pledge,1
+2025,COM,Global Methane Pledge,1
+2025,COD,Global Methane Pledge,1
+2025,COG,Global Methane Pledge,1
+2025,COK,Global Methane Pledge,1
+2025,CRI,Global Methane Pledge,1
+2025,CIV,Global Methane Pledge,1
+2025,HRV,Global Methane Pledge,1
+2025,CUB,Global Methane Pledge,1
+2025,CYP,Global Methane Pledge,1
+2025,CZE,Global Methane Pledge,1
+2025,DNK,Global Methane Pledge,1
+2025,DJI,Global Methane Pledge,1
+2025,DMA,Global Methane Pledge,1
+2025,DOM,Global Methane Pledge,1
+2025,ECU,Global Methane Pledge,1
+2025,EGY,Global Methane Pledge,1
+2025,SLV,Global Methane Pledge,1
+2025,GNQ,Global Methane Pledge,1
+2025,EST,Global Methane Pledge,1
+2025,SWZ,Global Methane Pledge,1
+2025,ETH,Global Methane Pledge,1
+2025,EUU,Global Methane Pledge,1
+2025,FJI,Global Methane Pledge,1
+2025,FIN,Global Methane Pledge,1
+2025,FRA,Global Methane Pledge,1
+2025,GAB,Global Methane Pledge,1
+2025,GMB,Global Methane Pledge,1
+2025,GEO,Global Methane Pledge,1
+2025,DEU,Global Methane Pledge,1
+2025,GHA,Global Methane Pledge,1
+2025,GRC,Global Methane Pledge,1
+2025,GRD,Global Methane Pledge,1
+2025,GTM,Global Methane Pledge,1
+2025,GIN,Global Methane Pledge,1
+2025,GUY,Global Methane Pledge,1
+2025,HTI,Global Methane Pledge,1
+2025,HND,Global Methane Pledge,1
+2025,ISL,Global Methane Pledge,1
+2025,IDN,Global Methane Pledge,1
+2025,IRQ,Global Methane Pledge,1
+2025,IRL,Global Methane Pledge,1
+2025,ISR,Global Methane Pledge,1
+2025,ITA,Global Methane Pledge,1
+2025,JAM,Global Methane Pledge,1
+2025,JPN,Global Methane Pledge,1
+2025,JOR,Global Methane Pledge,1
+2025,KAZ,Global Methane Pledge,1
+2025,KEN,Global Methane Pledge,1
+2025,KOR,Global Methane Pledge,1
+2025,KOS,Global Methane Pledge,1
+2025,KWT,Global Methane Pledge,1
+2025,KGZ,Global Methane Pledge,1
+2025,LBN,Global Methane Pledge,1
+2025,LSO,Global Methane Pledge,1
+2025,LBR,Global Methane Pledge,1
+2025,LBY,Global Methane Pledge,1
+2025,LIE,Global Methane Pledge,1
+2025,LUX,Global Methane Pledge,1
+2025,MDG,Global Methane Pledge,1
+2025,MWI,Global Methane Pledge,1
+2025,MYS,Global Methane Pledge,1
+2025,MLI,Global Methane Pledge,1
+2025,MLT,Global Methane Pledge,1
+2025,MHL,Global Methane Pledge,1
+2025,MRT,Global Methane Pledge,1
+2025,MEX,Global Methane Pledge,1
+2025,FSM,Global Methane Pledge,1
+2025,MDA,Global Methane Pledge,1
+2025,MCO,Global Methane Pledge,1
+2025,MNG,Global Methane Pledge,1
+2025,MNE,Global Methane Pledge,1
+2025,MAR,Global Methane Pledge,1
+2025,MOZ,Global Methane Pledge,1
+2025,NAM,Global Methane Pledge,1
+2025,NRU,Global Methane Pledge,1
+2025,NPL,Global Methane Pledge,1
+2025,NLD,Global Methane Pledge,1
+2025,NZL,Global Methane Pledge,1
+2025,NER,Global Methane Pledge,1
+2025,NGA,Global Methane Pledge,1
+2025,NIU,Global Methane Pledge,1
+2025,MKD,Global Methane Pledge,1
+2025,NOR,Global Methane Pledge,1
+2025,OMN,Global Methane Pledge,1
+2025,PAK,Global Methane Pledge,1
+2025,PLW,Global Methane Pledge,1
+2025,PAN,Global Methane Pledge,1
+2025,PNG,Global Methane Pledge,1
+2025,PER,Global Methane Pledge,1
+2025,PHL,Global Methane Pledge,1
+2025,PRT,Global Methane Pledge,1
+2025,QAT,Global Methane Pledge,1
+2025,ROU,Global Methane Pledge,1
+2025,RWA,Global Methane Pledge,1
+2025,KNA,Global Methane Pledge,1
+2025,LCA,Global Methane Pledge,1
+2025,WSM,Global Methane Pledge,1
+2025,SMR,Global Methane Pledge,1
+2025,STP,Global Methane Pledge,1
+2025,SAU,Global Methane Pledge,1
+2025,SEN,Global Methane Pledge,1
+2025,SRB,Global Methane Pledge,1
+2025,SYC,Global Methane Pledge,1
+2025,SLE,Global Methane Pledge,1
+2025,SGP,Global Methane Pledge,1
+2025,SVK,Global Methane Pledge,1
+2025,SVN,Global Methane Pledge,1
+2025,SLB,Global Methane Pledge,1
+2025,SOM,Global Methane Pledge,1
+2025,ESP,Global Methane Pledge,1
+2025,LKA,Global Methane Pledge,1
+2025,SDN,Global Methane Pledge,1
+2025,SUR,Global Methane Pledge,1
+2025,SWE,Global Methane Pledge,1
+2025,CHE,Global Methane Pledge,1
+2025,TJK,Global Methane Pledge,1
+2025,TLS,Global Methane Pledge,1
+2025,TGO,Global Methane Pledge,1
+2025,TON,Global Methane Pledge,1
+2025,TTO,Global Methane Pledge,1
+2025,TUN,Global Methane Pledge,1
+2025,TKM,Global Methane Pledge,1
+2025,TUV,Global Methane Pledge,1
+2025,UKR,Global Methane Pledge,1
+2025,ARE,Global Methane Pledge,1
+2025,GBR,Global Methane Pledge,1
+2025,USA,Global Methane Pledge,1
+2025,URY,Global Methane Pledge,1
+2025,UZB,Global Methane Pledge,1
+2025,VUT,Global Methane Pledge,1
+2025,VNM,Global Methane Pledge,1
+2025,YEM,Global Methane Pledge,1
+2025,ZMB,Global Methane Pledge,1
+2015,AGO,Zero Routing Flaring Initiative,1
+2015,CMR,Zero Routing Flaring Initiative,1
+2015,COG,Zero Routing Flaring Initiative,1
+2015,FRA,Zero Routing Flaring Initiative,1
+2015,GAB,Zero Routing Flaring Initiative,1
+2015,DEU,Zero Routing Flaring Initiative,1
+2015,KAZ,Zero Routing Flaring Initiative,1
+2015,MEX,Zero Routing Flaring Initiative,1
+2015,NLD,Zero Routing Flaring Initiative,1
+2015,NOR,Zero Routing Flaring Initiative,1
+2015,PER,Zero Routing Flaring Initiative,1
+2015,RUS,Zero Routing Flaring Initiative,1
+2015,TKM,Zero Routing Flaring Initiative,1
+2015,UZB,Zero Routing Flaring Initiative,1
+2016,AGO,Zero Routing Flaring Initiative,1
+2016,CMR,Zero Routing Flaring Initiative,1
+2016,COG,Zero Routing Flaring Initiative,1
+2016,FRA,Zero Routing Flaring Initiative,1
+2016,GAB,Zero Routing Flaring Initiative,1
+2016,DEU,Zero Routing Flaring Initiative,1
+2016,KAZ,Zero Routing Flaring Initiative,1
+2016,MEX,Zero Routing Flaring Initiative,1
+2016,NLD,Zero Routing Flaring Initiative,1
+2016,NOR,Zero Routing Flaring Initiative,1
+2016,PER,Zero Routing Flaring Initiative,1
+2016,RUS,Zero Routing Flaring Initiative,1
+2016,TKM,Zero Routing Flaring Initiative,1
+2016,UZB,Zero Routing Flaring Initiative,1
+2016,AZE,Zero Routing Flaring Initiative,1
+2016,BHR,Zero Routing Flaring Initiative,1
+2016,CAN,Zero Routing Flaring Initiative,1
+2016,IRQ,Zero Routing Flaring Initiative,1
+2016,NGA,Zero Routing Flaring Initiative,1
+2016,USA,Zero Routing Flaring Initiative,1
+2017,AGO,Zero Routing Flaring Initiative,1
+2017,CMR,Zero Routing Flaring Initiative,1
+2017,COG,Zero Routing Flaring Initiative,1
+2017,FRA,Zero Routing Flaring Initiative,1
+2017,GAB,Zero Routing Flaring Initiative,1
+2017,DEU,Zero Routing Flaring Initiative,1
+2017,KAZ,Zero Routing Flaring Initiative,1
+2017,MEX,Zero Routing Flaring Initiative,1
+2017,NLD,Zero Routing Flaring Initiative,1
+2017,NOR,Zero Routing Flaring Initiative,1
+2017,PER,Zero Routing Flaring Initiative,1
+2017,RUS,Zero Routing Flaring Initiative,1
+2017,TKM,Zero Routing Flaring Initiative,1
+2017,UZB,Zero Routing Flaring Initiative,1
+2017,AZE,Zero Routing Flaring Initiative,1
+2017,BHR,Zero Routing Flaring Initiative,1
+2017,CAN,Zero Routing Flaring Initiative,1
+2017,IRQ,Zero Routing Flaring Initiative,1
+2017,NGA,Zero Routing Flaring Initiative,1
+2017,USA,Zero Routing Flaring Initiative,1
+2017,DNK,Zero Routing Flaring Initiative,1
+2017,EGY,Zero Routing Flaring Initiative,1
+2017,IDN,Zero Routing Flaring Initiative,1
+2017,MAR,Zero Routing Flaring Initiative,1
+2017,OMN,Zero Routing Flaring Initiative,1
+2018,AGO,Zero Routing Flaring Initiative,1
+2018,CMR,Zero Routing Flaring Initiative,1
+2018,COG,Zero Routing Flaring Initiative,1
+2018,FRA,Zero Routing Flaring Initiative,1
+2018,GAB,Zero Routing Flaring Initiative,1
+2018,DEU,Zero Routing Flaring Initiative,1
+2018,KAZ,Zero Routing Flaring Initiative,1
+2018,MEX,Zero Routing Flaring Initiative,1
+2018,NLD,Zero Routing Flaring Initiative,1
+2018,NOR,Zero Routing Flaring Initiative,1
+2018,PER,Zero Routing Flaring Initiative,1
+2018,RUS,Zero Routing Flaring Initiative,1
+2018,TKM,Zero Routing Flaring Initiative,1
+2018,UZB,Zero Routing Flaring Initiative,1
+2018,AZE,Zero Routing Flaring Initiative,1
+2018,BHR,Zero Routing Flaring Initiative,1
+2018,CAN,Zero Routing Flaring Initiative,1
+2018,IRQ,Zero Routing Flaring Initiative,1
+2018,NGA,Zero Routing Flaring Initiative,1
+2018,USA,Zero Routing Flaring Initiative,1
+2018,DNK,Zero Routing Flaring Initiative,1
+2018,EGY,Zero Routing Flaring Initiative,1
+2018,IDN,Zero Routing Flaring Initiative,1
+2018,MAR,Zero Routing Flaring Initiative,1
+2018,OMN,Zero Routing Flaring Initiative,1
+2018,NER,Zero Routing Flaring Initiative,1
+2018,SAU,Zero Routing Flaring Initiative,1
+2018,SSD,Zero Routing Flaring Initiative,1
+2019,AGO,Zero Routing Flaring Initiative,1
+2019,CMR,Zero Routing Flaring Initiative,1
+2019,COG,Zero Routing Flaring Initiative,1
+2019,FRA,Zero Routing Flaring Initiative,1
+2019,GAB,Zero Routing Flaring Initiative,1
+2019,DEU,Zero Routing Flaring Initiative,1
+2019,KAZ,Zero Routing Flaring Initiative,1
+2019,MEX,Zero Routing Flaring Initiative,1
+2019,NLD,Zero Routing Flaring Initiative,1
+2019,NOR,Zero Routing Flaring Initiative,1
+2019,PER,Zero Routing Flaring Initiative,1
+2019,RUS,Zero Routing Flaring Initiative,1
+2019,TKM,Zero Routing Flaring Initiative,1
+2019,UZB,Zero Routing Flaring Initiative,1
+2019,AZE,Zero Routing Flaring Initiative,1
+2019,BHR,Zero Routing Flaring Initiative,1
+2019,CAN,Zero Routing Flaring Initiative,1
+2019,IRQ,Zero Routing Flaring Initiative,1
+2019,NGA,Zero Routing Flaring Initiative,1
+2019,USA,Zero Routing Flaring Initiative,1
+2019,DNK,Zero Routing Flaring Initiative,1
+2019,EGY,Zero Routing Flaring Initiative,1
+2019,IDN,Zero Routing Flaring Initiative,1
+2019,MAR,Zero Routing Flaring Initiative,1
+2019,OMN,Zero Routing Flaring Initiative,1
+2019,NER,Zero Routing Flaring Initiative,1
+2019,SAU,Zero Routing Flaring Initiative,1
+2019,SSD,Zero Routing Flaring Initiative,1
+2019,ECU,Zero Routing Flaring Initiative,1
+2019,NZL,Zero Routing Flaring Initiative,1
+2020,AGO,Zero Routing Flaring Initiative,1
+2020,CMR,Zero Routing Flaring Initiative,1
+2020,COG,Zero Routing Flaring Initiative,1
+2020,FRA,Zero Routing Flaring Initiative,1
+2020,GAB,Zero Routing Flaring Initiative,1
+2020,DEU,Zero Routing Flaring Initiative,1
+2020,KAZ,Zero Routing Flaring Initiative,1
+2020,MEX,Zero Routing Flaring Initiative,1
+2020,NLD,Zero Routing Flaring Initiative,1
+2020,NOR,Zero Routing Flaring Initiative,1
+2020,PER,Zero Routing Flaring Initiative,1
+2020,RUS,Zero Routing Flaring Initiative,1
+2020,TKM,Zero Routing Flaring Initiative,1
+2020,UZB,Zero Routing Flaring Initiative,1
+2020,AZE,Zero Routing Flaring Initiative,1
+2020,BHR,Zero Routing Flaring Initiative,1
+2020,CAN,Zero Routing Flaring Initiative,1
+2020,IRQ,Zero Routing Flaring Initiative,1
+2020,NGA,Zero Routing Flaring Initiative,1
+2020,USA,Zero Routing Flaring Initiative,1
+2020,DNK,Zero Routing Flaring Initiative,1
+2020,EGY,Zero Routing Flaring Initiative,1
+2020,IDN,Zero Routing Flaring Initiative,1
+2020,MAR,Zero Routing Flaring Initiative,1
+2020,OMN,Zero Routing Flaring Initiative,1
+2020,NER,Zero Routing Flaring Initiative,1
+2020,SAU,Zero Routing Flaring Initiative,1
+2020,SSD,Zero Routing Flaring Initiative,1
+2020,ECU,Zero Routing Flaring Initiative,1
+2020,NZL,Zero Routing Flaring Initiative,1
+2020,GBR,Zero Routing Flaring Initiative,1
+2021,AGO,Zero Routing Flaring Initiative,1
+2021,CMR,Zero Routing Flaring Initiative,1
+2021,COG,Zero Routing Flaring Initiative,1
+2021,FRA,Zero Routing Flaring Initiative,1
+2021,GAB,Zero Routing Flaring Initiative,1
+2021,DEU,Zero Routing Flaring Initiative,1
+2021,KAZ,Zero Routing Flaring Initiative,1
+2021,MEX,Zero Routing Flaring Initiative,1
+2021,NLD,Zero Routing Flaring Initiative,1
+2021,NOR,Zero Routing Flaring Initiative,1
+2021,PER,Zero Routing Flaring Initiative,1
+2021,RUS,Zero Routing Flaring Initiative,1
+2021,TKM,Zero Routing Flaring Initiative,1
+2021,UZB,Zero Routing Flaring Initiative,1
+2021,AZE,Zero Routing Flaring Initiative,1
+2021,BHR,Zero Routing Flaring Initiative,1
+2021,CAN,Zero Routing Flaring Initiative,1
+2021,IRQ,Zero Routing Flaring Initiative,1
+2021,NGA,Zero Routing Flaring Initiative,1
+2021,USA,Zero Routing Flaring Initiative,1
+2021,DNK,Zero Routing Flaring Initiative,1
+2021,EGY,Zero Routing Flaring Initiative,1
+2021,IDN,Zero Routing Flaring Initiative,1
+2021,MAR,Zero Routing Flaring Initiative,1
+2021,OMN,Zero Routing Flaring Initiative,1
+2021,NER,Zero Routing Flaring Initiative,1
+2021,SAU,Zero Routing Flaring Initiative,1
+2021,SSD,Zero Routing Flaring Initiative,1
+2021,ECU,Zero Routing Flaring Initiative,1
+2021,NZL,Zero Routing Flaring Initiative,1
+2021,GBR,Zero Routing Flaring Initiative,1
+2022,AGO,Zero Routing Flaring Initiative,1
+2022,CMR,Zero Routing Flaring Initiative,1
+2022,COG,Zero Routing Flaring Initiative,1
+2022,FRA,Zero Routing Flaring Initiative,1
+2022,GAB,Zero Routing Flaring Initiative,1
+2022,DEU,Zero Routing Flaring Initiative,1
+2022,KAZ,Zero Routing Flaring Initiative,1
+2022,MEX,Zero Routing Flaring Initiative,1
+2022,NLD,Zero Routing Flaring Initiative,1
+2022,NOR,Zero Routing Flaring Initiative,1
+2022,PER,Zero Routing Flaring Initiative,1
+2022,RUS,Zero Routing Flaring Initiative,1
+2022,TKM,Zero Routing Flaring Initiative,1
+2022,UZB,Zero Routing Flaring Initiative,1
+2022,AZE,Zero Routing Flaring Initiative,1
+2022,BHR,Zero Routing Flaring Initiative,1
+2022,CAN,Zero Routing Flaring Initiative,1
+2022,IRQ,Zero Routing Flaring Initiative,1
+2022,NGA,Zero Routing Flaring Initiative,1
+2022,USA,Zero Routing Flaring Initiative,1
+2022,DNK,Zero Routing Flaring Initiative,1
+2022,EGY,Zero Routing Flaring Initiative,1
+2022,IDN,Zero Routing Flaring Initiative,1
+2022,MAR,Zero Routing Flaring Initiative,1
+2022,OMN,Zero Routing Flaring Initiative,1
+2022,NER,Zero Routing Flaring Initiative,1
+2022,SAU,Zero Routing Flaring Initiative,1
+2022,SSD,Zero Routing Flaring Initiative,1
+2022,ECU,Zero Routing Flaring Initiative,1
+2022,NZL,Zero Routing Flaring Initiative,1
+2022,GBR,Zero Routing Flaring Initiative,1
+2023,AGO,Zero Routing Flaring Initiative,1
+2023,CMR,Zero Routing Flaring Initiative,1
+2023,COG,Zero Routing Flaring Initiative,1
+2023,FRA,Zero Routing Flaring Initiative,1
+2023,GAB,Zero Routing Flaring Initiative,1
+2023,DEU,Zero Routing Flaring Initiative,1
+2023,KAZ,Zero Routing Flaring Initiative,1
+2023,MEX,Zero Routing Flaring Initiative,1
+2023,NLD,Zero Routing Flaring Initiative,1
+2023,NOR,Zero Routing Flaring Initiative,1
+2023,PER,Zero Routing Flaring Initiative,1
+2023,RUS,Zero Routing Flaring Initiative,1
+2023,TKM,Zero Routing Flaring Initiative,1
+2023,UZB,Zero Routing Flaring Initiative,1
+2023,AZE,Zero Routing Flaring Initiative,1
+2023,BHR,Zero Routing Flaring Initiative,1
+2023,CAN,Zero Routing Flaring Initiative,1
+2023,IRQ,Zero Routing Flaring Initiative,1
+2023,NGA,Zero Routing Flaring Initiative,1
+2023,USA,Zero Routing Flaring Initiative,1
+2023,DNK,Zero Routing Flaring Initiative,1
+2023,EGY,Zero Routing Flaring Initiative,1
+2023,IDN,Zero Routing Flaring Initiative,1
+2023,MAR,Zero Routing Flaring Initiative,1
+2023,OMN,Zero Routing Flaring Initiative,1
+2023,NER,Zero Routing Flaring Initiative,1
+2023,SAU,Zero Routing Flaring Initiative,1
+2023,SSD,Zero Routing Flaring Initiative,1
+2023,ECU,Zero Routing Flaring Initiative,1
+2023,NZL,Zero Routing Flaring Initiative,1
+2023,GBR,Zero Routing Flaring Initiative,1
+2023,COL,Zero Routing Flaring Initiative,1
+2024,AGO,Zero Routing Flaring Initiative,1
+2024,AZE,Zero Routing Flaring Initiative,1
+2024,BHR,Zero Routing Flaring Initiative,1
+2024,BRA,Zero Routing Flaring Initiative,1
+2024,CMR,Zero Routing Flaring Initiative,1
+2024,CAN,Zero Routing Flaring Initiative,1
+2024,COL,Zero Routing Flaring Initiative,1
+2024,COG,Zero Routing Flaring Initiative,1
+2024,DNK,Zero Routing Flaring Initiative,1
+2024,ECU,Zero Routing Flaring Initiative,1
+2024,EGY,Zero Routing Flaring Initiative,1
+2024,FRA,Zero Routing Flaring Initiative,1
+2024,GAB,Zero Routing Flaring Initiative,1
+2024,DEU,Zero Routing Flaring Initiative,1
+2024,IDN,Zero Routing Flaring Initiative,1
+2024,IRQ,Zero Routing Flaring Initiative,1
+2024,KAZ,Zero Routing Flaring Initiative,1
+2024,MAR,Zero Routing Flaring Initiative,1
+2024,MEX,Zero Routing Flaring Initiative,1
+2024,NLD,Zero Routing Flaring Initiative,1
+2024,NZL,Zero Routing Flaring Initiative,1
+2024,NER,Zero Routing Flaring Initiative,1
+2024,NGA,Zero Routing Flaring Initiative,1
+2024,NOR,Zero Routing Flaring Initiative,1
+2024,OMN,Zero Routing Flaring Initiative,1
+2024,PER,Zero Routing Flaring Initiative,1
+2024,RUS,Zero Routing Flaring Initiative,1
+2024,SAU,Zero Routing Flaring Initiative,1
+2024,SSD,Zero Routing Flaring Initiative,1
+2024,TKM,Zero Routing Flaring Initiative,1
+2024,GBR,Zero Routing Flaring Initiative,1
+2024,USA,Zero Routing Flaring Initiative,1
+2024,UZB,Zero Routing Flaring Initiative,1
