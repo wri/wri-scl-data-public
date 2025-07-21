@@ -1,0 +1,56 @@
+year,geo,disagg,value
+2021,WLD,Total,186
+2022,WLD,Total,556
+2023,WLD,Total,166
+2024,WLD,Total,980
+2021,WLD,Coal licenses,186
+2022,WLD,Coal licenses,556
+2023,WLD,Coal licenses,166
+2024,WLD,Coal licenses,492
+2024,WLD,Oil and gas licenses,895
+2021,AUS,Coal licenses,8
+2021,CHN,Coal licenses,160
+2021,IND,Coal licenses,7
+2021,ZAF,Coal licenses,3
+2021,USA,Coal licenses,4
+2021,UZB,Coal licenses,4
+2022,AUS,Coal licenses,49
+2022,BWA,Coal licenses,1
+2022,CHN,Coal licenses,239
+2022,CZE,Coal licenses,8
+2022,IND,Coal licenses,45
+2022,IDN,Coal licenses,43
+2022,MNG,Coal licenses,15
+2022,POL,Coal licenses,1
+2022,RUS,Coal licenses,101
+2022,SRB,Coal licenses,12
+2022,ZAF,Coal licenses,29
+2022,USA,Coal licenses,13
+2023,AUS,Coal licenses,23
+2023,BWA,Coal licenses,2
+2023,CHN,Coal licenses,75
+2023,IND,Coal licenses,30
+2023,PAK,Coal licenses,8
+2023,RUS,Coal licenses,24
+2023,ZAF,Coal licenses,4
+2024,AUS,Coal licenses,111
+2024,CAN,Coal licenses,4
+2024,CHN,Coal licenses,125
+2024,IND,Coal licenses,125
+2024,IDN,Coal licenses,6
+2024,KAZ,Coal licenses,9
+2024,KGZ,Coal licenses,1
+2024,MNG,Coal licenses,1
+2024,RUS,Coal licenses,85
+2024,SRB,Coal licenses,2
+2024,ZAF,Coal licenses,23
+2024,AGO,Oil and gas licenses,5
+2024,BRA,Oil and gas licenses,29
+2024,CHN,Oil and gas licenses,29
+2024,GBR,Oil and gas licenses,53
+2024,GNQ,Oil and gas licenses,3
+2024,IND,Oil and gas licenses,13
+2024,MOZ,Oil and gas licenses,6
+2024,NOR,Oil and gas licenses,66
+2024,RUS,Oil and gas licenses,98
+2024,USA,Oil and gas licenses,488
