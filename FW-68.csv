@@ -1,5 +1,5 @@
 year,year_max,geo,value
-1990,2024,WLD,43
+1990,2024,WLD,37
 2024,,AFG,1
 2024,,DZA,1
 2024,,ATG,1
@@ -91,3 +91,6 @@ year,year_max,geo,value
 2024,,USA,1
 2024,,URY,1
 2024,,VEN,1
+2024,,AIA,1
+2024,,EUU,1
+2024,,PRI,1
