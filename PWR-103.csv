@@ -2,26 +2,26 @@ year,geo,disagg,value
 2001,WLD,Total,2
 2002,WLD,Total,3
 2004,WLD,Total,1
-2005,WLD,Total,2
+2005,WLD,Total,6
 2006,WLD,Total,1
 2007,WLD,Total,4
 2009,WLD,Total,4
-2010,WLD,Total,3
-2011,WLD,Total,7
-2012,WLD,Total,3
+2010,WLD,Total,4
+2011,WLD,Total,8
+2012,WLD,Total,5
 2013,WLD,Total,14
 2014,WLD,Total,8
-2015,WLD,Total,227
+2015,WLD,Total,231
 2016,WLD,Total,28
-2017,WLD,Total,62
-2018,WLD,Total,52
-2019,WLD,Total,151
-2020,WLD,Total,172
-2021,WLD,Total,308
-2022,WLD,Total,533
-2023,WLD,Total,1081
-2024,WLD,Total,928
-2025,WLD,Total,122
+2017,WLD,Total,70
+2018,WLD,Total,56
+2019,WLD,Total,245
+2020,WLD,Total,231
+2021,WLD,Total,416
+2022,WLD,Total,1617
+2023,WLD,Total,2185
+2024,WLD,Total,1843
+2025,WLD,Total,2057
 2001,WLD,Gas,1
 2001,WLD,Gas and Condensate,0
 2001,WLD,Oil,1
@@ -34,6 +34,7 @@ year,geo,disagg,value
 2004,WLD,Gas and Condensate,0
 2004,WLD,Oil,0
 2004,WLD,Oil and Gas,1
+2005,WLD,Coal,4
 2005,WLD,Gas,1
 2005,WLD,Gas and Condensate,0
 2005,WLD,Oil,0
@@ -50,14 +51,17 @@ year,geo,disagg,value
 2009,WLD,Gas and Condensate,0
 2009,WLD,Oil,1
 2009,WLD,Oil and Gas,2
+2010,WLD,Coal,1
 2010,WLD,Gas,0
 2010,WLD,Gas and Condensate,0
 2010,WLD,Oil,1
 2010,WLD,Oil and Gas,2
+2011,WLD,Coal,1
 2011,WLD,Gas,2
 2011,WLD,Gas and Condensate,0
 2011,WLD,Oil,2
 2011,WLD,Oil and Gas,3
+2012,WLD,Coal,2
 2012,WLD,Gas,0
 2012,WLD,Gas and Condensate,0
 2012,WLD,Oil,0
@@ -70,6 +74,7 @@ year,geo,disagg,value
 2014,WLD,Gas and Condensate,0
 2014,WLD,Oil,2
 2014,WLD,Oil and Gas,5
+2015,WLD,Coal,4
 2015,WLD,Gas,14
 2015,WLD,Gas and Condensate,0
 2015,WLD,Oil,72
@@ -78,42 +83,52 @@ year,geo,disagg,value
 2016,WLD,Gas and Condensate,0
 2016,WLD,Oil,7
 2016,WLD,Oil and Gas,12
+2017,WLD,Coal,8
 2017,WLD,Gas,11
 2017,WLD,Gas and Condensate,0
 2017,WLD,Oil,14
 2017,WLD,Oil and Gas,37
+2018,WLD,Coal,4
 2018,WLD,Gas,12
 2018,WLD,Gas and Condensate,0
 2018,WLD,Oil,14
 2018,WLD,Oil and Gas,26
+2019,WLD,Coal,94
 2019,WLD,Gas,36
 2019,WLD,Gas and Condensate,1
 2019,WLD,Oil,42
 2019,WLD,Oil and Gas,72
+2020,WLD,Coal,59
 2020,WLD,Gas,44
 2020,WLD,Gas and Condensate,1
 2020,WLD,Oil,45
 2020,WLD,Oil and Gas,82
+2021,WLD,Coal,108
 2021,WLD,Gas,44
 2021,WLD,Gas and Condensate,0
 2021,WLD,Oil,73
 2021,WLD,Oil and Gas,191
+2022,WLD,Coal,1084
 2022,WLD,Gas,153
 2022,WLD,Gas and Condensate,0
 2022,WLD,Oil,66
 2022,WLD,Oil and Gas,314
+2023,WLD,Coal,1104
 2023,WLD,Gas,139
 2023,WLD,Gas and Condensate,6
 2023,WLD,Oil,207
 2023,WLD,Oil and Gas,729
+2024,WLD,Coal,915
 2024,WLD,Gas,117
 2024,WLD,Gas and Condensate,4
 2024,WLD,Oil,132
 2024,WLD,Oil and Gas,675
+2025,WLD,Coal,1935
 2025,WLD,Gas,26
 2025,WLD,Gas and Condensate,0
 2025,WLD,Oil,23
 2025,WLD,Oil and Gas,73
+2025,AFG,Total,4
 2019,AGO,Total,1
 2020,AGO,Total,9
 2021,AGO,Total,19
@@ -131,10 +146,12 @@ year,geo,disagg,value
 2024,ARE,Total,3
 2025,ARE,Total,1
 2022,ARG,Total,15
-2024,ARG,Total,23
+2024,ARG,Total,24
+2021,AUS,Total,1
 2022,AUS,Total,1
-2023,AUS,Total,12
-2024,AUS,Total,15
+2023,AUS,Total,53
+2024,AUS,Total,71
+2025,AUS,Total,83
 2023,AUT,Total,2
 2024,AUT,Total,1
 2014,AZE,Total,1
@@ -145,19 +162,26 @@ year,geo,disagg,value
 2023,AZE,Total,11
 2024,AZE,Total,4
 2020,BGD,Total,5
-2023,BGD,Total,2
+2023,BGD,Total,3
+2025,BGD,Total,3
+2023,BGR,Total,6
 2023,BHR,Total,2
+2022,BIH,Total,2
+2023,BIH,Total,4
+2024,BIH,Total,5
+2025,BIH,Total,3
 2016,BOL,Total,1
 2023,BOL,Total,3
 2024,BOL,Total,11
 2010,BRA,Total,1
 2012,BRA,Total,1
-2019,BRA,Total,3
-2020,BRA,Total,1
+2019,BRA,Total,4
+2020,BRA,Total,2
 2021,BRA,Total,2
-2022,BRA,Total,9
-2023,BRA,Total,25
+2022,BRA,Total,11
+2023,BRA,Total,28
 2024,BRA,Total,49
+2025,BRA,Total,1
 2015,BRB,Total,4
 2021,BRB,Total,2
 2009,BRN,Total,1
@@ -167,22 +191,32 @@ year,geo,disagg,value
 2022,BRN,Total,3
 2023,BRN,Total,3
 2024,BRN,Total,3
+2017,BTN,Total,1
+2021,BTN,Total,1
+2025,BTN,Total,1
+2023,BWA,Total,2
+2025,BWA,Total,4
 2019,CAN,Total,1
 2020,CAN,Total,1
-2022,CAN,Total,41
-2023,CAN,Total,2
-2024,CAN,Total,2
+2022,CAN,Total,44
+2023,CAN,Total,8
+2024,CAN,Total,7
+2025,CAN,Total,25
 2020,CHL,Total,1
 1992,CHN,Total,1
+2005,CHN,Total,1
+2010,CHN,Total,1
+2011,CHN,Total,1
 2016,CHN,Total,1
 2017,CHN,Total,1
-2018,CHN,Total,2
-2019,CHN,Total,1
-2020,CHN,Total,2
-2021,CHN,Total,4
-2022,CHN,Total,9
-2023,CHN,Total,47
-2024,CHN,Total,64
+2018,CHN,Total,4
+2019,CHN,Total,78
+2020,CHN,Total,23
+2021,CHN,Total,46
+2022,CHN,Total,920
+2023,CHN,Total,418
+2024,CHN,Total,296
+2025,CHN,Total,858
 2020,CIV,Total,2
 2022,CIV,Total,1
 2023,CIV,Total,1
@@ -197,11 +231,12 @@ year,geo,disagg,value
 2021,COG,Total,1
 2022,COG,Total,3
 2024,COG,Total,2
-2019,COL,Total,39
-2022,COL,Total,9
+2019,COL,Total,40
+2021,COL,Total,2
+2022,COL,Total,14
 2023,COL,Total,239
-2024,COL,Total,1
-2025,COL,Total,1
+2024,COL,Total,2
+2025,COL,Total,22
 2001,CUB,Total,1
 2013,CUB,Total,1
 2017,CUB,Total,2
@@ -210,8 +245,12 @@ year,geo,disagg,value
 2021,CUB,Total,1
 2023,CUB,Total,3
 2024,CYP,Total,5
+2023,CZE,Total,3
+2024,CZE,Total,2
 2019,DEU,Total,2
+2021,DEU,Total,1
 2022,DEU,Total,48
+2023,DEU,Total,8
 2025,DEU,Total,2
 2015,DNK,Total,2
 2019,DNK,Total,1
@@ -249,6 +288,7 @@ year,geo,disagg,value
 2025,EGY,Total,10
 1989,ESP,Total,1
 2022,ETH,Total,5
+2025,ETH,Total,3
 2013,FRA,Total,2
 2021,GAB,Total,1
 2023,GAB,Total,1
@@ -260,11 +300,15 @@ year,geo,disagg,value
 2021,GBR,Total,2
 2022,GBR,Total,4
 2023,GBR,Total,37
-2024,GBR,Total,254
-2025,GBR,Total,2
+2024,GBR,Total,256
+2025,GBR,Total,6
+2023,GEO,Total,1
+2025,GEO,Total,1
 2022,GHA,Total,2
 2023,GHA,Total,2
 2024,GHA,Total,1
+2022,GRC,Total,1
+2023,GRC,Total,3
 2019,GRD,Total,1
 2020,GTM,Total,4
 2022,GUY,Total,2
@@ -272,24 +316,28 @@ year,geo,disagg,value
 2024,GUY,Total,11
 2025,GUY,Total,2
 2019,HUN,Total,1
-2023,HUN,Total,1
+2022,HUN,Total,1
+2023,HUN,Total,3
+2012,IDN,Total,2
 2016,IDN,Total,2
 2017,IDN,Total,1
 2018,IDN,Total,2
-2019,IDN,Total,1
-2021,IDN,Total,7
-2022,IDN,Total,6
-2023,IDN,Total,31
-2024,IDN,Total,26
-2025,IDN,Total,4
+2019,IDN,Total,6
+2020,IDN,Total,29
+2021,IDN,Total,24
+2022,IDN,Total,24
+2023,IDN,Total,168
+2024,IDN,Total,29
+2025,IDN,Total,356
 2015,IND,Total,1
-2017,IND,Total,25
+2017,IND,Total,26
 2019,IND,Total,1
-2021,IND,Total,5
-2022,IND,Total,4
-2023,IND,Total,7
-2024,IND,Total,18
-2025,IND,Total,3
+2020,IND,Total,1
+2021,IND,Total,11
+2022,IND,Total,81
+2023,IND,Total,273
+2024,IND,Total,28
+2025,IND,Total,182
 2017,IRL,Total,3
 2018,IRL,Total,1
 2019,IRL,Total,2
@@ -311,7 +359,7 @@ year,geo,disagg,value
 2022,IRN,Total,6
 2023,IRN,Total,6
 2024,IRN,Total,4
-2025,IRN,Total,4
+2025,IRN,Total,10
 2018,IRQ,Total,2
 2019,IRQ,Total,3
 2020,IRQ,Total,5
@@ -333,20 +381,26 @@ year,geo,disagg,value
 2024,ITA,Total,1
 2025,ITA,Total,1
 2020,JAM,Total,1
-2023,JPN,Total,1
+2023,JPN,Total,2
 2013,KAZ,Total,1
 2014,KAZ,Total,2
 2015,KAZ,Total,2
 2018,KAZ,Total,3
 2019,KAZ,Total,2
-2020,KAZ,Total,7
-2021,KAZ,Total,4
+2020,KAZ,Total,9
+2021,KAZ,Total,5
 2022,KAZ,Total,5
-2023,KAZ,Total,17
-2024,KAZ,Total,5
-2025,KAZ,Total,7
+2023,KAZ,Total,29
+2024,KAZ,Total,10
+2025,KAZ,Total,14
 2022,KEN,Total,1
 2023,KEN,Total,1
+2021,KGZ,Total,1
+2024,KGZ,Total,2
+2025,KGZ,Total,4
+2025,KHM,Total,1
+2023,KOR,Total,2
+2024,KOS,Total,1
 2016,KWT,Total,1
 2017,KWT,Total,1
 2018,KWT,Total,1
@@ -355,6 +409,8 @@ year,geo,disagg,value
 2023,KWT,Total,1
 2024,KWT,Total,1
 2025,KWT,Total,2
+2023,LAO,Total,1
+2025,LAO,Total,4
 2011,LBY,Total,2
 2017,LBY,Total,7
 2018,LBY,Total,3
@@ -367,20 +423,40 @@ year,geo,disagg,value
 2025,LBY,Total,1
 2024,MAR,Total,1
 2022,MDG,Total,1
-2021,MEX,Total,1
-2023,MEX,Total,55
+2025,MDG,Total,1
+2021,MEX,Total,3
+2023,MEX,Total,56
 2024,MEX,Total,4
+2023,MKD,Total,3
+2025,MKD,Total,2
+2015,MMR,Total,1
+2017,MMR,Total,1
+2019,MMR,Total,1
+2020,MMR,Total,1
 2023,MMR,Total,5
 2024,MMR,Total,1
+2025,MMR,Total,3
+2023,MNE,Total,1
+2025,MNE,Total,4
+2019,MNG,Total,1
+2022,MNG,Total,1
+2023,MNG,Total,10
+2024,MNG,Total,2
+2025,MNG,Total,14
 2019,MOZ,Total,3
 2020,MOZ,Total,2
 2021,MOZ,Total,7
-2022,MOZ,Total,4
-2024,MOZ,Total,1
+2022,MOZ,Total,5
+2023,MOZ,Total,1
+2024,MOZ,Total,2
+2025,MOZ,Total,8
 2018,MRT,Total,1
 2019,MRT,Total,1
 2024,MRT,Total,1
 2025,MRT,Total,1
+2017,MWI,Total,1
+2018,MWI,Total,1
+2025,MWI,Total,1
 2006,MYS,Total,1
 2011,MYS,Total,1
 2014,MYS,Total,1
@@ -393,10 +469,12 @@ year,geo,disagg,value
 2022,MYS,Total,6
 2023,MYS,Total,22
 2024,MYS,Total,21
-2025,MYS,Total,3
+2025,MYS,Total,5
 2022,NAM,Total,1
 2023,NAM,Total,2
 2024,NAM,Total,3
+2022,NER,Total,1
+2025,NER,Total,1
 2002,NGA,Total,3
 2004,NGA,Total,1
 2011,NGA,Total,1
@@ -409,15 +487,18 @@ year,geo,disagg,value
 2022,NGA,Total,13
 2023,NGA,Total,10
 2024,NGA,Total,63
-2025,NGA,Total,1
+2025,NGA,Total,11
 2023,NLD,Total,163
 2024,NLD,Total,1
 2022,NOR,Total,8
-2023,NOR,Total,5
+2023,NOR,Total,6
 2024,NOR,Total,125
 2025,NOR,Total,1
-2022,NZL,Total,3
-2023,NZL,Total,2
+2025,NPL,Total,1
+2021,NZL,Total,1
+2022,NZL,Total,4
+2023,NZL,Total,13
+2025,NZL,Total,7
 2012,OMN,Total,1
 2016,OMN,Total,1
 2017,OMN,Total,3
@@ -432,14 +513,18 @@ year,geo,disagg,value
 2017,PAK,Total,2
 2019,PAK,Total,2
 2020,PAK,Total,3
-2021,PAK,Total,30
-2025,PAK,Total,1
+2021,PAK,Total,31
+2023,PAK,Total,5
+2025,PAK,Total,6
 2019,PER,Total,1
 2021,PER,Total,1
 2022,PER,Total,21
-2023,PER,Total,3
+2023,PER,Total,4
 2018,PHL,Total,1
+2021,PHL,Total,1
 2023,PHL,Total,1
+2024,PHL,Total,1
+2025,PHL,Total,5
 2021,PNG,Total,1
 2022,PNG,Total,1
 2023,PNG,Total,1
@@ -447,6 +532,10 @@ year,geo,disagg,value
 2025,PNG,Total,1
 2019,POL,Total,2
 2022,POL,Total,109
+2023,POL,Total,24
+2025,POL,Total,1
+2005,PRK,Total,3
+2025,PRK,Total,11
 2024,PSE,Total,1
 2020,QAT,Total,13
 2021,QAT,Total,4
@@ -460,11 +549,11 @@ year,geo,disagg,value
 2017,ROU,Total,1
 2018,ROU,Total,3
 2019,ROU,Total,5
-2020,ROU,Total,1
-2021,ROU,Total,2
-2023,ROU,Total,2
+2020,ROU,Total,3
+2021,ROU,Total,5
+2023,ROU,Total,4
 2024,ROU,Total,1
-2025,ROU,Total,41
+2025,ROU,Total,42
 2011,RUS,Total,1
 2013,RUS,Total,1
 2015,RUS,Total,9
@@ -472,11 +561,11 @@ year,geo,disagg,value
 2017,RUS,Total,1
 2019,RUS,Total,4
 2020,RUS,Total,21
-2021,RUS,Total,19
-2022,RUS,Total,9
-2023,RUS,Total,103
-2024,RUS,Total,46
-2025,RUS,Total,14
+2021,RUS,Total,23
+2022,RUS,Total,54
+2023,RUS,Total,179
+2024,RUS,Total,79
+2025,RUS,Total,90
 2007,SAU,Total,1
 2019,SAU,Total,4
 2020,SAU,Total,3
@@ -486,12 +575,17 @@ year,geo,disagg,value
 2024,SAU,Total,2
 2024,SEN,Total,2
 2025,SEN,Total,2
+2023,SRB,Total,14
+2025,SRB,Total,4
 2010,SSD,Total,1
 2019,SSD,Total,3
 2021,SSD,Total,1
 2021,SUR,Total,1
 2023,SUR,Total,2
 2024,SUR,Total,3
+2023,SVN,Total,1
+2023,SWZ,Total,1
+2025,SWZ,Total,1
 2015,SYR,Total,17
 2018,SYR,Total,1
 2022,SYR,Total,4
@@ -508,9 +602,13 @@ year,geo,disagg,value
 2020,THA,Total,1
 2021,THA,Total,18
 2022,THA,Total,9
-2023,THA,Total,7
+2023,THA,Total,8
 2024,THA,Total,2
-2025,THA,Total,2
+2025,THA,Total,3
+2021,TJK,Total,3
+2022,TJK,Total,1
+2023,TJK,Total,2
+2025,TJK,Total,1
 2021,TKM,Total,1
 2022,TKM,Total,1
 2025,TKM,Total,1
@@ -525,28 +623,42 @@ year,geo,disagg,value
 2024,TTO,Total,2
 2025,TTO,Total,5
 2023,TUN,Total,4
+2018,TUR,Total,1
 2020,TUR,Total,1
-2023,TUR,Total,4
+2021,TUR,Total,1
+2022,TUR,Total,1
+2023,TUR,Total,15
 2024,TUR,Total,4
+2025,TUR,Total,24
 2014,TZA,Total,1
 2017,TZA,Total,2
 2018,TZA,Total,5
 2019,TZA,Total,6
 2020,TZA,Total,1
-2021,TZA,Total,3
+2021,TZA,Total,4
 2022,TZA,Total,1
-2023,TZA,Total,3
+2023,TZA,Total,4
+2025,TZA,Total,4
 2021,UGA,Total,1
 2023,UGA,Total,2
-2019,UKR,Total,16
+2015,UKR,Total,3
+2017,UKR,Total,3
+2019,UKR,Total,23
+2021,UKR,Total,7
+2022,UKR,Total,4
+2023,UKR,Total,6
+2024,UKR,Total,3
+2025,UKR,Total,5
 2019,USA,Total,1
 2021,USA,Total,6
-2022,USA,Total,27
-2023,USA,Total,77
-2024,USA,Total,16
-2025,USA,Total,1
+2022,USA,Total,28
+2023,USA,Total,89
+2024,USA,Total,549
+2025,USA,Total,80
 2021,UZB,Total,2
-2024,UZB,Total,2
+2023,UZB,Total,3
+2024,UZB,Total,3
+2025,UZB,Total,4
 2015,VEN,Total,2
 2016,VEN,Total,2
 2019,VEN,Total,2
@@ -554,14 +666,27 @@ year,geo,disagg,value
 2021,VEN,Total,12
 2022,VEN,Total,1
 2024,VEN,Total,1
+2025,VEN,Total,3
+2019,VNM,Total,1
 2020,VNM,Total,1
-2021,VNM,Total,9
-2022,VNM,Total,7
-2023,VNM,Total,3
-2024,VNM,Total,7
-2022,ZAF,Total,4
-2024,ZAF,Total,1
-2023,ZWE,Total,1
+2021,VNM,Total,11
+2022,VNM,Total,8
+2023,VNM,Total,16
+2024,VNM,Total,12
+2025,VNM,Total,5
+2017,ZAF,Total,1
+2021,ZAF,Total,6
+2022,ZAF,Total,10
+2023,ZAF,Total,31
+2024,ZAF,Total,12
+2025,ZAF,Total,77
+2025,ZMB,Total,3
+2020,ZWE,Total,2
+2021,ZWE,Total,4
+2022,ZWE,Total,1
+2023,ZWE,Total,3
+2025,ZWE,Total,7
+2025,AFG,Coal,4
 2019,AGO,Oil,1
 2020,AGO,Oil,5
 2020,AGO,Oil and Gas,4
@@ -591,15 +716,20 @@ year,geo,disagg,value
 2024,ARE,Oil and Gas,2
 2025,ARE,Oil and Gas,1
 2022,ARG,Oil and Gas,15
+2024,ARG,Coal,1
 2024,ARG,Gas,1
 2024,ARG,Oil and Gas,22
+2021,AUS,Coal,1
 2022,AUS,Oil,1
+2023,AUS,Coal,41
 2023,AUS,Gas,6
 2023,AUS,Oil,1
 2023,AUS,Oil and Gas,5
+2024,AUS,Coal,56
 2024,AUS,Gas,3
 2024,AUS,Oil,2
 2024,AUS,Oil and Gas,10
+2025,AUS,Coal,83
 2023,AUT,Oil and Gas,2
 2024,AUT,Gas,1
 2014,AZE,Oil and Gas,1
@@ -616,28 +746,40 @@ year,geo,disagg,value
 2024,AZE,Oil and Gas,3
 2020,BGD,Gas,3
 2020,BGD,Oil and Gas,2
+2023,BGD,Coal,1
 2023,BGD,Gas,1
 2023,BGD,Oil and Gas,1
+2025,BGD,Coal,3
+2023,BGR,Coal,6
 2023,BHR,Gas,1
 2023,BHR,Oil and Gas,1
+2022,BIH,Coal,2
+2023,BIH,Coal,4
+2024,BIH,Coal,5
+2025,BIH,Coal,3
 2016,BOL,Gas,1
 2023,BOL,Gas,3
 2024,BOL,Gas,10
 2024,BOL,Oil and Gas,1
 2010,BRA,Oil and Gas,1
 2012,BRA,Oil and Gas,1
+2019,BRA,Coal,1
 2019,BRA,Oil,1
 2019,BRA,Oil and Gas,2
+2020,BRA,Coal,1
 2020,BRA,Oil and Gas,1
 2021,BRA,Oil,1
 2021,BRA,Oil and Gas,1
+2022,BRA,Coal,2
 2022,BRA,Oil and Gas,9
+2023,BRA,Coal,3
 2023,BRA,Gas,1
 2023,BRA,Oil,1
 2023,BRA,Oil and Gas,23
 2024,BRA,Gas,1
 2024,BRA,Oil,6
 2024,BRA,Oil and Gas,42
+2025,BRA,Coal,1
 2015,BRB,Oil,4
 2021,BRB,Oil,2
 2009,BRN,Oil and Gas,1
@@ -650,32 +792,52 @@ year,geo,disagg,value
 2023,BRN,Oil and Gas,3
 2024,BRN,Gas,1
 2024,BRN,Oil and Gas,2
+2017,BTN,Coal,1
+2021,BTN,Coal,1
+2025,BTN,Coal,1
+2023,BWA,Coal,2
+2025,BWA,Coal,4
 2019,CAN,Oil and Gas,1
 2020,CAN,Gas,1
+2022,CAN,Coal,3
 2022,CAN,Gas,3
 2022,CAN,Oil and Gas,38
+2023,CAN,Coal,6
 2023,CAN,Oil and Gas,2
+2024,CAN,Coal,5
 2024,CAN,Oil,2
+2025,CAN,Coal,25
 2020,CHL,Gas,1
 1992,CHN,Oil and Gas,1
+2005,CHN,Coal,1
+2010,CHN,Coal,1
+2011,CHN,Coal,1
 2016,CHN,Oil and Gas,1
 2017,CHN,Gas,1
+2018,CHN,Coal,2
 2018,CHN,Oil and Gas,2
+2019,CHN,Coal,77
 2019,CHN,Oil,1
+2020,CHN,Coal,21
 2020,CHN,Gas,1
 2020,CHN,Oil,1
+2021,CHN,Coal,42
 2021,CHN,Gas,1
 2021,CHN,Oil,2
 2021,CHN,Oil and Gas,1
+2022,CHN,Coal,911
 2022,CHN,Gas,3
 2022,CHN,Oil,3
 2022,CHN,Oil and Gas,3
+2023,CHN,Coal,371
 2023,CHN,Gas,16
 2023,CHN,Oil,18
 2023,CHN,Oil and Gas,13
+2024,CHN,Coal,232
 2024,CHN,Gas,18
 2024,CHN,Oil,34
 2024,CHN,Oil and Gas,12
+2025,CHN,Coal,858
 2020,CIV,Gas,1
 2020,CIV,Oil and Gas,1
 2022,CIV,Oil and Gas,1
@@ -693,16 +855,22 @@ year,geo,disagg,value
 2022,COG,Oil and Gas,3
 2024,COG,Oil,1
 2024,COG,Oil and Gas,1
+2019,COL,Coal,1
 2019,COL,Oil,23
 2019,COL,Oil and Gas,16
+2021,COL,Coal,2
+2022,COL,Coal,5
 2022,COL,Gas,2
 2022,COL,Oil,5
 2022,COL,Oil and Gas,2
 2023,COL,Gas,13
 2023,COL,Oil,68
 2023,COL,Oil and Gas,158
+2024,COL,Coal,1
 2024,COL,Gas,1
+2025,COL,Coal,21
 2025,COL,Oil and Gas,1
+Year,Country,,Value
 2001,CUB,Oil,1
 2013,CUB,Oil,1
 2017,CUB,Oil,2
@@ -713,9 +881,13 @@ year,geo,disagg,value
 2023,CUB,Oil and Gas,1
 2024,CYP,Gas,4
 2024,CYP,Oil and Gas,1
+2023,CZE,Coal,3
+2024,CZE,Coal,2
 2019,DEU,Oil and Gas,2
+2021,DEU,Coal,1
 2022,DEU,Gas,36
 2022,DEU,Oil and Gas,12
+2023,DEU,Coal,8
 2025,DEU,Gas,2
 2015,DNK,Oil and Gas,2
 2019,DNK,Oil and Gas,1
@@ -778,6 +950,7 @@ year,geo,disagg,value
 2025,EGY,Oil and Gas,9
 1989,ESP,Gas,1
 2022,ETH,Gas,5
+2025,ETH,Coal,3
 2013,FRA,Gas,2
 2021,GAB,Oil and Gas,1
 2023,GAB,Oil and Gas,1
@@ -792,15 +965,21 @@ year,geo,disagg,value
 2023,GBR,Gas,1
 2023,GBR,Oil,1
 2023,GBR,Oil and Gas,35
+2024,GBR,Coal,2
 2024,GBR,Gas,5
 2024,GBR,Oil,1
 2024,GBR,Oil and Gas,248
+2025,GBR,Coal,4
 2025,GBR,Oil,1
 2025,GBR,Oil and Gas,1
+2023,GEO,Coal,1
+2025,GEO,Coal,1
 2022,GHA,Oil and Gas,2
 2023,GHA,Oil,1
 2023,GHA,Oil and Gas,1
 2024,GHA,Oil and Gas,1
+2022,GRC,Coal,1
+2023,GRC,Coal,3
 2019,GRD,Oil and Gas,1
 2020,GTM,Oil,4
 2022,GUY,Oil and Gas,2
@@ -809,39 +988,56 @@ year,geo,disagg,value
 2024,GUY,Oil and Gas,10
 2025,GUY,Oil and Gas,2
 2019,HUN,Oil and Gas,1
+2022,HUN,Coal,1
+2023,HUN,Coal,2
 2023,HUN,Oil and Gas,1
+2012,IDN,Coal,2
 2016,IDN,Gas,2
 2017,IDN,Oil and Gas,1
 2018,IDN,Gas,1
 2018,IDN,Oil,1
+2019,IDN,Coal,5
 2019,IDN,Gas,1
+2020,IDN,Coal,29
+2021,IDN,Coal,17
 2021,IDN,Gas,2
 2021,IDN,Oil,1
 2021,IDN,Oil and Gas,4
+2022,IDN,Coal,18
 2022,IDN,Gas,1
 2022,IDN,Oil,2
 2022,IDN,Oil and Gas,3
+2023,IDN,Coal,137
 2023,IDN,Gas,7
 2023,IDN,Oil,1
 2023,IDN,Oil and Gas,23
+2024,IDN,Coal,3
 2024,IDN,Gas,16
 2024,IDN,Oil,2
 2024,IDN,Oil and Gas,8
+2025,IDN,Coal,352
 2025,IDN,Gas,1
 2025,IDN,Oil and Gas,3
 2015,IND,Oil and Gas,1
+2017,IND,Coal,1
 2017,IND,Gas,3
 2017,IND,Oil,1
 2017,IND,Oil and Gas,21
 2019,IND,Oil,1
+2020,IND,Coal,1
+2021,IND,Coal,6
 2021,IND,Gas,3
 2021,IND,Oil and Gas,2
+2022,IND,Coal,77
 2022,IND,Gas,3
 2022,IND,Oil and Gas,1
+2023,IND,Coal,266
 2023,IND,Gas,1
 2023,IND,Oil and Gas,6
+2024,IND,Coal,10
 2024,IND,Gas,2
 2024,IND,Oil and Gas,16
+2025,IND,Coal,179
 2025,IND,Oil,1
 2025,IND,Oil and Gas,2
 2017,IRL,Oil and Gas,3
@@ -883,6 +1079,7 @@ year,geo,disagg,value
 2024,IRN,Gas,1
 2024,IRN,Oil,1
 2024,IRN,Oil and Gas,2
+2025,IRN,Coal,6
 2025,IRN,Oil,3
 2025,IRN,Oil and Gas,1
 2018,IRQ,Oil,1
@@ -917,6 +1114,7 @@ year,geo,disagg,value
 2024,ITA,Gas,1
 2025,ITA,Oil,1
 2020,JAM,Oil,1
+2023,JPN,Coal,1
 2023,JPN,Gas,1
 2013,KAZ,Oil,1
 2014,KAZ,Gas,1
@@ -924,22 +1122,33 @@ year,geo,disagg,value
 2015,KAZ,Oil and Gas,2
 2018,KAZ,Oil,3
 2019,KAZ,Oil and Gas,2
+2020,KAZ,Coal,2
 2020,KAZ,Oil,1
 2020,KAZ,Oil and Gas,6
+2021,KAZ,Coal,1
 2021,KAZ,Oil and Gas,4
 2022,KAZ,Oil,1
 2022,KAZ,Oil and Gas,4
+2023,KAZ,Coal,12
 2023,KAZ,Gas,1
 2023,KAZ,Oil,1
 2023,KAZ,Oil and Gas,15
+2024,KAZ,Coal,5
 2024,KAZ,Gas,1
 2024,KAZ,Oil,1
 2024,KAZ,Oil and Gas,3
+2025,KAZ,Coal,7
 2025,KAZ,Gas,1
 2025,KAZ,Oil,3
 2025,KAZ,Oil and Gas,3
 2022,KEN,Oil and Gas,1
 2023,KEN,Oil,1
+2021,KGZ,Coal,1
+2024,KGZ,Coal,2
+2025,KGZ,Coal,4
+2025,KHM,Coal,1
+2023,KOR,Coal,2
+2024,KOS,Coal,1
 2016,KWT,Oil,1
 2017,KWT,Oil,1
 2018,KWT,Oil,1
@@ -949,6 +1158,8 @@ year,geo,disagg,value
 2024,KWT,Oil and Gas,1
 2025,KWT,Oil,1
 2025,KWT,Oil and Gas,1
+2023,LAO,Coal,1
+2025,LAO,Coal,4
 2011,LBY,Oil,1
 2011,LBY,Oil and Gas,1
 2017,LBY,Oil,3
@@ -970,25 +1181,49 @@ year,geo,disagg,value
 2025,LBY,Oil and Gas,1
 2024,MAR,Gas,1
 2022,MDG,Oil,1
+2025,MDG,Coal,1
+2021,MEX,Coal,2
 2021,MEX,Oil and Gas,1
+2023,MEX,Coal,1
 2023,MEX,Gas,3
 2023,MEX,Oil,1
 2023,MEX,Oil and Gas,51
 2024,MEX,Oil and Gas,4
+2023,MKD,Coal,3
+2025,MKD,Coal,2
+2015,MMR,Coal,1
+2017,MMR,Coal,1
+2019,MMR,Coal,1
+2020,MMR,Coal,1
 2023,MMR,Gas,5
 2024,MMR,Gas,1
+2025,MMR,Coal,3
+2023,MNE,Coal,1
+2025,MNE,Coal,4
+2019,MNG,Coal,1
+2022,MNG,Coal,1
+2023,MNG,Coal,10
+2024,MNG,Coal,2
+2025,MNG,Coal,14
 2019,MOZ,Gas,1
 2019,MOZ,Oil and Gas,2
 2020,MOZ,Oil and Gas,2
 2021,MOZ,Gas,2
 2021,MOZ,Oil and Gas,5
+2022,MOZ,Coal,1
 2022,MOZ,Gas,1
 2022,MOZ,Oil and Gas,3
+2023,MOZ,Coal,1
+2024,MOZ,Coal,1
 2024,MOZ,Gas,1
+2025,MOZ,Coal,8
 2018,MRT,Gas,1
 2019,MRT,Oil and Gas,1
 2024,MRT,Gas,1
 2025,MRT,Oil and Gas,1
+2017,MWI,Coal,1
+2018,MWI,Coal,1
+2025,MWI,Coal,1
 2006,MYS,Oil,1
 2011,MYS,Gas,1
 2014,MYS,Oil and Gas,1
@@ -1011,11 +1246,14 @@ year,geo,disagg,value
 2024,MYS,Gas,8
 2024,MYS,Oil,1
 2024,MYS,Oil and Gas,12
+2025,MYS,Coal,2
 2025,MYS,Oil and Gas,3
 2022,NAM,Oil and Gas,1
 2023,NAM,Oil and Gas,2
 2024,NAM,Gas,1
 2024,NAM,Oil,2
+2022,NER,Coal,1
+2025,NER,Coal,1
 2002,NGA,Oil and Gas,3
 2004,NGA,Oil and Gas,1
 2011,NGA,Oil,1
@@ -1039,6 +1277,7 @@ year,geo,disagg,value
 2024,NGA,Gas,5
 2024,NGA,Oil,10
 2024,NGA,Oil and Gas,48
+2025,NGA,Coal,10
 2025,NGA,Oil and Gas,1
 2023,NLD,Gas,29
 2023,NLD,Oil,2
@@ -1046,12 +1285,18 @@ year,geo,disagg,value
 2024,NLD,Oil and Gas,1
 2022,NOR,Oil,1
 2022,NOR,Oil and Gas,7
+2023,NOR,Coal,1
 2023,NOR,Oil,1
 2023,NOR,Oil and Gas,4
 2024,NOR,Oil and Gas,125
 2025,NOR,Oil and Gas,1
+2025,NPL,Coal,1
+2021,NZL,Coal,1
+2022,NZL,Coal,1
 2022,NZL,Oil and Gas,3
+2023,NZL,Coal,11
 2023,NZL,Oil and Gas,2
+2025,NZL,Coal,7
 2012,OMN,Oil and Gas,1
 2016,OMN,Oil and Gas,1
 2017,OMN,Oil,2
@@ -1072,19 +1317,26 @@ year,geo,disagg,value
 2019,PAK,Gas,2
 2020,PAK,Gas,1
 2020,PAK,Oil and Gas,2
+2021,PAK,Coal,1
 2021,PAK,Gas,5
 2021,PAK,Oil,1
 2021,PAK,Oil and Gas,24
+2023,PAK,Coal,5
+2025,PAK,Coal,5
 2025,PAK,Gas,1
 2019,PER,Oil,1
 2021,PER,Oil,1
 2022,PER,Gas,3
 2022,PER,Oil,6
 2022,PER,Oil and Gas,12
+2023,PER,Coal,1
 2023,PER,Gas,1
 2023,PER,Oil and Gas,2
 2018,PHL,Oil and Gas,1
+2021,PHL,Coal,1
 2023,PHL,Oil and Gas,1
+2024,PHL,Coal,1
+2025,PHL,Coal,5
 2021,PNG,Oil and Gas,1
 2022,PNG,Gas,1
 2023,PNG,Oil,1
@@ -1095,6 +1347,10 @@ year,geo,disagg,value
 2022,POL,Gas,75
 2022,POL,Oil,1
 2022,POL,Oil and Gas,33
+2023,POL,Coal,24
+2025,POL,Coal,1
+2005,PRK,Coal,3
+2025,PRK,Coal,11
 2024,PSE,Gas,1
 2020,QAT,Oil and Gas,13
 2021,QAT,Gas,3
@@ -1115,11 +1371,15 @@ year,geo,disagg,value
 2018,ROU,Oil and Gas,2
 2019,ROU,Gas,2
 2019,ROU,Oil and Gas,3
+2020,ROU,Coal,2
 2020,ROU,Gas,1
+2021,ROU,Coal,3
 2021,ROU,Gas,1
 2021,ROU,Oil and Gas,1
+2023,ROU,Coal,2
 2023,ROU,Gas,2
 2024,ROU,Gas,1
+2025,ROU,Coal,1
 2025,ROU,Gas,16
 2025,ROU,Oil,7
 2025,ROU,Oil and Gas,18
@@ -1135,18 +1395,23 @@ year,geo,disagg,value
 2020,RUS,Gas and Condensate,1
 2020,RUS,Oil,9
 2020,RUS,Oil and Gas,11
+2021,RUS,Coal,4
 2021,RUS,Oil,8
 2021,RUS,Oil and Gas,11
+2022,RUS,Coal,45
 2022,RUS,Oil,5
 2022,RUS,Oil and Gas,4
+2023,RUS,Coal,76
 2023,RUS,Gas,2
 2023,RUS,Gas and Condensate,6
 2023,RUS,Oil,34
 2023,RUS,Oil and Gas,61
+2024,RUS,Coal,33
 2024,RUS,Gas,3
 2024,RUS,Gas and Condensate,4
 2024,RUS,Oil,16
 2024,RUS,Oil and Gas,23
+2025,RUS,Coal,76
 2025,RUS,Oil,2
 2025,RUS,Oil and Gas,12
 2007,SAU,Oil,1
@@ -1165,12 +1430,17 @@ year,geo,disagg,value
 2024,SEN,Oil and Gas,1
 2025,SEN,Gas,1
 2025,SEN,Oil and Gas,1
+2023,SRB,Coal,14
+2025,SRB,Coal,4
 2010,SSD,Oil,1
 2019,SSD,Oil,3
 2021,SSD,Oil,1
 2021,SUR,Oil and Gas,1
 2023,SUR,Oil and Gas,2
 2024,SUR,Oil and Gas,3
+2023,SVN,Coal,1
+2023,SWZ,Coal,1
+2025,SWZ,Coal,1
 2015,SYR,Oil,17
 2018,SYR,Oil,1
 2022,SYR,Gas,1
@@ -1194,12 +1464,18 @@ year,geo,disagg,value
 2021,THA,Oil and Gas,18
 2022,THA,Oil,2
 2022,THA,Oil and Gas,7
+2023,THA,Coal,1
 2023,THA,Gas,1
 2023,THA,Oil,2
 2023,THA,Oil and Gas,4
 2024,THA,Oil,1
 2024,THA,Oil and Gas,1
+2025,THA,Coal,1
 2025,THA,Oil and Gas,2
+2021,TJK,Coal,3
+2022,TJK,Coal,1
+2023,TJK,Coal,2
+2025,TJK,Coal,1
 2021,TKM,Oil and Gas,1
 2022,TKM,Oil and Gas,1
 2025,TKM,Oil and Gas,1
@@ -1220,37 +1496,60 @@ year,geo,disagg,value
 2025,TTO,Oil and Gas,2
 2023,TUN,Gas,2
 2023,TUN,Oil and Gas,2
+2018,TUR,Coal,1
 2020,TUR,Oil,1
+2021,TUR,Coal,1
+2022,TUR,Coal,1
+2023,TUR,Coal,11
 2023,TUR,Gas,3
 2023,TUR,Oil,1
 2024,TUR,Gas,2
 2024,TUR,Oil,2
+2025,TUR,Coal,24
 2014,TZA,Oil and Gas,1
 2017,TZA,Gas,2
 2018,TZA,Gas,5
 2019,TZA,Gas,4
 2019,TZA,Oil and Gas,2
 2020,TZA,Gas,1
+2021,TZA,Coal,1
 2021,TZA,Gas,2
 2021,TZA,Oil and Gas,1
 2022,TZA,Gas,1
+2023,TZA,Coal,1
 2023,TZA,Gas,3
+2025,TZA,Coal,4
 2021,UGA,Oil,1
 2023,UGA,Oil,2
+2015,UKR,Coal,3
+2017,UKR,Coal,3
+2019,UKR,Coal,7
 2019,UKR,Gas,16
+2021,UKR,Coal,7
+2022,UKR,Coal,4
+2023,UKR,Coal,6
+2024,UKR,Coal,3
+2025,UKR,Coal,5
 2019,USA,Oil and Gas,1
 2021,USA,Oil,6
+2022,USA,Coal,1
 2022,USA,Oil,1
 2022,USA,Oil and Gas,26
+2023,USA,Coal,12
 2023,USA,Gas,1
 2023,USA,Oil,2
 2023,USA,Oil and Gas,74
+2024,USA,Coal,533
 2024,USA,Oil,3
 2024,USA,Oil and Gas,13
+2025,USA,Coal,79
 2025,USA,Oil and Gas,1
 2021,UZB,Oil and Gas,2
+2023,UZB,Coal,3
+2024,UZB,Coal,1
 2024,UZB,Gas,1
 2024,UZB,Oil and Gas,1
+2025,UZB,Coal,4
 2015,VEN,Oil and Gas,2
 2016,VEN,Oil,2
 2019,VEN,Oil,1
@@ -1260,17 +1559,36 @@ year,geo,disagg,value
 2021,VEN,Oil and Gas,3
 2022,VEN,Gas,1
 2024,VEN,Gas,1
+2025,VEN,Coal,3
+2019,VNM,Coal,1
 2020,VNM,Oil and Gas,1
+2021,VNM,Coal,2
 2021,VNM,Gas,3
 2021,VNM,Oil,3
 2021,VNM,Oil and Gas,3
+2022,VNM,Coal,1
 2022,VNM,Gas,2
 2022,VNM,Oil and Gas,5
+2023,VNM,Coal,13
 2023,VNM,Gas,1
 2023,VNM,Oil and Gas,2
+2024,VNM,Coal,5
 2024,VNM,Gas,3
 2024,VNM,Oil,1
 2024,VNM,Oil and Gas,3
+2025,VNM,Coal,5
+2017,ZAF,Coal,1
+2021,ZAF,Coal,6
+2022,ZAF,Coal,6
 2022,ZAF,Oil and Gas,4
+2023,ZAF,Coal,31
+2024,ZAF,Coal,11
 2024,ZAF,Gas,1
+2025,ZAF,Coal,77
+2025,ZMB,Coal,3
+2020,ZWE,Coal,2
+2021,ZWE,Coal,4
+2022,ZWE,Coal,1
+2023,ZWE,Coal,2
 2023,ZWE,Oil and Gas,1
+2025,ZWE,Coal,7
