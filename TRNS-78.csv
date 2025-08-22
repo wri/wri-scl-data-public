@@ -1,11 +1,27 @@
-﻿year,geo,value
-2015,WLD,78
-2016,WLD,110
-2017,WLD,153
-2018,WLD,217
-2019,WLD,304
-2020,WLD,409
-2021,WLD,478
-2022,WLD,549
-2023,WLD,673
-2024,WLD,784
+year,geo,disagg,value
+2015,WLD,Electric cars,78
+2016,WLD,Electric cars,110
+2017,WLD,Electric cars,153
+2018,WLD,Electric cars,217
+2019,WLD,Electric cars,304
+2020,WLD,Electric cars,409
+2021,WLD,Electric cars,478
+2022,WLD,Electric cars,549
+2023,WLD,Electric cars,673
+2024,WLD,Electric cars,784
+2025,WLD,Electric cars,993
+2026,WLD,Electric cars,1077
+2027,WLD,Electric cars,1130
+2015,WLD,ICE cars,1389
+2016,WLD,ICE cars,1459
+2017,WLD,ICE cars,1419
+2018,WLD,ICE cars,1410
+2019,WLD,ICE cars,1421
+2020,WLD,ICE cars,1384
+2021,WLD,ICE cars,1337
+2022,WLD,ICE cars,1317
+2023,WLD,ICE cars,1317
+2024,WLD,ICE cars,1347
+2025,WLD,ICE cars,1357
+2026,WLD,ICE cars,1367
+2027,WLD,ICE cars,1378
