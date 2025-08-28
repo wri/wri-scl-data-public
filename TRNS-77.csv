@@ -1,25 +1,68 @@
-year,geo,value
-2024,WLD,89
-2024,AUT,1
-2024,BEL,2
-2024,CAN,1
-2024,CHN,3
-2024,DNK,3
-2024,FRA,7
-2024,DEU,4
-2024,ISL,1
-2024,IDN,1
-2024,ITA,3
-2024,JPN,2
-2024,NZL,1
-2024,NOR,3
-2024,PRT,1
-2024,SGP,1
-2024,KOR,1
-2024,ESP,8
-2024,SWE,10
-2024,CHE,2
-2024,TUR,1
-2024,GBR,8
-2024,UAE,1
-2024,USA,24
+year,geo,disagg,value
+2024,WLD,Total,114
+2024,WLD,Using SAF,100
+2024,WLD,Offtake agreements in place,14
+2024,AUT,Total,1
+2024,BEL,Total,2
+2024,CAN,Total,1
+2024,CHN,Total,3
+2024,HRV,Total,1
+2024,DNK,Total,4
+2024,FIN,Total,1
+2024,FRA,Total,7
+2024,DEU,Total,5
+2024,GRC,Total,2
+2024,HUN,Total,1
+2024,ISL,Total,1
+2024,IDN,Total,1
+2024,ITA,Total,3
+2024,JPN,Total,2
+2024,LUX,Total,1
+2024,MYS,Total,1
+2024,NLD,Total,1
+2024,NZL,Total,1
+2024,NOR,Total,3
+2024,PRT,Total,1
+2024,SGP,Total,2
+2024,KOR,Total,1
+2024,ESP,Total,9
+2024,SWE,Total,11
+2024,CHE,Total,2
+2024,TUR,Total,3
+2024,GBR,Total,10
+2024,UAE,Total,1
+2024,USA,Total,27
+2024,AUT,Using SAF,1
+2024,BEL,Using SAF,2
+2024,CAN,Using SAF,1
+2024,CHN,Using SAF,3
+2024,HRV,Using SAF,1
+2024,DNK,Using SAF,4
+2024,FIN,Using SAF,1
+2024,FRA,Using SAF,7
+2024,DEU,Using SAF,5
+2024,GRC,Using SAF,2
+2024,HUN,Using SAF,1
+2024,ISL,Using SAF,1
+2024,IDN,Using SAF,1
+2024,ITA,Using SAF,3
+2024,JPN,Using SAF,2
+2024,LUX,Using SAF,1
+2024,NZL,Using SAF,1
+2024,NOR,Using SAF,3
+2024,PRT,Using SAF,1
+2024,SGP,Using SAF,1
+2024,KOR,Using SAF,1
+2024,ESP,Using SAF,8
+2024,SWE,Using SAF,11
+2024,CHE,Using SAF,2
+2024,TUR,Using SAF,3
+2024,GBR,Using SAF,8
+2024,UAE,Using SAF,1
+2024,USA,Using SAF,24
+2024,MYS,Offtake agreements in place,1
+2024,NLD,Offtake agreements in place,1
+2024,SGP,Offtake agreements in place,1
+2024,ESP,Offtake agreements in place,1
+2024,GBR,Offtake agreements in place,2
+2024,USA,Offtake agreements in place,3

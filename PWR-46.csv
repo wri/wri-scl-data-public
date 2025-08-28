@@ -209,27 +209,27 @@ year,geo,disagg,value
 2018,BEL,Employment incentives,0.22
 2019,BEL,Employment incentives,0.23
 2020,BEL,Employment incentives,0.19
-2000,BEL,Pulbic employment services and administration,0.16
-2001,BEL,Pulbic employment services and administration,0.16
-2002,BEL,Pulbic employment services and administration,0.17
-2003,BEL,Pulbic employment services and administration,0.17
-2004,BEL,Pulbic employment services and administration,0.17
-2005,BEL,Pulbic employment services and administration,0.18
-2006,BEL,Pulbic employment services and administration,0.18
-2007,BEL,Pulbic employment services and administration,0.18
-2008,BEL,Pulbic employment services and administration,0.18
-2009,BEL,Pulbic employment services and administration,0.2
-2010,BEL,Pulbic employment services and administration,0.2
-2011,BEL,Pulbic employment services and administration,0.2
-2012,BEL,Pulbic employment services and administration,0.2
-2013,BEL,Pulbic employment services and administration,0.2
-2014,BEL,Pulbic employment services and administration,0.22
-2015,BEL,Pulbic employment services and administration,0.19
-2016,BEL,Pulbic employment services and administration,0.2
-2017,BEL,Pulbic employment services and administration,0.34
-2018,BEL,Pulbic employment services and administration,0.33
-2019,BEL,Pulbic employment services and administration,0.34
-2020,BEL,Pulbic employment services and administration,0.36
+2000,BEL,Public employment services and administration,0.16
+2001,BEL,Public employment services and administration,0.16
+2002,BEL,Public employment services and administration,0.17
+2003,BEL,Public employment services and administration,0.17
+2004,BEL,Public employment services and administration,0.17
+2005,BEL,Public employment services and administration,0.18
+2006,BEL,Public employment services and administration,0.18
+2007,BEL,Public employment services and administration,0.18
+2008,BEL,Public employment services and administration,0.18
+2009,BEL,Public employment services and administration,0.2
+2010,BEL,Public employment services and administration,0.2
+2011,BEL,Public employment services and administration,0.2
+2012,BEL,Public employment services and administration,0.2
+2013,BEL,Public employment services and administration,0.2
+2014,BEL,Public employment services and administration,0.22
+2015,BEL,Public employment services and administration,0.19
+2016,BEL,Public employment services and administration,0.2
+2017,BEL,Public employment services and administration,0.34
+2018,BEL,Public employment services and administration,0.33
+2019,BEL,Public employment services and administration,0.34
+2020,BEL,Public employment services and administration,0.36
 2000,BEL,Start-up incentives,0
 2001,BEL,Start-up incentives,0
 2002,BEL,Start-up incentives,0
@@ -900,26 +900,26 @@ year,geo,disagg,value
 2018,HUN,Employment incentives,0.13
 2019,HUN,Employment incentives,0.12
 2020,HUN,Employment incentives,0.23
-2000,HUN,Pulbic employment services and administration,0.11
-2001,HUN,Pulbic employment services and administration,0.11
-2002,HUN,Pulbic employment services and administration,0.12
-2004,HUN,Pulbic employment services and administration,0.1
-2005,HUN,Pulbic employment services and administration,0.09
-2006,HUN,Pulbic employment services and administration,0.09
-2007,HUN,Pulbic employment services and administration,0.08
-2008,HUN,Pulbic employment services and administration,0.09
-2009,HUN,Pulbic employment services and administration,0.09
-2010,HUN,Pulbic employment services and administration,0.09
-2011,HUN,Pulbic employment services and administration,0.08
-2012,HUN,Pulbic employment services and administration,0.07
-2013,HUN,Pulbic employment services and administration,0.08
-2014,HUN,Pulbic employment services and administration,0.09
-2015,HUN,Pulbic employment services and administration,0.07
-2016,HUN,Pulbic employment services and administration,0.06
-2017,HUN,Pulbic employment services and administration,0.06
-2018,HUN,Pulbic employment services and administration,0.06
-2019,HUN,Pulbic employment services and administration,0.06
-2020,HUN,Pulbic employment services and administration,0.06
+2000,HUN,Public employment services and administration,0.11
+2001,HUN,Public employment services and administration,0.11
+2002,HUN,Public employment services and administration,0.12
+2004,HUN,Public employment services and administration,0.1
+2005,HUN,Public employment services and administration,0.09
+2006,HUN,Public employment services and administration,0.09
+2007,HUN,Public employment services and administration,0.08
+2008,HUN,Public employment services and administration,0.09
+2009,HUN,Public employment services and administration,0.09
+2010,HUN,Public employment services and administration,0.09
+2011,HUN,Public employment services and administration,0.08
+2012,HUN,Public employment services and administration,0.07
+2013,HUN,Public employment services and administration,0.08
+2014,HUN,Public employment services and administration,0.09
+2015,HUN,Public employment services and administration,0.07
+2016,HUN,Public employment services and administration,0.06
+2017,HUN,Public employment services and administration,0.06
+2018,HUN,Public employment services and administration,0.06
+2019,HUN,Public employment services and administration,0.06
+2020,HUN,Public employment services and administration,0.06
 2000,HUN,Start-up incentives,0
 2001,HUN,Start-up incentives,0.01
 2002,HUN,Start-up incentives,0.01
@@ -1086,21 +1086,21 @@ year,geo,disagg,value
 2018,ITA,Employment incentives,0.24
 2019,ITA,Employment incentives,0.07
 2020,ITA,Employment incentives,0.09
-2004,ITA,Pulbic employment services and administration,0.08
-2005,ITA,Pulbic employment services and administration,0.08
-2006,ITA,Pulbic employment services and administration,0.07
-2007,ITA,Pulbic employment services and administration,0.07
-2008,ITA,Pulbic employment services and administration,0.08
-2009,ITA,Pulbic employment services and administration,0.1
-2010,ITA,Pulbic employment services and administration,0.1
-2011,ITA,Pulbic employment services and administration,0.1
-2012,ITA,Pulbic employment services and administration,0.12
-2013,ITA,Pulbic employment services and administration,0.09
-2014,ITA,Pulbic employment services and administration,0.08
-2015,ITA,Pulbic employment services and administration,0.09
-2018,ITA,Pulbic employment services and administration,0.06
-2019,ITA,Pulbic employment services and administration,0.07
-2020,ITA,Pulbic employment services and administration,0.12
+2004,ITA,Public employment services and administration,0.08
+2005,ITA,Public employment services and administration,0.08
+2006,ITA,Public employment services and administration,0.07
+2007,ITA,Public employment services and administration,0.07
+2008,ITA,Public employment services and administration,0.08
+2009,ITA,Public employment services and administration,0.1
+2010,ITA,Public employment services and administration,0.1
+2011,ITA,Public employment services and administration,0.1
+2012,ITA,Public employment services and administration,0.12
+2013,ITA,Public employment services and administration,0.09
+2014,ITA,Public employment services and administration,0.08
+2015,ITA,Public employment services and administration,0.09
+2018,ITA,Public employment services and administration,0.06
+2019,ITA,Public employment services and administration,0.07
+2020,ITA,Public employment services and administration,0.12
 2000,ITA,Start-up incentives,0.04
 2001,ITA,Start-up incentives,0.06
 2002,ITA,Start-up incentives,0.02
@@ -1257,27 +1257,27 @@ year,geo,disagg,value
 2018,KOR,Employment incentives,0.04
 2019,KOR,Employment incentives,0.09
 2020,KOR,Employment incentives,0.27
-2000,KOR,Pulbic employment services and administration,0.01
-2001,KOR,Pulbic employment services and administration,0.02
-2002,KOR,Pulbic employment services and administration,0.02
-2003,KOR,Pulbic employment services and administration,0.02
-2004,KOR,Pulbic employment services and administration,0.02
-2005,KOR,Pulbic employment services and administration,0.02
-2006,KOR,Pulbic employment services and administration,0.02
-2007,KOR,Pulbic employment services and administration,0.02
-2008,KOR,Pulbic employment services and administration,0.01
-2009,KOR,Pulbic employment services and administration,0.01
-2010,KOR,Pulbic employment services and administration,0.01
-2011,KOR,Pulbic employment services and administration,0.01
-2012,KOR,Pulbic employment services and administration,0.02
-2013,KOR,Pulbic employment services and administration,0.03
-2014,KOR,Pulbic employment services and administration,0.03
-2015,KOR,Pulbic employment services and administration,0.03
-2016,KOR,Pulbic employment services and administration,0.04
-2017,KOR,Pulbic employment services and administration,0.04
-2018,KOR,Pulbic employment services and administration,0.05
-2019,KOR,Pulbic employment services and administration,0.04
-2020,KOR,Pulbic employment services and administration,0.06
+2000,KOR,Public employment services and administration,0.01
+2001,KOR,Public employment services and administration,0.02
+2002,KOR,Public employment services and administration,0.02
+2003,KOR,Public employment services and administration,0.02
+2004,KOR,Public employment services and administration,0.02
+2005,KOR,Public employment services and administration,0.02
+2006,KOR,Public employment services and administration,0.02
+2007,KOR,Public employment services and administration,0.02
+2008,KOR,Public employment services and administration,0.01
+2009,KOR,Public employment services and administration,0.01
+2010,KOR,Public employment services and administration,0.01
+2011,KOR,Public employment services and administration,0.01
+2012,KOR,Public employment services and administration,0.02
+2013,KOR,Public employment services and administration,0.03
+2014,KOR,Public employment services and administration,0.03
+2015,KOR,Public employment services and administration,0.03
+2016,KOR,Public employment services and administration,0.04
+2017,KOR,Public employment services and administration,0.04
+2018,KOR,Public employment services and administration,0.05
+2019,KOR,Public employment services and administration,0.04
+2020,KOR,Public employment services and administration,0.06
 2000,KOR,Start-up incentives,0.01
 2001,KOR,Start-up incentives,0.01
 2002,KOR,Start-up incentives,0
@@ -1444,27 +1444,27 @@ year,geo,disagg,value
 2018,MEX,Employment incentives,0
 2019,MEX,Employment incentives,0
 2020,MEX,Employment incentives,0
-2000,MEX,Pulbic employment services and administration,0
-2001,MEX,Pulbic employment services and administration,0
-2002,MEX,Pulbic employment services and administration,0
-2003,MEX,Pulbic employment services and administration,0
-2004,MEX,Pulbic employment services and administration,0
-2005,MEX,Pulbic employment services and administration,0
-2006,MEX,Pulbic employment services and administration,0
-2007,MEX,Pulbic employment services and administration,0
-2008,MEX,Pulbic employment services and administration,0
-2009,MEX,Pulbic employment services and administration,0
-2010,MEX,Pulbic employment services and administration,0
-2011,MEX,Pulbic employment services and administration,0
-2012,MEX,Pulbic employment services and administration,0
-2013,MEX,Pulbic employment services and administration,0
-2014,MEX,Pulbic employment services and administration,0
-2015,MEX,Pulbic employment services and administration,0
-2016,MEX,Pulbic employment services and administration,0
-2017,MEX,Pulbic employment services and administration,0
-2018,MEX,Pulbic employment services and administration,0
-2019,MEX,Pulbic employment services and administration,0
-2020,MEX,Pulbic employment services and administration,0
+2000,MEX,Public employment services and administration,0
+2001,MEX,Public employment services and administration,0
+2002,MEX,Public employment services and administration,0
+2003,MEX,Public employment services and administration,0
+2004,MEX,Public employment services and administration,0
+2005,MEX,Public employment services and administration,0
+2006,MEX,Public employment services and administration,0
+2007,MEX,Public employment services and administration,0
+2008,MEX,Public employment services and administration,0
+2009,MEX,Public employment services and administration,0
+2010,MEX,Public employment services and administration,0
+2011,MEX,Public employment services and administration,0
+2012,MEX,Public employment services and administration,0
+2013,MEX,Public employment services and administration,0
+2014,MEX,Public employment services and administration,0
+2015,MEX,Public employment services and administration,0
+2016,MEX,Public employment services and administration,0
+2017,MEX,Public employment services and administration,0
+2018,MEX,Public employment services and administration,0
+2019,MEX,Public employment services and administration,0
+2020,MEX,Public employment services and administration,0
 2000,MEX,Start-up incentives,0
 2001,MEX,Start-up incentives,0
 2002,MEX,Start-up incentives,0
@@ -1713,27 +1713,27 @@ year,geo,disagg,value
 2018,NOR,Employment incentives,0.08
 2019,NOR,Employment incentives,0.07
 2020,NOR,Employment incentives,0.07
-2000,NOR,Pulbic employment services and administration,0.11
-2001,NOR,Pulbic employment services and administration,0.11
-2002,NOR,Pulbic employment services and administration,0.12
-2003,NOR,Pulbic employment services and administration,0.12
-2004,NOR,Pulbic employment services and administration,0.13
-2005,NOR,Pulbic employment services and administration,0.12
-2006,NOR,Pulbic employment services and administration,0.11
-2007,NOR,Pulbic employment services and administration,0.1
-2008,NOR,Pulbic employment services and administration,0.1
-2009,NOR,Pulbic employment services and administration,0.12
-2010,NOR,Pulbic employment services and administration,0.13
-2011,NOR,Pulbic employment services and administration,0.12
-2012,NOR,Pulbic employment services and administration,0.12
-2013,NOR,Pulbic employment services and administration,0.13
-2014,NOR,Pulbic employment services and administration,0.13
-2015,NOR,Pulbic employment services and administration,0.13
-2016,NOR,Pulbic employment services and administration,0.15
-2017,NOR,Pulbic employment services and administration,0.15
-2018,NOR,Pulbic employment services and administration,0.14
-2019,NOR,Pulbic employment services and administration,0.14
-2020,NOR,Pulbic employment services and administration,0.15
+2000,NOR,Public employment services and administration,0.11
+2001,NOR,Public employment services and administration,0.11
+2002,NOR,Public employment services and administration,0.12
+2003,NOR,Public employment services and administration,0.12
+2004,NOR,Public employment services and administration,0.13
+2005,NOR,Public employment services and administration,0.12
+2006,NOR,Public employment services and administration,0.11
+2007,NOR,Public employment services and administration,0.1
+2008,NOR,Public employment services and administration,0.1
+2009,NOR,Public employment services and administration,0.12
+2010,NOR,Public employment services and administration,0.13
+2011,NOR,Public employment services and administration,0.12
+2012,NOR,Public employment services and administration,0.12
+2013,NOR,Public employment services and administration,0.13
+2014,NOR,Public employment services and administration,0.13
+2015,NOR,Public employment services and administration,0.13
+2016,NOR,Public employment services and administration,0.15
+2017,NOR,Public employment services and administration,0.15
+2018,NOR,Public employment services and administration,0.14
+2019,NOR,Public employment services and administration,0.14
+2020,NOR,Public employment services and administration,0.15
 2000,NOR,Start-up incentives,0
 2001,NOR,Start-up incentives,0
 2002,NOR,Start-up incentives,0
@@ -1818,27 +1818,27 @@ year,geo,disagg,value
 2018,POL,Employment incentives,0.08
 2019,POL,Employment incentives,0.06
 2020,POL,Employment incentives,0.52
-2000,POL,Pulbic employment services and administration,0.03
-2001,POL,Pulbic employment services and administration,0.03
-2002,POL,Pulbic employment services and administration,0.03
-2003,POL,Pulbic employment services and administration,0.06
-2004,POL,Pulbic employment services and administration,0.05
-2005,POL,Pulbic employment services and administration,0.07
-2006,POL,Pulbic employment services and administration,0.09
-2007,POL,Pulbic employment services and administration,0.09
-2008,POL,Pulbic employment services and administration,0.09
-2009,POL,Pulbic employment services and administration,0.1
-2010,POL,Pulbic employment services and administration,0.09
-2011,POL,Pulbic employment services and administration,0.08
-2012,POL,Pulbic employment services and administration,0.08
-2013,POL,Pulbic employment services and administration,0.08
-2014,POL,Pulbic employment services and administration,0.08
-2015,POL,Pulbic employment services and administration,0.08
-2016,POL,Pulbic employment services and administration,0.08
-2017,POL,Pulbic employment services and administration,0.08
-2018,POL,Pulbic employment services and administration,0.06
-2019,POL,Pulbic employment services and administration,0.07
-2020,POL,Pulbic employment services and administration,0.07
+2000,POL,Public employment services and administration,0.03
+2001,POL,Public employment services and administration,0.03
+2002,POL,Public employment services and administration,0.03
+2003,POL,Public employment services and administration,0.06
+2004,POL,Public employment services and administration,0.05
+2005,POL,Public employment services and administration,0.07
+2006,POL,Public employment services and administration,0.09
+2007,POL,Public employment services and administration,0.09
+2008,POL,Public employment services and administration,0.09
+2009,POL,Public employment services and administration,0.1
+2010,POL,Public employment services and administration,0.09
+2011,POL,Public employment services and administration,0.08
+2012,POL,Public employment services and administration,0.08
+2013,POL,Public employment services and administration,0.08
+2014,POL,Public employment services and administration,0.08
+2015,POL,Public employment services and administration,0.08
+2016,POL,Public employment services and administration,0.08
+2017,POL,Public employment services and administration,0.08
+2018,POL,Public employment services and administration,0.06
+2019,POL,Public employment services and administration,0.07
+2020,POL,Public employment services and administration,0.07
 2000,POL,Start-up incentives,0.01
 2001,POL,Start-up incentives,0.01
 2002,POL,Start-up incentives,0.01
@@ -2175,27 +2175,27 @@ year,geo,disagg,value
 2018,SWE,Employment incentives,0.49
 2019,SWE,Employment incentives,0.46
 2020,SWE,Employment incentives,0.39
-2000,SWE,Pulbic employment services and administration,0.23
-2001,SWE,Pulbic employment services and administration,0.23
-2002,SWE,Pulbic employment services and administration,0.23
-2003,SWE,Pulbic employment services and administration,0.22
-2004,SWE,Pulbic employment services and administration,0.22
-2005,SWE,Pulbic employment services and administration,0.21
-2006,SWE,Pulbic employment services and administration,0.21
-2007,SWE,Pulbic employment services and administration,0.2
-2008,SWE,Pulbic employment services and administration,0.19
-2009,SWE,Pulbic employment services and administration,0.24
-2010,SWE,Pulbic employment services and administration,0.27
-2011,SWE,Pulbic employment services and administration,0.25
-2012,SWE,Pulbic employment services and administration,0.27
-2013,SWE,Pulbic employment services and administration,0.28
-2014,SWE,Pulbic employment services and administration,0.26
-2015,SWE,Pulbic employment services and administration,0.25
-2016,SWE,Pulbic employment services and administration,0.27
-2017,SWE,Pulbic employment services and administration,0.28
-2018,SWE,Pulbic employment services and administration,0.28
-2019,SWE,Pulbic employment services and administration,0.26
-2020,SWE,Pulbic employment services and administration,0.26
+2000,SWE,Public employment services and administration,0.23
+2001,SWE,Public employment services and administration,0.23
+2002,SWE,Public employment services and administration,0.23
+2003,SWE,Public employment services and administration,0.22
+2004,SWE,Public employment services and administration,0.22
+2005,SWE,Public employment services and administration,0.21
+2006,SWE,Public employment services and administration,0.21
+2007,SWE,Public employment services and administration,0.2
+2008,SWE,Public employment services and administration,0.19
+2009,SWE,Public employment services and administration,0.24
+2010,SWE,Public employment services and administration,0.27
+2011,SWE,Public employment services and administration,0.25
+2012,SWE,Public employment services and administration,0.27
+2013,SWE,Public employment services and administration,0.28
+2014,SWE,Public employment services and administration,0.26
+2015,SWE,Public employment services and administration,0.25
+2016,SWE,Public employment services and administration,0.27
+2017,SWE,Public employment services and administration,0.28
+2018,SWE,Public employment services and administration,0.28
+2019,SWE,Public employment services and administration,0.26
+2020,SWE,Public employment services and administration,0.26
 2000,SWE,Start-up incentives,0.04
 2001,SWE,Start-up incentives,0.04
 2002,SWE,Start-up incentives,0.04
@@ -2412,27 +2412,27 @@ year,geo,disagg,value
 2018,USA,Employment incentives,0.01
 2019,USA,Employment incentives,2.51
 2020,USA,Employment incentives,1.25
-2000,USA,Pulbic employment services and administration,0.04
-2001,USA,Pulbic employment services and administration,0.04
-2002,USA,Pulbic employment services and administration,0.04
-2003,USA,Pulbic employment services and administration,0.04
-2004,USA,Pulbic employment services and administration,0.03
-2005,USA,Pulbic employment services and administration,0.03
-2006,USA,Pulbic employment services and administration,0.03
-2007,USA,Pulbic employment services and administration,0.03
-2008,USA,Pulbic employment services and administration,0.04
-2009,USA,Pulbic employment services and administration,0.04
-2010,USA,Pulbic employment services and administration,0.04
-2011,USA,Pulbic employment services and administration,0.04
-2012,USA,Pulbic employment services and administration,0.03
-2013,USA,Pulbic employment services and administration,0.03
-2014,USA,Pulbic employment services and administration,0.02
-2015,USA,Pulbic employment services and administration,0.02
-2016,USA,Pulbic employment services and administration,0.02
-2017,USA,Pulbic employment services and administration,0.02
-2018,USA,Pulbic employment services and administration,0.02
-2019,USA,Pulbic employment services and administration,0.02
-2020,USA,Pulbic employment services and administration,0.02
+2000,USA,Public employment services and administration,0.04
+2001,USA,Public employment services and administration,0.04
+2002,USA,Public employment services and administration,0.04
+2003,USA,Public employment services and administration,0.04
+2004,USA,Public employment services and administration,0.03
+2005,USA,Public employment services and administration,0.03
+2006,USA,Public employment services and administration,0.03
+2007,USA,Public employment services and administration,0.03
+2008,USA,Public employment services and administration,0.04
+2009,USA,Public employment services and administration,0.04
+2010,USA,Public employment services and administration,0.04
+2011,USA,Public employment services and administration,0.04
+2012,USA,Public employment services and administration,0.03
+2013,USA,Public employment services and administration,0.03
+2014,USA,Public employment services and administration,0.02
+2015,USA,Public employment services and administration,0.02
+2016,USA,Public employment services and administration,0.02
+2017,USA,Public employment services and administration,0.02
+2018,USA,Public employment services and administration,0.02
+2019,USA,Public employment services and administration,0.02
+2020,USA,Public employment services and administration,0.02
 2000,USA,Start-up incentives,0
 2001,USA,Start-up incentives,0
 2002,USA,Start-up incentives,0
@@ -2507,21 +2507,21 @@ year,geo,disagg,value
 2018,CHL,Employment incentives,0
 2019,CHL,Employment incentives,0
 2020,CHL,Employment incentives,0
-2006,CHL,Pulbic employment services and administration,0.01
-2007,CHL,Pulbic employment services and administration,0.01
-2008,CHL,Pulbic employment services and administration,0.02
-2009,CHL,Pulbic employment services and administration,0.02
-2010,CHL,Pulbic employment services and administration,0.02
-2011,CHL,Pulbic employment services and administration,0.02
-2012,CHL,Pulbic employment services and administration,0.03
-2013,CHL,Pulbic employment services and administration,0.03
-2014,CHL,Pulbic employment services and administration,0.03
-2015,CHL,Pulbic employment services and administration,0.03
-2016,CHL,Pulbic employment services and administration,0.03
-2017,CHL,Pulbic employment services and administration,0.03
-2018,CHL,Pulbic employment services and administration,0.03
-2019,CHL,Pulbic employment services and administration,0.03
-2020,CHL,Pulbic employment services and administration,0.03
+2006,CHL,Public employment services and administration,0.01
+2007,CHL,Public employment services and administration,0.01
+2008,CHL,Public employment services and administration,0.02
+2009,CHL,Public employment services and administration,0.02
+2010,CHL,Public employment services and administration,0.02
+2011,CHL,Public employment services and administration,0.02
+2012,CHL,Public employment services and administration,0.03
+2013,CHL,Public employment services and administration,0.03
+2014,CHL,Public employment services and administration,0.03
+2015,CHL,Public employment services and administration,0.03
+2016,CHL,Public employment services and administration,0.03
+2017,CHL,Public employment services and administration,0.03
+2018,CHL,Public employment services and administration,0.03
+2019,CHL,Public employment services and administration,0.03
+2020,CHL,Public employment services and administration,0.03
 2004,CHL,Start-up incentives,0
 2005,CHL,Start-up incentives,0
 2006,CHL,Start-up incentives,0
@@ -2656,22 +2656,22 @@ year,geo,disagg,value
 2017,ISR,Employment incentives,0.05
 2018,ISR,Employment incentives,0.03
 2019,ISR,Employment incentives,0.03
-2004,ISR,Pulbic employment services and administration,0
-2005,ISR,Pulbic employment services and administration,0.04
-2006,ISR,Pulbic employment services and administration,0.05
-2007,ISR,Pulbic employment services and administration,0.04
-2008,ISR,Pulbic employment services and administration,0.04
-2009,ISR,Pulbic employment services and administration,0.03
-2010,ISR,Pulbic employment services and administration,0.03
-2011,ISR,Pulbic employment services and administration,0.02
-2012,ISR,Pulbic employment services and administration,0.02
-2013,ISR,Pulbic employment services and administration,0.02
-2014,ISR,Pulbic employment services and administration,0.02
-2015,ISR,Pulbic employment services and administration,0.02
-2016,ISR,Pulbic employment services and administration,0.03
-2017,ISR,Pulbic employment services and administration,0.03
-2018,ISR,Pulbic employment services and administration,0.03
-2019,ISR,Pulbic employment services and administration,0.03
+2004,ISR,Public employment services and administration,0
+2005,ISR,Public employment services and administration,0.04
+2006,ISR,Public employment services and administration,0.05
+2007,ISR,Public employment services and administration,0.04
+2008,ISR,Public employment services and administration,0.04
+2009,ISR,Public employment services and administration,0.03
+2010,ISR,Public employment services and administration,0.03
+2011,ISR,Public employment services and administration,0.02
+2012,ISR,Public employment services and administration,0.02
+2013,ISR,Public employment services and administration,0.02
+2014,ISR,Public employment services and administration,0.02
+2015,ISR,Public employment services and administration,0.02
+2016,ISR,Public employment services and administration,0.03
+2017,ISR,Public employment services and administration,0.03
+2018,ISR,Public employment services and administration,0.03
+2019,ISR,Public employment services and administration,0.03
 2004,ISR,Start-up incentives,0
 2005,ISR,Start-up incentives,0
 2006,ISR,Start-up incentives,0
@@ -2775,27 +2775,27 @@ year,geo,disagg,value
 2018,SVN,Training,0.05
 2019,SVN,Training,0.04
 2020,SVN,Training,0.05
-2000,AUS,Pulbic employment services and administration,0.2
-2001,AUS,Pulbic employment services and administration,0.19
-2002,AUS,Pulbic employment services and administration,0.17
-2003,AUS,Pulbic employment services and administration,0.18
-2004,AUS,Pulbic employment services and administration,0.22
-2005,AUS,Pulbic employment services and administration,0.21
-2006,AUS,Pulbic employment services and administration,0.19
-2007,AUS,Pulbic employment services and administration,0.17
-2008,AUS,Pulbic employment services and administration,0.16
-2009,AUS,Pulbic employment services and administration,0.19
-2010,AUS,Pulbic employment services and administration,0.18
-2011,AUS,Pulbic employment services and administration,0.17
-2012,AUS,Pulbic employment services and administration,0.16
-2013,AUS,Pulbic employment services and administration,0.15
-2014,AUS,Pulbic employment services and administration,0.17
-2015,AUS,Pulbic employment services and administration,0.15
-2016,AUS,Pulbic employment services and administration,0.16
-2017,AUS,Pulbic employment services and administration,0.16
-2018,AUS,Pulbic employment services and administration,0.15
-2019,AUS,Pulbic employment services and administration,0.17
-2020,AUS,Pulbic employment services and administration,0.19
+2000,AUS,Public employment services and administration,0.2
+2001,AUS,Public employment services and administration,0.19
+2002,AUS,Public employment services and administration,0.17
+2003,AUS,Public employment services and administration,0.18
+2004,AUS,Public employment services and administration,0.22
+2005,AUS,Public employment services and administration,0.21
+2006,AUS,Public employment services and administration,0.19
+2007,AUS,Public employment services and administration,0.17
+2008,AUS,Public employment services and administration,0.16
+2009,AUS,Public employment services and administration,0.19
+2010,AUS,Public employment services and administration,0.18
+2011,AUS,Public employment services and administration,0.17
+2012,AUS,Public employment services and administration,0.16
+2013,AUS,Public employment services and administration,0.15
+2014,AUS,Public employment services and administration,0.17
+2015,AUS,Public employment services and administration,0.15
+2016,AUS,Public employment services and administration,0.16
+2017,AUS,Public employment services and administration,0.16
+2018,AUS,Public employment services and administration,0.15
+2019,AUS,Public employment services and administration,0.17
+2020,AUS,Public employment services and administration,0.19
 2000,AUS,Sheltered and supported employment and rehabilitation,0.05
 2001,AUS,Sheltered and supported employment and rehabilitation,0.05
 2002,AUS,Sheltered and supported employment and rehabilitation,0.05
@@ -2817,27 +2817,27 @@ year,geo,disagg,value
 2018,AUS,Sheltered and supported employment and rehabilitation,0.05
 2019,AUS,Sheltered and supported employment and rehabilitation,0.06
 2020,AUS,Sheltered and supported employment and rehabilitation,0.07
-2000,AUT,Pulbic employment services and administration,0.13
-2001,AUT,Pulbic employment services and administration,0.14
-2002,AUT,Pulbic employment services and administration,0.15
-2003,AUT,Pulbic employment services and administration,0.17
-2004,AUT,Pulbic employment services and administration,0.17
-2005,AUT,Pulbic employment services and administration,0.16
-2006,AUT,Pulbic employment services and administration,0.16
-2007,AUT,Pulbic employment services and administration,0.16
-2008,AUT,Pulbic employment services and administration,0.15
-2009,AUT,Pulbic employment services and administration,0.17
-2010,AUT,Pulbic employment services and administration,0.18
-2011,AUT,Pulbic employment services and administration,0.17
-2012,AUT,Pulbic employment services and administration,0.17
-2013,AUT,Pulbic employment services and administration,0.17
-2014,AUT,Pulbic employment services and administration,0.17
-2015,AUT,Pulbic employment services and administration,0.17
-2016,AUT,Pulbic employment services and administration,0.17
-2017,AUT,Pulbic employment services and administration,0.18
-2018,AUT,Pulbic employment services and administration,0.17
-2019,AUT,Pulbic employment services and administration,0.18
-2020,AUT,Pulbic employment services and administration,0.22
+2000,AUT,Public employment services and administration,0.13
+2001,AUT,Public employment services and administration,0.14
+2002,AUT,Public employment services and administration,0.15
+2003,AUT,Public employment services and administration,0.17
+2004,AUT,Public employment services and administration,0.17
+2005,AUT,Public employment services and administration,0.16
+2006,AUT,Public employment services and administration,0.16
+2007,AUT,Public employment services and administration,0.16
+2008,AUT,Public employment services and administration,0.15
+2009,AUT,Public employment services and administration,0.17
+2010,AUT,Public employment services and administration,0.18
+2011,AUT,Public employment services and administration,0.17
+2012,AUT,Public employment services and administration,0.17
+2013,AUT,Public employment services and administration,0.17
+2014,AUT,Public employment services and administration,0.17
+2015,AUT,Public employment services and administration,0.17
+2016,AUT,Public employment services and administration,0.17
+2017,AUT,Public employment services and administration,0.18
+2018,AUT,Public employment services and administration,0.17
+2019,AUT,Public employment services and administration,0.18
+2020,AUT,Public employment services and administration,0.22
 2000,AUT,Sheltered and supported employment and rehabilitation,0.02
 2001,AUT,Sheltered and supported employment and rehabilitation,0.03
 2002,AUT,Sheltered and supported employment and rehabilitation,0.03
@@ -2880,27 +2880,27 @@ year,geo,disagg,value
 2018,BEL,Sheltered and supported employment and rehabilitation,0.14
 2019,BEL,Sheltered and supported employment and rehabilitation,0.14
 2020,BEL,Sheltered and supported employment and rehabilitation,0.14
-2000,CAN,Pulbic employment services and administration,0.2
-2001,CAN,Pulbic employment services and administration,0.21
-2002,CAN,Pulbic employment services and administration,0.19
-2003,CAN,Pulbic employment services and administration,0.19
-2004,CAN,Pulbic employment services and administration,0.18
-2005,CAN,Pulbic employment services and administration,0.16
-2006,CAN,Pulbic employment services and administration,0.15
-2007,CAN,Pulbic employment services and administration,0.13
-2008,CAN,Pulbic employment services and administration,0.13
-2009,CAN,Pulbic employment services and administration,0.13
-2010,CAN,Pulbic employment services and administration,0.14
-2011,CAN,Pulbic employment services and administration,0.11
-2012,CAN,Pulbic employment services and administration,0.1
-2013,CAN,Pulbic employment services and administration,0.1
-2014,CAN,Pulbic employment services and administration,0.1
-2015,CAN,Pulbic employment services and administration,0.12
-2016,CAN,Pulbic employment services and administration,0.13
-2017,CAN,Pulbic employment services and administration,0.12
-2018,CAN,Pulbic employment services and administration,0.11
-2019,CAN,Pulbic employment services and administration,0.1
-2020,CAN,Pulbic employment services and administration,0.14
+2000,CAN,Public employment services and administration,0.2
+2001,CAN,Public employment services and administration,0.21
+2002,CAN,Public employment services and administration,0.19
+2003,CAN,Public employment services and administration,0.19
+2004,CAN,Public employment services and administration,0.18
+2005,CAN,Public employment services and administration,0.16
+2006,CAN,Public employment services and administration,0.15
+2007,CAN,Public employment services and administration,0.13
+2008,CAN,Public employment services and administration,0.13
+2009,CAN,Public employment services and administration,0.13
+2010,CAN,Public employment services and administration,0.14
+2011,CAN,Public employment services and administration,0.11
+2012,CAN,Public employment services and administration,0.1
+2013,CAN,Public employment services and administration,0.1
+2014,CAN,Public employment services and administration,0.1
+2015,CAN,Public employment services and administration,0.12
+2016,CAN,Public employment services and administration,0.13
+2017,CAN,Public employment services and administration,0.12
+2018,CAN,Public employment services and administration,0.11
+2019,CAN,Public employment services and administration,0.1
+2020,CAN,Public employment services and administration,0.14
 2000,CAN,Sheltered and supported employment and rehabilitation,0.02
 2001,CAN,Sheltered and supported employment and rehabilitation,0.02
 2002,CAN,Sheltered and supported employment and rehabilitation,0.02
@@ -2922,27 +2922,27 @@ year,geo,disagg,value
 2018,CAN,Sheltered and supported employment and rehabilitation,0
 2019,CAN,Sheltered and supported employment and rehabilitation,0
 2020,CAN,Sheltered and supported employment and rehabilitation,0
-2000,CZE,Pulbic employment services and administration,0.07
-2001,CZE,Pulbic employment services and administration,0.07
-2002,CZE,Pulbic employment services and administration,0.06
-2003,CZE,Pulbic employment services and administration,0.07
-2004,CZE,Pulbic employment services and administration,0.11
-2005,CZE,Pulbic employment services and administration,0.12
-2006,CZE,Pulbic employment services and administration,0.12
-2007,CZE,Pulbic employment services and administration,0.12
-2008,CZE,Pulbic employment services and administration,0.11
-2009,CZE,Pulbic employment services and administration,0.12
-2010,CZE,Pulbic employment services and administration,0.11
-2011,CZE,Pulbic employment services and administration,0.09
-2012,CZE,Pulbic employment services and administration,0.11
-2013,CZE,Pulbic employment services and administration,0.1
-2014,CZE,Pulbic employment services and administration,0.12
-2015,CZE,Pulbic employment services and administration,0.12
-2016,CZE,Pulbic employment services and administration,0.11
-2017,CZE,Pulbic employment services and administration,0.11
-2018,CZE,Pulbic employment services and administration,0.12
-2019,CZE,Pulbic employment services and administration,0.12
-2020,CZE,Pulbic employment services and administration,0.12
+2000,CZE,Public employment services and administration,0.07
+2001,CZE,Public employment services and administration,0.07
+2002,CZE,Public employment services and administration,0.06
+2003,CZE,Public employment services and administration,0.07
+2004,CZE,Public employment services and administration,0.11
+2005,CZE,Public employment services and administration,0.12
+2006,CZE,Public employment services and administration,0.12
+2007,CZE,Public employment services and administration,0.12
+2008,CZE,Public employment services and administration,0.11
+2009,CZE,Public employment services and administration,0.12
+2010,CZE,Public employment services and administration,0.11
+2011,CZE,Public employment services and administration,0.09
+2012,CZE,Public employment services and administration,0.11
+2013,CZE,Public employment services and administration,0.1
+2014,CZE,Public employment services and administration,0.12
+2015,CZE,Public employment services and administration,0.12
+2016,CZE,Public employment services and administration,0.11
+2017,CZE,Public employment services and administration,0.11
+2018,CZE,Public employment services and administration,0.12
+2019,CZE,Public employment services and administration,0.12
+2020,CZE,Public employment services and administration,0.12
 2000,CZE,Sheltered and supported employment and rehabilitation,0.01
 2001,CZE,Sheltered and supported employment and rehabilitation,0.01
 2002,CZE,Sheltered and supported employment and rehabilitation,0.03
@@ -2964,27 +2964,27 @@ year,geo,disagg,value
 2018,CZE,Sheltered and supported employment and rehabilitation,0.13
 2019,CZE,Sheltered and supported employment and rehabilitation,0.13
 2020,CZE,Sheltered and supported employment and rehabilitation,0.15
-2000,DNK,Pulbic employment services and administration,0.28
-2001,DNK,Pulbic employment services and administration,0.28
-2002,DNK,Pulbic employment services and administration,0.27
-2003,DNK,Pulbic employment services and administration,0.28
-2004,DNK,Pulbic employment services and administration,0.33
-2005,DNK,Pulbic employment services and administration,0.31
-2006,DNK,Pulbic employment services and administration,0.29
-2007,DNK,Pulbic employment services and administration,0.25
-2008,DNK,Pulbic employment services and administration,0.28
-2009,DNK,Pulbic employment services and administration,0.32
-2010,DNK,Pulbic employment services and administration,0.39
-2011,DNK,Pulbic employment services and administration,0.37
-2012,DNK,Pulbic employment services and administration,0.37
-2013,DNK,Pulbic employment services and administration,0.38
-2014,DNK,Pulbic employment services and administration,0.39
-2015,DNK,Pulbic employment services and administration,0.39
-2016,DNK,Pulbic employment services and administration,0.4
-2017,DNK,Pulbic employment services and administration,0.39
-2018,DNK,Pulbic employment services and administration,0.38
-2019,DNK,Pulbic employment services and administration,0.38
-2020,DNK,Pulbic employment services and administration,0.37
+2000,DNK,Public employment services and administration,0.28
+2001,DNK,Public employment services and administration,0.28
+2002,DNK,Public employment services and administration,0.27
+2003,DNK,Public employment services and administration,0.28
+2004,DNK,Public employment services and administration,0.33
+2005,DNK,Public employment services and administration,0.31
+2006,DNK,Public employment services and administration,0.29
+2007,DNK,Public employment services and administration,0.25
+2008,DNK,Public employment services and administration,0.28
+2009,DNK,Public employment services and administration,0.32
+2010,DNK,Public employment services and administration,0.39
+2011,DNK,Public employment services and administration,0.37
+2012,DNK,Public employment services and administration,0.37
+2013,DNK,Public employment services and administration,0.38
+2014,DNK,Public employment services and administration,0.39
+2015,DNK,Public employment services and administration,0.39
+2016,DNK,Public employment services and administration,0.4
+2017,DNK,Public employment services and administration,0.39
+2018,DNK,Public employment services and administration,0.38
+2019,DNK,Public employment services and administration,0.38
+2020,DNK,Public employment services and administration,0.37
 2000,DNK,Sheltered and supported employment and rehabilitation,0.4
 2001,DNK,Sheltered and supported employment and rehabilitation,0.42
 2002,DNK,Sheltered and supported employment and rehabilitation,0.49
@@ -3006,27 +3006,27 @@ year,geo,disagg,value
 2018,DNK,Sheltered and supported employment and rehabilitation,0.94
 2019,DNK,Sheltered and supported employment and rehabilitation,0.98
 2020,DNK,Sheltered and supported employment and rehabilitation,0.98
-2000,FIN,Pulbic employment services and administration,0.14
-2001,FIN,Pulbic employment services and administration,0.14
-2002,FIN,Pulbic employment services and administration,0.14
-2003,FIN,Pulbic employment services and administration,0.15
-2004,FIN,Pulbic employment services and administration,0.17
-2005,FIN,Pulbic employment services and administration,0.17
-2006,FIN,Pulbic employment services and administration,0.16
-2007,FIN,Pulbic employment services and administration,0.15
-2008,FIN,Pulbic employment services and administration,0.14
-2009,FIN,Pulbic employment services and administration,0.16
-2010,FIN,Pulbic employment services and administration,0.17
-2011,FIN,Pulbic employment services and administration,0.16
-2012,FIN,Pulbic employment services and administration,0.15
-2013,FIN,Pulbic employment services and administration,0.14
-2014,FIN,Pulbic employment services and administration,0.15
-2015,FIN,Pulbic employment services and administration,0.15
-2016,FIN,Pulbic employment services and administration,0.15
-2017,FIN,Pulbic employment services and administration,0.14
-2018,FIN,Pulbic employment services and administration,0.15
-2019,FIN,Pulbic employment services and administration,0.15
-2020,FIN,Pulbic employment services and administration,0.16
+2000,FIN,Public employment services and administration,0.14
+2001,FIN,Public employment services and administration,0.14
+2002,FIN,Public employment services and administration,0.14
+2003,FIN,Public employment services and administration,0.15
+2004,FIN,Public employment services and administration,0.17
+2005,FIN,Public employment services and administration,0.17
+2006,FIN,Public employment services and administration,0.16
+2007,FIN,Public employment services and administration,0.15
+2008,FIN,Public employment services and administration,0.14
+2009,FIN,Public employment services and administration,0.16
+2010,FIN,Public employment services and administration,0.17
+2011,FIN,Public employment services and administration,0.16
+2012,FIN,Public employment services and administration,0.15
+2013,FIN,Public employment services and administration,0.14
+2014,FIN,Public employment services and administration,0.15
+2015,FIN,Public employment services and administration,0.15
+2016,FIN,Public employment services and administration,0.15
+2017,FIN,Public employment services and administration,0.14
+2018,FIN,Public employment services and administration,0.15
+2019,FIN,Public employment services and administration,0.15
+2020,FIN,Public employment services and administration,0.16
 2000,FIN,Sheltered and supported employment and rehabilitation,0.08
 2001,FIN,Sheltered and supported employment and rehabilitation,0.09
 2002,FIN,Sheltered and supported employment and rehabilitation,0.09
@@ -3048,27 +3048,27 @@ year,geo,disagg,value
 2018,FIN,Sheltered and supported employment and rehabilitation,0.12
 2019,FIN,Sheltered and supported employment and rehabilitation,0.13
 2020,FIN,Sheltered and supported employment and rehabilitation,0.15
-2000,FRA,Pulbic employment services and administration,0.18
-2001,FRA,Pulbic employment services and administration,0.2
-2002,FRA,Pulbic employment services and administration,0.22
-2003,FRA,Pulbic employment services and administration,0.24
-2004,FRA,Pulbic employment services and administration,0.24
-2005,FRA,Pulbic employment services and administration,0.24
-2006,FRA,Pulbic employment services and administration,0.25
-2007,FRA,Pulbic employment services and administration,0.23
-2008,FRA,Pulbic employment services and administration,0.21
-2009,FRA,Pulbic employment services and administration,0.27
-2010,FRA,Pulbic employment services and administration,0.31
-2011,FRA,Pulbic employment services and administration,0.27
-2012,FRA,Pulbic employment services and administration,0.27
-2013,FRA,Pulbic employment services and administration,0.27
-2014,FRA,Pulbic employment services and administration,0.27
-2015,FRA,Pulbic employment services and administration,0.26
-2016,FRA,Pulbic employment services and administration,0.25
-2017,FRA,Pulbic employment services and administration,0.25
-2018,FRA,Pulbic employment services and administration,0.23
-2019,FRA,Pulbic employment services and administration,0.24
-2020,FRA,Pulbic employment services and administration,0.25
+2000,FRA,Public employment services and administration,0.18
+2001,FRA,Public employment services and administration,0.2
+2002,FRA,Public employment services and administration,0.22
+2003,FRA,Public employment services and administration,0.24
+2004,FRA,Public employment services and administration,0.24
+2005,FRA,Public employment services and administration,0.24
+2006,FRA,Public employment services and administration,0.25
+2007,FRA,Public employment services and administration,0.23
+2008,FRA,Public employment services and administration,0.21
+2009,FRA,Public employment services and administration,0.27
+2010,FRA,Public employment services and administration,0.31
+2011,FRA,Public employment services and administration,0.27
+2012,FRA,Public employment services and administration,0.27
+2013,FRA,Public employment services and administration,0.27
+2014,FRA,Public employment services and administration,0.27
+2015,FRA,Public employment services and administration,0.26
+2016,FRA,Public employment services and administration,0.25
+2017,FRA,Public employment services and administration,0.25
+2018,FRA,Public employment services and administration,0.23
+2019,FRA,Public employment services and administration,0.24
+2020,FRA,Public employment services and administration,0.25
 2000,FRA,Sheltered and supported employment and rehabilitation,0.08
 2001,FRA,Sheltered and supported employment and rehabilitation,0.09
 2002,FRA,Sheltered and supported employment and rehabilitation,0.09
@@ -3090,27 +3090,27 @@ year,geo,disagg,value
 2018,FRA,Sheltered and supported employment and rehabilitation,0.09
 2019,FRA,Sheltered and supported employment and rehabilitation,0.09
 2020,FRA,Sheltered and supported employment and rehabilitation,0.09
-2000,DEU,Pulbic employment services and administration,0.22
-2001,DEU,Pulbic employment services and administration,0.22
-2002,DEU,Pulbic employment services and administration,0.23
-2003,DEU,Pulbic employment services and administration,0.24
-2004,DEU,Pulbic employment services and administration,0.23
-2005,DEU,Pulbic employment services and administration,0.31
-2006,DEU,Pulbic employment services and administration,0.3
-2007,DEU,Pulbic employment services and administration,0.31
-2008,DEU,Pulbic employment services and administration,0.33
-2009,DEU,Pulbic employment services and administration,0.38
-2010,DEU,Pulbic employment services and administration,0.38
-2011,DEU,Pulbic employment services and administration,0.34
-2012,DEU,Pulbic employment services and administration,0.33
-2013,DEU,Pulbic employment services and administration,0.35
-2014,DEU,Pulbic employment services and administration,0.37
-2015,DEU,Pulbic employment services and administration,0.36
-2016,DEU,Pulbic employment services and administration,0.36
-2017,DEU,Pulbic employment services and administration,0.39
-2018,DEU,Pulbic employment services and administration,0.43
-2019,DEU,Pulbic employment services and administration,0.34
-2020,DEU,Pulbic employment services and administration,0.33
+2000,DEU,Public employment services and administration,0.22
+2001,DEU,Public employment services and administration,0.22
+2002,DEU,Public employment services and administration,0.23
+2003,DEU,Public employment services and administration,0.24
+2004,DEU,Public employment services and administration,0.23
+2005,DEU,Public employment services and administration,0.31
+2006,DEU,Public employment services and administration,0.3
+2007,DEU,Public employment services and administration,0.31
+2008,DEU,Public employment services and administration,0.33
+2009,DEU,Public employment services and administration,0.38
+2010,DEU,Public employment services and administration,0.38
+2011,DEU,Public employment services and administration,0.34
+2012,DEU,Public employment services and administration,0.33
+2013,DEU,Public employment services and administration,0.35
+2014,DEU,Public employment services and administration,0.37
+2015,DEU,Public employment services and administration,0.36
+2016,DEU,Public employment services and administration,0.36
+2017,DEU,Public employment services and administration,0.39
+2018,DEU,Public employment services and administration,0.43
+2019,DEU,Public employment services and administration,0.34
+2020,DEU,Public employment services and administration,0.33
 2000,DEU,Sheltered and supported employment and rehabilitation,0.12
 2001,DEU,Sheltered and supported employment and rehabilitation,0.12
 2002,DEU,Sheltered and supported employment and rehabilitation,0.13
@@ -3174,27 +3174,27 @@ year,geo,disagg,value
 2018,HUN,Sheltered and supported employment and rehabilitation,0
 2019,HUN,Sheltered and supported employment and rehabilitation,0
 2020,HUN,Sheltered and supported employment and rehabilitation,0
-2000,IRL,Pulbic employment services and administration,0.13
-2001,IRL,Pulbic employment services and administration,0.13
-2002,IRL,Pulbic employment services and administration,0.13
-2003,IRL,Pulbic employment services and administration,0.12
-2004,IRL,Pulbic employment services and administration,0.12
-2005,IRL,Pulbic employment services and administration,0.12
-2006,IRL,Pulbic employment services and administration,0.11
-2007,IRL,Pulbic employment services and administration,0.12
-2008,IRL,Pulbic employment services and administration,0.13
-2009,IRL,Pulbic employment services and administration,0.17
-2010,IRL,Pulbic employment services and administration,0.17
-2011,IRL,Pulbic employment services and administration,0.16
-2012,IRL,Pulbic employment services and administration,0.17
-2013,IRL,Pulbic employment services and administration,0.16
-2014,IRL,Pulbic employment services and administration,0.12
-2015,IRL,Pulbic employment services and administration,0.09
-2016,IRL,Pulbic employment services and administration,0.08
-2017,IRL,Pulbic employment services and administration,0.06
-2018,IRL,Pulbic employment services and administration,0.05
-2019,IRL,Pulbic employment services and administration,0.05
-2020,IRL,Pulbic employment services and administration,0.05
+2000,IRL,Public employment services and administration,0.13
+2001,IRL,Public employment services and administration,0.13
+2002,IRL,Public employment services and administration,0.13
+2003,IRL,Public employment services and administration,0.12
+2004,IRL,Public employment services and administration,0.12
+2005,IRL,Public employment services and administration,0.12
+2006,IRL,Public employment services and administration,0.11
+2007,IRL,Public employment services and administration,0.12
+2008,IRL,Public employment services and administration,0.13
+2009,IRL,Public employment services and administration,0.17
+2010,IRL,Public employment services and administration,0.17
+2011,IRL,Public employment services and administration,0.16
+2012,IRL,Public employment services and administration,0.17
+2013,IRL,Public employment services and administration,0.16
+2014,IRL,Public employment services and administration,0.12
+2015,IRL,Public employment services and administration,0.09
+2016,IRL,Public employment services and administration,0.08
+2017,IRL,Public employment services and administration,0.06
+2018,IRL,Public employment services and administration,0.05
+2019,IRL,Public employment services and administration,0.05
+2020,IRL,Public employment services and administration,0.05
 2000,IRL,Sheltered and supported employment and rehabilitation,0
 2001,IRL,Sheltered and supported employment and rehabilitation,0.01
 2002,IRL,Sheltered and supported employment and rehabilitation,0.01
@@ -3237,27 +3237,27 @@ year,geo,disagg,value
 2018,ITA,Sheltered and supported employment and rehabilitation,0.01
 2019,ITA,Sheltered and supported employment and rehabilitation,0.01
 2020,ITA,Sheltered and supported employment and rehabilitation,0.01
-2000,JPN,Pulbic employment services and administration,0.13
-2001,JPN,Pulbic employment services and administration,0.14
-2002,JPN,Pulbic employment services and administration,0.12
-2003,JPN,Pulbic employment services and administration,0.1
-2004,JPN,Pulbic employment services and administration,0.08
-2005,JPN,Pulbic employment services and administration,0.08
-2006,JPN,Pulbic employment services and administration,0.07
-2007,JPN,Pulbic employment services and administration,0.07
-2008,JPN,Pulbic employment services and administration,0.05
-2009,JPN,Pulbic employment services and administration,0.06
-2010,JPN,Pulbic employment services and administration,0.05
-2011,JPN,Pulbic employment services and administration,0.06
-2012,JPN,Pulbic employment services and administration,0.07
-2013,JPN,Pulbic employment services and administration,0.07
-2014,JPN,Pulbic employment services and administration,0.07
-2015,JPN,Pulbic employment services and administration,0.07
-2016,JPN,Pulbic employment services and administration,0.07
-2017,JPN,Pulbic employment services and administration,0.07
-2018,JPN,Pulbic employment services and administration,0.07
-2019,JPN,Pulbic employment services and administration,0.07
-2020,JPN,Pulbic employment services and administration,0.07
+2000,JPN,Public employment services and administration,0.13
+2001,JPN,Public employment services and administration,0.14
+2002,JPN,Public employment services and administration,0.12
+2003,JPN,Public employment services and administration,0.1
+2004,JPN,Public employment services and administration,0.08
+2005,JPN,Public employment services and administration,0.08
+2006,JPN,Public employment services and administration,0.07
+2007,JPN,Public employment services and administration,0.07
+2008,JPN,Public employment services and administration,0.05
+2009,JPN,Public employment services and administration,0.06
+2010,JPN,Public employment services and administration,0.05
+2011,JPN,Public employment services and administration,0.06
+2012,JPN,Public employment services and administration,0.07
+2013,JPN,Public employment services and administration,0.07
+2014,JPN,Public employment services and administration,0.07
+2015,JPN,Public employment services and administration,0.07
+2016,JPN,Public employment services and administration,0.07
+2017,JPN,Public employment services and administration,0.07
+2018,JPN,Public employment services and administration,0.07
+2019,JPN,Public employment services and administration,0.07
+2020,JPN,Public employment services and administration,0.07
 2000,JPN,Sheltered and supported employment and rehabilitation,0
 2001,JPN,Sheltered and supported employment and rehabilitation,0
 2002,JPN,Sheltered and supported employment and rehabilitation,0
@@ -3300,27 +3300,27 @@ year,geo,disagg,value
 2018,KOR,Sheltered and supported employment and rehabilitation,0.02
 2019,KOR,Sheltered and supported employment and rehabilitation,0.03
 2020,KOR,Sheltered and supported employment and rehabilitation,0.03
-2000,LUX,Pulbic employment services and administration,0.05
-2001,LUX,Pulbic employment services and administration,0.04
-2002,LUX,Pulbic employment services and administration,0.04
-2003,LUX,Pulbic employment services and administration,0.05
-2004,LUX,Pulbic employment services and administration,0.05
-2005,LUX,Pulbic employment services and administration,0.05
-2006,LUX,Pulbic employment services and administration,0.04
-2007,LUX,Pulbic employment services and administration,0.04
-2008,LUX,Pulbic employment services and administration,0.04
-2009,LUX,Pulbic employment services and administration,0.05
-2010,LUX,Pulbic employment services and administration,0.05
-2011,LUX,Pulbic employment services and administration,0.05
-2012,LUX,Pulbic employment services and administration,0.06
-2013,LUX,Pulbic employment services and administration,0.04
-2014,LUX,Pulbic employment services and administration,0.05
-2015,LUX,Pulbic employment services and administration,0.06
-2016,LUX,Pulbic employment services and administration,0.06
-2017,LUX,Pulbic employment services and administration,0.06
-2018,LUX,Pulbic employment services and administration,0.06
-2019,LUX,Pulbic employment services and administration,0.08
-2020,LUX,Pulbic employment services and administration,0.08
+2000,LUX,Public employment services and administration,0.05
+2001,LUX,Public employment services and administration,0.04
+2002,LUX,Public employment services and administration,0.04
+2003,LUX,Public employment services and administration,0.05
+2004,LUX,Public employment services and administration,0.05
+2005,LUX,Public employment services and administration,0.05
+2006,LUX,Public employment services and administration,0.04
+2007,LUX,Public employment services and administration,0.04
+2008,LUX,Public employment services and administration,0.04
+2009,LUX,Public employment services and administration,0.05
+2010,LUX,Public employment services and administration,0.05
+2011,LUX,Public employment services and administration,0.05
+2012,LUX,Public employment services and administration,0.06
+2013,LUX,Public employment services and administration,0.04
+2014,LUX,Public employment services and administration,0.05
+2015,LUX,Public employment services and administration,0.06
+2016,LUX,Public employment services and administration,0.06
+2017,LUX,Public employment services and administration,0.06
+2018,LUX,Public employment services and administration,0.06
+2019,LUX,Public employment services and administration,0.08
+2020,LUX,Public employment services and administration,0.08
 2000,LUX,Sheltered and supported employment and rehabilitation,0
 2001,LUX,Sheltered and supported employment and rehabilitation,0
 2002,LUX,Sheltered and supported employment and rehabilitation,0.01
@@ -3363,27 +3363,27 @@ year,geo,disagg,value
 2018,MEX,Sheltered and supported employment and rehabilitation,0
 2019,MEX,Sheltered and supported employment and rehabilitation,0
 2020,MEX,Sheltered and supported employment and rehabilitation,0
-2000,NLD,Pulbic employment services and administration,0.39
-2001,NLD,Pulbic employment services and administration,0.37
-2002,NLD,Pulbic employment services and administration,0.42
-2003,NLD,Pulbic employment services and administration,0.41
-2004,NLD,Pulbic employment services and administration,0.39
-2005,NLD,Pulbic employment services and administration,0.36
-2006,NLD,Pulbic employment services and administration,0.35
-2007,NLD,Pulbic employment services and administration,0.31
-2008,NLD,Pulbic employment services and administration,0.28
-2009,NLD,Pulbic employment services and administration,0.35
-2010,NLD,Pulbic employment services and administration,0.36
-2011,NLD,Pulbic employment services and administration,0.34
-2012,NLD,Pulbic employment services and administration,0.27
-2013,NLD,Pulbic employment services and administration,0.25
-2014,NLD,Pulbic employment services and administration,0.27
-2015,NLD,Pulbic employment services and administration,0.24
-2016,NLD,Pulbic employment services and administration,0.23
-2017,NLD,Pulbic employment services and administration,0.22
-2018,NLD,Pulbic employment services and administration,0.2
-2019,NLD,Pulbic employment services and administration,0.18
-2020,NLD,Pulbic employment services and administration,0.15
+2000,NLD,Public employment services and administration,0.39
+2001,NLD,Public employment services and administration,0.37
+2002,NLD,Public employment services and administration,0.42
+2003,NLD,Public employment services and administration,0.41
+2004,NLD,Public employment services and administration,0.39
+2005,NLD,Public employment services and administration,0.36
+2006,NLD,Public employment services and administration,0.35
+2007,NLD,Public employment services and administration,0.31
+2008,NLD,Public employment services and administration,0.28
+2009,NLD,Public employment services and administration,0.35
+2010,NLD,Public employment services and administration,0.36
+2011,NLD,Public employment services and administration,0.34
+2012,NLD,Public employment services and administration,0.27
+2013,NLD,Public employment services and administration,0.25
+2014,NLD,Public employment services and administration,0.27
+2015,NLD,Public employment services and administration,0.24
+2016,NLD,Public employment services and administration,0.23
+2017,NLD,Public employment services and administration,0.22
+2018,NLD,Public employment services and administration,0.2
+2019,NLD,Public employment services and administration,0.18
+2020,NLD,Public employment services and administration,0.15
 2000,NLD,Sheltered and supported employment and rehabilitation,0.51
 2001,NLD,Sheltered and supported employment and rehabilitation,0.54
 2002,NLD,Sheltered and supported employment and rehabilitation,0.56
@@ -3405,26 +3405,26 @@ year,geo,disagg,value
 2018,NLD,Sheltered and supported employment and rehabilitation,0.3
 2019,NLD,Sheltered and supported employment and rehabilitation,0.3
 2020,NLD,Sheltered and supported employment and rehabilitation,0.32
-2000,NZL,Pulbic employment services and administration,0.11
-2001,NZL,Pulbic employment services and administration,0.11
-2002,NZL,Pulbic employment services and administration,0.12
-2003,NZL,Pulbic employment services and administration,0.13
-2004,NZL,Pulbic employment services and administration,0.13
-2005,NZL,Pulbic employment services and administration,0.13
-2006,NZL,Pulbic employment services and administration,0.13
-2007,NZL,Pulbic employment services and administration,0.12
-2008,NZL,Pulbic employment services and administration,0.13
-2009,NZL,Pulbic employment services and administration,0.13
-2010,NZL,Pulbic employment services and administration,0.14
-2011,NZL,Pulbic employment services and administration,0.12
-2012,NZL,Pulbic employment services and administration,0.13
-2013,NZL,Pulbic employment services and administration,0.1
-2014,NZL,Pulbic employment services and administration,0.13
-2015,NZL,Pulbic employment services and administration,0.14
-2016,NZL,Pulbic employment services and administration,0.14
-2017,NZL,Pulbic employment services and administration,0.13
-2018,NZL,Pulbic employment services and administration,0.12
-2019,NZL,Pulbic employment services and administration,0.14
+2000,NZL,Public employment services and administration,0.11
+2001,NZL,Public employment services and administration,0.11
+2002,NZL,Public employment services and administration,0.12
+2003,NZL,Public employment services and administration,0.13
+2004,NZL,Public employment services and administration,0.13
+2005,NZL,Public employment services and administration,0.13
+2006,NZL,Public employment services and administration,0.13
+2007,NZL,Public employment services and administration,0.12
+2008,NZL,Public employment services and administration,0.13
+2009,NZL,Public employment services and administration,0.13
+2010,NZL,Public employment services and administration,0.14
+2011,NZL,Public employment services and administration,0.12
+2012,NZL,Public employment services and administration,0.13
+2013,NZL,Public employment services and administration,0.1
+2014,NZL,Public employment services and administration,0.13
+2015,NZL,Public employment services and administration,0.14
+2016,NZL,Public employment services and administration,0.14
+2017,NZL,Public employment services and administration,0.13
+2018,NZL,Public employment services and administration,0.12
+2019,NZL,Public employment services and administration,0.14
 2000,NZL,Sheltered and supported employment and rehabilitation,0.05
 2001,NZL,Sheltered and supported employment and rehabilitation,0.04
 2002,NZL,Sheltered and supported employment and rehabilitation,0.04
@@ -3487,27 +3487,27 @@ year,geo,disagg,value
 2018,POL,Sheltered and supported employment and rehabilitation,0.17
 2019,POL,Sheltered and supported employment and rehabilitation,0.15
 2020,POL,Sheltered and supported employment and rehabilitation,0.15
-2000,PRT,Pulbic employment services and administration,0.13
-2001,PRT,Pulbic employment services and administration,0.14
-2002,PRT,Pulbic employment services and administration,0.15
-2003,PRT,Pulbic employment services and administration,0.15
-2004,PRT,Pulbic employment services and administration,0.13
-2005,PRT,Pulbic employment services and administration,0.16
-2006,PRT,Pulbic employment services and administration,0.14
-2007,PRT,Pulbic employment services and administration,0.14
-2008,PRT,Pulbic employment services and administration,0.14
-2009,PRT,Pulbic employment services and administration,0.14
-2010,PRT,Pulbic employment services and administration,0.13
-2011,PRT,Pulbic employment services and administration,0.13
-2012,PRT,Pulbic employment services and administration,0.11
-2013,PRT,Pulbic employment services and administration,0.12
-2014,PRT,Pulbic employment services and administration,0.13
-2015,PRT,Pulbic employment services and administration,0.13
-2016,PRT,Pulbic employment services and administration,0.13
-2017,PRT,Pulbic employment services and administration,0.1
-2018,PRT,Pulbic employment services and administration,0.1
-2019,PRT,Pulbic employment services and administration,0.09
-2020,PRT,Pulbic employment services and administration,0.13
+2000,PRT,Public employment services and administration,0.13
+2001,PRT,Public employment services and administration,0.14
+2002,PRT,Public employment services and administration,0.15
+2003,PRT,Public employment services and administration,0.15
+2004,PRT,Public employment services and administration,0.13
+2005,PRT,Public employment services and administration,0.16
+2006,PRT,Public employment services and administration,0.14
+2007,PRT,Public employment services and administration,0.14
+2008,PRT,Public employment services and administration,0.14
+2009,PRT,Public employment services and administration,0.14
+2010,PRT,Public employment services and administration,0.13
+2011,PRT,Public employment services and administration,0.13
+2012,PRT,Public employment services and administration,0.11
+2013,PRT,Public employment services and administration,0.12
+2014,PRT,Public employment services and administration,0.13
+2015,PRT,Public employment services and administration,0.13
+2016,PRT,Public employment services and administration,0.13
+2017,PRT,Public employment services and administration,0.1
+2018,PRT,Public employment services and administration,0.1
+2019,PRT,Public employment services and administration,0.09
+2020,PRT,Public employment services and administration,0.13
 2000,PRT,Sheltered and supported employment and rehabilitation,0.03
 2001,PRT,Sheltered and supported employment and rehabilitation,0.04
 2002,PRT,Sheltered and supported employment and rehabilitation,0.04
@@ -3529,27 +3529,27 @@ year,geo,disagg,value
 2018,PRT,Sheltered and supported employment and rehabilitation,0.01
 2019,PRT,Sheltered and supported employment and rehabilitation,0.02
 2020,PRT,Sheltered and supported employment and rehabilitation,0.02
-2000,SVK,Pulbic employment services and administration,0.15
-2001,SVK,Pulbic employment services and administration,0.15
-2002,SVK,Pulbic employment services and administration,0.16
-2003,SVK,Pulbic employment services and administration,0.16
-2004,SVK,Pulbic employment services and administration,0.16
-2005,SVK,Pulbic employment services and administration,0.17
-2006,SVK,Pulbic employment services and administration,0.17
-2007,SVK,Pulbic employment services and administration,0.1
-2008,SVK,Pulbic employment services and administration,0.11
-2009,SVK,Pulbic employment services and administration,0.1
-2010,SVK,Pulbic employment services and administration,0.1
-2011,SVK,Pulbic employment services and administration,0.07
-2012,SVK,Pulbic employment services and administration,0.06
-2013,SVK,Pulbic employment services and administration,0.05
-2014,SVK,Pulbic employment services and administration,0.04
-2015,SVK,Pulbic employment services and administration,0.03
-2016,SVK,Pulbic employment services and administration,0.05
-2017,SVK,Pulbic employment services and administration,0.04
-2018,SVK,Pulbic employment services and administration,0.04
-2019,SVK,Pulbic employment services and administration,0.04
-2020,SVK,Pulbic employment services and administration,0.05
+2000,SVK,Public employment services and administration,0.15
+2001,SVK,Public employment services and administration,0.15
+2002,SVK,Public employment services and administration,0.16
+2003,SVK,Public employment services and administration,0.16
+2004,SVK,Public employment services and administration,0.16
+2005,SVK,Public employment services and administration,0.17
+2006,SVK,Public employment services and administration,0.17
+2007,SVK,Public employment services and administration,0.1
+2008,SVK,Public employment services and administration,0.11
+2009,SVK,Public employment services and administration,0.1
+2010,SVK,Public employment services and administration,0.1
+2011,SVK,Public employment services and administration,0.07
+2012,SVK,Public employment services and administration,0.06
+2013,SVK,Public employment services and administration,0.05
+2014,SVK,Public employment services and administration,0.04
+2015,SVK,Public employment services and administration,0.03
+2016,SVK,Public employment services and administration,0.05
+2017,SVK,Public employment services and administration,0.04
+2018,SVK,Public employment services and administration,0.04
+2019,SVK,Public employment services and administration,0.04
+2020,SVK,Public employment services and administration,0.05
 2000,SVK,Sheltered and supported employment and rehabilitation,0.02
 2001,SVK,Sheltered and supported employment and rehabilitation,0.02
 2002,SVK,Sheltered and supported employment and rehabilitation,0.03
@@ -3571,27 +3571,27 @@ year,geo,disagg,value
 2018,SVK,Sheltered and supported employment and rehabilitation,0.04
 2019,SVK,Sheltered and supported employment and rehabilitation,0.04
 2020,SVK,Sheltered and supported employment and rehabilitation,0.04
-2000,ESP,Pulbic employment services and administration,0.08
-2001,ESP,Pulbic employment services and administration,0.07
-2002,ESP,Pulbic employment services and administration,0.08
-2003,ESP,Pulbic employment services and administration,0.09
-2004,ESP,Pulbic employment services and administration,0.11
-2005,ESP,Pulbic employment services and administration,0.12
-2006,ESP,Pulbic employment services and administration,0.13
-2007,ESP,Pulbic employment services and administration,0.12
-2008,ESP,Pulbic employment services and administration,0.13
-2009,ESP,Pulbic employment services and administration,0.16
-2010,ESP,Pulbic employment services and administration,0.16
-2011,ESP,Pulbic employment services and administration,0.15
-2012,ESP,Pulbic employment services and administration,0.08
-2013,ESP,Pulbic employment services and administration,0.09
-2014,ESP,Pulbic employment services and administration,0.11
-2015,ESP,Pulbic employment services and administration,0.15
-2016,ESP,Pulbic employment services and administration,0.14
-2017,ESP,Pulbic employment services and administration,0.15
-2018,ESP,Pulbic employment services and administration,0.15
-2019,ESP,Pulbic employment services and administration,0.13
-2020,ESP,Pulbic employment services and administration,0.15
+2000,ESP,Public employment services and administration,0.08
+2001,ESP,Public employment services and administration,0.07
+2002,ESP,Public employment services and administration,0.08
+2003,ESP,Public employment services and administration,0.09
+2004,ESP,Public employment services and administration,0.11
+2005,ESP,Public employment services and administration,0.12
+2006,ESP,Public employment services and administration,0.13
+2007,ESP,Public employment services and administration,0.12
+2008,ESP,Public employment services and administration,0.13
+2009,ESP,Public employment services and administration,0.16
+2010,ESP,Public employment services and administration,0.16
+2011,ESP,Public employment services and administration,0.15
+2012,ESP,Public employment services and administration,0.08
+2013,ESP,Public employment services and administration,0.09
+2014,ESP,Public employment services and administration,0.11
+2015,ESP,Public employment services and administration,0.15
+2016,ESP,Public employment services and administration,0.14
+2017,ESP,Public employment services and administration,0.15
+2018,ESP,Public employment services and administration,0.15
+2019,ESP,Public employment services and administration,0.13
+2020,ESP,Public employment services and administration,0.15
 2000,ESP,Sheltered and supported employment and rehabilitation,0.06
 2001,ESP,Sheltered and supported employment and rehabilitation,0.05
 2002,ESP,Sheltered and supported employment and rehabilitation,0.05
@@ -3634,27 +3634,27 @@ year,geo,disagg,value
 2018,SWE,Sheltered and supported employment and rehabilitation,0.24
 2019,SWE,Sheltered and supported employment and rehabilitation,0.24
 2020,SWE,Sheltered and supported employment and rehabilitation,0.24
-2000,CHE,Pulbic employment services and administration,0.1
-2001,CHE,Pulbic employment services and administration,0.09
-2002,CHE,Pulbic employment services and administration,0.1
-2003,CHE,Pulbic employment services and administration,0.11
-2004,CHE,Pulbic employment services and administration,0.12
-2005,CHE,Pulbic employment services and administration,0.12
-2006,CHE,Pulbic employment services and administration,0.11
-2007,CHE,Pulbic employment services and administration,0.1
-2008,CHE,Pulbic employment services and administration,0.09
-2009,CHE,Pulbic employment services and administration,0.11
-2010,CHE,Pulbic employment services and administration,0.11
-2011,CHE,Pulbic employment services and administration,0.11
-2012,CHE,Pulbic employment services and administration,0.1
-2013,CHE,Pulbic employment services and administration,0.1
-2014,CHE,Pulbic employment services and administration,0.1
-2015,CHE,Pulbic employment services and administration,0.1
-2016,CHE,Pulbic employment services and administration,0.11
-2017,CHE,Pulbic employment services and administration,0.11
-2018,CHE,Pulbic employment services and administration,0.11
-2019,CHE,Pulbic employment services and administration,0.1
-2020,CHE,Pulbic employment services and administration,0.12
+2000,CHE,Public employment services and administration,0.1
+2001,CHE,Public employment services and administration,0.09
+2002,CHE,Public employment services and administration,0.1
+2003,CHE,Public employment services and administration,0.11
+2004,CHE,Public employment services and administration,0.12
+2005,CHE,Public employment services and administration,0.12
+2006,CHE,Public employment services and administration,0.11
+2007,CHE,Public employment services and administration,0.1
+2008,CHE,Public employment services and administration,0.09
+2009,CHE,Public employment services and administration,0.11
+2010,CHE,Public employment services and administration,0.11
+2011,CHE,Public employment services and administration,0.11
+2012,CHE,Public employment services and administration,0.1
+2013,CHE,Public employment services and administration,0.1
+2014,CHE,Public employment services and administration,0.1
+2015,CHE,Public employment services and administration,0.1
+2016,CHE,Public employment services and administration,0.11
+2017,CHE,Public employment services and administration,0.11
+2018,CHE,Public employment services and administration,0.11
+2019,CHE,Public employment services and administration,0.1
+2020,CHE,Public employment services and administration,0.12
 2000,CHE,Sheltered and supported employment and rehabilitation,0.19
 2001,CHE,Sheltered and supported employment and rehabilitation,0.2
 2002,CHE,Sheltered and supported employment and rehabilitation,0.19
@@ -3676,18 +3676,18 @@ year,geo,disagg,value
 2018,CHE,Sheltered and supported employment and rehabilitation,0.23
 2019,CHE,Sheltered and supported employment and rehabilitation,0.23
 2020,CHE,Sheltered and supported employment and rehabilitation,0.25
-2000,GBR,Pulbic employment services and administration,0.14
-2001,GBR,Pulbic employment services and administration,0.23
-2002,GBR,Pulbic employment services and administration,0.21
-2003,GBR,Pulbic employment services and administration,0.35
-2004,GBR,Pulbic employment services and administration,0.36
-2005,GBR,Pulbic employment services and administration,0.34
-2006,GBR,Pulbic employment services and administration,0.25
-2007,GBR,Pulbic employment services and administration,0.25
-2008,GBR,Pulbic employment services and administration,0.28
-2009,GBR,Pulbic employment services and administration,0.33
-2010,GBR,Pulbic employment services and administration,0.3
-2011,GBR,Pulbic employment services and administration,0.19
+2000,GBR,Public employment services and administration,0.14
+2001,GBR,Public employment services and administration,0.23
+2002,GBR,Public employment services and administration,0.21
+2003,GBR,Public employment services and administration,0.35
+2004,GBR,Public employment services and administration,0.36
+2005,GBR,Public employment services and administration,0.34
+2006,GBR,Public employment services and administration,0.25
+2007,GBR,Public employment services and administration,0.25
+2008,GBR,Public employment services and administration,0.28
+2009,GBR,Public employment services and administration,0.33
+2010,GBR,Public employment services and administration,0.3
+2011,GBR,Public employment services and administration,0.19
 2000,GBR,Sheltered and supported employment and rehabilitation,0.01
 2001,GBR,Sheltered and supported employment and rehabilitation,0.01
 2002,GBR,Sheltered and supported employment and rehabilitation,0.01
@@ -3738,24 +3738,24 @@ year,geo,disagg,value
 2018,CHL,Sheltered and supported employment and rehabilitation,0
 2019,CHL,Sheltered and supported employment and rehabilitation,0
 2020,CHL,Sheltered and supported employment and rehabilitation,0
-2003,EST,Pulbic employment services and administration,0.03
-2004,EST,Pulbic employment services and administration,0.02
-2005,EST,Pulbic employment services and administration,0.02
-2006,EST,Pulbic employment services and administration,0.02
-2007,EST,Pulbic employment services and administration,0.03
-2008,EST,Pulbic employment services and administration,0.04
-2009,EST,Pulbic employment services and administration,0.1
-2010,EST,Pulbic employment services and administration,0.09
-2011,EST,Pulbic employment services and administration,0.09
-2012,EST,Pulbic employment services and administration,0.1
-2013,EST,Pulbic employment services and administration,0.1
-2014,EST,Pulbic employment services and administration,0.1
-2015,EST,Pulbic employment services and administration,0.11
-2016,EST,Pulbic employment services and administration,0.13
-2017,EST,Pulbic employment services and administration,0.14
-2018,EST,Pulbic employment services and administration,0.14
-2019,EST,Pulbic employment services and administration,0.15
-2020,EST,Pulbic employment services and administration,0.17
+2003,EST,Public employment services and administration,0.03
+2004,EST,Public employment services and administration,0.02
+2005,EST,Public employment services and administration,0.02
+2006,EST,Public employment services and administration,0.02
+2007,EST,Public employment services and administration,0.03
+2008,EST,Public employment services and administration,0.04
+2009,EST,Public employment services and administration,0.1
+2010,EST,Public employment services and administration,0.09
+2011,EST,Public employment services and administration,0.09
+2012,EST,Public employment services and administration,0.1
+2013,EST,Public employment services and administration,0.1
+2014,EST,Public employment services and administration,0.1
+2015,EST,Public employment services and administration,0.11
+2016,EST,Public employment services and administration,0.13
+2017,EST,Public employment services and administration,0.14
+2018,EST,Public employment services and administration,0.14
+2019,EST,Public employment services and administration,0.15
+2020,EST,Public employment services and administration,0.17
 2003,EST,Sheltered and supported employment and rehabilitation,0
 2004,EST,Sheltered and supported employment and rehabilitation,0
 2005,EST,Sheltered and supported employment and rehabilitation,0
@@ -3790,24 +3790,24 @@ year,geo,disagg,value
 2017,ISR,Sheltered and supported employment and rehabilitation,0.02
 2018,ISR,Sheltered and supported employment and rehabilitation,0.02
 2019,ISR,Sheltered and supported employment and rehabilitation,0.02
-2003,SVN,Pulbic employment services and administration,0.01
-2004,SVN,Pulbic employment services and administration,0
-2005,SVN,Pulbic employment services and administration,0.1
-2006,SVN,Pulbic employment services and administration,0.09
-2007,SVN,Pulbic employment services and administration,0.09
-2008,SVN,Pulbic employment services and administration,0.08
-2009,SVN,Pulbic employment services and administration,0.1
-2010,SVN,Pulbic employment services and administration,0.11
-2011,SVN,Pulbic employment services and administration,0.1
-2012,SVN,Pulbic employment services and administration,0.09
-2013,SVN,Pulbic employment services and administration,0.09
-2014,SVN,Pulbic employment services and administration,0.09
-2015,SVN,Pulbic employment services and administration,0.08
-2016,SVN,Pulbic employment services and administration,0.07
-2017,SVN,Pulbic employment services and administration,0.08
-2018,SVN,Pulbic employment services and administration,0.07
-2019,SVN,Pulbic employment services and administration,0.07
-2020,SVN,Pulbic employment services and administration,0.08
+2003,SVN,Public employment services and administration,0.01
+2004,SVN,Public employment services and administration,0
+2005,SVN,Public employment services and administration,0.1
+2006,SVN,Public employment services and administration,0.09
+2007,SVN,Public employment services and administration,0.09
+2008,SVN,Public employment services and administration,0.08
+2009,SVN,Public employment services and administration,0.1
+2010,SVN,Public employment services and administration,0.11
+2011,SVN,Public employment services and administration,0.1
+2012,SVN,Public employment services and administration,0.09
+2013,SVN,Public employment services and administration,0.09
+2014,SVN,Public employment services and administration,0.09
+2015,SVN,Public employment services and administration,0.08
+2016,SVN,Public employment services and administration,0.07
+2017,SVN,Public employment services and administration,0.08
+2018,SVN,Public employment services and administration,0.07
+2019,SVN,Public employment services and administration,0.07
+2020,SVN,Public employment services and administration,0.08
 2003,SVN,Sheltered and supported employment and rehabilitation,0.03
 2004,SVN,Sheltered and supported employment and rehabilitation,0.03
 2005,SVN,Sheltered and supported employment and rehabilitation,0.01
@@ -3862,24 +3862,24 @@ year,geo,disagg,value
 2018,LVA,Employment incentives,0.03
 2019,LVA,Employment incentives,0.03
 2020,LVA,Employment incentives,0.03
-2003,LVA,Pulbic employment services and administration,0.04
-2004,LVA,Pulbic employment services and administration,0.05
-2005,LVA,Pulbic employment services and administration,0.06
-2006,LVA,Pulbic employment services and administration,0.06
-2007,LVA,Pulbic employment services and administration,0.06
-2008,LVA,Pulbic employment services and administration,0.05
-2009,LVA,Pulbic employment services and administration,0.04
-2010,LVA,Pulbic employment services and administration,0.05
-2011,LVA,Pulbic employment services and administration,0.05
-2012,LVA,Pulbic employment services and administration,0.05
-2013,LVA,Pulbic employment services and administration,0.04
-2014,LVA,Pulbic employment services and administration,0.05
-2015,LVA,Pulbic employment services and administration,0.04
-2016,LVA,Pulbic employment services and administration,0.05
-2017,LVA,Pulbic employment services and administration,0.06
-2018,LVA,Pulbic employment services and administration,0.07
-2019,LVA,Pulbic employment services and administration,0.05
-2020,LVA,Pulbic employment services and administration,0.04
+2003,LVA,Public employment services and administration,0.04
+2004,LVA,Public employment services and administration,0.05
+2005,LVA,Public employment services and administration,0.06
+2006,LVA,Public employment services and administration,0.06
+2007,LVA,Public employment services and administration,0.06
+2008,LVA,Public employment services and administration,0.05
+2009,LVA,Public employment services and administration,0.04
+2010,LVA,Public employment services and administration,0.05
+2011,LVA,Public employment services and administration,0.05
+2012,LVA,Public employment services and administration,0.05
+2013,LVA,Public employment services and administration,0.04
+2014,LVA,Public employment services and administration,0.05
+2015,LVA,Public employment services and administration,0.04
+2016,LVA,Public employment services and administration,0.05
+2017,LVA,Public employment services and administration,0.06
+2018,LVA,Public employment services and administration,0.07
+2019,LVA,Public employment services and administration,0.05
+2020,LVA,Public employment services and administration,0.04
 2003,LVA,Sheltered and supported employment and rehabilitation,0
 2004,LVA,Sheltered and supported employment and rehabilitation,0
 2005,LVA,Sheltered and supported employment and rehabilitation,0
@@ -3970,24 +3970,24 @@ year,geo,disagg,value
 2018,LTU,Employment incentives,0.13
 2019,LTU,Employment incentives,0.11
 2020,LTU,Employment incentives,1.21
-2003,LTU,Pulbic employment services and administration,0.04
-2004,LTU,Pulbic employment services and administration,0.04
-2005,LTU,Pulbic employment services and administration,0.07
-2006,LTU,Pulbic employment services and administration,0.08
-2007,LTU,Pulbic employment services and administration,0.08
-2008,LTU,Pulbic employment services and administration,0.08
-2009,LTU,Pulbic employment services and administration,0.1
-2010,LTU,Pulbic employment services and administration,0.08
-2011,LTU,Pulbic employment services and administration,0.08
-2012,LTU,Pulbic employment services and administration,0.06
-2013,LTU,Pulbic employment services and administration,0.06
-2014,LTU,Pulbic employment services and administration,0.06
-2015,LTU,Pulbic employment services and administration,0.06
-2016,LTU,Pulbic employment services and administration,0.06
-2017,LTU,Pulbic employment services and administration,0.06
-2018,LTU,Pulbic employment services and administration,0.05
-2019,LTU,Pulbic employment services and administration,0.05
-2020,LTU,Pulbic employment services and administration,0.06
+2003,LTU,Public employment services and administration,0.04
+2004,LTU,Public employment services and administration,0.04
+2005,LTU,Public employment services and administration,0.07
+2006,LTU,Public employment services and administration,0.08
+2007,LTU,Public employment services and administration,0.08
+2008,LTU,Public employment services and administration,0.08
+2009,LTU,Public employment services and administration,0.1
+2010,LTU,Public employment services and administration,0.08
+2011,LTU,Public employment services and administration,0.08
+2012,LTU,Public employment services and administration,0.06
+2013,LTU,Public employment services and administration,0.06
+2014,LTU,Public employment services and administration,0.06
+2015,LTU,Public employment services and administration,0.06
+2016,LTU,Public employment services and administration,0.06
+2017,LTU,Public employment services and administration,0.06
+2018,LTU,Public employment services and administration,0.05
+2019,LTU,Public employment services and administration,0.05
+2020,LTU,Public employment services and administration,0.06
 2003,LTU,Sheltered and supported employment and rehabilitation,0
 2004,LTU,Sheltered and supported employment and rehabilitation,0
 2005,LTU,Sheltered and supported employment and rehabilitation,0
@@ -5087,3 +5087,39 @@ year,geo,disagg,value
 2018,USA,Total,0.09
 2019,USA,Total,2.59
 2020,USA,Total,1.37
+1985,WLD,Total,11.81
+1986,WLD,Total,13.15
+1987,WLD,Total,12.8
+1988,WLD,Total,12.92
+1989,WLD,Total,12.79
+1990,WLD,Total,13.44
+1991,WLD,Total,15.51
+1992,WLD,Total,19.57
+1993,WLD,Total,19.24
+1994,WLD,Total,18.99
+1995,WLD,Total,18.75
+1996,WLD,Total,18.59
+1997,WLD,Total,17.86
+1998,WLD,Total,17.75
+1999,WLD,Total,17.88
+2000,WLD,Total,16.78
+2001,WLD,Total,16.78
+2002,WLD,Total,16.6
+2003,WLD,Total,16.73
+2004,WLD,Total,16.45
+2005,WLD,Total,16.47
+2006,WLD,Total,15.8
+2007,WLD,Total,14.76
+2008,WLD,Total,14.88
+2009,WLD,Total,18.07
+2010,WLD,Total,19.46
+2011,WLD,Total,17.43
+2012,WLD,Total,16.58
+2013,WLD,Total,16.85
+2014,WLD,Total,17.18
+2015,WLD,Total,16.73
+2016,WLD,Total,16.86
+2017,WLD,Total,16.41
+2018,WLD,Total,15.68
+2019,WLD,Total,23.21
+2020,WLD,Total,29.13
