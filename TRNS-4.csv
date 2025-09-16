@@ -1,9 +1,13 @@
-﻿year,geo,value
-2020,WLD,40000
-2021,WLD,36000
-2021,CHN,27244
-2022,CHN,10000
-2021,EUU,47992
-2022,EUU,30000
-2021,USA,52219
-2022,USA,30000
+﻿year,geo,disagg,value
+2021,CHN,Less expensive than ICE equivalent,51
+2024,CHN,Less expensive than ICE equivalent,65
+2021,DEU,Less expensive than ICE equivalent,15
+2024,DEU,Less expensive than ICE equivalent,29
+2021,USA,Less expensive than ICE equivalent,4
+2024,USA,Less expensive than ICE equivalent,17
+2021,CHN,More expensive than ICE equivalent,49
+2024,CHN,More expensive than ICE equivalent,35
+2021,DEU,More expensive than ICE equivalent,85
+2024,DEU,More expensive than ICE equivalent,71
+2021,USA,More expensive than ICE equivalent,96
+2024,USA,More expensive than ICE equivalent,83
