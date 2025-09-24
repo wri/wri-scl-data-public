@@ -1,81 +1,70 @@
 year,geo,disagg,value
-2015,WLD,Total,1.3
-2016,WLD,Total,1.9
-2017,WLD,Total,3.1
-2018,WLD,Total,6.8
-2019,WLD,Total,5.4
-2020,WLD,Total,5.8
-2021,WLD,Total,11
-2022,WLD,Total,21
-2023,WLD,Total,41
-2024,WLD,Total,54
-2015,WLD,North America,0.10
-2016,WLD,North America,0.16
-2017,WLD,North America,0.44
-2018,WLD,North America,0.71
-2019,WLD,North America,1.2
-2020,WLD,North America,1.9
-2021,WLD,North America,4.6
-2022,WLD,North America,7.4
-2023,WLD,North America,12
-2024,WLD,North America,16
-2015,WLD,Central and South America,0.00
-2016,WLD,Central and South America,0.01
-2017,WLD,Central and South America,0.00
-2018,WLD,Central and South America,0.00
-2019,WLD,Central and South America,0.02
-2020,WLD,Central and South America,0.02
-2021,WLD,Central and South America,0.08
-2022,WLD,Central and South America,0.11
-2023,WLD,Central and South America,0.41
-2024,WLD,Central and South America,0.61
-2015,WLD,Europe,0.38
-2016,WLD,Europe,0.74
-2017,WLD,Europe,1.0
-2018,WLD,Europe,1.1
-2019,WLD,Europe,1.4
-2020,WLD,Europe,0.99
-2021,WLD,Europe,3.0
-2022,WLD,Europe,7.0
-2023,WLD,Europe,15
-2024,WLD,Europe,15
-2015,WLD,Africa,0.01
-2016,WLD,Africa,0.00
-2017,WLD,Africa,0.00
-2018,WLD,Africa,0.03
-2019,WLD,Africa,0.00
-2020,WLD,Africa,0.00
-2021,WLD,Africa,0.09
-2022,WLD,Africa,0.04
-2023,WLD,Africa,0.13
-2024,WLD,Africa,0.21
-2015,WLD,Middle East,0.00
-2016,WLD,Middle East,0.00
-2017,WLD,Middle East,0.00
-2018,WLD,Middle East,0.00
-2019,WLD,Middle East,0.00
-2020,WLD,Middle East,0.00
-2021,WLD,Middle East,0.00
-2022,WLD,Middle East,0.00
-2023,WLD,Middle East,0.00
-2024,WLD,Middle East,0.00
-2015,WLD,Eurasia,0.00
-2016,WLD,Eurasia,0.00
-2017,WLD,Eurasia,0.00
-2018,WLD,Eurasia,0.00
-2019,WLD,Eurasia,0.00
-2020,WLD,Eurasia,0.00
-2021,WLD,Eurasia,0.00
-2022,WLD,Eurasia,0.00
-2023,WLD,Eurasia,0.00
-2024,WLD,Eurasia,0.00
-2015,WLD,Asia Pacific,0.77
-2016,WLD,Asia Pacific,0.95
-2017,WLD,Asia Pacific,1.6
-2018,WLD,Asia Pacific,4.9
-2019,WLD,Asia Pacific,2.8
-2020,WLD,Asia Pacific,2.9
-2021,WLD,Asia Pacific,3.1
-2022,WLD,Asia Pacific,6.4
-2023,WLD,Asia Pacific,14
-2024,WLD,Asia Pacific,22
+2015,WLD,Total,0.5
+2016,WLD,Total,1
+2017,WLD,Total,1.7
+2018,WLD,Total,3.2
+2019,WLD,Total,3.1
+2020,WLD,Total,5.2
+2021,WLD,Total,9.4
+2022,WLD,Total,23
+2023,WLD,Total,39
+2024,WLD,Total,57
+2025,WLD,Total,66
+2015,CHN,Total,0
+2016,CHN,Total,0.1
+2017,CHN,Total,0.2
+2018,CHN,Total,0.6
+2019,CHN,Total,0.7
+2020,CHN,Total,1.3
+2021,CHN,Total,1.8
+2022,CHN,Total,5.9
+2023,CHN,Total,11
+2024,CHN,Total,22
+2025,CHN,Total,19
+2015,WLD,North America,0.2
+2016,WLD,North America,0.2
+2017,WLD,North America,0.3
+2018,WLD,North America,0.5
+2019,WLD,North America,0.7
+2020,WLD,North America,1.7
+2021,WLD,North America,3.8
+2022,WLD,North America,8.8
+2023,WLD,North America,13
+2024,WLD,North America,17
+2025,WLD,North America,20
+2023,WLD,Central and South America,0.3
+2024,WLD,Central and South America,0.4
+2025,WLD,Central and South America,0.4
+2015,WLD,Europe,0.2
+2016,WLD,Europe,0.4
+2017,WLD,Europe,0.6
+2018,WLD,Europe,0.9
+2019,WLD,Europe,0.9
+2020,WLD,Europe,1.2
+2021,WLD,Europe,3.1
+2022,WLD,Europe,6.8
+2023,WLD,Europe,13
+2024,WLD,Europe,16
+2025,WLD,Europe,21
+2015,WLD,Middle East,0
+2016,WLD,Middle East,0
+2017,WLD,Middle East,0
+2018,WLD,Middle East,0
+2019,WLD,Middle East,0.1
+2020,WLD,Middle East,0
+2021,WLD,Middle East,0
+2022,WLD,Middle East,0
+2023,WLD,Middle East,0
+2024,WLD,Middle East,0
+2025,WLD,Middle East,0
+2015,WLD,Asia Pacific,0.1
+2016,WLD,Asia Pacific,0.4
+2017,WLD,Asia Pacific,0.7
+2018,WLD,Asia Pacific,1.8
+2019,WLD,Asia Pacific,1.3
+2020,WLD,Asia Pacific,2.2
+2021,WLD,Asia Pacific,2.5
+2022,WLD,Asia Pacific,6.8
+2023,WLD,Asia Pacific,13
+2024,WLD,Asia Pacific,24
+2025,WLD,Asia Pacific,24
