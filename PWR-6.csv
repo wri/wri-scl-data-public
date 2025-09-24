@@ -1,0 +1,6 @@
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+2023,WLD,Total,272,,,,
+2023,WLD,Pumped hydro,181,,,,
+2023,WLD,Behind-the-meter batteries,33,,,,
+2023,WLD,Utility-scale batteries,54,,,,
+2023,WLD,Other storage,4,,,,
