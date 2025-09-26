@@ -24,6 +24,8 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,153,,,,
 2023,WLD,153,,,,
 2028,WLD,,160,,,
+2030,WLD,,,,118,
+2050,WLD,,,,32,
 2000,CAN,6.6,,,,
 2001,CAN,6.8,,,,
 2002,CAN,6.8,,,,
