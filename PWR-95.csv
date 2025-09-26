@@ -1,7 +1,7 @@
-year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2015,WLD,14,,,,
-2016,WLD,15,,,,
-2017,WLD,15,,,,
-2018,WLD,26,,,,
-2019,WLD,41,,,,
-2020,WLD,51,,,,
+year,geo,value
+2015,WLD,12
+2016,WLD,12
+2017,WLD,12
+2018,WLD,20
+2019,WLD,28
+2020,WLD,31
