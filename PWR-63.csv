@@ -1,194 +1,286 @@
-year,geo,value
-2017,WLD,1
-2018,WLD,2
-2019,WLD,4
-2020,WLD,13
-2021,WLD,23
-2022,WLD,30
-2023,WLD,53
-2024,WLD,59
-2017,JPN,1
-2018,JPN,1
-2018,FRA,1
-2019,JPN,1
-2019,FRA,1
-2019,AUS,1
-2019,KOR,1
-2020,JPN,1
-2020,FRA,1
-2020,AUS,1
-2020,KOR,1
-2020,CAN,1
-2020,CHL,1
-2020,EUU,1
-2020,DEU,1
-2020,NLD,1
-2020,NOR,1
-2020,ESP,1
-2020,PRT,1
-2020,RUS,1
-2021,JPN,1
-2021,FRA,1
-2021,AUS,1
-2021,KOR,1
-2021,CAN,1
-2021,CHL,1
-2021,EUU,1
-2021,DEU,1
-2021,NLD,1
-2021,NOR,1
-2021,ESP,1
-2021,PRT,1
-2021,RUS,1
-2021,BEL,1
-2021,COL,1
-2021,CZE,1
-2021,DNK,1
-2021,HUN,1
-2021,LUX,1
-2021,MAR,1
-2021,POL,1
-2021,SVK,1
-2021,GBR,1
-2022,JPN,1
-2022,FRA,1
-2022,AUS,1
-2022,KOR,1
-2022,CAN,1
-2022,CHL,1
-2022,EUU,1
-2022,DEU,1
-2022,NLD,1
-2022,NOR,1
-2022,ESP,1
-2022,PRT,1
-2022,RUS,1
-2022,BEL,1
-2022,COL,1
-2022,CZE,1
-2022,DNK,1
-2022,HUN,1
-2022,LUX,1
-2022,MAR,1
-2022,POL,1
-2022,SVK,1
-2022,GBR,1
-2022,AUT,1
-2022,CHN,1
-2022,CRI,1
-2022,HRV,1
-2022,NAM,1
-2022,OMN,1
-2022,ZAF,1
-2023,JPN,1
-2023,FRA,1
-2023,AUS,1
-2023,KOR,1
-2023,CAN,1
-2023,CHL,1
-2023,EUU,1
-2023,DEU,1
-2023,NLD,1
-2023,NOR,1
-2023,ESP,1
-2023,PRT,1
-2023,RUS,1
-2023,BEL,1
-2023,COL,1
-2023,CZE,1
-2023,DNK,1
-2023,HUN,1
-2023,LUX,1
-2023,MAR,1
-2023,POL,1
-2023,SVK,1
-2023,GBR,1
-2023,AUT,1
-2023,CHN,1
-2023,CRI,1
-2023,HRV,1
-2023,NAM,1
-2023,OMN,1
-2023,ZAF,1
-2023,DZA,1
-2023,ARG,1
-2023,BTN,1
-2023,BRA,1
-2023,BGR,1
-2023,ECU,1
-2023,EST,1
-2023,IND,1
-2023,IDN,1
-2023,IRL,1
-2023,ISR,1
-2023,KEN,1
-2023,MYS,1
-2023,MRT,1
-2023,NZL,1
-2023,PAN,1
-2023,ROU,1
-2023,SGP,1
-2023,LKA,1
-2023,TUR,1
-2023,ARE,1
-2023,USA,1
-2023,URY,1
-2024,JPN,1
-2024,FRA,1
-2024,AUS,1
-2024,KOR,1
-2024,CAN,1
-2024,CHL,1
-2024,EUU,1
-2024,DEU,1
-2024,NLD,1
-2024,NOR,1
-2024,ESP,1
-2024,PRT,1
-2024,RUS,1
-2024,BEL,1
-2024,COL,1
-2024,CZE,1
-2024,DNK,1
-2024,HUN,1
-2024,LUX,1
-2024,MAR,1
-2024,POL,1
-2024,SVK,1
-2024,GBR,1
-2024,AUT,1
-2024,CHN,1
-2024,CRI,1
-2024,HRV,1
-2024,NAM,1
-2024,OMN,1
-2024,ZAF,1
-2024,DZA,1
-2024,ARG,1
-2024,BTN,1
-2024,BRA,1
-2024,BGR,1
-2024,ECU,1
-2024,EST,1
-2024,IND,1
-2024,IDN,1
-2024,IRL,1
-2024,ISR,1
-2024,KEN,1
-2024,MYS,1
-2024,MRT,1
-2024,NZL,1
-2024,PAN,1
-2024,ROU,1
-2024,SGP,1
-2024,LKA,1
-2024,TUR,1
-2024,ARE,1
-2024,USA,1
-2024,URY,1
-2024,ISL,1
-2024,EGY,1
-2024,KAZ,1
-2024,LTU,1
-2024,TUN,1
-2024,VNM,1
+year,geo,disagg_type,disagg,value
+2017,WLD,All,Total,1
+2018,WLD,All,Total,2
+2019,WLD,All,Total,4
+2020,WLD,All,Total,13
+2021,WLD,All,Total,23
+2022,WLD,All,Total,30
+2023,WLD,All,Total,53
+2024,WLD,All,Total,59
+2024,WLD,Demand creation,In force,13
+2024,WLD,Demand creation,Announced,13
+2024,WLD,Mitigate investment risks,In force,31
+2024,WLD,Mitigate investment risks,Announced,18
+2024,WLD,Promote RD&D,In force,19
+2024,WLD,"Support regulations, standards and certificates",In force,23
+2022,ZAF,All,Total,1
+2023,ZAF,All,Total,1
+2024,ZAF,All,Total,1
+2024,VNM,All,Total,1
+2023,USA,All,Total,1
+2024,USA,All,Total,1
+2023,URY,All,Total,1
+2024,URY,All,Total,1
+2023,TUR,All,Total,1
+2024,TUR,All,Total,1
+2024,TUN,All,Total,1
+2021,SVK,All,Total,1
+2022,SVK,All,Total,1
+2023,SVK,All,Total,1
+2024,SVK,All,Total,1
+2023,SGP,All,Total,1
+2024,SGP,All,Total,1
+2020,RUS,All,Total,1
+2021,RUS,All,Total,1
+2022,RUS,All,Total,1
+2023,RUS,All,Total,1
+2024,RUS,All,Total,1
+2023,ROU,All,Total,1
+2024,ROU,All,Total,1
+2020,PRT,All,Total,1
+2021,PRT,All,Total,1
+2022,PRT,All,Total,1
+2023,PRT,All,Total,1
+2024,PRT,All,Total,1
+2021,POL,All,Total,1
+2022,POL,All,Total,1
+2023,POL,All,Total,1
+2024,POL,All,Total,1
+2023,PAN,All,Total,1
+2024,PAN,All,Total,1
+2022,OMN,All,Total,1
+2023,OMN,All,Total,1
+2024,OMN,All,Total,1
+2023,NZL,All,Total,1
+2024,NZL,All,Total,1
+2020,NOR,All,Total,1
+2021,NOR,All,Total,1
+2022,NOR,All,Total,1
+2023,NOR,All,Total,1
+2024,NOR,All,Total,1
+2020,NLD,All,Total,1
+2021,NLD,All,Total,1
+2022,NLD,All,Total,1
+2023,NLD,All,Total,1
+2024,NLD,All,Total,1
+2022,NAM,All,Total,1
+2023,NAM,All,Total,1
+2024,NAM,All,Total,1
+2023,MYS,All,Total,1
+2024,MYS,All,Total,1
+2023,MRT,All,Total,1
+2024,MRT,All,Total,1
+2021,MAR,All,Total,1
+2022,MAR,All,Total,1
+2023,MAR,All,Total,1
+2024,MAR,All,Total,1
+2021,LUX,All,Total,1
+2022,LUX,All,Total,1
+2023,LUX,All,Total,1
+2024,LUX,All,Total,1
+2024,LTU,All,Total,1
+2023,LKA,All,Total,1
+2024,LKA,All,Total,1
+2019,KOR,All,Total,1
+2020,KOR,All,Total,1
+2021,KOR,All,Total,1
+2022,KOR,All,Total,1
+2023,KOR,All,Total,1
+2024,KOR,All,Total,1
+2023,KEN,All,Total,1
+2024,KEN,All,Total,1
+2024,KAZ,All,Total,1
+2017,JPN,All,Total,1
+2018,JPN,All,Total,1
+2019,JPN,All,Total,1
+2020,JPN,All,Total,1
+2021,JPN,All,Total,1
+2022,JPN,All,Total,1
+2023,JPN,All,Total,1
+2024,JPN,All,Total,1
+2023,ISR,All,Total,1
+2024,ISR,All,Total,1
+2024,ISL,All,Total,1
+2023,IRL,All,Total,1
+2024,IRL,All,Total,1
+2023,IND,All,Total,1
+2024,IND,All,Total,1
+2023,IDN,All,Total,1
+2024,IDN,All,Total,1
+2021,HUN,All,Total,1
+2022,HUN,All,Total,1
+2023,HUN,All,Total,1
+2024,HUN,All,Total,1
+2022,HRV,All,Total,1
+2023,HRV,All,Total,1
+2024,HRV,All,Total,1
+2021,GBR,All,Total,1
+2022,GBR,All,Total,1
+2023,GBR,All,Total,1
+2024,GBR,All,Total,1
+2018,FRA,All,Total,1
+2019,FRA,All,Total,1
+2020,FRA,All,Total,1
+2021,FRA,All,Total,1
+2022,FRA,All,Total,1
+2023,FRA,All,Total,1
+2024,FRA,All,Total,1
+2020,EUU,All,Total,1
+2021,EUU,All,Total,1
+2022,EUU,All,Total,1
+2023,EUU,All,Total,1
+2024,EUU,All,Total,1
+2023,EST,All,Total,1
+2024,EST,All,Total,1
+2020,ESP,All,Total,1
+2021,ESP,All,Total,1
+2022,ESP,All,Total,1
+2023,ESP,All,Total,1
+2024,ESP,All,Total,1
+2024,EGY,All,Total,1
+2023,ECU,All,Total,1
+2024,ECU,All,Total,1
+2023,DZA,All,Total,1
+2024,DZA,All,Total,1
+2021,DNK,All,Total,1
+2022,DNK,All,Total,1
+2023,DNK,All,Total,1
+2024,DNK,All,Total,1
+2020,DEU,All,Total,1
+2021,DEU,All,Total,1
+2022,DEU,All,Total,1
+2023,DEU,All,Total,1
+2024,DEU,All,Total,1
+2021,CZE,All,Total,1
+2022,CZE,All,Total,1
+2023,CZE,All,Total,1
+2024,CZE,All,Total,1
+2022,CRI,All,Total,1
+2023,CRI,All,Total,1
+2024,CRI,All,Total,1
+2021,COL,All,Total,1
+2022,COL,All,Total,1
+2023,COL,All,Total,1
+2024,COL,All,Total,1
+2022,CHN,All,Total,1
+2023,CHN,All,Total,1
+2024,CHN,All,Total,1
+2020,CHL,All,Total,1
+2021,CHL,All,Total,1
+2022,CHL,All,Total,1
+2023,CHL,All,Total,1
+2024,CHL,All,Total,1
+2020,CAN,All,Total,1
+2021,CAN,All,Total,1
+2022,CAN,All,Total,1
+2023,CAN,All,Total,1
+2024,CAN,All,Total,1
+2023,BTN,All,Total,1
+2024,BTN,All,Total,1
+2023,BRA,All,Total,1
+2024,BRA,All,Total,1
+2023,BGR,All,Total,1
+2024,BGR,All,Total,1
+2021,BEL,All,Total,1
+2022,BEL,All,Total,1
+2023,BEL,All,Total,1
+2024,BEL,All,Total,1
+2022,AUT,All,Total,1
+2023,AUT,All,Total,1
+2024,AUT,All,Total,1
+2019,AUS,All,Total,1
+2020,AUS,All,Total,1
+2021,AUS,All,Total,1
+2022,AUS,All,Total,1
+2023,AUS,All,Total,1
+2024,AUS,All,Total,1
+2023,ARG,All,Total,1
+2024,ARG,All,Total,1
+2023,ARE,All,Total,1
+2024,ARE,All,Total,1
+2024,USA,Demand creation,In force,2
+2024,USA,Demand creation,Announced,1
+2024,UAE,Demand creation,Announced,1
+2024,SWE,Demand creation,In force,1
+2024,SGP,Demand creation,In force,1
+2024,NLD,Demand creation,Announced,2
+2024,LTU,Demand creation,In force,1
+2024,KOR,Demand creation,In force,1
+2024,JPN,Demand creation,In force,2
+2024,ITA,Demand creation,Announced,2
+2024,IND,Demand creation,Announced,2
+2024,GBR,Demand creation,In force,1
+2024,GBR,Demand creation,Announced,1
+2024,FRA,Demand creation,Announced,1
+2024,ESP,Demand creation,In force,1
+2024,DEU,Demand creation,In force,1
+2024,DEU,Demand creation,Announced,2
+2024,CHN,Demand creation,In force,1
+2024,CHL,Demand creation,Announced,1
+2023,AUS,Demand creation,In force,1
+2024,ZAF,Mitigate investment risks,Announced,1
+2024,SWE,Mitigate investment risks,In force,1
+2024,PRT,Mitigate investment risks,In force,1
+2024,POL,Mitigate investment risks,In force,1
+2024,PHL,Mitigate investment risks,Announced,1
+2024,OMN,Mitigate investment risks,In force,1
+2024,NLD,Mitigate investment risks,In force,2
+2024,MRT,Mitigate investment risks,Announced,1
+2024,MAR,Mitigate investment risks,Announced,2
+2024,KOR,Mitigate investment risks,Announced,1
+2024,KEN,Mitigate investment risks,In force,1
+2024,JPN,Mitigate investment risks,In force,2
+2024,JPN,Mitigate investment risks,In force,1
+2024,JPN,Mitigate investment risks,Announced,1
+2024,ITA,Mitigate investment risks,Announced,3
+2024,IND,Mitigate investment risks,In force,3
+2024,GBR,Mitigate investment risks,In force,1
+2024,FRA,Mitigate investment risks,In force,1
+2024,FRA,Mitigate investment risks,Announced,1
+2024,FIN,Mitigate investment risks,In force,1
+2024,EUU,Mitigate investment risks,In force,3
+2024,EUU,Mitigate investment risks,Announced,2
+2024,ESP,Mitigate investment risks,In force,3
+2024,ESP,Mitigate investment risks,Announced,1
+2024,EGY,Mitigate investment risks,In force,1
+2024,EGY,Mitigate investment risks,Announced,1
+2024,DNK,Mitigate investment risks,In force,1
+2024,DEU,Mitigate investment risks,In force,2
+2024,CHN,Mitigate investment risks,In force,1
+2024,CHN,Mitigate investment risks,Announced,1
+2024,CHL,Mitigate investment risks,In force,1
+2024,CAN,Mitigate investment risks,Announced,1
+2024,BRA,Mitigate investment risks,In force,1
+2024,AUS,Mitigate investment risks,In force,1
+2024,AUS,Mitigate investment risks,In force,1
+2024,AUS,Mitigate investment risks,Announced,1
+2024,USA,Promote RD&D,In force,4
+2024,POL,Promote RD&D,In force,1
+2024,PHL,Promote RD&D,In force,1
+2024,NOR,Promote RD&D,In force,1
+2024,NLD,Promote RD&D,In force,1
+2024,JPN,Promote RD&D,In force,1
+2024,IND,Promote RD&D,In force,4
+2024,GBR,Promote RD&D,In force,2
+2024,EUU,Promote RD&D,In force,1
+2024,CHN,Promote RD&D,In force,2
+2024,AUS,Promote RD&D,In force,1
+2024,ZAF,"Support regulations, standards and certificates",In force,1
+2024,USA,"Support regulations, standards and certificates",In force,4
+2024,POL,"Support regulations, standards and certificates",In force,1
+2024,PHL,"Support regulations, standards and certificates",In force,1
+2024,NOR,"Support regulations, standards and certificates",In force,1
+2024,NLD,"Support regulations, standards and certificates",In force,1
+2024,MYS,"Support regulations, standards and certificates",In force,1
+2024,LTU,"Support regulations, standards and certificates",In force,1
+2024,KAZ,"Support regulations, standards and certificates",In force,1
+2024,ISR,"Support regulations, standards and certificates",In force,1
+2024,ISL,"Support regulations, standards and certificates",In force,1
+2024,IRL,"Support regulations, standards and certificates",In force,1
+2024,IDN,"Support regulations, standards and certificates",In force,1
+2024,GBR,"Support regulations, standards and certificates",In force,2
+2024,EST,"Support regulations, standards and certificates",In force,1
+2024,EGY,"Support regulations, standards and certificates",In force,1
+2024,BTN,"Support regulations, standards and certificates",In force,1
+2024,BGR,"Support regulations, standards and certificates",In force,1
+2024,ARG,"Support regulations, standards and certificates",In force,1
