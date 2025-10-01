@@ -1,2308 +1,2864 @@
-year,geo,disagg,value,,,
-2000,WLD,Total,2,,,
-2001,WLD,Total,2,,,
-2002,WLD,Total,2,,,
-2003,WLD,Total,2,,,
-2004,WLD,Total,2,,,
-2005,WLD,Total,2,,,
-2006,WLD,Total,2,,,
-2007,WLD,Total,3,,,
-2008,WLD,Total,4,,,
-2009,WLD,Total,5,,,
-2010,WLD,Total,6,,,
-2011,WLD,Total,6,,,
-2012,WLD,Total,7,,,
-2013,WLD,Total,9,,,
-2014,WLD,Total,10,,,
-2015,WLD,Total,18,,,
-2016,WLD,Total,20,,,
-2017,WLD,Total,26,,,
-2018,WLD,Total,29,,,
-2019,WLD,Total,37,,,
-2020,WLD,Total,54,,,
-2021,WLD,Total,77,,,
-2022,WLD,Total,107,,,
-2023,WLD,Total,150,,,
-2024,WLD,Total,260,,,
-2025,WLD,Total,421,,,
-2026,WLD,Total,567,,,
-2027,WLD,Total,686,,,
-2028,WLD,Total,775,,,
-2029,WLD,Total,799,,,
-2030,WLD,Total,909,,,
-2031,WLD,Total,915,,,
-2032,WLD,Total,930,,,
-2033,WLD,Total,935,,,
-2034,WLD,Total,936,,,
-2035,WLD,Total,943,,,
-2036,WLD,Total,944,,,
-2037,WLD,Total,945,,,
-2038,WLD,Total,946,,,
-2039,WLD,Total,946,,,
-2040,WLD,Total,950,,,
-2041,WLD,Total,950,,,
-2042,WLD,Total,950,,,
-2043,WLD,Total,951,,,
-2000,WLD,Hydropower,2,,,
-2001,WLD,Hydropower,2,,,
-2002,WLD,Hydropower,2,,,
-2003,WLD,Hydropower,2,,,
-2004,WLD,Hydropower,2,,,
-2005,WLD,Hydropower,2,,,
-2006,WLD,Hydropower,2,,,
-2007,WLD,Hydropower,2,,,
-2007,WLD,Onshore wind,1,,,
-2008,WLD,Hydropower,2,,,
-2008,WLD,Onshore wind,2,,,
-2009,WLD,Hydropower,2,,,
-2009,WLD,Onshore wind,3,,,
-2010,WLD,Hydropower,2,,,
-2010,WLD,Onshore wind,3,,,
-2010,WLD,Unknown,1,,,
-2011,WLD,Hydropower,2,,,
-2011,WLD,Onshore wind,3,,,
-2011,WLD,Unknown,1,,,
-2012,WLD,Hydropower,2,,,
-2012,WLD,Onshore wind,3,,,
-2012,WLD,Unknown,1,,,
-2012,WLD,Other/Various,1,,,
-2013,WLD,Hydropower,2,,,
-2013,WLD,Onshore wind,4,,,
-2013,WLD,Unknown,1,,,
-2013,WLD,Other/Various,1,,,
-2013,WLD,Solar PV,1,,,
-2014,WLD,Hydropower,2,,,
-2014,WLD,Onshore wind,5,,,
-2014,WLD,Unknown,1,,,
-2014,WLD,Other/Various,1,,,
-2014,WLD,Solar PV,1,,,
-2015,WLD,Hydropower,2,,,
-2015,WLD,Onshore wind,8,,,
-2015,WLD,Unknown,2,,,
-2015,WLD,Other/Various,1,,,
-2015,WLD,Solar PV,5,,,
-2016,WLD,Hydropower,2,,,
-2016,WLD,Onshore wind,9,,,
-2016,WLD,Unknown,2,,,
-2016,WLD,Other/Various,1,,,
-2016,WLD,Solar PV,6,,,
-2017,WLD,Hydropower,2,,,
-2017,WLD,Onshore wind,11,,,
-2017,WLD,Unknown,2,,,
-2017,WLD,Other/Various,3,,,
-2017,WLD,Solar PV,8,,,
-2018,WLD,Hydropower,2,,,
-2018,WLD,Onshore wind,12,,,
-2018,WLD,Unknown,2,,,
-2018,WLD,Other/Various,3,,,
-2018,WLD,Solar PV,10,,,
-2019,WLD,Hydropower,2,,,
-2019,WLD,Onshore wind,15,,,
-2019,WLD,Unknown,5,,,
-2019,WLD,Other/Various,4,,,
-2019,WLD,Solar PV,11,,,
-2020,WLD,Hydropower,6,,,
-2020,WLD,Onshore wind,20,,,
-2020,WLD,Unknown,5,,,
-2020,WLD,Other/Various,10,,,
-2020,WLD,Solar PV,13,,,
-2021,WLD,Hydropower,7,,,
-2021,WLD,Onshore wind,24,,,
-2021,WLD,Unknown,7,,,
-2021,WLD,Other/Various,17,,,
-2021,WLD,Solar PV,21,,,
-2021,WLD,Offshore wind,1,,,
-2022,WLD,Hydropower,7,,,
-2022,WLD,Onshore wind,26,,,
-2022,WLD,Unknown,15,,,
-2022,WLD,Other/Various,22,,,
-2022,WLD,Solar PV,35,,,
-2022,WLD,Offshore wind,2,,,
-2023,WLD,Hydropower,7,,,
-2023,WLD,Onshore wind,30,,,
-2023,WLD,Unknown,26,,,
-2023,WLD,Other/Various,29,,,
-2023,WLD,Solar PV,54,,,
-2023,WLD,Offshore wind,4,,,
-2024,WLD,Hydropower,12,,,
-2024,WLD,Onshore wind,46,,,
-2024,WLD,Unknown,53,,,
-2024,WLD,Other/Various,51,,,
-2024,WLD,Solar PV,89,,,
-2024,WLD,Offshore wind,9,,,
-2025,WLD,Hydropower,21,,,
-2025,WLD,Onshore wind,62,,,
-2025,WLD,Unknown,99,,,
-2025,WLD,Other/Various,92,,,
-2025,WLD,Solar PV,124,,,
-2025,WLD,Offshore wind,23,,,
-2026,WLD,Hydropower,24,,,
-2026,WLD,Onshore wind,77,,,
-2026,WLD,Unknown,143,,,
-2026,WLD,Other/Various,129,,,
-2026,WLD,Solar PV,158,,,
-2026,WLD,Offshore wind,36,,,
-2027,WLD,Hydropower,27,,,
-2027,WLD,Onshore wind,89,,,
-2027,WLD,Unknown,188,,,
-2027,WLD,Other/Various,155,,,
-2027,WLD,Solar PV,174,,,
-2027,WLD,Offshore wind,53,,,
-2028,WLD,Hydropower,28,,,
-2028,WLD,Onshore wind,99,,,
-2028,WLD,Unknown,207,,,
-2028,WLD,Other/Various,191,,,
-2028,WLD,Solar PV,189,,,
-2028,WLD,Offshore wind,61,,,
-2029,WLD,Hydropower,30,,,
-2029,WLD,Onshore wind,100,,,
-2029,WLD,Unknown,216,,,
-2029,WLD,Other/Various,199,,,
-2029,WLD,Solar PV,191,,,
-2029,WLD,Offshore wind,63,,,
-2030,WLD,Hydropower,32,,,
-2030,WLD,Onshore wind,114,,,
-2030,WLD,Unknown,241,,,
-2030,WLD,Other/Various,232,,,
-2030,WLD,Solar PV,204,,,
-2030,WLD,Offshore wind,86,,,
-2031,WLD,Hydropower,32,,,
-2031,WLD,Onshore wind,114,,,
-2031,WLD,Unknown,244,,,
-2031,WLD,Other/Various,234,,,
-2031,WLD,Solar PV,204,,,
-2031,WLD,Offshore wind,87,,,
-2032,WLD,Hydropower,32,,,
-2032,WLD,Onshore wind,116,,,
-2032,WLD,Unknown,247,,,
-2032,WLD,Other/Various,242,,,
-2032,WLD,Solar PV,204,,,
-2032,WLD,Offshore wind,89,,,
-2033,WLD,Hydropower,32,,,
-2033,WLD,Onshore wind,117,,,
-2033,WLD,Unknown,248,,,
-2033,WLD,Other/Various,243,,,
-2033,WLD,Solar PV,205,,,
-2033,WLD,Offshore wind,90,,,
-2034,WLD,Hydropower,32,,,
-2034,WLD,Onshore wind,117,,,
-2034,WLD,Unknown,248,,,
-2034,WLD,Other/Various,243,,,
-2034,WLD,Solar PV,205,,,
-2034,WLD,Offshore wind,91,,,
-2035,WLD,Hydropower,32,,,
-2035,WLD,Onshore wind,117,,,
-2035,WLD,Unknown,250,,,
-2035,WLD,Other/Various,245,,,
-2035,WLD,Solar PV,205,,,
-2035,WLD,Offshore wind,94,,,
-2036,WLD,Hydropower,32,,,
-2036,WLD,Onshore wind,117,,,
-2036,WLD,Unknown,250,,,
-2036,WLD,Other/Various,246,,,
-2036,WLD,Solar PV,205,,,
-2036,WLD,Offshore wind,94,,,
-2037,WLD,Hydropower,32,,,
-2037,WLD,Onshore wind,117,,,
-2037,WLD,Unknown,250,,,
-2037,WLD,Other/Various,247,,,
-2037,WLD,Solar PV,205,,,
-2037,WLD,Offshore wind,94,,,
-2038,WLD,Hydropower,32,,,
-2038,WLD,Onshore wind,117,,,
-2038,WLD,Unknown,250,,,
-2038,WLD,Other/Various,248,,,
-2038,WLD,Solar PV,205,,,
-2038,WLD,Offshore wind,94,,,
-2039,WLD,Hydropower,32,,,
-2039,WLD,Onshore wind,117,,,
-2039,WLD,Unknown,250,,,
-2039,WLD,Other/Various,248,,,
-2039,WLD,Solar PV,205,,,
-2039,WLD,Offshore wind,94,,,
-2040,WLD,Hydropower,32,,,
-2040,WLD,Onshore wind,117,,,
-2040,WLD,Unknown,252,,,
-2040,WLD,Other/Various,249,,,
-2040,WLD,Solar PV,205,,,
-2040,WLD,Offshore wind,95,,,
-2041,WLD,Hydropower,32,,,
-2041,WLD,Onshore wind,117,,,
-2041,WLD,Unknown,252,,,
-2041,WLD,Other/Various,249,,,
-2041,WLD,Solar PV,205,,,
-2041,WLD,Offshore wind,95,,,
-2042,WLD,Hydropower,32,,,
-2042,WLD,Onshore wind,117,,,
-2042,WLD,Unknown,252,,,
-2042,WLD,Other/Various,249,,,
-2042,WLD,Solar PV,205,,,
-2042,WLD,Offshore wind,95,,,
-2043,WLD,Hydropower,32,,,
-2043,WLD,Onshore wind,117,,,
-2043,WLD,Unknown,252,,,
-2043,WLD,Other/Various,249,,,
-2043,WLD,Solar PV,205,,,
-2043,WLD,Offshore wind,96,,,
-2025,MAR,Total,2,,,
-2026,MAR,Total,3,,,
-2027,MAR,Total,4,,,
-2028,MAR,Total,6,,,
-2029,MAR,Total,6,,,
-2030,MAR,Total,9,,,
-2031,MAR,Total,9,,,
-2032,MAR,Total,10,,,
-2033,MAR,Total,10,,,
-2034,MAR,Total,10,,,
-2035,MAR,Total,10,,,
-2036,MAR,Total,10,,,
-2037,MAR,Total,10,,,
-2038,MAR,Total,10,,,
-2039,MAR,Total,10,,,
-2040,MAR,Total,10,,,
-2041,MAR,Total,10,,,
-2042,MAR,Total,10,,,
-2043,MAR,Total,10,,,
-2025,AGO,Total,1,,,
-2026,AGO,Total,1,,,
-2027,AGO,Total,1,,,
-2028,AGO,Total,1,,,
-2029,AGO,Total,1,,,
-2030,AGO,Total,1,,,
-2031,AGO,Total,1,,,
-2032,AGO,Total,1,,,
-2033,AGO,Total,1,,,
-2034,AGO,Total,1,,,
-2035,AGO,Total,1,,,
-2036,AGO,Total,1,,,
-2037,AGO,Total,1,,,
-2038,AGO,Total,1,,,
-2039,AGO,Total,1,,,
-2040,AGO,Total,1,,,
-2041,AGO,Total,1,,,
-2042,AGO,Total,1,,,
-2043,AGO,Total,1,,,
-2021,ARE,Total,1,,,
-2022,ARE,Total,1,,,
-2023,ARE,Total,1,,,
-2024,ARE,Total,2,,,
-2025,ARE,Total,3,,,
-2026,ARE,Total,4,,,
-2027,ARE,Total,4,,,
-2028,ARE,Total,6,,,
-2029,ARE,Total,6,,,
-2030,ARE,Total,6,,,
-2031,ARE,Total,6,,,
-2032,ARE,Total,6,,,
-2033,ARE,Total,6,,,
-2034,ARE,Total,6,,,
-2035,ARE,Total,6,,,
-2036,ARE,Total,6,,,
-2037,ARE,Total,6,,,
-2038,ARE,Total,6,,,
-2039,ARE,Total,6,,,
-2040,ARE,Total,6,,,
-2041,ARE,Total,6,,,
-2042,ARE,Total,6,,,
-2043,ARE,Total,6,,,
-2009,ARG,Total,1,,,
-2010,ARG,Total,1,,,
-2011,ARG,Total,1,,,
-2012,ARG,Total,1,,,
-2013,ARG,Total,1,,,
-2014,ARG,Total,1,,,
-2015,ARG,Total,1,,,
-2016,ARG,Total,1,,,
-2017,ARG,Total,1,,,
-2018,ARG,Total,1,,,
-2019,ARG,Total,1,,,
-2020,ARG,Total,1,,,
-2021,ARG,Total,1,,,
-2022,ARG,Total,1,,,
-2023,ARG,Total,1,,,
-2024,ARG,Total,1,,,
-2025,ARG,Total,1,,,
-2026,ARG,Total,1,,,
-2027,ARG,Total,1,,,
-2028,ARG,Total,1,,,
-2029,ARG,Total,1,,,
-2030,ARG,Total,2,,,
-2031,ARG,Total,2,,,
-2032,ARG,Total,2,,,
-2033,ARG,Total,2,,,
-2034,ARG,Total,2,,,
-2035,ARG,Total,2,,,
-2036,ARG,Total,2,,,
-2037,ARG,Total,2,,,
-2038,ARG,Total,2,,,
-2039,ARG,Total,2,,,
-2040,ARG,Total,2,,,
-2041,ARG,Total,2,,,
-2042,ARG,Total,2,,,
-2043,ARG,Total,2,,,
-2020,AUS,Total,2,,,
-2021,AUS,Total,4,,,
-2022,AUS,Total,5,,,
-2023,AUS,Total,6,,,
-2024,AUS,Total,25,,,
-2025,AUS,Total,35,,,
-2026,AUS,Total,40,,,
-2027,AUS,Total,48,,,
-2028,AUS,Total,61,,,
-2029,AUS,Total,64,,,
-2030,AUS,Total,67,,,
-2031,AUS,Total,68,,,
-2032,AUS,Total,69,,,
-2033,AUS,Total,69,,,
-2034,AUS,Total,69,,,
-2035,AUS,Total,69,,,
-2036,AUS,Total,70,,,
-2037,AUS,Total,70,,,
-2038,AUS,Total,70,,,
-2039,AUS,Total,70,,,
-2040,AUS,Total,70,,,
-2041,AUS,Total,70,,,
-2042,AUS,Total,70,,,
-2043,AUS,Total,70,,,
-2017,AUT,Total,1,,,
-2018,AUT,Total,2,,,
-2019,AUT,Total,2,,,
-2020,AUT,Total,2,,,
-2021,AUT,Total,2,,,
-2022,AUT,Total,3,,,
-2023,AUT,Total,7,,,
-2024,AUT,Total,7,,,
-2025,AUT,Total,8,,,
-2026,AUT,Total,9,,,
-2027,AUT,Total,9,,,
-2028,AUT,Total,9,,,
-2029,AUT,Total,9,,,
-2030,AUT,Total,9,,,
-2031,AUT,Total,9,,,
-2032,AUT,Total,9,,,
-2033,AUT,Total,9,,,
-2034,AUT,Total,9,,,
-2035,AUT,Total,9,,,
-2036,AUT,Total,9,,,
-2037,AUT,Total,9,,,
-2038,AUT,Total,9,,,
-2039,AUT,Total,9,,,
-2040,AUT,Total,9,,,
-2041,AUT,Total,9,,,
-2042,AUT,Total,9,,,
-2043,AUT,Total,9,,,
-2015,BEL,Total,1,,,
-2016,BEL,Total,1,,,
-2017,BEL,Total,1,,,
-2018,BEL,Total,1,,,
-2019,BEL,Total,1,,,
-2020,BEL,Total,1,,,
-2021,BEL,Total,1,,,
-2022,BEL,Total,1,,,
-2023,BEL,Total,1,,,
-2024,BEL,Total,1,,,
-2025,BEL,Total,4,,,
-2026,BEL,Total,6,,,
-2027,BEL,Total,7,,,
-2028,BEL,Total,8,,,
-2029,BEL,Total,8,,,
-2030,BEL,Total,9,,,
-2031,BEL,Total,9,,,
-2032,BEL,Total,9,,,
-2033,BEL,Total,9,,,
-2034,BEL,Total,9,,,
-2035,BEL,Total,9,,,
-2036,BEL,Total,9,,,
-2037,BEL,Total,9,,,
-2038,BEL,Total,9,,,
-2039,BEL,Total,9,,,
-2040,BEL,Total,9,,,
-2041,BEL,Total,9,,,
-2042,BEL,Total,9,,,
-2043,BEL,Total,9,,,
-2022,BRA,Total,2,,,
-2023,BRA,Total,2,,,
-2024,BRA,Total,3,,,
-2025,BRA,Total,6,,,
-2026,BRA,Total,8,,,
-2027,BRA,Total,13,,,
-2028,BRA,Total,14,,,
-2029,BRA,Total,14,,,
-2030,BRA,Total,14,,,
-2031,BRA,Total,14,,,
-2032,BRA,Total,14,,,
-2033,BRA,Total,14,,,
-2034,BRA,Total,14,,,
-2035,BRA,Total,14,,,
-2036,BRA,Total,14,,,
-2037,BRA,Total,14,,,
-2038,BRA,Total,14,,,
-2039,BRA,Total,14,,,
-2040,BRA,Total,14,,,
-2041,BRA,Total,14,,,
-2042,BRA,Total,14,,,
-2043,BRA,Total,14,,,
-2026,BRB,Total,1,,,
-2027,BRB,Total,1,,,
-2028,BRB,Total,1,,,
-2029,BRB,Total,1,,,
-2030,BRB,Total,1,,,
-2031,BRB,Total,1,,,
-2032,BRB,Total,1,,,
-2033,BRB,Total,1,,,
-2034,BRB,Total,1,,,
-2035,BRB,Total,1,,,
-2036,BRB,Total,1,,,
-2037,BRB,Total,1,,,
-2038,BRB,Total,1,,,
-2039,BRB,Total,1,,,
-2040,BRB,Total,1,,,
-2041,BRB,Total,1,,,
-2042,BRB,Total,1,,,
-2043,BRB,Total,1,,,
-2020,CAN,Total,1,,,
-2021,CAN,Total,1,,,
-2022,CAN,Total,1,,,
-2023,CAN,Total,1,,,
-2024,CAN,Total,4,,,
-2025,CAN,Total,5,,,
-2026,CAN,Total,7,,,
-2027,CAN,Total,9,,,
-2028,CAN,Total,12,,,
-2029,CAN,Total,13,,,
-2030,CAN,Total,16,,,
-2031,CAN,Total,16,,,
-2032,CAN,Total,16,,,
-2033,CAN,Total,16,,,
-2034,CAN,Total,16,,,
-2035,CAN,Total,16,,,
-2036,CAN,Total,16,,,
-2037,CAN,Total,16,,,
-2038,CAN,Total,16,,,
-2039,CAN,Total,16,,,
-2040,CAN,Total,16,,,
-2041,CAN,Total,16,,,
-2042,CAN,Total,16,,,
-2043,CAN,Total,16,,,
-2020,CHE,Total,1,,,
-2021,CHE,Total,1,,,
-2022,CHE,Total,2,,,
-2023,CHE,Total,3,,,
-2024,CHE,Total,4,,,
-2025,CHE,Total,5,,,
-2026,CHE,Total,5,,,
-2027,CHE,Total,5,,,
-2028,CHE,Total,5,,,
-2029,CHE,Total,5,,,
-2030,CHE,Total,5,,,
-2031,CHE,Total,5,,,
-2032,CHE,Total,5,,,
-2033,CHE,Total,5,,,
-2034,CHE,Total,5,,,
-2035,CHE,Total,5,,,
-2036,CHE,Total,5,,,
-2037,CHE,Total,5,,,
-2038,CHE,Total,5,,,
-2039,CHE,Total,5,,,
-2040,CHE,Total,5,,,
-2041,CHE,Total,5,,,
-2042,CHE,Total,5,,,
-2043,CHE,Total,5,,,
-2017,CHL,Total,1,,,
-2018,CHL,Total,1,,,
-2019,CHL,Total,1,,,
-2020,CHL,Total,1,,,
-2021,CHL,Total,2,,,
-2022,CHL,Total,4,,,
-2023,CHL,Total,6,,,
-2024,CHL,Total,9,,,
-2025,CHL,Total,16,,,
-2026,CHL,Total,18,,,
-2027,CHL,Total,24,,,
-2028,CHL,Total,28,,,
-2029,CHL,Total,29,,,
-2030,CHL,Total,32,,,
-2031,CHL,Total,33,,,
-2032,CHL,Total,35,,,
-2033,CHL,Total,37,,,
-2034,CHL,Total,37,,,
-2035,CHL,Total,37,,,
-2036,CHL,Total,37,,,
-2037,CHL,Total,37,,,
-2038,CHL,Total,37,,,
-2039,CHL,Total,37,,,
-2040,CHL,Total,37,,,
-2041,CHL,Total,37,,,
-2042,CHL,Total,37,,,
-2043,CHL,Total,37,,,
-2018,CHN,Total,1,,,
-2019,CHN,Total,3,,,
-2020,CHN,Total,6,,,
-2021,CHN,Total,10,,,
-2022,CHN,Total,13,,,
-2023,CHN,Total,22,,,
-2024,CHN,Total,39,,,
-2025,CHN,Total,47,,,
-2026,CHN,Total,58,,,
-2027,CHN,Total,61,,,
-2028,CHN,Total,62,,,
-2029,CHN,Total,63,,,
-2030,CHN,Total,64,,,
-2031,CHN,Total,64,,,
-2032,CHN,Total,64,,,
-2033,CHN,Total,64,,,
-2034,CHN,Total,64,,,
-2035,CHN,Total,65,,,
-2036,CHN,Total,65,,,
-2037,CHN,Total,65,,,
-2038,CHN,Total,65,,,
-2039,CHN,Total,65,,,
-2040,CHN,Total,65,,,
-2041,CHN,Total,65,,,
-2042,CHN,Total,65,,,
-2043,CHN,Total,65,,,
-2022,COL,Total,3,,,
-2023,COL,Total,4,,,
-2024,COL,Total,6,,,
-2025,COL,Total,6,,,
-2026,COL,Total,7,,,
-2027,COL,Total,15,,,
-2028,COL,Total,15,,,
-2029,COL,Total,15,,,
-2030,COL,Total,18,,,
-2031,COL,Total,18,,,
-2032,COL,Total,19,,,
-2033,COL,Total,19,,,
-2034,COL,Total,19,,,
-2035,COL,Total,19,,,
-2036,COL,Total,19,,,
-2037,COL,Total,19,,,
-2038,COL,Total,19,,,
-2039,COL,Total,19,,,
-2040,COL,Total,19,,,
-2041,COL,Total,19,,,
-2042,COL,Total,19,,,
-2043,COL,Total,19,,,
-2017,CRI,Total,1,,,
-2018,CRI,Total,1,,,
-2019,CRI,Total,1,,,
-2020,CRI,Total,1,,,
-2021,CRI,Total,1,,,
-2022,CRI,Total,1,,,
-2023,CRI,Total,1,,,
-2024,CRI,Total,1,,,
-2025,CRI,Total,2,,,
-2026,CRI,Total,2,,,
-2027,CRI,Total,2,,,
-2028,CRI,Total,3,,,
-2029,CRI,Total,3,,,
-2030,CRI,Total,3,,,
-2031,CRI,Total,3,,,
-2032,CRI,Total,3,,,
-2033,CRI,Total,3,,,
-2034,CRI,Total,3,,,
-2035,CRI,Total,3,,,
-2036,CRI,Total,3,,,
-2037,CRI,Total,3,,,
-2038,CRI,Total,3,,,
-2039,CRI,Total,3,,,
-2040,CRI,Total,3,,,
-2041,CRI,Total,3,,,
-2042,CRI,Total,3,,,
-2043,CRI,Total,3,,,
-2029,CYP,Total,1,,,
-2030,CYP,Total,1,,,
-2031,CYP,Total,1,,,
-2032,CYP,Total,1,,,
-2033,CYP,Total,1,,,
-2034,CYP,Total,1,,,
-2035,CYP,Total,1,,,
-2036,CYP,Total,1,,,
-2037,CYP,Total,1,,,
-2038,CYP,Total,1,,,
-2039,CYP,Total,1,,,
-2040,CYP,Total,1,,,
-2041,CYP,Total,1,,,
-2042,CYP,Total,1,,,
-2043,CYP,Total,1,,,
-2024,CZE,Total,1,,,
-2025,CZE,Total,2,,,
-2026,CZE,Total,3,,,
-2027,CZE,Total,3,,,
-2028,CZE,Total,4,,,
-2029,CZE,Total,4,,,
-2030,CZE,Total,6,,,
-2031,CZE,Total,6,,,
-2032,CZE,Total,6,,,
-2033,CZE,Total,6,,,
-2034,CZE,Total,6,,,
-2035,CZE,Total,6,,,
-2036,CZE,Total,6,,,
-2037,CZE,Total,6,,,
-2038,CZE,Total,6,,,
-2039,CZE,Total,6,,,
-2040,CZE,Total,6,,,
-2041,CZE,Total,6,,,
-2042,CZE,Total,6,,,
-2043,CZE,Total,6,,,
-2013,DEU,Total,2,,,
-2014,DEU,Total,3,,,
-2015,DEU,Total,5,,,
-2016,DEU,Total,6,,,
-2017,DEU,Total,7,,,
-2018,DEU,Total,8,,,
-2019,DEU,Total,11,,,
-2020,DEU,Total,16,,,
-2021,DEU,Total,20,,,
-2022,DEU,Total,21,,,
-2023,DEU,Total,25,,,
-2024,DEU,Total,35,,,
-2025,DEU,Total,54,,,
-2026,DEU,Total,65,,,
-2027,DEU,Total,72,,,
-2028,DEU,Total,77,,,
-2029,DEU,Total,77,,,
-2030,DEU,Total,81,,,
-2031,DEU,Total,81,,,
-2032,DEU,Total,81,,,
-2033,DEU,Total,81,,,
-2034,DEU,Total,81,,,
-2035,DEU,Total,83,,,
-2036,DEU,Total,83,,,
-2037,DEU,Total,83,,,
-2038,DEU,Total,83,,,
-2039,DEU,Total,83,,,
-2040,DEU,Total,83,,,
-2041,DEU,Total,83,,,
-2042,DEU,Total,83,,,
-2043,DEU,Total,83,,,
-2020,DNK,Total,1,,,
-2021,DNK,Total,2,,,
-2022,DNK,Total,3,,,
-2023,DNK,Total,3,,,
-2024,DNK,Total,7,,,
-2025,DNK,Total,15,,,
-2026,DNK,Total,18,,,
-2027,DNK,Total,21,,,
-2028,DNK,Total,23,,,
-2029,DNK,Total,23,,,
-2030,DNK,Total,27,,,
-2031,DNK,Total,27,,,
-2032,DNK,Total,27,,,
-2033,DNK,Total,27,,,
-2034,DNK,Total,27,,,
-2035,DNK,Total,27,,,
-2036,DNK,Total,27,,,
-2037,DNK,Total,27,,,
-2038,DNK,Total,27,,,
-2039,DNK,Total,27,,,
-2040,DNK,Total,27,,,
-2041,DNK,Total,27,,,
-2042,DNK,Total,27,,,
-2043,DNK,Total,27,,,
-2028,DOM,Total,1,,,
-2029,DOM,Total,1,,,
-2030,DOM,Total,1,,,
-2031,DOM,Total,1,,,
-2032,DOM,Total,1,,,
-2033,DOM,Total,1,,,
-2034,DOM,Total,1,,,
-2035,DOM,Total,1,,,
-2036,DOM,Total,1,,,
-2037,DOM,Total,1,,,
-2038,DOM,Total,1,,,
-2039,DOM,Total,1,,,
-2040,DOM,Total,1,,,
-2041,DOM,Total,1,,,
-2042,DOM,Total,1,,,
-2043,DOM,Total,1,,,
-2000,EGY,Total,1,,,
-2001,EGY,Total,1,,,
-2002,EGY,Total,1,,,
-2003,EGY,Total,1,,,
-2004,EGY,Total,1,,,
-2005,EGY,Total,1,,,
-2006,EGY,Total,1,,,
-2007,EGY,Total,1,,,
-2008,EGY,Total,1,,,
-2009,EGY,Total,1,,,
-2010,EGY,Total,1,,,
-2011,EGY,Total,1,,,
-2012,EGY,Total,1,,,
-2013,EGY,Total,1,,,
-2014,EGY,Total,1,,,
-2015,EGY,Total,1,,,
-2016,EGY,Total,1,,,
-2017,EGY,Total,1,,,
-2018,EGY,Total,1,,,
-2019,EGY,Total,1,,,
-2020,EGY,Total,1,,,
-2021,EGY,Total,1,,,
-2022,EGY,Total,2,,,
-2023,EGY,Total,2,,,
-2024,EGY,Total,2,,,
-2025,EGY,Total,4,,,
-2026,EGY,Total,6,,,
-2027,EGY,Total,7,,,
-2028,EGY,Total,8,,,
-2029,EGY,Total,11,,,
-2030,EGY,Total,12,,,
-2031,EGY,Total,12,,,
-2032,EGY,Total,13,,,
-2033,EGY,Total,13,,,
-2034,EGY,Total,13,,,
-2035,EGY,Total,13,,,
-2036,EGY,Total,13,,,
-2037,EGY,Total,13,,,
-2038,EGY,Total,13,,,
-2039,EGY,Total,13,,,
-2040,EGY,Total,13,,,
-2041,EGY,Total,13,,,
-2042,EGY,Total,13,,,
-2043,EGY,Total,13,,,
-2008,ESP,Total,1,,,
-2009,ESP,Total,1,,,
-2010,ESP,Total,1,,,
-2011,ESP,Total,1,,,
-2012,ESP,Total,1,,,
-2013,ESP,Total,1,,,
-2014,ESP,Total,1,,,
-2015,ESP,Total,2,,,
-2016,ESP,Total,2,,,
-2017,ESP,Total,2,,,
-2018,ESP,Total,2,,,
-2019,ESP,Total,2,,,
-2020,ESP,Total,2,,,
-2021,ESP,Total,2,,,
-2022,ESP,Total,6,,,
-2023,ESP,Total,10,,,
-2024,ESP,Total,16,,,
-2025,ESP,Total,27,,,
-2026,ESP,Total,45,,,
-2027,ESP,Total,49,,,
-2028,ESP,Total,56,,,
-2029,ESP,Total,58,,,
-2030,ESP,Total,65,,,
-2031,ESP,Total,67,,,
-2032,ESP,Total,67,,,
-2033,ESP,Total,67,,,
-2034,ESP,Total,67,,,
-2035,ESP,Total,67,,,
-2036,ESP,Total,67,,,
-2037,ESP,Total,67,,,
-2038,ESP,Total,67,,,
-2039,ESP,Total,67,,,
-2040,ESP,Total,67,,,
-2041,ESP,Total,67,,,
-2042,ESP,Total,67,,,
-2043,ESP,Total,67,,,
-2010,EST,Total,1,,,
-2011,EST,Total,1,,,
-2012,EST,Total,1,,,
-2013,EST,Total,1,,,
-2014,EST,Total,1,,,
-2015,EST,Total,1,,,
-2016,EST,Total,1,,,
-2017,EST,Total,1,,,
-2018,EST,Total,1,,,
-2019,EST,Total,1,,,
-2020,EST,Total,1,,,
-2021,EST,Total,1,,,
-2022,EST,Total,1,,,
-2023,EST,Total,1,,,
-2024,EST,Total,1,,,
-2025,EST,Total,3,,,
-2026,EST,Total,3,,,
-2027,EST,Total,3,,,
-2028,EST,Total,4,,,
-2029,EST,Total,4,,,
-2030,EST,Total,4,,,
-2031,EST,Total,4,,,
-2032,EST,Total,4,,,
-2033,EST,Total,4,,,
-2034,EST,Total,4,,,
-2035,EST,Total,4,,,
-2036,EST,Total,4,,,
-2037,EST,Total,4,,,
-2038,EST,Total,4,,,
-2039,EST,Total,4,,,
-2040,EST,Total,4,,,
-2041,EST,Total,4,,,
-2042,EST,Total,4,,,
-2043,EST,Total,4,,,
-2024,FIN,Total,2,,,
-2025,FIN,Total,4,,,
-2026,FIN,Total,7,,,
-2027,FIN,Total,8,,,
-2028,FIN,Total,9,,,
-2029,FIN,Total,9,,,
-2030,FIN,Total,12,,,
-2031,FIN,Total,12,,,
-2032,FIN,Total,12,,,
-2033,FIN,Total,12,,,
-2034,FIN,Total,12,,,
-2035,FIN,Total,12,,,
-2036,FIN,Total,12,,,
-2037,FIN,Total,12,,,
-2038,FIN,Total,12,,,
-2039,FIN,Total,12,,,
-2040,FIN,Total,12,,,
-2041,FIN,Total,12,,,
-2042,FIN,Total,12,,,
-2043,FIN,Total,12,,,
-2021,FRA,Total,2,,,
-2022,FRA,Total,3,,,
-2023,FRA,Total,7,,,
-2024,FRA,Total,10,,,
-2025,FRA,Total,16,,,
-2026,FRA,Total,18,,,
-2027,FRA,Total,21,,,
-2028,FRA,Total,25,,,
-2029,FRA,Total,25,,,
-2030,FRA,Total,27,,,
-2031,FRA,Total,27,,,
-2032,FRA,Total,27,,,
-2033,FRA,Total,27,,,
-2034,FRA,Total,27,,,
-2035,FRA,Total,27,,,
-2036,FRA,Total,27,,,
-2037,FRA,Total,27,,,
-2038,FRA,Total,27,,,
-2039,FRA,Total,27,,,
-2040,FRA,Total,27,,,
-2041,FRA,Total,27,,,
-2042,FRA,Total,27,,,
-2043,FRA,Total,27,,,
-2016,GBR,Total,1,,,
-2017,GBR,Total,2,,,
-2018,GBR,Total,2,,,
-2019,GBR,Total,3,,,
-2020,GBR,Total,3,,,
-2021,GBR,Total,4,,,
-2022,GBR,Total,4,,,
-2023,GBR,Total,5,,,
-2024,GBR,Total,12,,,
-2025,GBR,Total,24,,,
-2026,GBR,Total,37,,,
-2027,GBR,Total,40,,,
-2028,GBR,Total,46,,,
-2029,GBR,Total,47,,,
-2030,GBR,Total,58,,,
-2031,GBR,Total,58,,,
-2032,GBR,Total,60,,,
-2033,GBR,Total,60,,,
-2034,GBR,Total,61,,,
-2035,GBR,Total,62,,,
-2036,GBR,Total,62,,,
-2037,GBR,Total,62,,,
-2038,GBR,Total,62,,,
-2039,GBR,Total,62,,,
-2040,GBR,Total,62,,,
-2041,GBR,Total,62,,,
-2042,GBR,Total,62,,,
-2043,GBR,Total,62,,,
-2021,GRC,Total,1,,,
-2022,GRC,Total,2,,,
-2023,GRC,Total,2,,,
-2024,GRC,Total,2,,,
-2025,GRC,Total,4,,,
-2026,GRC,Total,4,,,
-2027,GRC,Total,5,,,
-2028,GRC,Total,6,,,
-2029,GRC,Total,6,,,
-2030,GRC,Total,6,,,
-2031,GRC,Total,6,,,
-2032,GRC,Total,6,,,
-2033,GRC,Total,6,,,
-2034,GRC,Total,6,,,
-2035,GRC,Total,6,,,
-2036,GRC,Total,6,,,
-2037,GRC,Total,6,,,
-2038,GRC,Total,6,,,
-2039,GRC,Total,6,,,
-2040,GRC,Total,6,,,
-2041,GRC,Total,6,,,
-2042,GRC,Total,6,,,
-2043,GRC,Total,6,,,
-2023,HUN,Total,1,,,
-2024,HUN,Total,2,,,
-2025,HUN,Total,2,,,
-2026,HUN,Total,2,,,
-2027,HUN,Total,2,,,
-2028,HUN,Total,2,,,
-2029,HUN,Total,2,,,
-2030,HUN,Total,2,,,
-2031,HUN,Total,2,,,
-2032,HUN,Total,2,,,
-2033,HUN,Total,2,,,
-2034,HUN,Total,2,,,
-2035,HUN,Total,2,,,
-2036,HUN,Total,2,,,
-2037,HUN,Total,2,,,
-2038,HUN,Total,2,,,
-2039,HUN,Total,2,,,
-2040,HUN,Total,2,,,
-2041,HUN,Total,2,,,
-2042,HUN,Total,2,,,
-2043,HUN,Total,2,,,
-2023,IDN,Total,1,,,
-2024,IDN,Total,2,,,
-2025,IDN,Total,3,,,
-2026,IDN,Total,5,,,
-2027,IDN,Total,7,,,
-2028,IDN,Total,7,,,
-2029,IDN,Total,7,,,
-2030,IDN,Total,10,,,
-2031,IDN,Total,10,,,
-2032,IDN,Total,10,,,
-2033,IDN,Total,10,,,
-2034,IDN,Total,10,,,
-2035,IDN,Total,10,,,
-2036,IDN,Total,10,,,
-2037,IDN,Total,10,,,
-2038,IDN,Total,10,,,
-2039,IDN,Total,10,,,
-2040,IDN,Total,10,,,
-2041,IDN,Total,10,,,
-2042,IDN,Total,10,,,
-2043,IDN,Total,10,,,
-2015,IND,Total,3,,,
-2016,IND,Total,3,,,
-2017,IND,Total,3,,,
-2018,IND,Total,3,,,
-2019,IND,Total,3,,,
-2020,IND,Total,3,,,
-2021,IND,Total,4,,,
-2022,IND,Total,6,,,
-2023,IND,Total,6,,,
-2024,IND,Total,13,,,
-2025,IND,Total,21,,,
-2026,IND,Total,26,,,
-2027,IND,Total,42,,,
-2028,IND,Total,45,,,
-2029,IND,Total,45,,,
-2030,IND,Total,53,,,
-2031,IND,Total,53,,,
-2032,IND,Total,54,,,
-2033,IND,Total,55,,,
-2034,IND,Total,55,,,
-2035,IND,Total,55,,,
-2036,IND,Total,55,,,
-2037,IND,Total,55,,,
-2038,IND,Total,55,,,
-2039,IND,Total,55,,,
-2040,IND,Total,56,,,
-2041,IND,Total,56,,,
-2042,IND,Total,56,,,
-2043,IND,Total,56,,,
-2025,IRL,Total,1,,,
-2026,IRL,Total,3,,,
-2027,IRL,Total,4,,,
-2028,IRL,Total,4,,,
-2029,IRL,Total,4,,,
-2030,IRL,Total,7,,,
-2031,IRL,Total,7,,,
-2032,IRL,Total,7,,,
-2033,IRL,Total,7,,,
-2034,IRL,Total,7,,,
-2035,IRL,Total,7,,,
-2036,IRL,Total,7,,,
-2037,IRL,Total,7,,,
-2038,IRL,Total,7,,,
-2039,IRL,Total,7,,,
-2040,IRL,Total,7,,,
-2041,IRL,Total,7,,,
-2042,IRL,Total,7,,,
-2043,IRL,Total,7,,,
-2012,ISL,Total,1,,,
-2013,ISL,Total,1,,,
-2014,ISL,Total,1,,,
-2015,ISL,Total,1,,,
-2016,ISL,Total,1,,,
-2017,ISL,Total,1,,,
-2018,ISL,Total,1,,,
-2019,ISL,Total,1,,,
-2020,ISL,Total,1,,,
-2021,ISL,Total,1,,,
-2022,ISL,Total,1,,,
-2023,ISL,Total,1,,,
-2024,ISL,Total,1,,,
-2025,ISL,Total,1,,,
-2026,ISL,Total,3,,,
-2027,ISL,Total,3,,,
-2028,ISL,Total,4,,,
-2029,ISL,Total,4,,,
-2030,ISL,Total,4,,,
-2031,ISL,Total,4,,,
-2032,ISL,Total,4,,,
-2033,ISL,Total,4,,,
-2034,ISL,Total,4,,,
-2035,ISL,Total,4,,,
-2036,ISL,Total,4,,,
-2037,ISL,Total,4,,,
-2038,ISL,Total,4,,,
-2039,ISL,Total,4,,,
-2040,ISL,Total,4,,,
-2041,ISL,Total,4,,,
-2042,ISL,Total,4,,,
-2043,ISL,Total,4,,,
-2025,ITA,Total,1,,,
-2026,ITA,Total,14,,,
-2027,ITA,Total,16,,,
-2028,ITA,Total,16,,,
-2029,ITA,Total,18,,,
-2030,ITA,Total,21,,,
-2031,ITA,Total,21,,,
-2032,ITA,Total,21,,,
-2033,ITA,Total,21,,,
-2034,ITA,Total,21,,,
-2035,ITA,Total,21,,,
-2036,ITA,Total,21,,,
-2037,ITA,Total,21,,,
-2038,ITA,Total,21,,,
-2039,ITA,Total,21,,,
-2040,ITA,Total,21,,,
-2041,ITA,Total,21,,,
-2042,ITA,Total,21,,,
-2043,ITA,Total,21,,,
-2028,JOR,Total,1,,,
-2029,JOR,Total,1,,,
-2030,JOR,Total,1,,,
-2031,JOR,Total,1,,,
-2032,JOR,Total,1,,,
-2033,JOR,Total,1,,,
-2034,JOR,Total,1,,,
-2035,JOR,Total,1,,,
-2036,JOR,Total,1,,,
-2037,JOR,Total,1,,,
-2038,JOR,Total,1,,,
-2039,JOR,Total,1,,,
-2040,JOR,Total,1,,,
-2041,JOR,Total,1,,,
-2042,JOR,Total,1,,,
-2043,JOR,Total,1,,,
-2015,JPN,Total,1,,,
-2016,JPN,Total,1,,,
-2017,JPN,Total,1,,,
-2018,JPN,Total,1,,,
-2019,JPN,Total,2,,,
-2020,JPN,Total,4,,,
-2021,JPN,Total,4,,,
-2022,JPN,Total,4,,,
-2023,JPN,Total,4,,,
-2024,JPN,Total,5,,,
-2025,JPN,Total,7,,,
-2026,JPN,Total,7,,,
-2027,JPN,Total,7,,,
-2028,JPN,Total,7,,,
-2029,JPN,Total,7,,,
-2030,JPN,Total,7,,,
-2031,JPN,Total,7,,,
-2032,JPN,Total,7,,,
-2033,JPN,Total,7,,,
-2034,JPN,Total,7,,,
-2035,JPN,Total,7,,,
-2036,JPN,Total,7,,,
-2037,JPN,Total,7,,,
-2038,JPN,Total,7,,,
-2039,JPN,Total,7,,,
-2040,JPN,Total,7,,,
-2041,JPN,Total,7,,,
-2042,JPN,Total,7,,,
-2043,JPN,Total,7,,,
-2032,KAZ,Total,1,,,
-2033,KAZ,Total,1,,,
-2034,KAZ,Total,1,,,
-2035,KAZ,Total,1,,,
-2036,KAZ,Total,1,,,
-2037,KAZ,Total,1,,,
-2038,KAZ,Total,1,,,
-2039,KAZ,Total,1,,,
-2040,KAZ,Total,1,,,
-2041,KAZ,Total,1,,,
-2042,KAZ,Total,1,,,
-2043,KAZ,Total,1,,,
-2025,KEN,Total,1,,,
-2026,KEN,Total,1,,,
-2027,KEN,Total,1,,,
-2028,KEN,Total,1,,,
-2029,KEN,Total,1,,,
-2030,KEN,Total,2,,,
-2031,KEN,Total,2,,,
-2032,KEN,Total,2,,,
-2033,KEN,Total,2,,,
-2034,KEN,Total,2,,,
-2035,KEN,Total,2,,,
-2036,KEN,Total,2,,,
-2037,KEN,Total,2,,,
-2038,KEN,Total,2,,,
-2039,KEN,Total,2,,,
-2040,KEN,Total,2,,,
-2041,KEN,Total,2,,,
-2042,KEN,Total,2,,,
-2043,KEN,Total,2,,,
-2023,KOR,Total,1,,,
-2024,KOR,Total,1,,,
-2025,KOR,Total,3,,,
-2026,KOR,Total,3,,,
-2027,KOR,Total,4,,,
-2028,KOR,Total,4,,,
-2029,KOR,Total,4,,,
-2030,KOR,Total,5,,,
-2031,KOR,Total,5,,,
-2032,KOR,Total,5,,,
-2033,KOR,Total,5,,,
-2034,KOR,Total,5,,,
-2035,KOR,Total,5,,,
-2036,KOR,Total,5,,,
-2037,KOR,Total,5,,,
-2038,KOR,Total,5,,,
-2039,KOR,Total,5,,,
-2040,KOR,Total,5,,,
-2041,KOR,Total,5,,,
-2042,KOR,Total,5,,,
-2043,KOR,Total,5,,,
-2030,LVA,Total,1,,,
-2031,LVA,Total,1,,,
-2032,LVA,Total,1,,,
-2033,LVA,Total,1,,,
-2034,LVA,Total,1,,,
-2035,LVA,Total,1,,,
-2036,LVA,Total,1,,,
-2037,LVA,Total,1,,,
-2038,LVA,Total,1,,,
-2039,LVA,Total,1,,,
-2040,LVA,Total,1,,,
-2041,LVA,Total,1,,,
-2042,LVA,Total,1,,,
-2043,LVA,Total,1,,,
-2025,MEX,Total,1,,,
-2026,MEX,Total,3,,,
-2027,MEX,Total,3,,,
-2028,MEX,Total,6,,,
-2029,MEX,Total,6,,,
-2030,MEX,Total,7,,,
-2031,MEX,Total,7,,,
-2032,MEX,Total,7,,,
-2033,MEX,Total,7,,,
-2034,MEX,Total,7,,,
-2035,MEX,Total,7,,,
-2036,MEX,Total,7,,,
-2037,MEX,Total,7,,,
-2038,MEX,Total,7,,,
-2039,MEX,Total,7,,,
-2040,MEX,Total,7,,,
-2041,MEX,Total,7,,,
-2042,MEX,Total,7,,,
-2043,MEX,Total,7,,,
-2028,MRT,Total,2,,,
-2029,MRT,Total,4,,,
-2030,MRT,Total,4,,,
-2031,MRT,Total,5,,,
-2032,MRT,Total,5,,,
-2033,MRT,Total,6,,,
-2034,MRT,Total,6,,,
-2035,MRT,Total,6,,,
-2036,MRT,Total,6,,,
-2037,MRT,Total,7,,,
-2038,MRT,Total,7,,,
-2039,MRT,Total,7,,,
-2040,MRT,Total,7,,,
-2041,MRT,Total,7,,,
-2042,MRT,Total,7,,,
-2043,MRT,Total,7,,,
-2026,MYS,Total,1,,,
-2027,MYS,Total,2,,,
-2028,MYS,Total,3,,,
-2029,MYS,Total,3,,,
-2030,MYS,Total,3,,,
-2031,MYS,Total,3,,,
-2032,MYS,Total,3,,,
-2033,MYS,Total,3,,,
-2034,MYS,Total,3,,,
-2035,MYS,Total,3,,,
-2036,MYS,Total,3,,,
-2037,MYS,Total,3,,,
-2038,MYS,Total,3,,,
-2039,MYS,Total,3,,,
-2040,MYS,Total,3,,,
-2041,MYS,Total,3,,,
-2042,MYS,Total,3,,,
-2043,MYS,Total,3,,,
-2024,NAM,Total,4,,,
-2025,NAM,Total,4,,,
-2026,NAM,Total,5,,,
-2027,NAM,Total,9,,,
-2028,NAM,Total,9,,,
-2029,NAM,Total,10,,,
-2030,NAM,Total,10,,,
-2031,NAM,Total,10,,,
-2032,NAM,Total,12,,,
-2033,NAM,Total,12,,,
-2034,NAM,Total,12,,,
-2035,NAM,Total,12,,,
-2036,NAM,Total,12,,,
-2037,NAM,Total,12,,,
-2038,NAM,Total,12,,,
-2039,NAM,Total,12,,,
-2040,NAM,Total,12,,,
-2041,NAM,Total,12,,,
-2042,NAM,Total,12,,,
-2043,NAM,Total,12,,,
-2021,NLD,Total,1,,,
-2022,NLD,Total,3,,,
-2023,NLD,Total,6,,,
-2024,NLD,Total,8,,,
-2025,NLD,Total,16,,,
-2026,NLD,Total,26,,,
-2027,NLD,Total,36,,,
-2028,NLD,Total,43,,,
-2029,NLD,Total,45,,,
-2030,NLD,Total,56,,,
-2031,NLD,Total,57,,,
-2032,NLD,Total,58,,,
-2033,NLD,Total,59,,,
-2034,NLD,Total,59,,,
-2035,NLD,Total,59,,,
-2036,NLD,Total,59,,,
-2037,NLD,Total,59,,,
-2038,NLD,Total,59,,,
-2039,NLD,Total,59,,,
-2040,NLD,Total,60,,,
-2041,NLD,Total,60,,,
-2042,NLD,Total,60,,,
-2043,NLD,Total,61,,,
-2017,NOR,Total,1,,,
-2018,NOR,Total,1,,,
-2019,NOR,Total,1,,,
-2020,NOR,Total,2,,,
-2021,NOR,Total,3,,,
-2022,NOR,Total,4,,,
-2023,NOR,Total,5,,,
-2024,NOR,Total,7,,,
-2025,NOR,Total,11,,,
-2026,NOR,Total,14,,,
-2027,NOR,Total,20,,,
-2028,NOR,Total,26,,,
-2029,NOR,Total,28,,,
-2030,NOR,Total,29,,,
-2031,NOR,Total,29,,,
-2032,NOR,Total,30,,,
-2033,NOR,Total,30,,,
-2034,NOR,Total,30,,,
-2035,NOR,Total,30,,,
-2036,NOR,Total,30,,,
-2037,NOR,Total,30,,,
-2038,NOR,Total,30,,,
-2039,NOR,Total,30,,,
-2040,NOR,Total,30,,,
-2041,NOR,Total,30,,,
-2042,NOR,Total,30,,,
-2043,NOR,Total,30,,,
-2021,NZL,Total,1,,,
-2022,NZL,Total,1,,,
-2023,NZL,Total,1,,,
-2024,NZL,Total,1,,,
-2025,NZL,Total,3,,,
-2026,NZL,Total,3,,,
-2027,NZL,Total,4,,,
-2028,NZL,Total,4,,,
-2029,NZL,Total,4,,,
-2030,NZL,Total,4,,,
-2031,NZL,Total,4,,,
-2032,NZL,Total,4,,,
-2033,NZL,Total,4,,,
-2034,NZL,Total,4,,,
-2035,NZL,Total,4,,,
-2036,NZL,Total,4,,,
-2037,NZL,Total,4,,,
-2038,NZL,Total,4,,,
-2039,NZL,Total,4,,,
-2040,NZL,Total,4,,,
-2041,NZL,Total,4,,,
-2042,NZL,Total,4,,,
-2043,NZL,Total,4,,,
-2024,OMN,Total,1,,,
-2025,OMN,Total,1,,,
-2026,OMN,Total,2,,,
-2027,OMN,Total,3,,,
-2028,OMN,Total,3,,,
-2029,OMN,Total,3,,,
-2030,OMN,Total,10,,,
-2031,OMN,Total,10,,,
-2032,OMN,Total,10,,,
-2033,OMN,Total,10,,,
-2034,OMN,Total,10,,,
-2035,OMN,Total,10,,,
-2036,OMN,Total,10,,,
-2037,OMN,Total,10,,,
-2038,OMN,Total,11,,,
-2039,OMN,Total,11,,,
-2040,OMN,Total,11,,,
-2041,OMN,Total,11,,,
-2042,OMN,Total,11,,,
-2043,OMN,Total,11,,,
-2027,PAN,Total,1,,,
-2028,PAN,Total,1,,,
-2029,PAN,Total,1,,,
-2030,PAN,Total,1,,,
-2031,PAN,Total,1,,,
-2032,PAN,Total,1,,,
-2033,PAN,Total,1,,,
-2034,PAN,Total,1,,,
-2035,PAN,Total,1,,,
-2036,PAN,Total,1,,,
-2037,PAN,Total,1,,,
-2038,PAN,Total,1,,,
-2039,PAN,Total,1,,,
-2040,PAN,Total,1,,,
-2041,PAN,Total,1,,,
-2042,PAN,Total,1,,,
-2043,PAN,Total,1,,,
-2000,PER,Total,1,,,
-2001,PER,Total,1,,,
-2002,PER,Total,1,,,
-2003,PER,Total,1,,,
-2004,PER,Total,1,,,
-2005,PER,Total,1,,,
-2006,PER,Total,1,,,
-2007,PER,Total,1,,,
-2008,PER,Total,1,,,
-2009,PER,Total,1,,,
-2010,PER,Total,1,,,
-2011,PER,Total,1,,,
-2012,PER,Total,1,,,
-2013,PER,Total,1,,,
-2014,PER,Total,1,,,
-2015,PER,Total,1,,,
-2016,PER,Total,1,,,
-2017,PER,Total,1,,,
-2018,PER,Total,1,,,
-2019,PER,Total,1,,,
-2020,PER,Total,1,,,
-2021,PER,Total,1,,,
-2022,PER,Total,1,,,
-2023,PER,Total,2,,,
-2024,PER,Total,2,,,
-2025,PER,Total,2,,,
-2026,PER,Total,2,,,
-2027,PER,Total,3,,,
-2028,PER,Total,3,,,
-2029,PER,Total,3,,,
-2030,PER,Total,4,,,
-2031,PER,Total,4,,,
-2032,PER,Total,5,,,
-2033,PER,Total,5,,,
-2034,PER,Total,5,,,
-2035,PER,Total,5,,,
-2036,PER,Total,5,,,
-2037,PER,Total,5,,,
-2038,PER,Total,5,,,
-2039,PER,Total,5,,,
-2040,PER,Total,5,,,
-2041,PER,Total,5,,,
-2042,PER,Total,5,,,
-2043,PER,Total,5,,,
-2024,POL,Total,1,,,
-2025,POL,Total,2,,,
-2026,POL,Total,3,,,
-2027,POL,Total,4,,,
-2028,POL,Total,5,,,
-2029,POL,Total,5,,,
-2030,POL,Total,9,,,
-2031,POL,Total,9,,,
-2032,POL,Total,9,,,
-2033,POL,Total,9,,,
-2034,POL,Total,9,,,
-2035,POL,Total,9,,,
-2036,POL,Total,9,,,
-2037,POL,Total,9,,,
-2038,POL,Total,9,,,
-2039,POL,Total,9,,,
-2040,POL,Total,9,,,
-2041,POL,Total,9,,,
-2042,POL,Total,9,,,
-2043,POL,Total,9,,,
-2022,PRT,Total,1,,,
-2023,PRT,Total,2,,,
-2024,PRT,Total,3,,,
-2025,PRT,Total,10,,,
-2026,PRT,Total,13,,,
-2027,PRT,Total,17,,,
-2028,PRT,Total,18,,,
-2029,PRT,Total,19,,,
-2030,PRT,Total,22,,,
-2031,PRT,Total,22,,,
-2032,PRT,Total,22,,,
-2033,PRT,Total,22,,,
-2034,PRT,Total,22,,,
-2035,PRT,Total,23,,,
-2036,PRT,Total,23,,,
-2037,PRT,Total,23,,,
-2038,PRT,Total,23,,,
-2039,PRT,Total,23,,,
-2040,PRT,Total,24,,,
-2041,PRT,Total,24,,,
-2042,PRT,Total,24,,,
-2043,PRT,Total,24,,,
-2026,PRY,Total,2,,,
-2027,PRY,Total,3,,,
-2028,PRY,Total,3,,,
-2029,PRY,Total,3,,,
-2030,PRY,Total,3,,,
-2031,PRY,Total,3,,,
-2032,PRY,Total,3,,,
-2033,PRY,Total,3,,,
-2034,PRY,Total,3,,,
-2035,PRY,Total,3,,,
-2036,PRY,Total,3,,,
-2037,PRY,Total,3,,,
-2038,PRY,Total,3,,,
-2039,PRY,Total,3,,,
-2040,PRY,Total,3,,,
-2041,PRY,Total,3,,,
-2042,PRY,Total,3,,,
-2043,PRY,Total,3,,,
-2026,ROU,Total,1,,,
-2027,ROU,Total,1,,,
-2028,ROU,Total,2,,,
-2029,ROU,Total,2,,,
-2030,ROU,Total,2,,,
-2031,ROU,Total,2,,,
-2032,ROU,Total,2,,,
-2033,ROU,Total,2,,,
-2034,ROU,Total,2,,,
-2035,ROU,Total,2,,,
-2036,ROU,Total,2,,,
-2037,ROU,Total,2,,,
-2038,ROU,Total,2,,,
-2039,ROU,Total,2,,,
-2040,ROU,Total,2,,,
-2041,ROU,Total,2,,,
-2042,ROU,Total,2,,,
-2043,ROU,Total,2,,,
-2026,SAU,Total,1,,,
-2027,SAU,Total,1,,,
-2028,SAU,Total,1,,,
-2029,SAU,Total,1,,,
-2030,SAU,Total,1,,,
-2031,SAU,Total,1,,,
-2032,SAU,Total,1,,,
-2033,SAU,Total,1,,,
-2034,SAU,Total,1,,,
-2035,SAU,Total,1,,,
-2036,SAU,Total,1,,,
-2037,SAU,Total,1,,,
-2038,SAU,Total,1,,,
-2039,SAU,Total,1,,,
-2040,SAU,Total,1,,,
-2041,SAU,Total,1,,,
-2042,SAU,Total,1,,,
-2043,SAU,Total,1,,,
-2026,SGP,Total,1,,,
-2027,SGP,Total,1,,,
-2028,SGP,Total,1,,,
-2029,SGP,Total,1,,,
-2030,SGP,Total,1,,,
-2031,SGP,Total,1,,,
-2032,SGP,Total,1,,,
-2033,SGP,Total,1,,,
-2034,SGP,Total,1,,,
-2035,SGP,Total,1,,,
-2036,SGP,Total,1,,,
-2037,SGP,Total,1,,,
-2038,SGP,Total,1,,,
-2039,SGP,Total,1,,,
-2040,SGP,Total,1,,,
-2041,SGP,Total,1,,,
-2042,SGP,Total,1,,,
-2043,SGP,Total,1,,,
-2028,SRB,Total,1,,,
-2029,SRB,Total,1,,,
-2030,SRB,Total,1,,,
-2031,SRB,Total,1,,,
-2032,SRB,Total,1,,,
-2033,SRB,Total,1,,,
-2034,SRB,Total,1,,,
-2035,SRB,Total,1,,,
-2036,SRB,Total,1,,,
-2037,SRB,Total,1,,,
-2038,SRB,Total,1,,,
-2039,SRB,Total,1,,,
-2040,SRB,Total,1,,,
-2041,SRB,Total,1,,,
-2042,SRB,Total,1,,,
-2043,SRB,Total,1,,,
-2025,SVK,Total,3,,,
-2026,SVK,Total,3,,,
-2027,SVK,Total,3,,,
-2028,SVK,Total,3,,,
-2029,SVK,Total,3,,,
-2030,SVK,Total,4,,,
-2031,SVK,Total,4,,,
-2032,SVK,Total,4,,,
-2033,SVK,Total,4,,,
-2034,SVK,Total,4,,,
-2035,SVK,Total,5,,,
-2036,SVK,Total,5,,,
-2037,SVK,Total,5,,,
-2038,SVK,Total,5,,,
-2039,SVK,Total,5,,,
-2040,SVK,Total,5,,,
-2041,SVK,Total,5,,,
-2042,SVK,Total,5,,,
-2043,SVK,Total,5,,,
-2021,SVN,Total,1,,,
-2022,SVN,Total,1,,,
-2023,SVN,Total,1,,,
-2024,SVN,Total,1,,,
-2025,SVN,Total,1,,,
-2026,SVN,Total,2,,,
-2027,SVN,Total,2,,,
-2028,SVN,Total,2,,,
-2029,SVN,Total,2,,,
-2030,SVN,Total,2,,,
-2031,SVN,Total,2,,,
-2032,SVN,Total,2,,,
-2033,SVN,Total,2,,,
-2034,SVN,Total,2,,,
-2035,SVN,Total,2,,,
-2036,SVN,Total,2,,,
-2037,SVN,Total,2,,,
-2038,SVN,Total,2,,,
-2039,SVN,Total,2,,,
-2040,SVN,Total,2,,,
-2041,SVN,Total,2,,,
-2042,SVN,Total,2,,,
-2043,SVN,Total,2,,,
-2019,SWE,Total,1,,,
-2020,SWE,Total,1,,,
-2021,SWE,Total,1,,,
-2022,SWE,Total,1,,,
-2023,SWE,Total,1,,,
-2024,SWE,Total,3,,,
-2025,SWE,Total,7,,,
-2026,SWE,Total,9,,,
-2027,SWE,Total,12,,,
-2028,SWE,Total,13,,,
-2029,SWE,Total,13,,,
-2030,SWE,Total,15,,,
-2031,SWE,Total,15,,,
-2032,SWE,Total,15,,,
-2033,SWE,Total,15,,,
-2034,SWE,Total,15,,,
-2035,SWE,Total,15,,,
-2036,SWE,Total,15,,,
-2037,SWE,Total,15,,,
-2038,SWE,Total,15,,,
-2039,SWE,Total,15,,,
-2040,SWE,Total,15,,,
-2041,SWE,Total,15,,,
-2042,SWE,Total,15,,,
-2043,SWE,Total,15,,,
-2030,TUN,Total,2,,,
-2031,TUN,Total,2,,,
-2032,TUN,Total,2,,,
-2033,TUN,Total,2,,,
-2034,TUN,Total,2,,,
-2035,TUN,Total,3,,,
-2036,TUN,Total,3,,,
-2037,TUN,Total,3,,,
-2038,TUN,Total,3,,,
-2039,TUN,Total,3,,,
-2040,TUN,Total,3,,,
-2041,TUN,Total,3,,,
-2042,TUN,Total,3,,,
-2043,TUN,Total,3,,,
-2026,URY,Total,1,,,
-2027,URY,Total,1,,,
-2028,URY,Total,1,,,
-2029,URY,Total,1,,,
-2030,URY,Total,2,,,
-2031,URY,Total,2,,,
-2032,URY,Total,2,,,
-2033,URY,Total,2,,,
-2034,URY,Total,2,,,
-2035,URY,Total,2,,,
-2036,URY,Total,2,,,
-2037,URY,Total,2,,,
-2038,URY,Total,2,,,
-2039,URY,Total,2,,,
-2040,URY,Total,2,,,
-2041,URY,Total,2,,,
-2042,URY,Total,2,,,
-2043,URY,Total,2,,,
-2007,USA,Total,1,,,
-2008,USA,Total,1,,,
-2009,USA,Total,1,,,
-2010,USA,Total,1,,,
-2011,USA,Total,1,,,
-2012,USA,Total,1,,,
-2013,USA,Total,1,,,
-2014,USA,Total,1,,,
-2015,USA,Total,1,,,
-2016,USA,Total,1,,,
-2017,USA,Total,1,,,
-2018,USA,Total,1,,,
-2019,USA,Total,1,,,
-2020,USA,Total,2,,,
-2021,USA,Total,3,,,
-2022,USA,Total,5,,,
-2023,USA,Total,8,,,
-2024,USA,Total,13,,,
-2025,USA,Total,22,,,
-2026,USA,Total,29,,,
-2027,USA,Total,34,,,
-2028,USA,Total,36,,,
-2029,USA,Total,36,,,
-2030,USA,Total,37,,,
-2031,USA,Total,37,,,
-2032,USA,Total,37,,,
-2033,USA,Total,37,,,
-2034,USA,Total,37,,,
-2035,USA,Total,37,,,
-2036,USA,Total,37,,,
-2037,USA,Total,37,,,
-2038,USA,Total,37,,,
-2039,USA,Total,37,,,
-2040,USA,Total,37,,,
-2041,USA,Total,37,,,
-2042,USA,Total,37,,,
-2043,USA,Total,37,,,
-2024,UZB,Total,1,,,
-2025,UZB,Total,1,,,
-2026,UZB,Total,1,,,
-2027,UZB,Total,1,,,
-2028,UZB,Total,1,,,
-2029,UZB,Total,1,,,
-2030,UZB,Total,1,,,
-2031,UZB,Total,1,,,
-2032,UZB,Total,1,,,
-2033,UZB,Total,1,,,
-2034,UZB,Total,1,,,
-2035,UZB,Total,1,,,
-2036,UZB,Total,1,,,
-2037,UZB,Total,1,,,
-2038,UZB,Total,1,,,
-2039,UZB,Total,1,,,
-2040,UZB,Total,1,,,
-2041,UZB,Total,1,,,
-2042,UZB,Total,1,,,
-2043,UZB,Total,1,,,
-2024,ZAF,Total,1,,,
-2025,ZAF,Total,3,,,
-2026,ZAF,Total,4,,,
-2027,ZAF,Total,5,,,
-2028,ZAF,Total,6,,,
-2029,ZAF,Total,6,,,
-2030,ZAF,Total,7,,,
-2031,ZAF,Total,7,,,
-2032,ZAF,Total,7,,,
-2033,ZAF,Total,7,,,
-2034,ZAF,Total,7,,,
-2035,ZAF,Total,7,,,
-2036,ZAF,Total,7,,,
-2037,ZAF,Total,7,,,
-2038,ZAF,Total,7,,,
-2039,ZAF,Total,7,,,
-2040,ZAF,Total,8,,,
-2041,ZAF,Total,8,,,
-2042,ZAF,Total,8,,,
-2043,ZAF,Total,8,,,
-2029,ZWE,Total,1,,,
-2030,ZWE,Total,1,,,
-2031,ZWE,Total,1,,,
-2032,ZWE,Total,1,,,
-2033,ZWE,Total,1,,,
-2034,ZWE,Total,1,,,
-2035,ZWE,Total,1,,,
-2036,ZWE,Total,1,,,
-2037,ZWE,Total,1,,,
-2038,ZWE,Total,1,,,
-2039,ZWE,Total,1,,,
-2040,ZWE,Total,1,,,
-2041,ZWE,Total,1,,,
-2042,ZWE,Total,1,,,
-2043,ZWE,Total,1,,,
-2025,AGO,Hydropower,1,,,
-2021,ARE,Solar PV,1,,,
-2024,ARE,Solar PV,2,,,
-2025,ARE,Solar PV,3,,,
-2026,ARE,Solar PV,5,,,
-2028,ARE,Solar PV,6,,,
-2009,ARG,Onshore wind,1,,,
-2030,ARG,Unknown,1,,,
-2029,AUS,Hydropower,1,,,
-2024,AUS,Onshore wind,1,,,
-2027,AUS,Onshore wind,2,,,
-2029,AUS,Onshore wind,3,,,
-2020,AUS,Others/Various,2,,,
-2021,AUS,Others/Various,4,,,
-2024,AUS,Others/Various,5,,,
-2025,AUS,Others/Various,11,,,
-2026,AUS,Others/Various,13,,,
-2027,AUS,Others/Various,16,,,
-2028,AUS,Others/Various,23,,,
-2029,AUS,Others/Various,24,,,
-2030,AUS,Others/Various,26,,,
-2031,AUS,Others/Various,27,,,
-2032,AUS,Others/Various,28,,,
-2036,AUS,Others/Various,29,,,
-2022,AUS,Solar PV,1,,,
-2023,AUS,Solar PV,2,,,
-2024,AUS,Solar PV,16,,,
-2025,AUS,Solar PV,18,,,
-2027,AUS,Solar PV,21,,,
-2028,AUS,Solar PV,24,,,
-2024,AUS,Unknown,3,,,
-2025,AUS,Unknown,5,,,
-2026,AUS,Unknown,8,,,
-2027,AUS,Unknown,9,,,
-2028,AUS,Unknown,12,,,
-2030,AUS,Unknown,13,,,
-2023,AUT,Others/Various,3,,,
-2025,AUT,Others/Various,4,,,
-2017,AUT,Solar PV,1,,,
-2018,AUT,Solar PV,2,,,
-2022,AUT,Solar PV,3,,,
-2023,AUT,Solar PV,4,,,
-2026,AUT,Unknown,1,,,
-2025,BEL,Offshore wind,3,,,
-2015,BEL,Onshore wind,1,,,
-2027,BEL,Others/Various,1,,,
-2028,BEL,Others/Various,2,,,
-2030,BEL,Others/Various,3,,,
-2026,BEL,Unknown,2,,,
-2025,BRA,Hydropower,1,,,
-2025,BRA,Offshore wind,1,,,
-2027,BRA,Offshore wind,2,,,
-2024,BRA,Onshore wind,1,,,
-2025,BRA,Onshore wind,2,,,
-2027,BRA,Onshore wind,3,,,
-2026,BRA,Others/Various,1,,,
-2027,BRA,Others/Various,3,,,
-2022,BRA,Solar PV,2,,,
-2026,BRA,Solar PV,3,,,
-2028,BRA,Solar PV,4,,,
-2027,BRA,Unknown,1,,,
-2026,BRB,Solar PV,1,,,
-2020,CAN,Hydropower,1,,,
-2024,CAN,Hydropower,2,,,
-2025,CAN,Hydropower,3,,,
-2029,CAN,Hydropower,4,,,
-2026,CAN,Onshore wind,1,,,
-2027,CAN,Onshore wind,3,,,
-2028,CAN,Onshore wind,4,,,
-2030,CAN,Onshore wind,7,,,
-2026,CAN,Others/Various,1,,,
-2028,CAN,Others/Various,3,,,
-2024,CAN,Unknown,2,,,
-2020,CHE,Hydropower,1,,,
-2024,CHE,Hydropower,2,,,
-2025,CHE,Hydropower,3,,,
-2023,CHE,Solar PV,1,,,
-2022,CHE,Unknown,1,,,
-2022,CHL,Onshore wind,1,,,
-2025,CHL,Onshore wind,2,,,
-2026,CHL,Onshore wind,4,,,
-2027,CHL,Onshore wind,7,,,
-2028,CHL,Onshore wind,11,,,
-2030,CHL,Onshore wind,13,,,
-2032,CHL,Onshore wind,15,,,
-2033,CHL,Onshore wind,16,,,
-2017,CHL,Others/Various,1,,,
-2025,CHL,Others/Various,3,,,
-2021,CHL,Solar PV,1,,,
-2022,CHL,Solar PV,2,,,
-2023,CHL,Solar PV,4,,,
-2024,CHL,Solar PV,6,,,
-2025,CHL,Solar PV,9,,,
-2027,CHL,Solar PV,11,,,
-2030,CHL,Solar PV,12,,,
-2024,CHL,Unknown,1,,,
-2025,CHL,Unknown,2,,,
-2027,CHL,Unknown,3,,,
-2029,CHL,Unknown,4,,,
-2031,CHL,Unknown,5,,,
-2033,CHL,Unknown,6,,,
-2027,CHN,Offshore wind,1,,,
-2019,CHN,Onshore wind,1,,,
-2020,CHN,Onshore wind,3,,,
-2021,CHN,Onshore wind,4,,,
-2022,CHN,Onshore wind,5,,,
-2023,CHN,Onshore wind,8,,,
-2024,CHN,Onshore wind,14,,,
-2025,CHN,Onshore wind,16,,,
-2026,CHN,Onshore wind,21,,,
-2027,CHN,Onshore wind,22,,,
-2030,CHN,Onshore wind,23,,,
-2021,CHN,Others/Various,1,,,
-2022,CHN,Others/Various,3,,,
-2023,CHN,Others/Various,4,,,
-2024,CHN,Others/Various,14,,,
-2025,CHN,Others/Various,18,,,
-2026,CHN,Others/Various,22,,,
-2027,CHN,Others/Various,23,,,
-2028,CHN,Others/Various,24,,,
-2029,CHN,Others/Various,25,,,
-2035,CHN,Others/Various,26,,,
-2018,CHN,Solar PV,1,,,
-2020,CHN,Solar PV,2,,,
-2021,CHN,Solar PV,4,,,
-2023,CHN,Solar PV,8,,,
-2024,CHN,Solar PV,9,,,
-2025,CHN,Solar PV,11,,,
-2026,CHN,Solar PV,13,,,
-2019,CHN,Unknown,1,,,
-2023,CHN,Unknown,2,,,
-2024,COL,Hydropower,2,,,
-2027,COL,Hydropower,3,,,
-2030,COL,Hydropower,4,,,
-2027,COL,Offshore wind,1,,,
-2030,COL,Others/Various,2,,,
-2032,COL,Others/Various,3,,,
-2022,COL,Solar PV,2,,,
-2023,COL,Solar PV,3,,,
-2026,COL,Solar PV,4,,,
-2027,COL,Solar PV,8,,,
-2022,COL,Unknown,1,,,
-2027,COL,Unknown,3,,,
-2017,CRI,Others/Various,1,,,
-2025,CRI,Others/Various,2,,,
-2028,CRI,Others/Various,3,,,
-2029,CYP,Solar PV,1,,,
-2024,CZE,Onshore wind,1,,,
-2028,CZE,Onshore wind,2,,,
-2030,CZE,Onshore wind,3,,,
-2026,CZE,Others/Various,1,,,
-2030,CZE,Others/Various,3,,,
-2025,CZE,Unknown,1,,,
-2020,DEU,Hydropower,2,,,
-2025,DEU,Hydropower,3,,,
-2026,DEU,Hydropower,4,,,
-2024,DEU,Offshore wind,2,,,
-2025,DEU,Offshore wind,4,,,
-2026,DEU,Offshore wind,6,,,
-2027,DEU,Offshore wind,10,,,
-2028,DEU,Offshore wind,11,,,
-2030,DEU,Offshore wind,12,,,
-2035,DEU,Offshore wind,14,,,
-2013,DEU,Onshore wind,1,,,
-2014,DEU,Onshore wind,2,,,
-2015,DEU,Onshore wind,4,,,
-2017,DEU,Onshore wind,5,,,
-2018,DEU,Onshore wind,6,,,
-2019,DEU,Onshore wind,7,,,
-2020,DEU,Onshore wind,9,,,
-2021,DEU,Onshore wind,11,,,
-2023,DEU,Onshore wind,12,,,
-2024,DEU,Onshore wind,15,,,
-2025,DEU,Onshore wind,18,,,
-2026,DEU,Onshore wind,20,,,
-2019,DEU,Others/Various,1,,,
-2020,DEU,Others/Various,2,,,
-2021,DEU,Others/Various,4,,,
-2022,DEU,Others/Various,5,,,
-2025,DEU,Others/Various,10,,,
-2026,DEU,Others/Various,12,,,
-2027,DEU,Others/Various,13,,,
-2028,DEU,Others/Various,15,,,
-2030,DEU,Others/Various,16,,,
-2013,DEU,Solar PV,1,,,
-2016,DEU,Solar PV,2,,,
-2023,DEU,Solar PV,3,,,
-2024,DEU,Solar PV,5,,,
-2019,DEU,Unknown,1,,,
-2023,DEU,Unknown,3,,,
-2024,DEU,Unknown,6,,,
-2025,DEU,Unknown,14,,,
-2026,DEU,Unknown,18,,,
-2027,DEU,Unknown,20,,,
-2028,DEU,Unknown,22,,,
-2030,DEU,Unknown,24,,,
-2021,DNK,Offshore wind,1,,,
-2022,DNK,Offshore wind,2,,,
-2024,DNK,Offshore wind,3,,,
-2025,DNK,Offshore wind,5,,,
-2030,DNK,Offshore wind,6,,,
-2020,DNK,Onshore wind,1,,,
-2024,DNK,Others/Various,3,,,
-2025,DNK,Others/Various,8,,,
-2026,DNK,Others/Various,10,,,
-2027,DNK,Others/Various,13,,,
-2028,DNK,Others/Various,15,,,
-2030,DNK,Others/Various,18,,,
-2025,DNK,Solar PV,1,,,
-2026,DNK,Unknown,1,,,
-2028,DOM,Others/Various,1,,,
-2000,EGY,Hydropower,1,,,
-2022,EGY,Others/Various,1,,,
-2026,EGY,Others/Various,3,,,
-2027,EGY,Others/Various,4,,,
-2028,EGY,Others/Various,5,,,
-2029,EGY,Others/Various,6,,,
-2030,EGY,Others/Various,7,,,
-2032,EGY,Others/Various,8,,,
-2025,EGY,Unknown,2,,,
-2029,EGY,Unknown,4,,,
-2026,ESP,Offshore wind,1,,,
-2008,ESP,Onshore wind,1,,,
-2025,ESP,Onshore wind,2,,,
-2026,ESP,Onshore wind,3,,,
-2027,ESP,Onshore wind,4,,,
-2022,ESP,Others/Various,1,,,
-2023,ESP,Others/Various,2,,,
-2024,ESP,Others/Various,3,,,
-2025,ESP,Others/Various,5,,,
-2026,ESP,Others/Various,9,,,
-2027,ESP,Others/Various,11,,,
-2028,ESP,Others/Various,12,,,
-2029,ESP,Others/Various,13,,,
-2030,ESP,Others/Various,16,,,
-2015,ESP,Solar PV,1,,,
-2022,ESP,Solar PV,4,,,
-2023,ESP,Solar PV,6,,,
-2024,ESP,Solar PV,8,,,
-2025,ESP,Solar PV,12,,,
-2026,ESP,Solar PV,21,,,
-2027,ESP,Solar PV,22,,,
-2028,ESP,Solar PV,24,,,
-2030,ESP,Solar PV,26,,,
-2023,ESP,Unknown,1,,,
-2024,ESP,Unknown,4,,,
-2025,ESP,Unknown,8,,,
-2026,ESP,Unknown,11,,,
-2028,ESP,Unknown,15,,,
-2029,ESP,Unknown,16,,,
-2030,ESP,Unknown,19,,,
-2031,ESP,Unknown,21,,,
-2028,EST,Offshore wind,1,,,
-2025,EST,Solar PV,1,,,
-2010,EST,Unknown,1,,,
-2025,EST,Unknown,2,,,
-2030,FIN,Offshore wind,1,,,
-2024,FIN,Onshore wind,1,,,
-2025,FIN,Onshore wind,2,,,
-2028,FIN,Onshore wind,3,,,
-2030,FIN,Onshore wind,4,,,
-2025,FIN,Others/Various,1,,,
-2030,FIN,Others/Various,2,,,
-2026,FIN,Solar PV,1,,,
-2024,FIN,Unknown,1,,,
-2026,FIN,Unknown,3,,,
-2027,FIN,Unknown,4,,,
-2023,FRA,Offshore wind,2,,,
-2025,FRA,Onshore wind,1,,,
-2024,FRA,Others/Various,1,,,
-2025,FRA,Others/Various,2,,,
-2026,FRA,Others/Various,3,,,
-2027,FRA,Others/Various,4,,,
-2028,FRA,Others/Various,5,,,
-2030,FRA,Others/Various,6,,,
-2021,FRA,Solar PV,1,,,
-2024,FRA,Solar PV,2,,,
-2025,FRA,Solar PV,5,,,
-2026,FRA,Solar PV,6,,,
-2027,FRA,Solar PV,7,,,
-2028,FRA,Solar PV,9,,,
-2030,FRA,Solar PV,11,,,
-2021,FRA,Unknown,1,,,
-2022,FRA,Unknown,2,,,
-2023,FRA,Unknown,4,,,
-2024,FRA,Unknown,5,,,
-2025,FRA,Unknown,6,,,
-2027,FRA,Unknown,7,,,
-2028,FRA,Unknown,8,,,
-2025,GBR,Offshore wind,3,,,
-2026,GBR,Offshore wind,4,,,
-2027,GBR,Offshore wind,6,,,
-2028,GBR,Offshore wind,7,,,
-2030,GBR,Offshore wind,12,,,
-2032,GBR,Offshore wind,13,,,
-2034,GBR,Offshore wind,14,,,
-2035,GBR,Offshore wind,15,,,
-2016,GBR,Onshore wind,1,,,
-2017,GBR,Onshore wind,2,,,
-2019,GBR,Onshore wind,3,,,
-2024,GBR,Onshore wind,5,,,
-2025,GBR,Onshore wind,6,,,
-2026,GBR,Onshore wind,7,,,
-2028,GBR,Onshore wind,9,,,
-2030,GBR,Onshore wind,10,,,
-2021,GBR,Others/Various,1,,,
-2024,GBR,Others/Various,2,,,
-2025,GBR,Others/Various,4,,,
-2026,GBR,Others/Various,6,,,
-2028,GBR,Others/Various,8,,,
-2030,GBR,Others/Various,9,,,
-2032,GBR,Others/Various,10,,,
-2023,GBR,Solar PV,1,,,
-2026,GBR,Solar PV,2,,,
-2024,GBR,Unknown,4,,,
-2025,GBR,Unknown,10,,,
-2026,GBR,Unknown,18,,,
-2027,GBR,Unknown,19,,,
-2028,GBR,Unknown,20,,,
-2029,GBR,Unknown,21,,,
-2030,GBR,Unknown,25,,,
-2021,GRC,Hydropower,1,,,
-2025,GRC,Solar PV,2,,,
-2022,GRC,Unknown,1,,,
-2027,GRC,Unknown,2,,,
-2028,GRC,Unknown,3,,,
-2023,HUN,Others/Various,1,,,
-2030,HUN,Others/Various,2,,,
-2024,HUN,Solar PV,1,,,
-2023,IDN,Others/Various,1,,,
-2024,IDN,Others/Various,2,,,
-2027,IDN,Others/Various,3,,,
-2030,IDN,Others/Various,5,,,
-2025,IDN,Solar PV,1,,,
-2026,IDN,Solar PV,2,,,
-2030,IDN,Solar PV,3,,,
-2026,IDN,Unknown,1,,,
-2027,IDN,Unknown,2,,,
-2030,IND,Others/Various,1,,,
-2015,IND,Solar PV,2,,,
-2021,IND,Solar PV,3,,,
-2022,IND,Solar PV,4,,,
-2024,IND,Solar PV,7,,,
-2025,IND,Solar PV,8,,,
-2026,IND,Solar PV,9,,,
-2028,IND,Solar PV,11,,,
-2030,IND,Solar PV,12,,,
-2033,IND,Solar PV,13,,,
-2015,IND,Unknown,1,,,
-2022,IND,Unknown,2,,,
-2024,IND,Unknown,6,,,
-2025,IND,Unknown,13,,,
-2026,IND,Unknown,17,,,
-2027,IND,Unknown,33,,,
-2028,IND,Unknown,34,,,
-2030,IND,Unknown,40,,,
-2032,IND,Unknown,41,,,
-2040,IND,Unknown,42,,,
-2026,IRL,Offshore wind,1,,,
-2030,IRL,Offshore wind,4,,,
-2025,IRL,Onshore wind,1,,,
-2027,IRL,Onshore wind,2,,,
-2026,IRL,Unknown,1,,,
-2012,ISL,Others/Various,1,,,
-2026,ISL,Others/Various,3,,,
-2028,ISL,Others/Various,4,,,
-2026,ITA,Offshore wind,1,,,
-2027,ITA,Offshore wind,2,,,
-2026,ITA,Onshore wind,1,,,
-2025,ITA,Others/Various,1,,,
-2026,ITA,Others/Various,2,,,
-2029,ITA,Others/Various,3,,,
-2030,ITA,Others/Various,5,,,
-2026,ITA,Solar PV,5,,,
-2027,ITA,Solar PV,6,,,
-2026,ITA,Unknown,5,,,
-2029,ITA,Unknown,6,,,
-2030,ITA,Unknown,7,,,
-2028,JOR,Solar PV,1,,,
-2025,JPN,Offshore wind,1,,,
-2020,JPN,Others/Various,1,,,
-2015,JPN,Solar PV,1,,,
-2020,JPN,Solar PV,2,,,
-2025,JPN,Solar PV,3,,,
-2019,JPN,Unknown,1,,,
-2024,JPN,Unknown,2,,,
-2032,KAZ,Others/Various,1,,,
-2030,KEN,Solar PV,1,,,
-2025,KEN,Unknown,1,,,
-2025,KOR,Offshore wind,1,,,
-2027,KOR,Offshore wind,2,,,
-2030,KOR,Offshore wind,3,,,
-2023,KOR,Solar PV,1,,,
-2025,KOR,Solar PV,2,,,
-2030,LVA,Onshore wind,1,,,
-2025,MAR,Others/Various,1,,,
-2027,MAR,Others/Various,2,,,
-2028,MAR,Others/Various,3,,,
-2030,MAR,Others/Various,4,,,
-2025,MAR,Solar PV,1,,,
-2026,MAR,Solar PV,2,,,
-2030,MAR,Solar PV,3,,,
-2028,MAR,Unknown,1,,,
-2030,MAR,Unknown,2,,,
-2032,MAR,Unknown,3,,,
-2028,MEX,Others/Various,2,,,
-2025,MEX,Solar PV,1,,,
-2026,MEX,Solar PV,3,,,
-2028,MEX,Solar PV,4,,,
-2030,MEX,Solar PV,5,,,
-2028,MRT,Others/Various,1,,,
-2029,MRT,Others/Various,2,,,
-2031,MRT,Others/Various,3,,,
-2033,MRT,Others/Various,4,,,
-2037,MRT,Others/Various,5,,,
-2028,MRT,Unknown,1,,,
-2029,MRT,Unknown,2,,,
-2028,MYS,Hydropower,1,,,
-2026,MYS,Solar PV,1,,,
-2027,MYS,Unknown,1,,,
-2026,NAM,Others/Various,1,,,
-2027,NAM,Others/Various,2,,,
-2032,NAM,Others/Various,4,,,
-2024,NAM,Solar PV,4,,,
-2027,NAM,Solar PV,5,,,
-2027,NAM,Unknown,2,,,
-2029,NAM,Unknown,3,,,
-2025,NLD,Offshore wind,3,,,
-2026,NLD,Offshore wind,8,,,
-2027,NLD,Offshore wind,14,,,
-2028,NLD,Offshore wind,18,,,
-2029,NLD,Offshore wind,19,,,
-2030,NLD,Offshore wind,26,,,
-2031,NLD,Offshore wind,27,,,
-2032,NLD,Offshore wind,28,,,
-2033,NLD,Offshore wind,29,,,
-2040,NLD,Offshore wind,30,,,
-2043,NLD,Offshore wind,31,,,
-2025,NLD,Onshore wind,2,,,
-2026,NLD,Onshore wind,3,,,
-2027,NLD,Onshore wind,4,,,
-2028,NLD,Onshore wind,5,,,
-2030,NLD,Onshore wind,7,,,
-2025,NLD,Others/Various,2,,,
-2026,NLD,Others/Various,4,,,
-2027,NLD,Others/Various,5,,,
-2028,NLD,Others/Various,7,,,
-2029,NLD,Others/Various,8,,,
-2030,NLD,Others/Various,9,,,
-2021,NLD,Solar PV,1,,,
-2022,NLD,Solar PV,3,,,
-2024,NLD,Solar PV,5,,,
-2025,NLD,Solar PV,6,,,
-2030,NLD,Solar PV,7,,,
-2023,NLD,Unknown,3,,,
-2026,NLD,Unknown,5,,,
-2027,NLD,Unknown,7,,,
-2024,NOR,Hydropower,1,,,
-2025,NOR,Hydropower,2,,,
-2027,NOR,Hydropower,3,,,
-2024,NOR,Offshore wind,1,,,
-2029,NOR,Offshore wind,2,,,
-2021,NOR,Onshore wind,1,,,
-2020,NOR,Others/Various,1,,,
-2026,NOR,Others/Various,3,,,
-2028,NOR,Others/Various,7,,,
-2029,NOR,Others/Various,8,,,
-2032,NOR,Others/Various,9,,,
-2017,NOR,Solar PV,1,,,
-2022,NOR,Unknown,1,,,
-2023,NOR,Unknown,2,,,
-2025,NOR,Unknown,5,,,
-2026,NOR,Unknown,6,,,
-2027,NOR,Unknown,11,,,
-2028,NOR,Unknown,13,,,
-2030,NOR,Unknown,14,,,
-2021,NZL,Others/Various,1,,,
-2025,NZL,Others/Various,2,,,
-2025,NZL,Unknown,1,,,
-2027,NZL,Unknown,2,,,
-2024,OMN,Others/Various,1,,,
-2030,OMN,Others/Various,6,,,
-2038,OMN,Others/Various,7,,,
-2027,OMN,Solar PV,1,,,
-2026,OMN,Unknown,1,,,
-2030,OMN,Unknown,3,,,
-2027,PAN,Unknown,1,,,
-1965,PER,Hydropower,1,,,
-2023,PER,Solar PV,1,,,
-2027,PER,Unknown,1,,,
-2030,PER,Unknown,2,,,
-2032,PER,Unknown,3,,,
-2028,POL,Offshore wind,1,,,
-2030,POL,Offshore wind,3,,,
-2030,POL,Onshore wind,1,,,
-2024,POL,Others/Various,1,,,
-2026,POL,Others/Various,2,,,
-2027,POL,Others/Various,3,,,
-2030,POL,Others/Various,5,,,
-2025,POL,Solar PV,1,,,
-2025,PRT,Offshore wind,1,,,
-2027,PRT,Others/Various,1,,,
-2022,PRT,Solar PV,1,,,
-2023,PRT,Solar PV,2,,,
-2024,PRT,Solar PV,3,,,
-2025,PRT,Solar PV,9,,,
-2026,PRT,Solar PV,10,,,
-2027,PRT,Solar PV,12,,,
-2028,PRT,Solar PV,13,,,
-2030,PRT,Solar PV,15,,,
-2026,PRT,Unknown,2,,,
-2027,PRT,Unknown,3,,,
-2029,PRT,Unknown,4,,,
-2030,PRT,Unknown,5,,,
-2035,PRT,Unknown,6,,,
-2040,PRT,Unknown,7,,,
-2026,PRY,Hydropower,2,,,
-2027,PRY,Others/Various,1,,,
-2026,ROU,Solar PV,1,,,
-2028,ROU,Unknown,1,,,
-2026,SAU,Others/Various,1,,,
-2026,SGP,Unknown,1,,,
-2028,SRB,Others/Various,1,,,
-2030,SVK,Onshore wind,1,,,
-2025,SVK,Others/Various,1,,,
-2030,SVK,Others/Various,2,,,
-2025,SVK,Unknown,2,,,
-2035,SVK,Unknown,3,,,
-2021,SVN,Solar PV,1,,,
-2026,SVN,Unknown,1,,,
-2025,SWE,Hydropower,1,,,
-2030,SWE,Hydropower,2,,,
-2024,SWE,Offshore wind,1,,,
-2030,SWE,Offshore wind,2,,,
-2025,SWE,Onshore wind,1,,,
-2027,SWE,Onshore wind,2,,,
-2025,SWE,Others/Various,1,,,
-2026,SWE,Others/Various,3,,,
-2027,SWE,Others/Various,4,,,
-2019,SWE,Solar PV,1,,,
-2024,SWE,Unknown,1,,,
-2025,SWE,Unknown,2,,,
-2027,SWE,Unknown,3,,,
-2028,SWE,Unknown,4,,,
-2030,TUN,Others/Various,1,,,
-2035,TUN,Others/Various,2,,,
-2030,TUN,Unknown,1,,,
-2026,URY,Others/Various,1,,,
-2030,URY,Others/Various,2,,,
-2025,USA,Hydropower,2,,,
-2027,USA,Hydropower,3,,,
-2007,USA,Onshore wind,1,,,
-2025,USA,Onshore wind,2,,,
-2026,USA,Onshore wind,3,,,
-2020,USA,Others/Various,1,,,
-2024,USA,Others/Various,2,,,
-2025,USA,Others/Various,4,,,
-2026,USA,Others/Various,6,,,
-2027,USA,Others/Various,8,,,
-2028,USA,Others/Various,10,,,
-2030,USA,Others/Various,11,,,
-2023,USA,Solar PV,2,,,
-2024,USA,Solar PV,3,,,
-2025,USA,Solar PV,4,,,
-2026,USA,Solar PV,5,,,
-2021,USA,Unknown,1,,,
-2022,USA,Unknown,3,,,
-2023,USA,Unknown,4,,,
-2024,USA,Unknown,7,,,
-2025,USA,Unknown,10,,,
-2026,USA,Unknown,13,,,
-2027,USA,Unknown,15,,,
-2024,UZB,Onshore wind,1,,,
-2024,ZAF,Others/Various,1,,,
-2025,ZAF,Others/Various,2,,,
-2027,ZAF,Others/Various,3,,,
-2030,ZAF,Others/Various,4,,,
-2040,ZAF,Others/Various,5,,,
-2025,ZAF,Solar PV,1,,,
-2026,ZAF,Solar PV,2,,,
-2028,ZAF,Solar PV,3,,,
-2029,ZWE,Solar PV,1,,,
+year,geo,disagg_type,disagg,value
+2000,WLD,All,Total,2
+2001,WLD,All,Total,2
+2002,WLD,All,Total,2
+2003,WLD,All,Total,2
+2004,WLD,All,Total,2
+2005,WLD,All,Total,2
+2006,WLD,All,Total,2
+2007,WLD,All,Total,3
+2008,WLD,All,Total,4
+2009,WLD,All,Total,5
+2010,WLD,All,Total,6
+2011,WLD,All,Total,6
+2012,WLD,All,Total,7
+2013,WLD,All,Total,9
+2014,WLD,All,Total,10
+2015,WLD,All,Total,18
+2016,WLD,All,Total,20
+2017,WLD,All,Total,26
+2018,WLD,All,Total,29
+2019,WLD,All,Total,37
+2020,WLD,All,Total,54
+2021,WLD,All,Total,77
+2022,WLD,All,Total,107
+2023,WLD,All,Total,150
+2024,WLD,All,Total,260
+2025,WLD,All,Total,421
+2026,WLD,All,Total,567
+2027,WLD,All,Total,686
+2028,WLD,All,Total,775
+2029,WLD,All,Total,799
+2030,WLD,All,Total,909
+2031,WLD,All,Total,915
+2032,WLD,All,Total,930
+2033,WLD,All,Total,935
+2034,WLD,All,Total,936
+2035,WLD,All,Total,943
+2036,WLD,All,Total,944
+2037,WLD,All,Total,945
+2038,WLD,All,Total,946
+2039,WLD,All,Total,946
+2040,WLD,All,Total,950
+2041,WLD,All,Total,950
+2042,WLD,All,Total,950
+2043,WLD,All,Total,951
+2000,WLD,Technology,Hydropower,2
+2001,WLD,Technology,Hydropower,2
+2002,WLD,Technology,Hydropower,2
+2003,WLD,Technology,Hydropower,2
+2004,WLD,Technology,Hydropower,2
+2005,WLD,Technology,Hydropower,2
+2006,WLD,Technology,Hydropower,2
+2007,WLD,Technology,Hydropower,2
+2007,WLD,Technology,Onshore wind,1
+2008,WLD,Technology,Hydropower,2
+2008,WLD,Technology,Onshore wind,2
+2009,WLD,Technology,Hydropower,2
+2009,WLD,Technology,Onshore wind,3
+2010,WLD,Technology,Hydropower,2
+2010,WLD,Technology,Onshore wind,3
+2010,WLD,Technology,Unknown,1
+2011,WLD,Technology,Hydropower,2
+2011,WLD,Technology,Onshore wind,3
+2011,WLD,Technology,Unknown,1
+2012,WLD,Technology,Hydropower,2
+2012,WLD,Technology,Onshore wind,3
+2012,WLD,Technology,Unknown,1
+2012,WLD,Technology,Other/Various,1
+2013,WLD,Technology,Hydropower,2
+2013,WLD,Technology,Onshore wind,4
+2013,WLD,Technology,Unknown,1
+2013,WLD,Technology,Other/Various,1
+2013,WLD,Technology,Solar PV,1
+2014,WLD,Technology,Hydropower,2
+2014,WLD,Technology,Onshore wind,5
+2014,WLD,Technology,Unknown,1
+2014,WLD,Technology,Other/Various,1
+2014,WLD,Technology,Solar PV,1
+2015,WLD,Technology,Hydropower,2
+2015,WLD,Technology,Onshore wind,8
+2015,WLD,Technology,Unknown,2
+2015,WLD,Technology,Other/Various,1
+2015,WLD,Technology,Solar PV,5
+2016,WLD,Technology,Hydropower,2
+2016,WLD,Technology,Onshore wind,9
+2016,WLD,Technology,Unknown,2
+2016,WLD,Technology,Other/Various,1
+2016,WLD,Technology,Solar PV,6
+2017,WLD,Technology,Hydropower,2
+2017,WLD,Technology,Onshore wind,11
+2017,WLD,Technology,Unknown,2
+2017,WLD,Technology,Other/Various,3
+2017,WLD,Technology,Solar PV,8
+2018,WLD,Technology,Hydropower,2
+2018,WLD,Technology,Onshore wind,12
+2018,WLD,Technology,Unknown,2
+2018,WLD,Technology,Other/Various,3
+2018,WLD,Technology,Solar PV,10
+2019,WLD,Technology,Hydropower,2
+2019,WLD,Technology,Onshore wind,15
+2019,WLD,Technology,Unknown,5
+2019,WLD,Technology,Other/Various,4
+2019,WLD,Technology,Solar PV,11
+2020,WLD,Technology,Hydropower,6
+2020,WLD,Technology,Onshore wind,20
+2020,WLD,Technology,Unknown,5
+2020,WLD,Technology,Other/Various,10
+2020,WLD,Technology,Solar PV,13
+2021,WLD,Technology,Hydropower,7
+2021,WLD,Technology,Onshore wind,24
+2021,WLD,Technology,Unknown,7
+2021,WLD,Technology,Other/Various,17
+2021,WLD,Technology,Solar PV,21
+2021,WLD,Technology,Offshore wind,1
+2022,WLD,Technology,Hydropower,7
+2022,WLD,Technology,Onshore wind,26
+2022,WLD,Technology,Unknown,15
+2022,WLD,Technology,Other/Various,22
+2022,WLD,Technology,Solar PV,35
+2022,WLD,Technology,Offshore wind,2
+2023,WLD,Technology,Hydropower,7
+2023,WLD,Technology,Onshore wind,30
+2023,WLD,Technology,Unknown,26
+2023,WLD,Technology,Other/Various,29
+2023,WLD,Technology,Solar PV,54
+2023,WLD,Technology,Offshore wind,4
+2024,WLD,Technology,Hydropower,12
+2024,WLD,Technology,Onshore wind,46
+2024,WLD,Technology,Unknown,53
+2024,WLD,Technology,Other/Various,51
+2024,WLD,Technology,Solar PV,89
+2024,WLD,Technology,Offshore wind,9
+2025,WLD,Technology,Hydropower,21
+2025,WLD,Technology,Onshore wind,62
+2025,WLD,Technology,Unknown,99
+2025,WLD,Technology,Other/Various,92
+2025,WLD,Technology,Solar PV,124
+2025,WLD,Technology,Offshore wind,23
+2026,WLD,Technology,Hydropower,24
+2026,WLD,Technology,Onshore wind,77
+2026,WLD,Technology,Unknown,143
+2026,WLD,Technology,Other/Various,129
+2026,WLD,Technology,Solar PV,158
+2026,WLD,Technology,Offshore wind,36
+2027,WLD,Technology,Hydropower,27
+2027,WLD,Technology,Onshore wind,89
+2027,WLD,Technology,Unknown,188
+2027,WLD,Technology,Other/Various,155
+2027,WLD,Technology,Solar PV,174
+2027,WLD,Technology,Offshore wind,53
+2028,WLD,Technology,Hydropower,28
+2028,WLD,Technology,Onshore wind,99
+2028,WLD,Technology,Unknown,207
+2028,WLD,Technology,Other/Various,191
+2028,WLD,Technology,Solar PV,189
+2028,WLD,Technology,Offshore wind,61
+2029,WLD,Technology,Hydropower,30
+2029,WLD,Technology,Onshore wind,100
+2029,WLD,Technology,Unknown,216
+2029,WLD,Technology,Other/Various,199
+2029,WLD,Technology,Solar PV,191
+2029,WLD,Technology,Offshore wind,63
+2030,WLD,Technology,Hydropower,32
+2030,WLD,Technology,Onshore wind,114
+2030,WLD,Technology,Unknown,241
+2030,WLD,Technology,Other/Various,232
+2030,WLD,Technology,Solar PV,204
+2030,WLD,Technology,Offshore wind,86
+2031,WLD,Technology,Hydropower,32
+2031,WLD,Technology,Onshore wind,114
+2031,WLD,Technology,Unknown,244
+2031,WLD,Technology,Other/Various,234
+2031,WLD,Technology,Solar PV,204
+2031,WLD,Technology,Offshore wind,87
+2032,WLD,Technology,Hydropower,32
+2032,WLD,Technology,Onshore wind,116
+2032,WLD,Technology,Unknown,247
+2032,WLD,Technology,Other/Various,242
+2032,WLD,Technology,Solar PV,204
+2032,WLD,Technology,Offshore wind,89
+2033,WLD,Technology,Hydropower,32
+2033,WLD,Technology,Onshore wind,117
+2033,WLD,Technology,Unknown,248
+2033,WLD,Technology,Other/Various,243
+2033,WLD,Technology,Solar PV,205
+2033,WLD,Technology,Offshore wind,90
+2034,WLD,Technology,Hydropower,32
+2034,WLD,Technology,Onshore wind,117
+2034,WLD,Technology,Unknown,248
+2034,WLD,Technology,Other/Various,243
+2034,WLD,Technology,Solar PV,205
+2034,WLD,Technology,Offshore wind,91
+2035,WLD,Technology,Hydropower,32
+2035,WLD,Technology,Onshore wind,117
+2035,WLD,Technology,Unknown,250
+2035,WLD,Technology,Other/Various,245
+2035,WLD,Technology,Solar PV,205
+2035,WLD,Technology,Offshore wind,94
+2036,WLD,Technology,Hydropower,32
+2036,WLD,Technology,Onshore wind,117
+2036,WLD,Technology,Unknown,250
+2036,WLD,Technology,Other/Various,246
+2036,WLD,Technology,Solar PV,205
+2036,WLD,Technology,Offshore wind,94
+2037,WLD,Technology,Hydropower,32
+2037,WLD,Technology,Onshore wind,117
+2037,WLD,Technology,Unknown,250
+2037,WLD,Technology,Other/Various,247
+2037,WLD,Technology,Solar PV,205
+2037,WLD,Technology,Offshore wind,94
+2038,WLD,Technology,Hydropower,32
+2038,WLD,Technology,Onshore wind,117
+2038,WLD,Technology,Unknown,250
+2038,WLD,Technology,Other/Various,248
+2038,WLD,Technology,Solar PV,205
+2038,WLD,Technology,Offshore wind,94
+2039,WLD,Technology,Hydropower,32
+2039,WLD,Technology,Onshore wind,117
+2039,WLD,Technology,Unknown,250
+2039,WLD,Technology,Other/Various,248
+2039,WLD,Technology,Solar PV,205
+2039,WLD,Technology,Offshore wind,94
+2040,WLD,Technology,Hydropower,32
+2040,WLD,Technology,Onshore wind,117
+2040,WLD,Technology,Unknown,252
+2040,WLD,Technology,Other/Various,249
+2040,WLD,Technology,Solar PV,205
+2040,WLD,Technology,Offshore wind,95
+2041,WLD,Technology,Hydropower,32
+2041,WLD,Technology,Onshore wind,117
+2041,WLD,Technology,Unknown,252
+2041,WLD,Technology,Other/Various,249
+2041,WLD,Technology,Solar PV,205
+2041,WLD,Technology,Offshore wind,95
+2042,WLD,Technology,Hydropower,32
+2042,WLD,Technology,Onshore wind,117
+2042,WLD,Technology,Unknown,252
+2042,WLD,Technology,Other/Various,249
+2042,WLD,Technology,Solar PV,205
+2042,WLD,Technology,Offshore wind,95
+2043,WLD,Technology,Hydropower,32
+2043,WLD,Technology,Onshore wind,117
+2043,WLD,Technology,Unknown,252
+2043,WLD,Technology,Other/Various,249
+2043,WLD,Technology,Solar PV,205
+2043,WLD,Technology,Offshore wind,96
+2000,WLD,Status,Decommisioned,1
+2007,WLD,Status,DEMO,1
+2008,WLD,Status,DEMO,2
+2009,WLD,Status,Operational,1
+2010,WLD,Status,Operational,2
+2012,WLD,Status,Operational,3
+2013,WLD,Status,Operational,5
+2014,WLD,Status,Operational,6
+2015,WLD,Status,DEMO,4
+2015,WLD,Status,Operational,12
+2016,WLD,Status,DEMO,5
+2016,WLD,Status,Operational,13
+2017,WLD,Status,Operational,19
+2018,WLD,Status,Operational,22
+2019,WLD,Status,Operational,30
+2020,WLD,Status,Decommisioned,2
+2020,WLD,Status,DEMO,10
+2020,WLD,Status,Operational,41
+2021,WLD,Status,DEMO,13
+2021,WLD,Status,Operational,61
+2022,WLD,Status,DEMO,17
+2022,WLD,Status,Operational,87
+2023,WLD,Status,DEMO,25
+2023,WLD,Status,FID/Construction,1
+2023,WLD,Status,Operational,121
+2024,WLD,Status,DEMO,31
+2024,WLD,Status,Feasibility study,21
+2024,WLD,Status,FID/Construction,64
+2024,WLD,Status,Operational,140
+2024,WLD,Status,Other/Unknown,1
+2025,WLD,Status,Concept,19
+2025,WLD,Status,DEMO,33
+2025,WLD,Status,Feasibility study,105
+2025,WLD,Status,FID/Construction,119
+2025,WLD,Status,Other/Unknown,2
+2026,WLD,Status,Concept,40
+2026,WLD,Status,DEMO,35
+2026,WLD,Status,Feasibility study,200
+2026,WLD,Status,FID/Construction,147
+2027,WLD,Status,Concept,76
+2027,WLD,Status,Feasibility study,274
+2027,WLD,Status,FID/Construction,155
+2028,WLD,Status,Concept,106
+2028,WLD,Status,Feasibility study,326
+2028,WLD,Status,FID/Construction,162
+2029,WLD,Status,Concept,116
+2029,WLD,Status,Feasibility study,340
+2030,WLD,Status,Concept,170
+2030,WLD,Status,Feasibility study,391
+2030,WLD,Status,FID/Construction,164
+2030,WLD,Status,Other/Unknown,3
+2031,WLD,Status,Concept,174
+2031,WLD,Status,Feasibility study,393
+2032,WLD,Status,Concept,185
+2032,WLD,Status,Feasibility study,397
+2033,WLD,Status,Concept,190
+2034,WLD,Status,Concept,191
+2035,WLD,Status,Concept,196
+2035,WLD,Status,Feasibility study,399
+2036,WLD,Status,Feasibility study,400
+2037,WLD,Status,Feasibility study,401
+2038,WLD,Status,Feasibility study,402
+2040,WLD,Status,Concept,199
+2040,WLD,Status,Feasibility study,403
+2043,WLD,Status,Concept,200
+2025,MAR,All,Total,2
+2026,MAR,All,Total,3
+2027,MAR,All,Total,4
+2028,MAR,All,Total,6
+2029,MAR,All,Total,6
+2030,MAR,All,Total,9
+2031,MAR,All,Total,9
+2032,MAR,All,Total,10
+2033,MAR,All,Total,10
+2034,MAR,All,Total,10
+2035,MAR,All,Total,10
+2036,MAR,All,Total,10
+2037,MAR,All,Total,10
+2038,MAR,All,Total,10
+2039,MAR,All,Total,10
+2040,MAR,All,Total,10
+2041,MAR,All,Total,10
+2042,MAR,All,Total,10
+2043,MAR,All,Total,10
+2025,AGO,All,Total,1
+2026,AGO,All,Total,1
+2027,AGO,All,Total,1
+2028,AGO,All,Total,1
+2029,AGO,All,Total,1
+2030,AGO,All,Total,1
+2031,AGO,All,Total,1
+2032,AGO,All,Total,1
+2033,AGO,All,Total,1
+2034,AGO,All,Total,1
+2035,AGO,All,Total,1
+2036,AGO,All,Total,1
+2037,AGO,All,Total,1
+2038,AGO,All,Total,1
+2039,AGO,All,Total,1
+2040,AGO,All,Total,1
+2041,AGO,All,Total,1
+2042,AGO,All,Total,1
+2043,AGO,All,Total,1
+2021,ARE,All,Total,1
+2022,ARE,All,Total,1
+2023,ARE,All,Total,1
+2024,ARE,All,Total,2
+2025,ARE,All,Total,3
+2026,ARE,All,Total,4
+2027,ARE,All,Total,4
+2028,ARE,All,Total,6
+2029,ARE,All,Total,6
+2030,ARE,All,Total,6
+2031,ARE,All,Total,6
+2032,ARE,All,Total,6
+2033,ARE,All,Total,6
+2034,ARE,All,Total,6
+2035,ARE,All,Total,6
+2036,ARE,All,Total,6
+2037,ARE,All,Total,6
+2038,ARE,All,Total,6
+2039,ARE,All,Total,6
+2040,ARE,All,Total,6
+2041,ARE,All,Total,6
+2042,ARE,All,Total,6
+2043,ARE,All,Total,6
+2009,ARG,All,Total,1
+2010,ARG,All,Total,1
+2011,ARG,All,Total,1
+2012,ARG,All,Total,1
+2013,ARG,All,Total,1
+2014,ARG,All,Total,1
+2015,ARG,All,Total,1
+2016,ARG,All,Total,1
+2017,ARG,All,Total,1
+2018,ARG,All,Total,1
+2019,ARG,All,Total,1
+2020,ARG,All,Total,1
+2021,ARG,All,Total,1
+2022,ARG,All,Total,1
+2023,ARG,All,Total,1
+2024,ARG,All,Total,1
+2025,ARG,All,Total,1
+2026,ARG,All,Total,1
+2027,ARG,All,Total,1
+2028,ARG,All,Total,1
+2029,ARG,All,Total,1
+2030,ARG,All,Total,2
+2031,ARG,All,Total,2
+2032,ARG,All,Total,2
+2033,ARG,All,Total,2
+2034,ARG,All,Total,2
+2035,ARG,All,Total,2
+2036,ARG,All,Total,2
+2037,ARG,All,Total,2
+2038,ARG,All,Total,2
+2039,ARG,All,Total,2
+2040,ARG,All,Total,2
+2041,ARG,All,Total,2
+2042,ARG,All,Total,2
+2043,ARG,All,Total,2
+2020,AUS,All,Total,2
+2021,AUS,All,Total,4
+2022,AUS,All,Total,5
+2023,AUS,All,Total,6
+2024,AUS,All,Total,25
+2025,AUS,All,Total,35
+2026,AUS,All,Total,40
+2027,AUS,All,Total,48
+2028,AUS,All,Total,61
+2029,AUS,All,Total,64
+2030,AUS,All,Total,67
+2031,AUS,All,Total,68
+2032,AUS,All,Total,69
+2033,AUS,All,Total,69
+2034,AUS,All,Total,69
+2035,AUS,All,Total,69
+2036,AUS,All,Total,70
+2037,AUS,All,Total,70
+2038,AUS,All,Total,70
+2039,AUS,All,Total,70
+2040,AUS,All,Total,70
+2041,AUS,All,Total,70
+2042,AUS,All,Total,70
+2043,AUS,All,Total,70
+2017,AUT,All,Total,1
+2018,AUT,All,Total,2
+2019,AUT,All,Total,2
+2020,AUT,All,Total,2
+2021,AUT,All,Total,2
+2022,AUT,All,Total,3
+2023,AUT,All,Total,7
+2024,AUT,All,Total,7
+2025,AUT,All,Total,8
+2026,AUT,All,Total,9
+2027,AUT,All,Total,9
+2028,AUT,All,Total,9
+2029,AUT,All,Total,9
+2030,AUT,All,Total,9
+2031,AUT,All,Total,9
+2032,AUT,All,Total,9
+2033,AUT,All,Total,9
+2034,AUT,All,Total,9
+2035,AUT,All,Total,9
+2036,AUT,All,Total,9
+2037,AUT,All,Total,9
+2038,AUT,All,Total,9
+2039,AUT,All,Total,9
+2040,AUT,All,Total,9
+2041,AUT,All,Total,9
+2042,AUT,All,Total,9
+2043,AUT,All,Total,9
+2015,BEL,All,Total,1
+2016,BEL,All,Total,1
+2017,BEL,All,Total,1
+2018,BEL,All,Total,1
+2019,BEL,All,Total,1
+2020,BEL,All,Total,1
+2021,BEL,All,Total,1
+2022,BEL,All,Total,1
+2023,BEL,All,Total,1
+2024,BEL,All,Total,1
+2025,BEL,All,Total,4
+2026,BEL,All,Total,6
+2027,BEL,All,Total,7
+2028,BEL,All,Total,8
+2029,BEL,All,Total,8
+2030,BEL,All,Total,9
+2031,BEL,All,Total,9
+2032,BEL,All,Total,9
+2033,BEL,All,Total,9
+2034,BEL,All,Total,9
+2035,BEL,All,Total,9
+2036,BEL,All,Total,9
+2037,BEL,All,Total,9
+2038,BEL,All,Total,9
+2039,BEL,All,Total,9
+2040,BEL,All,Total,9
+2041,BEL,All,Total,9
+2042,BEL,All,Total,9
+2043,BEL,All,Total,9
+2022,BRA,All,Total,2
+2023,BRA,All,Total,2
+2024,BRA,All,Total,3
+2025,BRA,All,Total,6
+2026,BRA,All,Total,8
+2027,BRA,All,Total,13
+2028,BRA,All,Total,14
+2029,BRA,All,Total,14
+2030,BRA,All,Total,14
+2031,BRA,All,Total,14
+2032,BRA,All,Total,14
+2033,BRA,All,Total,14
+2034,BRA,All,Total,14
+2035,BRA,All,Total,14
+2036,BRA,All,Total,14
+2037,BRA,All,Total,14
+2038,BRA,All,Total,14
+2039,BRA,All,Total,14
+2040,BRA,All,Total,14
+2041,BRA,All,Total,14
+2042,BRA,All,Total,14
+2043,BRA,All,Total,14
+2026,BRB,All,Total,1
+2027,BRB,All,Total,1
+2028,BRB,All,Total,1
+2029,BRB,All,Total,1
+2030,BRB,All,Total,1
+2031,BRB,All,Total,1
+2032,BRB,All,Total,1
+2033,BRB,All,Total,1
+2034,BRB,All,Total,1
+2035,BRB,All,Total,1
+2036,BRB,All,Total,1
+2037,BRB,All,Total,1
+2038,BRB,All,Total,1
+2039,BRB,All,Total,1
+2040,BRB,All,Total,1
+2041,BRB,All,Total,1
+2042,BRB,All,Total,1
+2043,BRB,All,Total,1
+2020,CAN,All,Total,1
+2021,CAN,All,Total,1
+2022,CAN,All,Total,1
+2023,CAN,All,Total,1
+2024,CAN,All,Total,4
+2025,CAN,All,Total,5
+2026,CAN,All,Total,7
+2027,CAN,All,Total,9
+2028,CAN,All,Total,12
+2029,CAN,All,Total,13
+2030,CAN,All,Total,16
+2031,CAN,All,Total,16
+2032,CAN,All,Total,16
+2033,CAN,All,Total,16
+2034,CAN,All,Total,16
+2035,CAN,All,Total,16
+2036,CAN,All,Total,16
+2037,CAN,All,Total,16
+2038,CAN,All,Total,16
+2039,CAN,All,Total,16
+2040,CAN,All,Total,16
+2041,CAN,All,Total,16
+2042,CAN,All,Total,16
+2043,CAN,All,Total,16
+2020,CHE,All,Total,1
+2021,CHE,All,Total,1
+2022,CHE,All,Total,2
+2023,CHE,All,Total,3
+2024,CHE,All,Total,4
+2025,CHE,All,Total,5
+2026,CHE,All,Total,5
+2027,CHE,All,Total,5
+2028,CHE,All,Total,5
+2029,CHE,All,Total,5
+2030,CHE,All,Total,5
+2031,CHE,All,Total,5
+2032,CHE,All,Total,5
+2033,CHE,All,Total,5
+2034,CHE,All,Total,5
+2035,CHE,All,Total,5
+2036,CHE,All,Total,5
+2037,CHE,All,Total,5
+2038,CHE,All,Total,5
+2039,CHE,All,Total,5
+2040,CHE,All,Total,5
+2041,CHE,All,Total,5
+2042,CHE,All,Total,5
+2043,CHE,All,Total,5
+2017,CHL,All,Total,1
+2018,CHL,All,Total,1
+2019,CHL,All,Total,1
+2020,CHL,All,Total,1
+2021,CHL,All,Total,2
+2022,CHL,All,Total,4
+2023,CHL,All,Total,6
+2024,CHL,All,Total,9
+2025,CHL,All,Total,16
+2026,CHL,All,Total,18
+2027,CHL,All,Total,24
+2028,CHL,All,Total,28
+2029,CHL,All,Total,29
+2030,CHL,All,Total,32
+2031,CHL,All,Total,33
+2032,CHL,All,Total,35
+2033,CHL,All,Total,37
+2034,CHL,All,Total,37
+2035,CHL,All,Total,37
+2036,CHL,All,Total,37
+2037,CHL,All,Total,37
+2038,CHL,All,Total,37
+2039,CHL,All,Total,37
+2040,CHL,All,Total,37
+2041,CHL,All,Total,37
+2042,CHL,All,Total,37
+2043,CHL,All,Total,37
+2018,CHN,All,Total,1
+2019,CHN,All,Total,3
+2020,CHN,All,Total,6
+2021,CHN,All,Total,10
+2022,CHN,All,Total,13
+2023,CHN,All,Total,22
+2024,CHN,All,Total,39
+2025,CHN,All,Total,47
+2026,CHN,All,Total,58
+2027,CHN,All,Total,61
+2028,CHN,All,Total,62
+2029,CHN,All,Total,63
+2030,CHN,All,Total,64
+2031,CHN,All,Total,64
+2032,CHN,All,Total,64
+2033,CHN,All,Total,64
+2034,CHN,All,Total,64
+2035,CHN,All,Total,65
+2036,CHN,All,Total,65
+2037,CHN,All,Total,65
+2038,CHN,All,Total,65
+2039,CHN,All,Total,65
+2040,CHN,All,Total,65
+2041,CHN,All,Total,65
+2042,CHN,All,Total,65
+2043,CHN,All,Total,65
+2022,COL,All,Total,3
+2023,COL,All,Total,4
+2024,COL,All,Total,6
+2025,COL,All,Total,6
+2026,COL,All,Total,7
+2027,COL,All,Total,15
+2028,COL,All,Total,15
+2029,COL,All,Total,15
+2030,COL,All,Total,18
+2031,COL,All,Total,18
+2032,COL,All,Total,19
+2033,COL,All,Total,19
+2034,COL,All,Total,19
+2035,COL,All,Total,19
+2036,COL,All,Total,19
+2037,COL,All,Total,19
+2038,COL,All,Total,19
+2039,COL,All,Total,19
+2040,COL,All,Total,19
+2041,COL,All,Total,19
+2042,COL,All,Total,19
+2043,COL,All,Total,19
+2017,CRI,All,Total,1
+2018,CRI,All,Total,1
+2019,CRI,All,Total,1
+2020,CRI,All,Total,1
+2021,CRI,All,Total,1
+2022,CRI,All,Total,1
+2023,CRI,All,Total,1
+2024,CRI,All,Total,1
+2025,CRI,All,Total,2
+2026,CRI,All,Total,2
+2027,CRI,All,Total,2
+2028,CRI,All,Total,3
+2029,CRI,All,Total,3
+2030,CRI,All,Total,3
+2031,CRI,All,Total,3
+2032,CRI,All,Total,3
+2033,CRI,All,Total,3
+2034,CRI,All,Total,3
+2035,CRI,All,Total,3
+2036,CRI,All,Total,3
+2037,CRI,All,Total,3
+2038,CRI,All,Total,3
+2039,CRI,All,Total,3
+2040,CRI,All,Total,3
+2041,CRI,All,Total,3
+2042,CRI,All,Total,3
+2043,CRI,All,Total,3
+2029,CYP,All,Total,1
+2030,CYP,All,Total,1
+2031,CYP,All,Total,1
+2032,CYP,All,Total,1
+2033,CYP,All,Total,1
+2034,CYP,All,Total,1
+2035,CYP,All,Total,1
+2036,CYP,All,Total,1
+2037,CYP,All,Total,1
+2038,CYP,All,Total,1
+2039,CYP,All,Total,1
+2040,CYP,All,Total,1
+2041,CYP,All,Total,1
+2042,CYP,All,Total,1
+2043,CYP,All,Total,1
+2024,CZE,All,Total,1
+2025,CZE,All,Total,2
+2026,CZE,All,Total,3
+2027,CZE,All,Total,3
+2028,CZE,All,Total,4
+2029,CZE,All,Total,4
+2030,CZE,All,Total,6
+2031,CZE,All,Total,6
+2032,CZE,All,Total,6
+2033,CZE,All,Total,6
+2034,CZE,All,Total,6
+2035,CZE,All,Total,6
+2036,CZE,All,Total,6
+2037,CZE,All,Total,6
+2038,CZE,All,Total,6
+2039,CZE,All,Total,6
+2040,CZE,All,Total,6
+2041,CZE,All,Total,6
+2042,CZE,All,Total,6
+2043,CZE,All,Total,6
+2013,DEU,All,Total,2
+2014,DEU,All,Total,3
+2015,DEU,All,Total,5
+2016,DEU,All,Total,6
+2017,DEU,All,Total,7
+2018,DEU,All,Total,8
+2019,DEU,All,Total,11
+2020,DEU,All,Total,16
+2021,DEU,All,Total,20
+2022,DEU,All,Total,21
+2023,DEU,All,Total,25
+2024,DEU,All,Total,35
+2025,DEU,All,Total,54
+2026,DEU,All,Total,65
+2027,DEU,All,Total,72
+2028,DEU,All,Total,77
+2029,DEU,All,Total,77
+2030,DEU,All,Total,81
+2031,DEU,All,Total,81
+2032,DEU,All,Total,81
+2033,DEU,All,Total,81
+2034,DEU,All,Total,81
+2035,DEU,All,Total,83
+2036,DEU,All,Total,83
+2037,DEU,All,Total,83
+2038,DEU,All,Total,83
+2039,DEU,All,Total,83
+2040,DEU,All,Total,83
+2041,DEU,All,Total,83
+2042,DEU,All,Total,83
+2043,DEU,All,Total,83
+2020,DNK,All,Total,1
+2021,DNK,All,Total,2
+2022,DNK,All,Total,3
+2023,DNK,All,Total,3
+2024,DNK,All,Total,7
+2025,DNK,All,Total,15
+2026,DNK,All,Total,18
+2027,DNK,All,Total,21
+2028,DNK,All,Total,23
+2029,DNK,All,Total,23
+2030,DNK,All,Total,27
+2031,DNK,All,Total,27
+2032,DNK,All,Total,27
+2033,DNK,All,Total,27
+2034,DNK,All,Total,27
+2035,DNK,All,Total,27
+2036,DNK,All,Total,27
+2037,DNK,All,Total,27
+2038,DNK,All,Total,27
+2039,DNK,All,Total,27
+2040,DNK,All,Total,27
+2041,DNK,All,Total,27
+2042,DNK,All,Total,27
+2043,DNK,All,Total,27
+2028,DOM,All,Total,1
+2029,DOM,All,Total,1
+2030,DOM,All,Total,1
+2031,DOM,All,Total,1
+2032,DOM,All,Total,1
+2033,DOM,All,Total,1
+2034,DOM,All,Total,1
+2035,DOM,All,Total,1
+2036,DOM,All,Total,1
+2037,DOM,All,Total,1
+2038,DOM,All,Total,1
+2039,DOM,All,Total,1
+2040,DOM,All,Total,1
+2041,DOM,All,Total,1
+2042,DOM,All,Total,1
+2043,DOM,All,Total,1
+2000,EGY,All,Total,1
+2001,EGY,All,Total,1
+2002,EGY,All,Total,1
+2003,EGY,All,Total,1
+2004,EGY,All,Total,1
+2005,EGY,All,Total,1
+2006,EGY,All,Total,1
+2007,EGY,All,Total,1
+2008,EGY,All,Total,1
+2009,EGY,All,Total,1
+2010,EGY,All,Total,1
+2011,EGY,All,Total,1
+2012,EGY,All,Total,1
+2013,EGY,All,Total,1
+2014,EGY,All,Total,1
+2015,EGY,All,Total,1
+2016,EGY,All,Total,1
+2017,EGY,All,Total,1
+2018,EGY,All,Total,1
+2019,EGY,All,Total,1
+2020,EGY,All,Total,1
+2021,EGY,All,Total,1
+2022,EGY,All,Total,2
+2023,EGY,All,Total,2
+2024,EGY,All,Total,2
+2025,EGY,All,Total,4
+2026,EGY,All,Total,6
+2027,EGY,All,Total,7
+2028,EGY,All,Total,8
+2029,EGY,All,Total,11
+2030,EGY,All,Total,12
+2031,EGY,All,Total,12
+2032,EGY,All,Total,13
+2033,EGY,All,Total,13
+2034,EGY,All,Total,13
+2035,EGY,All,Total,13
+2036,EGY,All,Total,13
+2037,EGY,All,Total,13
+2038,EGY,All,Total,13
+2039,EGY,All,Total,13
+2040,EGY,All,Total,13
+2041,EGY,All,Total,13
+2042,EGY,All,Total,13
+2043,EGY,All,Total,13
+2008,ESP,All,Total,1
+2009,ESP,All,Total,1
+2010,ESP,All,Total,1
+2011,ESP,All,Total,1
+2012,ESP,All,Total,1
+2013,ESP,All,Total,1
+2014,ESP,All,Total,1
+2015,ESP,All,Total,2
+2016,ESP,All,Total,2
+2017,ESP,All,Total,2
+2018,ESP,All,Total,2
+2019,ESP,All,Total,2
+2020,ESP,All,Total,2
+2021,ESP,All,Total,2
+2022,ESP,All,Total,6
+2023,ESP,All,Total,10
+2024,ESP,All,Total,16
+2025,ESP,All,Total,27
+2026,ESP,All,Total,45
+2027,ESP,All,Total,49
+2028,ESP,All,Total,56
+2029,ESP,All,Total,58
+2030,ESP,All,Total,65
+2031,ESP,All,Total,67
+2032,ESP,All,Total,67
+2033,ESP,All,Total,67
+2034,ESP,All,Total,67
+2035,ESP,All,Total,67
+2036,ESP,All,Total,67
+2037,ESP,All,Total,67
+2038,ESP,All,Total,67
+2039,ESP,All,Total,67
+2040,ESP,All,Total,67
+2041,ESP,All,Total,67
+2042,ESP,All,Total,67
+2043,ESP,All,Total,67
+2010,EST,All,Total,1
+2011,EST,All,Total,1
+2012,EST,All,Total,1
+2013,EST,All,Total,1
+2014,EST,All,Total,1
+2015,EST,All,Total,1
+2016,EST,All,Total,1
+2017,EST,All,Total,1
+2018,EST,All,Total,1
+2019,EST,All,Total,1
+2020,EST,All,Total,1
+2021,EST,All,Total,1
+2022,EST,All,Total,1
+2023,EST,All,Total,1
+2024,EST,All,Total,1
+2025,EST,All,Total,3
+2026,EST,All,Total,3
+2027,EST,All,Total,3
+2028,EST,All,Total,4
+2029,EST,All,Total,4
+2030,EST,All,Total,4
+2031,EST,All,Total,4
+2032,EST,All,Total,4
+2033,EST,All,Total,4
+2034,EST,All,Total,4
+2035,EST,All,Total,4
+2036,EST,All,Total,4
+2037,EST,All,Total,4
+2038,EST,All,Total,4
+2039,EST,All,Total,4
+2040,EST,All,Total,4
+2041,EST,All,Total,4
+2042,EST,All,Total,4
+2043,EST,All,Total,4
+2024,FIN,All,Total,2
+2025,FIN,All,Total,4
+2026,FIN,All,Total,7
+2027,FIN,All,Total,8
+2028,FIN,All,Total,9
+2029,FIN,All,Total,9
+2030,FIN,All,Total,12
+2031,FIN,All,Total,12
+2032,FIN,All,Total,12
+2033,FIN,All,Total,12
+2034,FIN,All,Total,12
+2035,FIN,All,Total,12
+2036,FIN,All,Total,12
+2037,FIN,All,Total,12
+2038,FIN,All,Total,12
+2039,FIN,All,Total,12
+2040,FIN,All,Total,12
+2041,FIN,All,Total,12
+2042,FIN,All,Total,12
+2043,FIN,All,Total,12
+2021,FRA,All,Total,2
+2022,FRA,All,Total,3
+2023,FRA,All,Total,7
+2024,FRA,All,Total,10
+2025,FRA,All,Total,16
+2026,FRA,All,Total,18
+2027,FRA,All,Total,21
+2028,FRA,All,Total,25
+2029,FRA,All,Total,25
+2030,FRA,All,Total,27
+2031,FRA,All,Total,27
+2032,FRA,All,Total,27
+2033,FRA,All,Total,27
+2034,FRA,All,Total,27
+2035,FRA,All,Total,27
+2036,FRA,All,Total,27
+2037,FRA,All,Total,27
+2038,FRA,All,Total,27
+2039,FRA,All,Total,27
+2040,FRA,All,Total,27
+2041,FRA,All,Total,27
+2042,FRA,All,Total,27
+2043,FRA,All,Total,27
+2016,GBR,All,Total,1
+2017,GBR,All,Total,2
+2018,GBR,All,Total,2
+2019,GBR,All,Total,3
+2020,GBR,All,Total,3
+2021,GBR,All,Total,4
+2022,GBR,All,Total,4
+2023,GBR,All,Total,5
+2024,GBR,All,Total,12
+2025,GBR,All,Total,24
+2026,GBR,All,Total,37
+2027,GBR,All,Total,40
+2028,GBR,All,Total,46
+2029,GBR,All,Total,47
+2030,GBR,All,Total,58
+2031,GBR,All,Total,58
+2032,GBR,All,Total,60
+2033,GBR,All,Total,60
+2034,GBR,All,Total,61
+2035,GBR,All,Total,62
+2036,GBR,All,Total,62
+2037,GBR,All,Total,62
+2038,GBR,All,Total,62
+2039,GBR,All,Total,62
+2040,GBR,All,Total,62
+2041,GBR,All,Total,62
+2042,GBR,All,Total,62
+2043,GBR,All,Total,62
+2021,GRC,All,Total,1
+2022,GRC,All,Total,2
+2023,GRC,All,Total,2
+2024,GRC,All,Total,2
+2025,GRC,All,Total,4
+2026,GRC,All,Total,4
+2027,GRC,All,Total,5
+2028,GRC,All,Total,6
+2029,GRC,All,Total,6
+2030,GRC,All,Total,6
+2031,GRC,All,Total,6
+2032,GRC,All,Total,6
+2033,GRC,All,Total,6
+2034,GRC,All,Total,6
+2035,GRC,All,Total,6
+2036,GRC,All,Total,6
+2037,GRC,All,Total,6
+2038,GRC,All,Total,6
+2039,GRC,All,Total,6
+2040,GRC,All,Total,6
+2041,GRC,All,Total,6
+2042,GRC,All,Total,6
+2043,GRC,All,Total,6
+2023,HUN,All,Total,1
+2024,HUN,All,Total,2
+2025,HUN,All,Total,2
+2026,HUN,All,Total,2
+2027,HUN,All,Total,2
+2028,HUN,All,Total,2
+2029,HUN,All,Total,2
+2030,HUN,All,Total,2
+2031,HUN,All,Total,2
+2032,HUN,All,Total,2
+2033,HUN,All,Total,2
+2034,HUN,All,Total,2
+2035,HUN,All,Total,2
+2036,HUN,All,Total,2
+2037,HUN,All,Total,2
+2038,HUN,All,Total,2
+2039,HUN,All,Total,2
+2040,HUN,All,Total,2
+2041,HUN,All,Total,2
+2042,HUN,All,Total,2
+2043,HUN,All,Total,2
+2023,IDN,All,Total,1
+2024,IDN,All,Total,2
+2025,IDN,All,Total,3
+2026,IDN,All,Total,5
+2027,IDN,All,Total,7
+2028,IDN,All,Total,7
+2029,IDN,All,Total,7
+2030,IDN,All,Total,10
+2031,IDN,All,Total,10
+2032,IDN,All,Total,10
+2033,IDN,All,Total,10
+2034,IDN,All,Total,10
+2035,IDN,All,Total,10
+2036,IDN,All,Total,10
+2037,IDN,All,Total,10
+2038,IDN,All,Total,10
+2039,IDN,All,Total,10
+2040,IDN,All,Total,10
+2041,IDN,All,Total,10
+2042,IDN,All,Total,10
+2043,IDN,All,Total,10
+2015,IND,All,Total,3
+2016,IND,All,Total,3
+2017,IND,All,Total,3
+2018,IND,All,Total,3
+2019,IND,All,Total,3
+2020,IND,All,Total,3
+2021,IND,All,Total,4
+2022,IND,All,Total,6
+2023,IND,All,Total,6
+2024,IND,All,Total,13
+2025,IND,All,Total,21
+2026,IND,All,Total,26
+2027,IND,All,Total,42
+2028,IND,All,Total,45
+2029,IND,All,Total,45
+2030,IND,All,Total,53
+2031,IND,All,Total,53
+2032,IND,All,Total,54
+2033,IND,All,Total,55
+2034,IND,All,Total,55
+2035,IND,All,Total,55
+2036,IND,All,Total,55
+2037,IND,All,Total,55
+2038,IND,All,Total,55
+2039,IND,All,Total,55
+2040,IND,All,Total,56
+2041,IND,All,Total,56
+2042,IND,All,Total,56
+2043,IND,All,Total,56
+2025,IRL,All,Total,1
+2026,IRL,All,Total,3
+2027,IRL,All,Total,4
+2028,IRL,All,Total,4
+2029,IRL,All,Total,4
+2030,IRL,All,Total,7
+2031,IRL,All,Total,7
+2032,IRL,All,Total,7
+2033,IRL,All,Total,7
+2034,IRL,All,Total,7
+2035,IRL,All,Total,7
+2036,IRL,All,Total,7
+2037,IRL,All,Total,7
+2038,IRL,All,Total,7
+2039,IRL,All,Total,7
+2040,IRL,All,Total,7
+2041,IRL,All,Total,7
+2042,IRL,All,Total,7
+2043,IRL,All,Total,7
+2012,ISL,All,Total,1
+2013,ISL,All,Total,1
+2014,ISL,All,Total,1
+2015,ISL,All,Total,1
+2016,ISL,All,Total,1
+2017,ISL,All,Total,1
+2018,ISL,All,Total,1
+2019,ISL,All,Total,1
+2020,ISL,All,Total,1
+2021,ISL,All,Total,1
+2022,ISL,All,Total,1
+2023,ISL,All,Total,1
+2024,ISL,All,Total,1
+2025,ISL,All,Total,1
+2026,ISL,All,Total,3
+2027,ISL,All,Total,3
+2028,ISL,All,Total,4
+2029,ISL,All,Total,4
+2030,ISL,All,Total,4
+2031,ISL,All,Total,4
+2032,ISL,All,Total,4
+2033,ISL,All,Total,4
+2034,ISL,All,Total,4
+2035,ISL,All,Total,4
+2036,ISL,All,Total,4
+2037,ISL,All,Total,4
+2038,ISL,All,Total,4
+2039,ISL,All,Total,4
+2040,ISL,All,Total,4
+2041,ISL,All,Total,4
+2042,ISL,All,Total,4
+2043,ISL,All,Total,4
+2025,ITA,All,Total,1
+2026,ITA,All,Total,14
+2027,ITA,All,Total,16
+2028,ITA,All,Total,16
+2029,ITA,All,Total,18
+2030,ITA,All,Total,21
+2031,ITA,All,Total,21
+2032,ITA,All,Total,21
+2033,ITA,All,Total,21
+2034,ITA,All,Total,21
+2035,ITA,All,Total,21
+2036,ITA,All,Total,21
+2037,ITA,All,Total,21
+2038,ITA,All,Total,21
+2039,ITA,All,Total,21
+2040,ITA,All,Total,21
+2041,ITA,All,Total,21
+2042,ITA,All,Total,21
+2043,ITA,All,Total,21
+2028,JOR,All,Total,1
+2029,JOR,All,Total,1
+2030,JOR,All,Total,1
+2031,JOR,All,Total,1
+2032,JOR,All,Total,1
+2033,JOR,All,Total,1
+2034,JOR,All,Total,1
+2035,JOR,All,Total,1
+2036,JOR,All,Total,1
+2037,JOR,All,Total,1
+2038,JOR,All,Total,1
+2039,JOR,All,Total,1
+2040,JOR,All,Total,1
+2041,JOR,All,Total,1
+2042,JOR,All,Total,1
+2043,JOR,All,Total,1
+2015,JPN,All,Total,1
+2016,JPN,All,Total,1
+2017,JPN,All,Total,1
+2018,JPN,All,Total,1
+2019,JPN,All,Total,2
+2020,JPN,All,Total,4
+2021,JPN,All,Total,4
+2022,JPN,All,Total,4
+2023,JPN,All,Total,4
+2024,JPN,All,Total,5
+2025,JPN,All,Total,7
+2026,JPN,All,Total,7
+2027,JPN,All,Total,7
+2028,JPN,All,Total,7
+2029,JPN,All,Total,7
+2030,JPN,All,Total,7
+2031,JPN,All,Total,7
+2032,JPN,All,Total,7
+2033,JPN,All,Total,7
+2034,JPN,All,Total,7
+2035,JPN,All,Total,7
+2036,JPN,All,Total,7
+2037,JPN,All,Total,7
+2038,JPN,All,Total,7
+2039,JPN,All,Total,7
+2040,JPN,All,Total,7
+2041,JPN,All,Total,7
+2042,JPN,All,Total,7
+2043,JPN,All,Total,7
+2032,KAZ,All,Total,1
+2033,KAZ,All,Total,1
+2034,KAZ,All,Total,1
+2035,KAZ,All,Total,1
+2036,KAZ,All,Total,1
+2037,KAZ,All,Total,1
+2038,KAZ,All,Total,1
+2039,KAZ,All,Total,1
+2040,KAZ,All,Total,1
+2041,KAZ,All,Total,1
+2042,KAZ,All,Total,1
+2043,KAZ,All,Total,1
+2025,KEN,All,Total,1
+2026,KEN,All,Total,1
+2027,KEN,All,Total,1
+2028,KEN,All,Total,1
+2029,KEN,All,Total,1
+2030,KEN,All,Total,2
+2031,KEN,All,Total,2
+2032,KEN,All,Total,2
+2033,KEN,All,Total,2
+2034,KEN,All,Total,2
+2035,KEN,All,Total,2
+2036,KEN,All,Total,2
+2037,KEN,All,Total,2
+2038,KEN,All,Total,2
+2039,KEN,All,Total,2
+2040,KEN,All,Total,2
+2041,KEN,All,Total,2
+2042,KEN,All,Total,2
+2043,KEN,All,Total,2
+2023,KOR,All,Total,1
+2024,KOR,All,Total,1
+2025,KOR,All,Total,3
+2026,KOR,All,Total,3
+2027,KOR,All,Total,4
+2028,KOR,All,Total,4
+2029,KOR,All,Total,4
+2030,KOR,All,Total,5
+2031,KOR,All,Total,5
+2032,KOR,All,Total,5
+2033,KOR,All,Total,5
+2034,KOR,All,Total,5
+2035,KOR,All,Total,5
+2036,KOR,All,Total,5
+2037,KOR,All,Total,5
+2038,KOR,All,Total,5
+2039,KOR,All,Total,5
+2040,KOR,All,Total,5
+2041,KOR,All,Total,5
+2042,KOR,All,Total,5
+2043,KOR,All,Total,5
+2030,LVA,All,Total,1
+2031,LVA,All,Total,1
+2032,LVA,All,Total,1
+2033,LVA,All,Total,1
+2034,LVA,All,Total,1
+2035,LVA,All,Total,1
+2036,LVA,All,Total,1
+2037,LVA,All,Total,1
+2038,LVA,All,Total,1
+2039,LVA,All,Total,1
+2040,LVA,All,Total,1
+2041,LVA,All,Total,1
+2042,LVA,All,Total,1
+2043,LVA,All,Total,1
+2025,MEX,All,Total,1
+2026,MEX,All,Total,3
+2027,MEX,All,Total,3
+2028,MEX,All,Total,6
+2029,MEX,All,Total,6
+2030,MEX,All,Total,7
+2031,MEX,All,Total,7
+2032,MEX,All,Total,7
+2033,MEX,All,Total,7
+2034,MEX,All,Total,7
+2035,MEX,All,Total,7
+2036,MEX,All,Total,7
+2037,MEX,All,Total,7
+2038,MEX,All,Total,7
+2039,MEX,All,Total,7
+2040,MEX,All,Total,7
+2041,MEX,All,Total,7
+2042,MEX,All,Total,7
+2043,MEX,All,Total,7
+2028,MRT,All,Total,2
+2029,MRT,All,Total,4
+2030,MRT,All,Total,4
+2031,MRT,All,Total,5
+2032,MRT,All,Total,5
+2033,MRT,All,Total,6
+2034,MRT,All,Total,6
+2035,MRT,All,Total,6
+2036,MRT,All,Total,6
+2037,MRT,All,Total,7
+2038,MRT,All,Total,7
+2039,MRT,All,Total,7
+2040,MRT,All,Total,7
+2041,MRT,All,Total,7
+2042,MRT,All,Total,7
+2043,MRT,All,Total,7
+2026,MYS,All,Total,1
+2027,MYS,All,Total,2
+2028,MYS,All,Total,3
+2029,MYS,All,Total,3
+2030,MYS,All,Total,3
+2031,MYS,All,Total,3
+2032,MYS,All,Total,3
+2033,MYS,All,Total,3
+2034,MYS,All,Total,3
+2035,MYS,All,Total,3
+2036,MYS,All,Total,3
+2037,MYS,All,Total,3
+2038,MYS,All,Total,3
+2039,MYS,All,Total,3
+2040,MYS,All,Total,3
+2041,MYS,All,Total,3
+2042,MYS,All,Total,3
+2043,MYS,All,Total,3
+2024,NAM,All,Total,4
+2025,NAM,All,Total,4
+2026,NAM,All,Total,5
+2027,NAM,All,Total,9
+2028,NAM,All,Total,9
+2029,NAM,All,Total,10
+2030,NAM,All,Total,10
+2031,NAM,All,Total,10
+2032,NAM,All,Total,12
+2033,NAM,All,Total,12
+2034,NAM,All,Total,12
+2035,NAM,All,Total,12
+2036,NAM,All,Total,12
+2037,NAM,All,Total,12
+2038,NAM,All,Total,12
+2039,NAM,All,Total,12
+2040,NAM,All,Total,12
+2041,NAM,All,Total,12
+2042,NAM,All,Total,12
+2043,NAM,All,Total,12
+2021,NLD,All,Total,1
+2022,NLD,All,Total,3
+2023,NLD,All,Total,6
+2024,NLD,All,Total,8
+2025,NLD,All,Total,16
+2026,NLD,All,Total,26
+2027,NLD,All,Total,36
+2028,NLD,All,Total,43
+2029,NLD,All,Total,45
+2030,NLD,All,Total,56
+2031,NLD,All,Total,57
+2032,NLD,All,Total,58
+2033,NLD,All,Total,59
+2034,NLD,All,Total,59
+2035,NLD,All,Total,59
+2036,NLD,All,Total,59
+2037,NLD,All,Total,59
+2038,NLD,All,Total,59
+2039,NLD,All,Total,59
+2040,NLD,All,Total,60
+2041,NLD,All,Total,60
+2042,NLD,All,Total,60
+2043,NLD,All,Total,61
+2017,NOR,All,Total,1
+2018,NOR,All,Total,1
+2019,NOR,All,Total,1
+2020,NOR,All,Total,2
+2021,NOR,All,Total,3
+2022,NOR,All,Total,4
+2023,NOR,All,Total,5
+2024,NOR,All,Total,7
+2025,NOR,All,Total,11
+2026,NOR,All,Total,14
+2027,NOR,All,Total,20
+2028,NOR,All,Total,26
+2029,NOR,All,Total,28
+2030,NOR,All,Total,29
+2031,NOR,All,Total,29
+2032,NOR,All,Total,30
+2033,NOR,All,Total,30
+2034,NOR,All,Total,30
+2035,NOR,All,Total,30
+2036,NOR,All,Total,30
+2037,NOR,All,Total,30
+2038,NOR,All,Total,30
+2039,NOR,All,Total,30
+2040,NOR,All,Total,30
+2041,NOR,All,Total,30
+2042,NOR,All,Total,30
+2043,NOR,All,Total,30
+2021,NZL,All,Total,1
+2022,NZL,All,Total,1
+2023,NZL,All,Total,1
+2024,NZL,All,Total,1
+2025,NZL,All,Total,3
+2026,NZL,All,Total,3
+2027,NZL,All,Total,4
+2028,NZL,All,Total,4
+2029,NZL,All,Total,4
+2030,NZL,All,Total,4
+2031,NZL,All,Total,4
+2032,NZL,All,Total,4
+2033,NZL,All,Total,4
+2034,NZL,All,Total,4
+2035,NZL,All,Total,4
+2036,NZL,All,Total,4
+2037,NZL,All,Total,4
+2038,NZL,All,Total,4
+2039,NZL,All,Total,4
+2040,NZL,All,Total,4
+2041,NZL,All,Total,4
+2042,NZL,All,Total,4
+2043,NZL,All,Total,4
+2024,OMN,All,Total,1
+2025,OMN,All,Total,1
+2026,OMN,All,Total,2
+2027,OMN,All,Total,3
+2028,OMN,All,Total,3
+2029,OMN,All,Total,3
+2030,OMN,All,Total,10
+2031,OMN,All,Total,10
+2032,OMN,All,Total,10
+2033,OMN,All,Total,10
+2034,OMN,All,Total,10
+2035,OMN,All,Total,10
+2036,OMN,All,Total,10
+2037,OMN,All,Total,10
+2038,OMN,All,Total,11
+2039,OMN,All,Total,11
+2040,OMN,All,Total,11
+2041,OMN,All,Total,11
+2042,OMN,All,Total,11
+2043,OMN,All,Total,11
+2027,PAN,All,Total,1
+2028,PAN,All,Total,1
+2029,PAN,All,Total,1
+2030,PAN,All,Total,1
+2031,PAN,All,Total,1
+2032,PAN,All,Total,1
+2033,PAN,All,Total,1
+2034,PAN,All,Total,1
+2035,PAN,All,Total,1
+2036,PAN,All,Total,1
+2037,PAN,All,Total,1
+2038,PAN,All,Total,1
+2039,PAN,All,Total,1
+2040,PAN,All,Total,1
+2041,PAN,All,Total,1
+2042,PAN,All,Total,1
+2043,PAN,All,Total,1
+2000,PER,All,Total,1
+2001,PER,All,Total,1
+2002,PER,All,Total,1
+2003,PER,All,Total,1
+2004,PER,All,Total,1
+2005,PER,All,Total,1
+2006,PER,All,Total,1
+2007,PER,All,Total,1
+2008,PER,All,Total,1
+2009,PER,All,Total,1
+2010,PER,All,Total,1
+2011,PER,All,Total,1
+2012,PER,All,Total,1
+2013,PER,All,Total,1
+2014,PER,All,Total,1
+2015,PER,All,Total,1
+2016,PER,All,Total,1
+2017,PER,All,Total,1
+2018,PER,All,Total,1
+2019,PER,All,Total,1
+2020,PER,All,Total,1
+2021,PER,All,Total,1
+2022,PER,All,Total,1
+2023,PER,All,Total,2
+2024,PER,All,Total,2
+2025,PER,All,Total,2
+2026,PER,All,Total,2
+2027,PER,All,Total,3
+2028,PER,All,Total,3
+2029,PER,All,Total,3
+2030,PER,All,Total,4
+2031,PER,All,Total,4
+2032,PER,All,Total,5
+2033,PER,All,Total,5
+2034,PER,All,Total,5
+2035,PER,All,Total,5
+2036,PER,All,Total,5
+2037,PER,All,Total,5
+2038,PER,All,Total,5
+2039,PER,All,Total,5
+2040,PER,All,Total,5
+2041,PER,All,Total,5
+2042,PER,All,Total,5
+2043,PER,All,Total,5
+2024,POL,All,Total,1
+2025,POL,All,Total,2
+2026,POL,All,Total,3
+2027,POL,All,Total,4
+2028,POL,All,Total,5
+2029,POL,All,Total,5
+2030,POL,All,Total,9
+2031,POL,All,Total,9
+2032,POL,All,Total,9
+2033,POL,All,Total,9
+2034,POL,All,Total,9
+2035,POL,All,Total,9
+2036,POL,All,Total,9
+2037,POL,All,Total,9
+2038,POL,All,Total,9
+2039,POL,All,Total,9
+2040,POL,All,Total,9
+2041,POL,All,Total,9
+2042,POL,All,Total,9
+2043,POL,All,Total,9
+2022,PRT,All,Total,1
+2023,PRT,All,Total,2
+2024,PRT,All,Total,3
+2025,PRT,All,Total,10
+2026,PRT,All,Total,13
+2027,PRT,All,Total,17
+2028,PRT,All,Total,18
+2029,PRT,All,Total,19
+2030,PRT,All,Total,22
+2031,PRT,All,Total,22
+2032,PRT,All,Total,22
+2033,PRT,All,Total,22
+2034,PRT,All,Total,22
+2035,PRT,All,Total,23
+2036,PRT,All,Total,23
+2037,PRT,All,Total,23
+2038,PRT,All,Total,23
+2039,PRT,All,Total,23
+2040,PRT,All,Total,24
+2041,PRT,All,Total,24
+2042,PRT,All,Total,24
+2043,PRT,All,Total,24
+2026,PRY,All,Total,2
+2027,PRY,All,Total,3
+2028,PRY,All,Total,3
+2029,PRY,All,Total,3
+2030,PRY,All,Total,3
+2031,PRY,All,Total,3
+2032,PRY,All,Total,3
+2033,PRY,All,Total,3
+2034,PRY,All,Total,3
+2035,PRY,All,Total,3
+2036,PRY,All,Total,3
+2037,PRY,All,Total,3
+2038,PRY,All,Total,3
+2039,PRY,All,Total,3
+2040,PRY,All,Total,3
+2041,PRY,All,Total,3
+2042,PRY,All,Total,3
+2043,PRY,All,Total,3
+2026,ROU,All,Total,1
+2027,ROU,All,Total,1
+2028,ROU,All,Total,2
+2029,ROU,All,Total,2
+2030,ROU,All,Total,2
+2031,ROU,All,Total,2
+2032,ROU,All,Total,2
+2033,ROU,All,Total,2
+2034,ROU,All,Total,2
+2035,ROU,All,Total,2
+2036,ROU,All,Total,2
+2037,ROU,All,Total,2
+2038,ROU,All,Total,2
+2039,ROU,All,Total,2
+2040,ROU,All,Total,2
+2041,ROU,All,Total,2
+2042,ROU,All,Total,2
+2043,ROU,All,Total,2
+2026,SAU,All,Total,1
+2027,SAU,All,Total,1
+2028,SAU,All,Total,1
+2029,SAU,All,Total,1
+2030,SAU,All,Total,1
+2031,SAU,All,Total,1
+2032,SAU,All,Total,1
+2033,SAU,All,Total,1
+2034,SAU,All,Total,1
+2035,SAU,All,Total,1
+2036,SAU,All,Total,1
+2037,SAU,All,Total,1
+2038,SAU,All,Total,1
+2039,SAU,All,Total,1
+2040,SAU,All,Total,1
+2041,SAU,All,Total,1
+2042,SAU,All,Total,1
+2043,SAU,All,Total,1
+2026,SGP,All,Total,1
+2027,SGP,All,Total,1
+2028,SGP,All,Total,1
+2029,SGP,All,Total,1
+2030,SGP,All,Total,1
+2031,SGP,All,Total,1
+2032,SGP,All,Total,1
+2033,SGP,All,Total,1
+2034,SGP,All,Total,1
+2035,SGP,All,Total,1
+2036,SGP,All,Total,1
+2037,SGP,All,Total,1
+2038,SGP,All,Total,1
+2039,SGP,All,Total,1
+2040,SGP,All,Total,1
+2041,SGP,All,Total,1
+2042,SGP,All,Total,1
+2043,SGP,All,Total,1
+2028,SRB,All,Total,1
+2029,SRB,All,Total,1
+2030,SRB,All,Total,1
+2031,SRB,All,Total,1
+2032,SRB,All,Total,1
+2033,SRB,All,Total,1
+2034,SRB,All,Total,1
+2035,SRB,All,Total,1
+2036,SRB,All,Total,1
+2037,SRB,All,Total,1
+2038,SRB,All,Total,1
+2039,SRB,All,Total,1
+2040,SRB,All,Total,1
+2041,SRB,All,Total,1
+2042,SRB,All,Total,1
+2043,SRB,All,Total,1
+2025,SVK,All,Total,3
+2026,SVK,All,Total,3
+2027,SVK,All,Total,3
+2028,SVK,All,Total,3
+2029,SVK,All,Total,3
+2030,SVK,All,Total,4
+2031,SVK,All,Total,4
+2032,SVK,All,Total,4
+2033,SVK,All,Total,4
+2034,SVK,All,Total,4
+2035,SVK,All,Total,5
+2036,SVK,All,Total,5
+2037,SVK,All,Total,5
+2038,SVK,All,Total,5
+2039,SVK,All,Total,5
+2040,SVK,All,Total,5
+2041,SVK,All,Total,5
+2042,SVK,All,Total,5
+2043,SVK,All,Total,5
+2021,SVN,All,Total,1
+2022,SVN,All,Total,1
+2023,SVN,All,Total,1
+2024,SVN,All,Total,1
+2025,SVN,All,Total,1
+2026,SVN,All,Total,2
+2027,SVN,All,Total,2
+2028,SVN,All,Total,2
+2029,SVN,All,Total,2
+2030,SVN,All,Total,2
+2031,SVN,All,Total,2
+2032,SVN,All,Total,2
+2033,SVN,All,Total,2
+2034,SVN,All,Total,2
+2035,SVN,All,Total,2
+2036,SVN,All,Total,2
+2037,SVN,All,Total,2
+2038,SVN,All,Total,2
+2039,SVN,All,Total,2
+2040,SVN,All,Total,2
+2041,SVN,All,Total,2
+2042,SVN,All,Total,2
+2043,SVN,All,Total,2
+2019,SWE,All,Total,1
+2020,SWE,All,Total,1
+2021,SWE,All,Total,1
+2022,SWE,All,Total,1
+2023,SWE,All,Total,1
+2024,SWE,All,Total,3
+2025,SWE,All,Total,7
+2026,SWE,All,Total,9
+2027,SWE,All,Total,12
+2028,SWE,All,Total,13
+2029,SWE,All,Total,13
+2030,SWE,All,Total,15
+2031,SWE,All,Total,15
+2032,SWE,All,Total,15
+2033,SWE,All,Total,15
+2034,SWE,All,Total,15
+2035,SWE,All,Total,15
+2036,SWE,All,Total,15
+2037,SWE,All,Total,15
+2038,SWE,All,Total,15
+2039,SWE,All,Total,15
+2040,SWE,All,Total,15
+2041,SWE,All,Total,15
+2042,SWE,All,Total,15
+2043,SWE,All,Total,15
+2030,TUN,All,Total,2
+2031,TUN,All,Total,2
+2032,TUN,All,Total,2
+2033,TUN,All,Total,2
+2034,TUN,All,Total,2
+2035,TUN,All,Total,3
+2036,TUN,All,Total,3
+2037,TUN,All,Total,3
+2038,TUN,All,Total,3
+2039,TUN,All,Total,3
+2040,TUN,All,Total,3
+2041,TUN,All,Total,3
+2042,TUN,All,Total,3
+2043,TUN,All,Total,3
+2026,URY,All,Total,1
+2027,URY,All,Total,1
+2028,URY,All,Total,1
+2029,URY,All,Total,1
+2030,URY,All,Total,2
+2031,URY,All,Total,2
+2032,URY,All,Total,2
+2033,URY,All,Total,2
+2034,URY,All,Total,2
+2035,URY,All,Total,2
+2036,URY,All,Total,2
+2037,URY,All,Total,2
+2038,URY,All,Total,2
+2039,URY,All,Total,2
+2040,URY,All,Total,2
+2041,URY,All,Total,2
+2042,URY,All,Total,2
+2043,URY,All,Total,2
+2007,USA,All,Total,1
+2008,USA,All,Total,1
+2009,USA,All,Total,1
+2010,USA,All,Total,1
+2011,USA,All,Total,1
+2012,USA,All,Total,1
+2013,USA,All,Total,1
+2014,USA,All,Total,1
+2015,USA,All,Total,1
+2016,USA,All,Total,1
+2017,USA,All,Total,1
+2018,USA,All,Total,1
+2019,USA,All,Total,1
+2020,USA,All,Total,2
+2021,USA,All,Total,3
+2022,USA,All,Total,5
+2023,USA,All,Total,8
+2024,USA,All,Total,13
+2025,USA,All,Total,22
+2026,USA,All,Total,29
+2027,USA,All,Total,34
+2028,USA,All,Total,36
+2029,USA,All,Total,36
+2030,USA,All,Total,37
+2031,USA,All,Total,37
+2032,USA,All,Total,37
+2033,USA,All,Total,37
+2034,USA,All,Total,37
+2035,USA,All,Total,37
+2036,USA,All,Total,37
+2037,USA,All,Total,37
+2038,USA,All,Total,37
+2039,USA,All,Total,37
+2040,USA,All,Total,37
+2041,USA,All,Total,37
+2042,USA,All,Total,37
+2043,USA,All,Total,37
+2024,UZB,All,Total,1
+2025,UZB,All,Total,1
+2026,UZB,All,Total,1
+2027,UZB,All,Total,1
+2028,UZB,All,Total,1
+2029,UZB,All,Total,1
+2030,UZB,All,Total,1
+2031,UZB,All,Total,1
+2032,UZB,All,Total,1
+2033,UZB,All,Total,1
+2034,UZB,All,Total,1
+2035,UZB,All,Total,1
+2036,UZB,All,Total,1
+2037,UZB,All,Total,1
+2038,UZB,All,Total,1
+2039,UZB,All,Total,1
+2040,UZB,All,Total,1
+2041,UZB,All,Total,1
+2042,UZB,All,Total,1
+2043,UZB,All,Total,1
+2024,ZAF,All,Total,1
+2025,ZAF,All,Total,3
+2026,ZAF,All,Total,4
+2027,ZAF,All,Total,5
+2028,ZAF,All,Total,6
+2029,ZAF,All,Total,6
+2030,ZAF,All,Total,7
+2031,ZAF,All,Total,7
+2032,ZAF,All,Total,7
+2033,ZAF,All,Total,7
+2034,ZAF,All,Total,7
+2035,ZAF,All,Total,7
+2036,ZAF,All,Total,7
+2037,ZAF,All,Total,7
+2038,ZAF,All,Total,7
+2039,ZAF,All,Total,7
+2040,ZAF,All,Total,8
+2041,ZAF,All,Total,8
+2042,ZAF,All,Total,8
+2043,ZAF,All,Total,8
+2029,ZWE,All,Total,1
+2030,ZWE,All,Total,1
+2031,ZWE,All,Total,1
+2032,ZWE,All,Total,1
+2033,ZWE,All,Total,1
+2034,ZWE,All,Total,1
+2035,ZWE,All,Total,1
+2036,ZWE,All,Total,1
+2037,ZWE,All,Total,1
+2038,ZWE,All,Total,1
+2039,ZWE,All,Total,1
+2040,ZWE,All,Total,1
+2041,ZWE,All,Total,1
+2042,ZWE,All,Total,1
+2043,ZWE,All,Total,1
+2025,AGO,Technology,Hydropower,1
+2021,ARE,Technology,Solar PV,1
+2024,ARE,Technology,Solar PV,2
+2025,ARE,Technology,Solar PV,3
+2026,ARE,Technology,Solar PV,5
+2028,ARE,Technology,Solar PV,6
+2009,ARG,Technology,Onshore wind,1
+2030,ARG,Technology,Unknown,1
+2029,AUS,Technology,Hydropower,1
+2024,AUS,Technology,Onshore wind,1
+2027,AUS,Technology,Onshore wind,2
+2029,AUS,Technology,Onshore wind,3
+2020,AUS,Technology,Others/Various,2
+2021,AUS,Technology,Others/Various,4
+2024,AUS,Technology,Others/Various,5
+2025,AUS,Technology,Others/Various,11
+2026,AUS,Technology,Others/Various,13
+2027,AUS,Technology,Others/Various,16
+2028,AUS,Technology,Others/Various,23
+2029,AUS,Technology,Others/Various,24
+2030,AUS,Technology,Others/Various,26
+2031,AUS,Technology,Others/Various,27
+2032,AUS,Technology,Others/Various,28
+2036,AUS,Technology,Others/Various,29
+2022,AUS,Technology,Solar PV,1
+2023,AUS,Technology,Solar PV,2
+2024,AUS,Technology,Solar PV,16
+2025,AUS,Technology,Solar PV,18
+2027,AUS,Technology,Solar PV,21
+2028,AUS,Technology,Solar PV,24
+2024,AUS,Technology,Unknown,3
+2025,AUS,Technology,Unknown,5
+2026,AUS,Technology,Unknown,8
+2027,AUS,Technology,Unknown,9
+2028,AUS,Technology,Unknown,12
+2030,AUS,Technology,Unknown,13
+2023,AUT,Technology,Others/Various,3
+2025,AUT,Technology,Others/Various,4
+2017,AUT,Technology,Solar PV,1
+2018,AUT,Technology,Solar PV,2
+2022,AUT,Technology,Solar PV,3
+2023,AUT,Technology,Solar PV,4
+2026,AUT,Technology,Unknown,1
+2025,BEL,Technology,Offshore wind,3
+2015,BEL,Technology,Onshore wind,1
+2027,BEL,Technology,Others/Various,1
+2028,BEL,Technology,Others/Various,2
+2030,BEL,Technology,Others/Various,3
+2026,BEL,Technology,Unknown,2
+2025,BRA,Technology,Hydropower,1
+2025,BRA,Technology,Offshore wind,1
+2027,BRA,Technology,Offshore wind,2
+2024,BRA,Technology,Onshore wind,1
+2025,BRA,Technology,Onshore wind,2
+2027,BRA,Technology,Onshore wind,3
+2026,BRA,Technology,Others/Various,1
+2027,BRA,Technology,Others/Various,3
+2022,BRA,Technology,Solar PV,2
+2026,BRA,Technology,Solar PV,3
+2028,BRA,Technology,Solar PV,4
+2027,BRA,Technology,Unknown,1
+2026,BRB,Technology,Solar PV,1
+2020,CAN,Technology,Hydropower,1
+2024,CAN,Technology,Hydropower,2
+2025,CAN,Technology,Hydropower,3
+2029,CAN,Technology,Hydropower,4
+2026,CAN,Technology,Onshore wind,1
+2027,CAN,Technology,Onshore wind,3
+2028,CAN,Technology,Onshore wind,4
+2030,CAN,Technology,Onshore wind,7
+2026,CAN,Technology,Others/Various,1
+2028,CAN,Technology,Others/Various,3
+2024,CAN,Technology,Unknown,2
+2020,CHE,Technology,Hydropower,1
+2024,CHE,Technology,Hydropower,2
+2025,CHE,Technology,Hydropower,3
+2023,CHE,Technology,Solar PV,1
+2022,CHE,Technology,Unknown,1
+2022,CHL,Technology,Onshore wind,1
+2025,CHL,Technology,Onshore wind,2
+2026,CHL,Technology,Onshore wind,4
+2027,CHL,Technology,Onshore wind,7
+2028,CHL,Technology,Onshore wind,11
+2030,CHL,Technology,Onshore wind,13
+2032,CHL,Technology,Onshore wind,15
+2033,CHL,Technology,Onshore wind,16
+2017,CHL,Technology,Others/Various,1
+2025,CHL,Technology,Others/Various,3
+2021,CHL,Technology,Solar PV,1
+2022,CHL,Technology,Solar PV,2
+2023,CHL,Technology,Solar PV,4
+2024,CHL,Technology,Solar PV,6
+2025,CHL,Technology,Solar PV,9
+2027,CHL,Technology,Solar PV,11
+2030,CHL,Technology,Solar PV,12
+2024,CHL,Technology,Unknown,1
+2025,CHL,Technology,Unknown,2
+2027,CHL,Technology,Unknown,3
+2029,CHL,Technology,Unknown,4
+2031,CHL,Technology,Unknown,5
+2033,CHL,Technology,Unknown,6
+2027,CHN,Technology,Offshore wind,1
+2019,CHN,Technology,Onshore wind,1
+2020,CHN,Technology,Onshore wind,3
+2021,CHN,Technology,Onshore wind,4
+2022,CHN,Technology,Onshore wind,5
+2023,CHN,Technology,Onshore wind,8
+2024,CHN,Technology,Onshore wind,14
+2025,CHN,Technology,Onshore wind,16
+2026,CHN,Technology,Onshore wind,21
+2027,CHN,Technology,Onshore wind,22
+2030,CHN,Technology,Onshore wind,23
+2021,CHN,Technology,Others/Various,1
+2022,CHN,Technology,Others/Various,3
+2023,CHN,Technology,Others/Various,4
+2024,CHN,Technology,Others/Various,14
+2025,CHN,Technology,Others/Various,18
+2026,CHN,Technology,Others/Various,22
+2027,CHN,Technology,Others/Various,23
+2028,CHN,Technology,Others/Various,24
+2029,CHN,Technology,Others/Various,25
+2035,CHN,Technology,Others/Various,26
+2018,CHN,Technology,Solar PV,1
+2020,CHN,Technology,Solar PV,2
+2021,CHN,Technology,Solar PV,4
+2023,CHN,Technology,Solar PV,8
+2024,CHN,Technology,Solar PV,9
+2025,CHN,Technology,Solar PV,11
+2026,CHN,Technology,Solar PV,13
+2019,CHN,Technology,Unknown,1
+2023,CHN,Technology,Unknown,2
+2024,COL,Technology,Hydropower,2
+2027,COL,Technology,Hydropower,3
+2030,COL,Technology,Hydropower,4
+2027,COL,Technology,Offshore wind,1
+2030,COL,Technology,Others/Various,2
+2032,COL,Technology,Others/Various,3
+2022,COL,Technology,Solar PV,2
+2023,COL,Technology,Solar PV,3
+2026,COL,Technology,Solar PV,4
+2027,COL,Technology,Solar PV,8
+2022,COL,Technology,Unknown,1
+2027,COL,Technology,Unknown,3
+2017,CRI,Technology,Others/Various,1
+2025,CRI,Technology,Others/Various,2
+2028,CRI,Technology,Others/Various,3
+2029,CYP,Technology,Solar PV,1
+2024,CZE,Technology,Onshore wind,1
+2028,CZE,Technology,Onshore wind,2
+2030,CZE,Technology,Onshore wind,3
+2026,CZE,Technology,Others/Various,1
+2030,CZE,Technology,Others/Various,3
+2025,CZE,Technology,Unknown,1
+2020,DEU,Technology,Hydropower,2
+2025,DEU,Technology,Hydropower,3
+2026,DEU,Technology,Hydropower,4
+2024,DEU,Technology,Offshore wind,2
+2025,DEU,Technology,Offshore wind,4
+2026,DEU,Technology,Offshore wind,6
+2027,DEU,Technology,Offshore wind,10
+2028,DEU,Technology,Offshore wind,11
+2030,DEU,Technology,Offshore wind,12
+2035,DEU,Technology,Offshore wind,14
+2013,DEU,Technology,Onshore wind,1
+2014,DEU,Technology,Onshore wind,2
+2015,DEU,Technology,Onshore wind,4
+2017,DEU,Technology,Onshore wind,5
+2018,DEU,Technology,Onshore wind,6
+2019,DEU,Technology,Onshore wind,7
+2020,DEU,Technology,Onshore wind,9
+2021,DEU,Technology,Onshore wind,11
+2023,DEU,Technology,Onshore wind,12
+2024,DEU,Technology,Onshore wind,15
+2025,DEU,Technology,Onshore wind,18
+2026,DEU,Technology,Onshore wind,20
+2019,DEU,Technology,Others/Various,1
+2020,DEU,Technology,Others/Various,2
+2021,DEU,Technology,Others/Various,4
+2022,DEU,Technology,Others/Various,5
+2025,DEU,Technology,Others/Various,10
+2026,DEU,Technology,Others/Various,12
+2027,DEU,Technology,Others/Various,13
+2028,DEU,Technology,Others/Various,15
+2030,DEU,Technology,Others/Various,16
+2013,DEU,Technology,Solar PV,1
+2016,DEU,Technology,Solar PV,2
+2023,DEU,Technology,Solar PV,3
+2024,DEU,Technology,Solar PV,5
+2019,DEU,Technology,Unknown,1
+2023,DEU,Technology,Unknown,3
+2024,DEU,Technology,Unknown,6
+2025,DEU,Technology,Unknown,14
+2026,DEU,Technology,Unknown,18
+2027,DEU,Technology,Unknown,20
+2028,DEU,Technology,Unknown,22
+2030,DEU,Technology,Unknown,24
+2021,DNK,Technology,Offshore wind,1
+2022,DNK,Technology,Offshore wind,2
+2024,DNK,Technology,Offshore wind,3
+2025,DNK,Technology,Offshore wind,5
+2030,DNK,Technology,Offshore wind,6
+2020,DNK,Technology,Onshore wind,1
+2024,DNK,Technology,Others/Various,3
+2025,DNK,Technology,Others/Various,8
+2026,DNK,Technology,Others/Various,10
+2027,DNK,Technology,Others/Various,13
+2028,DNK,Technology,Others/Various,15
+2030,DNK,Technology,Others/Various,18
+2025,DNK,Technology,Solar PV,1
+2026,DNK,Technology,Unknown,1
+2028,DOM,Technology,Others/Various,1
+2000,EGY,Technology,Hydropower,1
+2022,EGY,Technology,Others/Various,1
+2026,EGY,Technology,Others/Various,3
+2027,EGY,Technology,Others/Various,4
+2028,EGY,Technology,Others/Various,5
+2029,EGY,Technology,Others/Various,6
+2030,EGY,Technology,Others/Various,7
+2032,EGY,Technology,Others/Various,8
+2025,EGY,Technology,Unknown,2
+2029,EGY,Technology,Unknown,4
+2026,ESP,Technology,Offshore wind,1
+2008,ESP,Technology,Onshore wind,1
+2025,ESP,Technology,Onshore wind,2
+2026,ESP,Technology,Onshore wind,3
+2027,ESP,Technology,Onshore wind,4
+2022,ESP,Technology,Others/Various,1
+2023,ESP,Technology,Others/Various,2
+2024,ESP,Technology,Others/Various,3
+2025,ESP,Technology,Others/Various,5
+2026,ESP,Technology,Others/Various,9
+2027,ESP,Technology,Others/Various,11
+2028,ESP,Technology,Others/Various,12
+2029,ESP,Technology,Others/Various,13
+2030,ESP,Technology,Others/Various,16
+2015,ESP,Technology,Solar PV,1
+2022,ESP,Technology,Solar PV,4
+2023,ESP,Technology,Solar PV,6
+2024,ESP,Technology,Solar PV,8
+2025,ESP,Technology,Solar PV,12
+2026,ESP,Technology,Solar PV,21
+2027,ESP,Technology,Solar PV,22
+2028,ESP,Technology,Solar PV,24
+2030,ESP,Technology,Solar PV,26
+2023,ESP,Technology,Unknown,1
+2024,ESP,Technology,Unknown,4
+2025,ESP,Technology,Unknown,8
+2026,ESP,Technology,Unknown,11
+2028,ESP,Technology,Unknown,15
+2029,ESP,Technology,Unknown,16
+2030,ESP,Technology,Unknown,19
+2031,ESP,Technology,Unknown,21
+2028,EST,Technology,Offshore wind,1
+2025,EST,Technology,Solar PV,1
+2010,EST,Technology,Unknown,1
+2025,EST,Technology,Unknown,2
+2030,FIN,Technology,Offshore wind,1
+2024,FIN,Technology,Onshore wind,1
+2025,FIN,Technology,Onshore wind,2
+2028,FIN,Technology,Onshore wind,3
+2030,FIN,Technology,Onshore wind,4
+2025,FIN,Technology,Others/Various,1
+2030,FIN,Technology,Others/Various,2
+2026,FIN,Technology,Solar PV,1
+2024,FIN,Technology,Unknown,1
+2026,FIN,Technology,Unknown,3
+2027,FIN,Technology,Unknown,4
+2023,FRA,Technology,Offshore wind,2
+2025,FRA,Technology,Onshore wind,1
+2024,FRA,Technology,Others/Various,1
+2025,FRA,Technology,Others/Various,2
+2026,FRA,Technology,Others/Various,3
+2027,FRA,Technology,Others/Various,4
+2028,FRA,Technology,Others/Various,5
+2030,FRA,Technology,Others/Various,6
+2021,FRA,Technology,Solar PV,1
+2024,FRA,Technology,Solar PV,2
+2025,FRA,Technology,Solar PV,5
+2026,FRA,Technology,Solar PV,6
+2027,FRA,Technology,Solar PV,7
+2028,FRA,Technology,Solar PV,9
+2030,FRA,Technology,Solar PV,11
+2021,FRA,Technology,Unknown,1
+2022,FRA,Technology,Unknown,2
+2023,FRA,Technology,Unknown,4
+2024,FRA,Technology,Unknown,5
+2025,FRA,Technology,Unknown,6
+2027,FRA,Technology,Unknown,7
+2028,FRA,Technology,Unknown,8
+2025,GBR,Technology,Offshore wind,3
+2026,GBR,Technology,Offshore wind,4
+2027,GBR,Technology,Offshore wind,6
+2028,GBR,Technology,Offshore wind,7
+2030,GBR,Technology,Offshore wind,12
+2032,GBR,Technology,Offshore wind,13
+2034,GBR,Technology,Offshore wind,14
+2035,GBR,Technology,Offshore wind,15
+2016,GBR,Technology,Onshore wind,1
+2017,GBR,Technology,Onshore wind,2
+2019,GBR,Technology,Onshore wind,3
+2024,GBR,Technology,Onshore wind,5
+2025,GBR,Technology,Onshore wind,6
+2026,GBR,Technology,Onshore wind,7
+2028,GBR,Technology,Onshore wind,9
+2030,GBR,Technology,Onshore wind,10
+2021,GBR,Technology,Others/Various,1
+2024,GBR,Technology,Others/Various,2
+2025,GBR,Technology,Others/Various,4
+2026,GBR,Technology,Others/Various,6
+2028,GBR,Technology,Others/Various,8
+2030,GBR,Technology,Others/Various,9
+2032,GBR,Technology,Others/Various,10
+2023,GBR,Technology,Solar PV,1
+2026,GBR,Technology,Solar PV,2
+2024,GBR,Technology,Unknown,4
+2025,GBR,Technology,Unknown,10
+2026,GBR,Technology,Unknown,18
+2027,GBR,Technology,Unknown,19
+2028,GBR,Technology,Unknown,20
+2029,GBR,Technology,Unknown,21
+2030,GBR,Technology,Unknown,25
+2021,GRC,Technology,Hydropower,1
+2025,GRC,Technology,Solar PV,2
+2022,GRC,Technology,Unknown,1
+2027,GRC,Technology,Unknown,2
+2028,GRC,Technology,Unknown,3
+2023,HUN,Technology,Others/Various,1
+2030,HUN,Technology,Others/Various,2
+2024,HUN,Technology,Solar PV,1
+2023,IDN,Technology,Others/Various,1
+2024,IDN,Technology,Others/Various,2
+2027,IDN,Technology,Others/Various,3
+2030,IDN,Technology,Others/Various,5
+2025,IDN,Technology,Solar PV,1
+2026,IDN,Technology,Solar PV,2
+2030,IDN,Technology,Solar PV,3
+2026,IDN,Technology,Unknown,1
+2027,IDN,Technology,Unknown,2
+2030,IND,Technology,Others/Various,1
+2015,IND,Technology,Solar PV,2
+2021,IND,Technology,Solar PV,3
+2022,IND,Technology,Solar PV,4
+2024,IND,Technology,Solar PV,7
+2025,IND,Technology,Solar PV,8
+2026,IND,Technology,Solar PV,9
+2028,IND,Technology,Solar PV,11
+2030,IND,Technology,Solar PV,12
+2033,IND,Technology,Solar PV,13
+2015,IND,Technology,Unknown,1
+2022,IND,Technology,Unknown,2
+2024,IND,Technology,Unknown,6
+2025,IND,Technology,Unknown,13
+2026,IND,Technology,Unknown,17
+2027,IND,Technology,Unknown,33
+2028,IND,Technology,Unknown,34
+2030,IND,Technology,Unknown,40
+2032,IND,Technology,Unknown,41
+2040,IND,Technology,Unknown,42
+2026,IRL,Technology,Offshore wind,1
+2030,IRL,Technology,Offshore wind,4
+2025,IRL,Technology,Onshore wind,1
+2027,IRL,Technology,Onshore wind,2
+2026,IRL,Technology,Unknown,1
+2012,ISL,Technology,Others/Various,1
+2026,ISL,Technology,Others/Various,3
+2028,ISL,Technology,Others/Various,4
+2026,ITA,Technology,Offshore wind,1
+2027,ITA,Technology,Offshore wind,2
+2026,ITA,Technology,Onshore wind,1
+2025,ITA,Technology,Others/Various,1
+2026,ITA,Technology,Others/Various,2
+2029,ITA,Technology,Others/Various,3
+2030,ITA,Technology,Others/Various,5
+2026,ITA,Technology,Solar PV,5
+2027,ITA,Technology,Solar PV,6
+2026,ITA,Technology,Unknown,5
+2029,ITA,Technology,Unknown,6
+2030,ITA,Technology,Unknown,7
+2028,JOR,Technology,Solar PV,1
+2025,JPN,Technology,Offshore wind,1
+2020,JPN,Technology,Others/Various,1
+2015,JPN,Technology,Solar PV,1
+2020,JPN,Technology,Solar PV,2
+2025,JPN,Technology,Solar PV,3
+2019,JPN,Technology,Unknown,1
+2024,JPN,Technology,Unknown,2
+2032,KAZ,Technology,Others/Various,1
+2030,KEN,Technology,Solar PV,1
+2025,KEN,Technology,Unknown,1
+2025,KOR,Technology,Offshore wind,1
+2027,KOR,Technology,Offshore wind,2
+2030,KOR,Technology,Offshore wind,3
+2023,KOR,Technology,Solar PV,1
+2025,KOR,Technology,Solar PV,2
+2030,LVA,Technology,Onshore wind,1
+2025,MAR,Technology,Others/Various,1
+2027,MAR,Technology,Others/Various,2
+2028,MAR,Technology,Others/Various,3
+2030,MAR,Technology,Others/Various,4
+2025,MAR,Technology,Solar PV,1
+2026,MAR,Technology,Solar PV,2
+2030,MAR,Technology,Solar PV,3
+2028,MAR,Technology,Unknown,1
+2030,MAR,Technology,Unknown,2
+2032,MAR,Technology,Unknown,3
+2028,MEX,Technology,Others/Various,2
+2025,MEX,Technology,Solar PV,1
+2026,MEX,Technology,Solar PV,3
+2028,MEX,Technology,Solar PV,4
+2030,MEX,Technology,Solar PV,5
+2028,MRT,Technology,Others/Various,1
+2029,MRT,Technology,Others/Various,2
+2031,MRT,Technology,Others/Various,3
+2033,MRT,Technology,Others/Various,4
+2037,MRT,Technology,Others/Various,5
+2028,MRT,Technology,Unknown,1
+2029,MRT,Technology,Unknown,2
+2028,MYS,Technology,Hydropower,1
+2026,MYS,Technology,Solar PV,1
+2027,MYS,Technology,Unknown,1
+2026,NAM,Technology,Others/Various,1
+2027,NAM,Technology,Others/Various,2
+2032,NAM,Technology,Others/Various,4
+2024,NAM,Technology,Solar PV,4
+2027,NAM,Technology,Solar PV,5
+2027,NAM,Technology,Unknown,2
+2029,NAM,Technology,Unknown,3
+2025,NLD,Technology,Offshore wind,3
+2026,NLD,Technology,Offshore wind,8
+2027,NLD,Technology,Offshore wind,14
+2028,NLD,Technology,Offshore wind,18
+2029,NLD,Technology,Offshore wind,19
+2030,NLD,Technology,Offshore wind,26
+2031,NLD,Technology,Offshore wind,27
+2032,NLD,Technology,Offshore wind,28
+2033,NLD,Technology,Offshore wind,29
+2040,NLD,Technology,Offshore wind,30
+2043,NLD,Technology,Offshore wind,31
+2025,NLD,Technology,Onshore wind,2
+2026,NLD,Technology,Onshore wind,3
+2027,NLD,Technology,Onshore wind,4
+2028,NLD,Technology,Onshore wind,5
+2030,NLD,Technology,Onshore wind,7
+2025,NLD,Technology,Others/Various,2
+2026,NLD,Technology,Others/Various,4
+2027,NLD,Technology,Others/Various,5
+2028,NLD,Technology,Others/Various,7
+2029,NLD,Technology,Others/Various,8
+2030,NLD,Technology,Others/Various,9
+2021,NLD,Technology,Solar PV,1
+2022,NLD,Technology,Solar PV,3
+2024,NLD,Technology,Solar PV,5
+2025,NLD,Technology,Solar PV,6
+2030,NLD,Technology,Solar PV,7
+2023,NLD,Technology,Unknown,3
+2026,NLD,Technology,Unknown,5
+2027,NLD,Technology,Unknown,7
+2024,NOR,Technology,Hydropower,1
+2025,NOR,Technology,Hydropower,2
+2027,NOR,Technology,Hydropower,3
+2024,NOR,Technology,Offshore wind,1
+2029,NOR,Technology,Offshore wind,2
+2021,NOR,Technology,Onshore wind,1
+2020,NOR,Technology,Others/Various,1
+2026,NOR,Technology,Others/Various,3
+2028,NOR,Technology,Others/Various,7
+2029,NOR,Technology,Others/Various,8
+2032,NOR,Technology,Others/Various,9
+2017,NOR,Technology,Solar PV,1
+2022,NOR,Technology,Unknown,1
+2023,NOR,Technology,Unknown,2
+2025,NOR,Technology,Unknown,5
+2026,NOR,Technology,Unknown,6
+2027,NOR,Technology,Unknown,11
+2028,NOR,Technology,Unknown,13
+2030,NOR,Technology,Unknown,14
+2021,NZL,Technology,Others/Various,1
+2025,NZL,Technology,Others/Various,2
+2025,NZL,Technology,Unknown,1
+2027,NZL,Technology,Unknown,2
+2024,OMN,Technology,Others/Various,1
+2030,OMN,Technology,Others/Various,6
+2038,OMN,Technology,Others/Various,7
+2027,OMN,Technology,Solar PV,1
+2026,OMN,Technology,Unknown,1
+2030,OMN,Technology,Unknown,3
+2027,PAN,Technology,Unknown,1
+1965,PER,Technology,Hydropower,1
+2023,PER,Technology,Solar PV,1
+2027,PER,Technology,Unknown,1
+2030,PER,Technology,Unknown,2
+2032,PER,Technology,Unknown,3
+2028,POL,Technology,Offshore wind,1
+2030,POL,Technology,Offshore wind,3
+2030,POL,Technology,Onshore wind,1
+2024,POL,Technology,Others/Various,1
+2026,POL,Technology,Others/Various,2
+2027,POL,Technology,Others/Various,3
+2030,POL,Technology,Others/Various,5
+2025,POL,Technology,Solar PV,1
+2025,PRT,Technology,Offshore wind,1
+2027,PRT,Technology,Others/Various,1
+2022,PRT,Technology,Solar PV,1
+2023,PRT,Technology,Solar PV,2
+2024,PRT,Technology,Solar PV,3
+2025,PRT,Technology,Solar PV,9
+2026,PRT,Technology,Solar PV,10
+2027,PRT,Technology,Solar PV,12
+2028,PRT,Technology,Solar PV,13
+2030,PRT,Technology,Solar PV,15
+2026,PRT,Technology,Unknown,2
+2027,PRT,Technology,Unknown,3
+2029,PRT,Technology,Unknown,4
+2030,PRT,Technology,Unknown,5
+2035,PRT,Technology,Unknown,6
+2040,PRT,Technology,Unknown,7
+2026,PRY,Technology,Hydropower,2
+2027,PRY,Technology,Others/Various,1
+2026,ROU,Technology,Solar PV,1
+2028,ROU,Technology,Unknown,1
+2026,SAU,Technology,Others/Various,1
+2026,SGP,Technology,Unknown,1
+2028,SRB,Technology,Others/Various,1
+2030,SVK,Technology,Onshore wind,1
+2025,SVK,Technology,Others/Various,1
+2030,SVK,Technology,Others/Various,2
+2025,SVK,Technology,Unknown,2
+2035,SVK,Technology,Unknown,3
+2021,SVN,Technology,Solar PV,1
+2026,SVN,Technology,Unknown,1
+2025,SWE,Technology,Hydropower,1
+2030,SWE,Technology,Hydropower,2
+2024,SWE,Technology,Offshore wind,1
+2030,SWE,Technology,Offshore wind,2
+2025,SWE,Technology,Onshore wind,1
+2027,SWE,Technology,Onshore wind,2
+2025,SWE,Technology,Others/Various,1
+2026,SWE,Technology,Others/Various,3
+2027,SWE,Technology,Others/Various,4
+2019,SWE,Technology,Solar PV,1
+2024,SWE,Technology,Unknown,1
+2025,SWE,Technology,Unknown,2
+2027,SWE,Technology,Unknown,3
+2028,SWE,Technology,Unknown,4
+2030,TUN,Technology,Others/Various,1
+2035,TUN,Technology,Others/Various,2
+2030,TUN,Technology,Unknown,1
+2026,URY,Technology,Others/Various,1
+2030,URY,Technology,Others/Various,2
+2025,USA,Technology,Hydropower,2
+2027,USA,Technology,Hydropower,3
+2007,USA,Technology,Onshore wind,1
+2025,USA,Technology,Onshore wind,2
+2026,USA,Technology,Onshore wind,3
+2020,USA,Technology,Others/Various,1
+2024,USA,Technology,Others/Various,2
+2025,USA,Technology,Others/Various,4
+2026,USA,Technology,Others/Various,6
+2027,USA,Technology,Others/Various,8
+2028,USA,Technology,Others/Various,10
+2030,USA,Technology,Others/Various,11
+2023,USA,Technology,Solar PV,2
+2024,USA,Technology,Solar PV,3
+2025,USA,Technology,Solar PV,4
+2026,USA,Technology,Solar PV,5
+2021,USA,Technology,Unknown,1
+2022,USA,Technology,Unknown,3
+2023,USA,Technology,Unknown,4
+2024,USA,Technology,Unknown,7
+2025,USA,Technology,Unknown,10
+2026,USA,Technology,Unknown,13
+2027,USA,Technology,Unknown,15
+2024,UZB,Technology,Onshore wind,1
+2024,ZAF,Technology,Others/Various,1
+2025,ZAF,Technology,Others/Various,2
+2027,ZAF,Technology,Others/Various,3
+2030,ZAF,Technology,Others/Various,4
+2040,ZAF,Technology,Others/Various,5
+2025,ZAF,Technology,Solar PV,1
+2026,ZAF,Technology,Solar PV,2
+2028,ZAF,Technology,Solar PV,3
+2029,ZWE,Technology,Solar PV,1
+2025,AGO,Status,Feasibility study,1
+2021,ARE,Status,Operational,1
+2024,ARE,Status,Feasibility study,1
+2025,ARE,Status,Concept,1
+2026,ARE,Status,Concept,1
+2026,ARE,Status,Feasibility study,1
+2028,ARE,Status,Concept,1
+2009,ARG,Status,Operational,1
+2030,ARG,Status,Feasibility study,1
+2020,AUS,Status,DEMO,2
+2021,AUS,Status,Operational,2
+2022,AUS,Status,Operational,1
+2023,AUS,Status,DEMO,1
+2024,AUS,Status,Feasibility study,9
+2024,AUS,Status,FID/Construction,9
+2024,AUS,Status,Operational,1
+2025,AUS,Status,Feasibility study,6
+2025,AUS,Status,FID/Construction,4
+2026,AUS,Status,Feasibility study,4
+2026,AUS,Status,FID/Construction,1
+2027,AUS,Status,Concept,3
+2027,AUS,Status,Feasibility study,5
+2028,AUS,Status,Concept,5
+2028,AUS,Status,Feasibility study,7
+2028,AUS,Status,FID/Construction,1
+2029,AUS,Status,Concept,2
+2029,AUS,Status,Feasibility study,1
+2030,AUS,Status,Concept,1
+2030,AUS,Status,Feasibility study,2
+2031,AUS,Status,Feasibility study,1
+2032,AUS,Status,Concept,1
+2036,AUS,Status,Feasibility study,1
+2017,AUT,Status,Operational,1
+2018,AUT,Status,Operational,1
+2022,AUT,Status,Operational,1
+2023,AUT,Status,DEMO,1
+2023,AUT,Status,Operational,3
+2025,AUT,Status,FID/Construction,1
+2026,AUT,Status,Feasibility study,1
+2015,BEL,Status,Operational,1
+2025,BEL,Status,Feasibility study,3
+2026,BEL,Status,DEMO,1
+2026,BEL,Status,FID/Construction,1
+2027,BEL,Status,Feasibility study,1
+2028,BEL,Status,Concept,1
+2030,BEL,Status,Feasibility study,1
+2022,BRA,Status,Operational,2
+2024,BRA,Status,FID/Construction,1
+2025,BRA,Status,Feasibility study,3
+2026,BRA,Status,Concept,1
+2026,BRA,Status,Feasibility study,1
+2027,BRA,Status,Concept,3
+2027,BRA,Status,Feasibility study,2
+2028,BRA,Status,Concept,1
+2026,BRB,Status,Feasibility study,1
+2020,CAN,Status,Operational,1
+2024,CAN,Status,DEMO,1
+2024,CAN,Status,FID/Construction,2
+2025,CAN,Status,FID/Construction,1
+2026,CAN,Status,Feasibility study,1
+2026,CAN,Status,FID/Construction,1
+2027,CAN,Status,Feasibility study,2
+2028,CAN,Status,Feasibility study,3
+2029,CAN,Status,Feasibility study,1
+2030,CAN,Status,Concept,2
+2030,CAN,Status,Feasibility study,1
+2020,CHE,Status,Operational,1
+2022,CHE,Status,Operational,1
+2023,CHE,Status,Operational,1
+2024,CHE,Status,Operational,1
+2025,CHE,Status,Feasibility study,1
+2017,CHL,Status,Operational,1
+2021,CHL,Status,Operational,1
+2022,CHL,Status,Operational,2
+2023,CHL,Status,Operational,2
+2024,CHL,Status,DEMO,1
+2024,CHL,Status,Feasibility study,2
+2025,CHL,Status,Concept,2
+2025,CHL,Status,Feasibility study,4
+2025,CHL,Status,FID/Construction,1
+2026,CHL,Status,Concept,1
+2026,CHL,Status,Feasibility study,1
+2027,CHL,Status,Concept,4
+2027,CHL,Status,Feasibility study,2
+2028,CHL,Status,Feasibility study,4
+2029,CHL,Status,Concept,1
+2030,CHL,Status,Concept,2
+2030,CHL,Status,Feasibility study,1
+2031,CHL,Status,Concept,1
+2032,CHL,Status,Concept,2
+2033,CHL,Status,Concept,2
+2018,CHN,Status,Operational,1
+2019,CHN,Status,Operational,2
+2020,CHN,Status,DEMO,1
+2020,CHN,Status,Operational,2
+2021,CHN,Status,Operational,4
+2022,CHN,Status,Operational,3
+2023,CHN,Status,DEMO,1
+2023,CHN,Status,FID/Construction,1
+2023,CHN,Status,Operational,7
+2024,CHN,Status,DEMO,1
+2024,CHN,Status,FID/Construction,16
+2025,CHN,Status,Feasibility study,1
+2025,CHN,Status,FID/Construction,7
+2026,CHN,Status,Concept,2
+2026,CHN,Status,Feasibility study,4
+2026,CHN,Status,FID/Construction,5
+2027,CHN,Status,Feasibility study,1
+2027,CHN,Status,FID/Construction,2
+2028,CHN,Status,Feasibility study,1
+2029,CHN,Status,Feasibility study,1
+2030,CHN,Status,Concept,1
+2035,CHN,Status,Concept,1
+2022,COL,Status,Operational,3
+2023,COL,Status,Operational,1
+2024,COL,Status,FID/Construction,2
+2026,COL,Status,Concept,1
+2027,COL,Status,Concept,3
+2027,COL,Status,Feasibility study,5
+2030,COL,Status,Feasibility study,2
+2030,COL,Status,FID/Construction,1
+2032,COL,Status,Feasibility study,1
+2017,CRI,Status,Operational,1
+2025,CRI,Status,Feasibility study,1
+2028,CRI,Status,Concept,1
+2029,CYP,Status,Feasibility study,1
+2024,CZE,Status,FID/Construction,1
+2025,CZE,Status,Feasibility study,1
+2026,CZE,Status,Feasibility study,1
+2028,CZE,Status,FID/Construction,1
+2030,CZE,Status,Feasibility study,2
+2013,DEU,Status,Operational,2
+2014,DEU,Status,Operational,1
+2015,DEU,Status,DEMO,1
+2015,DEU,Status,Operational,1
+2016,DEU,Status,DEMO,1
+2017,DEU,Status,Operational,1
+2018,DEU,Status,Operational,1
+2019,DEU,Status,Operational,3
+2020,DEU,Status,Operational,5
+2021,DEU,Status,DEMO,1
+2021,DEU,Status,Operational,3
+2022,DEU,Status,Operational,1
+2023,DEU,Status,DEMO,1
+2023,DEU,Status,Operational,3
+2024,DEU,Status,Feasibility study,2
+2024,DEU,Status,FID/Construction,4
+2024,DEU,Status,Operational,4
+2025,DEU,Status,Concept,1
+2025,DEU,Status,Feasibility study,10
+2025,DEU,Status,FID/Construction,8
+2026,DEU,Status,Concept,2
+2026,DEU,Status,Feasibility study,5
+2026,DEU,Status,FID/Construction,4
+2027,DEU,Status,Feasibility study,5
+2027,DEU,Status,FID/Construction,2
+2028,DEU,Status,Concept,1
+2028,DEU,Status,Feasibility study,4
+2030,DEU,Status,Concept,2
+2030,DEU,Status,Feasibility study,2
+2035,DEU,Status,Concept,1
+2035,DEU,Status,Feasibility study,1
+2020,DNK,Status,Operational,1
+2021,DNK,Status,DEMO,1
+2022,DNK,Status,Operational,1
+2024,DNK,Status,FID/Construction,2
+2024,DNK,Status,Operational,2
+2025,DNK,Status,Concept,1
+2025,DNK,Status,Feasibility study,3
+2025,DNK,Status,FID/Construction,4
+2026,DNK,Status,Concept,2
+2026,DNK,Status,Feasibility study,1
+2027,DNK,Status,Concept,1
+2027,DNK,Status,Feasibility study,2
+2028,DNK,Status,Feasibility study,2
+2030,DNK,Status,Concept,1
+2030,DNK,Status,Feasibility study,3
+2028,DOM,Status,Concept,1
+2000,EGY,Status,Decommisioned,1
+2022,EGY,Status,Operational,1
+2025,EGY,Status,Concept,2
+2026,EGY,Status,Feasibility study,2
+2027,EGY,Status,Concept,1
+2028,EGY,Status,Feasibility study,1
+2029,EGY,Status,Concept,3
+2030,EGY,Status,Feasibility study,1
+2032,EGY,Status,Concept,1
+2008,ESP,Status,DEMO,1
+2015,ESP,Status,Operational,1
+2022,ESP,Status,Operational,4
+2023,ESP,Status,Operational,4
+2024,ESP,Status,Feasibility study,1
+2024,ESP,Status,FID/Construction,5
+2025,ESP,Status,Concept,1
+2025,ESP,Status,Feasibility study,7
+2025,ESP,Status,FID/Construction,3
+2026,ESP,Status,Concept,1
+2026,ESP,Status,Feasibility study,17
+2027,ESP,Status,Feasibility study,3
+2027,ESP,Status,FID/Construction,1
+2028,ESP,Status,Concept,2
+2028,ESP,Status,Feasibility study,5
+2029,ESP,Status,Feasibility study,2
+2030,ESP,Status,Concept,6
+2030,ESP,Status,Feasibility study,1
+2031,ESP,Status,Concept,2
+2010,EST,Status,Operational,1
+2025,EST,Status,Concept,1
+2025,EST,Status,Feasibility study,1
+2028,EST,Status,Feasibility study,1
+2024,FIN,Status,DEMO,1
+2024,FIN,Status,FID/Construction,1
+2025,FIN,Status,Feasibility study,1
+2025,FIN,Status,FID/Construction,1
+2026,FIN,Status,Feasibility study,2
+2026,FIN,Status,FID/Construction,1
+2027,FIN,Status,Feasibility study,1
+2028,FIN,Status,Concept,1
+2030,FIN,Status,Concept,1
+2030,FIN,Status,Feasibility study,2
+2021,FRA,Status,Operational,2
+2022,FRA,Status,Operational,1
+2023,FRA,Status,DEMO,2
+2023,FRA,Status,Operational,2
+2024,FRA,Status,Feasibility study,1
+2024,FRA,Status,Operational,2
+2025,FRA,Status,Concept,2
+2025,FRA,Status,Feasibility study,2
+2025,FRA,Status,FID/Construction,2
+2026,FRA,Status,Concept,1
+2026,FRA,Status,FID/Construction,1
+2027,FRA,Status,Feasibility study,2
+2028,FRA,Status,Concept,1
+2028,FRA,Status,Feasibility study,3
+2030,FRA,Status,Concept,1
+2030,FRA,Status,Feasibility study,1
+2016,GBR,Status,Operational,1
+2017,GBR,Status,Operational,1
+2019,GBR,Status,Operational,1
+2021,GBR,Status,Operational,1
+2023,GBR,Status,Operational,1
+2024,GBR,Status,FID/Construction,5
+2024,GBR,Status,Operational,1
+2024,GBR,Status,Other/Unknown,1
+2025,GBR,Status,DEMO,1
+2025,GBR,Status,Feasibility study,2
+2025,GBR,Status,FID/Construction,8
+2025,GBR,Status,Other/Unknown,1
+2026,GBR,Status,Concept,1
+2026,GBR,Status,Feasibility study,5
+2026,GBR,Status,FID/Construction,7
+2027,GBR,Status,Concept,1
+2027,GBR,Status,Feasibility study,1
+2027,GBR,Status,FID/Construction,1
+2028,GBR,Status,Concept,1
+2028,GBR,Status,Feasibility study,3
+2028,GBR,Status,FID/Construction,2
+2029,GBR,Status,Feasibility study,1
+2030,GBR,Status,Concept,8
+2030,GBR,Status,Feasibility study,2
+2030,GBR,Status,Other/Unknown,1
+2032,GBR,Status,Concept,2
+2034,GBR,Status,Concept,1
+2035,GBR,Status,Feasibility study,1
+2021,GRC,Status,Operational,1
+2022,GRC,Status,Operational,1
+2025,GRC,Status,Concept,1
+2025,GRC,Status,Feasibility study,1
+2027,GRC,Status,Feasibility study,1
+2028,GRC,Status,Concept,1
+2023,HUN,Status,Operational,1
+2024,HUN,Status,FID/Construction,1
+2023,IDN,Status,Operational,1
+2024,IDN,Status,FID/Construction,1
+2025,IDN,Status,Feasibility study,1
+2026,IDN,Status,Feasibility study,2
+2027,IDN,Status,Concept,1
+2027,IDN,Status,Feasibility study,1
+2030,IDN,Status,Concept,3
+2015,IND,Status,Operational,3
+2021,IND,Status,Operational,1
+2022,IND,Status,DEMO,1
+2022,IND,Status,Operational,1
+2024,IND,Status,Feasibility study,2
+2024,IND,Status,FID/Construction,1
+2024,IND,Status,Operational,4
+2025,IND,Status,Concept,3
+2025,IND,Status,Feasibility study,4
+2025,IND,Status,FID/Construction,1
+2026,IND,Status,Concept,3
+2026,IND,Status,Feasibility study,2
+2027,IND,Status,Concept,5
+2027,IND,Status,Feasibility study,11
+2028,IND,Status,Concept,1
+2028,IND,Status,Feasibility study,2
+2030,IND,Status,Concept,5
+2030,IND,Status,Feasibility study,3
+2032,IND,Status,Feasibility study,1
+2033,IND,Status,Concept,1
+2040,IND,Status,Feasibility study,1
+2025,IRL,Status,FID/Construction,1
+2026,IRL,Status,Feasibility study,2
+2027,IRL,Status,FID/Construction,1
+2030,IRL,Status,Concept,3
+2012,ISL,Status,Operational,1
+2026,ISL,Status,Feasibility study,2
+2028,ISL,Status,Concept,1
+2025,ITA,Status,Feasibility study,1
+2026,ITA,Status,Concept,2
+2026,ITA,Status,Feasibility study,8
+2026,ITA,Status,FID/Construction,3
+2027,ITA,Status,Concept,1
+2027,ITA,Status,Feasibility study,1
+2029,ITA,Status,Feasibility study,2
+2030,ITA,Status,Concept,1
+2030,ITA,Status,Feasibility study,2
+2028,JOR,Status,Feasibility study,1
+2015,JPN,Status,DEMO,1
+2019,JPN,Status,Operational,1
+2020,JPN,Status,DEMO,1
+2020,JPN,Status,Operational,1
+2024,JPN,Status,DEMO,1
+2025,JPN,Status,Feasibility study,2
+2032,KAZ,Status,Feasibility study,1
+2025,KEN,Status,Feasibility study,1
+2030,KEN,Status,Feasibility study,1
+2023,KOR,Status,DEMO,1
+2025,KOR,Status,Concept,1
+2025,KOR,Status,FID/Construction,1
+2027,KOR,Status,Feasibility study,1
+2030,KOR,Status,Concept,1
+2030,LVA,Status,Concept,1
+2025,MAR,Status,Concept,1
+2025,MAR,Status,Feasibility study,1
+2026,MAR,Status,Feasibility study,1
+2027,MAR,Status,Concept,1
+2028,MAR,Status,Concept,1
+2028,MAR,Status,Feasibility study,1
+2030,MAR,Status,Concept,2
+2030,MAR,Status,Feasibility study,1
+2032,MAR,Status,Concept,1
+2025,MEX,Status,Feasibility study,1
+2026,MEX,Status,Feasibility study,2
+2028,MEX,Status,Concept,3
+2030,MEX,Status,Concept,1
+2028,MRT,Status,Concept,2
+2029,MRT,Status,Feasibility study,2
+2031,MRT,Status,Feasibility study,1
+2033,MRT,Status,Concept,1
+2037,MRT,Status,Feasibility study,1
+2026,MYS,Status,FID/Construction,1
+2027,MYS,Status,Concept,1
+2028,MYS,Status,Feasibility study,1
+2024,NAM,Status,FID/Construction,3
+2024,NAM,Status,Operational,1
+2026,NAM,Status,Feasibility study,1
+2027,NAM,Status,Feasibility study,4
+2029,NAM,Status,Feasibility study,1
+2032,NAM,Status,Concept,1
+2032,NAM,Status,Feasibility study,1
+2021,NLD,Status,Operational,1
+2022,NLD,Status,Operational,2
+2023,NLD,Status,DEMO,1
+2023,NLD,Status,Operational,2
+2024,NLD,Status,FID/Construction,1
+2024,NLD,Status,Operational,1
+2025,NLD,Status,Feasibility study,5
+2025,NLD,Status,FID/Construction,3
+2026,NLD,Status,DEMO,1
+2026,NLD,Status,Feasibility study,9
+2027,NLD,Status,Concept,3
+2027,NLD,Status,Feasibility study,7
+2028,NLD,Status,Concept,2
+2028,NLD,Status,Feasibility study,5
+2029,NLD,Status,Concept,2
+2030,NLD,Status,Concept,4
+2030,NLD,Status,Feasibility study,7
+2031,NLD,Status,Concept,1
+2032,NLD,Status,Concept,1
+2033,NLD,Status,Concept,1
+2040,NLD,Status,Concept,1
+2043,NLD,Status,Concept,1
+2017,NOR,Status,Operational,1
+2020,NOR,Status,Decommisioned,1
+2021,NOR,Status,Operational,1
+2022,NOR,Status,Operational,1
+2023,NOR,Status,Operational,1
+2024,NOR,Status,FID/Construction,2
+2025,NOR,Status,DEMO,1
+2025,NOR,Status,Feasibility study,2
+2025,NOR,Status,FID/Construction,1
+2026,NOR,Status,Feasibility study,3
+2027,NOR,Status,Concept,1
+2027,NOR,Status,Feasibility study,5
+2028,NOR,Status,Feasibility study,4
+2028,NOR,Status,FID/Construction,2
+2029,NOR,Status,Concept,1
+2029,NOR,Status,Feasibility study,1
+2030,NOR,Status,FID/Construction,1
+2032,NOR,Status,Concept,1
+2021,NZL,Status,Operational,1
+2025,NZL,Status,Feasibility study,1
+2025,NZL,Status,FID/Construction,1
+2027,NZL,Status,Feasibility study,1
+2024,OMN,Status,Feasibility study,1
+2026,OMN,Status,Concept,1
+2027,OMN,Status,FID/Construction,1
+2030,OMN,Status,Concept,1
+2030,OMN,Status,Feasibility study,6
+2038,OMN,Status,Feasibility study,1
+2027,PAN,Status,Feasibility study,1
+2023,PER,Status,Operational,1
+2027,PER,Status,Concept,1
+2030,PER,Status,Feasibility study,1
+2032,PER,Status,Concept,1
+2024,POL,Status,FID/Construction,1
+2025,POL,Status,Feasibility study,1
+2026,POL,Status,FID/Construction,1
+2027,POL,Status,Feasibility study,1
+2028,POL,Status,Feasibility study,1
+2030,POL,Status,Concept,1
+2030,POL,Status,Feasibility study,3
+2022,PRT,Status,DEMO,1
+2023,PRT,Status,Operational,1
+2024,PRT,Status,FID/Construction,1
+2025,PRT,Status,Feasibility study,5
+2025,PRT,Status,FID/Construction,2
+2026,PRT,Status,Feasibility study,3
+2027,PRT,Status,Concept,1
+2027,PRT,Status,Feasibility study,3
+2028,PRT,Status,Concept,1
+2029,PRT,Status,Feasibility study,1
+2030,PRT,Status,Concept,2
+2030,PRT,Status,Feasibility study,1
+2035,PRT,Status,Concept,1
+2040,PRT,Status,Concept,1
+2026,PRY,Status,Feasibility study,2
+2027,PRY,Status,Feasibility study,1
+2026,ROU,Status,Feasibility study,1
+2028,ROU,Status,FID/Construction,1
+2026,SAU,Status,FID/Construction,1
+2026,SGP,Status,Feasibility study,1
+2028,SRB,Status,Feasibility study,1
+2025,SVK,Status,Feasibility study,3
+2030,SVK,Status,Feasibility study,1
+2035,SVK,Status,Concept,1
+2021,SVN,Status,Operational,1
+2026,SVN,Status,FID/Construction,1
+2019,SWE,Status,Operational,1
+2024,SWE,Status,DEMO,1
+2024,SWE,Status,Feasibility study,1
+2025,SWE,Status,Concept,1
+2025,SWE,Status,Feasibility study,1
+2025,SWE,Status,FID/Construction,2
+2026,SWE,Status,Feasibility study,2
+2027,SWE,Status,Concept,2
+2027,SWE,Status,Feasibility study,1
+2028,SWE,Status,Feasibility study,1
+2030,SWE,Status,Concept,2
+2030,TUN,Status,Concept,1
+2030,TUN,Status,Feasibility study,1
+2035,TUN,Status,Concept,1
+2026,URY,Status,Feasibility study,1
+2030,URY,Status,Feasibility study,1
+2007,USA,Status,DEMO,1
+2020,USA,Status,DEMO,1
+2021,USA,Status,DEMO,1
+2022,USA,Status,DEMO,2
+2023,USA,Status,Operational,3
+2024,USA,Status,Feasibility study,1
+2024,USA,Status,FID/Construction,2
+2024,USA,Status,Operational,2
+2025,USA,Status,Concept,1
+2025,USA,Status,Feasibility study,5
+2025,USA,Status,FID/Construction,3
+2026,USA,Status,Concept,2
+2026,USA,Status,Feasibility study,5
+2027,USA,Status,Concept,3
+2027,USA,Status,Feasibility study,2
+2028,USA,Status,Concept,1
+2028,USA,Status,Feasibility study,1
+2030,USA,Status,Feasibility study,1
+2024,UZB,Status,FID/Construction,1
+2024,ZAF,Status,FID/Construction,1
+2025,ZAF,Status,Feasibility study,2
+2026,ZAF,Status,Feasibility study,1
+2027,ZAF,Status,Feasibility study,1
+2028,ZAF,Status,Concept,1
+2030,ZAF,Status,Concept,1
+2040,ZAF,Status,Concept,1
+2029,ZWE,Status,Concept,1
