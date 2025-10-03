@@ -1,173 +1,84 @@
-year,geo,disagg,value
-2017,WLD,Total,1
-2019,WLD,Total,8
-2020,WLD,Total,3
-2021,WLD,Total,7
-2022,WLD,Total,18
-2023,WLD,Total,36
-2024,WLD,Total,63
-2017,WLD,Near-term target,1
-2019,WLD,Near-term target,7
-2020,WLD,Near-term target,3
-2021,WLD,Near-term target,6
-2022,WLD,Near-term target,16
-2023,WLD,Near-term target,25
-2024,WLD,Near-term target,52
-2022,WLD,Long-term target,2
-2023,WLD,Long-term target,7
-2024,WLD,Long-term target,30
-2019,WLD,Long-term pre-CNZS target,1
-2020,WLD,Long-term pre-CNZS target,1
-2021,WLD,Long-term pre-CNZS target,2
-2022,WLD,Net-zero target,2
-2023,WLD,Net-zero target,7
-2024,WLD,Net-zero target,30
-2017,ESP,Total,1
-2019,DEU,Total,1
-2019,JPN,Total,4
-2019,NZL,Total,1
-2019,ARE,Total,1
-2019,GBR,Total,1
-2020,JPN,Total,2
-2020,GBR,Total,1
-2021,AUS,Total,1
-2021,DNK,Total,1
-2021,JPN,Total,1
-2021,COL,Total,1
-2021,NLD,Total,1
-2021,ESP,Total,1
-2021,SWE,Total,1
-2022,BEL,Total,1
-2022,FRA,Total,1
-2022,DEU,Total,1
-2022,ITA,Total,1
-2022,JPN,Total,6
-2022,MEX,Total,1
-2022,NLD,Total,1
-2022,NOR,Total,1
-2022,ESP,Total,1
-2022,GBR,Total,2
-2022,USA,Total,2
-2023,BEL,Total,1
-2023,CAN,Total,1
-2023,DEU,Total,1
-2023,ESP,Total,2
-2023,FIN,Total,1
-2023,FRA,Total,3
-2023,GBR,Total,8
-2023,HKG,Total,1
-2023,IRL,Total,3
-2023,JPN,Total,8
-2023,KOR,Total,2
-2023,LUX,Total,1
-2023,MEX,Total,1
-2023,NLD,Total,1
-2023,THA,Total,1
-2023,TUR,Total,1
-2024,BEL,Total,1
-2024,CAN,Total,1
-2024,CHE,Total,2
-2024,DEU,Total,2
-2024,DNK,Total,1
-2024,ESP,Total,3
-2024,FIN,Total,1
-2024,FRA,Total,4
-2024,GBR,Total,18
-2024,HKG,Total,1
-2024,IRL,Total,1
-2024,ITA,Total,2
-2024,JPN,Total,11
-2024,KOR,Total,1
-2024,NLD,Total,3
-2024,PRT,Total,2
-2024,SWE,Total,3
-2024,TWN,Total,2
-2024,USA,Total,4
-2017,ESP,Near-term target,1
-2019,ARE,Near-term target,1
-2019,DEU,Near-term target,1
-2019,GBR,Near-term target,1
-2019,JPN,Near-term target,4
-2019,JPN,Long-term pre-CNZS target,1
-2020,GBR,Near-term target,1
-2020,JPN,Near-term target,2
-2020,GBR,Long-term pre-CNZS target,1
-2021,COL,Near-term target,1
-2021,DNK,Near-term target,1
-2021,ESP,Near-term target,1
-2021,JPN,Near-term target,1
-2021,NLD,Near-term target,1
-2021,SWE,Near-term target,1
-2021,JPN,Long-term pre-CNZS target,1
-2021,SWE,Long-term pre-CNZS target,1
-2022,DEU,Near-term target,1
-2022,ESP,Near-term target,1
-2022,FRA,Near-term target,1
-2022,GBR,Near-term target,2
-2022,ITA,Near-term target,1
-2022,JPN,Near-term target,6
-2022,NLD,Near-term target,1
-2022,NOR,Near-term target,1
-2022,USA,Near-term target,2
-2022,NOR,Long-term target,1
-2022,USA,Long-term target,1
-2022,NOR,Net-zero target,1
-2022,USA,Net-zero target,1
-2023,CAN,Near-term target,1
-2023,ESP,Near-term target,2
-2023,FIN,Near-term target,1
-2023,FRA,Near-term target,1
-2023,GBR,Near-term target,7
-2023,HKG,Near-term target,1
-2023,IRL,Near-term target,2
-2023,JPN,Near-term target,6
-2023,KOR,Near-term target,2
-2023,LUX,Near-term target,1
-2023,NLD,Near-term target,1
-2023,CAN,Long-term target,1
-2023,ESP,Long-term target,1
-2023,GBR,Long-term target,5
-2023,CAN,Net-zero target,1
-2023,ESP,Net-zero target,1
-2023,GBR,Net-zero target,5
-2024,BEL,Near-term target,1
-2024,CAN,Near-term target,1
-2024,CHE,Near-term target,1
-2024,DEU,Near-term target,1
-2024,DNK,Near-term target,1
-2024,ESP,Near-term target,1
-2024,FIN,Near-term target,1
-2024,FRA,Near-term target,3
-2024,GBR,Near-term target,16
-2024,HKG,Near-term target,1
-2024,IRL,Near-term target,1
-2024,ITA,Near-term target,1
-2024,JPN,Near-term target,11
-2024,KOR,Near-term target,1
-2024,NLD,Near-term target,3
-2024,PRT,Near-term target,1
-2024,SWE,Near-term target,3
-2024,TWN,Near-term target,2
-2024,USA,Near-term target,2
-2024,CAN,Long-term target,1
-2024,CHE,Long-term target,1
-2024,DEU,Long-term target,1
-2024,ESP,Long-term target,1
-2024,FRA,Long-term target,1
-2024,GBR,Long-term target,13
-2024,JPN,Long-term target,4
-2024,NLD,Long-term target,3
-2024,SWE,Long-term target,2
-2024,TWN,Long-term target,1
-2024,USA,Long-term target,2
-2024,CAN,Net-zero target,1
-2024,CHE,Net-zero target,1
-2024,DEU,Net-zero target,1
-2024,ESP,Net-zero target,1
-2024,FRA,Net-zero target,1
-2024,GBR,Net-zero target,13
-2024,JPN,Net-zero target,4
-2024,NLD,Net-zero target,3
-2024,SWE,Net-zero target,2
-2024,TWN,Net-zero target,1
-2024,USA,Net-zero target,2
+year,geo,value
+2019,WLD,4
+2020,WLD,2
+2021,WLD,6
+2022,WLD,16
+2023,WLD,34
+2024,WLD,72
+2025,WLD,60
+2019,ARE,1
+2019,GBR,1
+2019,JPN,2
+2020,GBR,1
+2020,JPN,1
+2021,AUS,1
+2021,COL,1
+2021,DNK,1
+2021,GBR,1
+2021,JPN,1
+2021,SWE,1
+2022,BEL,1
+2022,DEU,1
+2022,FRA,1
+2022,GBR,2
+2022,ITA,1
+2022,JPN,6
+2022,MEX,1
+2022,NLD,1
+2022,USA,2
+2023,BEL,1
+2023,CAN,1
+2023,ESP,2
+2023,FIN,1
+2023,FRA,3
+2023,GBR,8
+2023,HKG,1
+2023,IRL,3
+2023,JPN,7
+2023,KOR,2
+2023,LUX,1
+2023,MEX,1
+2023,NLD,1
+2023,THA,1
+2023,TUR,1
+2024,AUT,1
+2024,BEL,1
+2024,CAN,1
+2024,CHE,1
+2024,DEU,2
+2024,DNK,1
+2024,ESP,3
+2024,FIN,1
+2024,FRA,6
+2024,GBR,21
+2024,HKG,1
+2024,IRL,1
+2024,ITA,2
+2024,JPN,13
+2024,KOR,1
+2024,NLD,3
+2024,PRT,2
+2024,SWE,4
+2024,TWN,2
+2024,USA,5
+2025,CAN,2
+2025,CHE,1
+2025,CHN,2
+2025,DEU,4
+2025,DNK,2
+2025,ESP,3
+2025,FIN,1
+2025,FRA,1
+2025,GBR,5
+2025,HKG,1
+2025,IND,6
+2025,IRL,2
+2025,JPN,17
+2025,MYS,1
+2025,NLD,2
+2025,NOR,4
+2025,PRT,1
+2025,SWE,2
+2025,TUR,1
+2025,TWN,1
+2025,USA,1
