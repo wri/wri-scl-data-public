@@ -1,0 +1,2519 @@
+year,geo,disagg_type,disagg,value
+2000,WLD,All,Total,15
+2001,WLD,All,Total,17
+2002,WLD,All,Total,18
+2003,WLD,All,Total,25
+2004,WLD,All,Total,31
+2005,WLD,All,Total,36
+2006,WLD,All,Total,43
+2007,WLD,All,Total,51
+2008,WLD,All,Total,63
+2009,WLD,All,Total,73
+2010,WLD,All,Total,85
+2011,WLD,All,Total,103
+2012,WLD,All,Total,121
+2013,WLD,All,Total,146
+2014,WLD,All,Total,158
+2015,WLD,All,Total,189
+2016,WLD,All,Total,208
+2017,WLD,All,Total,228
+2018,WLD,All,Total,256
+2019,WLD,All,Total,292
+2020,WLD,All,Total,328
+2021,WLD,All,Total,375
+2022,WLD,All,Total,424
+2023,WLD,All,Total,502
+2024,WLD,All,Total,677
+2025,WLD,All,Total,955
+2026,WLD,All,Total,1200
+2027,WLD,All,Total,1402
+2028,WLD,All,Total,1570
+2029,WLD,All,Total,1620
+2030,WLD,All,Total,1809
+2031,WLD,All,Total,1819
+2032,WLD,All,Total,1837
+2033,WLD,All,Total,1843
+2034,WLD,All,Total,1844
+2035,WLD,All,Total,1854
+2036,WLD,All,Total,1855
+2037,WLD,All,Total,1856
+2038,WLD,All,Total,1857
+2040,WLD,All,Total,1863
+2043,WLD,All,Total,1864
+1965,WLD,Status,Concept,0
+1975,WLD,Status,Concept,0
+1982,WLD,Status,Concept,0
+1992,WLD,Status,Concept,0
+2000,WLD,Status,Concept,0
+2001,WLD,Status,Concept,0
+2002,WLD,Status,Concept,0
+2003,WLD,Status,Concept,0
+2004,WLD,Status,Concept,0
+2005,WLD,Status,Concept,0
+2006,WLD,Status,Concept,0
+2007,WLD,Status,Concept,0
+2008,WLD,Status,Concept,0
+2009,WLD,Status,Concept,0
+2010,WLD,Status,Concept,0
+2011,WLD,Status,Concept,0
+2012,WLD,Status,Concept,0
+2013,WLD,Status,Concept,0
+2014,WLD,Status,Concept,0
+2015,WLD,Status,Concept,0
+2016,WLD,Status,Concept,0
+2017,WLD,Status,Concept,0
+2018,WLD,Status,Concept,0
+2019,WLD,Status,Concept,0
+2020,WLD,Status,Concept,0
+2021,WLD,Status,Concept,0
+2022,WLD,Status,Concept,0
+2023,WLD,Status,Concept,0
+2024,WLD,Status,Concept,1
+2025,WLD,Status,Concept,37
+2026,WLD,Status,Concept,71
+2027,WLD,Status,Concept,119
+2028,WLD,Status,Concept,173
+2029,WLD,Status,Concept,193
+2030,WLD,Status,Concept,289
+2031,WLD,Status,Concept,295
+2032,WLD,Status,Concept,307
+2033,WLD,Status,Concept,312
+2034,WLD,Status,Concept,313
+2035,WLD,Status,Concept,321
+2036,WLD,Status,Concept,321
+2037,WLD,Status,Concept,321
+2038,WLD,Status,Concept,321
+2040,WLD,Status,Concept,326
+2043,WLD,Status,Concept,327
+1965,WLD,Status,Decommissioned,0
+1975,WLD,Status,Decommissioned,1
+1982,WLD,Status,Decommissioned,1
+1992,WLD,Status,Decommissioned,1
+2000,WLD,Status,Decommissioned,2
+2001,WLD,Status,Decommissioned,2
+2002,WLD,Status,Decommissioned,2
+2003,WLD,Status,Decommissioned,2
+2004,WLD,Status,Decommissioned,2
+2005,WLD,Status,Decommissioned,2
+2006,WLD,Status,Decommissioned,2
+2007,WLD,Status,Decommissioned,2
+2008,WLD,Status,Decommissioned,2
+2009,WLD,Status,Decommissioned,2
+2010,WLD,Status,Decommissioned,2
+2011,WLD,Status,Decommissioned,2
+2012,WLD,Status,Decommissioned,2
+2013,WLD,Status,Decommissioned,2
+2014,WLD,Status,Decommissioned,2
+2015,WLD,Status,Decommissioned,4
+2016,WLD,Status,Decommissioned,4
+2017,WLD,Status,Decommissioned,4
+2018,WLD,Status,Decommissioned,5
+2019,WLD,Status,Decommissioned,6
+2020,WLD,Status,Decommissioned,7
+2021,WLD,Status,Decommissioned,7
+2022,WLD,Status,Decommissioned,7
+2023,WLD,Status,Decommissioned,7
+2024,WLD,Status,Decommissioned,7
+2025,WLD,Status,Decommissioned,7
+2026,WLD,Status,Decommissioned,7
+2027,WLD,Status,Decommissioned,7
+2028,WLD,Status,Decommissioned,7
+2029,WLD,Status,Decommissioned,7
+2030,WLD,Status,Decommissioned,7
+2031,WLD,Status,Decommissioned,7
+2032,WLD,Status,Decommissioned,7
+2033,WLD,Status,Decommissioned,7
+2034,WLD,Status,Decommissioned,7
+2035,WLD,Status,Decommissioned,7
+2036,WLD,Status,Decommissioned,7
+2037,WLD,Status,Decommissioned,7
+2038,WLD,Status,Decommissioned,7
+2040,WLD,Status,Decommissioned,7
+2043,WLD,Status,Decommissioned,7
+1965,WLD,Status,DEMO,0
+1975,WLD,Status,DEMO,0
+1982,WLD,Status,DEMO,0
+1992,WLD,Status,DEMO,0
+2000,WLD,Status,DEMO,2
+2001,WLD,Status,DEMO,4
+2002,WLD,Status,DEMO,5
+2003,WLD,Status,DEMO,12
+2004,WLD,Status,DEMO,17
+2005,WLD,Status,DEMO,19
+2006,WLD,Status,DEMO,26
+2007,WLD,Status,DEMO,34
+2008,WLD,Status,DEMO,44
+2009,WLD,Status,DEMO,51
+2010,WLD,Status,DEMO,59
+2011,WLD,Status,DEMO,71
+2012,WLD,Status,DEMO,81
+2013,WLD,Status,DEMO,91
+2014,WLD,Status,DEMO,97
+2015,WLD,Status,DEMO,114
+2016,WLD,Status,DEMO,124
+2017,WLD,Status,DEMO,129
+2018,WLD,Status,DEMO,131
+2019,WLD,Status,DEMO,138
+2020,WLD,Status,DEMO,149
+2021,WLD,Status,DEMO,159
+2022,WLD,Status,DEMO,170
+2023,WLD,Status,DEMO,193
+2024,WLD,Status,DEMO,208
+2025,WLD,Status,DEMO,216
+2026,WLD,Status,DEMO,221
+2027,WLD,Status,DEMO,222
+2028,WLD,Status,DEMO,222
+2029,WLD,Status,DEMO,223
+2030,WLD,Status,DEMO,223
+2031,WLD,Status,DEMO,223
+2032,WLD,Status,DEMO,223
+2033,WLD,Status,DEMO,223
+2034,WLD,Status,DEMO,223
+2035,WLD,Status,DEMO,223
+2036,WLD,Status,DEMO,223
+2037,WLD,Status,DEMO,223
+2038,WLD,Status,DEMO,223
+2040,WLD,Status,DEMO,223
+2043,WLD,Status,DEMO,223
+1965,WLD,Status,Feasibility Study,0
+1975,WLD,Status,Feasibility Study,0
+1982,WLD,Status,Feasibility Study,0
+1992,WLD,Status,Feasibility Study,0
+2000,WLD,Status,Feasibility Study,0
+2001,WLD,Status,Feasibility Study,0
+2002,WLD,Status,Feasibility Study,0
+2003,WLD,Status,Feasibility Study,0
+2004,WLD,Status,Feasibility Study,0
+2005,WLD,Status,Feasibility Study,0
+2006,WLD,Status,Feasibility Study,0
+2007,WLD,Status,Feasibility Study,0
+2008,WLD,Status,Feasibility Study,0
+2009,WLD,Status,Feasibility Study,0
+2010,WLD,Status,Feasibility Study,0
+2011,WLD,Status,Feasibility Study,0
+2012,WLD,Status,Feasibility Study,0
+2013,WLD,Status,Feasibility Study,0
+2014,WLD,Status,Feasibility Study,0
+2015,WLD,Status,Feasibility Study,0
+2016,WLD,Status,Feasibility Study,0
+2017,WLD,Status,Feasibility Study,0
+2018,WLD,Status,Feasibility Study,0
+2019,WLD,Status,Feasibility Study,0
+2020,WLD,Status,Feasibility Study,0
+2021,WLD,Status,Feasibility Study,0
+2022,WLD,Status,Feasibility Study,0
+2023,WLD,Status,Feasibility Study,0
+2024,WLD,Status,Feasibility Study,28
+2025,WLD,Status,Feasibility Study,171
+2026,WLD,Status,Feasibility Study,322
+2027,WLD,Status,Feasibility Study,461
+2028,WLD,Status,Feasibility Study,563
+2029,WLD,Status,Feasibility Study,591
+2030,WLD,Status,Feasibility Study,680
+2031,WLD,Status,Feasibility Study,684
+2032,WLD,Status,Feasibility Study,690
+2033,WLD,Status,Feasibility Study,691
+2034,WLD,Status,Feasibility Study,691
+2035,WLD,Status,Feasibility Study,693
+2036,WLD,Status,Feasibility Study,694
+2037,WLD,Status,Feasibility Study,695
+2038,WLD,Status,Feasibility Study,696
+2040,WLD,Status,Feasibility Study,697
+2043,WLD,Status,Feasibility Study,697
+1965,WLD,Status,FID/Construction,0
+1975,WLD,Status,FID/Construction,0
+1982,WLD,Status,FID/Construction,0
+1992,WLD,Status,FID/Construction,0
+2000,WLD,Status,FID/Construction,0
+2001,WLD,Status,FID/Construction,0
+2002,WLD,Status,FID/Construction,0
+2003,WLD,Status,FID/Construction,0
+2004,WLD,Status,FID/Construction,0
+2005,WLD,Status,FID/Construction,0
+2006,WLD,Status,FID/Construction,0
+2007,WLD,Status,FID/Construction,0
+2008,WLD,Status,FID/Construction,0
+2009,WLD,Status,FID/Construction,0
+2010,WLD,Status,FID/Construction,0
+2011,WLD,Status,FID/Construction,0
+2012,WLD,Status,FID/Construction,0
+2013,WLD,Status,FID/Construction,0
+2014,WLD,Status,FID/Construction,0
+2015,WLD,Status,FID/Construction,0
+2016,WLD,Status,FID/Construction,0
+2017,WLD,Status,FID/Construction,0
+2018,WLD,Status,FID/Construction,0
+2019,WLD,Status,FID/Construction,0
+2020,WLD,Status,FID/Construction,0
+2021,WLD,Status,FID/Construction,0
+2022,WLD,Status,FID/Construction,0
+2023,WLD,Status,FID/Construction,1
+2024,WLD,Status,FID/Construction,99
+2025,WLD,Status,FID/Construction,189
+2026,WLD,Status,FID/Construction,244
+2027,WLD,Status,FID/Construction,258
+2028,WLD,Status,FID/Construction,270
+2029,WLD,Status,FID/Construction,271
+2030,WLD,Status,FID/Construction,274
+2031,WLD,Status,FID/Construction,274
+2032,WLD,Status,FID/Construction,274
+2033,WLD,Status,FID/Construction,274
+2034,WLD,Status,FID/Construction,274
+2035,WLD,Status,FID/Construction,274
+2036,WLD,Status,FID/Construction,274
+2037,WLD,Status,FID/Construction,274
+2038,WLD,Status,FID/Construction,274
+2040,WLD,Status,FID/Construction,274
+2043,WLD,Status,FID/Construction,274
+1965,WLD,Status,Operational,1
+1975,WLD,Status,Operational,1
+1982,WLD,Status,Operational,2
+1992,WLD,Status,Operational,3
+2000,WLD,Status,Operational,11
+2001,WLD,Status,Operational,11
+2002,WLD,Status,Operational,11
+2003,WLD,Status,Operational,11
+2004,WLD,Status,Operational,12
+2005,WLD,Status,Operational,15
+2006,WLD,Status,Operational,15
+2007,WLD,Status,Operational,15
+2008,WLD,Status,Operational,17
+2009,WLD,Status,Operational,20
+2010,WLD,Status,Operational,24
+2011,WLD,Status,Operational,30
+2012,WLD,Status,Operational,38
+2013,WLD,Status,Operational,53
+2014,WLD,Status,Operational,59
+2015,WLD,Status,Operational,71
+2016,WLD,Status,Operational,80
+2017,WLD,Status,Operational,95
+2018,WLD,Status,Operational,120
+2019,WLD,Status,Operational,148
+2020,WLD,Status,Operational,172
+2021,WLD,Status,Operational,209
+2022,WLD,Status,Operational,247
+2023,WLD,Status,Operational,301
+2024,WLD,Status,Operational,333
+2025,WLD,Status,Operational,333
+2026,WLD,Status,Operational,333
+2027,WLD,Status,Operational,333
+2028,WLD,Status,Operational,333
+2029,WLD,Status,Operational,333
+2030,WLD,Status,Operational,333
+2031,WLD,Status,Operational,333
+2032,WLD,Status,Operational,333
+2033,WLD,Status,Operational,333
+2034,WLD,Status,Operational,333
+2035,WLD,Status,Operational,333
+2036,WLD,Status,Operational,333
+2037,WLD,Status,Operational,333
+2038,WLD,Status,Operational,333
+2040,WLD,Status,Operational,333
+2043,WLD,Status,Operational,333
+1965,WLD,Status,Other/Unknown,0
+1975,WLD,Status,Other/Unknown,0
+1982,WLD,Status,Other/Unknown,0
+1992,WLD,Status,Other/Unknown,0
+2000,WLD,Status,Other/Unknown,0
+2001,WLD,Status,Other/Unknown,0
+2002,WLD,Status,Other/Unknown,0
+2003,WLD,Status,Other/Unknown,0
+2004,WLD,Status,Other/Unknown,0
+2005,WLD,Status,Other/Unknown,0
+2006,WLD,Status,Other/Unknown,0
+2007,WLD,Status,Other/Unknown,0
+2008,WLD,Status,Other/Unknown,0
+2009,WLD,Status,Other/Unknown,0
+2010,WLD,Status,Other/Unknown,0
+2011,WLD,Status,Other/Unknown,0
+2012,WLD,Status,Other/Unknown,0
+2013,WLD,Status,Other/Unknown,0
+2014,WLD,Status,Other/Unknown,0
+2015,WLD,Status,Other/Unknown,0
+2016,WLD,Status,Other/Unknown,0
+2017,WLD,Status,Other/Unknown,0
+2018,WLD,Status,Other/Unknown,0
+2019,WLD,Status,Other/Unknown,0
+2020,WLD,Status,Other/Unknown,0
+2021,WLD,Status,Other/Unknown,0
+2022,WLD,Status,Other/Unknown,0
+2023,WLD,Status,Other/Unknown,0
+2024,WLD,Status,Other/Unknown,1
+2025,WLD,Status,Other/Unknown,2
+2026,WLD,Status,Other/Unknown,2
+2027,WLD,Status,Other/Unknown,2
+2028,WLD,Status,Other/Unknown,2
+2029,WLD,Status,Other/Unknown,2
+2030,WLD,Status,Other/Unknown,3
+2031,WLD,Status,Other/Unknown,3
+2032,WLD,Status,Other/Unknown,3
+2033,WLD,Status,Other/Unknown,3
+2034,WLD,Status,Other/Unknown,3
+2035,WLD,Status,Other/Unknown,3
+2036,WLD,Status,Other/Unknown,3
+2037,WLD,Status,Other/Unknown,3
+2038,WLD,Status,Other/Unknown,3
+2040,WLD,Status,Other/Unknown,3
+2043,WLD,Status,Other/Unknown,3
+2000,WLD,Technology,AEM,0
+2001,WLD,Technology,AEM,0
+2002,WLD,Technology,AEM,0
+2003,WLD,Technology,AEM,0
+2004,WLD,Technology,AEM,0
+2005,WLD,Technology,AEM,0
+2006,WLD,Technology,AEM,0
+2007,WLD,Technology,AEM,0
+2008,WLD,Technology,AEM,0
+2009,WLD,Technology,AEM,0
+2010,WLD,Technology,AEM,0
+2011,WLD,Technology,AEM,0
+2012,WLD,Technology,AEM,0
+2013,WLD,Technology,AEM,0
+2014,WLD,Technology,AEM,0
+2015,WLD,Technology,AEM,0
+2016,WLD,Technology,AEM,0
+2017,WLD,Technology,AEM,1
+2018,WLD,Technology,AEM,1
+2019,WLD,Technology,AEM,1
+2020,WLD,Technology,AEM,1
+2021,WLD,Technology,AEM,1
+2022,WLD,Technology,AEM,1
+2023,WLD,Technology,AEM,6
+2024,WLD,Technology,AEM,10
+2025,WLD,Technology,AEM,16
+2026,WLD,Technology,AEM,19
+2027,WLD,Technology,AEM,19
+2028,WLD,Technology,AEM,19
+2029,WLD,Technology,AEM,19
+2030,WLD,Technology,AEM,19
+2031,WLD,Technology,AEM,19
+2032,WLD,Technology,AEM,19
+2033,WLD,Technology,AEM,19
+2034,WLD,Technology,AEM,19
+2035,WLD,Technology,AEM,19
+2036,WLD,Technology,AEM,19
+2037,WLD,Technology,AEM,19
+2038,WLD,Technology,AEM,19
+2040,WLD,Technology,AEM,19
+2043,WLD,Technology,AEM,19
+2000,WLD,Technology,ALK,6
+2001,WLD,Technology,ALK,8
+2002,WLD,Technology,ALK,8
+2003,WLD,Technology,ALK,14
+2004,WLD,Technology,ALK,19
+2005,WLD,Technology,ALK,21
+2006,WLD,Technology,ALK,22
+2007,WLD,Technology,ALK,26
+2008,WLD,Technology,ALK,28
+2009,WLD,Technology,ALK,34
+2010,WLD,Technology,ALK,40
+2011,WLD,Technology,ALK,51
+2012,WLD,Technology,ALK,57
+2013,WLD,Technology,ALK,67
+2014,WLD,Technology,ALK,74
+2015,WLD,Technology,ALK,82
+2016,WLD,Technology,ALK,83
+2017,WLD,Technology,ALK,88
+2018,WLD,Technology,ALK,94
+2019,WLD,Technology,ALK,100
+2020,WLD,Technology,ALK,106
+2021,WLD,Technology,ALK,115
+2022,WLD,Technology,ALK,122
+2023,WLD,Technology,ALK,134
+2024,WLD,Technology,ALK,173
+2025,WLD,Technology,ALK,214
+2026,WLD,Technology,ALK,242
+2027,WLD,Technology,ALK,261
+2028,WLD,Technology,ALK,276
+2029,WLD,Technology,ALK,279
+2030,WLD,Technology,ALK,285
+2031,WLD,Technology,ALK,285
+2032,WLD,Technology,ALK,285
+2033,WLD,Technology,ALK,285
+2034,WLD,Technology,ALK,285
+2035,WLD,Technology,ALK,285
+2036,WLD,Technology,ALK,285
+2037,WLD,Technology,ALK,285
+2038,WLD,Technology,ALK,285
+2040,WLD,Technology,ALK,285
+2043,WLD,Technology,ALK,285
+2000,WLD,Technology,Biomass,0
+2001,WLD,Technology,Biomass,0
+2002,WLD,Technology,Biomass,0
+2003,WLD,Technology,Biomass,0
+2004,WLD,Technology,Biomass,0
+2005,WLD,Technology,Biomass,0
+2006,WLD,Technology,Biomass,0
+2007,WLD,Technology,Biomass,0
+2008,WLD,Technology,Biomass,0
+2009,WLD,Technology,Biomass,0
+2010,WLD,Technology,Biomass,0
+2011,WLD,Technology,Biomass,0
+2012,WLD,Technology,Biomass,0
+2013,WLD,Technology,Biomass,1
+2014,WLD,Technology,Biomass,1
+2015,WLD,Technology,Biomass,2
+2016,WLD,Technology,Biomass,2
+2017,WLD,Technology,Biomass,2
+2018,WLD,Technology,Biomass,2
+2019,WLD,Technology,Biomass,2
+2020,WLD,Technology,Biomass,4
+2021,WLD,Technology,Biomass,7
+2022,WLD,Technology,Biomass,9
+2023,WLD,Technology,Biomass,15
+2024,WLD,Technology,Biomass,21
+2025,WLD,Technology,Biomass,29
+2026,WLD,Technology,Biomass,36
+2027,WLD,Technology,Biomass,36
+2028,WLD,Technology,Biomass,36
+2029,WLD,Technology,Biomass,36
+2030,WLD,Technology,Biomass,38
+2031,WLD,Technology,Biomass,38
+2032,WLD,Technology,Biomass,38
+2033,WLD,Technology,Biomass,38
+2034,WLD,Technology,Biomass,38
+2035,WLD,Technology,Biomass,38
+2036,WLD,Technology,Biomass,38
+2037,WLD,Technology,Biomass,38
+2038,WLD,Technology,Biomass,38
+2040,WLD,Technology,Biomass,38
+2043,WLD,Technology,Biomass,38
+2000,WLD,Technology,Biomass with CCUS,0
+2001,WLD,Technology,Biomass with CCUS,0
+2002,WLD,Technology,Biomass with CCUS,0
+2003,WLD,Technology,Biomass with CCUS,0
+2004,WLD,Technology,Biomass with CCUS,0
+2005,WLD,Technology,Biomass with CCUS,0
+2006,WLD,Technology,Biomass with CCUS,0
+2007,WLD,Technology,Biomass with CCUS,0
+2008,WLD,Technology,Biomass with CCUS,0
+2009,WLD,Technology,Biomass with CCUS,0
+2010,WLD,Technology,Biomass with CCUS,0
+2011,WLD,Technology,Biomass with CCUS,0
+2012,WLD,Technology,Biomass with CCUS,0
+2013,WLD,Technology,Biomass with CCUS,0
+2014,WLD,Technology,Biomass with CCUS,0
+2015,WLD,Technology,Biomass with CCUS,0
+2016,WLD,Technology,Biomass with CCUS,0
+2017,WLD,Technology,Biomass with CCUS,0
+2018,WLD,Technology,Biomass with CCUS,0
+2019,WLD,Technology,Biomass with CCUS,0
+2020,WLD,Technology,Biomass with CCUS,0
+2021,WLD,Technology,Biomass with CCUS,0
+2022,WLD,Technology,Biomass with CCUS,0
+2023,WLD,Technology,Biomass with CCUS,0
+2024,WLD,Technology,Biomass with CCUS,0
+2025,WLD,Technology,Biomass with CCUS,1
+2026,WLD,Technology,Biomass with CCUS,6
+2027,WLD,Technology,Biomass with CCUS,6
+2028,WLD,Technology,Biomass with CCUS,6
+2029,WLD,Technology,Biomass with CCUS,6
+2030,WLD,Technology,Biomass with CCUS,7
+2031,WLD,Technology,Biomass with CCUS,7
+2032,WLD,Technology,Biomass with CCUS,7
+2033,WLD,Technology,Biomass with CCUS,7
+2034,WLD,Technology,Biomass with CCUS,7
+2035,WLD,Technology,Biomass with CCUS,7
+2036,WLD,Technology,Biomass with CCUS,7
+2037,WLD,Technology,Biomass with CCUS,7
+2038,WLD,Technology,Biomass with CCUS,7
+2040,WLD,Technology,Biomass with CCUS,7
+2043,WLD,Technology,Biomass with CCUS,7
+2000,WLD,Technology,Coal with CCUS,0
+2001,WLD,Technology,Coal with CCUS,1
+2002,WLD,Technology,Coal with CCUS,1
+2003,WLD,Technology,Coal with CCUS,1
+2004,WLD,Technology,Coal with CCUS,1
+2005,WLD,Technology,Coal with CCUS,1
+2006,WLD,Technology,Coal with CCUS,1
+2007,WLD,Technology,Coal with CCUS,1
+2008,WLD,Technology,Coal with CCUS,1
+2009,WLD,Technology,Coal with CCUS,1
+2010,WLD,Technology,Coal with CCUS,1
+2011,WLD,Technology,Coal with CCUS,1
+2012,WLD,Technology,Coal with CCUS,1
+2013,WLD,Technology,Coal with CCUS,1
+2014,WLD,Technology,Coal with CCUS,1
+2015,WLD,Technology,Coal with CCUS,3
+2016,WLD,Technology,Coal with CCUS,3
+2017,WLD,Technology,Coal with CCUS,3
+2018,WLD,Technology,Coal with CCUS,3
+2019,WLD,Technology,Coal with CCUS,3
+2020,WLD,Technology,Coal with CCUS,3
+2021,WLD,Technology,Coal with CCUS,3
+2022,WLD,Technology,Coal with CCUS,5
+2023,WLD,Technology,Coal with CCUS,5
+2024,WLD,Technology,Coal with CCUS,5
+2025,WLD,Technology,Coal with CCUS,6
+2026,WLD,Technology,Coal with CCUS,6
+2027,WLD,Technology,Coal with CCUS,6
+2028,WLD,Technology,Coal with CCUS,6
+2029,WLD,Technology,Coal with CCUS,6
+2030,WLD,Technology,Coal with CCUS,7
+2031,WLD,Technology,Coal with CCUS,7
+2032,WLD,Technology,Coal with CCUS,7
+2033,WLD,Technology,Coal with CCUS,7
+2034,WLD,Technology,Coal with CCUS,7
+2035,WLD,Technology,Coal with CCUS,7
+2036,WLD,Technology,Coal with CCUS,7
+2037,WLD,Technology,Coal with CCUS,7
+2038,WLD,Technology,Coal with CCUS,7
+2040,WLD,Technology,Coal with CCUS,7
+2043,WLD,Technology,Coal with CCUS,7
+2000,WLD,Technology,NG with CCUS,1
+2001,WLD,Technology,NG with CCUS,1
+2002,WLD,Technology,NG with CCUS,1
+2003,WLD,Technology,NG with CCUS,1
+2004,WLD,Technology,NG with CCUS,1
+2005,WLD,Technology,NG with CCUS,1
+2006,WLD,Technology,NG with CCUS,1
+2007,WLD,Technology,NG with CCUS,1
+2008,WLD,Technology,NG with CCUS,1
+2009,WLD,Technology,NG with CCUS,1
+2010,WLD,Technology,NG with CCUS,1
+2011,WLD,Technology,NG with CCUS,1
+2012,WLD,Technology,NG with CCUS,1
+2013,WLD,Technology,NG with CCUS,3
+2014,WLD,Technology,NG with CCUS,3
+2015,WLD,Technology,NG with CCUS,5
+2016,WLD,Technology,NG with CCUS,8
+2017,WLD,Technology,NG with CCUS,8
+2018,WLD,Technology,NG with CCUS,8
+2019,WLD,Technology,NG with CCUS,8
+2020,WLD,Technology,NG with CCUS,9
+2021,WLD,Technology,NG with CCUS,9
+2022,WLD,Technology,NG with CCUS,9
+2023,WLD,Technology,NG with CCUS,11
+2024,WLD,Technology,NG with CCUS,12
+2025,WLD,Technology,NG with CCUS,21
+2026,WLD,Technology,NG with CCUS,35
+2027,WLD,Technology,NG with CCUS,51
+2028,WLD,Technology,NG with CCUS,74
+2029,WLD,Technology,NG with CCUS,79
+2030,WLD,Technology,NG with CCUS,97
+2031,WLD,Technology,NG with CCUS,97
+2032,WLD,Technology,NG with CCUS,97
+2033,WLD,Technology,NG with CCUS,97
+2034,WLD,Technology,NG with CCUS,97
+2035,WLD,Technology,NG with CCUS,98
+2036,WLD,Technology,NG with CCUS,98
+2037,WLD,Technology,NG with CCUS,98
+2038,WLD,Technology,NG with CCUS,98
+2040,WLD,Technology,NG with CCUS,98
+2043,WLD,Technology,NG with CCUS,98
+2000,WLD,Technology,Oil with CCUS,0
+2001,WLD,Technology,Oil with CCUS,0
+2002,WLD,Technology,Oil with CCUS,0
+2003,WLD,Technology,Oil with CCUS,0
+2004,WLD,Technology,Oil with CCUS,0
+2005,WLD,Technology,Oil with CCUS,0
+2006,WLD,Technology,Oil with CCUS,1
+2007,WLD,Technology,Oil with CCUS,1
+2008,WLD,Technology,Oil with CCUS,1
+2009,WLD,Technology,Oil with CCUS,1
+2010,WLD,Technology,Oil with CCUS,1
+2011,WLD,Technology,Oil with CCUS,1
+2012,WLD,Technology,Oil with CCUS,1
+2013,WLD,Technology,Oil with CCUS,2
+2014,WLD,Technology,Oil with CCUS,2
+2015,WLD,Technology,Oil with CCUS,3
+2016,WLD,Technology,Oil with CCUS,3
+2017,WLD,Technology,Oil with CCUS,4
+2018,WLD,Technology,Oil with CCUS,4
+2019,WLD,Technology,Oil with CCUS,4
+2020,WLD,Technology,Oil with CCUS,5
+2021,WLD,Technology,Oil with CCUS,5
+2022,WLD,Technology,Oil with CCUS,5
+2023,WLD,Technology,Oil with CCUS,5
+2024,WLD,Technology,Oil with CCUS,5
+2025,WLD,Technology,Oil with CCUS,7
+2026,WLD,Technology,Oil with CCUS,8
+2027,WLD,Technology,Oil with CCUS,9
+2028,WLD,Technology,Oil with CCUS,9
+2029,WLD,Technology,Oil with CCUS,9
+2030,WLD,Technology,Oil with CCUS,10
+2031,WLD,Technology,Oil with CCUS,10
+2032,WLD,Technology,Oil with CCUS,10
+2033,WLD,Technology,Oil with CCUS,10
+2034,WLD,Technology,Oil with CCUS,10
+2035,WLD,Technology,Oil with CCUS,10
+2036,WLD,Technology,Oil with CCUS,10
+2037,WLD,Technology,Oil with CCUS,10
+2038,WLD,Technology,Oil with CCUS,10
+2040,WLD,Technology,Oil with CCUS,10
+2043,WLD,Technology,Oil with CCUS,10
+2000,WLD,Technology,Other,0
+2001,WLD,Technology,Other,0
+2002,WLD,Technology,Other,0
+2003,WLD,Technology,Other,0
+2004,WLD,Technology,Other,0
+2005,WLD,Technology,Other,0
+2006,WLD,Technology,Other,0
+2007,WLD,Technology,Other,0
+2008,WLD,Technology,Other,0
+2009,WLD,Technology,Other,0
+2010,WLD,Technology,Other,0
+2011,WLD,Technology,Other,0
+2012,WLD,Technology,Other,0
+2013,WLD,Technology,Other,0
+2014,WLD,Technology,Other,0
+2015,WLD,Technology,Other,0
+2016,WLD,Technology,Other,1
+2017,WLD,Technology,Other,1
+2018,WLD,Technology,Other,1
+2019,WLD,Technology,Other,1
+2020,WLD,Technology,Other,1
+2021,WLD,Technology,Other,2
+2022,WLD,Technology,Other,2
+2023,WLD,Technology,Other,3
+2024,WLD,Technology,Other,9
+2025,WLD,Technology,Other,13
+2026,WLD,Technology,Other,15
+2027,WLD,Technology,Other,16
+2028,WLD,Technology,Other,17
+2029,WLD,Technology,Other,18
+2030,WLD,Technology,Other,19
+2031,WLD,Technology,Other,19
+2032,WLD,Technology,Other,19
+2033,WLD,Technology,Other,20
+2034,WLD,Technology,Other,20
+2035,WLD,Technology,Other,20
+2036,WLD,Technology,Other,20
+2037,WLD,Technology,Other,20
+2038,WLD,Technology,Other,20
+2040,WLD,Technology,Other,20
+2043,WLD,Technology,Other,20
+2000,WLD,Technology,Other Electrolysis,2
+2001,WLD,Technology,Other Electrolysis,2
+2002,WLD,Technology,Other Electrolysis,3
+2003,WLD,Technology,Other Electrolysis,3
+2004,WLD,Technology,Other Electrolysis,3
+2005,WLD,Technology,Other Electrolysis,3
+2006,WLD,Technology,Other Electrolysis,3
+2007,WLD,Technology,Other Electrolysis,4
+2008,WLD,Technology,Other Electrolysis,5
+2009,WLD,Technology,Other Electrolysis,6
+2010,WLD,Technology,Other Electrolysis,8
+2011,WLD,Technology,Other Electrolysis,11
+2012,WLD,Technology,Other Electrolysis,16
+2013,WLD,Technology,Other Electrolysis,19
+2014,WLD,Technology,Other Electrolysis,20
+2015,WLD,Technology,Other Electrolysis,25
+2016,WLD,Technology,Other Electrolysis,27
+2017,WLD,Technology,Other Electrolysis,28
+2018,WLD,Technology,Other Electrolysis,31
+2019,WLD,Technology,Other Electrolysis,41
+2020,WLD,Technology,Other Electrolysis,49
+2021,WLD,Technology,Other Electrolysis,57
+2022,WLD,Technology,Other Electrolysis,71
+2023,WLD,Technology,Other Electrolysis,96
+2024,WLD,Technology,Other Electrolysis,164
+2025,WLD,Technology,Other Electrolysis,329
+2026,WLD,Technology,Other Electrolysis,469
+2027,WLD,Technology,Other Electrolysis,616
+2028,WLD,Technology,Other Electrolysis,729
+2029,WLD,Technology,Other Electrolysis,767
+2030,WLD,Technology,Other Electrolysis,911
+2031,WLD,Technology,Other Electrolysis,921
+2032,WLD,Technology,Other Electrolysis,938
+2033,WLD,Technology,Other Electrolysis,942
+2034,WLD,Technology,Other Electrolysis,943
+2035,WLD,Technology,Other Electrolysis,952
+2036,WLD,Technology,Other Electrolysis,953
+2037,WLD,Technology,Other Electrolysis,954
+2038,WLD,Technology,Other Electrolysis,955
+2040,WLD,Technology,Other Electrolysis,961
+2043,WLD,Technology,Other Electrolysis,962
+2000,WLD,Technology,PEM,5
+2001,WLD,Technology,PEM,5
+2002,WLD,Technology,PEM,5
+2003,WLD,Technology,PEM,6
+2004,WLD,Technology,PEM,7
+2005,WLD,Technology,PEM,9
+2006,WLD,Technology,PEM,15
+2007,WLD,Technology,PEM,18
+2008,WLD,Technology,PEM,27
+2009,WLD,Technology,PEM,30
+2010,WLD,Technology,PEM,34
+2011,WLD,Technology,PEM,37
+2012,WLD,Technology,PEM,42
+2013,WLD,Technology,PEM,49
+2014,WLD,Technology,PEM,52
+2015,WLD,Technology,PEM,60
+2016,WLD,Technology,PEM,71
+2017,WLD,Technology,PEM,81
+2018,WLD,Technology,PEM,97
+2019,WLD,Technology,PEM,115
+2020,WLD,Technology,PEM,130
+2021,WLD,Technology,PEM,153
+2022,WLD,Technology,PEM,177
+2023,WLD,Technology,PEM,197
+2024,WLD,Technology,PEM,246
+2025,WLD,Technology,PEM,285
+2026,WLD,Technology,PEM,328
+2027,WLD,Technology,PEM,346
+2028,WLD,Technology,PEM,359
+2029,WLD,Technology,PEM,360
+2030,WLD,Technology,PEM,375
+2031,WLD,Technology,PEM,375
+2032,WLD,Technology,PEM,376
+2033,WLD,Technology,PEM,377
+2034,WLD,Technology,PEM,377
+2035,WLD,Technology,PEM,377
+2036,WLD,Technology,PEM,377
+2037,WLD,Technology,PEM,377
+2038,WLD,Technology,PEM,377
+2040,WLD,Technology,PEM,377
+2043,WLD,Technology,PEM,377
+2000,WLD,Technology,SOEC,0
+2001,WLD,Technology,SOEC,0
+2002,WLD,Technology,SOEC,0
+2003,WLD,Technology,SOEC,0
+2004,WLD,Technology,SOEC,0
+2005,WLD,Technology,SOEC,0
+2006,WLD,Technology,SOEC,0
+2007,WLD,Technology,SOEC,0
+2008,WLD,Technology,SOEC,0
+2009,WLD,Technology,SOEC,0
+2010,WLD,Technology,SOEC,0
+2011,WLD,Technology,SOEC,1
+2012,WLD,Technology,SOEC,3
+2013,WLD,Technology,SOEC,4
+2014,WLD,Technology,SOEC,5
+2015,WLD,Technology,SOEC,8
+2016,WLD,Technology,SOEC,10
+2017,WLD,Technology,SOEC,12
+2018,WLD,Technology,SOEC,15
+2019,WLD,Technology,SOEC,17
+2020,WLD,Technology,SOEC,20
+2021,WLD,Technology,SOEC,23
+2022,WLD,Technology,SOEC,23
+2023,WLD,Technology,SOEC,30
+2024,WLD,Technology,SOEC,32
+2025,WLD,Technology,SOEC,34
+2026,WLD,Technology,SOEC,36
+2027,WLD,Technology,SOEC,36
+2028,WLD,Technology,SOEC,39
+2029,WLD,Technology,SOEC,41
+2030,WLD,Technology,SOEC,41
+2031,WLD,Technology,SOEC,41
+2032,WLD,Technology,SOEC,41
+2033,WLD,Technology,SOEC,41
+2034,WLD,Technology,SOEC,41
+2035,WLD,Technology,SOEC,41
+2036,WLD,Technology,SOEC,41
+2037,WLD,Technology,SOEC,41
+2038,WLD,Technology,SOEC,41
+2040,WLD,Technology,SOEC,41
+2043,WLD,Technology,SOEC,41
+2025,AGO,Status,Feasibility study,1
+2016,ARE,Status,Operational,1
+2021,ARE,Status,Operational,2
+2024,ARE,Status,Feasibility study,1
+2025,ARE,Status,Concept,1
+2026,ARE,Status,Concept,2
+2026,ARE,Status,Feasibility study,2
+2028,ARE,Status,Concept,3
+2030,ARE,Status,Feasibility study,3
+2009,ARG,Status,Operational,1
+2030,ARG,Status,Feasibility study,1
+2013,AUS,Status,Operational,1
+2018,AUS,Status,Operational,2
+2019,AUS,Status,Operational,3
+2020,AUS,Status,DEMO,2
+2021,AUS,Status,Operational,7
+2022,AUS,Status,Operational,9
+2023,AUS,Status,DEMO,3
+2023,AUS,Status,Operational,10
+2024,AUS,Status,Feasibility study,10
+2024,AUS,Status,FID/Construction,11
+2024,AUS,Status,Operational,12
+2025,AUS,Status,DEMO,4
+2025,AUS,Status,Feasibility study,17
+2025,AUS,Status,FID/Construction,16
+2026,AUS,Status,Feasibility study,22
+2026,AUS,Status,FID/Construction,18
+2027,AUS,Status,Concept,3
+2027,AUS,Status,Feasibility study,31
+2028,AUS,Status,Concept,10
+2028,AUS,Status,Feasibility study,39
+2028,AUS,Status,FID/Construction,19
+2029,AUS,Status,Concept,12
+2029,AUS,Status,Feasibility study,40
+2030,AUS,Status,Concept,15
+2030,AUS,Status,Feasibility study,43
+2031,AUS,Status,Feasibility study,44
+2032,AUS,Status,Concept,16
+2036,AUS,Status,Feasibility study,45
+2002,AUT,Status,DEMO,1
+2006,AUT,Status,DEMO,3
+2012,AUT,Status,DEMO,4
+2013,AUT,Status,DEMO,6
+2015,AUT,Status,DEMO,7
+2017,AUT,Status,Operational,1
+2018,AUT,Status,Operational,2
+2019,AUT,Status,Operational,3
+2020,AUT,Status,Operational,4
+2022,AUT,Status,Operational,6
+2023,AUT,Status,DEMO,8
+2023,AUT,Status,Operational,10
+2024,AUT,Status,FID/Construction,2
+2024,AUT,Status,Operational,11
+2025,AUT,Status,FID/Construction,6
+2026,AUT,Status,Feasibility study,1
+2027,AUT,Status,Feasibility study,3
+2030,AUT,Status,Concept,1
+2015,BEL,Status,Operational,1
+2021,BEL,Status,Operational,2
+2024,BEL,Status,Feasibility study,1
+2025,BEL,Status,DEMO,1
+2025,BEL,Status,Feasibility study,4
+2025,BEL,Status,FID/Construction,1
+2026,BEL,Status,DEMO,2
+2026,BEL,Status,FID/Construction,2
+2027,BEL,Status,Feasibility study,5
+2028,BEL,Status,Concept,1
+2028,BEL,Status,Feasibility study,6
+2030,BEL,Status,Feasibility study,8
+2020,BGD,Status,DEMO,1
+2025,BGR,Status,DEMO,1
+2021,BRA,Status,DEMO,1
+2022,BRA,Status,Operational,2
+2023,BRA,Status,DEMO,2
+2024,BRA,Status,DEMO,4
+2024,BRA,Status,FID/Construction,1
+2025,BRA,Status,Concept,2
+2025,BRA,Status,Feasibility study,3
+2025,BRA,Status,FID/Construction,2
+2026,BRA,Status,Concept,3
+2026,BRA,Status,Feasibility study,6
+2027,BRA,Status,Concept,7
+2027,BRA,Status,Feasibility study,9
+2028,BRA,Status,Concept,8
+2030,BRA,Status,Concept,11
+2030,BRA,Status,Feasibility study,10
+2032,BRA,Status,Concept,12
+2026,BRB,Status,Feasibility study,1
+2025,BWA,Status,Feasibility study,1
+2001,CAN,Status,DEMO,2
+2007,CAN,Status,DEMO,3
+2009,CAN,Status,DEMO,4
+2010,CAN,Status,Operational,1
+2011,CAN,Status,Operational,2
+2015,CAN,Status,DEMO,5
+2015,CAN,Status,Operational,3
+2017,CAN,Status,Operational,4
+2019,CAN,Status,Operational,6
+2020,CAN,Status,Operational,9
+2023,CAN,Status,Operational,10
+2024,CAN,Status,DEMO,6
+2024,CAN,Status,FID/Construction,3
+2025,CAN,Status,Concept,1
+2025,CAN,Status,Feasibility study,3
+2025,CAN,Status,FID/Construction,5
+2026,CAN,Status,Feasibility study,5
+2026,CAN,Status,FID/Construction,6
+2027,CAN,Status,Concept,2
+2027,CAN,Status,Feasibility study,7
+2028,CAN,Status,Feasibility study,12
+2029,CAN,Status,Feasibility study,13
+2029,CAN,Status,FID/Construction,7
+2030,CAN,Status,Concept,4
+2030,CAN,Status,Feasibility study,14
+2012,CHE,Status,DEMO,1
+2014,CHE,Status,DEMO,2
+2015,CHE,Status,DEMO,5
+2019,CHE,Status,Operational,1
+2020,CHE,Status,Operational,2
+2022,CHE,Status,Operational,4
+2023,CHE,Status,Operational,5
+2024,CHE,Status,FID/Construction,1
+2024,CHE,Status,Operational,6
+2025,CHE,Status,Feasibility study,2
+2017,CHL,Status,Operational,1
+2021,CHL,Status,Operational,2
+2022,CHL,Status,Operational,4
+2023,CHL,Status,Operational,6
+2024,CHL,Status,DEMO,1
+2024,CHL,Status,Feasibility study,2
+2024,CHL,Status,Operational,7
+2025,CHL,Status,Concept,3
+2025,CHL,Status,Feasibility study,10
+2025,CHL,Status,FID/Construction,1
+2026,CHL,Status,Concept,4
+2026,CHL,Status,Feasibility study,11
+2027,CHL,Status,Concept,9
+2027,CHL,Status,Feasibility study,15
+2028,CHL,Status,Feasibility study,19
+2029,CHL,Status,Concept,10
+2030,CHL,Status,Concept,12
+2030,CHL,Status,Feasibility study,21
+2031,CHL,Status,Concept,13
+2032,CHL,Status,Concept,15
+2033,CHL,Status,Concept,17
+2015,CHN,Status,Decommisioned,1
+2015,CHN,Status,Operational,2
+2017,CHN,Status,Operational,3
+2018,CHN,Status,Operational,4
+2019,CHN,Status,Operational,6
+2020,CHN,Status,DEMO,2
+2020,CHN,Status,Operational,8
+2021,CHN,Status,Operational,12
+2022,CHN,Status,DEMO,4
+2022,CHN,Status,Operational,17
+2023,CHN,Status,DEMO,5
+2023,CHN,Status,FID/Construction,1
+2023,CHN,Status,Operational,26
+2024,CHN,Status,DEMO,6
+2024,CHN,Status,Feasibility study,1
+2024,CHN,Status,FID/Construction,17
+2025,CHN,Status,Feasibility study,7
+2025,CHN,Status,FID/Construction,25
+2026,CHN,Status,Concept,2
+2026,CHN,Status,Feasibility study,12
+2026,CHN,Status,FID/Construction,32
+2027,CHN,Status,Feasibility study,14
+2027,CHN,Status,FID/Construction,34
+2028,CHN,Status,Concept,3
+2028,CHN,Status,Feasibility study,15
+2029,CHN,Status,Feasibility study,16
+2030,CHN,Status,Concept,4
+2035,CHN,Status,Concept,5
+2011,COK,Status,DEMO,1
+2022,COL,Status,Operational,3
+2023,COL,Status,Operational,4
+2024,COL,Status,FID/Construction,2
+2025,COL,Status,Feasibility study,1
+2026,COL,Status,Concept,2
+2027,COL,Status,Concept,6
+2027,COL,Status,Feasibility study,8
+2030,COL,Status,Concept,7
+2030,COL,Status,Feasibility study,12
+2030,COL,Status,FID/Construction,3
+2032,COL,Status,Feasibility study,15
+2033,COL,Status,Feasibility study,16
+2040,COL,Status,Concept,9
+2017,CRI,Status,Operational,1
+2025,CRI,Status,Feasibility study,1
+2028,CRI,Status,Concept,1
+2028,CRI,Status,Feasibility study,2
+2025,CYP,Status,Concept,1
+2029,CYP,Status,Feasibility study,1
+2024,CZE,Status,FID/Construction,1
+2025,CZE,Status,Feasibility study,1
+2026,CZE,Status,Feasibility study,2
+2028,CZE,Status,FID/Construction,2
+2030,CZE,Status,Feasibility study,4
+2003,DEU,Status,DEMO,1
+2005,DEU,Status,DEMO,2
+2006,DEU,Status,DEMO,3
+2007,DEU,Status,DEMO,4
+2008,DEU,Status,DEMO,5
+2009,DEU,Status,DEMO,6
+2009,DEU,Status,Operational,1
+2011,DEU,Status,DEMO,9
+2011,DEU,Status,Operational,4
+2012,DEU,Status,DEMO,13
+2012,DEU,Status,Operational,8
+2013,DEU,Status,DEMO,16
+2013,DEU,Status,Operational,13
+2014,DEU,Status,DEMO,17
+2014,DEU,Status,Operational,16
+2015,DEU,Status,DEMO,22
+2015,DEU,Status,Operational,18
+2016,DEU,Status,DEMO,25
+2016,DEU,Status,Operational,21
+2017,DEU,Status,DEMO,27
+2017,DEU,Status,Operational,24
+2018,DEU,Status,Operational,30
+2019,DEU,Status,DEMO,29
+2019,DEU,Status,Operational,35
+2020,DEU,Status,Operational,42
+2021,DEU,Status,DEMO,31
+2021,DEU,Status,Operational,48
+2022,DEU,Status,DEMO,32
+2022,DEU,Status,Operational,50
+2023,DEU,Status,DEMO,39
+2023,DEU,Status,Operational,54
+2024,DEU,Status,Concept,1
+2024,DEU,Status,DEMO,40
+2024,DEU,Status,Feasibility study,2
+2024,DEU,Status,FID/Construction,11
+2024,DEU,Status,Operational,58
+2025,DEU,Status,Concept,3
+2025,DEU,Status,Feasibility study,13
+2025,DEU,Status,FID/Construction,22
+2026,DEU,Status,Concept,5
+2026,DEU,Status,Feasibility study,20
+2026,DEU,Status,FID/Construction,28
+2027,DEU,Status,Concept,6
+2027,DEU,Status,Feasibility study,30
+2027,DEU,Status,FID/Construction,31
+2028,DEU,Status,Concept,10
+2028,DEU,Status,Feasibility study,35
+2028,DEU,Status,FID/Construction,33
+2029,DEU,Status,Concept,13
+2030,DEU,Status,Concept,17
+2030,DEU,Status,Feasibility study,37
+2035,DEU,Status,Concept,18
+2035,DEU,Status,Feasibility study,38
+2007,DNK,Status,DEMO,1
+2008,DNK,Status,DEMO,2
+2010,DNK,Status,DEMO,4
+2010,DNK,Status,Operational,2
+2011,DNK,Status,DEMO,8
+2013,DNK,Status,DEMO,9
+2013,DNK,Status,Operational,6
+2014,DNK,Status,DEMO,11
+2015,DNK,Status,DEMO,13
+2015,DNK,Status,Operational,7
+2017,DNK,Status,DEMO,14
+2020,DNK,Status,Operational,10
+2021,DNK,Status,DEMO,15
+2022,DNK,Status,DEMO,16
+2022,DNK,Status,Operational,11
+2024,DNK,Status,Feasibility study,1
+2024,DNK,Status,FID/Construction,3
+2024,DNK,Status,Operational,13
+2025,DNK,Status,Concept,1
+2025,DNK,Status,Feasibility study,4
+2025,DNK,Status,FID/Construction,7
+2026,DNK,Status,Concept,3
+2026,DNK,Status,Feasibility study,5
+2027,DNK,Status,Concept,5
+2027,DNK,Status,Feasibility study,7
+2028,DNK,Status,Feasibility study,9
+2030,DNK,Status,Concept,6
+2030,DNK,Status,Feasibility study,12
+2028,DOM,Status,Concept,1
+2000,EGY,Status,Decommisioned,1
+2022,EGY,Status,Operational,1
+2025,EGY,Status,Concept,2
+2026,EGY,Status,Feasibility study,4
+2027,EGY,Status,Concept,3
+2027,EGY,Status,Feasibility study,5
+2028,EGY,Status,Feasibility study,6
+2029,EGY,Status,Concept,6
+2030,EGY,Status,Concept,7
+2030,EGY,Status,Feasibility study,7
+2032,EGY,Status,Concept,8
+2000,ESP,Status,DEMO,1
+2004,ESP,Status,DEMO,2
+2006,ESP,Status,DEMO,3
+2007,ESP,Status,DEMO,4
+2008,ESP,Status,DEMO,7
+2010,ESP,Status,DEMO,8
+2011,ESP,Status,DEMO,9
+2013,ESP,Status,DEMO,10
+2014,ESP,Status,DEMO,11
+2015,ESP,Status,Operational,1
+2018,ESP,Status,Operational,2
+2019,ESP,Status,DEMO,12
+2022,ESP,Status,Operational,7
+2023,ESP,Status,Operational,12
+2024,ESP,Status,DEMO,13
+2024,ESP,Status,Feasibility study,1
+2024,ESP,Status,FID/Construction,6
+2025,ESP,Status,Concept,3
+2025,ESP,Status,Feasibility study,12
+2025,ESP,Status,FID/Construction,11
+2026,ESP,Status,Concept,7
+2026,ESP,Status,Feasibility study,34
+2026,ESP,Status,FID/Construction,12
+2027,ESP,Status,Feasibility study,42
+2027,ESP,Status,FID/Construction,14
+2028,ESP,Status,Concept,10
+2028,ESP,Status,Feasibility study,55
+2029,ESP,Status,Concept,11
+2029,ESP,Status,Feasibility study,57
+2030,ESP,Status,Concept,19
+2030,ESP,Status,Feasibility study,59
+2031,ESP,Status,Concept,21
+2031,ESP,Status,Feasibility study,60
+2010,EST,Status,Operational,1
+2019,EST,Status,Operational,3
+2025,EST,Status,Concept,1
+2025,EST,Status,Feasibility study,1
+2028,EST,Status,Feasibility study,2
+2030,EST,Status,Concept,3
+2014,FIN,Status,Operational,1
+2019,FIN,Status,DEMO,2
+2020,FIN,Status,Operational,2
+2023,FIN,Status,DEMO,3
+2024,FIN,Status,DEMO,4
+2024,FIN,Status,FID/Construction,1
+2024,FIN,Status,Operational,3
+2025,FIN,Status,Feasibility study,3
+2025,FIN,Status,FID/Construction,3
+2026,FIN,Status,Feasibility study,13
+2026,FIN,Status,FID/Construction,5
+2027,FIN,Status,Feasibility study,21
+2028,FIN,Status,Concept,1
+2028,FIN,Status,Feasibility study,22
+2029,FIN,Status,Concept,2
+2029,FIN,Status,Feasibility study,24
+2030,FIN,Status,Concept,3
+2030,FIN,Status,Feasibility study,30
+2000,FRA,Status,DEMO,1
+2009,FRA,Status,DEMO,2
+2012,FRA,Status,DEMO,4
+2014,FRA,Status,DEMO,5
+2015,FRA,Status,Operational,1
+2016,FRA,Status,DEMO,6
+2017,FRA,Status,Operational,3
+2018,FRA,Status,DEMO,8
+2018,FRA,Status,Operational,5
+2019,FRA,Status,Operational,7
+2020,FRA,Status,DEMO,10
+2021,FRA,Status,DEMO,11
+2021,FRA,Status,Operational,12
+2022,FRA,Status,DEMO,12
+2022,FRA,Status,Operational,13
+2023,FRA,Status,DEMO,14
+2023,FRA,Status,Operational,20
+2024,FRA,Status,Feasibility study,3
+2024,FRA,Status,FID/Construction,4
+2024,FRA,Status,Operational,25
+2025,FRA,Status,Concept,4
+2025,FRA,Status,Feasibility study,14
+2025,FRA,Status,FID/Construction,10
+2026,FRA,Status,Concept,9
+2026,FRA,Status,Feasibility study,16
+2026,FRA,Status,FID/Construction,13
+2027,FRA,Status,Concept,11
+2027,FRA,Status,Feasibility study,25
+2027,FRA,Status,FID/Construction,14
+2028,FRA,Status,Concept,16
+2028,FRA,Status,Feasibility study,34
+2029,FRA,Status,Feasibility study,39
+2030,FRA,Status,Concept,22
+2030,FRA,Status,Feasibility study,44
+2031,FRA,Status,Feasibility study,45
+2004,GBR,Status,Operational,1
+2005,GBR,Status,Operational,2
+2008,GBR,Status,Operational,3
+2010,GBR,Status,DEMO,1
+2011,GBR,Status,DEMO,2
+2012,GBR,Status,DEMO,3
+2012,GBR,Status,Operational,4
+2015,GBR,Status,DEMO,4
+2016,GBR,Status,Operational,5
+2017,GBR,Status,Operational,6
+2018,GBR,Status,Decommisioned,1
+2018,GBR,Status,Operational,8
+2019,GBR,Status,Decommisioned,2
+2019,GBR,Status,Operational,9
+2020,GBR,Status,Operational,10
+2021,GBR,Status,Operational,11
+2023,GBR,Status,DEMO,5
+2023,GBR,Status,Operational,13
+2024,GBR,Status,FID/Construction,5
+2024,GBR,Status,Operational,14
+2024,GBR,Status,Other/Unknown,1
+2025,GBR,Status,DEMO,6
+2025,GBR,Status,Feasibility study,5
+2025,GBR,Status,FID/Construction,15
+2025,GBR,Status,Other/Unknown,2
+2026,GBR,Status,Concept,2
+2026,GBR,Status,Feasibility study,16
+2026,GBR,Status,FID/Construction,30
+2027,GBR,Status,Concept,3
+2027,GBR,Status,Feasibility study,24
+2027,GBR,Status,FID/Construction,31
+2028,GBR,Status,Concept,10
+2028,GBR,Status,Feasibility study,38
+2028,GBR,Status,FID/Construction,35
+2029,GBR,Status,Concept,11
+2029,GBR,Status,Feasibility study,41
+2030,GBR,Status,Concept,25
+2030,GBR,Status,Feasibility study,54
+2030,GBR,Status,FID/Construction,36
+2030,GBR,Status,Other/Unknown,3
+2032,GBR,Status,Concept,27
+2034,GBR,Status,Concept,28
+2035,GBR,Status,Concept,31
+2035,GBR,Status,Feasibility study,55
+2006,GRC,Status,DEMO,1
+2008,GRC,Status,DEMO,2
+2009,GRC,Status,DEMO,3
+2010,GRC,Status,DEMO,5
+2012,GRC,Status,Operational,1
+2021,GRC,Status,Operational,2
+2022,GRC,Status,Operational,3
+2025,GRC,Status,Concept,1
+2025,GRC,Status,Feasibility study,1
+2027,GRC,Status,Feasibility study,2
+2028,GRC,Status,Concept,2
+2030,GRC,Status,Concept,3
+2028,HRV,Status,Feasibility study,1
+2023,HUN,Status,Operational,1
+2024,HUN,Status,FID/Construction,1
+2024,HUN,Status,Operational,2
+2023,IDN,Status,Operational,1
+2024,IDN,Status,FID/Construction,1
+2025,IDN,Status,Feasibility study,1
+2026,IDN,Status,Feasibility study,3
+2027,IDN,Status,Concept,1
+2027,IDN,Status,Feasibility study,4
+2028,IDN,Status,Concept,2
+2030,IDN,Status,Concept,5
+2030,IDN,Status,Feasibility study,5
+2005,IND,Status,Operational,1
+2012,IND,Status,Operational,2
+2013,IND,Status,DEMO,1
+2014,IND,Status,Operational,3
+2015,IND,Status,DEMO,2
+2015,IND,Status,Operational,6
+2021,IND,Status,Operational,7
+2022,IND,Status,DEMO,3
+2022,IND,Status,Operational,8
+2023,IND,Status,Operational,9
+2024,IND,Status,Feasibility study,2
+2024,IND,Status,FID/Construction,5
+2024,IND,Status,Operational,14
+2025,IND,Status,Concept,4
+2025,IND,Status,Feasibility study,8
+2025,IND,Status,FID/Construction,6
+2026,IND,Status,Concept,7
+2026,IND,Status,Feasibility study,15
+2027,IND,Status,Concept,13
+2027,IND,Status,Feasibility study,26
+2027,IND,Status,FID/Construction,7
+2028,IND,Status,Concept,14
+2028,IND,Status,Feasibility study,28
+2029,IND,Status,Concept,15
+2030,IND,Status,Concept,21
+2030,IND,Status,Feasibility study,32
+2032,IND,Status,Feasibility study,33
+2033,IND,Status,Concept,22
+2040,IND,Status,Feasibility study,34
+2025,IRL,Status,FID/Construction,1
+2026,IRL,Status,Feasibility study,4
+2026,IRL,Status,FID/Construction,2
+2027,IRL,Status,FID/Construction,3
+2028,IRL,Status,Feasibility study,5
+2030,IRL,Status,Concept,3
+2009,IRN,Status,Operational,1
+2003,ISL,Status,DEMO,1
+2012,ISL,Status,Operational,1
+2018,ISL,Status,Operational,2
+2025,ISL,Status,Concept,1
+2026,ISL,Status,Feasibility study,2
+2028,ISL,Status,Concept,2
+2028,ISL,Status,Feasibility study,3
+2004,ITA,Status,DEMO,1
+2007,ITA,Status,DEMO,2
+2013,ITA,Status,DEMO,3
+2014,ITA,Status,Operational,1
+2016,ITA,Status,DEMO,4
+2016,ITA,Status,Operational,2
+2018,ITA,Status,Operational,4
+2025,ITA,Status,Feasibility study,3
+2026,ITA,Status,Concept,4
+2026,ITA,Status,Feasibility study,15
+2026,ITA,Status,FID/Construction,3
+2027,ITA,Status,Concept,5
+2027,ITA,Status,Feasibility study,17
+2028,ITA,Status,Feasibility study,19
+2029,ITA,Status,Feasibility study,21
+2030,ITA,Status,Concept,6
+2030,ITA,Status,Feasibility study,23
+2031,ITA,Status,Concept,8
+2028,JOR,Status,Feasibility study,1
+2030,JOR,Status,Concept,1
+2003,JPN,Status,DEMO,1
+2005,JPN,Status,DEMO,2
+2015,JPN,Status,DEMO,3
+2016,JPN,Status,DEMO,5
+2016,JPN,Status,Operational,2
+2017,JPN,Status,DEMO,7
+2017,JPN,Status,Operational,5
+2018,JPN,Status,Operational,8
+2019,JPN,Status,DEMO,8
+2019,JPN,Status,Operational,11
+2020,JPN,Status,DEMO,9
+2020,JPN,Status,Operational,16
+2021,JPN,Status,Operational,17
+2023,JPN,Status,Operational,18
+2024,JPN,Status,DEMO,11
+2024,JPN,Status,Operational,19
+2025,JPN,Status,Feasibility study,2
+2025,JPN,Status,FID/Construction,1
+2030,JPN,Status,Concept,2
+2032,KAZ,Status,Feasibility study,1
+2025,KEN,Status,Feasibility study,1
+2030,KEN,Status,Feasibility study,2
+2023,KOR,Status,DEMO,1
+2023,KOR,Status,Operational,1
+2025,KOR,Status,Concept,1
+2025,KOR,Status,DEMO,2
+2025,KOR,Status,Feasibility study,3
+2025,KOR,Status,FID/Construction,1
+2026,KOR,Status,Concept,2
+2026,KOR,Status,Feasibility study,4
+2027,KOR,Status,DEMO,3
+2027,KOR,Status,Feasibility study,5
+2030,KOR,Status,Concept,5
+2018,LBN,Status,Operational,1
+2024,LTU,Status,DEMO,1
+2027,LTU,Status,Feasibility study,1
+2025,LVA,Status,Concept,1
+2030,LVA,Status,Concept,3
+2025,MAR,Status,Concept,1
+2025,MAR,Status,Feasibility study,1
+2026,MAR,Status,Feasibility study,2
+2027,MAR,Status,Concept,2
+2028,MAR,Status,Concept,3
+2028,MAR,Status,Feasibility study,3
+2030,MAR,Status,Concept,5
+2030,MAR,Status,Feasibility study,4
+2032,MAR,Status,Concept,6
+2025,MEX,Status,Feasibility study,1
+2026,MEX,Status,Feasibility study,3
+2027,MEX,Status,Concept,1
+2028,MEX,Status,Concept,4
+2030,MEX,Status,Concept,5
+2028,MRT,Status,Concept,2
+2029,MRT,Status,Feasibility study,2
+2031,MRT,Status,Feasibility study,3
+2033,MRT,Status,Concept,3
+2037,MRT,Status,Feasibility study,4
+2006,MYS,Status,DEMO,1
+2019,MYS,Status,Operational,1
+2026,MYS,Status,FID/Construction,1
+2027,MYS,Status,Concept,1
+2028,MYS,Status,Feasibility study,1
+2024,NAM,Status,FID/Construction,3
+2024,NAM,Status,Operational,1
+2026,NAM,Status,Feasibility study,1
+2027,NAM,Status,Feasibility study,5
+2029,NAM,Status,Feasibility study,6
+2032,NAM,Status,Concept,1
+2032,NAM,Status,Feasibility study,7
+2003,NLD,Status,DEMO,1
+2005,NLD,Status,Operational,1
+2008,NLD,Status,DEMO,2
+2011,NLD,Status,Operational,2
+2013,NLD,Status,DEMO,3
+2019,NLD,Status,DEMO,4
+2021,NLD,Status,Operational,3
+2022,NLD,Status,Operational,7
+2023,NLD,Status,DEMO,8
+2023,NLD,Status,Operational,9
+2024,NLD,Status,FID/Construction,2
+2024,NLD,Status,Operational,10
+2025,NLD,Status,Feasibility study,10
+2025,NLD,Status,FID/Construction,7
+2026,NLD,Status,DEMO,10
+2026,NLD,Status,Feasibility study,21
+2026,NLD,Status,FID/Construction,10
+2027,NLD,Status,Concept,4
+2027,NLD,Status,Feasibility study,30
+2028,NLD,Status,Concept,7
+2028,NLD,Status,Feasibility study,38
+2029,NLD,Status,Concept,9
+2030,NLD,Status,Concept,13
+2030,NLD,Status,Feasibility study,48
+2031,NLD,Status,Concept,14
+2032,NLD,Status,Concept,15
+2033,NLD,Status,Concept,16
+2040,NLD,Status,Concept,17
+2043,NLD,Status,Concept,18
+2000,NOR,Status,Operational,1
+2003,NOR,Status,DEMO,1
+2004,NOR,Status,DEMO,2
+2010,NOR,Status,DEMO,3
+2013,NOR,Status,Operational,3
+2016,NOR,Status,Operational,4
+2017,NOR,Status,Operational,5
+2020,NOR,Status,Decommisioned,1
+2021,NOR,Status,Operational,6
+2022,NOR,Status,Operational,7
+2023,NOR,Status,Operational,8
+2024,NOR,Status,FID/Construction,3
+2024,NOR,Status,Operational,10
+2025,NOR,Status,DEMO,4
+2025,NOR,Status,Feasibility study,3
+2025,NOR,Status,FID/Construction,6
+2026,NOR,Status,Concept,1
+2026,NOR,Status,Feasibility study,9
+2026,NOR,Status,FID/Construction,7
+2027,NOR,Status,Concept,2
+2027,NOR,Status,Feasibility study,19
+2027,NOR,Status,FID/Construction,8
+2028,NOR,Status,Concept,3
+2028,NOR,Status,Feasibility study,27
+2028,NOR,Status,FID/Construction,10
+2029,NOR,Status,Concept,6
+2029,NOR,Status,Feasibility study,28
+2030,NOR,Status,Concept,8
+2030,NOR,Status,Feasibility study,29
+2030,NOR,Status,FID/Construction,11
+2032,NOR,Status,Concept,9
+2008,NZL,Status,DEMO,1
+2009,NZL,Status,DEMO,2
+2011,NZL,Status,DEMO,3
+2021,NZL,Status,Operational,1
+2022,NZL,Status,DEMO,4
+2025,NZL,Status,Feasibility study,1
+2025,NZL,Status,FID/Construction,1
+2027,NZL,Status,Feasibility study,4
+2024,OMN,Status,Feasibility study,1
+2025,OMN,Status,Concept,1
+2025,OMN,Status,Feasibility study,2
+2026,OMN,Status,Concept,2
+2027,OMN,Status,FID/Construction,1
+2030,OMN,Status,Concept,3
+2030,OMN,Status,Feasibility study,8
+2038,OMN,Status,Feasibility study,9
+2027,PAN,Status,Feasibility study,1
+1965,PER,Status,Operational,1
+2023,PER,Status,Operational,2
+2027,PER,Status,Concept,1
+2030,PER,Status,Feasibility study,1
+2032,PER,Status,Concept,2
+2019,POL,Status,Operational,1
+2021,POL,Status,Operational,2
+2024,POL,Status,FID/Construction,2
+2025,POL,Status,Feasibility study,1
+2026,POL,Status,FID/Construction,3
+2027,POL,Status,Feasibility study,2
+2028,POL,Status,Feasibility study,3
+2030,POL,Status,Concept,1
+2030,POL,Status,Feasibility study,7
+2003,PRT,Status,DEMO,1
+2022,PRT,Status,DEMO,2
+2023,PRT,Status,DEMO,3
+2023,PRT,Status,Operational,1
+2024,PRT,Status,FID/Construction,1
+2025,PRT,Status,Feasibility study,8
+2025,PRT,Status,FID/Construction,7
+2026,PRT,Status,Feasibility study,11
+2027,PRT,Status,Concept,1
+2027,PRT,Status,Feasibility study,15
+2028,PRT,Status,Concept,2
+2028,PRT,Status,Feasibility study,17
+2029,PRT,Status,Concept,3
+2029,PRT,Status,DEMO,4
+2029,PRT,Status,Feasibility study,18
+2030,PRT,Status,Concept,7
+2030,PRT,Status,Feasibility study,19
+2035,PRT,Status,Concept,8
+2040,PRT,Status,Concept,9
+2026,PRY,Status,Feasibility study,2
+2027,PRY,Status,Feasibility study,4
+2028,PRY,Status,Feasibility study,5
+2026,QAT,Status,FID/Construction,1
+2025,ROU,Status,Feasibility study,1
+2026,ROU,Status,Feasibility study,2
+2028,ROU,Status,FID/Construction,1
+2030,ROU,Status,Concept,1
+2022,RUS,Status,Operational,1
+2026,SAU,Status,FID/Construction,1
+2019,SGP,Status,Operational,4
+2024,SGP,Status,Feasibility study,1
+2025,SGP,Status,DEMO,1
+2026,SGP,Status,Feasibility study,2
+2028,SRB,Status,Feasibility study,1
+2025,SVK,Status,Feasibility study,3
+2030,SVK,Status,Feasibility study,4
+2035,SVK,Status,Concept,1
+2000,SVN,Status,Operational,2
+2021,SVN,Status,Operational,3
+2026,SVN,Status,FID/Construction,1
+1992,SWE,Status,Operational,1
+2003,SWE,Status,DEMO,1
+2015,SWE,Status,DEMO,2
+2018,SWE,Status,Operational,2
+2019,SWE,Status,Operational,3
+2021,SWE,Status,Operational,4
+2023,SWE,Status,Operational,5
+2024,SWE,Status,DEMO,3
+2024,SWE,Status,Feasibility study,1
+2025,SWE,Status,Concept,2
+2025,SWE,Status,Feasibility study,3
+2025,SWE,Status,FID/Construction,3
+2026,SWE,Status,DEMO,4
+2026,SWE,Status,Feasibility study,6
+2027,SWE,Status,Concept,4
+2027,SWE,Status,Feasibility study,8
+2028,SWE,Status,Feasibility study,9
+2030,SWE,Status,Concept,7
+2012,THA,Status,DEMO,1
+2018,THA,Status,Operational,1
+2027,TTO,Status,Feasibility study,1
+2030,TUN,Status,Concept,1
+2030,TUN,Status,Feasibility study,1
+2035,TUN,Status,Concept,2
+2007,TUR,Status,DEMO,1
+2008,TUR,Status,DEMO,2
+2009,TUR,Status,DEMO,3
+2011,TUR,Status,DEMO,4
+2011,TUR,Status,Operational,1
+2021,TWN,Status,Operational,1
+2029,UGA,Status,Feasibility study,1
+2025,URY,Status,Feasibility study,1
+2026,URY,Status,Feasibility study,2
+2030,URY,Status,Feasibility study,3
+1982,USA,Status,Operational,1
+2000,USA,Status,Operational,6
+2004,USA,Status,DEMO,2
+2006,USA,Status,DEMO,3
+2007,USA,Status,DEMO,5
+2008,USA,Status,DEMO,6
+2008,USA,Status,Operational,7
+2009,USA,Status,DEMO,7
+2010,USA,Status,DEMO,8
+2013,USA,Status,Operational,10
+2015,USA,Status,Decommisioned,1
+2015,USA,Status,DEMO,9
+2016,USA,Status,DEMO,12
+2018,USA,Status,Operational,12
+2019,USA,Status,Operational,13
+2020,USA,Status,DEMO,15
+2021,USA,Status,DEMO,20
+2021,USA,Status,Operational,17
+2022,USA,Status,DEMO,23
+2022,USA,Status,Operational,18
+2023,USA,Status,DEMO,25
+2023,USA,Status,Operational,24
+2024,USA,Status,DEMO,27
+2024,USA,Status,Feasibility study,1
+2024,USA,Status,FID/Construction,11
+2024,USA,Status,Operational,27
+2025,USA,Status,Concept,3
+2025,USA,Status,DEMO,28
+2025,USA,Status,Feasibility study,10
+2025,USA,Status,FID/Construction,19
+2026,USA,Status,Concept,5
+2026,USA,Status,DEMO,29
+2026,USA,Status,Feasibility study,23
+2026,USA,Status,FID/Construction,23
+2027,USA,Status,Concept,9
+2027,USA,Status,Feasibility study,30
+2027,USA,Status,FID/Construction,24
+2028,USA,Status,Concept,14
+2028,USA,Status,Feasibility study,34
+2028,USA,Status,FID/Construction,25
+2029,USA,Status,Feasibility study,38
+2030,USA,Status,Concept,17
+2030,USA,Status,Feasibility study,43
+2024,UZB,Status,FID/Construction,1
+2027,VNM,Status,Feasibility study,1
+2022,ZAF,Status,Operational,1
+2024,ZAF,Status,DEMO,1
+2024,ZAF,Status,FID/Construction,1
+2025,ZAF,Status,Feasibility study,2
+2026,ZAF,Status,Feasibility study,3
+2027,ZAF,Status,Feasibility study,4
+2028,ZAF,Status,Concept,1
+2030,ZAF,Status,Concept,2
+2040,ZAF,Status,Concept,3
+2029,ZWE,Status,Concept,1
+2025,AGO,Technology,Other Electrolysis,1
+2016,ARE,Technology,NG w CCUS,1
+2021,ARE,Technology,PEM,1
+2024,ARE,Technology,ALK,1
+2025,ARE,Technology,Other Electrolysis,1
+2026,ARE,Technology,ALK,2
+2026,ARE,Technology,Other Electrolysis,2
+2028,ARE,Technology,Other Electrolysis,3
+2030,ARE,Technology,NG w CCUS,2
+2009,ARG,Technology,ALK,1
+2030,ARG,Technology,Other Electrolysis,1
+2013,AUS,Technology,ALK,1
+2018,AUS,Technology,PEM,1
+2019,AUS,Technology,PEM,2
+2020,AUS,Technology,Other Electrolysis,2
+2021,AUS,Technology,PEM,6
+2022,AUS,Technology,Other Electrolysis,3
+2022,AUS,Technology,PEM,7
+2023,AUS,Technology,Other Electrolysis,5
+2024,AUS,Technology,ALK,3
+2024,AUS,Technology,Biomass,1
+2024,AUS,Technology,Other Electrolysis,18
+2024,AUS,Technology,PEM,14
+2025,AUS,Technology,ALK,6
+2025,AUS,Technology,Other Electrolysis,27
+2025,AUS,Technology,PEM,15
+2026,AUS,Technology,ALK,7
+2026,AUS,Technology,Other Electrolysis,32
+2026,AUS,Technology,PEM,16
+2027,AUS,Technology,ALK,9
+2027,AUS,Technology,NG w CCUS,2
+2027,AUS,Technology,Other Electrolysis,39
+2027,AUS,Technology,PEM,17
+2028,AUS,Technology,ALK,11
+2028,AUS,Technology,NG w CCUS,3
+2028,AUS,Technology,Other Electrolysis,50
+2028,AUS,Technology,PEM,19
+2029,AUS,Technology,Other Electrolysis,53
+2030,AUS,Technology,Coal w CCUS,1
+2030,AUS,Technology,Other Electrolysis,58
+2031,AUS,Technology,Other Electrolysis,59
+2032,AUS,Technology,Other Electrolysis,60
+2036,AUS,Technology,Other Electrolysis,61
+2002,AUT,Technology,Other Electrolysis,1
+2006,AUT,Technology,PEM,2
+2012,AUT,Technology,PEM,3
+2013,AUT,Technology,Other Electrolysis,3
+2015,AUT,Technology,PEM,4
+2017,AUT,Technology,AEM,1
+2018,AUT,Technology,ALK,1
+2019,AUT,Technology,PEM,5
+2020,AUT,Technology,SOEC,1
+2022,AUT,Technology,ALK,2
+2022,AUT,Technology,PEM,6
+2023,AUT,Technology,Other Electrolysis,4
+2023,AUT,Technology,PEM,10
+2024,AUT,Technology,Other Electrolysis,5
+2024,AUT,Technology,PEM,11
+2024,AUT,Technology,SOEC,2
+2025,AUT,Technology,ALK,3
+2025,AUT,Technology,Other Electrolysis,6
+2025,AUT,Technology,PEM,13
+2026,AUT,Technology,PEM,14
+2027,AUT,Technology,Other Electrolysis,8
+2030,AUT,Technology,Other Electrolysis,9
+2015,BEL,Technology,ALK,1
+2021,BEL,Technology,PEM,1
+2024,BEL,Technology,ALK,2
+2025,BEL,Technology,AEM,1
+2025,BEL,Technology,ALK,3
+2025,BEL,Technology,Other Electrolysis,2
+2025,BEL,Technology,PEM,2
+2026,BEL,Technology,Other Electrolysis,3
+2026,BEL,Technology,PEM,3
+2027,BEL,Technology,Other Electrolysis,4
+2028,BEL,Technology,NG w CCUS,1
+2028,BEL,Technology,Other Electrolysis,5
+2030,BEL,Technology,Oil w CCUS,1
+2030,BEL,Technology,Other Electrolysis,6
+2020,BGD,Technology,Biomass,1
+2025,BGR,Technology,Other Electrolysis,1
+2021,BRA,Technology,Other Electrolysis,1
+2022,BRA,Technology,Other Electrolysis,2
+2022,BRA,Technology,PEM,1
+2023,BRA,Technology,AEM,1
+2024,BRA,Technology,ALK,1
+2024,BRA,Technology,Biomass,2
+2025,BRA,Technology,ALK,3
+2025,BRA,Technology,Other Electrolysis,6
+2026,BRA,Technology,Other Electrolysis,10
+2027,BRA,Technology,Other Electrolysis,17
+2028,BRA,Technology,Other Electrolysis,18
+2030,BRA,Technology,Other Electrolysis,22
+2032,BRA,Technology,Other Electrolysis,23
+2026,BRB,Technology,PEM,1
+2025,BWA,Technology,Other,1
+2001,CAN,Technology,ALK,2
+2007,CAN,Technology,ALK,3
+2009,CAN,Technology,ALK,4
+2010,CAN,Technology,ALK,5
+2011,CAN,Technology,ALK,6
+2015,CAN,Technology,ALK,7
+2015,CAN,Technology,NG w CCUS,1
+2017,CAN,Technology,Oil w CCUS,1
+2019,CAN,Technology,ALK,8
+2019,CAN,Technology,PEM,1
+2020,CAN,Technology,NG w CCUS,2
+2020,CAN,Technology,Oil w CCUS,2
+2020,CAN,Technology,PEM,2
+2023,CAN,Technology,Biomass,1
+2024,CAN,Technology,Other Electrolysis,3
+2024,CAN,Technology,PEM,3
+2025,CAN,Technology,AEM,1
+2025,CAN,Technology,NG w CCUS,3
+2025,CAN,Technology,Other,1
+2025,CAN,Technology,Other Electrolysis,5
+2025,CAN,Technology,PEM,4
+2026,CAN,Technology,PEM,7
+2027,CAN,Technology,ALK,9
+2027,CAN,Technology,NG w CCUS,4
+2027,CAN,Technology,Other Electrolysis,6
+2028,CAN,Technology,NG w CCUS,6
+2028,CAN,Technology,Other Electrolysis,9
+2029,CAN,Technology,NG w CCUS,7
+2029,CAN,Technology,Other Electrolysis,10
+2030,CAN,Technology,ALK,10
+2030,CAN,Technology,Other Electrolysis,12
+2012,CHE,Technology,ALK,1
+2014,CHE,Technology,PEM,1
+2015,CHE,Technology,ALK,2
+2015,CHE,Technology,Other Electrolysis,1
+2015,CHE,Technology,PEM,2
+2019,CHE,Technology,PEM,3
+2020,CHE,Technology,PEM,4
+2022,CHE,Technology,Other Electrolysis,2
+2022,CHE,Technology,PEM,5
+2023,CHE,Technology,ALK,3
+2024,CHE,Technology,Other Electrolysis,4
+2025,CHE,Technology,Other Electrolysis,6
+2017,CHL,Technology,Other Electrolysis,1
+2021,CHL,Technology,PEM,1
+2022,CHL,Technology,Other Electrolysis,2
+2022,CHL,Technology,PEM,2
+2023,CHL,Technology,Other Electrolysis,3
+2023,CHL,Technology,PEM,3
+2024,CHL,Technology,Other Electrolysis,7
+2025,CHL,Technology,ALK,1
+2025,CHL,Technology,Other Electrolysis,17
+2025,CHL,Technology,PEM,4
+2026,CHL,Technology,Other Electrolysis,19
+2027,CHL,Technology,Other Electrolysis,28
+2028,CHL,Technology,Other Electrolysis,31
+2028,CHL,Technology,PEM,5
+2029,CHL,Technology,Other Electrolysis,32
+2030,CHL,Technology,Other Electrolysis,36
+2031,CHL,Technology,Other Electrolysis,37
+2032,CHL,Technology,Other Electrolysis,39
+2033,CHL,Technology,Other Electrolysis,41
+2015,CHN,Technology,Coal w CCUS,2
+2015,CHN,Technology,Oil w CCUS,1
+2017,CHN,Technology,ALK,1
+2018,CHN,Technology,Other Electrolysis,1
+2019,CHN,Technology,ALK,2
+2019,CHN,Technology,PEM,1
+2020,CHN,Technology,ALK,4
+2020,CHN,Technology,Other Electrolysis,3
+2021,CHN,Technology,ALK,7
+2021,CHN,Technology,PEM,2
+2022,CHN,Technology,ALK,8
+2022,CHN,Technology,Coal w CCUS,4
+2022,CHN,Technology,PEM,6
+2023,CHN,Technology,ALK,11
+2023,CHN,Technology,Biomass,1
+2023,CHN,Technology,Other Electrolysis,9
+2023,CHN,Technology,PEM,7
+2024,CHN,Technology,ALK,17
+2024,CHN,Technology,Other Electrolysis,21
+2025,CHN,Technology,AEM,1
+2025,CHN,Technology,ALK,19
+2025,CHN,Technology,Biomass,2
+2025,CHN,Technology,Oil w CCUS,2
+2025,CHN,Technology,Other Electrolysis,30
+2026,CHN,Technology,ALK,25
+2026,CHN,Technology,Biomass,3
+2026,CHN,Technology,Other Electrolysis,37
+2027,CHN,Technology,Other Electrolysis,41
+2028,CHN,Technology,NG w CCUS,1
+2028,CHN,Technology,Other Electrolysis,42
+2029,CHN,Technology,ALK,26
+2030,CHN,Technology,Other Electrolysis,43
+2035,CHN,Technology,Other Electrolysis,44
+2011,COK,Technology,ALK,1
+2022,COL,Technology,Other Electrolysis,1
+2022,COL,Technology,PEM,2
+2023,COL,Technology,PEM,3
+2024,COL,Technology,ALK,1
+2024,COL,Technology,Other Electrolysis,2
+2025,COL,Technology,ALK,2
+2026,COL,Technology,Other,1
+2026,COL,Technology,PEM,4
+2027,COL,Technology,ALK,4
+2027,COL,Technology,Other Electrolysis,5
+2027,COL,Technology,PEM,10
+2030,COL,Technology,ALK,5
+2030,COL,Technology,Other Electrolysis,7
+2030,COL,Technology,PEM,13
+2032,COL,Technology,Other Electrolysis,9
+2032,COL,Technology,PEM,14
+2033,COL,Technology,Other,2
+2040,COL,Technology,Other Electrolysis,11
+2017,CRI,Technology,PEM,1
+2025,CRI,Technology,PEM,2
+2028,CRI,Technology,ALK,1
+2028,CRI,Technology,Other Electrolysis,1
+2025,CYP,Technology,Other Electrolysis,1
+2029,CYP,Technology,Other Electrolysis,2
+2024,CZE,Technology,AEM,1
+2025,CZE,Technology,Other Electrolysis,1
+2026,CZE,Technology,Other Electrolysis,2
+2028,CZE,Technology,PEM,1
+2030,CZE,Technology,Other Electrolysis,4
+2003,DEU,Technology,ALK,1
+2005,DEU,Technology,PEM,1
+2006,DEU,Technology,PEM,2
+2007,DEU,Technology,Other Electrolysis,1
+2008,DEU,Technology,PEM,3
+2009,DEU,Technology,ALK,3
+2011,DEU,Technology,ALK,8
+2011,DEU,Technology,PEM,4
+2012,DEU,Technology,ALK,12
+2012,DEU,Technology,Other Electrolysis,2
+2012,DEU,Technology,PEM,6
+2012,DEU,Technology,SOEC,1
+2013,DEU,Technology,ALK,15
+2013,DEU,Technology,PEM,11
+2014,DEU,Technology,ALK,16
+2014,DEU,Technology,Other Electrolysis,3
+2014,DEU,Technology,PEM,13
+2015,DEU,Technology,ALK,17
+2015,DEU,Technology,Other Electrolysis,4
+2015,DEU,Technology,PEM,17
+2015,DEU,Technology,SOEC,2
+2016,DEU,Technology,PEM,22
+2016,DEU,Technology,SOEC,3
+2017,DEU,Technology,ALK,18
+2017,DEU,Technology,PEM,25
+2017,DEU,Technology,SOEC,4
+2018,DEU,Technology,ALK,20
+2018,DEU,Technology,Other Electrolysis,5
+2018,DEU,Technology,PEM,28
+2019,DEU,Technology,Other Electrolysis,8
+2019,DEU,Technology,PEM,31
+2019,DEU,Technology,SOEC,5
+2020,DEU,Technology,ALK,21
+2020,DEU,Technology,PEM,36
+2020,DEU,Technology,SOEC,6
+2021,DEU,Technology,ALK,23
+2021,DEU,Technology,PEM,40
+2021,DEU,Technology,SOEC,8
+2022,DEU,Technology,Other Electrolysis,9
+2022,DEU,Technology,PEM,42
+2023,DEU,Technology,AEM,4
+2023,DEU,Technology,Other,1
+2023,DEU,Technology,Other Electrolysis,11
+2023,DEU,Technology,PEM,43
+2023,DEU,Technology,SOEC,11
+2024,DEU,Technology,AEM,5
+2024,DEU,Technology,ALK,27
+2024,DEU,Technology,Other Electrolysis,16
+2024,DEU,Technology,PEM,52
+2025,DEU,Technology,AEM,6
+2025,DEU,Technology,ALK,31
+2025,DEU,Technology,Other Electrolysis,28
+2025,DEU,Technology,PEM,58
+2025,DEU,Technology,SOEC,12
+2026,DEU,Technology,ALK,32
+2026,DEU,Technology,Other Electrolysis,36
+2026,DEU,Technology,PEM,64
+2027,DEU,Technology,ALK,33
+2027,DEU,Technology,NG w CCUS,1
+2027,DEU,Technology,Other Electrolysis,42
+2027,DEU,Technology,PEM,70
+2028,DEU,Technology,ALK,35
+2028,DEU,Technology,Other Electrolysis,49
+2028,DEU,Technology,PEM,72
+2029,DEU,Technology,NG w CCUS,2
+2029,DEU,Technology,Other Electrolysis,51
+2030,DEU,Technology,Other Electrolysis,57
+2035,DEU,Technology,Other Electrolysis,59
+2007,DNK,Technology,PEM,1
+2008,DNK,Technology,PEM,2
+2010,DNK,Technology,ALK,2
+2010,DNK,Technology,PEM,4
+2011,DNK,Technology,Other Electrolysis,2
+2011,DNK,Technology,PEM,5
+2011,DNK,Technology,SOEC,1
+2013,DNK,Technology,ALK,6
+2013,DNK,Technology,SOEC,2
+2014,DNK,Technology,ALK,8
+2015,DNK,Technology,ALK,10
+2015,DNK,Technology,SOEC,3
+2017,DNK,Technology,SOEC,4
+2020,DNK,Technology,ALK,11
+2020,DNK,Technology,Other Electrolysis,3
+2020,DNK,Technology,PEM,6
+2021,DNK,Technology,PEM,7
+2022,DNK,Technology,ALK,12
+2022,DNK,Technology,Other Electrolysis,4
+2024,DNK,Technology,ALK,15
+2024,DNK,Technology,Other Electrolysis,7
+2025,DNK,Technology,Other Electrolysis,13
+2025,DNK,Technology,PEM,9
+2026,DNK,Technology,Other Electrolysis,16
+2027,DNK,Technology,Other Electrolysis,20
+2028,DNK,Technology,Other Electrolysis,22
+2030,DNK,Technology,Other Electrolysis,26
+2028,DOM,Technology,Other Electrolysis,1
+2000,EGY,Technology,ALK,1
+2022,EGY,Technology,PEM,1
+2025,EGY,Technology,Other Electrolysis,2
+2026,EGY,Technology,Other,1
+2026,EGY,Technology,Other Electrolysis,5
+2027,EGY,Technology,Other Electrolysis,7
+2028,EGY,Technology,Other Electrolysis,8
+2029,EGY,Technology,Other Electrolysis,10
+2029,EGY,Technology,SOEC,1
+2030,EGY,Technology,Other Electrolysis,12
+2032,EGY,Technology,Other Electrolysis,13
+2000,ESP,Technology,PEM,1
+2004,ESP,Technology,PEM,2
+2006,ESP,Technology,ALK,1
+2007,ESP,Technology,ALK,2
+2008,ESP,Technology,ALK,3
+2008,ESP,Technology,Other Electrolysis,1
+2008,ESP,Technology,PEM,3
+2010,ESP,Technology,ALK,4
+2011,ESP,Technology,ALK,5
+2013,ESP,Technology,PEM,4
+2014,ESP,Technology,ALK,6
+2015,ESP,Technology,ALK,7
+2018,ESP,Technology,SOEC,1
+2019,ESP,Technology,PEM,5
+2022,ESP,Technology,Other Electrolysis,2
+2022,ESP,Technology,PEM,9
+2023,ESP,Technology,ALK,9
+2023,ESP,Technology,Other Electrolysis,4
+2023,ESP,Technology,PEM,10
+2024,ESP,Technology,Other,1
+2024,ESP,Technology,Other Electrolysis,7
+2024,ESP,Technology,PEM,14
+2025,ESP,Technology,ALK,11
+2025,ESP,Technology,Biomass,2
+2025,ESP,Technology,Other Electrolysis,22
+2026,ESP,Technology,ALK,14
+2026,ESP,Technology,Biomass,3
+2026,ESP,Technology,Other Electrolysis,38
+2026,ESP,Technology,PEM,21
+2027,ESP,Technology,ALK,16
+2027,ESP,Technology,Other Electrolysis,45
+2027,ESP,Technology,PEM,22
+2028,ESP,Technology,ALK,17
+2028,ESP,Technology,Other Electrolysis,60
+2029,ESP,Technology,Other Electrolysis,63
+2030,ESP,Technology,Other Electrolysis,73
+2031,ESP,Technology,Other Electrolysis,76
+2010,EST,Technology,Other Electrolysis,1
+2019,EST,Technology,ALK,1
+2019,EST,Technology,PEM,1
+2025,EST,Technology,ALK,2
+2025,EST,Technology,Other Electrolysis,2
+2028,EST,Technology,Other Electrolysis,3
+2030,EST,Technology,PEM,3
+2014,FIN,Technology,ALK,1
+2019,FIN,Technology,PEM,1
+2019,FIN,Technology,SOEC,1
+2020,FIN,Technology,Other Electrolysis,1
+2023,FIN,Technology,SOEC,2
+2024,FIN,Technology,ALK,2
+2024,FIN,Technology,Other,1
+2024,FIN,Technology,Other Electrolysis,2
+2025,FIN,Technology,Other Electrolysis,7
+2026,FIN,Technology,ALK,3
+2026,FIN,Technology,Other Electrolysis,16
+2026,FIN,Technology,PEM,3
+2027,FIN,Technology,Other Electrolysis,24
+2028,FIN,Technology,Other Electrolysis,26
+2029,FIN,Technology,Other Electrolysis,29
+2030,FIN,Technology,ALK,4
+2030,FIN,Technology,Other Electrolysis,32
+2030,FIN,Technology,PEM,6
+2000,FRA,Technology,ALK,1
+2009,FRA,Technology,ALK,2
+2012,FRA,Technology,PEM,1
+2012,FRA,Technology,SOEC,1
+2014,FRA,Technology,SOEC,2
+2015,FRA,Technology,NG w CCUS,1
+2016,FRA,Technology,Other Electrolysis,1
+2017,FRA,Technology,ALK,3
+2017,FRA,Technology,PEM,2
+2018,FRA,Technology,ALK,4
+2018,FRA,Technology,PEM,4
+2018,FRA,Technology,SOEC,3
+2019,FRA,Technology,ALK,5
+2019,FRA,Technology,PEM,5
+2020,FRA,Technology,ALK,6
+2020,FRA,Technology,Other Electrolysis,2
+2021,FRA,Technology,ALK,8
+2021,FRA,Technology,Biomass,1
+2021,FRA,Technology,Other Electrolysis,4
+2021,FRA,Technology,PEM,6
+2022,FRA,Technology,Other Electrolysis,5
+2022,FRA,Technology,PEM,7
+2023,FRA,Technology,ALK,11
+2023,FRA,Technology,Other Electrolysis,7
+2023,FRA,Technology,PEM,11
+2024,FRA,Technology,ALK,15
+2024,FRA,Technology,Other Electrolysis,13
+2024,FRA,Technology,PEM,13
+2025,FRA,Technology,ALK,22
+2025,FRA,Technology,Biomass,2
+2025,FRA,Technology,NG w CCUS,2
+2025,FRA,Technology,Other Electrolysis,24
+2025,FRA,Technology,PEM,14
+2026,FRA,Technology,ALK,23
+2026,FRA,Technology,Other Electrolysis,32
+2026,FRA,Technology,PEM,15
+2027,FRA,Technology,ALK,27
+2027,FRA,Technology,Other Electrolysis,40
+2028,FRA,Technology,ALK,28
+2028,FRA,Technology,Other Electrolysis,52
+2028,FRA,Technology,PEM,16
+2029,FRA,Technology,ALK,29
+2029,FRA,Technology,Other Electrolysis,56
+2030,FRA,Technology,ALK,30
+2030,FRA,Technology,NG w CCUS,3
+2030,FRA,Technology,Other Electrolysis,64
+2030,FRA,Technology,PEM,17
+2031,FRA,Technology,Other Electrolysis,65
+2004,GBR,Technology,ALK,1
+2005,GBR,Technology,ALK,2
+2008,GBR,Technology,ALK,3
+2010,GBR,Technology,ALK,4
+2011,GBR,Technology,ALK,5
+2012,GBR,Technology,ALK,6
+2012,GBR,Technology,Other Electrolysis,1
+2015,GBR,Technology,ALK,7
+2016,GBR,Technology,Other Electrolysis,2
+2017,GBR,Technology,PEM,1
+2018,GBR,Technology,ALK,8
+2018,GBR,Technology,PEM,3
+2019,GBR,Technology,PEM,5
+2020,GBR,Technology,PEM,6
+2021,GBR,Technology,PEM,7
+2023,GBR,Technology,Other Electrolysis,5
+2024,GBR,Technology,AEM,1
+2024,GBR,Technology,ALK,10
+2024,GBR,Technology,Other Electrolysis,7
+2024,GBR,Technology,PEM,9
+2025,GBR,Technology,ALK,12
+2025,GBR,Technology,Other Electrolysis,18
+2025,GBR,Technology,PEM,13
+2026,GBR,Technology,ALK,13
+2026,GBR,Technology,Other Electrolysis,37
+2026,GBR,Technology,PEM,21
+2027,GBR,Technology,NG w CCUS,5
+2027,GBR,Technology,Other Electrolysis,42
+2028,GBR,Technology,ALK,14
+2028,GBR,Technology,NG w CCUS,10
+2028,GBR,Technology,Other Electrolysis,59
+2028,GBR,Technology,PEM,23
+2029,GBR,Technology,Other,1
+2029,GBR,Technology,Other Electrolysis,62
+2030,GBR,Technology,ALK,15
+2030,GBR,Technology,NG w CCUS,16
+2030,GBR,Technology,Other Electrolysis,82
+2030,GBR,Technology,PEM,25
+2032,GBR,Technology,Other Electrolysis,84
+2034,GBR,Technology,Other Electrolysis,85
+2035,GBR,Technology,NG w CCUS,17
+2035,GBR,Technology,Other Electrolysis,88
+2006,GRC,Technology,PEM,1
+2008,GRC,Technology,PEM,2
+2009,GRC,Technology,PEM,3
+2010,GRC,Technology,ALK,1
+2010,GRC,Technology,Other Electrolysis,1
+2012,GRC,Technology,Other Electrolysis,2
+2021,GRC,Technology,ALK,2
+2022,GRC,Technology,Other Electrolysis,3
+2025,GRC,Technology,Other Electrolysis,5
+2027,GRC,Technology,Other Electrolysis,6
+2028,GRC,Technology,Other Electrolysis,7
+2030,GRC,Technology,NG w CCUS,1
+2028,HRV,Technology,NG w CCUS,1
+2023,HUN,Technology,PEM,1
+2024,,Technology,Other Electrolysis,0
+2024,,Technology,PEM,0
+2023,IDN,Technology,Other Electrolysis,1
+2024,IDN,Technology,Other Electrolysis,2
+2025,IDN,Technology,Other Electrolysis,3
+2026,IDN,Technology,Other Electrolysis,5
+2027,IDN,Technology,Other Electrolysis,7
+2028,IDN,Technology,SOEC,1
+2030,IDN,Technology,NG w CCUS,1
+2030,IDN,Technology,Other Electrolysis,10
+2005,IND,Technology,ALK,1
+2012,IND,Technology,PEM,1
+2013,IND,Technology,Other Electrolysis,1
+2014,IND,Technology,ALK,2
+2015,IND,Technology,Biomass,1
+2015,IND,Technology,Other Electrolysis,4
+2021,IND,Technology,Other Electrolysis,5
+2022,IND,Technology,ALK,3
+2022,IND,Technology,Other Electrolysis,6
+2023,IND,Technology,PEM,2
+2024,IND,Technology,ALK,7
+2024,IND,Technology,Biomass,2
+2024,IND,Technology,Other Electrolysis,8
+2024,IND,Technology,PEM,7
+2025,IND,Technology,ALK,8
+2025,IND,Technology,Biomass,3
+2025,IND,Technology,Other Electrolysis,14
+2025,IND,Technology,PEM,9
+2025,IND,Technology,SOEC,1
+2026,IND,Technology,ALK,9
+2026,IND,Technology,Biomass,6
+2026,IND,Technology,NG w CCUS,1
+2026,IND,Technology,Other Electrolysis,19
+2027,IND,Technology,ALK,10
+2027,IND,Technology,Other Electrolysis,36
+2028,IND,Technology,Other Electrolysis,39
+2029,IND,Technology,Other Electrolysis,40
+2030,IND,Technology,Biomass,7
+2030,IND,Technology,Other Electrolysis,48
+2030,IND,Technology,PEM,10
+2032,IND,Technology,Other Electrolysis,49
+2033,IND,Technology,Other Electrolysis,50
+2040,IND,Technology,Other Electrolysis,51
+2025,IRL,Technology,Other Electrolysis,1
+2026,IRL,Technology,Other Electrolysis,6
+2027,IRL,Technology,Other Electrolysis,7
+2028,IRL,Technology,NG w CCUS,1
+2030,IRL,Technology,Other Electrolysis,10
+2009,IRN,Technology,Other Electrolysis,1
+2003,ISL,Technology,ALK,1
+2012,ISL,Technology,Other Electrolysis,1
+2018,ISL,Technology,Other Electrolysis,2
+2025,ISL,Technology,Other Electrolysis,3
+2026,ISL,Technology,ALK,2
+2026,ISL,Technology,Other Electrolysis,4
+2028,ISL,Technology,ALK,3
+2028,ISL,Technology,Other Electrolysis,5
+2004,ITA,Technology,ALK,1
+2007,ITA,Technology,ALK,2
+2013,ITA,Technology,ALK,3
+2014,ITA,Technology,ALK,4
+2016,ITA,Technology,ALK,5
+2016,ITA,Technology,NG w CCUS,1
+2018,ITA,Technology,PEM,1
+2018,ITA,Technology,SOEC,1
+2025,ITA,Technology,ALK,6
+2025,ITA,Technology,Other Electrolysis,1
+2025,ITA,Technology,PEM,2
+2026,ITA,Technology,AEM,3
+2026,ITA,Technology,ALK,9
+2026,ITA,Technology,Other Electrolysis,11
+2026,ITA,Technology,PEM,5
+2027,ITA,Technology,Other Electrolysis,14
+2028,ITA,Technology,NG w CCUS,2
+2028,ITA,Technology,Other,1
+2029,ITA,Technology,Other Electrolysis,16
+2030,ITA,Technology,Other Electrolysis,18
+2030,ITA,Technology,PEM,6
+2031,ITA,Technology,Other Electrolysis,20
+2028,JOR,Technology,Other Electrolysis,1
+2030,JOR,Technology,Other Electrolysis,2
+2003,JPN,Technology,ALK,1
+2005,JPN,Technology,PEM,1
+2015,JPN,Technology,PEM,2
+2016,JPN,Technology,NG w CCUS,1
+2016,JPN,Technology,PEM,5
+2017,JPN,Technology,ALK,2
+2017,JPN,Technology,PEM,9
+2018,JPN,Technology,PEM,12
+2019,JPN,Technology,Other Electrolysis,3
+2019,JPN,Technology,PEM,13
+2020,JPN,Technology,ALK,3
+2020,JPN,Technology,Other Electrolysis,4
+2020,JPN,Technology,PEM,17
+2021,JPN,Technology,Biomass,1
+2023,JPN,Technology,ALK,4
+2024,JPN,Technology,ALK,6
+2024,JPN,Technology,PEM,18
+2025,JPN,Technology,NG w CCUS,2
+2025,JPN,Technology,Other Electrolysis,6
+2030,JPN,Technology,Biomass w CCUS,1
+2030,JPN,Technology,Other,1
+2032,KAZ,Technology,Other Electrolysis,1
+2025,KEN,Technology,Other Electrolysis,1
+2030,KEN,Technology,Other Electrolysis,2
+2023,KOR,Technology,NG w CCUS,1
+2023,KOR,Technology,SOEC,1
+2025,KOR,Technology,AEM,1
+2025,KOR,Technology,ALK,1
+2025,KOR,Technology,NG w CCUS,3
+2025,KOR,Technology,Other Electrolysis,1
+2025,KOR,Technology,PEM,1
+2026,KOR,Technology,NG w CCUS,4
+2026,KOR,Technology,SOEC,2
+2027,KOR,Technology,Other Electrolysis,3
+2030,KOR,Technology,NG w CCUS,6
+2030,KOR,Technology,Other Electrolysis,4
+2018,LBN,Technology,ALK,1
+2024,LTU,Technology,Other Electrolysis,1
+2027,LTU,Technology,Other Electrolysis,2
+2025,LVA,Technology,Other Electrolysis,1
+2030,LVA,Technology,Other Electrolysis,3
+2025,MAR,Technology,Other Electrolysis,2
+2026,MAR,Technology,PEM,1
+2027,MAR,Technology,Other Electrolysis,3
+2028,MAR,Technology,Other Electrolysis,5
+2030,MAR,Technology,Other Electrolysis,8
+2032,MAR,Technology,Other Electrolysis,9
+2025,MEX,Technology,PEM,1
+2026,MEX,Technology,Other Electrolysis,1
+2026,MEX,Technology,PEM,2
+2027,MEX,Technology,Other Electrolysis,2
+2028,MEX,Technology,ALK,1
+2028,MEX,Technology,Other Electrolysis,3
+2028,MEX,Technology,PEM,3
+2030,MEX,Technology,Other Electrolysis,4
+2028,MRT,Technology,Other Electrolysis,2
+2029,MRT,Technology,Other Electrolysis,4
+2031,MRT,Technology,Other Electrolysis,5
+2033,MRT,Technology,Other Electrolysis,6
+2037,MRT,Technology,Other Electrolysis,7
+2006,MYS,Technology,PEM,1
+2019,MYS,Technology,ALK,1
+2026,MYS,Technology,Other Electrolysis,1
+2027,MYS,Technology,Other Electrolysis,2
+2028,MYS,Technology,Other Electrolysis,3
+2024,NAM,Technology,ALK,1
+2024,NAM,Technology,Other Electrolysis,2
+2024,NAM,Technology,PEM,1
+2026,NAM,Technology,Other Electrolysis,3
+2027,NAM,Technology,Other Electrolysis,7
+2029,NAM,Technology,Other Electrolysis,8
+2032,NAM,Technology,Other Electrolysis,10
+2003,NLD,Technology,ALK,1
+2005,NLD,Technology,Oil w CCUS,1
+2008,NLD,Technology,PEM,1
+2011,NLD,Technology,PEM,2
+2013,NLD,Technology,PEM,3
+2019,NLD,Technology,PEM,4
+2021,NLD,Technology,PEM,5
+2022,NLD,Technology,ALK,2
+2022,NLD,Technology,Biomass,1
+2022,NLD,Technology,Other Electrolysis,1
+2022,NLD,Technology,PEM,6
+2023,NLD,Technology,Biomass,3
+2023,NLD,Technology,Other Electrolysis,4
+2023,NLD,Technology,SOEC,1
+2024,NLD,Technology,AEM,1
+2024,NLD,Technology,Other Electrolysis,5
+2024,NLD,Technology,PEM,7
+2025,NLD,Technology,AEM,2
+2025,NLD,Technology,ALK,3
+2025,NLD,Technology,Biomass,6
+2025,NLD,Technology,Other Electrolysis,13
+2025,NLD,Technology,PEM,9
+2026,NLD,Technology,ALK,5
+2026,NLD,Technology,NG w CCUS,3
+2026,NLD,Technology,Oil w CCUS,2
+2026,NLD,Technology,Other Electrolysis,20
+2026,NLD,Technology,PEM,12
+2027,NLD,Technology,ALK,6
+2027,NLD,Technology,NG w CCUS,4
+2027,NLD,Technology,Other Electrolysis,30
+2027,NLD,Technology,PEM,13
+2028,NLD,Technology,ALK,7
+2028,NLD,Technology,NG w CCUS,6
+2028,NLD,Technology,Other Electrolysis,37
+2028,NLD,Technology,PEM,14
+2029,NLD,Technology,Other Electrolysis,39
+2030,NLD,Technology,ALK,8
+2030,NLD,Technology,NG w CCUS,8
+2030,NLD,Technology,Other Electrolysis,50
+2031,NLD,Technology,Other Electrolysis,51
+2032,NLD,Technology,Other Electrolysis,52
+2033,NLD,Technology,PEM,15
+2040,NLD,Technology,Other Electrolysis,53
+2043,NLD,Technology,Other Electrolysis,54
+2000,NOR,Technology,ALK,1
+2003,NOR,Technology,PEM,1
+2004,NOR,Technology,ALK,2
+2010,NOR,Technology,PEM,2
+2013,NOR,Technology,ALK,3
+2013,NOR,Technology,Biomass,1
+2016,NOR,Technology,PEM,3
+2017,NOR,Technology,ALK,4
+2020,NOR,Technology,PEM,4
+2021,NOR,Technology,PEM,5
+2022,NOR,Technology,ALK,5
+2023,NOR,Technology,ALK,6
+2024,NOR,Technology,ALK,7
+2024,NOR,Technology,NG w CCUS,1
+2024,NOR,Technology,PEM,8
+2025,NOR,Technology,ALK,8
+2025,NOR,Technology,Other Electrolysis,5
+2025,NOR,Technology,PEM,9
+2026,NOR,Technology,ALK,10
+2026,NOR,Technology,Biomass w CCUS,1
+2026,NOR,Technology,Other Electrolysis,10
+2027,NOR,Technology,ALK,12
+2027,NOR,Technology,Other Electrolysis,19
+2027,NOR,Technology,PEM,10
+2028,NOR,Technology,ALK,13
+2028,NOR,Technology,NG w CCUS,2
+2028,NOR,Technology,Other Electrolysis,26
+2028,NOR,Technology,SOEC,2
+2029,NOR,Technology,Other Electrolysis,29
+2029,NOR,Technology,SOEC,3
+2030,NOR,Technology,Other Electrolysis,33
+2032,NOR,Technology,Other Electrolysis,34
+2008,NZL,Technology,PEM,1
+2009,NZL,Technology,PEM,2
+2011,NZL,Technology,ALK,1
+2021,NZL,Technology,PEM,3
+2022,NZL,Technology,Other Electrolysis,1
+2025,NZL,Technology,Other Electrolysis,3
+2027,NZL,Technology,NG w CCUS,2
+2027,NZL,Technology,Other Electrolysis,4
+2024,OMN,Technology,Other Electrolysis,1
+2025,OMN,Technology,NG w CCUS,2
+2026,OMN,Technology,Other Electrolysis,2
+2027,OMN,Technology,Other Electrolysis,3
+2030,OMN,Technology,Other Electrolysis,10
+2038,OMN,Technology,Other Electrolysis,11
+2027,PAN,Technology,Other Electrolysis,1
+1965,PER,Technology,ALK,1
+2023,PER,Technology,Other Electrolysis,1
+2027,PER,Technology,Other Electrolysis,2
+2030,PER,Technology,Other Electrolysis,3
+2032,PER,Technology,Other Electrolysis,4
+2019,POL,Technology,Other Electrolysis,1
+2021,POL,Technology,Other Electrolysis,2
+2024,POL,Technology,PEM,2
+2025,POL,Technology,Other Electrolysis,3
+2026,POL,Technology,PEM,3
+2027,POL,Technology,Other Electrolysis,4
+2028,POL,Technology,Other Electrolysis,5
+2030,POL,Technology,Biomass,1
+2030,POL,Technology,Other Electrolysis,8
+2030,POL,Technology,PEM,4
+2003,PRT,Technology,ALK,1
+2022,PRT,Technology,PEM,1
+2023,PRT,Technology,PEM,3
+2024,PRT,Technology,PEM,4
+2025,PRT,Technology,ALK,2
+2025,PRT,Technology,Other Electrolysis,6
+2025,PRT,Technology,PEM,11
+2026,PRT,Technology,ALK,3
+2026,PRT,Technology,Other Electrolysis,7
+2026,PRT,Technology,PEM,12
+2027,PRT,Technology,Other Electrolysis,11
+2027,PRT,Technology,PEM,13
+2028,PRT,Technology,ALK,4
+2028,PRT,Technology,PEM,15
+2029,PRT,Technology,ALK,5
+2029,PRT,Technology,Other Electrolysis,12
+2029,PRT,Technology,PEM,16
+2030,PRT,Technology,Other Electrolysis,16
+2030,PRT,Technology,PEM,17
+2035,PRT,Technology,Other Electrolysis,17
+2040,PRT,Technology,Other Electrolysis,18
+2026,PRY,Technology,Other Electrolysis,2
+2027,PRY,Technology,ALK,2
+2028,PRY,Technology,ALK,3
+2026,QAT,Technology,NG w CCUS,1
+2025,ROU,Technology,ALK,1
+2026,ROU,Technology,Other Electrolysis,1
+2028,ROU,Technology,Other Electrolysis,2
+2030,ROU,Technology,Other Electrolysis,3
+2022,RUS,Technology,PEM,1
+2026,SAU,Technology,ALK,1
+2019,SGP,Technology,Other Electrolysis,2
+2019,SGP,Technology,PEM,2
+2024,SGP,Technology,ALK,1
+2025,SGP,Technology,Other Electrolysis,3
+2026,SGP,Technology,Other Electrolysis,4
+2028,SRB,Technology,Other Electrolysis,1
+2025,SVK,Technology,Other Electrolysis,3
+2030,SVK,Technology,Other Electrolysis,4
+2035,SVK,Technology,Other Electrolysis,5
+2000,SVN,Technology,Other Electrolysis,2
+2021,SVN,Technology,Other Electrolysis,3
+2026,SVN,Technology,Other Electrolysis,4
+1992,SWE,Technology,ALK,1
+2003,SWE,Technology,ALK,2
+2015,SWE,Technology,PEM,1
+2018,SWE,Technology,PEM,2
+2019,SWE,Technology,ALK,3
+2021,SWE,Technology,ALK,4
+2023,SWE,Technology,ALK,5
+2024,SWE,Technology,Other Electrolysis,2
+2025,SWE,Technology,ALK,9
+2025,SWE,Technology,Other Electrolysis,5
+2026,SWE,Technology,Biomass w CCUS,1
+2026,SWE,Technology,NG w CCUS,1
+2026,SWE,Technology,Other Electrolysis,7
+2027,SWE,Technology,Other Electrolysis,11
+2028,SWE,Technology,Other Electrolysis,12
+2030,SWE,Technology,Other Electrolysis,15
+2012,THA,Technology,Other Electrolysis,1
+2018,THA,Technology,PEM,1
+2027,TTO,Technology,Other Electrolysis,1
+2030,TUN,Technology,Other Electrolysis,2
+2035,TUN,Technology,Other Electrolysis,3
+2007,TUR,Technology,PEM,1
+2008,TUR,Technology,PEM,2
+2009,TUR,Technology,ALK,1
+2011,TUR,Technology,ALK,2
+2011,TUR,Technology,Other Electrolysis,1
+2021,TWN,Technology,Other Electrolysis,1
+2029,UGA,Technology,Other Electrolysis,1
+2025,URY,Technology,Other Electrolysis,1
+2026,URY,Technology,Other Electrolysis,2
+2030,URY,Technology,Other Electrolysis,3
+1982,USA,Technology,NG w CCUS,1
+2000,USA,Technology,Coal w CCUS,1
+2000,USA,Technology,PEM,4
+2004,USA,Technology,ALK,2
+2006,USA,Technology,PEM,5
+2007,USA,Technology,ALK,3
+2007,USA,Technology,PEM,6
+2008,USA,Technology,PEM,8
+2009,USA,Technology,PEM,9
+2010,USA,Technology,PEM,10
+2013,USA,Technology,NG w CCUS,3
+2013,USA,Technology,Oil w CCUS,1
+2015,USA,Technology,Other,1
+2015,USA,Technology,SOEC,1
+2016,USA,Technology,PEM,12
+2016,USA,Technology,SOEC,2
+2018,USA,Technology,PEM,14
+2019,USA,Technology,Other Electrolysis,1
+2020,USA,Technology,Biomass,1
+2020,USA,Technology,PEM,15
+2020,USA,Technology,SOEC,3
+2021,USA,Technology,Biomass,2
+2021,USA,Technology,Other,2
+2021,USA,Technology,Other Electrolysis,2
+2021,USA,Technology,PEM,20
+2021,USA,Technology,SOEC,4
+2022,USA,Technology,Biomass,3
+2022,USA,Technology,Other Electrolysis,3
+2022,USA,Technology,PEM,22
+2023,USA,Technology,Biomass,5
+2023,USA,Technology,NG w CCUS,4
+2023,USA,Technology,Other Electrolysis,4
+2023,USA,Technology,PEM,25
+2023,USA,Technology,SOEC,5
+2024,USA,Technology,ALK,5
+2024,USA,Technology,Biomass,7
+2024,USA,Technology,Other,5
+2024,USA,Technology,Other Electrolysis,5
+2024,USA,Technology,PEM,33
+2024,USA,Technology,SOEC,6
+2025,USA,Technology,ALK,8
+2025,USA,Technology,Biomass w CCUS,1
+2025,USA,Technology,Coal w CCUS,2
+2025,USA,Technology,NG w CCUS,6
+2025,USA,Technology,Oil w CCUS,2
+2025,USA,Technology,Other,7
+2025,USA,Technology,Other Electrolysis,12
+2025,USA,Technology,PEM,37
+2026,USA,Technology,ALK,10
+2026,USA,Technology,Biomass,9
+2026,USA,Technology,Biomass w CCUS,4
+2026,USA,Technology,NG w CCUS,13
+2026,USA,Technology,Other Electrolysis,16
+2026,USA,Technology,PEM,38
+2026,USA,Technology,SOEC,7
+2027,USA,Technology,NG w CCUS,17
+2027,USA,Technology,Oil w CCUS,3
+2027,USA,Technology,Other,8
+2027,USA,Technology,Other Electrolysis,21
+2027,USA,Technology,PEM,39
+2028,USA,Technology,ALK,11
+2028,USA,Technology,NG w CCUS,24
+2028,USA,Technology,Other Electrolysis,23
+2029,USA,Technology,NG w CCUS,27
+2029,USA,Technology,Other Electrolysis,24
+2030,USA,Technology,NG w CCUS,31
+2030,USA,Technology,Other Electrolysis,28
+2024,UZB,Technology,ALK,1
+2027,VNM,Technology,ALK,1
+2022,ZAF,Technology,ALK,1
+2024,ZAF,Technology,ALK,2
+2024,ZAF,Technology,Other,1
+2025,ZAF,Technology,Other Electrolysis,2
+2026,ZAF,Technology,Other Electrolysis,3
+2027,ZAF,Technology,Other Electrolysis,4
+2028,ZAF,Technology,Other Electrolysis,5
+2030,ZAF,Technology,Other Electrolysis,6
+2040,ZAF,Technology,Other Electrolysis,7
+1975,ZWE,Technology,ALK,1
+2029,ZWE,Technology,Other Electrolysis,1
