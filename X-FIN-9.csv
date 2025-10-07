@@ -12,9 +12,10 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2021,WLD,Total,0.55,,,,
 2022,WLD,Total,0.74,,,,
 2023,WLD,Total,0.65,,,,
-2028,WLD,Total,,1.11,,,
-2030,WLD,Total,,,1.31,1.96,2.61
-2050,WLD,Total,,,1.29,1.93,2.57
+2028,WLD,Total,,1.12,,,
+2030,WLD,Total,,,3.78,4.85,5.92
+2035,WLD,Total,,,3.73,5.10,6.46
+2050,WLD,Total,,,3.73,5.10,6.46
 2023,WLD,National DFIs,0.14,,,,
 2023,WLD,Governments,0.13,,,,
 2023,WLD,Multilateral DFIs,0.12,,,,
