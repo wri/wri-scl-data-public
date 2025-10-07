@@ -1,11 +1,11 @@
-year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2014,WLD,3.7,,,,
 2015,WLD,3.3,,,,
 2016,WLD,2.7,,,,
 2017,WLD,2.8,,,,
 2018,WLD,2.9,,,,
 2019,WLD,2.8,,,,
-2024,WLD,,2.4,,,
+2024,WLD,,2.37,,,
 2014,AFG,615,,,,
 2015,AFG,1825,,,,
 2014,ALB,118,,,,
@@ -828,4 +828,4 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2014,ZWE,443,,,,
 2015,ZWE,443,,,,
 2016,ZWE,351,,,,
-2017,ZWE,244,1.54,,,
+2017,ZWE,244,,,,
