@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2010,WLD,420,,,,
 2011,WLD,406,,,,
 2012,WLD,401,,,,
@@ -12,10 +12,10 @@
 2020,WLD,382,,,,
 2021,WLD,374,,,,
 2022,WLD,376,,,,
-2027,WLD,,366.8529363,,,
-2030,WLD,,,,238.7,
-2035,WLD,,,,201.2,
-2050,WLD,,,,88.5,
+2027,WLD,,367,,,
+2030,WLD,,,,297,
+2035,WLD,,,,267,
+2050,WLD,,,,174.6,
 2010,014,631,,,,
 2011,014,645,,,,
 2012,014,625,,,,
