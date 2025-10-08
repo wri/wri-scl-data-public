@@ -1,121 +1,209 @@
 year,geo,disagg,value
-2024,WLD,Total,53
-2024,WLD,Design + Reuse,12
+2024,WLD,Total,30
+2024,WLD,Design + reuse,12
 2024,WLD,Extended Producer Responsibility,17
-2024,WLD,Maritime Sources,5
-2024,WLD,Microplastics,4
-2024,WLD,Production + Manufacturing,5
-2024,WLD,Reduction,50
-2024,WLD,Waste Management,23
-2024,AUT,Total,1
-2024,CHN,Total,1
-2024,COL,Total,1
-2024,HRV,Total,1
-2024,DNK,Total,1
-2024,DOM,Total,1
-2024,EST,Total,1
-2024,FRA,Total,1
-2024,DEU,Total,1
-2024,GRC,Total,1
-2024,IRL,Total,1
-2024,JPN,Total,1
-2024,KEN,Total,1
-2024,MUS,Total,1
-2024,NLD,Total,1
-2024,PRY,Total,1
-2024,PRT,Total,1
-2024,SEN,Total,1
-2024,SYC,Total,1
-2024,SVN,Total,1
-2024,ESP,Total,1
-2024,TGO,Total,1
-2024,TUN,Total,1
-2024,GBR,Total,1
-2024,VNM,Total,1
-2024,DZA,Total,1
-2024,BRB,Total,1
-2024,BEL,Total,1
-2024,BLZ,Total,1
-2024,BOL,Total,1
-2024,CMR,Total,1
-2024,CYP,Total,1
-2024,ISR,Total,1
-2024,KOR,Total,1
-2024,MNG,Total,1
-2024,NGA,Total,1
-2024,PLW,Total,1
-2024,PER,Total,1
-2024,SGP,Total,1
-2024,TUV,Total,1
-2024,UGA,Total,1
-2024,ZMB,Total,1
-2024,ATG,Total,1
-2024,IND,Total,1
+2024,WLD,Maritime sources,4.8
+2024,WLD,Microplastics,3.8
+2024,WLD,Production + manufacturing,5.2
+2024,WLD,Waste management,23
 2024,ARG,Total,1
-2024,USA,Total,1
-2024,ARM,Total,1
-2024,ABW,Total,1
-2024,AZE,Total,1
-2024,BHS,Total,1
-2024,BHR,Total,1
-2024,BGD,Total,1
-2024,BEN,Total,1
-2024,BWA,Total,1
-2024,BFA,Total,1
+2024,ATG,Total,3
+2024,AUT,Total,5
 2024,BDI,Total,1
-2024,KHM,Total,1
-2024,CAN,Total,1
-2024,CPV,Total,1
-2024,CHL,Total,1
-2024,COD,Total,1
-2024,COG,Total,1
-2024,CRI,Total,1
-2024,CIV,Total,1
-2024,DJI,Total,1
-2024,TLS,Total,1
-2024,ECU,Total,1
-2024,SLV,Total,1
-2024,GNQ,Total,1
-2024,ERI,Total,1
-2024,ETH,Total,1
-2024,FJI,Total,1
-2024,GAB,Total,1
-2024,GMB,Total,1
-2024,GEO,Total,1
-2024,GRD,Total,1
-2024,GTM,Total,1
-2024,GUY,Total,1
-2024,HTI,Total,1
-2024,JAM,Total,1
-2024,JOR,Total,1
-2024,KIR,Total,1
-2024,LSO,Total,1
-2024,MDG,Total,1
-2024,MWI,Total,1
-2024,MDV,Total,1
-2024,MLI,Total,1
-2024,MRT,Total,1
-2024,MAR,Total,1
-2024,MOZ,Total,1
-2024,NAM,Total,1
-2024,NRU,Total,1
-2024,NPL,Total,1
-2024,NZL,Total,1
-2024,NER,Total,1
-2024,PAN,Total,1
-2024,PHL,Total,1
-2024,RWA,Total,1
-2024,VCT,Total,1
-2024,WSM,Total,1
-2024,STP,Total,1
-2024,ZAF,Total,1
-2024,LKA,Total,1
-2024,TZA,Total,1
-2024,TUR,Total,1
-2024,UZB,Total,1
-2024,VUT,Total,1
-2024,ZWE,Total,1
+2024,BEL,Total,4
+2024,BEN,Total,1
+2024,BFA,Total,1
+2024,BLZ,Total,1
+2024,BOL,Total,3
 2024,BRA,Total,1
-2024,MEX,Total,1
+2024,BRB,Total,2
+2024,CHN,Total,6
+2024,CMR,Total,2
+2024,COL,Total,2
+2024,CRI,Total,1
+2024,CYP,Total,1
+2024,DEU,Total,8
+2024,DNK,Total,11
+2024,DOM,Total,3
+2024,DZA,Total,2
+2024,ECU,Total,2
+2024,ESP,Total,17
+2024,EST,Total,8
+2024,FRA,Total,15
+2024,GBR,Total,17
+2024,GRC,Total,7
+2024,HRV,Total,4
+2024,IND,Total,2
+2024,IRL,Total,21
+2024,ISR,Total,9
+2024,JPN,Total,2
+2024,KEN,Total,5
+2024,KOR,Total,4
 2024,LCA,Total,1
+2024,MEX,Total,1
+2024,MLI,Total,1
+2024,MNG,Total,1
+2024,MUS,Total,2
+2024,NGA,Total,3
+2024,NLD,Total,16
+2024,PER,Total,2
+2024,PHL,Total,2
+2024,PLW,Total,1
+2024,PRT,Total,5
+2024,PRY,Total,5
+2024,SEN,Total,2
+2024,SGP,Total,5
+2024,SLV,Total,1
+2024,SVN,Total,15
+2024,SYC,Total,1
+2024,TGO,Total,1
+2024,TUN,Total,2
+2024,TUV,Total,1
+2024,TZA,Total,1
+2024,UGA,Total,3
 2024,URY,Total,1
+2024,USA,Total,1
+2024,UZB,Total,1
+2024,VNM,Total,3
+2024,VUT,Total,2
+2024,ZMB,Total,4
+2024,ZWE,Total,1
+2024,AUT,Design + reuse,3
+2024,CHN,Design + reuse,1
+2024,COL,Design + reuse,1
+2024,HRV,Design + reuse,1
+2024,DNK,Design + reuse,3
+2024,DOM,Design + reuse,1
+2024,EST,Design + reuse,1
+2024,FRA,Design + reuse,5
+2024,DEU,Design + reuse,3
+2024,GRC,Design + reuse,2
+2024,IRL,Design + reuse,2
+2024,JPN,Design + reuse,1
+2024,KEN,Design + reuse,1
+2024,MUS,Design + reuse,1
+2024,NLD,Design + reuse,3
+2024,PRY,Design + reuse,1
+2024,PRT,Design + reuse,2
+2024,SEN,Design + reuse,1
+2024,SYC,Design + reuse,1
+2024,SVN,Design + reuse,3
+2024,ESP,Design + reuse,4
+2024,TGO,Design + reuse,1
+2024,TUN,Design + reuse,1
+2024,GBR,Design + reuse,3
+2024,VNM,Design + reuse,1
+2024,DZA,Extended Producer Responsibility,1
+2024,AUT,Extended Producer Responsibility,1
+2024,BRB,Extended Producer Responsibility,2
+2024,BEL,Extended Producer Responsibility,1
+2024,BLZ,Extended Producer Responsibility,1
+2024,BOL,Extended Producer Responsibility,1
+2024,CMR,Extended Producer Responsibility,1
+2024,CHN,Extended Producer Responsibility,1
+2024,COL,Extended Producer Responsibility,1
+2024,HRV,Extended Producer Responsibility,1
+2024,CYP,Extended Producer Responsibility,1
+2024,DNK,Extended Producer Responsibility,2
+2024,DOM,Extended Producer Responsibility,1
+2024,EST,Extended Producer Responsibility,2
+2024,FRA,Extended Producer Responsibility,4
+2024,DEU,Extended Producer Responsibility,1
+2024,GRC,Extended Producer Responsibility,2
+2024,IRL,Extended Producer Responsibility,7
+2024,ISR,Extended Producer Responsibility,5
+2024,KEN,Extended Producer Responsibility,1
+2024,KOR,Extended Producer Responsibility,2
+2024,MNG,Extended Producer Responsibility,1
+2024,NLD,Extended Producer Responsibility,5
+2024,NGA,Extended Producer Responsibility,1
+2024,PLW,Extended Producer Responsibility,1
+2024,PRY,Extended Producer Responsibility,2
+2024,PER,Extended Producer Responsibility,1
+2024,PRT,Extended Producer Responsibility,1
+2024,SEN,Extended Producer Responsibility,1
+2024,SGP,Extended Producer Responsibility,3
+2024,SVN,Extended Producer Responsibility,6
+2024,ESP,Extended Producer Responsibility,3
+2024,TUV,Extended Producer Responsibility,1
+2024,UGA,Extended Producer Responsibility,1
+2024,GBR,Extended Producer Responsibility,7
+2024,ZMB,Extended Producer Responsibility,2
+2024,ATG,Maritime sources,2
+2024,CHN,Maritime sources,1
+2024,HRV,Maritime sources,1
+2024,DNK,Maritime sources,1
+2024,EST,Maritime sources,1
+2024,IND,Maritime sources,1
+2024,IRL,Maritime sources,3
+2024,NLD,Maritime sources,1
+2024,PRT,Maritime sources,2
+2024,ESP,Maritime sources,2
+2024,ARG,Microplastics,1
+2024,CHN,Microplastics,1
+2024,EST,Microplastics,1
+2024,FRA,Microplastics,3
+2024,IRL,Microplastics,1
+2024,ESP,Microplastics,2
+2024,GBR,Microplastics,4
+2024,VNM,Microplastics,1
+2024,BEL,Production + manufacturing,2
+2024,EST,Production + manufacturing,1
+2024,FRA,Production + manufacturing,2
+2024,GRC,Production + manufacturing,1
+2024,IRL,Production + manufacturing,2
+2024,KEN,Production + manufacturing,1
+2024,NLD,Production + manufacturing,1
+2024,SVN,Production + manufacturing,1
+2024,ESP,Production + manufacturing,2
+2024,GBR,Production + manufacturing,2
+2024,USA,Production + manufacturing,1
+2024,DZA,Waste management,1
+2024,ATG,Waste management,1
+2024,AUT,Waste management,1
+2024,BEL,Waste management,1
+2024,BEN,Waste management,1
+2024,BOL,Waste management,2
+2024,BRA,Waste management,1
+2024,BFA,Waste management,1
+2024,BDI,Waste management,1
+2024,CMR,Waste management,1
+2024,CHN,Waste management,2
+2024,CRI,Waste management,1
+2024,HRV,Waste management,1
+2024,DNK,Waste management,5
+2024,DOM,Waste management,1
+2024,ECU,Waste management,2
+2024,SLV,Waste management,1
+2024,EST,Waste management,2
+2024,FRA,Waste management,1
+2024,DEU,Waste management,4
+2024,GRC,Waste management,2
+2024,IND,Waste management,1
+2024,IRL,Waste management,6
+2024,ISR,Waste management,4
+2024,JPN,Waste management,1
+2024,KEN,Waste management,2
+2024,KOR,Waste management,2
+2024,MLI,Waste management,1
+2024,MUS,Waste management,1
+2024,MEX,Waste management,1
+2024,NLD,Waste management,6
+2024,NGA,Waste management,2
+2024,PRY,Waste management,2
+2024,PER,Waste management,1
+2024,PHL,Waste management,2
+2024,LCA,Waste management,1
+2024,SGP,Waste management,2
+2024,SVN,Waste management,5
+2024,ESP,Waste management,4
+2024,TZA,Waste management,1
+2024,TUN,Waste management,1
+2024,UGA,Waste management,2
+2024,GBR,Waste management,1
+2024,URY,Waste management,1
+2024,UZB,Waste management,1
+2024,VUT,Waste management,2
+2024,VNM,Waste management,1
+2024,ZMB,Waste management,2
+2024,ZWE,Waste management,1
