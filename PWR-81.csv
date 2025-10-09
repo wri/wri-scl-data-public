@@ -1,0 +1,159 @@
+﻿year,geo,disagg,value
+2010,WLD,Bioenergy,0.086
+2011,WLD,Bioenergy,0.082
+2012,WLD,Bioenergy,0.07
+2013,WLD,Bioenergy,0.09
+2014,WLD,Bioenergy,0.091
+2015,WLD,Bioenergy,0.08
+2016,WLD,Bioenergy,0.078
+2017,WLD,Bioenergy,0.078
+2018,WLD,Bioenergy,0.06
+2019,WLD,Bioenergy,0.07
+2020,WLD,Bioenergy,0.079
+2021,WLD,Bioenergy,0.074
+2022,WLD,Bioenergy,0.064
+2023,WLD,Bioenergy,0.073
+2024,WLD,Bioenergy,0.087
+2010,WLD,Geothermal,0.055
+2012,WLD,Geothermal,0.095
+2013,WLD,Geothermal,0.071
+2014,WLD,Geothermal,0.072
+2015,WLD,Geothermal,0.065
+2016,WLD,Geothermal,0.075
+2017,WLD,Geothermal,0.078
+2018,WLD,Geothermal,0.076
+2019,WLD,Geothermal,0.075
+2020,WLD,Geothermal,0.063
+2021,WLD,Geothermal,0.075
+2022,WLD,Geothermal,0.059
+2023,WLD,Geothermal,0.072
+2024,WLD,Geothermal,0.06
+2010,WLD,Hydro,0.044
+2011,WLD,Hydro,0.042
+2012,WLD,Hydro,0.043
+2013,WLD,Hydro,0.048
+2014,WLD,Hydro,0.038
+2015,WLD,Hydro,0.042
+2016,WLD,Hydro,0.055
+2017,WLD,Hydro,0.058
+2018,WLD,Hydro,0.045
+2019,WLD,Hydro,0.046
+2020,WLD,Hydro,0.052
+2021,WLD,Hydro,0.055
+2022,WLD,Hydro,0.063
+2023,WLD,Hydro,0.058
+2024,WLD,Hydro,0.057
+2010,WLD,Offshore wind,0.208
+2011,WLD,Offshore wind,0.215
+2012,WLD,Offshore wind,0.185
+2013,WLD,Offshore wind,0.156
+2014,WLD,Offshore wind,0.19
+2015,WLD,Offshore wind,0.155
+2016,WLD,Offshore wind,0.128
+2017,WLD,Offshore wind,0.117
+2018,WLD,Offshore wind,0.114
+2019,WLD,Offshore wind,0.095
+2020,WLD,Offshore wind,0.091
+2021,WLD,Offshore wind,0.082
+2022,WLD,Offshore wind,0.081
+2023,WLD,Offshore wind,0.076
+2024,WLD,Offshore wind,0.079
+2010,WLD,Onshore wind,0.113
+2011,WLD,Onshore wind,0.107
+2012,WLD,Onshore wind,0.098
+2013,WLD,Onshore wind,0.098
+2014,WLD,Onshore wind,0.088
+2015,WLD,Onshore wind,0.076
+2016,WLD,Onshore wind,0.07
+2017,WLD,Onshore wind,0.066
+2018,WLD,Onshore wind,0.056
+2019,WLD,Onshore wind,0.049
+2020,WLD,Onshore wind,0.041
+2021,WLD,Onshore wind,0.036
+2022,WLD,Onshore wind,0.034
+2023,WLD,Onshore wind,0.033
+2024,WLD,Onshore wind,0.034
+2010,WLD,Solar photovoltaic,0.417
+2011,WLD,Solar photovoltaic,0.35
+2012,WLD,Solar photovoltaic,0.26
+2013,WLD,Solar photovoltaic,0.2
+2014,WLD,Solar photovoltaic,0.183
+2015,WLD,Solar photovoltaic,0.135
+2016,WLD,Solar photovoltaic,0.118
+2017,WLD,Solar photovoltaic,0.093
+2018,WLD,Solar photovoltaic,0.079
+2019,WLD,Solar photovoltaic,0.069
+2020,WLD,Solar photovoltaic,0.061
+2021,WLD,Solar photovoltaic,0.055
+2022,WLD,Solar photovoltaic,0.051
+2023,WLD,Solar photovoltaic,0.042
+2024,WLD,Solar photovoltaic,0.043
+2010,WLD,Solar thermal,0.402
+2011,WLD,Solar thermal,0.389
+2012,WLD,Solar thermal,0.379
+2013,WLD,Solar thermal,0.28
+2014,WLD,Solar thermal,0.243
+2015,WLD,Solar thermal,0.251
+2016,WLD,Solar thermal,0.279
+2017,WLD,Solar thermal,0.233
+2018,WLD,Solar thermal,0.167
+2019,WLD,Solar thermal,0.238
+2020,WLD,Solar thermal,0.119
+2021,WLD,Solar thermal,0.127
+2022,WLD,Solar thermal,0.124
+2023,WLD,Solar thermal,0.12
+2024,WLD,Solar thermal,0.092
+2022,CHN,Solar photovoltaic,0.039
+2023,CHN,Solar photovoltaic,0.036
+2024,CHN,Solar photovoltaic,0.033
+2022,EUU,Solar photovoltaic,0.076
+2023,EUU,Solar photovoltaic,0.055
+2024,EUU,Solar photovoltaic,0.059
+2022,USA,Solar photovoltaic,0.06
+2023,USA,Solar photovoltaic,0.059
+2024,USA,Solar photovoltaic,0.07
+2022,IND,Solar photovoltaic,0.039
+2023,IND,Solar photovoltaic,0.042
+2024,IND,Solar photovoltaic,0.038
+2022,BRA,Solar photovoltaic,0.045
+2023,BRA,Solar photovoltaic,0.042
+2024,BRA,Solar photovoltaic,0.048
+2022,CHN,Onshore wind,0.028
+2023,CHN,Onshore wind,0.026
+2024,CHN,Onshore wind,0.029
+2022,EUU,Onshore wind,0.047
+2023,EUU,Onshore wind,0.048
+2024,EUU,Onshore wind,0.052
+2022,USA,Onshore wind,0.03
+2023,USA,Onshore wind,0.039
+2024,USA,Onshore wind,0.039
+2022,IND,Onshore wind,0.039
+2023,IND,Onshore wind,0.047
+2024,IND,Onshore wind,0.048
+2022,BRA,Onshore wind,0.025
+2023,BRA,Onshore wind,0.025
+2024,BRA,Onshore wind,0.03
+2022,CHN,Offshore wind,0.078
+2023,CHN,Offshore wind,0.072
+2024,CHN,Offshore wind,0.056
+2022,EUU,Offshore wind,0.084
+2023,EUU,Offshore wind,0.073
+2024,EUU,Offshore wind,0.08
+2023,USA,Offshore wind,0.118
+2024,USA,Offshore wind,0.123
+2009,USA,Nuclear,0.123
+2010,USA,Nuclear,0.111
+2011,USA,Nuclear,0.111
+2012,USA,Nuclear,0.102
+2013,USA,Nuclear,0.104
+2014,USA,Nuclear,0.109
+2015,USA,Nuclear,0.108
+2016,USA,Nuclear,0.102
+2017,USA,Nuclear,0.102
+2018,USA,Nuclear,0.102
+2019,USA,Nuclear,0.109
+2020,USA,Nuclear,0.112
+2021,USA,Nuclear,0.108
+2023,USA,Nuclear,0.117
+2024,USA,Nuclear,0.118
+2025,USA,Nuclear,0.122
