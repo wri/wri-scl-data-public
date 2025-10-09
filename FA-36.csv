@@ -2,6 +2,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2019,WLD,Total,121,,,,
 2022,WLD,Total,132,,,,
 2030,WLD,Total,,,,60.5,
+2035,WLD,Total,,,,60.5,
 2050,WLD,Total,,,,60.5,
 2019,WLD,Household,74,,,,
 2022,WLD,Household,79,,,,

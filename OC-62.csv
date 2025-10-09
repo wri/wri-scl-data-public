@@ -1,89 +1,89 @@
 year,geo,disagg,value
-2012,WLD,Total,21.8
-2013,WLD,Total,22.3
-2014,WLD,Total,23.3
-2015,WLD,Total,24.4
-2016,WLD,Total,24.4
-2017,WLD,Total,23.3
-2018,WLD,Total,22.8
-2019,WLD,Total,23.3
-2020,WLD,Total,21.2
-2021,WLD,Total,17.1
+2012,WLD,Total,22
+2013,WLD,Total,22
+2014,WLD,Total,23
+2015,WLD,Total,24
+2016,WLD,Total,24
+2017,WLD,Total,23
+2018,WLD,Total,23
+2019,WLD,Total,23
+2020,WLD,Total,21
+2021,WLD,Total,17
 2022,WLD,Total,6.2
-2012,WLD,"By Agriculture, Forestry and fishing",26.4
-2013,WLD,"By Agriculture, Forestry and fishing",27.5
-2014,WLD,"By Agriculture, Forestry and fishing",28
-2015,WLD,"By Agriculture, Forestry and fishing",31.1
-2016,WLD,"By Agriculture, Forestry and fishing",32.6
-2017,WLD,"By Agriculture, Forestry and fishing",31.6
-2018,WLD,"By Agriculture, Forestry and fishing",30.1
-2019,WLD,"By Agriculture, Forestry and fishing",33.2
-2020,WLD,"By Agriculture, Forestry and fishing",26.9
-2021,WLD,"By Agriculture, Forestry and fishing",22.8
-2022,WLD,"By Agriculture, Forestry and fishing",7.3
-2012,WLD,By Mining and Quarrying ,8.8
-2013,WLD,By Mining and Quarrying ,8.3
-2014,WLD,By Mining and Quarrying ,9.3
-2015,WLD,By Mining and Quarrying ,8.8
-2016,WLD,By Mining and Quarrying ,11.9
-2017,WLD,By Mining and Quarrying ,10.9
-2018,WLD,By Mining and Quarrying ,10.9
-2019,WLD,By Mining and Quarrying ,11.9
-2020,WLD,By Mining and Quarrying ,10.9
-2021,WLD,By Mining and Quarrying ,10.9
-2022,WLD,By Mining and Quarrying ,4.1
-2012,WLD,By Manufaturing Industries,10.4
-2013,WLD,By Manufaturing Industries,9.8
-2014,WLD,By Manufaturing Industries,10.4
-2015,WLD,By Manufaturing Industries,9.3
-2016,WLD,By Manufaturing Industries,9.8
-2017,WLD,By Manufaturing Industries,8.3
-2018,WLD,By Manufaturing Industries,9.3
-2019,WLD,By Manufaturing Industries,9.8
-2020,WLD,By Manufaturing Industries,8.3
-2021,WLD,By Manufaturing Industries,8.3
-2022,WLD,By Manufaturing Industries,4.1
-2012,WLD,By Energy Production and Distribution,11.3
-2013,WLD,By Energy Production and Distribution,11.5
-2014,WLD,By Energy Production and Distribution,12.1
-2015,WLD,By Energy Production and Distribution,12.6
-2016,WLD,By Energy Production and Distribution,12.6
-2017,WLD,By Energy Production and Distribution,12.1
-2018,WLD,By Energy Production and Distribution,11.8
-2019,WLD,By Energy Production and Distribution,12.1
-2020,WLD,By Energy Production and Distribution,11
-2021,WLD,By Energy Production and Distribution,8.9
-2022,WLD,By Energy Production and Distribution,3.2
-2012,WLD,By Construction ,13.7
-2013,WLD,By Construction ,14.2
-2014,WLD,By Construction ,14.5
-2015,WLD,By Construction ,16.1
-2016,WLD,By Construction ,16.9
-2017,WLD,By Construction ,16.4
-2018,WLD,By Construction ,15.6
-2019,WLD,By Construction ,17.2
-2020,WLD,By Construction ,14
-2021,WLD,By Construction ,11.8
-2022,WLD,By Construction ,3.8
-2012,WLD,By Services ,4.6
-2013,WLD,By Services ,4.3
-2014,WLD,By Services ,4.8
-2015,WLD,By Services ,4.6
-2016,WLD,By Services ,6.2
-2017,WLD,By Services ,5.6
-2018,WLD,By Services ,5.6
-2019,WLD,By Services ,6.2
-2020,WLD,By Services ,5.6
-2021,WLD,By Services ,5.6
-2022,WLD,By Services ,2.1
-2012,WLD,By Households ,5.4
-2013,WLD,By Households ,5.1
-2014,WLD,By Households ,5.4
-2015,WLD,By Households ,4.8
-2016,WLD,By Households ,5.1
-2017,WLD,By Households ,4.3
-2018,WLD,By Households ,4.8
-2019,WLD,By Households ,5.1
-2020,WLD,By Households ,4.3
-2021,WLD,By Households ,4.3
-2022,WLD,By Households ,2.1
+2012,WLD,"By agriculture, forestry and fishing",26.4
+2013,WLD,"By agriculture, forestry and fishing",27.5
+2014,WLD,"By agriculture, forestry and fishing",28.0
+2015,WLD,"By agriculture, forestry and fishing",31.1
+2016,WLD,"By agriculture, forestry and fishing",32.6
+2017,WLD,"By agriculture, forestry and fishing",31.6
+2018,WLD,"By agriculture, forestry and fishing",30.1
+2019,WLD,"By agriculture, forestry and fishing",33.2
+2020,WLD,"By agriculture, forestry and fishing",26.9
+2021,WLD,"By agriculture, forestry and fishing",22.8
+2022,WLD,"By agriculture, forestry and fishing",7.3
+2012,WLD,By mining and quarrying,8.8
+2013,WLD,By mining and quarrying,8.3
+2014,WLD,By mining and quarrying,9.3
+2015,WLD,By mining and quarrying,8.8
+2016,WLD,By mining and quarrying,11.9
+2017,WLD,By mining and quarrying,10.9
+2018,WLD,By mining and quarrying,10.9
+2019,WLD,By mining and quarrying,11.9
+2020,WLD,By mining and quarrying,10.9
+2021,WLD,By mining and quarrying,10.9
+2022,WLD,By mining and quarrying,4.1
+2012,WLD,By manufacturing industries,10.4
+2013,WLD,By manufacturing industries,9.8
+2014,WLD,By manufacturing industries,10.4
+2015,WLD,By manufacturing industries,9.3
+2016,WLD,By manufacturing industries,9.8
+2017,WLD,By manufacturing industries,8.3
+2018,WLD,By manufacturing industries,9.3
+2019,WLD,By manufacturing industries,9.8
+2020,WLD,By manufacturing industries,8.3
+2021,WLD,By manufacturing industries,8.3
+2022,WLD,By manufacturing industries,4.1
+2012,WLD,By energy production and distribution,11.3
+2013,WLD,By energy production and distribution,11.5
+2014,WLD,By energy production and distribution,12.1
+2015,WLD,By energy production and distribution,12.6
+2016,WLD,By energy production and distribution,12.6
+2017,WLD,By energy production and distribution,12.1
+2018,WLD,By energy production and distribution,11.8
+2019,WLD,By energy production and distribution,12.1
+2020,WLD,By energy production and distribution,11.0
+2021,WLD,By energy production and distribution,8.9
+2022,WLD,By energy production and distribution,3.2
+2012,WLD,By construction,13.7
+2013,WLD,By construction,14.2
+2014,WLD,By construction,14.5
+2015,WLD,By construction,16.1
+2016,WLD,By construction,16.9
+2017,WLD,By construction,16.4
+2018,WLD,By construction,15.6
+2019,WLD,By construction,17.2
+2020,WLD,By construction,14.0
+2021,WLD,By construction,11.8
+2022,WLD,By construction,3.8
+2012,WLD,By services,4.6
+2013,WLD,By services,4.3
+2014,WLD,By services,4.8
+2015,WLD,By services,4.6
+2016,WLD,By services,6.2
+2017,WLD,By services,5.6
+2018,WLD,By services,5.6
+2019,WLD,By services,6.2
+2020,WLD,By services,5.6
+2021,WLD,By services,5.6
+2022,WLD,By services,2.1
+2012,WLD,By households,5.4
+2013,WLD,By households,5.1
+2014,WLD,By households,5.4
+2015,WLD,By households,4.8
+2016,WLD,By households,5.1
+2017,WLD,By households,4.3
+2018,WLD,By households,4.8
+2019,WLD,By households,5.1
+2020,WLD,By households,4.3
+2021,WLD,By households,4.3
+2022,WLD,By households,2.1
