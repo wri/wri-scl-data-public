@@ -1,4 +1,6 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2019,WLD,0.5,,,,
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+2019,WLD,1,,,,
+2020,WLD,1,,,,
 2030,WLD,,,2.5,3,3.5
+2035,WLD,,,2.5,3,3.5
 2040,WLD,,,,3.5,
