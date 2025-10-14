@@ -1,0 +1,199 @@
+﻿year,geo,disagg,value
+2020,AFG,Bus,68
+2020,ARG,Bus,29
+2020,AUS,Bus,7
+2020,AUT,Bus,17
+2020,BEL,Bus,10
+2020,BGD,Bus,67
+2020,BGR,Bus,13
+2020,BHR,Bus,13
+2020,BIH,Bus,28
+2020,BLR,Bus,66
+2020,BOL,Bus,76
+2020,CAN,Bus,3
+2020,CHE,Bus,6
+2020,CHL,Bus,29
+2020,CHN,Bus,32
+2020,CZE,Bus,11
+2020,DEU,Bus,7
+2020,DNK,Bus,9
+2020,EGY,Bus,27
+2020,ESP,Bus,12
+2020,EST,Bus,17
+2020,FIN,Bus,10
+2020,FRA,Bus,6
+2020,GBR,Bus,5
+2020,GEO,Bus,25
+2020,GRC,Bus,14
+2020,HRV,Bus,14
+2020,HUN,Bus,19
+2020,IND,Bus,52
+2020,IRL,Bus,14
+2020,ISR,Bus,14
+2020,ITA,Bus,12
+2020,JPN,Bus,5
+2020,KAZ,Bus,66
+2020,KGZ,Bus,94
+2020,KOR,Bus,22
+2020,LBN,Bus,13
+2020,LIE,Bus,17
+2020,LKA,Bus,48
+2020,LTU,Bus,8
+2020,LUX,Bus,12
+2020,LVA,Bus,14
+2020,MDA,Bus,17
+2020,MEX,Bus,60
+2020,MKD,Bus,19
+2020,MLT,Bus,18
+2020,MYS,Bus,11
+2020,NGA,Bus,45
+2020,NLD,Bus,1
+2020,NOR,Bus,9
+2020,NPL,Bus,48
+2020,NZL,Bus,3
+2020,PAK,Bus,46
+2020,PHL,Bus,54
+2020,POL,Bus,12
+2020,PRT,Bus,11
+2020,ROU,Bus,15
+2020,SGP,Bus,37
+2020,SVK,Bus,16
+2020,SVN,Bus,11
+2020,SWE,Bus,8
+2020,TJK,Bus,90
+2020,TUR,Bus,28
+2020,TWN,Bus,10
+2020,USA,Bus,9
+2020,VNM,Bus,9
+2020,AFG,Passenger Car,32
+2020,ARG,Passenger Car,57
+2020,AUS,Passenger Car,88
+2020,AUT,Passenger Car,67
+2020,BEL,Passenger Car,82
+2020,BGD,Passenger Car,29
+2020,BGR,Passenger Car,85
+2020,BHR,Passenger Car,87
+2020,BIH,Passenger Car,70
+2020,BLR,Passenger Car,1
+2020,BOL,Passenger Car,17
+2020,CAN,Passenger Car,97
+2020,CHE,Passenger Car,77
+2020,CHL,Passenger Car,52
+2020,CHN,Passenger Car,35
+2020,CZE,Passenger Car,79
+2020,DEU,Passenger Car,84
+2020,DNK,Passenger Car,82
+2020,EGY,Passenger Car,66
+2020,ESP,Passenger Car,82
+2020,EST,Passenger Car,81
+2020,FIN,Passenger Car,84
+2020,FRA,Passenger Car,82
+2020,GBR,Passenger Car,85
+2020,GEO,Passenger Car,67
+2020,GRC,Passenger Car,82
+2020,HRV,Passenger Car,84
+2020,HUN,Passenger Car,72
+2020,IND,Passenger Car,42
+2020,IRL,Passenger Car,83
+2020,ISR,Passenger Car,86
+2020,ITA,Passenger Car,82
+2020,JPN,Passenger Car,63
+2020,KAZ,Passenger Car,26
+2020,KGZ,Passenger Car,5
+2020,KOR,Passenger Car,59
+2020,LBN,Passenger Car,87
+2020,LIE,Passenger Car,83
+2020,LKA,Passenger Car,49
+2020,LTU,Passenger Car,91
+2020,LUX,Passenger Car,83
+2020,LVA,Passenger Car,83
+2020,MDA,Passenger Car,80
+2020,MEX,Passenger Car,40
+2020,MKD,Passenger Car,80
+2020,MLT,Passenger Car,82
+2020,MYS,Passenger Car,75
+2020,NGA,Passenger Car,55
+2020,NLD,Passenger Car,90
+2020,NOR,Passenger Car,85
+2020,NPL,Passenger Car,52
+2020,NZL,Passenger Car,97
+2020,PAK,Passenger Car,43
+2020,PHL,Passenger Car,41
+2020,POL,Passenger Car,84
+2020,PRT,Passenger Car,85
+2020,ROU,Passenger Car,80
+2020,SGP,Passenger Car,42
+2020,SVK,Passenger Car,74
+2020,SVN,Passenger Car,87
+2020,SWE,Passenger Car,83
+2020,TJK,Passenger Car,3
+2020,TUR,Passenger Car,70
+2020,TWN,Passenger Car,82
+2020,USA,Passenger Car,91
+2020,VNM,Passenger Car,86
+2020,AFG,Rail,0
+2020,ARG,Rail,15
+2020,AUS,Rail,5
+2020,AUT,Rail,16
+2020,BEL,Rail,8
+2020,BGD,Rail,4
+2020,BGR,Rail,2
+2020,BHR,Rail,0
+2020,BIH,Rail,2
+2020,BLR,Rail,33
+2020,BOL,Rail,8
+2020,CAN,Rail,0
+2020,CHE,Rail,17
+2020,CHL,Rail,19
+2020,CHN,Rail,33
+2020,CZE,Rail,10
+2020,DEU,Rail,9
+2020,DNK,Rail,9
+2020,EGY,Rail,7
+2020,ESP,Rail,7
+2020,EST,Rail,2
+2020,FIN,Rail,6
+2020,FRA,Rail,12
+2020,GBR,Rail,10
+2020,GEO,Rail,8
+2020,GRC,Rail,4
+2020,HRV,Rail,2
+2020,HUN,Rail,9
+2020,IND,Rail,6
+2020,IRL,Rail,3
+2020,ISR,Rail,0
+2020,ITA,Rail,6
+2020,JPN,Rail,34
+2020,KAZ,Rail,8
+2020,KGZ,Rail,1
+2020,KOR,Rail,19
+2020,LBN,Rail,0
+2020,LIE,Rail,0
+2020,LKA,Rail,3
+2020,LTU,Rail,1
+2020,LUX,Rail,5
+2020,LVA,Rail,3
+2020,MDA,Rail,3
+2020,MEX,Rail,0
+2020,MKD,Rail,1
+2020,MLT,Rail,0
+2020,MYS,Rail,14
+2020,NGA,Rail,0
+2020,NLD,Rail,9
+2020,NOR,Rail,6
+2020,NPL,Rail,0
+2020,NZL,Rail,1
+2020,PAK,Rail,11
+2020,PHL,Rail,5
+2020,POL,Rail,8
+2020,PRT,Rail,4
+2020,ROU,Rail,5
+2020,SGP,Rail,21
+2020,SVK,Rail,10
+2020,SVN,Rail,3
+2020,SWE,Rail,10
+2020,TJK,Rail,7
+2020,TUR,Rail,2
+2020,TWN,Rail,8
+2020,USA,Rail,1
+2020,VNM,Rail,5
