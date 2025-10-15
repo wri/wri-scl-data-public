@@ -1,8 +1,8 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2010,WLD,17.2,,,,
-2015,WLD,19.0,,,,
-2020,WLD,22.2,,,,
-2023,WLD,23.8,,,,
-2024,WLD,23.9,,,,
-2029,WLD,,26.3,,,
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+2010,WLD,17,,,,
+2015,WLD,19,,,,
+2020,WLD,22,,,,
+2023,WLD,24,,,,
+2024,WLD,24,,,,
+2029,WLD,,26,,,
 2030,WLD,,,,38,
