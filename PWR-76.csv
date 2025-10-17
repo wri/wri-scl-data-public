@@ -78,17 +78,17 @@ year,geo,disagg,value
 2024,WLD,Gas,1440
 2018,WLD,Oil,84
 2023,WLD,Oil,110
-2001,WLD,Gas and Oil,1731
-2009,WLD,Gas and Oil,105
-2010,WLD,Gas and Oil,466
-2012,WLD,Gas and Oil,292
-2015,WLD,Gas and Oil,60
-2017,WLD,Gas and Oil,885
-2018,WLD,Gas and Oil,800
-2019,WLD,Gas and Oil,1414
-2023,WLD,Gas and Oil,848
-2024,WLD,Gas and Oil,304
-2025,WLD,Gas and Oil,750
+2001,WLD,Gas and oil,1731
+2009,WLD,Gas and oil,105
+2010,WLD,Gas and oil,466
+2012,WLD,Gas and oil,292
+2015,WLD,Gas and oil,60
+2017,WLD,Gas and oil,885
+2018,WLD,Gas and oil,800
+2019,WLD,Gas and oil,1414
+2023,WLD,Gas and oil,848
+2024,WLD,Gas and oil,304
+2025,WLD,Gas and oil,750
 2009,AFG,Total,105
 2023,ALB,Total,110
 2000,DZA,Total,123
@@ -1088,15 +1088,15 @@ year,geo,disagg,value
 2024,ARG,Gas,140
 2023,ALB,Oil,110.2
 2018,AGO,Oil,84
-2009,AFG,Gas and Oil,105
-2018,DZA,Gas and Oil,800
-2019,DZA,Gas and Oil,1414
-2017,AGO,Gas and Oil,720
-2025,AGO,Gas and Oil,750
-2001,ARG,Gas and Oil,1731
-2010,ARG,Gas and Oil,466
-2012,ARG,Gas and Oil,292
-2015,ARG,Gas and Oil,60
-2017,ARG,Gas and Oil,165
-2023,ARG,Gas and Oil,848
-2024,ARG,Gas and Oil,304
+2009,AFG,Gas and oil,105
+2018,DZA,Gas and oil,800
+2019,DZA,Gas and oil,1414
+2017,AGO,Gas and oil,720
+2025,AGO,Gas and oil,750
+2001,ARG,Gas and oil,1731
+2010,ARG,Gas and oil,466
+2012,ARG,Gas and oil,292
+2015,ARG,Gas and oil,60
+2017,ARG,Gas and oil,165
+2023,ARG,Gas and oil,848
+2024,ARG,Gas and oil,304

@@ -1,53 +1,25 @@
-﻿year,geo,disagg,value
-2022,AUT,Vienna,381
-2022,HKG,Hong Kong,409
-2022,CZE,Prague,687
-2022,DEU,Berlin,301
-2022,HUN,Budapest,727
-2022,NOR,Oslo,282
-2022,POL,Warsaw,452
-2022,SGP,Singapore,348
-2022,SWE,Stockholm,341
-2022,CHE,Geneva,271
-2022,TWN,Taipei,340
-2022,GBR,London,308
-2023,ARG,Buenos Aires,206
+year,geo,disagg,value
 2023,AUS,Sydney,56
 2023,AUS,Melbourne,50
-2023,BEL,Brussels,177
 2023,BRA,Sao Paulo,195
 2023,BRA,Rio de Janeiro,68
 2023,CAN,Vancouver,160
 2023,CAN,Montreal,128
 2023,CAN,Toronto,111
 2023,CAN,Ottawa,85
-2023,CHL,Santiago,172
-2023,CHN,Beijing,183
-2023,COL,Medellin,158
-2023,DNK,Copenhagen,209
-2023,ECU,Quito,61
-2023,FRA,Paris,256
+2022,CHE,Geneva,271
+2023,CHE,Geneva,326
+2022,DEU,Berlin,301
 2023,DEU,Berlin,333
 2023,DEU,Hamburg,262
-2023,IND,Bangalore,119
-2023,IND,Delhi,109
-2023,IDN,Jakarta,29
-2023,ISR,Jerusalem,219
-2023,ITA,Milan,182
-2023,KAZ,Astana,161
-2023,MYS,Kuala Lumpur,35
-2023,MEX,Mexico City,85
-2023,MAR,Casablanca,38
-2023,NLD,Amsterdam,204
-2023,NOR,Oslo,312
-2023,PRT,Lisbon,158
-2023,ZAF,Johannesburg,18
 2023,ESP,Madrid,209
 2023,ESP,Barcelona,162
-2023,CHE,Geneva,326
-2023,TUR,Istanbul,163
-2023,ARE,Dubai,148
+2022,GBR,London,308
 2023,GBR,London,325
+2023,IND,Bangalore,119
+2023,IND,Delhi,109
+2022,NOR,Oslo,282
+2023,NOR,Oslo,312
 2023,USA,New York,110
 2023,USA,Chicago,33
 2023,USA,Portland,31
