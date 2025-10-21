@@ -1,749 +1,168 @@
 year,geo,disagg,value
 2010,WLD,Total,4010
 2011,WLD,Total,10830
-2012,WLD,Total,29500
-2013,WLD,Total,43600
-2014,WLD,Total,102000
-2015,WLD,Total,175000
-2016,WLD,Total,312000
-2017,WLD,Total,420000
-2018,WLD,Total,530000
-2019,WLD,Total,860000
-2020,WLD,Total,1250000
-2021,WLD,Total,1760000
-2022,WLD,Total,2700000
-2023,WLD,Total,3900000
-2010,WLD,Publicly available fast,310
-2011,WLD,Publicly available fast,830
-2012,WLD,Publicly available fast,1500
-2013,WLD,Publicly available fast,2600
-2014,WLD,Publicly available fast,13000
-2015,WLD,Publicly available fast,25000
-2016,WLD,Publicly available fast,72000
-2017,WLD,Publicly available fast,110000
-2018,WLD,Publicly available fast,140000
-2019,WLD,Publicly available fast,260000
-2020,WLD,Publicly available fast,380000
-2021,WLD,Publicly available fast,560000
-2022,WLD,Publicly available fast,900000
-2023,WLD,Publicly available fast,1400000
-2010,WLD,Publicly available slow,3700
-2011,WLD,Publicly available slow,10000
-2012,WLD,Publicly available slow,28000
-2013,WLD,Publicly available slow,41000
-2014,WLD,Publicly available slow,89000
-2015,WLD,Publicly available slow,150000
-2016,WLD,Publicly available slow,240000
-2017,WLD,Publicly available slow,310000
-2018,WLD,Publicly available slow,390000
-2019,WLD,Publicly available slow,600000
-2020,WLD,Publicly available slow,870000
-2021,WLD,Publicly available slow,1200000
-2022,WLD,Publicly available slow,1800000
-2023,WLD,Publicly available slow,2500000
-2017,AUS,Total,480
-2018,AUS,Total,731
-2019,AUS,Total,1700
-2020,AUS,Total,2300
-2021,AUS,Total,2320
-2022,AUS,Total,2570
-2023,AUS,Total,2760
-2017,AUS,Publicly available fast,40
-2018,AUS,Publicly available fast,61
-2021,AUS,Publicly available fast,320
-2022,AUS,Publicly available fast,470
-2023,AUS,Publicly available fast,660
-2017,AUS,Publicly available slow,440
-2018,AUS,Publicly available slow,670
-2019,AUS,Publicly available slow,1700
-2020,AUS,Publicly available slow,2300
-2021,AUS,Publicly available slow,2000
-2022,AUS,Publicly available slow,2100
-2023,AUS,Publicly available slow,2100
-2011,AUT,Total,0.200000003
-2012,AUT,Total,0.200000003
-2013,AUT,Total,0.200000003
-2014,AUT,Total,0.200000003
-2015,AUT,Total,0.200000003
-2016,AUT,Total,0.200000003
-2017,AUT,Total,0.200000003
-2018,AUT,Total,0.200000003
-2019,AUT,Total,0.200000003
-2020,AUT,Total,0.200000003
-2021,AUT,Total,10500
-2022,AUT,Total,15600
-2023,AUT,Total,17500
-2011,AUT,Publicly available fast,0.100000001
-2012,AUT,Publicly available fast,0.100000001
-2013,AUT,Publicly available fast,0.100000001
-2014,AUT,Publicly available fast,0.100000001
-2015,AUT,Publicly available fast,0.100000001
-2016,AUT,Publicly available fast,0.100000001
-2017,AUT,Publicly available fast,0.100000001
-2018,AUT,Publicly available fast,0.100000001
-2019,AUT,Publicly available fast,0.100000001
-2020,AUT,Publicly available fast,0.100000001
-2021,AUT,Publicly available fast,1600
-2022,AUT,Publicly available fast,2600
-2023,AUT,Publicly available fast,2500
-2011,AUT,Publicly available slow,0.100000001
-2012,AUT,Publicly available slow,0.100000001
-2013,AUT,Publicly available slow,0.100000001
-2014,AUT,Publicly available slow,0.100000001
-2015,AUT,Publicly available slow,0.100000001
-2016,AUT,Publicly available slow,0.100000001
-2017,AUT,Publicly available slow,0.100000001
-2018,AUT,Publicly available slow,0.100000001
-2019,AUT,Publicly available slow,0.100000001
-2020,AUT,Publicly available slow,0.100000001
-2021,AUT,Publicly available slow,8900
-2022,AUT,Publicly available slow,13000
-2023,AUT,Publicly available slow,15000
-2013,BEL,Total,377
-2014,BEL,Total,615
-2015,BEL,Total,1377
-2016,BEL,Total,1610
-2017,BEL,Total,1720
-2018,BEL,Total,2940
-2019,BEL,Total,6460
-2020,BEL,Total,8480
-2021,BEL,Total,12790
-2022,BEL,Total,24100
-2023,BEL,Total,44000
-2013,BEL,Publicly available fast,47
-2014,BEL,Publicly available fast,55
-2015,BEL,Publicly available fast,77
-2016,BEL,Publicly available fast,110
-2017,BEL,Publicly available fast,220
-2018,BEL,Publicly available fast,240
-2019,BEL,Publicly available fast,360
-2020,BEL,Publicly available fast,480
-2021,BEL,Publicly available fast,790
-2022,BEL,Publicly available fast,1100
-2023,BEL,Publicly available fast,2000
-2013,BEL,Publicly available slow,330
-2014,BEL,Publicly available slow,560
-2015,BEL,Publicly available slow,1300
-2016,BEL,Publicly available slow,1500
-2017,BEL,Publicly available slow,1500
-2018,BEL,Publicly available slow,2700
-2019,BEL,Publicly available slow,6100
-2020,BEL,Publicly available slow,8000
-2021,BEL,Publicly available slow,12000
-2022,BEL,Publicly available slow,23000
-2023,BEL,Publicly available slow,42000
-2018,BRA,Total,31
-2019,BRA,Total,225
-2020,BRA,Total,405
-2021,BRA,Total,805
-2022,BRA,Total,3005
-2023,BRA,Total,3805
-2018,BRA,Publicly available fast,4.900000095
-2019,BRA,Publicly available fast,4.900000095
-2020,BRA,Publicly available fast,4.900000095
-2021,BRA,Publicly available fast,4.900000095
-2022,BRA,Publicly available fast,4.900000095
-2023,BRA,Publicly available fast,4.900000095
-2018,BRA,Publicly available slow,26
-2019,BRA,Publicly available slow,220
-2020,BRA,Publicly available slow,400
-2021,BRA,Publicly available slow,800
-2022,BRA,Publicly available slow,3000
-2023,BRA,Publicly available slow,3800
-2012,CAN,Total,722
-2013,CAN,Total,1207
-2014,CAN,Total,2355
-2015,CAN,Total,3463
-2016,CAN,Total,4040
-2017,CAN,Total,5870
-2018,CAN,Total,7940
-2019,CAN,Total,8980
-2020,CAN,Total,13300
-2021,CAN,Total,15100
-2022,CAN,Total,20900
-2023,CAN,Total,26800
-2012,CAN,Publicly available fast,2
-2013,CAN,Publicly available fast,7
-2014,CAN,Publicly available fast,55
-2015,CAN,Publicly available fast,63
-2016,CAN,Publicly available fast,140
-2017,CAN,Publicly available fast,670
-2018,CAN,Publicly available fast,840
-2019,CAN,Publicly available fast,980
-2020,CAN,Publicly available fast,2300
-2021,CAN,Publicly available fast,3100
-2022,CAN,Publicly available fast,3900
-2023,CAN,Publicly available fast,4800
-2012,CAN,Publicly available slow,720
-2013,CAN,Publicly available slow,1200
-2014,CAN,Publicly available slow,2300
-2015,CAN,Publicly available slow,3400
-2016,CAN,Publicly available slow,3900
-2017,CAN,Publicly available slow,5200
-2018,CAN,Publicly available slow,7100
-2019,CAN,Publicly available slow,8000
-2020,CAN,Publicly available slow,11000
-2021,CAN,Publicly available slow,12000
-2022,CAN,Publicly available slow,17000
-2023,CAN,Publicly available slow,22000
-2012,CHE,Total,404
-2013,CHE,Total,627
-2014,CHE,Total,1399
-2015,CHE,Total,3660
-2016,CHE,Total,3850
-2017,CHE,Total,4080
-2018,CHE,Total,5140
-2019,CHE,Total,6320
-2020,CHE,Total,7700
-2021,CHE,Total,10100
-2022,CHE,Total,12200
-2023,CHE,Total,15800
-2012,CHE,Publicly available fast,4
-2013,CHE,Publicly available fast,27
-2014,CHE,Publicly available fast,99
-2015,CHE,Publicly available fast,260
-2016,CHE,Publicly available fast,350
-2017,CHE,Publicly available fast,580
-2018,CHE,Publicly available fast,740
-2019,CHE,Publicly available fast,920
-2020,CHE,Publicly available fast,1000
-2021,CHE,Publicly available fast,1900
-2022,CHE,Publicly available fast,2200
-2023,CHE,Publicly available fast,2800
-2012,CHE,Publicly available slow,400
-2013,CHE,Publicly available slow,600
-2014,CHE,Publicly available slow,1300
-2015,CHE,Publicly available slow,3400
-2016,CHE,Publicly available slow,3500
-2017,CHE,Publicly available slow,3500
-2018,CHE,Publicly available slow,4400
-2019,CHE,Publicly available slow,5400
-2020,CHE,Publicly available slow,6700
-2021,CHE,Publicly available slow,8200
-2022,CHE,Publicly available slow,10000
-2023,CHE,Publicly available slow,13000
-2011,CHL,Total,2
-2012,CHL,Total,10
-2013,CHL,Total,13
-2014,CHL,Total,18
-2015,CHL,Total,27
-2016,CHL,Total,27
-2017,CHL,Total,41
-2018,CHL,Total,69
-2019,CHL,Total,172
-2020,CHL,Total,339
-2021,CHL,Total,480
-2022,CHL,Total,660
-2023,CHL,Total,1070
-2011,CHL,Publicly available fast,1
-2012,CHL,Publicly available fast,4
-2013,CHL,Publicly available fast,5
-2014,CHL,Publicly available fast,5
-2015,CHL,Publicly available fast,5
-2016,CHL,Publicly available fast,5
-2017,CHL,Publicly available fast,6
-2018,CHL,Publicly available fast,8
-2019,CHL,Publicly available fast,42
-2020,CHL,Publicly available fast,99
-2021,CHL,Publicly available fast,120
-2022,CHL,Publicly available fast,220
-2023,CHL,Publicly available fast,330
-2011,CHL,Publicly available slow,1
-2012,CHL,Publicly available slow,6
-2013,CHL,Publicly available slow,8
-2014,CHL,Publicly available slow,13
-2015,CHL,Publicly available slow,22
-2016,CHL,Publicly available slow,22
-2017,CHL,Publicly available slow,35
-2018,CHL,Publicly available slow,61
-2019,CHL,Publicly available slow,130
-2020,CHL,Publicly available slow,240
-2021,CHL,Publicly available slow,360
-2022,CHL,Publicly available slow,440
-2023,CHL,Publicly available slow,740
-2014,CHN,Total,30000
-2015,CHN,Total,59000
-2016,CHN,Total,141000
-2017,CHN,Total,213000
-2018,CHN,Total,270000
-2019,CHN,Total,510000
-2020,CHN,Total,810000
-2021,CHN,Total,1150000
-2022,CHN,Total,1760000
-2023,CHN,Total,2700000
-2014,CHN,Publicly available fast,9000
-2015,CHN,Publicly available fast,12000
-2016,CHN,Publicly available fast,55000
-2017,CHN,Publicly available fast,83000
-2018,CHN,Publicly available fast,110000
-2019,CHN,Publicly available fast,210000
-2020,CHN,Publicly available fast,310000
-2021,CHN,Publicly available fast,470000
-2022,CHN,Publicly available fast,760000
-2023,CHN,Publicly available fast,1200000
-2014,CHN,Publicly available slow,21000
-2015,CHN,Publicly available slow,47000
-2016,CHN,Publicly available slow,86000
-2017,CHN,Publicly available slow,130000
-2018,CHN,Publicly available slow,160000
-2019,CHN,Publicly available slow,300000
-2020,CHN,Publicly available slow,500000
-2021,CHN,Publicly available slow,680000
-2022,CHN,Publicly available slow,1000000
-2023,CHN,Publicly available slow,1500000
-2012,DEU,Total,1518
-2013,DEU,Total,2447
-2014,DEU,Total,2720
-2015,DEU,Total,5070
-2016,DEU,Total,6430
-2017,DEU,Total,10800
-2018,DEU,Total,19500
-2019,DEU,Total,29900
-2020,DEU,Total,43200
-2021,DEU,Total,59300
-2022,DEU,Total,86000
-2023,DEU,Total,108000
-2012,DEU,Publicly available fast,18
-2013,DEU,Publicly available fast,47
-2014,DEU,Publicly available fast,120
-2015,DEU,Publicly available fast,470
-2016,DEU,Publicly available fast,630
-2017,DEU,Publicly available fast,1400
-2018,DEU,Publicly available fast,2500
-2019,DEU,Publicly available fast,3900
-2020,DEU,Publicly available fast,6200
-2021,DEU,Publicly available fast,9300
-2022,DEU,Publicly available fast,15000
-2023,DEU,Publicly available fast,21000
-2012,DEU,Publicly available slow,1500
-2013,DEU,Publicly available slow,2400
-2014,DEU,Publicly available slow,2600
-2015,DEU,Publicly available slow,4600
-2016,DEU,Publicly available slow,5800
-2017,DEU,Publicly available slow,9400
-2018,DEU,Publicly available slow,17000
-2019,DEU,Publicly available slow,26000
-2020,DEU,Publicly available slow,37000
-2021,DEU,Publicly available slow,50000
-2022,DEU,Publicly available slow,71000
-2023,DEU,Publicly available slow,87000
-2012,DNK,Total,903
-2013,DNK,Total,1046
-2014,DNK,Total,1720
-2015,DNK,Total,2370
-2016,DNK,Total,4510
-2017,DNK,Total,4570
-2018,DNK,Total,4690
-2019,DNK,Total,4950
-2020,DNK,Total,5960
-2021,DNK,Total,7240
-2022,DNK,Total,9500
-2023,DNK,Total,17000
-2012,DNK,Publicly available fast,3
-2013,DNK,Publicly available fast,56
-2014,DNK,Publicly available fast,120
-2015,DNK,Publicly available fast,270
-2016,DNK,Publicly available fast,310
-2017,DNK,Publicly available fast,370
-2018,DNK,Publicly available fast,390
-2019,DNK,Publicly available fast,450
-2020,DNK,Publicly available fast,560
-2021,DNK,Publicly available fast,240
-2022,DNK,Publicly available fast,1200
-2023,DNK,Publicly available fast,3000
-2012,DNK,Publicly available slow,900
-2013,DNK,Publicly available slow,990
-2014,DNK,Publicly available slow,1600
-2015,DNK,Publicly available slow,2100
-2016,DNK,Publicly available slow,4200
-2017,DNK,Publicly available slow,4200
-2018,DNK,Publicly available slow,4300
-2019,DNK,Publicly available slow,4500
-2020,DNK,Publicly available slow,5400
-2021,DNK,Publicly available slow,7000
-2022,DNK,Publicly available slow,8300
-2023,DNK,Publicly available slow,14000
-2012,ESP,Total,400
-2013,ESP,Total,891
-2014,ESP,Total,910
-2015,ESP,Total,1640
-2016,ESP,Total,3530
-2017,ESP,Total,4900
-2018,ESP,Total,5020
-2019,ESP,Total,5500
-2020,ESP,Total,8100
-2021,ESP,Total,8200
-2022,ESP,Total,12200
-2023,ESP,Total,25600
-2013,ESP,Publicly available fast,91
-2014,ESP,Publicly available fast,110
-2015,ESP,Publicly available fast,240
-2016,ESP,Publicly available fast,230
-2017,ESP,Publicly available fast,600
-2018,ESP,Publicly available fast,620
-2019,ESP,Publicly available fast,1000
-2020,ESP,Publicly available fast,2100
-2021,ESP,Publicly available fast,2600
-2022,ESP,Publicly available fast,2200
-2023,ESP,Publicly available fast,6600
-2012,ESP,Publicly available slow,400
-2013,ESP,Publicly available slow,800
-2014,ESP,Publicly available slow,800
-2015,ESP,Publicly available slow,1400
-2016,ESP,Publicly available slow,3300
-2017,ESP,Publicly available slow,4300
-2018,ESP,Publicly available slow,4400
-2019,ESP,Publicly available slow,4500
-2020,ESP,Publicly available slow,6000
-2021,ESP,Publicly available slow,5600
-2022,ESP,Publicly available slow,10000
-2023,ESP,Publicly available slow,19000
-2010,ETH,Total,3200
-2011,ETH,Total,6124
-2012,ETH,Total,16160
-2013,ETH,Total,25780
-2014,ETH,Total,38400
-2015,ETH,Total,62800
-2016,ETH,Total,99700
-2017,ETH,Total,119300
-2018,ETH,Total,143000
-2019,ETH,Total,190000
-2020,ETH,Total,250000
-2021,ETH,Total,353000
-2022,ETH,Total,508000
-2023,ETH,Total,700000
-2011,ETH,Publicly available fast,24
-2012,ETH,Publicly available fast,160
-2013,ETH,Publicly available fast,780
-2014,ETH,Publicly available fast,1400
-2015,ETH,Publicly available fast,3800
-2016,ETH,Publicly available fast,5700
-2017,ETH,Publicly available fast,9300
-2018,ETH,Publicly available fast,13000
-2019,ETH,Publicly available fast,20000
-2020,ETH,Publicly available fast,30000
-2021,ETH,Publicly available fast,43000
-2022,ETH,Publicly available fast,68000
-2023,ETH,Publicly available fast,110000
-2010,ETH,Publicly available slow,3200
-2011,ETH,Publicly available slow,6100
-2012,ETH,Publicly available slow,16000
-2013,ETH,Publicly available slow,25000
-2014,ETH,Publicly available slow,37000
-2015,ETH,Publicly available slow,59000
-2016,ETH,Publicly available slow,94000
-2017,ETH,Publicly available slow,110000
-2018,ETH,Publicly available slow,130000
-2019,ETH,Publicly available slow,170000
-2020,ETH,Publicly available slow,220000
-2021,ETH,Publicly available slow,310000
-2022,ETH,Publicly available slow,440000
-2023,ETH,Publicly available slow,590000
-2010,EUU,Total,7300
-2011,EUU,Total,1506
-2012,EUU,Total,8959
-2013,EUU,Total,15400
-2014,EUU,Total,23690
-2015,EUU,Total,44100
-2016,EUU,Total,75100
-2017,EUU,Total,86600
-2018,EUU,Total,106600
-2019,EUU,Total,152000
-2020,EUU,Total,199000
-2021,EUU,Total,289000
-2022,EUU,Total,429000
-2023,EUU,Total,592000
-2011,EUU,Publicly available fast,6.099999905
-2012,EUU,Publicly available fast,59
-2013,EUU,Publicly available fast,400
-2014,EUU,Publicly available fast,690
-2015,EUU,Publicly available fast,2100
-2016,EUU,Publicly available fast,3100
-2017,EUU,Publicly available fast,5600
-2018,EUU,Publicly available fast,8600
-2019,EUU,Publicly available fast,12000
-2020,EUU,Publicly available fast,19000
-2021,EUU,Publicly available fast,29000
-2022,EUU,Publicly available fast,49000
-2023,EUU,Publicly available fast,82000
-2010,EUU,Publicly available slow,7300
-2011,EUU,Publicly available slow,1500
-2012,EUU,Publicly available slow,8900
-2013,EUU,Publicly available slow,15000
-2014,EUU,Publicly available slow,23000
-2015,EUU,Publicly available slow,42000
-2016,EUU,Publicly available slow,72000
-2017,EUU,Publicly available slow,81000
-2018,EUU,Publicly available slow,98000
-2019,EUU,Publicly available slow,140000
-2020,EUU,Publicly available slow,180000
-2021,EUU,Publicly available slow,260000
-2022,EUU,Publicly available slow,380000
-2023,EUU,Publicly available slow,510000
-2013,FIN,Total,267
-2014,FIN,Total,386
-2015,FIN,Total,840
-2016,FIN,Total,850
-2017,FIN,Total,850
-2018,FIN,Total,930
-2019,FIN,Total,2140
-2020,FIN,Total,4310
-2021,FIN,Total,6570
-2022,FIN,Total,9000
-2023,FIN,Total,12100
-2013,FIN,Publicly available fast,17
-2014,FIN,Publicly available fast,26
-2015,FIN,Publicly available fast,130
-2016,FIN,Publicly available fast,140
-2017,FIN,Publicly available fast,140
-2018,FIN,Publicly available fast,220
-2019,FIN,Publicly available fast,340
-2020,FIN,Publicly available fast,410
-2021,FIN,Publicly available fast,770
-2022,FIN,Publicly available fast,1300
-2023,FIN,Publicly available fast,2800
-2013,FIN,Publicly available slow,250
-2014,FIN,Publicly available slow,360
-2015,FIN,Publicly available slow,710
-2016,FIN,Publicly available slow,710
-2017,FIN,Publicly available slow,710
-2018,FIN,Publicly available slow,710
-2019,FIN,Publicly available slow,1800
-2020,FIN,Publicly available slow,3900
-2021,FIN,Publicly available slow,5800
-2022,FIN,Publicly available slow,7700
-2023,FIN,Publicly available slow,9300
-2012,FRA,Total,809
-2013,FRA,Total,1800
-2014,FRA,Total,1810
-2015,FRA,Total,10480
-2016,FRA,Total,20000
-2017,FRA,Total,21000
-2018,FRA,Total,24700
-2019,FRA,Total,30000
-2020,FRA,Total,34300
-2021,FRA,Total,54500
-2022,FRA,Total,83700
-2023,FRA,Total,118000
-2012,FRA,Publicly available fast,9
-2013,FRA,Publicly available fast,100
-2014,FRA,Publicly available fast,110
-2015,FRA,Publicly available fast,580
-2016,FRA,Publicly available fast,1000
-2017,FRA,Publicly available fast,1000
-2018,FRA,Publicly available fast,1700
-2019,FRA,Publicly available fast,2000
-2020,FRA,Publicly available fast,3300
-2021,FRA,Publicly available fast,4500
-2022,FRA,Publicly available fast,9700
-2023,FRA,Publicly available fast,20000
-2012,FRA,Publicly available slow,800
-2013,FRA,Publicly available slow,1700
-2014,FRA,Publicly available slow,1700
-2015,FRA,Publicly available slow,9900
-2016,FRA,Publicly available slow,19000
-2017,FRA,Publicly available slow,20000
-2018,FRA,Publicly available slow,23000
-2019,FRA,Publicly available slow,28000
-2020,FRA,Publicly available slow,31000
-2021,FRA,Publicly available slow,50000
-2022,FRA,Publicly available slow,74000
-2023,FRA,Publicly available slow,98000
-2011,GBR,Total,1500
-2012,GBR,Total,2836
-2013,GBR,Total,5660
-2014,GBR,Total,7720
-2015,GBR,Total,9300
-2016,GBR,Total,12800
-2017,GBR,Total,15200
-2018,GBR,Total,17700
-2019,GBR,Total,16800
-2020,GBR,Total,20900
-2021,GBR,Total,28200
-2022,GBR,Total,36900
-2023,GBR,Total,53000
-2012,GBR,Publicly available fast,36
-2013,GBR,Publicly available fast,260
-2014,GBR,Publicly available fast,520
-2015,GBR,Publicly available fast,1100
-2016,GBR,Publicly available fast,1800
-2017,GBR,Publicly available fast,2200
-2018,GBR,Publicly available fast,2700
-2019,GBR,Publicly available fast,2800
-2020,GBR,Publicly available fast,3900
-2021,GBR,Publicly available fast,5200
-2022,GBR,Publicly available fast,6900
-2023,GBR,Publicly available fast,10000
-2011,GBR,Publicly available slow,1500
-2012,GBR,Publicly available slow,2800
-2013,GBR,Publicly available slow,5400
-2014,GBR,Publicly available slow,7200
-2015,GBR,Publicly available slow,8200
-2016,GBR,Publicly available slow,11000
-2017,GBR,Publicly available slow,13000
-2018,GBR,Publicly available slow,15000
-2019,GBR,Publicly available slow,14000
-2020,GBR,Publicly available slow,17000
-2021,GBR,Publicly available slow,23000
-2022,GBR,Publicly available slow,30000
-2023,GBR,Publicly available slow,43000
-2013,GRC,Total,10
-2014,GRC,Total,16
-2015,GRC,Total,16
-2016,GRC,Total,17
-2017,GRC,Total,24
-2018,GRC,Total,41
-2019,GRC,Total,73
-2020,GRC,Total,234
-2021,GRC,Total,1300
-2022,GRC,Total,2990
-2023,GRC,Total,5130
-2014,GRC,Publicly available fast,2
-2015,GRC,Publicly available fast,2
-2016,GRC,Publicly available fast,2
-2017,GRC,Publicly available fast,2
-2018,GRC,Publicly available fast,10
-2019,GRC,Publicly available fast,10
-2020,GRC,Publicly available fast,14
-2021,GRC,Publicly available fast,100
-2022,GRC,Publicly available fast,190
-2023,GRC,Publicly available fast,330
-2013,GRC,Publicly available slow,10
-2014,GRC,Publicly available slow,14
-2015,GRC,Publicly available slow,14
-2016,GRC,Publicly available slow,15
-2017,GRC,Publicly available slow,22
-2018,GRC,Publicly available slow,31
-2019,GRC,Publicly available slow,63
-2020,GRC,Publicly available slow,220
-2021,GRC,Publicly available slow,1200
-2022,GRC,Publicly available slow,2800
-2023,GRC,Publicly available slow,4800
-2020,IDN,Total,101
-2021,IDN,Total,184
-2022,IDN,Total,710
-2023,IDN,Total,710
-2020,IDN,Publicly available fast,51
-2021,IDN,Publicly available fast,130
-2022,IDN,Publicly available fast,130
-2023,IDN,Publicly available fast,130
-2020,IDN,Publicly available slow,50
-2021,IDN,Publicly available slow,54
-2022,IDN,Publicly available slow,580
-2023,IDN,Publicly available slow,580
-2016,IND,Total,25
-2017,IND,Total,245
-2018,IND,Total,355
-2019,IND,Total,355
-2020,IND,Total,355
-2021,IND,Total,942
-2022,IND,Total,10900
-2023,IND,Total,10900
-2016,IND,Publicly available fast,25
-2017,IND,Publicly available fast,25
-2018,IND,Publicly available fast,25
-2019,IND,Publicly available fast,25
-2020,IND,Publicly available fast,25
-2021,IND,Publicly available fast,32
-2022,IND,Publicly available fast,4100
-2023,IND,Publicly available fast,4100
-2017,IND,Publicly available slow,220
-2018,IND,Publicly available slow,330
-2019,IND,Publicly available slow,330
-2020,IND,Publicly available slow,330
-2021,IND,Publicly available slow,910
-2022,IND,Publicly available slow,6800
-2023,IND,Publicly available slow,6800
-2014,ISL,Total,6
-2015,ISL,Total,22
-2016,ISL,Total,51
-2017,ISL,Total,68
-2018,ISL,Total,95
-2019,ISL,Total,260
-2020,ISL,Total,480
-2021,ISL,Total,680
-2022,ISL,Total,1030
-2023,ISL,Total,1560
-2014,ISL,Publicly available fast,6
-2015,ISL,Publicly available fast,11
-2016,ISL,Publicly available fast,40
-2017,ISL,Publicly available fast,36
-2018,ISL,Publicly available fast,55
-2019,ISL,Publicly available fast,150
-2020,ISL,Publicly available fast,190
-2021,ISL,Publicly available fast,120
-2022,ISL,Publicly available fast,180
-2023,ISL,Publicly available fast,160
-2015,ISL,Publicly available slow,11
-2016,ISL,Publicly available slow,11
-2017,ISL,Publicly available slow,32
-2018,ISL,Publicly available slow,40
-2019,ISL,Publicly available slow,110
-2020,ISL,Publicly available slow,290
-2021,ISL,Publicly available slow,560
-2022,ISL,Publicly available slow,850
-2023,ISL,Publicly available slow,1400
-2015,ISR,Total,0.200000003
-2016,ISR,Total,0.200000003
-2017,ISR,Total,0.200000003
-2018,ISR,Total,0.200000003
-2019,ISR,Total,0.200000003
-2020,ISR,Total,0.100000001
-2021,ISR,Total,0.100000001
-2022,ISR,Total,2770
-2023,ISR,Total,4910
-2015,ISR,Publicly available fast,0.100000001
-2016,ISR,Publicly available fast,0.100000001
-2017,ISR,Publicly available fast,0.100000001
-2018,ISR,Publicly available fast,0.100000001
-2019,ISR,Publicly available fast,0.100000001
-2020,ISR,Publicly available fast,0.100000001
-2021,ISR,Publicly available fast,0.100000001
-2022,ISR,Publicly available fast,270
-2023,ISR,Publicly available fast,710
-2015,ISR,Publicly available slow,0.100000001
-2016,ISR,Publicly available slow,0.100000001
-2017,ISR,Publicly available slow,0.100000001
-2018,ISR,Publicly available slow,0.100000001
-2019,ISR,Publicly available slow,0.100000001
-2022,ISR,Publicly available slow,2500
-2023,ISR,Publicly available slow,4200
-2012,ITA,Total,1401
-2013,ITA,Total,1406
-2014,ITA,Total,1410
-2015,ITA,Total,1770
-2016,ITA,Total,2470
-2017,ITA,Total,2790
-2018,ITA,Total,3470
-2019,ITA,Total,9160
-2020,ITA,Total,13200
-2021,ITA,Total,22200
-2022,ITA,Total,37500
-2023,ITA,Total,48100
-2012,ITA,Publicly available fast,1
-2013,ITA,Publicly available fast,6
-2014,ITA,Publicly available fast,10
-2015,ITA,Publicly available fast,70
-2016,ITA,Publicly available fast,170
-2017,ITA,Publicly available fast,390
-2018,ITA,Publicly available fast,570
-2019,ITA,Publicly available fast,860
-2020,ITA,Publicly available fast,1200
-2021,ITA,Publicly available fast,2200
-2022,ITA,Publicly available fast,6500
-2023,ITA,Publicly available fast,8100
-2012,ITA,Publicly available slow,1400
-2013,ITA,Publicly available slow,1400
-2014,ITA,Publicly available slow,1400
-2015,ITA,Publicly available slow,1700
-2016,ITA,Publicly available slow,2300
-2017,ITA,Publicly available slow,2400
-2018,ITA,Publicly available slow,2900
-2019,ITA,Publicly available slow,8300
-2020,ITA,Publicly available slow,12000
-2021,ITA,Publicly available slow,20000
-2022,ITA,Publicly available slow,31000
-2023,ITA,Publicly available slow,40000
+2012,WLD,Total,30600
+2013,WLD,Total,44600
+2014,WLD,Total,94300
+2015,WLD,Total,163000
+2016,WLD,Total,258000
+2017,WLD,Total,332000
+2018,WLD,Total,550000
+2019,WLD,Total,880000
+2020,WLD,Total,1270000
+2021,WLD,Total,1770000
+2022,WLD,Total,2710000
+2023,WLD,Total,4000000
+2024,WLD,Total,5400000
+2017,ZAF,Total,124
+2018,ZAF,Total,241
+2019,ZAF,Total,240
+2020,ZAF,Total,300
+2021,ZAF,Total,300
+2022,ZAF,Total,330
+2023,ZAF,Total,350
+2024,ZAF,Total,380
+2023,VNM,Total,4900
+2024,VNM,Total,6100
+2010,USA,Total,480
+2011,USA,Total,3900
+2012,USA,Total,12000
+2013,USA,Total,15000
+2014,USA,Total,20000
+2015,USA,Total,31500
+2016,USA,Total,38800
+2017,USA,Total,45600
+2018,USA,Total,61000
+2019,USA,Total,77000
+2020,USA,Total,98000
+2021,USA,Total,113000
+2022,USA,Total,129000
+2023,USA,Total,160000
+2024,USA,Total,193000
+2016,TUR,Total,11
+2017,TUR,Total,69
+2018,TUR,Total,69
+2019,TUR,Total,150
+2020,TUR,Total,1261
+2021,TUR,Total,1970
+2022,TUR,Total,2160
+2023,TUR,Total,10100
+2024,TUR,Total,11900
+2017,THA,Total,96
+2018,THA,Total,96
+2019,THA,Total,819
+2020,THA,Total,1910
+2021,THA,Total,2270
+2022,THA,Total,3200
+2023,THA,Total,10500
+2024,THA,Total,13400
+2013,SWE,Total,5
+2014,SWE,Total,1000
+2015,SWE,Total,1100
+2016,SWE,Total,2220
+2017,SWE,Total,3590
+2018,SWE,Total,6500
+2019,SWE,Total,9000
+2020,SWE,Total,11200
+2021,SWE,Total,13700
+2022,SWE,Total,17600
+2023,SWE,Total,37800
+2024,SWE,Total,44600
+2021,RUS,Total,4700
+2022,RUS,Total,5400
+2023,RUS,Total,10500
+2024,RUS,Total,10600
+2011,PRT,Total,1106
+2012,PRT,Total,1107
+2013,PRT,Total,1217
+2014,PRT,Total,1217
+2015,PRT,Total,1222
+2016,PRT,Total,1341
+2017,PRT,Total,1650
+2018,PRT,Total,1780
+2019,PRT,Total,1960
+2020,PRT,Total,2920
+2021,PRT,Total,4200
+2022,PRT,Total,5600
+2023,PRT,Total,9400
+2024,PRT,Total,13100
+2014,POL,Total,124
+2015,POL,Total,298
+2016,POL,Total,302
+2017,POL,Total,453
+2018,POL,Total,600
+2019,POL,Total,650
+2020,POL,Total,1520
+2021,POL,Total,3800
+2022,POL,Total,4520
+2023,POL,Total,5900
+2024,POL,Total,9200
+2017,NZL,Total,100
+2018,NZL,Total,289
+2019,NZL,Total,133
+2020,NZL,Total,470
+2021,NZL,Total,600
+2022,NZL,Total,700
+2023,NZL,Total,1140
+2024,NZL,Total,1440
+2010,NOR,Total,2800
+2011,NOR,Total,3118
+2012,NOR,Total,3758
+2013,NOR,Total,4596
+2014,NOR,Total,5310
+2015,NOR,Total,5530
+2016,NOR,Total,7500
+2017,NOR,Total,9220
+2018,NOR,Total,10500
+2019,NOR,Total,14000
+2020,NOR,Total,17300
+2021,NOR,Total,19700
+2022,NOR,Total,25000
+2023,NOR,Total,28000
+2024,NOR,Total,31000
+2010,NLD,Total,400
+2011,NLD,Total,400
+2012,NLD,Total,2821
+2013,NLD,Total,5821
+2014,NLD,Total,12120
+2015,NLD,Total,18220
+2016,NLD,Total,32400
+2017,NLD,Total,33410
+2018,NLD,Total,36820
+2019,NLD,Total,47300
+2020,NLD,Total,65300
+2021,NLD,Total,83800
+2022,NLD,Total,124500
+2023,NLD,Total,145000
+2024,NLD,Total,188000
+2021,MYS,Total,300
+2022,MYS,Total,440
+2023,MYS,Total,1640
+2024,MYS,Total,2010
+2015,MEX,Total,83
+2016,MEX,Total,246
+2017,MEX,Total,750
+2018,MEX,Total,1176
+2019,MEX,Total,1176
+2020,MEX,Total,1176
+2021,MEX,Total,1250
+2022,MEX,Total,1520
+2023,MEX,Total,1600
+2024,MEX,Total,1850
+2011,KIR,Total,350
+2012,KIR,Total,880
+2013,KIR,Total,1180
+2014,KIR,Total,1640
+2015,KIR,Total,1640
+2016,KIR,Total,1590
+2017,KIR,Total,10490
+2018,KIR,Total,31100
+2019,KIR,Total,46100
+2020,KIR,Total,63100
+2021,KIR,Total,101100
+2022,KIR,Total,201000
+2023,KIR,Total,304000
+2024,KIR,Total,417000
 2010,JPN,Total,310
 2011,JPN,Total,800
 2012,JPN,Total,1400
@@ -758,6 +177,730 @@ year,geo,disagg,value
 2021,JPN,Total,29000
 2022,JPN,Total,29400
 2023,JPN,Total,31600
+2024,JPN,Total,34000
+2021,JOR,Total,590
+2022,JOR,Total,423
+2023,JOR,Total,660
+2024,JOR,Total,900
+2012,ITA,Total,1400
+2013,ITA,Total,1400
+2014,ITA,Total,1410
+2015,ITA,Total,1770
+2016,ITA,Total,2470
+2017,ITA,Total,2860
+2018,ITA,Total,3600
+2019,ITA,Total,9400
+2020,ITA,Total,13500
+2021,ITA,Total,22200
+2022,ITA,Total,38000
+2023,ITA,Total,48100
+2024,ITA,Total,60000
+2022,ISR,Total,2760
+2023,ISR,Total,4910
+2024,ISR,Total,9100
+2015,ISL,Total,31
+2016,ISL,Total,51
+2017,ISL,Total,68
+2018,ISL,Total,95
+2019,ISL,Total,260
+2020,ISL,Total,500
+2021,ISL,Total,680
+2022,ISL,Total,1030
+2023,ISL,Total,1810
+2024,ISL,Total,3040
+2017,IND,Total,220
+2018,IND,Total,355
+2019,IND,Total,2330
+2020,IND,Total,3230
+2021,IND,Total,4910
+2022,IND,Total,10900
+2023,IND,Total,37000
+2024,IND,Total,75000
+2021,IDN,Total,184
+2022,IDN,Total,620
+2023,IDN,Total,1080
+2024,IDN,Total,3240
+2014,GRC,Total,122
+2015,GRC,Total,16
+2016,GRC,Total,15
+2017,GRC,Total,22
+2018,GRC,Total,32
+2019,GRC,Total,64
+2020,GRC,Total,228
+2021,GRC,Total,1228
+2022,GRC,Total,3080
+2023,GRC,Total,5160
+2024,GRC,Total,6000
+2011,GBR,Total,1500
+2012,GBR,Total,2800
+2013,GBR,Total,5480
+2014,GBR,Total,7450
+2015,GBR,Total,8740
+2016,GBR,Total,11780
+2017,GBR,Total,13920
+2018,GBR,Total,16100
+2019,GBR,Total,15100
+2020,GBR,Total,22700
+2021,GBR,Total,34500
+2022,GBR,Total,51800
+2023,GBR,Total,72000
+2024,GBR,Total,88000
+2012,FRA,Total,809
+2013,FRA,Total,1800
+2014,FRA,Total,1810
+2015,FRA,Total,10480
+2016,FRA,Total,20000
+2017,FRA,Total,21000
+2018,FRA,Total,25300
+2019,FRA,Total,30700
+2020,FRA,Total,34300
+2021,FRA,Total,54900
+2022,FRA,Total,91000
+2023,FRA,Total,119000
+2024,FRA,Total,152000
+2013,FIN,Total,267
+2014,FIN,Total,386
+2015,FIN,Total,840
+2016,FIN,Total,850
+2017,FIN,Total,850
+2018,FIN,Total,2220
+2019,FIN,Total,3490
+2020,FIN,Total,4330
+2021,FIN,Total,6590
+2022,FIN,Total,9400
+2023,FIN,Total,12200
+2024,FIN,Total,16400
+2012,ESP,Total,400
+2013,ESP,Total,891
+2014,ESP,Total,910
+2015,ESP,Total,1640
+2016,ESP,Total,3660
+2017,ESP,Total,4740
+2018,ESP,Total,4840
+2019,ESP,Total,4500
+2020,ESP,Total,8700
+2021,ESP,Total,8300
+2022,ESP,Total,12200
+2023,ESP,Total,25600
+2024,ESP,Total,41000
+2012,DNK,Total,900
+2013,DNK,Total,1046
+2014,DNK,Total,1710
+2015,DNK,Total,2400
+2016,DNK,Total,4540
+2017,DNK,Total,4590
+2018,DNK,Total,4700
+2019,DNK,Total,4960
+2020,DNK,Total,870
+2021,DNK,Total,890
+2022,DNK,Total,11400
+2023,DNK,Total,17000
+2024,DNK,Total,33400
+2012,DEU,Total,1518
+2013,DEU,Total,2447
+2014,DEU,Total,2720
+2015,DEU,Total,5070
+2016,DEU,Total,7500
+2017,DEU,Total,11600
+2018,DEU,Total,19900
+2019,DEU,Total,29200
+2020,DEU,Total,43300
+2021,DEU,Total,59500
+2022,DEU,Total,86000
+2023,DEU,Total,110000
+2024,DEU,Total,157000
+2021,CRI,Total,600
+2022,CRI,Total,750
+2023,CRI,Total,1010
+2024,CRI,Total,1370
+2021,COL,Total,447
+2022,COL,Total,694
+2023,COL,Total,1040
+2024,COL,Total,1100
+2014,CHN,Total,21000
+2015,CHN,Total,47000
+2016,CHN,Total,86000
+2017,CHN,Total,130000
+2018,CHN,Total,270000
+2019,CHN,Total,510000
+2020,CHN,Total,810000
+2021,CHN,Total,1150000
+2022,CHN,Total,1760000
+2023,CHN,Total,2700000
+2024,CHN,Total,3500000
+2011,CHL,Total,2
+2012,CHL,Total,10
+2013,CHL,Total,13
+2014,CHL,Total,18
+2015,CHL,Total,27
+2016,CHL,Total,27
+2017,CHL,Total,41
+2018,CHL,Total,69
+2019,CHL,Total,172
+2020,CHL,Total,339
+2021,CHL,Total,500
+2022,CHL,Total,660
+2023,CHL,Total,1070
+2024,CHL,Total,1810
+2012,CHE,Total,404
+2013,CHE,Total,627
+2014,CHE,Total,1399
+2015,CHE,Total,3660
+2016,CHE,Total,3850
+2017,CHE,Total,4080
+2018,CHE,Total,5140
+2019,CHE,Total,6320
+2020,CHE,Total,7700
+2021,CHE,Total,10100
+2022,CHE,Total,12200
+2023,CHE,Total,15800
+2024,CHE,Total,19200
+2012,CAN,Total,722
+2013,CAN,Total,1207
+2014,CAN,Total,2355
+2015,CAN,Total,3463
+2016,CAN,Total,4040
+2017,CAN,Total,5680
+2018,CAN,Total,7940
+2019,CAN,Total,8840
+2020,CAN,Total,13300
+2021,CAN,Total,15000
+2022,CAN,Total,21300
+2023,CAN,Total,27100
+2024,CAN,Total,32600
+2018,BRA,Total,31
+2019,BRA,Total,225
+2020,BRA,Total,405
+2021,BRA,Total,930
+2022,BRA,Total,3150
+2023,BRA,Total,4750
+2024,BRA,Total,12600
+2013,BEL,Total,377
+2014,BEL,Total,615
+2015,BEL,Total,1400
+2016,BEL,Total,1640
+2017,BEL,Total,1800
+2018,BEL,Total,3020
+2019,BEL,Total,6590
+2020,BEL,Total,8740
+2021,BEL,Total,12720
+2022,BEL,Total,24200
+2023,BEL,Total,44000
+2024,BEL,Total,74600
+2019,AUT,Total,3722
+2020,AUT,Total,8600
+2021,AUT,Total,10400
+2022,AUT,Total,13000
+2023,AUT,Total,18600
+2024,AUT,Total,27300
+2017,AUS,Total,480
+2018,AUS,Total,731
+2019,AUS,Total,1960
+2020,AUS,Total,2480
+2021,AUS,Total,2770
+2022,AUS,Total,3300
+2023,AUS,Total,3010
+2024,AUS,Total,6700
+2011,WLD,Publicly available slow,3700
+2012,WLD,Publicly available slow,10000
+2013,WLD,Publicly available slow,29000
+2014,WLD,Publicly available slow,42000
+2015,WLD,Publicly available slow,90000
+2016,WLD,Publicly available slow,150000
+2017,WLD,Publicly available slow,240000
+2018,WLD,Publicly available slow,310000
+2019,WLD,Publicly available slow,400000
+2020,WLD,Publicly available slow,610000
+2021,WLD,Publicly available slow,890000
+2022,WLD,Publicly available slow,1200000
+2023,WLD,Publicly available slow,1800000
+2024,WLD,Publicly available slow,2600000
+2018,ZAF,Publicly available slow,87
+2019,ZAF,Publicly available slow,160
+2020,ZAF,Publicly available slow,110
+2021,ZAF,Publicly available slow,140
+2022,ZAF,Publicly available slow,140
+2023,ZAF,Publicly available slow,150
+2024,ZAF,Publicly available slow,170
+2024,VNM,Publicly available slow,1600
+2011,USA,Publicly available slow,480
+2012,USA,Publicly available slow,3900
+2013,USA,Publicly available slow,12000
+2014,USA,Publicly available slow,15000
+2015,USA,Publicly available slow,20000
+2016,USA,Publicly available slow,28000
+2017,USA,Publicly available slow,35000
+2018,USA,Publicly available slow,40000
+2019,USA,Publicly available slow,50000
+2020,USA,Publicly available slow,64000
+2021,USA,Publicly available slow,81000
+2022,USA,Publicly available slow,91000
+2023,USA,Publicly available slow,100000
+2024,USA,Publicly available slow,120000
+2017,TUR,Publicly available slow,11
+2018,TUR,Publicly available slow,69
+2019,TUR,Publicly available slow,69
+2020,TUR,Publicly available slow,150
+2021,TUR,Publicly available slow,1200
+2022,TUR,Publicly available slow,1800
+2023,TUR,Publicly available slow,1800
+2024,TUR,Publicly available slow,7000
+2018,THA,Publicly available slow,88
+2019,THA,Publicly available slow,88
+2020,THA,Publicly available slow,750
+2021,THA,Publicly available slow,1200
+2022,THA,Publicly available slow,1500
+2023,THA,Publicly available slow,1600
+2024,THA,Publicly available slow,4700
+2014,SWE,Publicly available slow,5
+2015,SWE,Publicly available slow,1000
+2016,SWE,Publicly available slow,1100
+2017,SWE,Publicly available slow,1700
+2018,SWE,Publicly available slow,3400
+2019,SWE,Publicly available slow,5500
+2020,SWE,Publicly available slow,7800
+2021,SWE,Publicly available slow,9800
+2022,SWE,Publicly available slow,12000
+2023,SWE,Publicly available slow,15000
+2024,SWE,Publicly available slow,30000
+2022,RUS,Publicly available slow,3100
+2023,RUS,Publicly available slow,3200
+2024,RUS,Publicly available slow,4800
+2012,PRT,Publicly available slow,1100
+2013,PRT,Publicly available slow,1100
+2014,PRT,Publicly available slow,1200
+2015,PRT,Publicly available slow,1200
+2016,PRT,Publicly available slow,1200
+2017,PRT,Publicly available slow,1300
+2018,PRT,Publicly available slow,1500
+2019,PRT,Publicly available slow,1600
+2020,PRT,Publicly available slow,1600
+2021,PRT,Publicly available slow,2200
+2022,PRT,Publicly available slow,2800
+2023,PRT,Publicly available slow,4000
+2024,PRT,Publicly available slow,5600
+2015,POL,Publicly available slow,120
+2016,POL,Publicly available slow,290
+2017,POL,Publicly available slow,290
+2018,POL,Publicly available slow,410
+2019,POL,Publicly available slow,490
+2020,POL,Publicly available slow,530
+2021,POL,Publicly available slow,1000
+2022,POL,Publicly available slow,2300
+2023,POL,Publicly available slow,4000
+2024,POL,Publicly available slow,4400
+2019,NZL,Publicly available slow,89
+2020,NZL,Publicly available slow,130
+2021,NZL,Publicly available slow,150
+2022,NZL,Publicly available slow,170
+2023,NZL,Publicly available slow,220
+2024,NZL,Publicly available slow,280
+2011,NOR,Publicly available slow,2800
+2012,NOR,Publicly available slow,3100
+2013,NOR,Publicly available slow,3700
+2014,NOR,Publicly available slow,4500
+2015,NOR,Publicly available slow,5200
+2016,NOR,Publicly available slow,5200
+2017,NOR,Publicly available slow,7000
+2018,NOR,Publicly available slow,8300
+2019,NOR,Publicly available slow,9300
+2020,NOR,Publicly available slow,10000
+2021,NOR,Publicly available slow,12000
+2022,NOR,Publicly available slow,13000
+2023,NOR,Publicly available slow,15000
+2024,NOR,Publicly available slow,16000
+2011,NLD,Publicly available slow,400
+2012,NLD,Publicly available slow,400
+2013,NLD,Publicly available slow,2800
+2014,NLD,Publicly available slow,5800
+2015,NLD,Publicly available slow,12000
+2016,NLD,Publicly available slow,18000
+2017,NLD,Publicly available slow,32000
+2018,NLD,Publicly available slow,33000
+2019,NLD,Publicly available slow,36000
+2020,NLD,Publicly available slow,46000
+2021,NLD,Publicly available slow,63000
+2022,NLD,Publicly available slow,81000
+2023,NLD,Publicly available slow,120000
+2024,NLD,Publicly available slow,140000
+2022,MYS,Publicly available slow,300
+2023,MYS,Publicly available slow,440
+2024,MYS,Publicly available slow,540
+2016,MEX,Publicly available slow,83
+2017,MEX,Publicly available slow,240
+2018,MEX,Publicly available slow,700
+2019,MEX,Publicly available slow,1100
+2020,MEX,Publicly available slow,1100
+2021,MEX,Publicly available slow,1100
+2022,MEX,Publicly available slow,1100
+2023,MEX,Publicly available slow,1300
+2024,MEX,Publicly available slow,1400
+2012,KIR,Publicly available slow,350
+2013,KIR,Publicly available slow,760
+2014,KIR,Publicly available slow,1000
+2015,KIR,Publicly available slow,1400
+2016,KIR,Publicly available slow,1300
+2017,KIR,Publicly available slow,1100
+2018,KIR,Publicly available slow,10000
+2019,KIR,Publicly available slow,22000
+2020,KIR,Publicly available slow,37000
+2021,KIR,Publicly available slow,54000
+2022,KIR,Publicly available slow,92000
+2023,KIR,Publicly available slow,180000
+2024,KIR,Publicly available slow,270000
+2015,JPN,Publicly available slow,8600
+2016,JPN,Publicly available slow,16000
+2017,JPN,Publicly available slow,17000
+2018,JPN,Publicly available slow,22000
+2019,JPN,Publicly available slow,22000
+2020,JPN,Publicly available slow,23000
+2021,JPN,Publicly available slow,22000
+2022,JPN,Publicly available slow,21000
+2023,JPN,Publicly available slow,21000
+2024,JPN,Publicly available slow,22000
+2022,JOR,Publicly available slow,510
+2023,JOR,Publicly available slow,340
+2024,JOR,Publicly available slow,540
+2013,ITA,Publicly available slow,1400
+2014,ITA,Publicly available slow,1400
+2015,ITA,Publicly available slow,1400
+2016,ITA,Publicly available slow,1700
+2017,ITA,Publicly available slow,2300
+2018,ITA,Publicly available slow,2400
+2019,ITA,Publicly available slow,2900
+2020,ITA,Publicly available slow,8300
+2021,ITA,Publicly available slow,12000
+2022,ITA,Publicly available slow,20000
+2023,ITA,Publicly available slow,31000
+2024,ITA,Publicly available slow,40000
+2023,ISR,Publicly available slow,2500
+2024,ISR,Publicly available slow,4200
+2016,ISL,Publicly available slow,11
+2017,ISL,Publicly available slow,11
+2018,ISL,Publicly available slow,32
+2019,ISL,Publicly available slow,40
+2020,ISL,Publicly available slow,110
+2021,ISL,Publicly available slow,290
+2022,ISL,Publicly available slow,560
+2023,ISL,Publicly available slow,850
+2024,ISL,Publicly available slow,1400
+2018,IND,Publicly available slow,220
+2019,IND,Publicly available slow,330
+2020,IND,Publicly available slow,330
+2021,IND,Publicly available slow,330
+2022,IND,Publicly available slow,910
+2023,IND,Publicly available slow,6800
+2024,IND,Publicly available slow,23000
+2022,IDN,Publicly available slow,54
+2023,IDN,Publicly available slow,180
+2024,IDN,Publicly available slow,310
+2015,GRC,Publicly available slow,120
+2016,GRC,Publicly available slow,14
+2017,GRC,Publicly available slow,15
+2018,GRC,Publicly available slow,22
+2019,GRC,Publicly available slow,31
+2020,GRC,Publicly available slow,63
+2021,GRC,Publicly available slow,220
+2022,GRC,Publicly available slow,1200
+2023,GRC,Publicly available slow,2800
+2024,GRC,Publicly available slow,4900
+2012,GBR,Publicly available slow,1500
+2013,GBR,Publicly available slow,2800
+2014,GBR,Publicly available slow,5400
+2015,GBR,Publicly available slow,7200
+2016,GBR,Publicly available slow,8200
+2017,GBR,Publicly available slow,11000
+2018,GBR,Publicly available slow,13000
+2019,GBR,Publicly available slow,15000
+2020,GBR,Publicly available slow,14000
+2021,GBR,Publicly available slow,18000
+2022,GBR,Publicly available slow,29000
+2023,GBR,Publicly available slow,44000
+2024,GBR,Publicly available slow,60000
+2013,FRA,Publicly available slow,800
+2014,FRA,Publicly available slow,1700
+2015,FRA,Publicly available slow,1700
+2016,FRA,Publicly available slow,9900
+2017,FRA,Publicly available slow,19000
+2018,FRA,Publicly available slow,20000
+2019,FRA,Publicly available slow,23000
+2020,FRA,Publicly available slow,28000
+2021,FRA,Publicly available slow,31000
+2022,FRA,Publicly available slow,50000
+2023,FRA,Publicly available slow,74000
+2024,FRA,Publicly available slow,99000
+2014,FIN,Publicly available slow,250
+2015,FIN,Publicly available slow,360
+2016,FIN,Publicly available slow,710
+2017,FIN,Publicly available slow,710
+2018,FIN,Publicly available slow,710
+2019,FIN,Publicly available slow,2000
+2020,FIN,Publicly available slow,3100
+2021,FIN,Publicly available slow,3900
+2022,FIN,Publicly available slow,5800
+2023,FIN,Publicly available slow,7700
+2024,FIN,Publicly available slow,9300
+2013,ESP,Publicly available slow,400
+2014,ESP,Publicly available slow,800
+2015,ESP,Publicly available slow,800
+2016,ESP,Publicly available slow,1400
+2017,ESP,Publicly available slow,3300
+2018,ESP,Publicly available slow,4300
+2019,ESP,Publicly available slow,4400
+2020,ESP,Publicly available slow,4500
+2021,ESP,Publicly available slow,6000
+2022,ESP,Publicly available slow,5600
+2023,ESP,Publicly available slow,10000
+2024,ESP,Publicly available slow,19000
+2013,DNK,Publicly available slow,900
+2014,DNK,Publicly available slow,990
+2015,DNK,Publicly available slow,1600
+2016,DNK,Publicly available slow,2100
+2017,DNK,Publicly available slow,4200
+2018,DNK,Publicly available slow,4200
+2019,DNK,Publicly available slow,4300
+2020,DNK,Publicly available slow,4500
+2023,DNK,Publicly available slow,10000
+2024,DNK,Publicly available slow,14000
+2013,DEU,Publicly available slow,1500
+2014,DEU,Publicly available slow,2400
+2015,DEU,Publicly available slow,2600
+2016,DEU,Publicly available slow,4600
+2017,DEU,Publicly available slow,5800
+2018,DEU,Publicly available slow,9400
+2019,DEU,Publicly available slow,17000
+2020,DEU,Publicly available slow,26000
+2021,DEU,Publicly available slow,37000
+2022,DEU,Publicly available slow,50000
+2023,DEU,Publicly available slow,71000
+2024,DEU,Publicly available slow,87000
+2022,CRI,Publicly available slow,600
+2023,CRI,Publicly available slow,750
+2024,CRI,Publicly available slow,840
+2022,COL,Publicly available slow,390
+2023,COL,Publicly available slow,610
+2024,COL,Publicly available slow,880
+2015,CHN,Publicly available slow,21000
+2016,CHN,Publicly available slow,47000
+2017,CHN,Publicly available slow,86000
+2018,CHN,Publicly available slow,130000
+2019,CHN,Publicly available slow,160000
+2020,CHN,Publicly available slow,300000
+2021,CHN,Publicly available slow,500000
+2022,CHN,Publicly available slow,680000
+2023,CHN,Publicly available slow,1000000
+2024,CHN,Publicly available slow,1500000
+2012,CHL,Publicly available slow,1
+2013,CHL,Publicly available slow,6
+2014,CHL,Publicly available slow,8
+2015,CHL,Publicly available slow,13
+2016,CHL,Publicly available slow,22
+2017,CHL,Publicly available slow,22
+2018,CHL,Publicly available slow,35
+2019,CHL,Publicly available slow,61
+2020,CHL,Publicly available slow,130
+2021,CHL,Publicly available slow,240
+2022,CHL,Publicly available slow,360
+2023,CHL,Publicly available slow,440
+2024,CHL,Publicly available slow,740
+2013,CHE,Publicly available slow,400
+2014,CHE,Publicly available slow,600
+2015,CHE,Publicly available slow,1300
+2016,CHE,Publicly available slow,3400
+2017,CHE,Publicly available slow,3500
+2018,CHE,Publicly available slow,3500
+2019,CHE,Publicly available slow,4400
+2020,CHE,Publicly available slow,5400
+2021,CHE,Publicly available slow,6700
+2022,CHE,Publicly available slow,8200
+2023,CHE,Publicly available slow,10000
+2024,CHE,Publicly available slow,13000
+2013,CAN,Publicly available slow,720
+2014,CAN,Publicly available slow,1200
+2015,CAN,Publicly available slow,2300
+2016,CAN,Publicly available slow,3400
+2017,CAN,Publicly available slow,3900
+2018,CAN,Publicly available slow,5200
+2019,CAN,Publicly available slow,7100
+2020,CAN,Publicly available slow,8000
+2021,CAN,Publicly available slow,11000
+2022,CAN,Publicly available slow,12000
+2023,CAN,Publicly available slow,17000
+2024,CAN,Publicly available slow,22000
+2019,BRA,Publicly available slow,26
+2020,BRA,Publicly available slow,220
+2021,BRA,Publicly available slow,400
+2022,BRA,Publicly available slow,800
+2023,BRA,Publicly available slow,3000
+2024,BRA,Publicly available slow,4300
+2014,BEL,Publicly available slow,330
+2015,BEL,Publicly available slow,560
+2016,BEL,Publicly available slow,1300
+2017,BEL,Publicly available slow,1500
+2018,BEL,Publicly available slow,1500
+2019,BEL,Publicly available slow,2700
+2020,BEL,Publicly available slow,6100
+2021,BEL,Publicly available slow,8000
+2022,BEL,Publicly available slow,12000
+2023,BEL,Publicly available slow,23000
+2024,BEL,Publicly available slow,42000
+2020,AUT,Publicly available slow,3700
+2021,AUT,Publicly available slow,7100
+2022,AUT,Publicly available slow,8900
+2023,AUT,Publicly available slow,13000
+2024,AUT,Publicly available slow,15000
+2018,AUS,Publicly available slow,440
+2019,AUS,Publicly available slow,670
+2020,AUS,Publicly available slow,1700
+2021,AUS,Publicly available slow,2000
+2022,AUS,Publicly available slow,2000
+2023,AUS,Publicly available slow,2100
+2024,AUS,Publicly available slow,2200
+2017,ZAF,Publicly available fast,37
+2018,ZAF,Publicly available fast,81
+2019,ZAF,Publicly available fast,130
+2020,ZAF,Publicly available fast,160
+2021,ZAF,Publicly available fast,160
+2022,ZAF,Publicly available fast,180
+2023,ZAF,Publicly available fast,180
+2024,ZAF,Publicly available fast,190
+2010,WLD,Publicly available fast,310
+2011,WLD,Publicly available fast,830
+2012,WLD,Publicly available fast,1600
+2013,WLD,Publicly available fast,2600
+2014,WLD,Publicly available fast,4300
+2015,WLD,Publicly available fast,13000
+2016,WLD,Publicly available fast,18000
+2017,WLD,Publicly available fast,22000
+2018,WLD,Publicly available fast,150000
+2019,WLD,Publicly available fast,270000
+2020,WLD,Publicly available fast,380000
+2021,WLD,Publicly available fast,570000
+2022,WLD,Publicly available fast,910000
+2023,WLD,Publicly available fast,1400000
+2024,WLD,Publicly available fast,2000000
+2023,VNM,Publicly available fast,3300
+2024,VNM,Publicly available fast,4000
+2015,USA,Publicly available fast,3500
+2016,USA,Publicly available fast,3800
+2017,USA,Publicly available fast,5600
+2018,USA,Publicly available fast,11000
+2019,USA,Publicly available fast,13000
+2020,USA,Publicly available fast,17000
+2021,USA,Publicly available fast,22000
+2022,USA,Publicly available fast,29000
+2023,USA,Publicly available fast,40000
+2024,USA,Publicly available fast,53000
+2020,TUR,Publicly available fast,61
+2021,TUR,Publicly available fast,170
+2022,TUR,Publicly available fast,360
+2023,TUR,Publicly available fast,3100
+2024,TUR,Publicly available fast,5900
+2017,THA,Publicly available fast,8
+2018,THA,Publicly available fast,8
+2019,THA,Publicly available fast,69
+2020,THA,Publicly available fast,710
+2021,THA,Publicly available fast,770
+2022,THA,Publicly available fast,1600
+2023,THA,Publicly available fast,5800
+2024,THA,Publicly available fast,8700
+2016,SWE,Publicly available fast,520
+2017,SWE,Publicly available fast,190
+2018,SWE,Publicly available fast,1000
+2019,SWE,Publicly available fast,1200
+2020,SWE,Publicly available fast,1400
+2021,SWE,Publicly available fast,1700
+2022,SWE,Publicly available fast,2600
+2023,SWE,Publicly available fast,7800
+2024,SWE,Publicly available fast,6600
+2021,RUS,Publicly available fast,1600
+2022,RUS,Publicly available fast,2200
+2023,RUS,Publicly available fast,5700
+2024,RUS,Publicly available fast,5700
+2011,PRT,Publicly available fast,6
+2012,PRT,Publicly available fast,7
+2013,PRT,Publicly available fast,17
+2014,PRT,Publicly available fast,17
+2015,PRT,Publicly available fast,22
+2016,PRT,Publicly available fast,41
+2017,PRT,Publicly available fast,150
+2018,PRT,Publicly available fast,180
+2019,PRT,Publicly available fast,360
+2020,PRT,Publicly available fast,720
+2021,PRT,Publicly available fast,1400
+2022,PRT,Publicly available fast,1600
+2023,PRT,Publicly available fast,3800
+2024,PRT,Publicly available fast,3800
+2014,POL,Publicly available fast,4
+2015,POL,Publicly available fast,8
+2016,POL,Publicly available fast,12
+2017,POL,Publicly available fast,43
+2018,POL,Publicly available fast,110
+2019,POL,Publicly available fast,120
+2020,POL,Publicly available fast,520
+2021,POL,Publicly available fast,1500
+2022,POL,Publicly available fast,520
+2023,POL,Publicly available fast,1500
+2024,POL,Publicly available fast,3000
+2017,NZL,Publicly available fast,100
+2018,NZL,Publicly available fast,200
+2019,NZL,Publicly available fast,3
+2020,NZL,Publicly available fast,320
+2021,NZL,Publicly available fast,430
+2022,NZL,Publicly available fast,480
+2023,NZL,Publicly available fast,860
+2024,NZL,Publicly available fast,1100
+2011,NOR,Publicly available fast,18
+2012,NOR,Publicly available fast,58
+2013,NOR,Publicly available fast,96
+2014,NOR,Publicly available fast,110
+2015,NOR,Publicly available fast,330
+2016,NOR,Publicly available fast,500
+2017,NOR,Publicly available fast,920
+2018,NOR,Publicly available fast,1200
+2019,NOR,Publicly available fast,4000
+2020,NOR,Publicly available fast,5300
+2021,NOR,Publicly available fast,6700
+2022,NOR,Publicly available fast,10000
+2023,NOR,Publicly available fast,12000
+2024,NOR,Publicly available fast,13000
+2012,NLD,Publicly available fast,21
+2013,NLD,Publicly available fast,21
+2014,NLD,Publicly available fast,120
+2015,NLD,Publicly available fast,220
+2016,NLD,Publicly available fast,400
+2017,NLD,Publicly available fast,410
+2018,NLD,Publicly available fast,820
+2019,NLD,Publicly available fast,1300
+2020,NLD,Publicly available fast,2300
+2021,NLD,Publicly available fast,2800
+2022,NLD,Publicly available fast,4500
+2023,NLD,Publicly available fast,5000
+2024,NLD,Publicly available fast,8000
+2023,MYS,Publicly available fast,1100
+2024,MYS,Publicly available fast,1300
+2016,MEX,Publicly available fast,6
+2017,MEX,Publicly available fast,50
+2018,MEX,Publicly available fast,76
+2019,MEX,Publicly available fast,76
+2020,MEX,Publicly available fast,76
+2021,MEX,Publicly available fast,150
+2022,MEX,Publicly available fast,220
+2023,MEX,Publicly available fast,200
+2024,MEX,Publicly available fast,250
+2012,KIR,Publicly available fast,120
+2013,KIR,Publicly available fast,180
+2014,KIR,Publicly available fast,240
+2015,KIR,Publicly available fast,340
+2016,KIR,Publicly available fast,490
+2017,KIR,Publicly available fast,490
+2018,KIR,Publicly available fast,9100
+2019,KIR,Publicly available fast,9100
+2020,KIR,Publicly available fast,9100
+2021,KIR,Publicly available fast,9100
+2022,KIR,Publicly available fast,21000
+2023,KIR,Publicly available fast,34000
+2024,KIR,Publicly available fast,47000
 2010,JPN,Publicly available fast,310
 2011,JPN,Publicly available fast,800
 2012,JPN,Publicly available fast,1400
@@ -772,350 +915,210 @@ year,geo,disagg,value
 2021,JPN,Publicly available fast,8000
 2022,JPN,Publicly available fast,8400
 2023,JPN,Publicly available fast,9600
-2014,JPN,Publicly available slow,8600
-2015,JPN,Publicly available slow,16000
-2016,JPN,Publicly available slow,17000
-2017,JPN,Publicly available slow,22000
-2018,JPN,Publicly available slow,22000
-2019,JPN,Publicly available slow,23000
-2020,JPN,Publicly available slow,22000
-2021,JPN,Publicly available slow,21000
-2022,JPN,Publicly available slow,21000
-2023,JPN,Publicly available slow,22000
-2016,KOR,Total,2020
-2017,KOR,Total,13300
-2018,KOR,Total,27200
-2019,KOR,Total,44400
-2020,KOR,Total,46800
-2021,KOR,Total,107000
-2022,KOR,Total,201000
-2023,KOR,Total,201000
-2016,KOR,Publicly available fast,920
-2017,KOR,Publicly available fast,3300
-2018,KOR,Publicly available fast,5200
-2019,KOR,Publicly available fast,7400
-2020,KOR,Publicly available fast,9800
-2021,KOR,Publicly available fast,15000
-2022,KOR,Publicly available fast,21000
-2023,KOR,Publicly available fast,21000
-2016,KOR,Publicly available slow,1100
-2017,KOR,Publicly available slow,10000
-2018,KOR,Publicly available slow,22000
-2019,KOR,Publicly available slow,37000
-2020,KOR,Publicly available slow,37000
-2021,KOR,Publicly available slow,92000
-2022,KOR,Publicly available slow,180000
-2023,KOR,Publicly available slow,180000
-2015,MEX,Total,83
-2016,MEX,Total,246
-2017,MEX,Total,750
-2018,MEX,Total,1176
-2019,MEX,Total,1176
-2020,MEX,Total,1176
-2021,MEX,Total,1176
-2022,MEX,Total,2076
-2023,MEX,Total,2076
-2016,MEX,Publicly available fast,6
-2017,MEX,Publicly available fast,50
-2018,MEX,Publicly available fast,76
-2019,MEX,Publicly available fast,76
-2020,MEX,Publicly available fast,76
-2021,MEX,Publicly available fast,76
-2022,MEX,Publicly available fast,76
-2023,MEX,Publicly available fast,76
-2015,MEX,Publicly available slow,83
-2016,MEX,Publicly available slow,240
-2017,MEX,Publicly available slow,700
-2018,MEX,Publicly available slow,1100
-2019,MEX,Publicly available slow,1100
-2020,MEX,Publicly available slow,1100
-2021,MEX,Publicly available slow,1100
-2022,MEX,Publicly available slow,2000
-2023,MEX,Publicly available slow,2000
-2010,NLD,Total,400
-2011,NLD,Total,400
-2012,NLD,Total,2821
-2013,NLD,Total,5821
-2014,NLD,Total,12120
-2015,NLD,Total,18220
-2016,NLD,Total,32400
-2017,NLD,Total,33410
-2018,NLD,Total,36820
-2019,NLD,Total,47300
-2020,NLD,Total,65100
-2021,NLD,Total,83600
-2022,NLD,Total,124300
-2023,NLD,Total,145800
-2012,NLD,Publicly available fast,21
-2013,NLD,Publicly available fast,21
-2014,NLD,Publicly available fast,120
-2015,NLD,Publicly available fast,220
-2016,NLD,Publicly available fast,400
-2017,NLD,Publicly available fast,410
-2018,NLD,Publicly available fast,820
-2019,NLD,Publicly available fast,1300
-2020,NLD,Publicly available fast,2100
-2021,NLD,Publicly available fast,2600
-2022,NLD,Publicly available fast,4300
-2023,NLD,Publicly available fast,5800
-2010,NLD,Publicly available slow,400
-2011,NLD,Publicly available slow,400
-2012,NLD,Publicly available slow,2800
-2013,NLD,Publicly available slow,5800
-2014,NLD,Publicly available slow,12000
-2015,NLD,Publicly available slow,18000
-2016,NLD,Publicly available slow,32000
-2017,NLD,Publicly available slow,33000
-2018,NLD,Publicly available slow,36000
-2019,NLD,Publicly available slow,46000
-2020,NLD,Publicly available slow,63000
-2021,NLD,Publicly available slow,81000
-2022,NLD,Publicly available slow,120000
-2023,NLD,Publicly available slow,140000
-2010,NOR,Total,2800
-2011,NOR,Total,3118
-2012,NOR,Total,3758
-2013,NOR,Total,4596
-2014,NOR,Total,5310
-2015,NOR,Total,5530
-2016,NOR,Total,7500
-2017,NOR,Total,9220
-2018,NOR,Total,10500
-2019,NOR,Total,14000
-2020,NOR,Total,17300
-2021,NOR,Total,19700
-2022,NOR,Total,24100
-2023,NOR,Total,27000
-2011,NOR,Publicly available fast,18
-2012,NOR,Publicly available fast,58
-2013,NOR,Publicly available fast,96
-2014,NOR,Publicly available fast,110
-2015,NOR,Publicly available fast,330
-2016,NOR,Publicly available fast,500
-2017,NOR,Publicly available fast,920
-2018,NOR,Publicly available fast,1200
-2019,NOR,Publicly available fast,4000
-2020,NOR,Publicly available fast,5300
-2021,NOR,Publicly available fast,6700
-2022,NOR,Publicly available fast,9100
-2023,NOR,Publicly available fast,11000
-2010,NOR,Publicly available slow,2800
-2011,NOR,Publicly available slow,3100
-2012,NOR,Publicly available slow,3700
-2013,NOR,Publicly available slow,4500
-2014,NOR,Publicly available slow,5200
-2015,NOR,Publicly available slow,5200
-2016,NOR,Publicly available slow,7000
-2017,NOR,Publicly available slow,8300
-2018,NOR,Publicly available slow,9300
-2019,NOR,Publicly available slow,10000
-2020,NOR,Publicly available slow,12000
-2021,NOR,Publicly available slow,13000
-2022,NOR,Publicly available slow,15000
-2023,NOR,Publicly available slow,16000
-2017,NZL,Total,100
-2018,NZL,Total,289
-2019,NZL,Total,390
-2020,NZL,Total,460
-2021,NZL,Total,600
-2022,NZL,Total,680
-2023,NZL,Total,1140
-2017,NZL,Publicly available fast,100
-2018,NZL,Publicly available fast,200
-2019,NZL,Publicly available fast,260
-2020,NZL,Publicly available fast,310
-2021,NZL,Publicly available fast,430
-2022,NZL,Publicly available fast,480
-2023,NZL,Publicly available fast,860
-2018,NZL,Publicly available slow,89
-2019,NZL,Publicly available slow,130
-2020,NZL,Publicly available slow,150
-2021,NZL,Publicly available slow,170
-2022,NZL,Publicly available slow,200
-2023,NZL,Publicly available slow,280
-2014,POL,Total,124
-2015,POL,Total,298
-2016,POL,Total,322
-2017,POL,Total,520
-2018,POL,Total,770
-2019,POL,Total,840
-2020,POL,Total,1680
-2021,POL,Total,3700
-2022,POL,Total,5100
-2023,POL,Total,5900
-2014,POL,Publicly available fast,4
-2015,POL,Publicly available fast,8
-2016,POL,Publicly available fast,32
-2017,POL,Publicly available fast,110
-2018,POL,Publicly available fast,280
-2019,POL,Publicly available fast,310
-2020,POL,Publicly available fast,680
-2021,POL,Publicly available fast,1400
-2022,POL,Publicly available fast,1100
-2023,POL,Publicly available fast,1500
-2014,POL,Publicly available slow,120
-2015,POL,Publicly available slow,290
-2016,POL,Publicly available slow,290
-2017,POL,Publicly available slow,410
-2018,POL,Publicly available slow,490
-2019,POL,Publicly available slow,530
-2020,POL,Publicly available slow,1000
-2021,POL,Publicly available slow,2300
-2022,POL,Publicly available slow,4000
-2023,POL,Publicly available slow,4400
-2011,PRT,Total,1106
-2012,PRT,Total,1107
-2013,PRT,Total,1217
-2014,PRT,Total,1217
-2015,PRT,Total,1222
-2016,PRT,Total,1341
-2017,PRT,Total,1650
-2018,PRT,Total,1780
-2019,PRT,Total,1960
-2020,PRT,Total,2850
-2021,PRT,Total,4200
-2022,PRT,Total,5600
-2023,PRT,Total,9400
-2011,PRT,Publicly available fast,6
-2012,PRT,Publicly available fast,7
-2013,PRT,Publicly available fast,17
-2014,PRT,Publicly available fast,17
-2015,PRT,Publicly available fast,22
-2016,PRT,Publicly available fast,41
-2017,PRT,Publicly available fast,150
-2018,PRT,Publicly available fast,180
-2019,PRT,Publicly available fast,360
-2020,PRT,Publicly available fast,650
-2021,PRT,Publicly available fast,1400
-2022,PRT,Publicly available fast,1600
-2023,PRT,Publicly available fast,3800
-2011,PRT,Publicly available slow,1100
-2012,PRT,Publicly available slow,1100
-2013,PRT,Publicly available slow,1200
-2014,PRT,Publicly available slow,1200
-2015,PRT,Publicly available slow,1200
-2016,PRT,Publicly available slow,1300
-2017,PRT,Publicly available slow,1500
-2018,PRT,Publicly available slow,1600
-2019,PRT,Publicly available slow,1600
-2020,PRT,Publicly available slow,2200
-2021,PRT,Publicly available slow,2800
-2022,PRT,Publicly available slow,4000
-2023,PRT,Publicly available slow,5600
-2013,SWE,Total,5
-2014,SWE,Total,1000
-2015,SWE,Total,1100
-2016,SWE,Total,1700
-2017,SWE,Total,4190
-2018,SWE,Total,6500
-2019,SWE,Total,9000
-2020,SWE,Total,11200
-2021,SWE,Total,13700
-2022,SWE,Total,17600
-2023,SWE,Total,34500
-2017,SWE,Publicly available fast,790
-2018,SWE,Publicly available fast,1000
-2019,SWE,Publicly available fast,1200
-2020,SWE,Publicly available fast,1400
-2021,SWE,Publicly available fast,1700
-2022,SWE,Publicly available fast,2600
-2023,SWE,Publicly available fast,4500
-2013,SWE,Publicly available slow,5
-2014,SWE,Publicly available slow,1000
-2015,SWE,Publicly available slow,1100
-2016,SWE,Publicly available slow,1700
-2017,SWE,Publicly available slow,3400
-2018,SWE,Publicly available slow,5500
-2019,SWE,Publicly available slow,7800
-2020,SWE,Publicly available slow,9800
-2021,SWE,Publicly available slow,12000
-2022,SWE,Publicly available slow,15000
-2023,SWE,Publicly available slow,30000
-2017,THA,Total,96
-2018,THA,Total,96
-2019,THA,Total,819
-2020,THA,Total,1910
-2021,THA,Total,2270
-2022,THA,Total,2270
-2023,THA,Total,2270
-2017,THA,Publicly available fast,8
-2018,THA,Publicly available fast,8
-2019,THA,Publicly available fast,69
-2020,THA,Publicly available fast,710
-2021,THA,Publicly available fast,770
-2022,THA,Publicly available fast,770
-2023,THA,Publicly available fast,770
-2017,THA,Publicly available slow,88
-2018,THA,Publicly available slow,88
-2019,THA,Publicly available slow,750
-2020,THA,Publicly available slow,1200
-2021,THA,Publicly available slow,1500
-2022,THA,Publicly available slow,1500
-2023,THA,Publicly available slow,1500
-2013,TUR,Total,1
-2014,TUR,Total,1
-2015,TUR,Total,7
-2016,TUR,Total,18
-2017,TUR,Total,76
-2018,TUR,Total,76
-2019,TUR,Total,180
-2020,TUR,Total,1320
-2021,TUR,Total,1980
-2022,TUR,Total,1980
-2023,TUR,Total,7800
-2013,TUR,Publicly available fast,1
-2014,TUR,Publicly available fast,1
-2015,TUR,Publicly available fast,7
-2016,TUR,Publicly available fast,7
-2017,TUR,Publicly available fast,7
-2018,TUR,Publicly available fast,7
-2019,TUR,Publicly available fast,30
-2020,TUR,Publicly available fast,120
-2021,TUR,Publicly available fast,180
-2022,TUR,Publicly available fast,180
-2023,TUR,Publicly available fast,800
-2016,TUR,Publicly available slow,11
-2017,TUR,Publicly available slow,69
-2018,TUR,Publicly available slow,69
-2019,TUR,Publicly available slow,150
-2020,TUR,Publicly available slow,1200
-2021,TUR,Publicly available slow,1800
-2022,TUR,Publicly available slow,1800
-2023,TUR,Publicly available slow,7000
-2010,USA,Total,480
-2011,USA,Total,3900
-2012,USA,Total,12000
-2013,USA,Total,15000
-2014,USA,Total,20000
-2015,USA,Total,31500
-2016,USA,Total,38100
-2017,USA,Total,43400
-2018,USA,Total,54200
-2019,USA,Total,77000
-2020,USA,Total,99000
-2021,USA,Total,114000
-2022,USA,Total,128000
-2023,USA,Total,183000
-2015,USA,Publicly available fast,3500
-2016,USA,Publicly available fast,3100
-2017,USA,Publicly available fast,3400
-2018,USA,Publicly available fast,4200
-2019,USA,Publicly available fast,13000
-2020,USA,Publicly available fast,17000
-2021,USA,Publicly available fast,22000
-2022,USA,Publicly available fast,28000
-2023,USA,Publicly available fast,43000
-2010,USA,Publicly available slow,480
-2011,USA,Publicly available slow,3900
-2012,USA,Publicly available slow,12000
-2013,USA,Publicly available slow,15000
-2014,USA,Publicly available slow,20000
-2015,USA,Publicly available slow,28000
-2016,USA,Publicly available slow,35000
-2017,USA,Publicly available slow,40000
-2018,USA,Publicly available slow,50000
-2019,USA,Publicly available slow,64000
-2020,USA,Publicly available slow,82000
-2021,USA,Publicly available slow,92000
-2022,USA,Publicly available slow,100000
-2023,USA,Publicly available slow,140000
+2024,JPN,Publicly available fast,10000
+2021,JOR,Publicly available fast,80
+2022,JOR,Publicly available fast,83
+2023,JOR,Publicly available fast,120
+2024,JOR,Publicly available fast,180
+2014,ITA,Publicly available fast,10
+2015,ITA,Publicly available fast,70
+2016,ITA,Publicly available fast,170
+2017,ITA,Publicly available fast,460
+2018,ITA,Publicly available fast,700
+2019,ITA,Publicly available fast,1100
+2020,ITA,Publicly available fast,1500
+2021,ITA,Publicly available fast,2200
+2022,ITA,Publicly available fast,7000
+2023,ITA,Publicly available fast,8100
+2024,ITA,Publicly available fast,11000
+2022,ISR,Publicly available fast,260
+2023,ISR,Publicly available fast,710
+2024,ISR,Publicly available fast,2600
+2015,ISL,Publicly available fast,20
+2016,ISL,Publicly available fast,40
+2017,ISL,Publicly available fast,36
+2018,ISL,Publicly available fast,55
+2019,ISL,Publicly available fast,150
+2020,ISL,Publicly available fast,210
+2021,ISL,Publicly available fast,120
+2022,ISL,Publicly available fast,180
+2023,ISL,Publicly available fast,410
+2024,ISL,Publicly available fast,940
+2018,IND,Publicly available fast,25
+2019,IND,Publicly available fast,2000
+2020,IND,Publicly available fast,2900
+2021,IND,Publicly available fast,4000
+2022,IND,Publicly available fast,4100
+2023,IND,Publicly available fast,14000
+2024,IND,Publicly available fast,28000
+2021,IDN,Publicly available fast,130
+2022,IDN,Publicly available fast,440
+2023,IDN,Publicly available fast,770
+2024,IDN,Publicly available fast,2300
+2014,GRC,Publicly available fast,2
+2015,GRC,Publicly available fast,2
+2018,GRC,Publicly available fast,1
+2019,GRC,Publicly available fast,1
+2020,GRC,Publicly available fast,8
+2021,GRC,Publicly available fast,28
+2022,GRC,Publicly available fast,280
+2023,GRC,Publicly available fast,260
+2024,GRC,Publicly available fast,1000
+2013,GBR,Publicly available fast,80
+2014,GBR,Publicly available fast,250
+2015,GBR,Publicly available fast,540
+2016,GBR,Publicly available fast,780
+2017,GBR,Publicly available fast,920
+2018,GBR,Publicly available fast,1100
+2019,GBR,Publicly available fast,1100
+2020,GBR,Publicly available fast,4700
+2021,GBR,Publicly available fast,5500
+2022,GBR,Publicly available fast,7800
+2023,GBR,Publicly available fast,12000
+2024,GBR,Publicly available fast,17000
+2012,FRA,Publicly available fast,9
+2013,FRA,Publicly available fast,100
+2014,FRA,Publicly available fast,110
+2015,FRA,Publicly available fast,580
+2016,FRA,Publicly available fast,1000
+2017,FRA,Publicly available fast,1000
+2018,FRA,Publicly available fast,2300
+2019,FRA,Publicly available fast,2700
+2020,FRA,Publicly available fast,3300
+2021,FRA,Publicly available fast,4900
+2022,FRA,Publicly available fast,17000
+2023,FRA,Publicly available fast,20000
+2024,FRA,Publicly available fast,32000
+2013,FIN,Publicly available fast,17
+2014,FIN,Publicly available fast,26
+2015,FIN,Publicly available fast,130
+2016,FIN,Publicly available fast,140
+2017,FIN,Publicly available fast,140
+2018,FIN,Publicly available fast,220
+2019,FIN,Publicly available fast,390
+2020,FIN,Publicly available fast,430
+2021,FIN,Publicly available fast,790
+2022,FIN,Publicly available fast,1700
+2023,FIN,Publicly available fast,2900
+2024,FIN,Publicly available fast,4400
+2013,ESP,Publicly available fast,91
+2014,ESP,Publicly available fast,110
+2015,ESP,Publicly available fast,240
+2016,ESP,Publicly available fast,360
+2017,ESP,Publicly available fast,440
+2018,ESP,Publicly available fast,440
+2020,ESP,Publicly available fast,2700
+2021,ESP,Publicly available fast,2700
+2022,ESP,Publicly available fast,2200
+2023,ESP,Publicly available fast,6600
+2024,ESP,Publicly available fast,13000
+2013,DNK,Publicly available fast,56
+2014,DNK,Publicly available fast,110
+2015,DNK,Publicly available fast,300
+2016,DNK,Publicly available fast,340
+2017,DNK,Publicly available fast,390
+2018,DNK,Publicly available fast,400
+2019,DNK,Publicly available fast,460
+2020,DNK,Publicly available fast,870
+2021,DNK,Publicly available fast,890
+2022,DNK,Publicly available fast,1400
+2023,DNK,Publicly available fast,3000
+2024,DNK,Publicly available fast,6400
+2012,DEU,Publicly available fast,18
+2013,DEU,Publicly available fast,47
+2014,DEU,Publicly available fast,120
+2015,DEU,Publicly available fast,470
+2016,DEU,Publicly available fast,1700
+2017,DEU,Publicly available fast,2200
+2018,DEU,Publicly available fast,2900
+2019,DEU,Publicly available fast,3200
+2020,DEU,Publicly available fast,6300
+2021,DEU,Publicly available fast,9500
+2022,DEU,Publicly available fast,15000
+2023,DEU,Publicly available fast,23000
+2024,DEU,Publicly available fast,37000
+2023,CRI,Publicly available fast,170
+2024,CRI,Publicly available fast,170
+2021,COL,Publicly available fast,57
+2022,COL,Publicly available fast,84
+2023,COL,Publicly available fast,160
+2024,COL,Publicly available fast,120
+2018,CHN,Publicly available fast,110000
+2019,CHN,Publicly available fast,210000
+2020,CHN,Publicly available fast,310000
+2021,CHN,Publicly available fast,470000
+2022,CHN,Publicly available fast,760000
+2023,CHN,Publicly available fast,1200000
+2024,CHN,Publicly available fast,1600000
+2011,CHL,Publicly available fast,1
+2012,CHL,Publicly available fast,4
+2013,CHL,Publicly available fast,5
+2014,CHL,Publicly available fast,5
+2015,CHL,Publicly available fast,5
+2016,CHL,Publicly available fast,5
+2017,CHL,Publicly available fast,6
+2018,CHL,Publicly available fast,8
+2019,CHL,Publicly available fast,42
+2020,CHL,Publicly available fast,99
+2021,CHL,Publicly available fast,140
+2022,CHL,Publicly available fast,220
+2023,CHL,Publicly available fast,330
+2024,CHL,Publicly available fast,610
+2012,CHE,Publicly available fast,4
+2013,CHE,Publicly available fast,27
+2014,CHE,Publicly available fast,99
+2015,CHE,Publicly available fast,260
+2016,CHE,Publicly available fast,350
+2017,CHE,Publicly available fast,580
+2018,CHE,Publicly available fast,740
+2019,CHE,Publicly available fast,920
+2020,CHE,Publicly available fast,1000
+2021,CHE,Publicly available fast,1900
+2022,CHE,Publicly available fast,2200
+2023,CHE,Publicly available fast,2800
+2024,CHE,Publicly available fast,4200
+2012,CAN,Publicly available fast,2
+2013,CAN,Publicly available fast,7
+2014,CAN,Publicly available fast,55
+2015,CAN,Publicly available fast,63
+2016,CAN,Publicly available fast,140
+2017,CAN,Publicly available fast,480
+2018,CAN,Publicly available fast,840
+2019,CAN,Publicly available fast,840
+2020,CAN,Publicly available fast,2300
+2021,CAN,Publicly available fast,3000
+2022,CAN,Publicly available fast,4300
+2023,CAN,Publicly available fast,5100
+2024,CAN,Publicly available fast,6600
+2018,BRA,Publicly available fast,5
+2019,BRA,Publicly available fast,5
+2020,BRA,Publicly available fast,5
+2021,BRA,Publicly available fast,130
+2022,BRA,Publicly available fast,150
+2023,BRA,Publicly available fast,450
+2024,BRA,Publicly available fast,600
+2013,BEL,Publicly available fast,47
+2014,BEL,Publicly available fast,55
+2015,BEL,Publicly available fast,100
+2016,BEL,Publicly available fast,140
+2017,BEL,Publicly available fast,300
+2018,BEL,Publicly available fast,320
+2019,BEL,Publicly available fast,490
+2020,BEL,Publicly available fast,740
+2021,BEL,Publicly available fast,720
+2022,BEL,Publicly available fast,1200
+2023,BEL,Publicly available fast,2000
+2024,BEL,Publicly available fast,2600
+2019,AUT,Publicly available fast,22
+2020,AUT,Publicly available fast,1500
+2021,AUT,Publicly available fast,1500
+2023,AUT,Publicly available fast,3600
+2024,AUT,Publicly available fast,6300
+2017,AUS,Publicly available fast,40
+2018,AUS,Publicly available fast,61
+2019,AUS,Publicly available fast,260
+2020,AUS,Publicly available fast,480
+2021,AUS,Publicly available fast,770
+2022,AUS,Publicly available fast,1200
+2023,AUS,Publicly available fast,810
+2024,AUS,Publicly available fast,3900
