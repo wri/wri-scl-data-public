@@ -1,25 +1,46 @@
-﻿year,geo,disagg,value
-2011,WLD,Planned,1
-2012,WLD,Planned,1
-2013,WLD,Planned,1
-2014,WLD,Planned,1
-2015,WLD,Planned,2
-2016,WLD,Planned,3
-2017,WLD,Planned,4
-2018,WLD,Planned,4
-2019,WLD,Planned,8
-2020,WLD,Planned,19
-2021,WLD,Planned,49
-2022,WLD,Planned,58
-2011,WLD,Announced ,1
-2012,WLD,Announced ,1
-2013,WLD,Announced ,1
-2014,WLD,Announced ,1
-2015,WLD,Announced ,2
-2016,WLD,Announced ,3
-2017,WLD,Announced ,4
-2018,WLD,Announced ,4
-2019,WLD,Announced ,8
-2020,WLD,Announced ,19
-2021,WLD,Announced ,49
-2022,WLD,Announced ,58
+year,geo,disagg,value
+2010,WLD,Total,0
+2011,WLD,Total,0
+2012,WLD,Total,0
+2013,WLD,Total,0
+2014,WLD,Total,0
+2015,WLD,Total,0
+2016,WLD,Total,1
+2017,WLD,Total,2
+2018,WLD,Total,2
+2019,WLD,Total,3
+2020,WLD,Total,7
+2021,WLD,Total,20
+2022,WLD,Total,25
+2023,WLD,Total,33
+2024,WLD,Total,40
+2010,WLD,Full-scale projects,0
+2011,WLD,Full-scale projects,0
+2012,WLD,Full-scale projects,0
+2013,WLD,Full-scale projects,0
+2014,WLD,Full-scale projects,0
+2015,WLD,Full-scale projects,0
+2016,WLD,Full-scale projects,0
+2017,WLD,Full-scale projects,0
+2018,WLD,Full-scale projects,0
+2019,WLD,Full-scale projects,0
+2020,WLD,Full-scale projects,3
+2021,WLD,Full-scale projects,11
+2022,WLD,Full-scale projects,15
+2023,WLD,Full-scale projects,21
+2024,WLD,Full-scale projects,23
+2010,WLD,Other projects,0
+2011,WLD,Other projects,0
+2012,WLD,Other projects,0
+2013,WLD,Other projects,0
+2014,WLD,Other projects,0
+2015,WLD,Other projects,0
+2016,WLD,Other projects,1
+2017,WLD,Other projects,2
+2018,WLD,Other projects,2
+2019,WLD,Other projects,3
+2020,WLD,Other projects,4
+2021,WLD,Other projects,9
+2022,WLD,Other projects,10
+2023,WLD,Other projects,12
+2024,WLD,Other projects,17
