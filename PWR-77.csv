@@ -63,12 +63,12 @@ year,geo,disagg,value
 2023,WLD,Oil,8634
 2024,WLD,Oil,1863
 2025,WLD,Oil,357
-2020,WLD,Oil and Gas,2258
-2021,WLD,Oil and Gas,4406
-2022,WLD,Oil and Gas,3460
-2023,WLD,Oil and Gas,3838
-2024,WLD,Oil and Gas,2206
-2025,WLD,Oil and Gas,408
+2020,WLD,Oil and gas,2258
+2021,WLD,Oil and gas,4406
+2022,WLD,Oil and gas,3460
+2023,WLD,Oil and gas,3838
+2024,WLD,Oil and gas,2206
+2025,WLD,Oil and gas,408
 2002,AUS,Total,396
 2010,AUS,Total,490
 2011,AUS,Total,125
@@ -928,33 +928,33 @@ year,geo,disagg,value
 2022,USA,Oil,114.8
 2024,USA,Oil,183.1
 2025,USA,Oil,226.8
-2020,BLR,Oil and Gas,50
-2021,EGY,Oil and Gas,330
-2022,EGY,Oil and Gas,585
-2023,EGY,Oil and Gas,550
-2023,DEU,Oil and Gas,68
-2022,HKG,Oil and Gas,365
-2021,JPN,Oil and Gas,1200
-2022,JPN,Oil and Gas,700
-2024,KAZ,Oil and Gas,60
-2021,LBN,Oil and Gas,404
-2021,OMN,Oil and Gas,480
-2020,PAK,Oil and Gas,276
-2022,PAK,Oil and Gas,920
-2020,RUS,Oil and Gas,1030
-2021,RUS,Oil and Gas,110
-2022,RUS,Oil and Gas,425
-2023,RUS,Oil and Gas,435
-2024,RUS,Oil and Gas,975
-2021,SVN,Oil and Gas,69
-2020,THA,Oil and Gas,300
-2023,THA,Oil and Gas,686
-2021,ARE,Oil and Gas,778
-2020,USA,Oil and Gas,392
-2021,USA,Oil and Gas,1035
-2022,USA,Oil and Gas,465
-2023,USA,Oil and Gas,1649
-2024,USA,Oil and Gas,1171
-2025,USA,Oil and Gas,408
-2020,UZB,Oil and Gas,210
-2023,UZB,Oil and Gas,450
+2020,BLR,Oil and gas,50
+2021,EGY,Oil and gas,330
+2022,EGY,Oil and gas,585
+2023,EGY,Oil and gas,550
+2023,DEU,Oil and gas,68
+2022,HKG,Oil and gas,365
+2021,JPN,Oil and gas,1200
+2022,JPN,Oil and gas,700
+2024,KAZ,Oil and gas,60
+2021,LBN,Oil and gas,404
+2021,OMN,Oil and gas,480
+2020,PAK,Oil and gas,276
+2022,PAK,Oil and gas,920
+2020,RUS,Oil and gas,1030
+2021,RUS,Oil and gas,110
+2022,RUS,Oil and gas,425
+2023,RUS,Oil and gas,435
+2024,RUS,Oil and gas,975
+2021,SVN,Oil and gas,69
+2020,THA,Oil and gas,300
+2023,THA,Oil and gas,686
+2021,ARE,Oil and gas,778
+2020,USA,Oil and gas,392
+2021,USA,Oil and gas,1035
+2022,USA,Oil and gas,465
+2023,USA,Oil and gas,1649
+2024,USA,Oil and gas,1171
+2025,USA,Oil and gas,408
+2020,UZB,Oil and gas,210
+2023,UZB,Oil and gas,450
