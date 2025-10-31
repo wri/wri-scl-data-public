@@ -1,14 +1,341 @@
-year,geo,value
-2010,WLD,34
-2011,WLD,6
-2012,WLD,39
-2013,WLD,24
-2014,WLD,282
-2015,WLD,26
-2016,WLD,31
-2017,WLD,71
-2018,WLD,56
-2019,WLD,66
-2020,WLD,14
-2021,WLD,231
-2022,WLD,434
+Year,geo,disagg_type,disagg,value
+2015,WLD,All,Total,60.4
+2016,WLD,All,Total,94.5
+2017,WLD,All,Total,89.3
+2018,WLD,All,Total,258.8
+2019,WLD,All,Total,84.4
+2020,WLD,All,Total,21.9
+2021,WLD,All,Total,400.6
+2022,WLD,All,Total,475.9
+2015,WLD,Funding Type,Foundation,17.6
+2015,WLD,Funding Type,Government,9.4
+2015,WLD,Funding Type,International body,23.9
+2015,WLD,Funding Type,Multiple Donors,8.8
+2015,WLD,Funding Type,Private sector,0.7
+2016,WLD,Funding Type,Foundation,33.1
+2016,WLD,Funding Type,Government,19.6
+2016,WLD,Funding Type,International body,23.0
+2016,WLD,Funding Type,Multiple Donors,17.1
+2016,WLD,Funding Type,Private sector,1.6
+2017,WLD,Funding Type,Government,7.2
+2017,WLD,Funding Type,International body,27.0
+2017,WLD,Funding Type,Multiple Donors,55.1
+2018,WLD,Funding Type,Foundation,7.0
+2018,WLD,Funding Type,Government,0.5
+2018,WLD,Funding Type,International body,36.4
+2018,WLD,Funding Type,Multiple Donors,214.9
+2019,WLD,Funding Type,Government,30.0
+2019,WLD,Funding Type,International body,32.7
+2019,WLD,Funding Type,Multiple Donors,19.6
+2019,WLD,Funding Type,Private sector,2.1
+2020,WLD,Funding Type,Foundation,9.0
+2020,WLD,Funding Type,International body,12.8
+2021,WLD,Funding Type,Foundation,0.3
+2021,WLD,Funding Type,Government,150.7
+2021,WLD,Funding Type,International body,193.3
+2021,WLD,Funding Type,Multiple Donors,5.3
+2021,WLD,Funding Type,NA,47.8
+2021,WLD,Funding Type,Private sector,3.1
+2022,WLD,Funding Type,Government,12.4
+2022,WLD,Funding Type,International body,463.4
+2015,WLD,Habitat Type,Coral Reefs,26.5
+2015,WLD,Habitat Type,Mangroves,9.7
+2015,WLD,Habitat Type,Multiple Habitat,12.4
+2015,WLD,Habitat Type,NA,9.9
+2015,WLD,Habitat Type,Other Habitat,1.8
+2015,WLD,Habitat Type,Seagrass,0.1
+2016,WLD,Habitat Type,Coral Reefs,43.2
+2016,WLD,Habitat Type,Mangroves,0.0
+2016,WLD,Habitat Type,Multiple Habitat,26.5
+2016,WLD,Habitat Type,NA,11.0
+2016,WLD,Habitat Type,Other Habitat,13.8
+2017,WLD,Habitat Type,Coral Reefs,55.1
+2017,WLD,Habitat Type,Mangroves,7.2
+2017,WLD,Habitat Type,Multiple Habitat,3.6
+2017,WLD,Habitat Type,NA,17.7
+2017,WLD,Habitat Type,Other Habitat,3.2
+2017,WLD,Habitat Type,Seagrass,2.6
+2018,WLD,Habitat Type,Coral Reefs,8.5
+2018,WLD,Habitat Type,Mangroves,1.9
+2018,WLD,Habitat Type,Multiple Habitat,25.7
+2018,WLD,Habitat Type,NA,204.1
+2018,WLD,Habitat Type,Other Habitat,18.5
+2018,WLD,Habitat Type,Saltmarshes,0.1
+2019,WLD,Habitat Type,Coral Reefs,8.5
+2019,WLD,Habitat Type,Mangroves,0.0
+2019,WLD,Habitat Type,Multiple Habitat,35.6
+2019,WLD,Habitat Type,NA,1.6
+2019,WLD,Habitat Type,Other Habitat,19.4
+2019,WLD,Habitat Type,Saltmarshes,13.4
+2019,WLD,Habitat Type,Seagrass,5.9
+2020,WLD,Habitat Type,Coral Reefs,9.0
+2020,WLD,Habitat Type,Multiple Habitat,9.5
+2020,WLD,Habitat Type,Other Habitat,3.3
+2021,WLD,Habitat Type,Coral Reefs,4.9
+2021,WLD,Habitat Type,Mangroves,2.8
+2021,WLD,Habitat Type,Multiple Habitat,173.3
+2021,WLD,Habitat Type,NA,146.7
+2021,WLD,Habitat Type,Other Habitat,0.3
+2021,WLD,Habitat Type,Saltmarshes,49.3
+2021,WLD,Habitat Type,Seagrass,23.2
+2022,WLD,Habitat Type,Mangroves,452.5
+2022,WLD,Habitat Type,Multiple Habitat,2.1
+2022,WLD,Habitat Type,NA,19.2
+2022,WLD,Habitat Type,Saltmarshes,0.6
+2022,WLD,Habitat Type,Seagrass,1.5
+2021,ARE,All,Total,5.3
+2015,AUS,All,Total,15.6
+2019,AUS,All,Total,0.7
+2021,AUS,All,Total,19.4
+2022,AUS,All,Total,4.2
+2018,BGR,All,Total,2.7
+2021,BGR,All,Total,20.0
+2019,BHS,All,Total,2.1
+2015,BLZ,All,Total,7.8
+2016,BLZ,All,Total,16.4
+2015,BRA,All,Total,7.1
+2018,BRA,All,Total,183.0
+2021,COL,All,Total,2.1
+2022,COL,All,Total,7.5
+2015,CRI,All,Total,0.6
+2017,CRI,All,Total,7.2
+2017,DEU,All,Total,4.6
+2022,ECU,All,Total,0.0
+2016,ESP,All,Total,3.6
+2018,ESP,All,Total,5.8
+2021,ESP,All,Total,26.3
+2022,EUR,All,Total,18.4
+2018,FIN,All,Total,9.4
+2015,FRA,All,Total,6.4
+2017,FRA,All,Total,8.9
+2018,FRA,All,Total,6.1
+2019,FRA,All,Total,28.0
+2021,FRA,All,Total,44.3
+2015,GBR,All,Total,3.6
+2018,GBR,All,Total,18.6
+2020,GBR,All,Total,3.2
+2021,GBR,All,Total,3.6
+2015,GNB,All,Total,0.4
+2018,GRE,All,Total,2.3
+2019,GRE,All,Total,1.6
+2015,IDN,All,Total,8.8
+2016,IDN,All,Total,0.1
+2019,IDN,All,Total,5.2
+2021,IDN,All,Total,2.8
+2022,IDN,All,Total,445.8
+2021,ISR,All,Total,20.0
+2015,ITA,All,Total,1.8
+2016,ITA,All,Total,18.3
+2017,ITA,All,Total,8.9
+2018,ITA,All,Total,3.3
+2020,ITA,All,Total,6.3
+2021,ITA,All,Total,42.2
+2021,KAZ,All,Total,47.8
+2018,KEN,All,Total,0.3
+2019,KEN,All,Total,4.5
+2016,LVA,All,Total,1.0
+2016,MDG,All,Total,0.0
+2018,MDG,All,Total,0.0
+2015,MDV,All,Total,4.5
+2016,MEX,All,Total,8.5
+2018,MEX,All,Total,8.5
+2016,MHL,All,Total,0.8
+2016,NLD,All,Total,1.6
+2017,NLD,All,Total,13.8
+2018,NLD,All,Total,5.0
+2021,NLD,All,Total,20.0
+2017,POL,All,Total,4.7
+2021,POL,All,Total,20.0
+2020,PRT,All,Total,3.3
+2019,SWE,All,Total,3.4
+2018,TUR,All,Total,2.9
+2017,TUV,All,Total,41.3
+2015,USA,All,Total,3.9
+2016,USA,All,Total,44.0
+2018,USA,All,Total,0.1
+2019,USA,All,Total,38.9
+2020,USA,All,Total,9.0
+2021,USA,All,Total,126.7
+2021,ARE,Funding Type,Multiple Donors,5.3
+2015,AUS,Funding Type,Foundation,15.6
+2019,AUS,Funding Type,Government,0.7
+2021,AUS,Funding Type,Foundation,0.3
+2021,AUS,Funding Type,Government,19.1
+2022,AUS,Funding Type,Government,4.2
+2018,BGR,Funding Type,International body,2.7
+2021,BGR,Funding Type,International body,20.0
+2019,BHS,Funding Type,Private sector,2.1
+2015,BLZ,Funding Type,International body,7.8
+2016,BLZ,Funding Type,Foundation,16.4
+2015,BRA,Funding Type,Government,7.1
+2018,BRA,Funding Type,International body,1.5
+2018,BRA,Funding Type,Multiple Donors,181.4
+2021,COL,Funding Type,Government,2.1
+2022,COL,Funding Type,Government,7.5
+2015,CRI,Funding Type,Private sector,0.6
+2017,CRI,Funding Type,Government,7.2
+2017,DEU,Funding Type,International body,4.6
+2022,ECU,Funding Type,International body,0.0
+2016,ESP,Funding Type,International body,3.6
+2018,ESP,Funding Type,International body,1.9
+2018,ESP,Funding Type,Multiple Donors,3.9
+2021,ESP,Funding Type,International body,26.3
+2022,EUR,Funding Type,International body,18.4
+2018,FIN,Funding Type,International body,9.4
+2015,FRA,Funding Type,International body,6.4
+2017,FRA,Funding Type,International body,8.9
+2018,FRA,Funding Type,International body,0.8
+2018,FRA,Funding Type,Multiple Donors,5.3
+2019,FRA,Funding Type,Government,0.3
+2019,FRA,Funding Type,International body,27.7
+2021,FRA,Funding Type,International body,44.3
+2015,GBR,Funding Type,International body,3.5
+2015,GBR,Funding Type,Private sector,0.1
+2018,GBR,Funding Type,Foundation,4.1
+2018,GBR,Funding Type,International body,9.3
+2018,GBR,Funding Type,Multiple Donors,5.1
+2020,GBR,Funding Type,International body,3.2
+2021,GBR,Funding Type,International body,0.5
+2021,GBR,Funding Type,Private sector,3.1
+2015,GNB,Funding Type,Foundation,0.4
+2018,GRE,Funding Type,International body,2.3
+2019,GRE,Funding Type,International body,1.6
+2015,IDN,Funding Type,Multiple Donors,8.8
+2016,IDN,Funding Type,Multiple Donors,0.1
+2019,IDN,Funding Type,Government,5.2
+2021,IDN,Funding Type,Government,2.8
+2022,IDN,Funding Type,Government,0.8
+2022,IDN,Funding Type,International body,445.0
+2021,ISR,Funding Type,International body,20.0
+2015,ITA,Funding Type,International body,1.8
+2016,ITA,Funding Type,International body,18.3
+2017,ITA,Funding Type,International body,8.9
+2018,ITA,Funding Type,International body,3.3
+2020,ITA,Funding Type,International body,6.3
+2021,ITA,Funding Type,International body,42.2
+2021,KAZ,Funding Type,NA,47.8
+2018,KEN,Funding Type,Government,0.3
+2019,KEN,Funding Type,Government,4.5
+2019,KEN,Funding Type,Multiple Donors,0.0
+2016,LVA,Funding Type,International body,1.0
+2016,MDG,Funding Type,Multiple Donors,0.0
+2018,MDG,Funding Type,Multiple Donors,0.0
+2015,MDV,Funding Type,International body,4.5
+2016,MEX,Funding Type,Multiple Donors,8.5
+2018,MEX,Funding Type,Multiple Donors,8.5
+2016,MHL,Funding Type,Foundation,0.8
+2016,NLD,Funding Type,Private sector,1.6
+2017,NLD,Funding Type,Multiple Donors,13.8
+2018,NLD,Funding Type,International body,5.0
+2021,NLD,Funding Type,International body,20.0
+2017,POL,Funding Type,International body,4.7
+2021,POL,Funding Type,International body,20.0
+2020,PRT,Funding Type,International body,3.3
+2019,SWE,Funding Type,International body,3.4
+2018,TUR,Funding Type,Foundation,2.9
+2017,TUV,Funding Type,Multiple Donors,41.3
+2015,USA,Funding Type,Foundation,1.7
+2015,USA,Funding Type,Government,2.2
+2016,USA,Funding Type,Foundation,15.9
+2016,USA,Funding Type,Government,19.6
+2016,USA,Funding Type,Multiple Donors,8.5
+2018,USA,Funding Type,Government,0.1
+2019,USA,Funding Type,Government,19.3
+2019,USA,Funding Type,Multiple Donors,19.5
+2020,USA,Funding Type,Foundation,9.0
+2021,USA,Funding Type,Government,126.7
+2021,ARE,Habitat Type,Multiple Habitat,5.3
+2015,AUS,Habitat Type,Coral Reefs,15.6
+2019,AUS,Habitat Type,Seagrass,0.7
+2021,AUS,Habitat Type,Coral Reefs,2.8
+2021,AUS,Habitat Type,Multiple Habitat,14.8
+2021,AUS,Habitat Type,Other Habitat,0.3
+2021,AUS,Habitat Type,Saltmarshes,1.5
+2022,AUS,Habitat Type,Multiple Habitat,2.1
+2022,AUS,Habitat Type,Saltmarshes,0.6
+2022,AUS,Habitat Type,Seagrass,1.5
+2018,BGR,Habitat Type,Multiple Habitat,2.7
+2021,BGR,Habitat Type,Multiple Habitat,20.0
+2019,BHS,Habitat Type,Coral Reefs,2.1
+2015,BLZ,Habitat Type,Coral Reefs,7.8
+2016,BLZ,Habitat Type,Coral Reefs,16.4
+2015,BRA,Habitat Type,Multiple Habitat,7.1
+2018,BRA,Habitat Type,Mangroves,1.5
+2018,BRA,Habitat Type,NA,181.4
+2021,COL,Habitat Type,Coral Reefs,2.1
+2022,COL,Habitat Type,Mangroves,7.5
+2015,CRI,Habitat Type,Mangroves,0.6
+2017,CRI,Habitat Type,Mangroves,7.2
+2017,DEU,Habitat Type,NA,4.6
+2022,ECU,Habitat Type,NA,0.0
+2016,ESP,Habitat Type,NA,3.6
+2018,ESP,Habitat Type,NA,5.8
+2021,ESP,Habitat Type,Multiple Habitat,6.3
+2021,ESP,Habitat Type,NA,20.0
+2022,EUR,Habitat Type,NA,18.4
+2018,FIN,Habitat Type,NA,9.4
+2015,FRA,Habitat Type,NA,6.4
+2017,FRA,Habitat Type,NA,8.5
+2017,FRA,Habitat Type,Seagrass,0.5
+2018,FRA,Habitat Type,Multiple Habitat,6.1
+2019,FRA,Habitat Type,Multiple Habitat,27.7
+2019,FRA,Habitat Type,Other Habitat,0.3
+2021,FRA,Habitat Type,Multiple Habitat,21.1
+2021,FRA,Habitat Type,Seagrass,23.2
+2015,GBR,Habitat Type,Multiple Habitat,0.1
+2015,GBR,Habitat Type,NA,3.5
+2018,GBR,Habitat Type,NA,0.1
+2018,GBR,Habitat Type,Other Habitat,18.5
+2020,GBR,Habitat Type,Multiple Habitat,3.2
+2021,GBR,Habitat Type,Multiple Habitat,3.6
+2015,GNB,Habitat Type,Mangroves,0.4
+2018,GRE,Habitat Type,NA,2.3
+2019,GRE,Habitat Type,NA,1.6
+2015,IDN,Habitat Type,Mangroves,8.7
+2015,IDN,Habitat Type,Seagrass,0.1
+2016,IDN,Habitat Type,NA,0.1
+2019,IDN,Habitat Type,Seagrass,5.2
+2021,IDN,Habitat Type,Mangroves,2.8
+2022,IDN,Habitat Type,Mangroves,445.0
+2022,IDN,Habitat Type,NA,0.8
+2021,ISR,Habitat Type,Multiple Habitat,20.0
+2015,ITA,Habitat Type,Other Habitat,1.8
+2016,ITA,Habitat Type,NA,7.2
+2016,ITA,Habitat Type,Other Habitat,11.1
+2017,ITA,Habitat Type,Multiple Habitat,3.6
+2017,ITA,Habitat Type,Other Habitat,3.2
+2017,ITA,Habitat Type,Seagrass,2.1
+2018,ITA,Habitat Type,Multiple Habitat,3.3
+2020,ITA,Habitat Type,Multiple Habitat,6.3
+2021,ITA,Habitat Type,Multiple Habitat,42.2
+2021,KAZ,Habitat Type,Saltmarshes,47.8
+2018,KEN,Habitat Type,Mangroves,0.3
+2019,KEN,Habitat Type,Mangroves,0.0
+2019,KEN,Habitat Type,Multiple Habitat,4.5
+2016,LVA,Habitat Type,Other Habitat,1.0
+2016,MDG,Habitat Type,Mangroves,0.0
+2018,MDG,Habitat Type,Mangroves,0.0
+2015,MDV,Habitat Type,Multiple Habitat,4.5
+2016,MEX,Habitat Type,Coral Reefs,8.5
+2018,MEX,Habitat Type,Coral Reefs,8.5
+2016,MHL,Habitat Type,Coral Reefs,0.8
+2016,NLD,Habitat Type,Other Habitat,1.6
+2017,NLD,Habitat Type,Coral Reefs,13.8
+2018,NLD,Habitat Type,NA,5.0
+2021,NLD,Habitat Type,Multiple Habitat,20.0
+2017,POL,Habitat Type,NA,4.7
+2021,POL,Habitat Type,Multiple Habitat,20.0
+2020,PRT,Habitat Type,Other Habitat,3.3
+2019,SWE,Habitat Type,Multiple Habitat,3.4
+2018,TUR,Habitat Type,Multiple Habitat,2.9
+2017,TUV,Habitat Type,Coral Reefs,41.3
+2015,USA,Habitat Type,Coral Reefs,3.2
+2015,USA,Habitat Type,Multiple Habitat,0.7
+2016,USA,Habitat Type,Coral Reefs,17.5
+2016,USA,Habitat Type,Multiple Habitat,26.5
+2018,USA,Habitat Type,Saltmarshes,0.1
+2019,USA,Habitat Type,Coral Reefs,6.4
+2019,USA,Habitat Type,Other Habitat,19.1
+2019,USA,Habitat Type,Saltmarshes,13.4
+2020,USA,Habitat Type,Coral Reefs,9.0
+2021,USA,Habitat Type,NA,126.7
