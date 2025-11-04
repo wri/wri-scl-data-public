@@ -1,0 +1,67 @@
+﻿year,geo,disagg,value
+2015,WLD,Nuclear,46
+2016,WLD,Nuclear,43
+2017,WLD,Nuclear,37
+2018,WLD,Nuclear,37
+2019,WLD,Nuclear,42
+2020,WLD,Nuclear,47
+2021,WLD,Nuclear,60
+2022,WLD,Nuclear,67
+2023,WLD,Nuclear,68
+2024,WLD,Nuclear,72
+2025,WLD,Nuclear,74
+2015,WLD,Renewables,374
+2016,WLD,Renewables,375
+2017,WLD,Renewables,377
+2018,WLD,Renewables,401
+2019,WLD,Renewables,430
+2020,WLD,Renewables,436
+2021,WLD,Renewables,456
+2022,WLD,Renewables,580
+2023,WLD,Renewables,722
+2024,WLD,Renewables,760
+2025,WLD,Renewables,780
+2015,WLD,Other clean power,0
+2016,WLD,Other clean power,0
+2017,WLD,Other clean power,0
+2018,WLD,Other clean power,0
+2019,WLD,Other clean power,0
+2020,WLD,Other clean power,0
+2021,WLD,Other clean power,0
+2022,WLD,Other clean power,0
+2023,WLD,Other clean power,0
+2024,WLD,Other clean power,2
+2025,WLD,Other clean power,3
+2015,WLD,Battery storage,1
+2016,WLD,Battery storage,1
+2017,WLD,Battery storage,2
+2018,WLD,Battery storage,3
+2019,WLD,Battery storage,3
+2020,WLD,Battery storage,5
+2021,WLD,Battery storage,9
+2022,WLD,Battery storage,23
+2023,WLD,Battery storage,39
+2024,WLD,Battery storage,57
+2025,WLD,Battery storage,66
+2015,WLD,Electricity networks,332
+2016,WLD,Electricity networks,342
+2017,WLD,Electricity networks,332
+2018,WLD,Electricity networks,323
+2019,WLD,Electricity networks,302
+2020,WLD,Electricity networks,299
+2021,WLD,Electricity networks,310
+2022,WLD,Electricity networks,322
+2023,WLD,Electricity networks,356
+2024,WLD,Electricity networks,388
+2025,WLD,Electricity networks,413
+2015,WLD,Total,752
+2016,WLD,Total,761
+2017,WLD,Total,749
+2018,WLD,Total,764
+2019,WLD,Total,777
+2020,WLD,Total,787
+2021,WLD,Total,835
+2022,WLD,Total,991
+2023,WLD,Total,1185
+2024,WLD,Total,1278
+2025,WLD,Total,1336
