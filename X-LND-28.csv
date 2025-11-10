@@ -1,445 +1,445 @@
 year,geo,disagg,value
 2015,WLD,Total,17.6
 2020,WLD,Total,18.5
-2015,WLD,Area designated,7.1
-2020,WLD,Area designated,7.2
+2015,WLD,Area designated ,7.1
+2020,WLD,Area designated ,7.2
 2015,WLD,Area owned,10.6
 2020,WLD,Area owned,11.4
-2015,DZA,Total,14
-2015,AGO,Total,0
-2015,ARG,Total,1.3
-2015,AUS,Total,19.8
-2015,BOL,Total,24.7
-2015,BWA,Total,53.4
-2015,BRA,Total,17.6
-2015,KHM,Total,2.2
-2015,CMR,Total,5.3
-2015,CAN,Total,41.3
-2015,CAF,Total,0
-2015,TCD,Total,0
-2015,CHL,Total,3.5
-2015,CHN,Total,49.4
-2015,COL,Total,33.9
-2015,COD,Total,0
-2015,COG,Total,0
-2015,CRI,Total,6.5
-2015,ECU,Total,22.7
-2015,EGY,Total,0
-2015,ETH,Total,1.4
-2015,FIN,Total,0.51
-2015,GAB,Total,0.05
-2015,GHA,Total,80
-2015,GTM,Total,16.5
-2015,GUY,Total,19.3
-2015,HND,Total,17
-2015,IND,Total,0.04
-2015,IDN,Total,0.18
-2015,IRQ,Total,0
-2015,KAZ,Total,8.0
-2015,KEN,Total,6.2
-2015,KGZ,Total,40.1
-2015,LAO,Total,0.1
-2015,LBR,Total,31.7
-2015,LBY,Total,0
-2015,MDG,Total,5.1
-2015,MLI,Total,0
-2015,MEX,Total,51.5
-2015,MNG,Total,1.5
-2015,MAR,Total,32.3
-2015,MOZ,Total,66.4
-2015,MMR,Total,0.12
-2015,NAM,Total,40.6
-2015,NPL,Total,13.4
-2015,NIC,Total,30.3
-2015,NOR,Total,14.2
-2015,OMN,Total,0
-2015,PAN,Total,12.7
-2015,PNG,Total,97
-2015,PER,Total,30.3
-2015,PHL,Total,22.1
-2015,RUS,Total,4.4
-2015,SAU,Total,0
-2015,SEN,Total,0
-2015,SSD,Total,0
-2015,SDN,Total,0.07
-2015,SUR,Total,0
-2015,SWE,Total,59.5
-2015,TJK,Total,0
-2015,TZA,Total,75.1
-2015,THA,Total,0.94
-2015,TLS,Total,0
-2015,TUN,Total,12.2
-2015,TKM,Total,64.5
-2015,UGA,Total,44.1
-2015,USA,Total,3.9
-2015,UZB,Total,0
-2015,VEN,Total,3.2
-2015,VNM,Total,3.6
-2015,YEM,Total,0
-2015,ZMB,Total,72.4
-2015,ZWE,Total,42.4
-2020,DZA,Total,14.5
-2020,AGO,Total,0.01
-2020,ARG,Total,1.3
-2020,AUS,Total,22.6
-2020,BOL,Total,33.4
-2020,BWA,Total,53.4
-2020,BRA,Total,17.9
-2020,KHM,Total,3.8
-2020,CMR,Total,7.6
-2020,CAN,Total,42.2
-2020,CAF,Total,0.02
-2020,TCD,Total,0
-2020,CHL,Total,3.6
-2020,CHN,Total,49.4
-2020,COL,Total,35.9
-2020,COD,Total,0.52
-2020,COG,Total,0
-2020,CRI,Total,6.5
-2020,ECU,Total,25.7
-2020,EGY,Total,0
-2020,ETH,Total,1.4
-2020,FIN,Total,0.51
-2020,GAB,Total,1.0
-2020,GHA,Total,80
-2020,GTM,Total,18.6
-2020,GUY,Total,23.2
-2020,HND,Total,19.1
-2020,IND,Total,0.82
-2020,IDN,Total,1.5
-2020,IRQ,Total,0
-2020,KAZ,Total,7.9
-2020,KEN,Total,67.1
-2020,KGZ,Total,52.8
-2020,LAO,Total,0.13
-2020,LBR,Total,72.7
-2020,LBY,Total,0
-2020,MDG,Total,5.1
-2020,MLI,Total,0
-2020,MEX,Total,51.3
-2020,MNG,Total,2.2
-2020,MAR,Total,32.3
-2020,MOZ,Total,66.4
-2020,MMR,Total,0.44
-2020,NAM,Total,37.2
-2020,NPL,Total,18.2
-2020,NIC,Total,31.5
-2020,NOR,Total,14.2
-2020,OMN,Total,0
-2020,PAN,Total,25.7
-2020,PNG,Total,97
-2020,PER,Total,32.7
-2020,PHL,Total,32.4
-2020,RUS,Total,4.5
-2020,SAU,Total,0
-2020,SEN,Total,0
-2020,SSD,Total,0
-2020,SDN,Total,0.15
-2020,SUR,Total,0
-2020,SWE,Total,59.5
-2020,TJK,Total,0
-2020,TZA,Total,71.0
-2020,THA,Total,2.5
-2020,TLS,Total,0
-2020,TUN,Total,12.2
-2020,TKM,Total,64.5
-2020,UGA,Total,44.4
-2020,USA,Total,4.0
-2020,UZB,Total,0
-2020,VEN,Total,3.7
-2020,VNM,Total,3.8
-2020,YEM,Total,0
-2020,ZMB,Total,72.4
-2020,ZWE,Total,42.4
-2015,DZA,Area designated,14.2
-2015,AGO,Area designated,0
-2015,ARG,Area designated,0.47
-2015,AUS,Area designated,6.0
-2015,BOL,Area designated,0.48
-2015,BWA,Area designated,53.4
-2015,BRA,Area designated,4.7
-2015,KHM,Area designated,2.2
-2015,CMR,Area designated,5.3
-2015,CAN,Area designated,34.0
-2015,CAF,Area designated,0
-2015,TCD,Area designated,0
-2015,CHL,Area designated,0.19
-2015,CHN,Area designated,0
-2015,COL,Area designated,0
-2015,COD,Area designated,0
-2015,COG,Area designated,0
-2015,CRI,Area designated,0
-2015,ECU,Area designated,4.8
-2015,EGY,Area designated,0
+2015,AGO,Area Total,0.0
+2015,ARG,Area Total,3.6
+2015,AUS,Area Total,151.8
+2015,BOL,Area Total,26.8
+2015,BRA,Area Total,146.7
+2015,BWA,Area Total,30.3
+2015,CAF,Area Total,0.0
+2015,CAN,Area Total,370.0
+2015,CHL,Area Total,2.6
+2015,CHN,Area Total,465.7
+2015,CMR,Area Total,2.5
+2015,COD,Area Total,0.0
+2015,COG,Area Total,0.0
+2015,COL,Area Total,37.6
+2015,CRI,Area Total,0.3
+2015,DZA,Area Total,33.9
+2015,ECU,Area Total,5.6
+2015,EGY,Area Total,0.0
+2015,ETH,Area Total,1.4
+2015,FIN,Area Total,0.2
+2015,GAB,Area Total,0.0
+2015,GHA,Area Total,18.2
+2015,GTM,Area Total,1.8
+2015,GUY,Area Total,3.8
+2015,HND,Area Total,1.9
+2015,IDN,Area Total,0.4
+2015,IND,Area Total,0.1
+2015,IRQ,Area Total,0.0
+2015,KAZ,Area Total,21.5
+2015,KEN,Area Total,3.5
+2015,KGZ,Area Total,7.7
+2015,KHM,Area Total,0.4
+2015,LAO,Area Total,0.0
+2015,LBR,Area Total,3.1
+2015,LBY,Area Total,0.0
+2015,MAR,Area Total,14.4
+2015,MDG,Area Total,3.0
+2015,MEX,Area Total,100.0
+2015,MLI,Area Total,0.0
+2015,MMR,Area Total,0.1
+2015,MNG,Area Total,2.3
+2015,MOZ,Area Total,52.2
+2015,NAM,Area Total,33.4
+2015,NIC,Area Total,3.6
+2015,NOR,Area Total,5.2
+2015,NPL,Area Total,1.9
+2015,OMN,Area Total,0.0
+2015,PAN,Area Total,0.9
+2015,PER,Area Total,38.7
+2015,PHL,Area Total,6.6
+2015,PNG,Area Total,43.9
+2015,RUS,Area Total,72.2
+2015,SAU,Area Total,0.0
+2015,SDN,Area Total,0.1
+2015,SEN,Area Total,0.0
+2015,SSD,Area Total,0.0
+2015,SUR,Area Total,0.0
+2015,SWE,Area Total,24.2
+2015,TCD,Area Total,0.0
+2015,THA,Area Total,0.5
+2015,TJK,Area Total,0.0
+2015,TKM,Area Total,30.3
+2015,TLS,Area Total,0.0
+2015,TUN,Area Total,1.9
+2015,TZA,Area Total,66.5
+2015,UGA,Area Total,8.9
+2015,USA,Area Total,35.6
+2015,UZB,Area Total,0.0
+2015,VEN,Area Total,2.8
+2015,VNM,Area Total,1.1
+2015,YEM,Area Total,0.0
+2015,ZMB,Area Total,53.8
+2015,ZWE,Area Total,16.4
+2020,AGO,Area Total,0.0
+2020,ARG,Area Total,3.6
+2020,AUS,Area Total,174.1
+2020,BOL,Area Total,36.2
+2020,BRA,Area Total,149.7
+2020,BWA,Area Total,30.3
+2020,CAF,Area Total,0.0
+2020,CAN,Area Total,378.5
+2020,CHL,Area Total,2.7
+2020,CHN,Area Total,465.7
+2020,CMR,Area Total,3.6
+2020,COD,Area Total,1.2
+2020,COG,Area Total,0.0
+2020,COL,Area Total,39.8
+2020,CRI,Area Total,0.3
+2020,DZA,Area Total,34.6
+2020,ECU,Area Total,6.4
+2020,EGY,Area Total,0.0
+2020,ETH,Area Total,1.4
+2020,FIN,Area Total,0.2
+2020,GAB,Area Total,0.3
+2020,GHA,Area Total,18.2
+2020,GTM,Area Total,2.0
+2020,GUY,Area Total,4.6
+2020,HND,Area Total,2.1
+2020,IDN,Area Total,2.8
+2020,IND,Area Total,2.4
+2020,IRQ,Area Total,0.0
+2020,KAZ,Area Total,21.5
+2020,KEN,Area Total,38.2
+2020,KGZ,Area Total,10.1
+2020,KHM,Area Total,0.7
+2020,LAO,Area Total,0.0
+2020,LBR,Area Total,7.0
+2020,LBY,Area Total,0.0
+2020,MAR,Area Total,14.4
+2020,MDG,Area Total,3.0
+2020,MEX,Area Total,99.7
+2020,MLI,Area Total,0.0
+2020,MMR,Area Total,0.3
+2020,MNG,Area Total,3.4
+2020,MOZ,Area Total,52.2
+2020,NAM,Area Total,30.6
+2020,NIC,Area Total,3.8
+2020,NOR,Area Total,5.2
+2020,NPL,Area Total,2.6
+2020,OMN,Area Total,0.0
+2020,PAN,Area Total,1.9
+2020,PER,Area Total,41.9
+2020,PHL,Area Total,9.7
+2020,PNG,Area Total,43.9
+2020,RUS,Area Total,73.1
+2020,SAU,Area Total,0.0
+2020,SDN,Area Total,0.3
+2020,SEN,Area Total,0.0
+2020,SSD,Area Total,0.0
+2020,SUR,Area Total,0.0
+2020,SWE,Area Total,24.2
+2020,TCD,Area Total,0.0
+2020,THA,Area Total,1.3
+2020,TJK,Area Total,0.0
+2020,TKM,Area Total,30.3
+2020,TLS,Area Total,0.0
+2020,TUN,Area Total,1.9
+2020,TZA,Area Total,62.9
+2020,UGA,Area Total,8.9
+2020,USA,Area Total,36.5
+2020,UZB,Area Total,0.0
+2020,VEN,Area Total,3.3
+2020,VNM,Area Total,1.2
+2020,YEM,Area Total,0.0
+2020,ZMB,Area Total,53.8
+2020,ZWE,Area Total,16.4
+2015,AGO,Area designated,0.0
+2015,ARG,Area designated,1.3
+2015,AUS,Area designated,45.7
+2015,BOL,Area designated,0.5
+2015,BRA,Area designated,39.1
+2015,BWA,Area designated,30.3
+2015,CAF,Area designated,0.0
+2015,CAN,Area designated,304.4
+2015,CHL,Area designated,0.1
+2015,CHN,Area designated,0.0
+2015,CMR,Area designated,2.5
+2015,COD,Area designated,0.0
+2015,COG,Area designated,0.0
+2015,COL,Area designated,0.0
+2015,CRI,Area designated,0.0
+2015,DZA,Area designated,33.9
+2015,ECU,Area designated,1.2
+2015,EGY,Area designated,0.0
 2015,ETH,Area designated,1.4
-2015,FIN,Area designated,0
-2015,GAB,Area designated,0.05
-2015,GHA,Area designated,80
-2015,GTM,Area designated,3.5
-2015,GUY,Area designated,19.3
-2015,HND,Area designated,4.4
-2015,IND,Area designated,0
-2015,IDN,Area designated,0.18
-2015,IRQ,Area designated,0
-2015,KAZ,Area designated,8.0
-2015,KEN,Area designated,0.37
-2015,KGZ,Area designated,40.1
-2015,LAO,Area designated,0.1
-2015,LBR,Area designated,0
-2015,LBY,Area designated,0
-2015,MDG,Area designated,5.1
-2015,MLI,Area designated,0
-2015,MEX,Area designated,0
-2015,MNG,Area designated,1.5
-2015,MAR,Area designated,32.3
-2015,MOZ,Area designated,0
-2015,MMR,Area designated,0.12
-2015,NAM,Area designated,40.6
-2015,NPL,Area designated,13.4
-2015,NIC,Area designated,30.3
-2015,NOR,Area designated,0
-2015,OMN,Area designated,0
-2015,PAN,Area designated,0
-2015,PNG,Area designated,0
-2015,PER,Area designated,2.7
-2015,PHL,Area designated,5.6
-2015,RUS,Area designated,4.4
-2015,SAU,Area designated,0
-2015,SEN,Area designated,0
-2015,SSD,Area designated,0
-2015,SDN,Area designated,0.07
-2015,SUR,Area designated,0
-2015,SWE,Area designated,57.8
-2015,TJK,Area designated,0
-2015,TZA,Area designated,6.1
-2015,THA,Area designated,0.94
-2015,TLS,Area designated,0
-2015,TUN,Area designated,12.2
-2015,TKM,Area designated,64.5
-2015,UGA,Area designated,2.2
-2015,USA,Area designated,0
-2015,UZB,Area designated,0
-2015,VEN,Area designated,3.2
-2015,VNM,Area designated,3.6
-2015,YEM,Area designated,0
-2015,ZMB,Area designated,72.4
-2015,ZWE,Area designated,42.4
-2020,DZA,Area designated,14.5
-2020,AGO,Area designated,0
-2020,ARG,Area designated,0.47
-2020,AUS,Area designated,5.3
-2020,BOL,Area designated,0.48
-2020,BWA,Area designated,53.4
-2020,BRA,Area designated,4.8
-2020,KHM,Area designated,3.6
-2020,CMR,Area designated,7.6
-2020,CAN,Area designated,34.9
-2020,CAF,Area designated,0.02
-2020,TCD,Area designated,0
-2020,CHL,Area designated,0.19
-2020,CHN,Area designated,0
-2020,COL,Area designated,0
-2020,COD,Area designated,0.52
-2020,COG,Area designated,0
-2020,CRI,Area designated,0
-2020,ECU,Area designated,4.8
-2020,EGY,Area designated,0
+2015,FIN,Area designated,0.0
+2015,GAB,Area designated,0.0
+2015,GHA,Area designated,18.2
+2015,GTM,Area designated,0.4
+2015,GUY,Area designated,3.8
+2015,HND,Area designated,0.5
+2015,IDN,Area designated,0.4
+2015,IND,Area designated,0.0
+2015,IRQ,Area designated,0.0
+2015,KAZ,Area designated,21.5
+2015,KEN,Area designated,0.2
+2015,KGZ,Area designated,7.7
+2015,KHM,Area designated,0.4
+2015,LAO,Area designated,0.0
+2015,LBR,Area designated,0.0
+2015,LBY,Area designated,0.0
+2015,MAR,Area designated,14.4
+2015,MDG,Area designated,3.0
+2015,MEX,Area designated,0.0
+2015,MLI,Area designated,0.0
+2015,MMR,Area designated,0.1
+2015,MNG,Area designated,2.3
+2015,MOZ,Area designated,0.0
+2015,NAM,Area designated,33.4
+2015,NIC,Area designated,3.6
+2015,NOR,Area designated,0.0
+2015,NPL,Area designated,1.9
+2015,OMN,Area designated,0.0
+2015,PAN,Area designated,0.0
+2015,PER,Area designated,3.5
+2015,PHL,Area designated,1.7
+2015,PNG,Area designated,0.0
+2015,RUS,Area designated,72.2
+2015,SAU,Area designated,0.0
+2015,SDN,Area designated,0.1
+2015,SEN,Area designated,0.0
+2015,SSD,Area designated,0.0
+2015,SUR,Area designated,0.0
+2015,SWE,Area designated,23.5
+2015,TCD,Area designated,0.0
+2015,THA,Area designated,0.5
+2015,TJK,Area designated,0.0
+2015,TKM,Area designated,30.3
+2015,TLS,Area designated,0.0
+2015,TUN,Area designated,1.9
+2015,TZA,Area designated,5.4
+2015,UGA,Area designated,0.5
+2015,USA,Area designated,0.0
+2015,UZB,Area designated,0.0
+2015,VEN,Area designated,2.8
+2015,VNM,Area designated,1.1
+2015,YEM,Area designated,0.0
+2015,ZMB,Area designated,53.8
+2015,ZWE,Area designated,16.4
+2020,AGO,Area designated,0.0
+2020,ARG,Area designated,1.3
+2020,AUS,Area designated,40.6
+2020,BOL,Area designated,0.5
+2020,BRA,Area designated,40.2
+2020,BWA,Area designated,30.3
+2020,CAF,Area designated,0.0
+2020,CAN,Area designated,312.6
+2020,CHL,Area designated,0.1
+2020,CHN,Area designated,0.0
+2020,CMR,Area designated,3.6
+2020,COD,Area designated,1.2
+2020,COG,Area designated,0.0
+2020,COL,Area designated,0.0
+2020,CRI,Area designated,0.0
+2020,DZA,Area designated,34.6
+2020,ECU,Area designated,1.2
+2020,EGY,Area designated,0.0
 2020,ETH,Area designated,1.4
-2020,FIN,Area designated,0
-2020,GAB,Area designated,1.0
-2020,GHA,Area designated,80
-2020,GTM,Area designated,3.5
-2020,GUY,Area designated,23.2
-2020,HND,Area designated,3.9
-2020,IND,Area designated,0
-2020,IDN,Area designated,1.5
-2020,IRQ,Area designated,0
-2020,KAZ,Area designated,7.9
-2020,KEN,Area designated,0.09
-2020,KGZ,Area designated,52.8
-2020,LAO,Area designated,0.13
-2020,LBR,Area designated,0
-2020,LBY,Area designated,0
-2020,MDG,Area designated,5.1
-2020,MLI,Area designated,0
-2020,MEX,Area designated,0
-2020,MNG,Area designated,2.2
-2020,MAR,Area designated,32.3
-2020,MOZ,Area designated,0
-2020,MMR,Area designated,0.44
-2020,NAM,Area designated,37.2
-2020,NPL,Area designated,18.2
-2020,NIC,Area designated,31.5
-2020,NOR,Area designated,0
-2020,OMN,Area designated,0
-2020,PAN,Area designated,0
-2020,PNG,Area designated,0
-2020,PER,Area designated,3.9
-2020,PHL,Area designated,5.7
-2020,RUS,Area designated,4.5
-2020,SAU,Area designated,0
-2020,SEN,Area designated,0
-2020,SSD,Area designated,0
-2020,SDN,Area designated,0.15
-2020,SUR,Area designated,0
-2020,SWE,Area designated,57.8
-2020,TJK,Area designated,0
-2020,TZA,Area designated,3.6
-2020,THA,Area designated,2.5
-2020,TLS,Area designated,0
-2020,TUN,Area designated,12.2
-2020,TKM,Area designated,64.5
-2020,UGA,Area designated,2.5
-2020,USA,Area designated,0
-2020,UZB,Area designated,0
-2020,VEN,Area designated,3.7
-2020,VNM,Area designated,3.8
-2020,YEM,Area designated,0
-2020,ZMB,Area designated,72.4
-2020,ZWE,Area designated,42.4
-2015,DZA,Area owned,0
-2015,AGO,Area owned,0
-2015,ARG,Area owned,0.83
-2015,AUS,Area owned,13.8
-2015,BOL,Area owned,24.3
-2015,BWA,Area owned,0
-2015,BRA,Area owned,12.9
-2015,KHM,Area owned,0.05
-2015,CMR,Area owned,0
-2015,CAN,Area owned,7.3
-2015,CAF,Area owned,0
-2015,TCD,Area owned,0
-2015,CHL,Area owned,3.3
-2015,CHN,Area owned,49.4
-2015,COL,Area owned,33.9
-2015,COD,Area owned,0
-2015,COG,Area owned,0
-2015,CRI,Area owned,6.5
-2015,ECU,Area owned,17.9
-2015,EGY,Area owned,0
-2015,ETH,Area owned,0
-2015,FIN,Area owned,0.51
-2015,GAB,Area owned,0
-2015,GHA,Area owned,0
-2015,GTM,Area owned,13.0
-2015,GUY,Area owned,0
-2015,HND,Area owned,12.6
-2015,IND,Area owned,0.04
-2015,IDN,Area owned,0
-2015,IRQ,Area owned,0
-2015,KAZ,Area owned,0
-2015,KEN,Area owned,5.8
-2015,KGZ,Area owned,0
-2015,LAO,Area owned,0
-2015,LBR,Area owned,31.7
-2015,LBY,Area owned,0
-2015,MDG,Area owned,0
-2015,MLI,Area owned,0
-2015,MEX,Area owned,51.5
-2015,MNG,Area owned,0
-2015,MAR,Area owned,0
-2015,MOZ,Area owned,66.4
-2015,MMR,Area owned,0
-2015,NAM,Area owned,0
-2015,NPL,Area owned,0
-2015,NIC,Area owned,0
-2015,NOR,Area owned,14.2
-2015,OMN,Area owned,0
-2015,PAN,Area owned,12.7
-2015,PNG,Area owned,97
-2015,PER,Area owned,27.6
-2015,PHL,Area owned,16.6
-2015,RUS,Area owned,0
-2015,SAU,Area owned,0
-2015,SEN,Area owned,0
-2015,SSD,Area owned,0
-2015,SDN,Area owned,0
-2015,SUR,Area owned,0
-2015,SWE,Area owned,1.7
-2015,TJK,Area owned,0
-2015,TZA,Area owned,69
-2015,THA,Area owned,0
-2015,TLS,Area owned,0
-2015,TUN,Area owned,0
-2015,TKM,Area owned,0
-2015,UGA,Area owned,41.9
-2015,USA,Area owned,3.9
-2015,UZB,Area owned,0
-2015,VEN,Area owned,0
-2015,VNM,Area owned,0
-2015,YEM,Area owned,0
-2015,ZMB,Area owned,0
-2015,ZWE,Area owned,0
-2020,DZA,Area owned,0
-2020,AGO,Area owned,0.01
-2020,ARG,Area owned,0.83
-2020,AUS,Area owned,17.4
-2020,BOL,Area owned,32.9
-2020,BWA,Area owned,0
-2020,BRA,Area owned,13.1
-2020,KHM,Area owned,0.19
-2020,CMR,Area owned,0
-2020,CAN,Area owned,7.4
-2020,CAF,Area owned,0
-2020,TCD,Area owned,0
-2020,CHL,Area owned,3.4
-2020,CHN,Area owned,49.4
-2020,COL,Area owned,35.9
-2020,COD,Area owned,0
-2020,COG,Area owned,0
-2020,CRI,Area owned,6.5
-2020,ECU,Area owned,20.9
-2020,EGY,Area owned,0
-2020,ETH,Area owned,0
-2020,FIN,Area owned,0.51
-2020,GAB,Area owned,0
-2020,GHA,Area owned,0
-2020,GTM,Area owned,15.1
-2020,GUY,Area owned,0
-2020,HND,Area owned,15.2
-2020,IND,Area owned,0.82
-2020,IDN,Area owned,0.03
-2020,IRQ,Area owned,0
-2020,KAZ,Area owned,0
-2020,KEN,Area owned,67.0
-2020,KGZ,Area owned,0
-2020,LAO,Area owned,0
-2020,LBR,Area owned,72.7
-2020,LBY,Area owned,0
-2020,MDG,Area owned,0
-2020,MLI,Area owned,0
-2020,MEX,Area owned,51.3
-2020,MNG,Area owned,0
-2020,MAR,Area owned,0
-2020,MOZ,Area owned,66.4
-2020,MMR,Area owned,0
-2020,NAM,Area owned,0
-2020,NPL,Area owned,0
-2020,NIC,Area owned,0
-2020,NOR,Area owned,14.2
-2020,OMN,Area owned,0
-2020,PAN,Area owned,25.7
-2020,PNG,Area owned,97
-2020,PER,Area owned,28.8
-2020,PHL,Area owned,26.7
-2020,RUS,Area owned,0
-2020,SAU,Area owned,0
-2020,SEN,Area owned,0
-2020,SSD,Area owned,0
-2020,SDN,Area owned,0
-2020,SUR,Area owned,0
-2020,SWE,Area owned,1.7
-2020,TJK,Area owned,0
-2020,TZA,Area owned,67.4
-2020,THA,Area owned,0
-2020,TLS,Area owned,0
-2020,TUN,Area owned,0
-2020,TKM,Area owned,0
-2020,UGA,Area owned,41.9
-2020,USA,Area owned,4.0
-2020,UZB,Area owned,0
-2020,VEN,Area owned,0
-2020,VNM,Area owned,0
-2020,YEM,Area owned,0
-2020,ZMB,Area owned,0.04
-2020,ZWE,Area owned,0
+2020,FIN,Area designated,0.0
+2020,GAB,Area designated,0.3
+2020,GHA,Area designated,18.2
+2020,GTM,Area designated,0.4
+2020,GUY,Area designated,4.6
+2020,HND,Area designated,0.4
+2020,IDN,Area designated,2.7
+2020,IND,Area designated,0.0
+2020,IRQ,Area designated,0.0
+2020,KAZ,Area designated,21.5
+2020,KEN,Area designated,0.1
+2020,KGZ,Area designated,10.1
+2020,KHM,Area designated,0.6
+2020,LAO,Area designated,0.0
+2020,LBR,Area designated,0.0
+2020,LBY,Area designated,0.0
+2020,MAR,Area designated,14.4
+2020,MDG,Area designated,3.0
+2020,MEX,Area designated,0.0
+2020,MLI,Area designated,0.0
+2020,MMR,Area designated,0.3
+2020,MNG,Area designated,3.4
+2020,MOZ,Area designated,0.0
+2020,NAM,Area designated,30.6
+2020,NIC,Area designated,3.8
+2020,NOR,Area designated,0.0
+2020,NPL,Area designated,2.6
+2020,OMN,Area designated,0.0
+2020,PAN,Area designated,0.0
+2020,PER,Area designated,5.0
+2020,PHL,Area designated,1.7
+2020,PNG,Area designated,0.0
+2020,RUS,Area designated,73.1
+2020,SAU,Area designated,0.0
+2020,SDN,Area designated,0.3
+2020,SEN,Area designated,0.0
+2020,SSD,Area designated,0.0
+2020,SUR,Area designated,0.0
+2020,SWE,Area designated,23.5
+2020,TCD,Area designated,0.0
+2020,THA,Area designated,1.3
+2020,TJK,Area designated,0.0
+2020,TKM,Area designated,30.3
+2020,TLS,Area designated,0.0
+2020,TUN,Area designated,1.9
+2020,TZA,Area designated,3.2
+2020,UGA,Area designated,0.5
+2020,USA,Area designated,0.0
+2020,UZB,Area designated,0.0
+2020,VEN,Area designated,3.3
+2020,VNM,Area designated,1.2
+2020,YEM,Area designated,0.0
+2020,ZMB,Area designated,53.8
+2020,ZWE,Area designated,16.4
+2015,AGO,Area owned,0.0
+2015,ARG,Area owned,2.3
+2015,AUS,Area owned,106.0
+2015,BOL,Area owned,26.3
+2015,BRA,Area owned,107.6
+2015,BWA,Area owned,0.0
+2015,CAF,Area owned,0.0
+2015,CAN,Area owned,65.6
+2015,CHL,Area owned,2.5
+2015,CHN,Area owned,465.7
+2015,CMR,Area owned,0.0
+2015,COD,Area owned,0.0
+2015,COG,Area owned,0.0
+2015,COL,Area owned,37.6
+2015,CRI,Area owned,0.3
+2015,DZA,Area owned,0.0
+2015,ECU,Area owned,4.4
+2015,EGY,Area owned,0.0
+2015,ETH,Area owned,0.0
+2015,FIN,Area owned,0.2
+2015,GAB,Area owned,0.0
+2015,GHA,Area owned,0.0
+2015,GTM,Area owned,1.4
+2015,GUY,Area owned,0.0
+2015,HND,Area owned,1.4
+2015,IDN,Area owned,0.0
+2015,IND,Area owned,0.1
+2015,IRQ,Area owned,0.0
+2015,KAZ,Area owned,0.0
+2015,KEN,Area owned,3.3
+2015,KGZ,Area owned,0.0
+2015,KHM,Area owned,0.0
+2015,LAO,Area owned,0.0
+2015,LBR,Area owned,3.1
+2015,LBY,Area owned,0.0
+2015,MAR,Area owned,0.0
+2015,MDG,Area owned,0.0
+2015,MEX,Area owned,100.0
+2015,MLI,Area owned,0.0
+2015,MMR,Area owned,0.0
+2015,MNG,Area owned,0.0
+2015,MOZ,Area owned,52.2
+2015,NAM,Area owned,0.0
+2015,NIC,Area owned,0.0
+2015,NOR,Area owned,5.2
+2015,NPL,Area owned,0.0
+2015,OMN,Area owned,0.0
+2015,PAN,Area owned,0.9
+2015,PER,Area owned,35.3
+2015,PHL,Area owned,4.9
+2015,PNG,Area owned,43.9
+2015,RUS,Area owned,0.0
+2015,SAU,Area owned,0.0
+2015,SDN,Area owned,0.0
+2015,SEN,Area owned,0.0
+2015,SSD,Area owned,0.0
+2015,SUR,Area owned,0.0
+2015,SWE,Area owned,0.7
+2015,TCD,Area owned,0.0
+2015,THA,Area owned,0.0
+2015,TJK,Area owned,0.0
+2015,TKM,Area owned,0.0
+2015,TLS,Area owned,0.0
+2015,TUN,Area owned,0.0
+2015,TZA,Area owned,61.1
+2015,UGA,Area owned,8.4
+2015,USA,Area owned,35.6
+2015,UZB,Area owned,0.0
+2015,VEN,Area owned,0.0
+2015,VNM,Area owned,0.0
+2015,YEM,Area owned,0.0
+2015,ZMB,Area owned,0.0
+2015,ZWE,Area owned,0.0
+2020,AGO,Area owned,0.0
+2020,ARG,Area owned,2.3
+2020,AUS,Area owned,133.5
+2020,BOL,Area owned,35.6
+2020,BRA,Area owned,109.5
+2020,BWA,Area owned,0.0
+2020,CAF,Area owned,0.0
+2020,CAN,Area owned,65.9
+2020,CHL,Area owned,2.5
+2020,CHN,Area owned,465.7
+2020,CMR,Area owned,0.0
+2020,COD,Area owned,0.0
+2020,COG,Area owned,0.0
+2020,COL,Area owned,39.8
+2020,CRI,Area owned,0.3
+2020,DZA,Area owned,0.0
+2020,ECU,Area owned,5.2
+2020,EGY,Area owned,0.0
+2020,ETH,Area owned,0.0
+2020,FIN,Area owned,0.2
+2020,GAB,Area owned,0.0
+2020,GHA,Area owned,0.0
+2020,GTM,Area owned,1.6
+2020,GUY,Area owned,0.0
+2020,HND,Area owned,1.7
+2020,IDN,Area owned,0.1
+2020,IND,Area owned,2.4
+2020,IRQ,Area owned,0.0
+2020,KAZ,Area owned,0.0
+2020,KEN,Area owned,38.1
+2020,KGZ,Area owned,0.0
+2020,KHM,Area owned,0.0
+2020,LAO,Area owned,0.0
+2020,LBR,Area owned,7.0
+2020,LBY,Area owned,0.0
+2020,MAR,Area owned,0.0
+2020,MDG,Area owned,0.0
+2020,MEX,Area owned,99.7
+2020,MLI,Area owned,0.0
+2020,MMR,Area owned,0.0
+2020,MNG,Area owned,0.0
+2020,MOZ,Area owned,52.2
+2020,NAM,Area owned,0.0
+2020,NIC,Area owned,0.0
+2020,NOR,Area owned,5.2
+2020,NPL,Area owned,0.0
+2020,OMN,Area owned,0.0
+2020,PAN,Area owned,1.9
+2020,PER,Area owned,36.9
+2020,PHL,Area owned,8.0
+2020,PNG,Area owned,43.9
+2020,RUS,Area owned,0.0
+2020,SAU,Area owned,0.0
+2020,SDN,Area owned,0.0
+2020,SEN,Area owned,0.0
+2020,SSD,Area owned,0.0
+2020,SUR,Area owned,0.0
+2020,SWE,Area owned,0.7
+2020,TCD,Area owned,0.0
+2020,THA,Area owned,0.0
+2020,TJK,Area owned,0.0
+2020,TKM,Area owned,0.0
+2020,TLS,Area owned,0.0
+2020,TUN,Area owned,0.0
+2020,TZA,Area owned,59.7
+2020,UGA,Area owned,8.4
+2020,USA,Area owned,36.5
+2020,UZB,Area owned,0.0
+2020,VEN,Area owned,0.0
+2020,VNM,Area owned,0.0
+2020,YEM,Area owned,0.0
+2020,ZMB,Area owned,0.0
+2020,ZWE,Area owned,0.0
