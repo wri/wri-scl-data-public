@@ -1,7 +1,7 @@
 year,geo,disagg,value
 2025,WLD,Total,77
-2025,WLD,Power generation,26
-2025,WLD,Fossil fuels,51
+2025,WLD,Power generation sector,26
+2025,WLD,Fossil fuels sector,51
 2025,ARE,Total,1
 2025,AUS,Total,5
 2025,AUT,Total,2
@@ -26,38 +26,38 @@ year,geo,disagg,value
 2025,SGP,Total,1
 2025,THA,Total,2
 2025,USA,Total,23
-2025,ARE,Power generation,1
-2025,AUT,Power generation,1
-2025,BRA,Power generation,1
-2025,CAN,Power generation,3
-2025,DNK,Power generation,1
-2025,ESP,Power generation,1
-2025,FRA,Power generation,1
-2025,GBR,Power generation,1
-2025,HKG,Power generation,2
-2025,JPN,Power generation,1
-2025,MYS,Power generation,1
-2025,PRT,Power generation,1
-2025,SAU,Power generation,1
-2025,THA,Power generation,1
-2025,USA,Power generation,9
-2025,AUS,Fossil fuels,5
-2025,AUT,Fossil fuels,1
-2025,BRA,Fossil fuels,1
-2025,CAN,Fossil fuels,4
-2025,CHN,Fossil fuels,1
-2025,COL,Fossil fuels,1
-2025,ESP,Fossil fuels,2
-2025,FRA,Fossil fuels,2
-2025,GBR,Fossil fuels,3
-2025,HUN,Fossil fuels,1
-2025,IND,Fossil fuels,2
-2025,ITA,Fossil fuels,3
-2025,JPN,Fossil fuels,3
-2025,KOR,Fossil fuels,3
-2025,NOR,Fossil fuels,1
-2025,PRT,Fossil fuels,1
-2025,SAU,Fossil fuels,1
-2025,SGP,Fossil fuels,1
-2025,THA,Fossil fuels,1
-2025,USA,Fossil fuels,14
+2025,ARE,Power generation sector,1
+2025,AUT,Power generation sector,1
+2025,BRA,Power generation sector,1
+2025,CAN,Power generation sector,3
+2025,DNK,Power generation sector,1
+2025,ESP,Power generation sector,1
+2025,FRA,Power generation sector,1
+2025,GBR,Power generation sector,1
+2025,HKG,Power generation sector,2
+2025,JPN,Power generation sector,1
+2025,MYS,Power generation sector,1
+2025,PRT,Power generation sector,1
+2025,SAU,Power generation sector,1
+2025,THA,Power generation sector,1
+2025,USA,Power generation sector,9
+2025,AUS,Fossil fuels sector,5
+2025,AUT,Fossil fuels sector,1
+2025,BRA,Fossil fuels sector,1
+2025,CAN,Fossil fuels sector,4
+2025,CHN,Fossil fuels sector,1
+2025,COL,Fossil fuels sector,1
+2025,ESP,Fossil fuels sector,2
+2025,FRA,Fossil fuels sector,2
+2025,GBR,Fossil fuels sector,3
+2025,HUN,Fossil fuels sector,1
+2025,IND,Fossil fuels sector,2
+2025,ITA,Fossil fuels sector,3
+2025,JPN,Fossil fuels sector,3
+2025,KOR,Fossil fuels sector,3
+2025,NOR,Fossil fuels sector,1
+2025,PRT,Fossil fuels sector,1
+2025,SAU,Fossil fuels sector,1
+2025,SGP,Fossil fuels sector,1
+2025,THA,Fossil fuels sector,1
+2025,USA,Fossil fuels sector,14
