@@ -1,40 +1,22 @@
 ﻿year,geo,disagg,value
-2019,BRA,100 MW Solar,12
-2021,BRA,100 MW Solar,13
-2022,BRA,100 MW Solar,11
-2022,BRA,40 MW Battery,11
-2023,BRA,50 MW Solar,12
-2024,BRA,50 MW Solar,12
-2024,BRA,150 MW Hydro,12
-2019,IND,100 MW Solar,9.5
-2021,IND,100 MW Solar,9.8
-2022,IND,100 MW Solar,9.5
-2022,IND,40 MW Battery,11
-2023,IND,50 MW Solar,10
-2024,IND,50 MW Solar,10
-2023,IND,40 MW Battery,12
-2024,IND,40 MW Battery,13
-2019,IDN,100 MW Solar,9.3
-2021,IDN,100 MW Solar,10
-2022,IDN,100 MW Solar,8.3
-2022,IDN,40 MW Battery,9.8
-2023,IDN,50 MW Solar,9.5
-2024,IDN,50 MW Solar,9.4
-2023,IDN,40 MW Battery,9.1
-2024,IDN,40 MW Battery,9.7
-2024,IDN,150 MW Hydro,10
-2019,MEX,100 MW Solar,9.8
-2021,MEX,100 MW Solar,9.8
-2022,MEX,100 MW Solar,11
-2022,MEX,40 MW Battery,12
-2024,MEX,50 MW Solar,9.7
-2023,PHL,50 MW Solar,9
-2024,PHL,50 MW Solar,8
-2019,ZAF,100 MW Solar,10
-2021,ZAF,100 MW Solar,10
-2022,ZAF,100 MW Solar,11
-2022,ZAF,40 MW Battery,9.8
-2024,ZAF,40 MW Battery,12
-2024,THA,50 MW Solar,6.3
-2023,VNM,50 MW Solar,9.4
-2024,VNM,50 MW Solar,9
+2024,BRA,Solar,12
+2024,BRA,Hydroelectric power,12.3
+2024,BRA,Utility scale batteries,12.8
+2024,BRA,Natural gas,14
+2024,IDN,Natural gas,9.5
+2024,IDN,Solar,9.8
+2024,IDN,Utility scale batteries,10.3
+2024,IDN,Offshore wind,11
+2024,IND,Natural gas,9.5
+2024,IND,Solar,10.8
+2024,IND,Utility scale batteries,12.5
+2024,MEX,Solar,10.3
+2024,MEX,Utility scale batteries,12.3
+2024,PHL,Utility scale batteries,8
+2024,PHL,Solar,9
+2024,PHL,Offshore wind,9.5
+2024,VNM,Solar,9.5
+2024,VNM,Utility scale batteries,10
+2024,VNM,Natural gas,10.3
+2024,ZAF,Solar,12.3
+2024,ZAF,Hydroelectric power,14.5
