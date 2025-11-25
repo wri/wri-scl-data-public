@@ -5,3 +5,33 @@ year,geo,value
 2018,WLD,20
 2019,WLD,28
 2020,WLD,31
+2015,Canada,2
+2016,Canada,2
+2017,Canada,2
+2018,Canada,2
+2019,Canada,5
+2020,Canada,25
+2015,China,2
+2016,China,2
+2017,China,2
+2018,China,2
+2019,China,6
+2020,China,23
+2015,Europe,60
+2016,Europe,63
+2017,Europe,62
+2018,Europe,78
+2019,Europe,99
+2020,Europe,116
+2015,Rest of Asia,36
+2016,Rest of Asia,36
+2017,Rest of Asia,38
+2018,Rest of Asia,39
+2019,Rest of Asia,40
+2020,Rest of Asia,51
+2015,Rest of world,66
+2016,Rest of world,67
+2017,Rest of world,68
+2018,Rest of world,73
+2019,Rest of world,75
+2020,Rest of world,75
