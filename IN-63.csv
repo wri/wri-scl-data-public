@@ -1,31 +1,11 @@
-year,geo,disagg,value
-2015,WLD,Total,1
-2016,WLD,Total,2
-2017,WLD,Total,4
-2018,WLD,Total,7
-2019,WLD,Total,14
-2020,WLD,Total,22
-2021,WLD,Total,34
-2022,WLD,Total,42
-2023,WLD,Total,55
-2024,WLD,Total,70
-2015,WLD,Full-scale projects,0
-2016,WLD,Full-scale projects,0
-2017,WLD,Full-scale projects,0
-2018,WLD,Full-scale projects,0
-2019,WLD,Full-scale projects,2
-2020,WLD,Full-scale projects,5
-2021,WLD,Full-scale projects,8
-2022,WLD,Full-scale projects,13
-2023,WLD,Full-scale projects,23
-2024,WLD,Full-scale projects,32
-2015,WLD,Other projects,1
-2016,WLD,Other projects,2
-2017,WLD,Other projects,4
-2018,WLD,Other projects,7
-2019,WLD,Other projects,12
-2020,WLD,Other projects,17
-2021,WLD,Other projects,26
-2022,WLD,Other projects,29
-2023,WLD,Other projects,32
-2024,WLD,Other projects,38
+year,geo,value
+2015,WLD,1
+2016,WLD,2
+2017,WLD,4
+2018,WLD,7
+2019,WLD,13
+2020,WLD,21
+2021,WLD,33
+2022,WLD,42
+2023,WLD,55
+2024,WLD,72
