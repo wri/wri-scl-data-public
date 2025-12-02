@@ -14,49 +14,49 @@ year,geo,disagg_type,disagg,value
 2022,WLD,All,Total,87
 2023,WLD,All,Total,121
 2024,WLD,All,Total,140
-2009,WLD,Technology,Onshore wind,1
-2010,WLD,Technology,Unknown,1
-2012,WLD,Technology,Others/Various,1
-2013,WLD,Technology,Onshore wind,1
-2013,WLD,Technology,Solar PV,1
-2014,WLD,Technology,Onshore wind,1
-2015,WLD,Technology,Onshore wind,2
-2015,WLD,Technology,Solar PV,2
-2015,WLD,Technology,Unknown,1
-2016,WLD,Technology,Onshore wind,1
-2017,WLD,Technology,Onshore wind,2
-2017,WLD,Technology,Others/Various,2
-2017,WLD,Technology,Solar PV,2
-2018,WLD,Technology,Onshore wind,1
-2018,WLD,Technology,Solar PV,2
-2019,WLD,Technology,Onshore wind,3
-2019,WLD,Technology,Others/Various,1
-2019,WLD,Technology,Solar PV,1
-2019,WLD,Technology,Unknown,3
 2020,WLD,Technology,Hydropower,3
-2020,WLD,Technology,Onshore wind,3
-2020,WLD,Technology,Others/Various,1
-2020,WLD,Technology,Solar PV,2
-2021,WLD,Technology,Hydropower,1
-2021,WLD,Technology,Onshore wind,3
-2021,WLD,Technology,Others/Various,5
-2021,WLD,Technology,Solar PV,7
-2021,WLD,Technology,Unknown,1
+2021,WLD,Technology,Hydropower,4
+2024,WLD,Technology,Hydropower,5
 2022,WLD,Technology,Offshore wind,1
-2022,WLD,Technology,Onshore wind,2
-2022,WLD,Technology,Others/Various,4
-2022,WLD,Technology,Solar PV,7
-2022,WLD,Technology,Unknown,6
-2023,WLD,Technology,Offshore wind,1
-2023,WLD,Technology,Onshore wind,2
-2023,WLD,Technology,Others/Various,4
-2023,WLD,Technology,Solar PV,11
-2023,WLD,Technology,Unknown,7
-2024,WLD,Technology,Hydropower,1
-2024,WLD,Technology,Offshore wind,1
-2024,WLD,Technology,Others/Various,2
-2024,WLD,Technology,Solar PV,6
-2024,WLD,Technology,Unknown,5
+2023,WLD,Technology,Offshore wind,2
+2024,WLD,Technology,Offshore wind,3
+2009,WLD,Technology,Onshore wind,1
+2013,WLD,Technology,Onshore wind,2
+2014,WLD,Technology,Onshore wind,3
+2015,WLD,Technology,Onshore wind,5
+2016,WLD,Technology,Onshore wind,6
+2017,WLD,Technology,Onshore wind,8
+2018,WLD,Technology,Onshore wind,9
+2019,WLD,Technology,Onshore wind,12
+2020,WLD,Technology,Onshore wind,15
+2021,WLD,Technology,Onshore wind,18
+2022,WLD,Technology,Onshore wind,20
+2023,WLD,Technology,Onshore wind,22
+2012,WLD,Technology,Others/Various,1
+2017,WLD,Technology,Others/Various,3
+2019,WLD,Technology,Others/Various,4
+2020,WLD,Technology,Others/Various,5
+2021,WLD,Technology,Others/Various,10
+2022,WLD,Technology,Others/Various,14
+2023,WLD,Technology,Others/Various,18
+2024,WLD,Technology,Others/Various,20
+2013,WLD,Technology,Solar PV,1
+2015,WLD,Technology,Solar PV,3
+2017,WLD,Technology,Solar PV,5
+2018,WLD,Technology,Solar PV,7
+2019,WLD,Technology,Solar PV,8
+2020,WLD,Technology,Solar PV,10
+2021,WLD,Technology,Solar PV,17
+2022,WLD,Technology,Solar PV,24
+2023,WLD,Technology,Solar PV,35
+2024,WLD,Technology,Solar PV,41
+2010,WLD,Technology,Unknown,1
+2015,WLD,Technology,Unknown,2
+2019,WLD,Technology,Unknown,5
+2021,WLD,Technology,Unknown,6
+2022,WLD,Technology,Unknown,12
+2023,WLD,Technology,Unknown,19
+2024,WLD,Technology,Unknown,24
 2021,ARE,All,Total,1
 2009,ARG,All,Total,1
 2021,AUS,All,Total,2
