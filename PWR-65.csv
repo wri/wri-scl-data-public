@@ -16,11 +16,18 @@ year,geo,disagg_type,disagg,value
 2024,WLD,All,Total,140
 2020,WLD,Technology,Hydropower,3
 2021,WLD,Technology,Hydropower,4
+2022,WLD,Technology,Hydropower,4
+2023,WLD,Technology,Hydropower,4
 2024,WLD,Technology,Hydropower,5
+2020,WLD,Technology,Offshore wind,0
+2021,WLD,Technology,Offshore wind,0
 2022,WLD,Technology,Offshore wind,1
 2023,WLD,Technology,Offshore wind,2
 2024,WLD,Technology,Offshore wind,3
 2009,WLD,Technology,Onshore wind,1
+2010,WLD,Technology,Onshore wind,1
+2011,WLD,Technology,Onshore wind,1
+2012,WLD,Technology,Onshore wind,1
 2013,WLD,Technology,Onshore wind,2
 2014,WLD,Technology,Onshore wind,3
 2015,WLD,Technology,Onshore wind,5
@@ -32,8 +39,14 @@ year,geo,disagg_type,disagg,value
 2021,WLD,Technology,Onshore wind,18
 2022,WLD,Technology,Onshore wind,20
 2023,WLD,Technology,Onshore wind,22
+2024,WLD,Technology,Onshore wind,22
 2012,WLD,Technology,Others/Various,1
+2013,WLD,Technology,Others/Various,1
+2014,WLD,Technology,Others/Various,1
+2015,WLD,Technology,Others/Various,1
+2016,WLD,Technology,Others/Various,1
 2017,WLD,Technology,Others/Various,3
+2018,WLD,Technology,Others/Various,3
 2019,WLD,Technology,Others/Various,4
 2020,WLD,Technology,Others/Various,5
 2021,WLD,Technology,Others/Various,10
@@ -41,7 +54,9 @@ year,geo,disagg_type,disagg,value
 2023,WLD,Technology,Others/Various,18
 2024,WLD,Technology,Others/Various,20
 2013,WLD,Technology,Solar PV,1
+2014,WLD,Technology,Solar PV,1
 2015,WLD,Technology,Solar PV,3
+2016,WLD,Technology,Solar PV,3
 2017,WLD,Technology,Solar PV,5
 2018,WLD,Technology,Solar PV,7
 2019,WLD,Technology,Solar PV,8
@@ -51,8 +66,16 @@ year,geo,disagg_type,disagg,value
 2023,WLD,Technology,Solar PV,35
 2024,WLD,Technology,Solar PV,41
 2010,WLD,Technology,Unknown,1
+2011,WLD,Technology,Unknown,1
+2012,WLD,Technology,Unknown,1
+2013,WLD,Technology,Unknown,1
+2014,WLD,Technology,Unknown,1
 2015,WLD,Technology,Unknown,2
+2016,WLD,Technology,Unknown,2
+2017,WLD,Technology,Unknown,2
+2018,WLD,Technology,Unknown,2
 2019,WLD,Technology,Unknown,5
+2020,WLD,Technology,Unknown,5
 2021,WLD,Technology,Unknown,6
 2022,WLD,Technology,Unknown,12
 2023,WLD,Technology,Unknown,19
