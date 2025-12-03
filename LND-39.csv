@@ -3,3 +3,4 @@ year,year_max,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2010,2020,WLD,131,,,,
 2020,2030,WLD,,,,231,
 2020,2035,WLD,,,,381,
+2020,2050,WLD,,,,681,
