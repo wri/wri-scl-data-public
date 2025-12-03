@@ -1,7 +1,2 @@
 ﻿year,year_max,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2002,2004,WLD,17757,,,,
-2005,2007,WLD,19004,,,,
-2008,2010,WLD,20531,,,,
-2011,2013,WLD,16927,,,,
-2014,2016,WLD,23209,,,,
-2017,2019,WLD,18781,,,,
+1999,2019,WLD,35000,,,,
