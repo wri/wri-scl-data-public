@@ -1,25 +1,13 @@
 year,geo,disagg,value
-2021,WLD,Modules,59
-2021,WLD,Cells,50
-2021,WLD,Wafers,46
-2021,WLD,Onshore wind,26
-2021,WLD,Offshore wind,22
-2021,WLD,Battery,13
-2021,WLD,Cathodes,6
-2021,WLD,Anodes,10
-2021,WLD,Fuel cell truck,6
-2021,WLD,Fuel cell slack,4
-2021,WLD,Heat pumps,26
-2021,WLD,Electrolysers,5
-2023,WLD,Modules,62
-2023,WLD,Cells,62
-2023,WLD,Wafers,62
-2023,WLD,Polysilicon,62
-2023,WLD,Nacelles,34
-2023,WLD,Blades,35
-2023,WLD,Towers,34
-2023,WLD,Heat pumps,25
-2023,WLD,Electrolysers,2
-2023,WLD,Battery,8
-2023,WLD,Cathodes,8
-2023,WLD,Anodes,8
+2023,WLD,Solar modules,128%
+2023,WLD,Solar cells,114%
+2023,WLD,Solar wafers,83%
+2023,WLD,Solar polysilicone,109%
+2023,WLD,Wind nacelles,60%
+2023,WLD,Wind blades,52%
+2023,WLD,Wind towers,50%
+2023,WLD,Heat pumps,27%
+2023,WLD,Electrolysers,29%
+2023,WLD,Batteries,51%
+2023,WLD,Battery cathodes,72%
+2023,WLD,Battery anodes,203%
