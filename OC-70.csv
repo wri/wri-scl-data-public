@@ -1,3750 +1,3183 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2000,WLD,Total,10849075,,,,
-2001,WLD,Total,10422491,,,,
-2002,WLD,Total,9882471,,,,
-2003,WLD,Total,9710432,,,,
-2004,WLD,Total,9452639,,,,
-2005,WLD,Total,8995825,,,,
-2006,WLD,Total,8617805,,,,
-2007,WLD,Total,8719024,,,,
-2008,WLD,Total,7924204,,,,
-2009,WLD,Total,8124732,,,,
-2010,WLD,Total,8218780,,,,
-2011,WLD,Total,8479949,,,,
-2012,WLD,Total,7820519,,,,
-2013,WLD,Total,7788204,,,,
-2014,WLD,Total,8198275,,,,
-2015,WLD,Total,8163391,,,,
-2016,WLD,Total,8074071,,,,
-2017,WLD,Total,7985762,,,,
-2018,WLD,Total,8422364,,,,
-2019,WLD,Total,8371461,,,,
-2000,WLD,Artisanal Fishing Gear,21730,,,,
-2000,WLD,Bag Nets,8684,,,,
-2000,WLD,Beam Trawl,236323,,,,
-2000,WLD,Bottom Trawl,3624874,,,,
-2000,WLD,Cast Nets,2384,,,,
-2000,WLD,Dragged Gear,8738,,,,
-2000,WLD,Dredge,196712,,,,
-2000,WLD,Gillnet,310796,,,,
-2000,WLD,Hand Lines,22168,,,,
-2000,WLD,Hand or Tools,44489,,,,
-2000,WLD,Harpoon,93,,,,
-2000,WLD,Lines,11129,,,,
-2000,WLD,Longline,329927,,,,
-2000,WLD,Mixed Gear,361930,,,,
-2000,WLD,Other,7810,,,,
-2000,WLD,Other Industrial,12551,,,,
-2000,WLD,Other Nets,23175,,,,
-2000,WLD,Otter Trawl,6357,,,,
-2000,WLD,Pelagic Trawl,2127974,,,,
-2000,WLD,Pole and Line,3333,,,,
-2000,WLD,Pots or Traps,8521,,,,
-2000,WLD,Purse Seine,1365693,,,,
-2000,WLD,Recreational Fishing Gear,3044,,,,
-2000,WLD,Shrimp Trawl,1101416,,,,
-2000,WLD,Small Scale Encircling Nets,38930,,,,
-2000,WLD,Small Scale Gillnets,279445,,,,
-2000,WLD,Small Scale Hand Lines,15583,,,,
-2000,WLD,Small Scale Lines,82363,,,,
-2000,WLD,Small Scale Longline,26055,,,,
-2000,WLD,Small Scale Other Nets,165594,,,,
-2000,WLD,Small Scale Pots or Traps,80971,,,,
-2000,WLD,Small Scale Purse Seine,39635,,,,
-2000,WLD,Small Scale Seine Nets,49695,,,,
-2000,WLD,Small Scale Trammel Net,41,,,,
-2000,WLD,Unknown by Author,159,,,,
-2000,WLD,Unknown by Source,1543,,,,
-2000,WLD,Unknown Class,229208,,,,
-2001,WLD,Artisanal Fishing Gear,22719,,,,
-2001,WLD,Bag Nets,9281,,,,
-2001,WLD,Beam Trawl,207731,,,,
-2001,WLD,Bottom Trawl,3568271,,,,
-2001,WLD,Cast Nets,2436,,,,
-2001,WLD,Dragged Gear,9855,,,,
-2001,WLD,Dredge,266765,,,,
-2001,WLD,Gillnet,305942,,,,
-2001,WLD,Hand Lines,21525,,,,
-2001,WLD,Hand or Tools,42228,,,,
-2001,WLD,Harpoon,89,,,,
-2001,WLD,Lines,10554,,,,
-2001,WLD,Longline,365428,,,,
-2001,WLD,Mixed Gear,318764,,,,
-2001,WLD,Other,6967,,,,
-2001,WLD,Other Industrial,13021,,,,
-2001,WLD,Other Nets,20359,,,,
-2001,WLD,Otter Trawl,5912,,,,
-2001,WLD,Pelagic Trawl,2130689,,,,
-2001,WLD,Pole and Line,3337,,,,
-2001,WLD,Pots or Traps,9190,,,,
-2001,WLD,Purse Seine,987582,,,,
-2001,WLD,Recreational Fishing Gear,3076,,,,
-2001,WLD,Shrimp Trawl,1036965,,,,
-2001,WLD,Small Scale Encircling Nets,39435,,,,
-2001,WLD,Small Scale Gillnets,284283,,,,
-2001,WLD,Small Scale Hand Lines,16994,,,,
-2001,WLD,Small Scale Lines,91654,,,,
-2001,WLD,Small Scale Longline,23987,,,,
-2001,WLD,Small Scale Other Nets,165107,,,,
-2001,WLD,Small Scale Pots or Traps,87150,,,,
-2001,WLD,Small Scale Purse Seine,40951,,,,
-2001,WLD,Small Scale Seine Nets,52511,,,,
-2001,WLD,Small Scale Trammel Net,43,,,,
-2001,WLD,Unknown by Author,157,,,,
-2001,WLD,Unknown by Source,1052,,,,
-2001,WLD,Unknown Class,250482,,,,
-2002,WLD,Artisanal Fishing Gear,23670,,,,
-2002,WLD,Bag Nets,11211,,,,
-2002,WLD,Beam Trawl,201660,,,,
-2002,WLD,Bottom Trawl,3493413,,,,
-2002,WLD,Cast Nets,1535,,,,
-2002,WLD,Dragged Gear,10377,,,,
-2002,WLD,Dredge,303333,,,,
-2002,WLD,Gillnet,285553,,,,
-2002,WLD,Hand Lines,22218,,,,
-2002,WLD,Hand or Tools,44036,,,,
-2002,WLD,Harpoon,27,,,,
-2002,WLD,Lines,10377,,,,
-2002,WLD,Longline,353022,,,,
-2002,WLD,Mixed Gear,295992,,,,
-2002,WLD,Other,6290,,,,
-2002,WLD,Other Industrial,13067,,,,
-2002,WLD,Other Nets,20802,,,,
-2002,WLD,Otter Trawl,6420,,,,
-2002,WLD,Pelagic Trawl,1576459,,,,
-2002,WLD,Pole and Line,3444,,,,
-2002,WLD,Pots or Traps,8825,,,,
-2002,WLD,Purse Seine,1113943,,,,
-2002,WLD,Recreational Fishing Gear,3309,,,,
-2002,WLD,Shrimp Trawl,981559,,,,
-2002,WLD,Small Scale Encircling Nets,41583,,,,
-2002,WLD,Small Scale Gillnets,280724,,,,
-2002,WLD,Small Scale Hand Lines,22450,,,,
-2002,WLD,Small Scale Lines,106774,,,,
-2002,WLD,Small Scale Longline,18517,,,,
-2002,WLD,Small Scale Other Nets,162271,,,,
-2002,WLD,Small Scale Pots or Traps,85377,,,,
-2002,WLD,Small Scale Purse Seine,38207,,,,
-2002,WLD,Small Scale Seine Nets,51837,,,,
-2002,WLD,Small Scale Trammel Net,40,,,,
-2002,WLD,Unknown by Author,161,,,,
-2002,WLD,Unknown by Source,2154,,,,
-2002,WLD,Unknown Class,281835,,,,
-2003,WLD,Artisanal Fishing Gear,21318,,,,
-2003,WLD,Bag Nets,12256,,,,
-2003,WLD,Beam Trawl,180659,,,,
-2003,WLD,Bottom Trawl,3248978,,,,
-2003,WLD,Cast Nets,3495,,,,
-2003,WLD,Dragged Gear,10215,,,,
-2003,WLD,Dredge,320964,,,,
-2003,WLD,Gillnet,250320,,,,
-2003,WLD,Hand Lines,20963,,,,
-2003,WLD,Hand or Tools,46837,,,,
-2003,WLD,Harpoon,20,,,,
-2003,WLD,Lines,11126,,,,
-2003,WLD,Longline,349657,,,,
-2003,WLD,Mixed Gear,278316,,,,
-2003,WLD,Other,6254,,,,
-2003,WLD,Other Industrial,13602,,,,
-2003,WLD,Other Nets,19705,,,,
-2003,WLD,Otter Trawl,5749,,,,
-2003,WLD,Pelagic Trawl,1899929,,,,
-2003,WLD,Pole and Line,3395,,,,
-2003,WLD,Pots or Traps,8776,,,,
-2003,WLD,Purse Seine,840899,,,,
-2003,WLD,Recreational Fishing Gear,3435,,,,
-2003,WLD,Shrimp Trawl,1109725,,,,
-2003,WLD,Small Scale Encircling Nets,44933,,,,
-2003,WLD,Small Scale Gillnets,275470,,,,
-2003,WLD,Small Scale Hand Lines,27630,,,,
-2003,WLD,Small Scale Lines,109678,,,,
-2003,WLD,Small Scale Longline,17702,,,,
-2003,WLD,Small Scale Other Nets,162876,,,,
-2003,WLD,Small Scale Pots or Traps,91932,,,,
-2003,WLD,Small Scale Purse Seine,41356,,,,
-2003,WLD,Small Scale Seine Nets,54241,,,,
-2003,WLD,Small Scale Trammel Net,45,,,,
-2003,WLD,Unknown by Author,144,,,,
-2003,WLD,Unknown by Source,2432,,,,
-2003,WLD,Unknown Class,215398,,,,
-2004,WLD,Artisanal Fishing Gear,21194,,,,
-2004,WLD,Bag Nets,8802,,,,
-2004,WLD,Beam Trawl,189651,,,,
-2004,WLD,Bottom Trawl,3155397,,,,
-2004,WLD,Cast Nets,3567,,,,
-2004,WLD,Dragged Gear,10957,,,,
-2004,WLD,Dredge,341260,,,,
-2004,WLD,Gillnet,231246,,,,
-2004,WLD,Hand Lines,22838,,,,
-2004,WLD,Hand or Tools,43424,,,,
-2004,WLD,Harpoon,14,,,,
-2004,WLD,Lines,10976,,,,
-2004,WLD,Longline,344450,,,,
-2004,WLD,Mixed Gear,265189,,,,
-2004,WLD,Other,6596,,,,
-2004,WLD,Other Industrial,14157,,,,
-2004,WLD,Other Nets,20588,,,,
-2004,WLD,Otter Trawl,5115,,,,
-2004,WLD,Pelagic Trawl,1552414,,,,
-2004,WLD,Pole and Line,3878,,,,
-2004,WLD,Pots or Traps,8553,,,,
-2004,WLD,Purse Seine,1216290,,,,
-2004,WLD,Recreational Fishing Gear,3294,,,,
-2004,WLD,Shrimp Trawl,957087,,,,
-2004,WLD,Small Scale Encircling Nets,44960,,,,
-2004,WLD,Small Scale Gillnets,275784,,,,
-2004,WLD,Small Scale Hand Lines,11764,,,,
-2004,WLD,Small Scale Lines,131556,,,,
-2004,WLD,Small Scale Longline,17120,,,,
-2004,WLD,Small Scale Other Nets,161021,,,,
-2004,WLD,Small Scale Pots or Traps,89014,,,,
-2004,WLD,Small Scale Purse Seine,38789,,,,
-2004,WLD,Small Scale Seine Nets,52729,,,,
-2004,WLD,Small Scale Trammel Net,47,,,,
-2004,WLD,Unknown by Author,139,,,,
-2004,WLD,Unknown by Source,2603,,,,
-2004,WLD,Unknown Class,190178,,,,
-2005,WLD,Artisanal Fishing Gear,20298,,,,
-2005,WLD,Bag Nets,10521,,,,
-2005,WLD,Beam Trawl,215002,,,,
-2005,WLD,Bottom Trawl,2851856,,,,
-2005,WLD,Cast Nets,1449,,,,
-2005,WLD,Dragged Gear,12782,,,,
-2005,WLD,Dredge,297991,,,,
-2005,WLD,Gillnet,282124,,,,
-2005,WLD,Hand Lines,33941,,,,
-2005,WLD,Hand or Tools,41399,,,,
-2005,WLD,Harpoon,17,,,,
-2005,WLD,Lines,10883,,,,
-2005,WLD,Longline,308437,,,,
-2005,WLD,Mixed Gear,278201,,,,
-2005,WLD,Other,5678,,,,
-2005,WLD,Other Industrial,14542,,,,
-2005,WLD,Other Nets,19753,,,,
-2005,WLD,Otter Trawl,4683,,,,
-2005,WLD,Pelagic Trawl,1625040,,,,
-2005,WLD,Pole and Line,3608,,,,
-2005,WLD,Pots or Traps,7748,,,,
-2005,WLD,Purse Seine,1140410,,,,
-2005,WLD,Recreational Fishing Gear,3832,,,,
-2005,WLD,Shrimp Trawl,848696,,,,
-2005,WLD,Small Scale Encircling Nets,45622,,,,
-2005,WLD,Small Scale Gillnets,281057,,,,
-2005,WLD,Small Scale Hand Lines,11862,,,,
-2005,WLD,Small Scale Lines,140739,,,,
-2005,WLD,Small Scale Longline,16186,,,,
-2005,WLD,Small Scale Other Nets,79145,,,,
-2005,WLD,Small Scale Pots or Traps,90538,,,,
-2005,WLD,Small Scale Purse Seine,36906,,,,
-2005,WLD,Small Scale Seine Nets,51540,,,,
-2005,WLD,Small Scale Trammel Net,45,,,,
-2005,WLD,Unknown by Author,132,,,,
-2005,WLD,Unknown by Source,3294,,,,
-2005,WLD,Unknown Class,199866,,,,
-2006,WLD,Artisanal Fishing Gear,21688,,,,
-2006,WLD,Bag Nets,12336,,,,
-2006,WLD,Beam Trawl,225409,,,,
-2006,WLD,Bottom Trawl,2779919,,,,
-2006,WLD,Cast Nets,1788,,,,
-2006,WLD,Dragged Gear,13437,,,,
-2006,WLD,Dredge,293603,,,,
-2006,WLD,Gillnet,251604,,,,
-2006,WLD,Hand Lines,29653,,,,
-2006,WLD,Hand or Tools,42204,,,,
-2006,WLD,Harpoon,26,,,,
-2006,WLD,Lines,11053,,,,
-2006,WLD,Longline,304698,,,,
-2006,WLD,Mixed Gear,248361,,,,
-2006,WLD,Other,5271,,,,
-2006,WLD,Other Industrial,15171,,,,
-2006,WLD,Other Nets,18717,,,,
-2006,WLD,Otter Trawl,4974,,,,
-2006,WLD,Pelagic Trawl,1631179,,,,
-2006,WLD,Pole and Line,3524,,,,
-2006,WLD,Pots or Traps,9246,,,,
-2006,WLD,Purse Seine,815293,,,,
-2006,WLD,Recreational Fishing Gear,3969,,,,
-2006,WLD,Shrimp Trawl,941216,,,,
-2006,WLD,Small Scale Encircling Nets,43152,,,,
-2006,WLD,Small Scale Gillnets,280946,,,,
-2006,WLD,Small Scale Hand Lines,10651,,,,
-2006,WLD,Small Scale Lines,165087,,,,
-2006,WLD,Small Scale Longline,14764,,,,
-2006,WLD,Small Scale Other Nets,49099,,,,
-2006,WLD,Small Scale Pots or Traps,82467,,,,
-2006,WLD,Small Scale Purse Seine,32377,,,,
-2006,WLD,Small Scale Seine Nets,50071,,,,
-2006,WLD,Small Scale Trammel Net,34,,,,
-2006,WLD,Unknown by Author,134,,,,
-2006,WLD,Unknown by Source,2232,,,,
-2006,WLD,Unknown Class,202447,,,,
-2007,WLD,Artisanal Fishing Gear,20858,,,,
-2007,WLD,Bag Nets,12807,,,,
-2007,WLD,Beam Trawl,196841,,,,
-2007,WLD,Bottom Trawl,2754693,,,,
-2007,WLD,Cast Nets,4274,,,,
-2007,WLD,Dragged Gear,13370,,,,
-2007,WLD,Dredge,276990,,,,
-2007,WLD,Gillnet,270174,,,,
-2007,WLD,Hand Lines,25499,,,,
-2007,WLD,Hand or Tools,39550,,,,
-2007,WLD,Harpoon,23,,,,
-2007,WLD,Lines,11598,,,,
-2007,WLD,Longline,281708,,,,
-2007,WLD,Mixed Gear,259353,,,,
-2007,WLD,Other,5788,,,,
-2007,WLD,Other Industrial,15855,,,,
-2007,WLD,Other Nets,20917,,,,
-2007,WLD,Otter Trawl,5519,,,,
-2007,WLD,Pelagic Trawl,1858811,,,,
-2007,WLD,Pole and Line,3866,,,,
-2007,WLD,Pots or Traps,8195,,,,
-2007,WLD,Purse Seine,823828,,,,
-2007,WLD,Recreational Fishing Gear,4363,,,,
-2007,WLD,Shrimp Trawl,898465,,,,
-2007,WLD,Small Scale Encircling Nets,36138,,,,
-2007,WLD,Small Scale Gillnets,275010,,,,
-2007,WLD,Small Scale Hand Lines,10302,,,,
-2007,WLD,Small Scale Lines,167810,,,,
-2007,WLD,Small Scale Longline,12773,,,,
-2007,WLD,Small Scale Other Nets,47552,,,,
-2007,WLD,Small Scale Pots or Traps,82816,,,,
-2007,WLD,Small Scale Purse Seine,31452,,,,
-2007,WLD,Small Scale Seine Nets,47665,,,,
-2007,WLD,Small Scale Trammel Net,35,,,,
-2007,WLD,Unknown by Author,124,,,,
-2007,WLD,Unknown by Source,1529,,,,
-2007,WLD,Unknown Class,192474,,,,
-2008,WLD,Artisanal Fishing Gear,21736,,,,
-2008,WLD,Bag Nets,11191,,,,
-2008,WLD,Beam Trawl,193776,,,,
-2008,WLD,Bottom Trawl,2595412,,,,
-2008,WLD,Cast Nets,3889,,,,
-2008,WLD,Dragged Gear,11818,,,,
-2008,WLD,Dredge,246102,,,,
-2008,WLD,Gillnet,272713,,,,
-2008,WLD,Hand Lines,26239,,,,
-2008,WLD,Hand or Tools,42889,,,,
-2008,WLD,Harpoon,18,,,,
-2008,WLD,Lines,11911,,,,
-2008,WLD,Longline,277748,,,,
-2008,WLD,Mixed Gear,154434,,,,
-2008,WLD,Other,5428,,,,
-2008,WLD,Other Industrial,16593,,,,
-2008,WLD,Other Nets,20480,,,,
-2008,WLD,Otter Trawl,5123,,,,
-2008,WLD,Pelagic Trawl,1406977,,,,
-2008,WLD,Pole and Line,3842,,,,
-2008,WLD,Pots or Traps,9502,,,,
-2008,WLD,Purse Seine,869804,,,,
-2008,WLD,Recreational Fishing Gear,4880,,,,
-2008,WLD,Shrimp Trawl,790013,,,,
-2008,WLD,Small Scale Encircling Nets,36330,,,,
-2008,WLD,Small Scale Gillnets,268216,,,,
-2008,WLD,Small Scale Hand Lines,10590,,,,
-2008,WLD,Small Scale Lines,189361,,,,
-2008,WLD,Small Scale Longline,11836,,,,
-2008,WLD,Small Scale Other Nets,47105,,,,
-2008,WLD,Small Scale Pots or Traps,81048,,,,
-2008,WLD,Small Scale Purse Seine,32897,,,,
-2008,WLD,Small Scale Seine Nets,50788,,,,
-2008,WLD,Small Scale Trammel Net,52,,,,
-2008,WLD,Unknown by Author,131,,,,
-2008,WLD,Unknown by Source,2164,,,,
-2008,WLD,Unknown Class,191171,,,,
-2009,WLD,Artisanal Fishing Gear,20447,,,,
-2009,WLD,Bag Nets,11691,,,,
-2009,WLD,Beam Trawl,192629,,,,
-2009,WLD,Bottom Trawl,2582058,,,,
-2009,WLD,Cast Nets,3592,,,,
-2009,WLD,Dragged Gear,11402,,,,
-2009,WLD,Dredge,247690,,,,
-2009,WLD,Gillnet,177286,,,,
-2009,WLD,Hand Lines,25571,,,,
-2009,WLD,Hand or Tools,42132,,,,
-2009,WLD,Harpoon,21,,,,
-2009,WLD,Lines,12666,,,,
-2009,WLD,Longline,305677,,,,
-2009,WLD,Mixed Gear,172082,,,,
-2009,WLD,Other,5961,,,,
-2009,WLD,Other Industrial,17265,,,,
-2009,WLD,Other Nets,18538,,,,
-2009,WLD,Otter Trawl,4710,,,,
-2009,WLD,Pelagic Trawl,1392382,,,,
-2009,WLD,Pole and Line,3778,,,,
-2009,WLD,Pots or Traps,9040,,,,
-2009,WLD,Purse Seine,1109450,,,,
-2009,WLD,Recreational Fishing Gear,4640,,,,
-2009,WLD,Shrimp Trawl,851097,,,,
-2009,WLD,Small Scale Encircling Nets,37127,,,,
-2009,WLD,Small Scale Gillnets,265868,,,,
-2009,WLD,Small Scale Hand Lines,11042,,,,
-2009,WLD,Small Scale Lines,165670,,,,
-2009,WLD,Small Scale Longline,13225,,,,
-2009,WLD,Small Scale Other Nets,46821,,,,
-2009,WLD,Small Scale Pots or Traps,78840,,,,
-2009,WLD,Small Scale Purse Seine,29114,,,,
-2009,WLD,Small Scale Seine Nets,47957,,,,
-2009,WLD,Small Scale Trammel Net,56,,,,
-2009,WLD,Unknown by Author,136,,,,
-2009,WLD,Unknown by Source,1753,,,,
-2009,WLD,Unknown Class,205315,,,,
-2010,WLD,Artisanal Fishing Gear,20720,,,,
-2010,WLD,Bag Nets,12533,,,,
-2010,WLD,Beam Trawl,202620,,,,
-2010,WLD,Bottom Trawl,2682588,,,,
-2010,WLD,Cast Nets,3808,,,,
-2010,WLD,Dragged Gear,12210,,,,
-2010,WLD,Dredge,235871,,,,
-2010,WLD,Gillnet,292839,,,,
-2010,WLD,Hand Lines,22645,,,,
-2010,WLD,Hand or Tools,42325,,,,
-2010,WLD,Harpoon,20,,,,
-2010,WLD,Lines,10726,,,,
-2010,WLD,Longline,285581,,,,
-2010,WLD,Mixed Gear,180800,,,,
-2010,WLD,Other,5822,,,,
-2010,WLD,Other Industrial,17926,,,,
-2010,WLD,Other Nets,18435,,,,
-2010,WLD,Otter Trawl,4487,,,,
-2010,WLD,Pelagic Trawl,1566013,,,,
-2010,WLD,Pole and Line,3466,,,,
-2010,WLD,Pots or Traps,5844,,,,
-2010,WLD,Purse Seine,841722,,,,
-2010,WLD,Recreational Fishing Gear,5035,,,,
-2010,WLD,Shrimp Trawl,812174,,,,
-2010,WLD,Small Scale Encircling Nets,34237,,,,
-2010,WLD,Small Scale Gillnets,258361,,,,
-2010,WLD,Small Scale Hand Lines,9971,,,,
-2010,WLD,Small Scale Lines,153336,,,,
-2010,WLD,Small Scale Longline,13329,,,,
-2010,WLD,Small Scale Other Nets,47701,,,,
-2010,WLD,Small Scale Pots or Traps,80378,,,,
-2010,WLD,Small Scale Purse Seine,31154,,,,
-2010,WLD,Small Scale Seine Nets,49092,,,,
-2010,WLD,Small Scale Trammel Net,38,,,,
-2010,WLD,Unknown by Author,68,,,,
-2010,WLD,Unknown by Source,1006,,,,
-2010,WLD,Unknown Class,253899,,,,
-2011,WLD,Artisanal Fishing Gear,20808,,,,
-2011,WLD,Bag Nets,13097,,,,
-2011,WLD,Beam Trawl,215362,,,,
-2011,WLD,Bottom Trawl,2692397,,,,
-2011,WLD,Cast Nets,3999,,,,
-2011,WLD,Dragged Gear,5812,,,,
-2011,WLD,Dredge,228009,,,,
-2011,WLD,Encircling Nets,1,,,,
-2011,WLD,Gillnet,292827,,,,
-2011,WLD,Hand Lines,14795,,,,
-2011,WLD,Hand or Tools,42333,,,,
-2011,WLD,Harpoon,45,,,,
-2011,WLD,Lines,12846,,,,
-2011,WLD,Longline,287371,,,,
-2011,WLD,Mixed Gear,299066,,,,
-2011,WLD,Other,4918,,,,
-2011,WLD,Other Industrial,20919,,,,
-2011,WLD,Other Nets,17020,,,,
-2011,WLD,Otter Trawl,6062,,,,
-2011,WLD,Pelagic Trawl,1374991,,,,
-2011,WLD,Pole and Line,3866,,,,
-2011,WLD,Pots or Traps,3824,,,,
-2011,WLD,Purse Seine,1100303,,,,
-2011,WLD,Recreational Fishing Gear,5298,,,,
-2011,WLD,Shrimp Trawl,918032,,,,
-2011,WLD,Small Scale Encircling Nets,35843,,,,
-2011,WLD,Small Scale Gillnets,270309,,,,
-2011,WLD,Small Scale Hand Lines,10231,,,,
-2011,WLD,Small Scale Lines,160981,,,,
-2011,WLD,Small Scale Longline,13303,,,,
-2011,WLD,Small Scale Other Nets,47130,,,,
-2011,WLD,Small Scale pole Lines,54,,,,
-2011,WLD,Small Scale Pots or Traps,81188,,,,
-2011,WLD,Small Scale Purse Seine,33685,,,,
-2011,WLD,Small Scale Seine Nets,44514,,,,
-2011,WLD,Small Scale Trammel Net,41,,,,
-2011,WLD,subsistence Fishing Gear,1,,,,
-2011,WLD,Unknown by Author,71,,,,
-2011,WLD,Unknown by Source,958,,,,
-2011,WLD,Unknown Class,197638,,,,
-2012,WLD,Artisanal Fishing Gear,22167,,,,
-2012,WLD,Bag Nets,12039,,,,
-2012,WLD,Beam Trawl,195296,,,,
-2012,WLD,Bottom Trawl,2469019,,,,
-2012,WLD,Cast Nets,4181,,,,
-2012,WLD,Dragged Gear,4915,,,,
-2012,WLD,Dredge,222153,,,,
-2012,WLD,Encircling Nets,1,,,,
-2012,WLD,Gillnet,280909,,,,
-2012,WLD,Hand Lines,8306,,,,
-2012,WLD,Hand or Tools,41461,,,,
-2012,WLD,Harpoon,18,,,,
-2012,WLD,Lines,10613,,,,
-2012,WLD,Longline,310667,,,,
-2012,WLD,Mixed Gear,308721,,,,
-2012,WLD,Other,5109,,,,
-2012,WLD,Other Industrial,4317,,,,
-2012,WLD,Other Nets,15949,,,,
-2012,WLD,Otter Trawl,5190,,,,
-2012,WLD,Pelagic Trawl,1362412,,,,
-2012,WLD,Pole and Line,3773,,,,
-2012,WLD,Pots or Traps,11236,,,,
-2012,WLD,Purse Seine,754395,,,,
-2012,WLD,Recreational Fishing Gear,5762,,,,
-2012,WLD,Shrimp Trawl,825090,,,,
-2012,WLD,Small Scale Encircling Nets,35295,,,,
-2012,WLD,Small Scale Gillnets,289456,,,,
-2012,WLD,Small Scale Hand Lines,10428,,,,
-2012,WLD,Small Scale Lines,193393,,,,
-2012,WLD,Small Scale Longline,14516,,,,
-2012,WLD,Small Scale Other Nets,47514,,,,
-2012,WLD,Small Scale pole Lines,46,,,,
-2012,WLD,Small Scale Pots or Traps,79717,,,,
-2012,WLD,Small Scale Purse Seine,32558,,,,
-2012,WLD,Small Scale Seine Nets,44253,,,,
-2012,WLD,Small Scale Trammel Net,42,,,,
-2012,WLD,subsistence Fishing Gear,2,,,,
-2012,WLD,Unknown by Author,66,,,,
-2012,WLD,Unknown by Source,395,,,,
-2012,WLD,Unknown Class,189141,,,,
-2013,WLD,Artisanal Fishing Gear,20022,,,,
-2013,WLD,Bag Nets,12628,,,,
-2013,WLD,Beam Trawl,190400,,,,
-2013,WLD,Bottom Trawl,2489250,,,,
-2013,WLD,Cast Nets,4247,,,,
-2013,WLD,Dragged Gear,5476,,,,
-2013,WLD,Dredge,165070,,,,
-2013,WLD,Encircling Nets,1,,,,
-2013,WLD,Gillnet,285527,,,,
-2013,WLD,Hand Lines,16189,,,,
-2013,WLD,Hand or Tools,41426,,,,
-2013,WLD,Harpoon,29,,,,
-2013,WLD,Lines,12523,,,,
-2013,WLD,Longline,299315,,,,
-2013,WLD,Mixed Gear,323682,,,,
-2013,WLD,Other,4891,,,,
-2013,WLD,Other Industrial,14829,,,,
-2013,WLD,Other Nets,15462,,,,
-2013,WLD,Otter Trawl,4698,,,,
-2013,WLD,Pelagic Trawl,1320351,,,,
-2013,WLD,Pole and Line,3470,,,,
-2013,WLD,Pots or Traps,5427,,,,
-2013,WLD,Purse Seine,883554,,,,
-2013,WLD,Recreational Fishing Gear,6228,,,,
-2013,WLD,Shrimp Trawl,789380,,,,
-2013,WLD,Small Scale Encircling Nets,32650,,,,
-2013,WLD,Small Scale Gillnets,261022,,,,
-2013,WLD,Small Scale Hand Lines,10295,,,,
-2013,WLD,Small Scale Lines,187198,,,,
-2013,WLD,Small Scale Longline,14373,,,,
-2013,WLD,Small Scale Other Nets,47255,,,,
-2013,WLD,Small Scale pole Lines,45,,,,
-2013,WLD,Small Scale Pots or Traps,79728,,,,
-2013,WLD,Small Scale Purse Seine,32634,,,,
-2013,WLD,Small Scale Seine Nets,42979,,,,
-2013,WLD,Small Scale Trammel Net,82,,,,
-2013,WLD,subsistence Fishing Gear,3,,,,
-2013,WLD,Unknown by Author,71,,,,
-2013,WLD,Unknown by Source,410,,,,
-2013,WLD,Unknown Class,165382,,,,
-2014,WLD,Artisanal Fishing Gear,20920,,,,
-2014,WLD,Bag Nets,12847,,,,
-2014,WLD,Beam Trawl,191663,,,,
-2014,WLD,Bottom Trawl,2919589,,,,
-2014,WLD,Cast Nets,4516,,,,
-2014,WLD,Dragged Gear,4986,,,,
-2014,WLD,Dredge,131592,,,,
-2014,WLD,Encircling Nets,1,,,,
-2014,WLD,Gillnet,404899,,,,
-2014,WLD,Hand Lines,11991,,,,
-2014,WLD,Hand or Tools,41172,,,,
-2014,WLD,Harpoon,24,,,,
-2014,WLD,Lines,14112,,,,
-2014,WLD,Longline,320260,,,,
-2014,WLD,Mixed Gear,348835,,,,
-2014,WLD,Other,4874,,,,
-2014,WLD,Other Industrial,26749,,,,
-2014,WLD,Other Nets,14328,,,,
-2014,WLD,Otter Trawl,5511,,,,
-2014,WLD,Pelagic Trawl,1315579,,,,
-2014,WLD,Pole and Line,2202,,,,
-2014,WLD,Pots or Traps,6327,,,,
-2014,WLD,Purse Seine,676353,,,,
-2014,WLD,Recreational Fishing Gear,6524,,,,
-2014,WLD,Shrimp Trawl,776543,,,,
-2014,WLD,Small Scale Encircling Nets,35112,,,,
-2014,WLD,Small Scale Gillnets,284362,,,,
-2014,WLD,Small Scale Hand Lines,10368,,,,
-2014,WLD,Small Scale Lines,169477,,,,
-2014,WLD,Small Scale Longline,15516,,,,
-2014,WLD,Small Scale Other Nets,47366,,,,
-2014,WLD,Small Scale pole Lines,47,,,,
-2014,WLD,Small Scale Pots or Traps,83475,,,,
-2014,WLD,Small Scale Purse Seine,32280,,,,
-2014,WLD,Small Scale Seine Nets,42663,,,,
-2014,WLD,Small Scale Trammel Net,44,,,,
-2014,WLD,subsistence Fishing Gear,4,,,,
-2014,WLD,Unknown by Author,78,,,,
-2014,WLD,Unknown by Source,342,,,,
-2014,WLD,Unknown Class,214742,,,,
-2015,WLD,Artisanal Fishing Gear,22420,,,,
-2015,WLD,Bag Nets,11221,,,,
-2015,WLD,Beam Trawl,189449,,,,
-2015,WLD,Bottom Trawl,2770656,,,,
-2015,WLD,Cast Nets,3940,,,,
-2015,WLD,Dragged Gear,12765,,,,
-2015,WLD,Dredge,136804,,,,
-2015,WLD,Encircling Nets,1,,,,
-2015,WLD,Gillnet,286351,,,,
-2015,WLD,Hand Lines,10930,,,,
-2015,WLD,Hand or Tools,41341,,,,
-2015,WLD,Harpoon,23,,,,
-2015,WLD,Lines,14785,,,,
-2015,WLD,Longline,286555,,,,
-2015,WLD,Mixed Gear,362256,,,,
-2015,WLD,Other,4334,,,,
-2015,WLD,Other Industrial,28230,,,,
-2015,WLD,Other Nets,14841,,,,
-2015,WLD,Otter Trawl,4930,,,,
-2015,WLD,Pelagic Trawl,1329074,,,,
-2015,WLD,Pole and Line,1829,,,,
-2015,WLD,Pots or Traps,4839,,,,
-2015,WLD,Purse Seine,733415,,,,
-2015,WLD,Recreational Fishing Gear,7151,,,,
-2015,WLD,Shrimp Trawl,933748,,,,
-2015,WLD,Small Scale Encircling Nets,30452,,,,
-2015,WLD,Small Scale Gillnets,276668,,,,
-2015,WLD,Small Scale Hand Lines,10306,,,,
-2015,WLD,Small Scale Lines,215442,,,,
-2015,WLD,Small Scale Longline,20637,,,,
-2015,WLD,Small Scale Other Nets,22958,,,,
-2015,WLD,Small Scale pole Lines,34,,,,
-2015,WLD,Small Scale Pots or Traps,80160,,,,
-2015,WLD,Small Scale Purse Seine,31900,,,,
-2015,WLD,Small Scale Seine Nets,38601,,,,
-2015,WLD,Small Scale Trammel Net,95,,,,
-2015,WLD,subsistence Fishing Gear,2,,,,
-2015,WLD,Unknown by Author,76,,,,
-2015,WLD,Unknown by Source,102,,,,
-2015,WLD,Unknown Class,224070,,,,
-2016,WLD,Artisanal Fishing Gear,22208,,,,
-2016,WLD,Bag Nets,11825,,,,
-2016,WLD,Beam Trawl,163145,,,,
-2016,WLD,Bottom Trawl,2796783,,,,
-2016,WLD,Cast Nets,4244,,,,
-2016,WLD,Dragged Gear,12502,,,,
-2016,WLD,Dredge,144721,,,,
-2016,WLD,Encircling Nets,1,,,,
-2016,WLD,Gillnet,194450,,,,
-2016,WLD,Hand Lines,10639,,,,
-2016,WLD,Hand or Tools,41113,,,,
-2016,WLD,Harpoon,24,,,,
-2016,WLD,Lines,14289,,,,
-2016,WLD,Longline,256820,,,,
-2016,WLD,Mixed Gear,375117,,,,
-2016,WLD,Other,4187,,,,
-2016,WLD,Other Industrial,28222,,,,
-2016,WLD,Other Nets,13873,,,,
-2016,WLD,Otter Trawl,5246,,,,
-2016,WLD,Pelagic Trawl,1408957,,,,
-2016,WLD,Pole and Line,1751,,,,
-2016,WLD,Pots or Traps,4556,,,,
-2016,WLD,Purse Seine,668038,,,,
-2016,WLD,Recreational Fishing Gear,7603,,,,
-2016,WLD,Shrimp Trawl,968488,,,,
-2016,WLD,Small Scale Encircling Nets,29419,,,,
-2016,WLD,Small Scale Gillnets,278071,,,,
-2016,WLD,Small Scale Hand Lines,10189,,,,
-2016,WLD,Small Scale Lines,195038,,,,
-2016,WLD,Small Scale Longline,19235,,,,
-2016,WLD,Small Scale Other Nets,22320,,,,
-2016,WLD,Small Scale pole Lines,8,,,,
-2016,WLD,Small Scale Pots or Traps,79989,,,,
-2016,WLD,Small Scale Purse Seine,31405,,,,
-2016,WLD,Small Scale Seine Nets,37201,,,,
-2016,WLD,Small Scale Trammel Net,108,,,,
-2016,WLD,subsistence Fishing Gear,3,,,,
-2016,WLD,Unknown by Author,71,,,,
-2016,WLD,Unknown by Source,504,,,,
-2016,WLD,Unknown Class,211706,,,,
-2017,WLD,Artisanal Fishing Gear,21770,,,,
-2017,WLD,Bag Nets,11327,,,,
-2017,WLD,Beam Trawl,153244,,,,
-2017,WLD,Bottom Trawl,2886952,,,,
-2017,WLD,Cast Nets,4082,,,,
-2017,WLD,Dragged Gear,12282,,,,
-2017,WLD,Dredge,74107,,,,
-2017,WLD,Encircling Nets,1,,,,
-2017,WLD,Gillnet,245256,,,,
-2017,WLD,Hand Lines,12284,,,,
-2017,WLD,Hand or Tools,37988,,,,
-2017,WLD,Harpoon,31,,,,
-2017,WLD,Lines,12746,,,,
-2017,WLD,Longline,253686,,,,
-2017,WLD,Mixed Gear,385923,,,,
-2017,WLD,Other,3892,,,,
-2017,WLD,Other Industrial,28232,,,,
-2017,WLD,Other Nets,12710,,,,
-2017,WLD,Otter Trawl,4912,,,,
-2017,WLD,Pelagic Trawl,1443121,,,,
-2017,WLD,Pole and Line,1766,,,,
-2017,WLD,Pots or Traps,5816,,,,
-2017,WLD,Purse Seine,605158,,,,
-2017,WLD,Recreational Fishing Gear,6429,,,,
-2017,WLD,Shrimp Trawl,840709,,,,
-2017,WLD,Small Scale Encircling Nets,30484,,,,
-2017,WLD,Small Scale Gillnets,287315,,,,
-2017,WLD,Small Scale Hand Lines,9703,,,,
-2017,WLD,Small Scale Lines,195365,,,,
-2017,WLD,Small Scale Longline,17976,,,,
-2017,WLD,Small Scale Other Nets,21666,,,,
-2017,WLD,Small Scale pole Lines,20,,,,
-2017,WLD,Small Scale Pots or Traps,78127,,,,
-2017,WLD,Small Scale Purse Seine,28760,,,,
-2017,WLD,Small Scale Seine Nets,36457,,,,
-2017,WLD,Small Scale Trammel Net,96,,,,
-2017,WLD,subsistence Fishing Gear,3,,,,
-2017,WLD,Unknown by Author,76,,,,
-2017,WLD,Unknown by Source,425,,,,
-2017,WLD,Unknown Class,214863,,,,
-2018,WLD,Artisanal Fishing Gear,20359,,,,
-2018,WLD,Bag Nets,12709,,,,
-2018,WLD,Beam Trawl,148222,,,,
-2018,WLD,Bottom Trawl,2980126,,,,
-2018,WLD,Cast Nets,4573,,,,
-2018,WLD,Dragged Gear,3457,,,,
-2018,WLD,Dredge,70778,,,,
-2018,WLD,Encircling Nets,0,,,,
-2018,WLD,Gillnet,265415,,,,
-2018,WLD,Hand Lines,12186,,,,
-2018,WLD,Hand or Tools,39902,,,,
-2018,WLD,Harpoon,27,,,,
-2018,WLD,Lines,13330,,,,
-2018,WLD,Longline,265613,,,,
-2018,WLD,Mixed Gear,426509,,,,
-2018,WLD,Other,4183,,,,
-2018,WLD,Other Industrial,28232,,,,
-2018,WLD,Other Nets,10384,,,,
-2018,WLD,Otter Trawl,5693,,,,
-2018,WLD,Pelagic Trawl,1577097,,,,
-2018,WLD,Pole and Line,2142,,,,
-2018,WLD,Pots or Traps,5641,,,,
-2018,WLD,Purse Seine,784459,,,,
-2018,WLD,Recreational Fishing Gear,5384,,,,
-2018,WLD,Shrimp Trawl,775350,,,,
-2018,WLD,Small Scale Encircling Nets,35247,,,,
-2018,WLD,Small Scale Gillnets,303388,,,,
-2018,WLD,Small Scale Hand Lines,9656,,,,
-2018,WLD,Small Scale Lines,211190,,,,
-2018,WLD,Small Scale Longline,16877,,,,
-2018,WLD,Small Scale Other Nets,33527,,,,
-2018,WLD,Small Scale pole Lines,42,,,,
-2018,WLD,Small Scale Pots or Traps,86600,,,,
-2018,WLD,Small Scale Purse Seine,29499,,,,
-2018,WLD,Small Scale Seine Nets,38410,,,,
-2018,WLD,Small Scale Trammel Net,107,,,,
-2018,WLD,subsistence Fishing Gear,2,,,,
-2018,WLD,Unknown by Author,78,,,,
-2018,WLD,Unknown by Source,346,,,,
-2018,WLD,Unknown Class,195625,,,,
-2019,WLD,Artisanal Fishing Gear,19693,,,,
-2019,WLD,Bag Nets,12415,,,,
-2019,WLD,Beam Trawl,122910,,,,
-2019,WLD,Bottom Trawl,3022204,,,,
-2019,WLD,Cast Nets,4337,,,,
-2019,WLD,Dragged Gear,2530,,,,
-2019,WLD,Dredge,64605,,,,
-2019,WLD,Encircling Nets,0,,,,
-2019,WLD,Gillnet,259213,,,,
-2019,WLD,Hand Lines,11724,,,,
-2019,WLD,Hand or Tools,40934,,,,
-2019,WLD,Harpoon,29,,,,
-2019,WLD,Lines,13531,,,,
-2019,WLD,Longline,307485,,,,
-2019,WLD,Mixed Gear,427188,,,,
-2019,WLD,Other,3987,,,,
-2019,WLD,Other Industrial,28232,,,,
-2019,WLD,Other Nets,8551,,,,
-2019,WLD,Otter Trawl,5767,,,,
-2019,WLD,Pelagic Trawl,1551521,,,,
-2019,WLD,Pole and Line,2118,,,,
-2019,WLD,Pots or Traps,4790,,,,
-2019,WLD,Purse Seine,669040,,,,
-2019,WLD,Recreational Fishing Gear,6137,,,,
-2019,WLD,Shrimp Trawl,859985,,,,
-2019,WLD,Small Scale Encircling Nets,35027,,,,
-2019,WLD,Small Scale Gillnets,299354,,,,
-2019,WLD,Small Scale Hand Lines,10040,,,,
-2019,WLD,Small Scale Lines,200231,,,,
-2019,WLD,Small Scale Longline,16630,,,,
-2019,WLD,Small Scale Other Nets,29342,,,,
-2019,WLD,Small Scale pole Lines,42,,,,
-2019,WLD,Small Scale Pots or Traps,87277,,,,
-2019,WLD,Small Scale Purse Seine,30278,,,,
-2019,WLD,Small Scale Seine Nets,37465,,,,
-2019,WLD,Small Scale Trammel Net,104,,,,
-2019,WLD,subsistence Fishing Gear,2,,,,
-2019,WLD,Unknown by Author,80,,,,
-2019,WLD,Unknown by Source,328,,,,
-2019,WLD,Unknown Class,176334,,,,
-2000,ABW,Total,10,,,,
-2001,ABW,Total,7,,,,
-2002,ABW,Total,8,,,,
-2003,ABW,Total,3,,,,
-2004,ABW,Total,3,,,,
-2005,ABW,Total,3,,,,
-2006,ABW,Total,3,,,,
-2007,ABW,Total,3,,,,
-2008,ABW,Total,3,,,,
-2009,ABW,Total,3,,,,
-2010,ABW,Total,3,,,,
-2011,ABW,Total,3,,,,
-2012,ABW,Total,3,,,,
-2013,ABW,Total,3,,,,
-2014,ABW,Total,3,,,,
-2015,ABW,Total,3,,,,
-2016,ABW,Total,3,,,,
-2017,ABW,Total,3,,,,
-2018,ABW,Total,3,,,,
-2019,ABW,Total,3,,,,
-2000,AGO,Total,33447,,,,
-2001,AGO,Total,46585,,,,
-2002,AGO,Total,31362,,,,
-2003,AGO,Total,30584,,,,
-2004,AGO,Total,34772,,,,
-2005,AGO,Total,42305,,,,
-2006,AGO,Total,47072,,,,
-2007,AGO,Total,53592,,,,
-2008,AGO,Total,38256,,,,
-2009,AGO,Total,41078,,,,
-2010,AGO,Total,36782,,,,
-2011,AGO,Total,43414,,,,
-2012,AGO,Total,45390,,,,
-2013,AGO,Total,46278,,,,
-2014,AGO,Total,54217,,,,
-2015,AGO,Total,41395,,,,
-2016,AGO,Total,42774,,,,
-2017,AGO,Total,40655,,,,
-2018,AGO,Total,49530,,,,
-2019,AGO,Total,47385,,,,
-2000,ALB,Total,722,,,,
-2001,ALB,Total,516,,,,
-2002,ALB,Total,719,,,,
-2003,ALB,Total,342,,,,
-2004,ALB,Total,793,,,,
-2005,ALB,Total,868,,,,
-2006,ALB,Total,1011,,,,
-2007,ALB,Total,899,,,,
-2008,ALB,Total,1045,,,,
-2009,ALB,Total,1145,,,,
-2010,ALB,Total,959,,,,
-2011,ALB,Total,933,,,,
-2012,ALB,Total,2203,,,,
-2013,ALB,Total,2294,,,,
-2014,ALB,Total,1871,,,,
-2015,ALB,Total,1773,,,,
-2016,ALB,Total,1655,,,,
-2017,ALB,Total,1649,,,,
-2018,ALB,Total,1931,,,,
-2019,ALB,Total,1809,,,,
-2000,ARE,Total,470,,,,
-2001,ARE,Total,938,,,,
-2002,ARE,Total,866,,,,
-2003,ARE,Total,906,,,,
-2004,ARE,Total,809,,,,
-2005,ARE,Total,762,,,,
-2006,ARE,Total,815,,,,
-2007,ARE,Total,375,,,,
-2008,ARE,Total,379,,,,
-2009,ARE,Total,573,,,,
-2010,ARE,Total,466,,,,
-2011,ARE,Total,453,,,,
-2012,ARE,Total,440,,,,
-2013,ARE,Total,411,,,,
-2014,ARE,Total,424,,,,
-2015,ARE,Total,438,,,,
-2016,ARE,Total,442,,,,
-2017,ARE,Total,439,,,,
-2018,ARE,Total,467,,,,
-2019,ARE,Total,506,,,,
-2000,ARG,Total,128086,,,,
-2001,ARG,Total,137678,,,,
-2002,ARG,Total,111121,,,,
-2003,ARG,Total,114879,,,,
-2004,ARG,Total,114258,,,,
-2005,ARG,Total,102311,,,,
-2006,ARG,Total,112323,,,,
-2007,ARG,Total,100996,,,,
-2008,ARG,Total,112809,,,,
-2009,ARG,Total,107435,,,,
-2010,ARG,Total,75321,,,,
-2011,ARG,Total,68429,,,,
-2012,ARG,Total,67240,,,,
-2013,ARG,Total,79936,,,,
-2014,ARG,Total,78217,,,,
-2015,ARG,Total,78876,,,,
-2016,ARG,Total,73769,,,,
-2017,ARG,Total,77116,,,,
-2018,ARG,Total,87842,,,,
-2019,ARG,Total,87112,,,,
-2000,ASM,Total,126,,,,
-2001,ASM,Total,1086,,,,
-2002,ASM,Total,2302,,,,
-2003,ASM,Total,1375,,,,
-2004,ASM,Total,980,,,,
-2005,ASM,Total,915,,,,
-2006,ASM,Total,1054,,,,
-2007,ASM,Total,1356,,,,
-2008,ASM,Total,760,,,,
-2009,ASM,Total,1137,,,,
-2010,ASM,Total,1153,,,,
-2011,ASM,Total,1201,,,,
-2012,ASM,Total,1586,,,,
-2013,ASM,Total,835,,,,
-2014,ASM,Total,626,,,,
-2015,ASM,Total,865,,,,
-2016,ASM,Total,897,,,,
-2017,ASM,Total,1144,,,,
-2018,ASM,Total,840,,,,
-2000,AUS,Total,92091,,,,
-2001,AUS,Total,109548,,,,
-2002,AUS,Total,48297,,,,
-2003,AUS,Total,45251,,,,
-2004,AUS,Total,39009,,,,
-2005,AUS,Total,32283,,,,
-2006,AUS,Total,31252,,,,
-2007,AUS,Total,22970,,,,
-2008,AUS,Total,24146,,,,
-2009,AUS,Total,24285,,,,
-2010,AUS,Total,23785,,,,
-2011,AUS,Total,21902,,,,
-2012,AUS,Total,19818,,,,
-2013,AUS,Total,19117,,,,
-2014,AUS,Total,18640,,,,
-2015,AUS,Total,19582,,,,
-2016,AUS,Total,22445,,,,
-2017,AUS,Total,21606,,,,
-2018,AUS,Total,21363,,,,
-2019,AUS,Total,18961,,,,
-2000,BEL,Total,11333,,,,
-2001,BEL,Total,12542,,,,
-2002,BEL,Total,9469,,,,
-2003,BEL,Total,11275,,,,
-2004,BEL,Total,9229,,,,
-2005,BEL,Total,9465,,,,
-2006,BEL,Total,7894,,,,
-2007,BEL,Total,7083,,,,
-2008,BEL,Total,9054,,,,
-2009,BEL,Total,11261,,,,
-2010,BEL,Total,12073,,,,
-2011,BEL,Total,8160,,,,
-2012,BEL,Total,8981,,,,
-2013,BEL,Total,10615,,,,
-2014,BEL,Total,11228,,,,
-2015,BEL,Total,12808,,,,
-2016,BEL,Total,15924,,,,
-2017,BEL,Total,13721,,,,
-2018,BEL,Total,12143,,,,
-2019,BEL,Total,11114,,,,
-2000,BGD,Total,85781,,,,
-2001,BGD,Total,83324,,,,
-2002,BGD,Total,80867,,,,
-2003,BGD,Total,74001,,,,
-2004,BGD,Total,71545,,,,
-2005,BGD,Total,69088,,,,
-2006,BGD,Total,66632,,,,
-2007,BGD,Total,64175,,,,
-2008,BGD,Total,61718,,,,
-2009,BGD,Total,59262,,,,
-2010,BGD,Total,44270,,,,
-2011,BGD,Total,51320,,,,
-2012,BGD,Total,66344,,,,
-2013,BGD,Total,60193,,,,
-2014,BGD,Total,52761,,,,
-2015,BGD,Total,47361,,,,
-2016,BGD,Total,50057,,,,
-2017,BGD,Total,49055,,,,
-2018,BGD,Total,51823,,,,
-2019,BGD,Total,53188,,,,
-2000,BGR,Total,571,,,,
-2001,BGR,Total,464,,,,
-2002,BGR,Total,701,,,,
-2003,BGR,Total,519,,,,
-2004,BGR,Total,440,,,,
-2005,BGR,Total,198,,,,
-2006,BGR,Total,459,,,,
-2007,BGR,Total,666,,,,
-2008,BGR,Total,562,,,,
-2009,BGR,Total,502,,,,
-2010,BGR,Total,779,,,,
-2011,BGR,Total,582,,,,
-2012,BGR,Total,613,,,,
-2013,BGR,Total,767,,,,
-2014,BGR,Total,694,,,,
-2015,BGR,Total,774,,,,
-2016,BGR,Total,816,,,,
-2017,BGR,Total,858,,,,
-2018,BGR,Total,1005,,,,
-2019,BGR,Total,930,,,,
-2000,BHR,Total,4669,,,,
-2001,BHR,Total,4188,,,,
-2002,BHR,Total,4404,,,,
-2003,BHR,Total,4122,,,,
-2004,BHR,Total,4457,,,,
-2005,BHR,Total,5614,,,,
-2006,BHR,Total,6858,,,,
-2007,BHR,Total,8280,,,,
-2008,BHR,Total,10017,,,,
-2009,BHR,Total,10145,,,,
-2010,BHR,Total,9241,,,,
-2011,BHR,Total,7786,,,,
-2012,BHR,Total,8196,,,,
-2013,BHR,Total,8494,,,,
-2014,BHR,Total,8302,,,,
-2015,BHR,Total,8064,,,,
-2016,BHR,Total,6925,,,,
-2017,BHR,Total,8161,,,,
-2018,BHR,Total,8161,,,,
-2019,BHR,Total,8161,,,,
-2000,BIH,Total,1,,,,
-2001,BIH,Total,1,,,,
-2002,BIH,Total,1,,,,
-2003,BIH,Total,1,,,,
-2004,BIH,Total,1,,,,
-2005,BIH,Total,1,,,,
-2006,BIH,Total,1,,,,
-2007,BIH,Total,1,,,,
-2008,BIH,Total,1,,,,
-2009,BIH,Total,1,,,,
-2010,BIH,Total,1,,,,
-2011,BIH,Total,1,,,,
-2012,BIH,Total,1,,,,
-2013,BIH,Total,1,,,,
-2014,BIH,Total,1,,,,
-2015,BIH,Total,1,,,,
-2016,BIH,Total,1,,,,
-2017,BIH,Total,1,,,,
-2018,BIH,Total,1,,,,
-2019,BIH,Total,1,,,,
-2000,BLM,Total,20,,,,
-2001,BLM,Total,20,,,,
-2002,BLM,Total,20,,,,
-2003,BLM,Total,21,,,,
-2004,BLM,Total,21,,,,
-2005,BLM,Total,21,,,,
-2006,BLM,Total,21,,,,
-2007,BLM,Total,21,,,,
-2008,BLM,Total,21,,,,
-2009,BLM,Total,21,,,,
-2010,BLM,Total,21,,,,
-2011,BLM,Total,21,,,,
-2012,BLM,Total,21,,,,
-2013,BLM,Total,21,,,,
-2014,BLM,Total,21,,,,
-2015,BLM,Total,21,,,,
-2016,BLM,Total,21,,,,
-2017,BLM,Total,21,,,,
-2018,BLM,Total,21,,,,
-2019,BLM,Total,21,,,,
-2000,BLZ,Total,35278,,,,
-2001,BLZ,Total,35693,,,,
-2002,BLZ,Total,50550,,,,
-2003,BLZ,Total,36069,,,,
-2004,BLZ,Total,49166,,,,
-2005,BLZ,Total,41493,,,,
-2006,BLZ,Total,41149,,,,
-2007,BLZ,Total,66597,,,,
-2008,BLZ,Total,76434,,,,
-2009,BLZ,Total,67648,,,,
-2010,BLZ,Total,74852,,,,
-2011,BLZ,Total,39783,,,,
-2012,BLZ,Total,28018,,,,
-2013,BLZ,Total,13737,,,,
-2014,BLZ,Total,19184,,,,
-2015,BLZ,Total,13524,,,,
-2016,BLZ,Total,13887,,,,
-2017,BLZ,Total,17734,,,,
-2018,BLZ,Total,29936,,,,
-2019,BLZ,Total,29725,,,,
-2000,BMU,Total,2,,,,
-2001,BMU,Total,1,,,,
-2002,BMU,Total,0,,,,
-2003,BMU,Total,0,,,,
-2004,BMU,Total,0,,,,
-2005,BMU,Total,0,,,,
-2006,BMU,Total,0,,,,
-2007,BMU,Total,0,,,,
-2008,BMU,Total,1,,,,
-2009,BMU,Total,0,,,,
-2011,BMU,Total,0,,,,
-2012,BMU,Total,1,,,,
-2013,BMU,Total,0,,,,
-2014,BMU,Total,13,,,,
-2015,BMU,Total,15,,,,
-2016,BMU,Total,15,,,,
-2017,BMU,Total,15,,,,
-2018,BMU,Total,16,,,,
-2019,BMU,Total,19,,,,
-2000,BRA,Total,265038,,,,
-2001,BRA,Total,274553,,,,
-2002,BRA,Total,295631,,,,
-2003,BRA,Total,275619,,,,
-2004,BRA,Total,262669,,,,
-2005,BRA,Total,275363,,,,
-2006,BRA,Total,274871,,,,
-2007,BRA,Total,287521,,,,
-2008,BRA,Total,277264,,,,
-2009,BRA,Total,267815,,,,
-2010,BRA,Total,263341,,,,
-2011,BRA,Total,323515,,,,
-2012,BRA,Total,314721,,,,
-2013,BRA,Total,288425,,,,
-2014,BRA,Total,321779,,,,
-2015,BRA,Total,285359,,,,
-2016,BRA,Total,289144,,,,
-2017,BRA,Total,295468,,,,
-2018,BRA,Total,304835,,,,
-2019,BRA,Total,311766,,,,
-2000,BRB,Total,110,,,,
-2001,BRB,Total,88,,,,
-2002,BRB,Total,54,,,,
-2003,BRB,Total,68,,,,
-2004,BRB,Total,77,,,,
-2005,BRB,Total,128,,,,
-2006,BRB,Total,80,,,,
-2007,BRB,Total,62,,,,
-2008,BRB,Total,64,,,,
-2009,BRB,Total,37,,,,
-2010,BRB,Total,46,,,,
-2011,BRB,Total,51,,,,
-2012,BRB,Total,63,,,,
-2013,BRB,Total,79,,,,
-2014,BRB,Total,85,,,,
-2015,BRB,Total,122,,,,
-2016,BRB,Total,128,,,,
-2017,BRB,Total,103,,,,
-2018,BRB,Total,98,,,,
-2019,BRB,Total,52,,,,
-2000,BRN,Total,2140,,,,
-2001,BRN,Total,2322,,,,
-2002,BRN,Total,1791,,,,
-2003,BRN,Total,1868,,,,
-2004,BRN,Total,1860,,,,
-2005,BRN,Total,2032,,,,
-2006,BRN,Total,2289,,,,
-2007,BRN,Total,2606,,,,
-2008,BRN,Total,2631,,,,
-2009,BRN,Total,2065,,,,
-2010,BRN,Total,2629,,,,
-2011,BRN,Total,2187,,,,
-2012,BRN,Total,2221,,,,
-2013,BRN,Total,2254,,,,
-2014,BRN,Total,2287,,,,
-2015,BRN,Total,1302,,,,
-2016,BRN,Total,1946,,,,
-2017,BRN,Total,1466,,,,
-2018,BRN,Total,2058,,,,
-2019,BRN,Total,2056,,,,
-2000,CAN,Total,48164,,,,
-2001,CAN,Total,53635,,,,
-2002,CAN,Total,50143,,,,
-2003,CAN,Total,50277,,,,
-2004,CAN,Total,52691,,,,
-2005,CAN,Total,46310,,,,
-2006,CAN,Total,45574,,,,
-2007,CAN,Total,45432,,,,
-2008,CAN,Total,44626,,,,
-2009,CAN,Total,47500,,,,
-2010,CAN,Total,36648,,,,
-2011,CAN,Total,50100,,,,
-2012,CAN,Total,47553,,,,
-2013,CAN,Total,49853,,,,
-2014,CAN,Total,43463,,,,
-2015,CAN,Total,43244,,,,
-2016,CAN,Total,31567,,,,
-2017,CAN,Total,58842,,,,
-2018,CAN,Total,51341,,,,
-2019,CAN,Total,43825,,,,
-2000,CHI,Total,61,,,,
-2001,CHI,Total,135,,,,
-2002,CHI,Total,91,,,,
-2003,CHI,Total,77,,,,
-2004,CHI,Total,59,,,,
-2005,CHI,Total,65,,,,
-2006,CHI,Total,81,,,,
-2007,CHI,Total,92,,,,
-2008,CHI,Total,82,,,,
-2009,CHI,Total,78,,,,
-2010,CHI,Total,25,,,,
-2011,CHI,Total,0,,,,
-2012,CHI,Total,0,,,,
-2013,CHI,Total,0,,,,
-2014,CHI,Total,0,,,,
-2015,CHI,Total,371,,,,
-2016,CHI,Total,709,,,,
-2017,CHI,Total,582,,,,
-2018,CHI,Total,649,,,,
-2019,CHI,Total,572,,,,
-2000,CHL,Total,50699,,,,
-2001,CHL,Total,66216,,,,
-2002,CHL,Total,53402,,,,
-2003,CHL,Total,58213,,,,
-2004,CHL,Total,59595,,,,
-2005,CHL,Total,54762,,,,
-2006,CHL,Total,51380,,,,
-2007,CHL,Total,48691,,,,
-2008,CHL,Total,35984,,,,
-2009,CHL,Total,34806,,,,
-2010,CHL,Total,27842,,,,
-2011,CHL,Total,11652,,,,
-2012,CHL,Total,12566,,,,
-2013,CHL,Total,12223,,,,
-2014,CHL,Total,13209,,,,
-2015,CHL,Total,5534,,,,
-2016,CHL,Total,4998,,,,
-2017,CHL,Total,11914,,,,
-2018,CHL,Total,13773,,,,
-2019,CHL,Total,11983,,,,
-2000,CHN,Total,190204,,,,
-2001,CHN,Total,221676,,,,
-2002,CHN,Total,228155,,,,
-2003,CHN,Total,230398,,,,
-2004,CHN,Total,224624,,,,
-2005,CHN,Total,225213,,,,
-2006,CHN,Total,224829,,,,
-2007,CHN,Total,230315,,,,
-2008,CHN,Total,218096,,,,
-2009,CHN,Total,223361,,,,
-2010,CHN,Total,240508,,,,
-2011,CHN,Total,202795,,,,
-2012,CHN,Total,179607,,,,
-2013,CHN,Total,181429,,,,
-2014,CHN,Total,745035,,,,
-2015,CHN,Total,372499,,,,
-2016,CHN,Total,364821,,,,
-2017,CHN,Total,388575,,,,
-2018,CHN,Total,404501,,,,
-2019,CHN,Total,414470,,,,
-2000,CIV,Total,3503,,,,
-2001,CIV,Total,3096,,,,
-2002,CIV,Total,2573,,,,
-2003,CIV,Total,1340,,,,
-2004,CIV,Total,1358,,,,
-2005,CIV,Total,2495,,,,
-2006,CIV,Total,1103,,,,
-2007,CIV,Total,1104,,,,
-2008,CIV,Total,1126,,,,
-2009,CIV,Total,1387,,,,
-2010,CIV,Total,2054,,,,
-2011,CIV,Total,1890,,,,
-2012,CIV,Total,1529,,,,
-2013,CIV,Total,1698,,,,
-2014,CIV,Total,2897,,,,
-2015,CIV,Total,2493,,,,
-2016,CIV,Total,2870,,,,
-2017,CIV,Total,2310,,,,
-2018,CIV,Total,2577,,,,
-2019,CIV,Total,3774,,,,
-2000,CMR,Total,3055,,,,
-2001,CMR,Total,3418,,,,
-2002,CMR,Total,2031,,,,
-2003,CMR,Total,1964,,,,
-2004,CMR,Total,2478,,,,
-2005,CMR,Total,1442,,,,
-2006,CMR,Total,994,,,,
-2007,CMR,Total,2388,,,,
-2008,CMR,Total,1902,,,,
-2009,CMR,Total,1705,,,,
-2010,CMR,Total,1310,,,,
-2011,CMR,Total,1322,,,,
-2012,CMR,Total,1355,,,,
-2013,CMR,Total,1420,,,,
-2014,CMR,Total,1425,,,,
-2015,CMR,Total,1435,,,,
-2016,CMR,Total,1440,,,,
-2017,CMR,Total,1408,,,,
-2018,CMR,Total,1408,,,,
-2019,CMR,Total,1408,,,,
-2000,COG,Total,2008,,,,
-2001,COG,Total,2271,,,,
-2002,COG,Total,2170,,,,
-2003,COG,Total,1890,,,,
-2004,COG,Total,1132,,,,
-2005,COG,Total,588,,,,
-2006,COG,Total,961,,,,
-2007,COG,Total,894,,,,
-2008,COG,Total,918,,,,
-2009,COG,Total,1536,,,,
-2010,COG,Total,1085,,,,
-2011,COG,Total,1248,,,,
-2012,COG,Total,1410,,,,
-2013,COG,Total,4096,,,,
-2014,COG,Total,4507,,,,
-2015,COG,Total,4466,,,,
-2016,COG,Total,1799,,,,
-2017,COG,Total,1896,,,,
-2018,COG,Total,1994,,,,
-2019,COG,Total,1994,,,,
-2002,COK,Total,116,,,,
-2003,COK,Total,387,,,,
-2004,COK,Total,941,,,,
-2005,COK,Total,1103,,,,
-2006,COK,Total,843,,,,
-2007,COK,Total,1131,,,,
-2008,COK,Total,866,,,,
-2009,COK,Total,470,,,,
-2010,COK,Total,1717,,,,
-2011,COK,Total,1340,,,,
-2012,COK,Total,2118,,,,
-2013,COK,Total,775,,,,
-2014,COK,Total,827,,,,
-2015,COK,Total,751,,,,
-2016,COK,Total,783,,,,
-2017,COK,Total,1557,,,,
-2018,COK,Total,1689,,,,
-2019,COK,Total,1341,,,,
-2000,COL,Total,16486,,,,
-2001,COL,Total,17296,,,,
-2002,COL,Total,4963,,,,
-2003,COL,Total,16562,,,,
-2004,COL,Total,9335,,,,
-2005,COL,Total,3317,,,,
-2006,COL,Total,4568,,,,
-2007,COL,Total,6741,,,,
-2008,COL,Total,7168,,,,
-2009,COL,Total,8404,,,,
-2010,COL,Total,3147,,,,
-2011,COL,Total,12060,,,,
-2012,COL,Total,20159,,,,
-2013,COL,Total,13614,,,,
-2014,COL,Total,33427,,,,
-2015,COL,Total,32021,,,,
-2016,COL,Total,25708,,,,
-2017,COL,Total,31612,,,,
-2018,COL,Total,25869,,,,
-2019,COL,Total,33146,,,,
-2000,CPV,Total,1995,,,,
-2001,CPV,Total,1659,,,,
-2002,CPV,Total,1804,,,,
-2003,CPV,Total,1561,,,,
-2004,CPV,Total,1682,,,,
-2005,CPV,Total,2088,,,,
-2006,CPV,Total,2544,,,,
-2007,CPV,Total,2160,,,,
-2008,CPV,Total,2214,,,,
-2009,CPV,Total,2309,,,,
-2010,CPV,Total,2243,,,,
-2011,CPV,Total,8565,,,,
-2012,CPV,Total,5992,,,,
-2013,CPV,Total,13365,,,,
-2014,CPV,Total,13132,,,,
-2015,CPV,Total,4978,,,,
-2016,CPV,Total,3840,,,,
-2017,CPV,Total,3520,,,,
-2018,CPV,Total,3634,,,,
-2019,CPV,Total,3167,,,,
-2000,CRI,Total,17905,,,,
-2001,CRI,Total,22946,,,,
-2002,CRI,Total,20198,,,,
-2003,CRI,Total,18270,,,,
-2004,CRI,Total,23705,,,,
-2005,CRI,Total,23385,,,,
-2006,CRI,Total,25936,,,,
-2007,CRI,Total,24393,,,,
-2008,CRI,Total,29710,,,,
-2009,CRI,Total,29243,,,,
-2010,CRI,Total,22525,,,,
-2011,CRI,Total,26084,,,,
-2012,CRI,Total,27623,,,,
-2013,CRI,Total,26857,,,,
-2014,CRI,Total,29275,,,,
-2015,CRI,Total,29651,,,,
-2016,CRI,Total,30289,,,,
-2017,CRI,Total,31656,,,,
-2018,CRI,Total,31652,,,,
-2019,CRI,Total,31650,,,,
-2000,CUB,Total,724,,,,
-2001,CUB,Total,79,,,,
-2002,CUB,Total,92,,,,
-2003,CUB,Total,148,,,,
-2004,CUB,Total,186,,,,
-2005,CUB,Total,230,,,,
-2006,CUB,Total,184,,,,
-2007,CUB,Total,24,,,,
-2008,CUB,Total,11,,,,
-2009,CUB,Total,12,,,,
-2010,CUB,Total,15,,,,
-2011,CUB,Total,1452,,,,
-2012,CUB,Total,972,,,,
-2013,CUB,Total,12,,,,
-2014,CUB,Total,12,,,,
-2015,CUB,Total,14,,,,
-2016,CUB,Total,12,,,,
-2017,CUB,Total,11,,,,
-2018,CUB,Total,17,,,,
-2019,CUB,Total,10,,,,
-2000,CUW,Total,972,,,,
-2001,CUW,Total,1027,,,,
-2002,CUW,Total,629,,,,
-2003,CUW,Total,840,,,,
-2004,CUW,Total,716,,,,
-2005,CUW,Total,6,,,,
-2006,CUW,Total,220,,,,
-2007,CUW,Total,138,,,,
-2008,CUW,Total,923,,,,
-2009,CUW,Total,1068,,,,
-2010,CUW,Total,821,,,,
-2011,CUW,Total,953,,,,
-2012,CUW,Total,914,,,,
-2013,CUW,Total,6361,,,,
-2014,CUW,Total,6904,,,,
-2015,CUW,Total,8773,,,,
-2016,CUW,Total,9075,,,,
-2017,CUW,Total,9295,,,,
-2018,CUW,Total,9775,,,,
-2019,CUW,Total,8824,,,,
-2000,CYM,Total,6,,,,
-2001,CYM,Total,6,,,,
-2002,CYM,Total,6,,,,
-2003,CYM,Total,6,,,,
-2004,CYM,Total,6,,,,
-2005,CYM,Total,6,,,,
-2006,CYM,Total,6,,,,
-2007,CYM,Total,6,,,,
-2008,CYM,Total,6,,,,
-2009,CYM,Total,6,,,,
-2000,CYP,Total,47254,,,,
-2001,CYP,Total,40563,,,,
-2002,CYP,Total,57846,,,,
-2003,CYP,Total,43892,,,,
-2004,CYP,Total,57433,,,,
-2005,CYP,Total,45964,,,,
-2006,CYP,Total,33217,,,,
-2007,CYP,Total,55178,,,,
-2008,CYP,Total,61406,,,,
-2009,CYP,Total,53175,,,,
-2010,CYP,Total,53167,,,,
-2011,CYP,Total,10069,,,,
-2012,CYP,Total,960,,,,
-2013,CYP,Total,939,,,,
-2014,CYP,Total,977,,,,
-2015,CYP,Total,776,,,,
-2016,CYP,Total,808,,,,
-2017,CYP,Total,922,,,,
-2018,CYP,Total,658,,,,
-2019,CYP,Total,644,,,,
-2000,DEU,Total,52829,,,,
-2001,DEU,Total,43678,,,,
-2002,DEU,Total,49322,,,,
-2003,DEU,Total,48390,,,,
-2004,DEU,Total,54252,,,,
-2005,DEU,Total,58576,,,,
-2006,DEU,Total,49448,,,,
-2007,DEU,Total,45364,,,,
-2008,DEU,Total,51115,,,,
-2009,DEU,Total,47974,,,,
-2010,DEU,Total,52920,,,,
-2011,DEU,Total,45993,,,,
-2012,DEU,Total,43071,,,,
-2013,DEU,Total,44978,,,,
-2014,DEU,Total,42368,,,,
-2015,DEU,Total,37263,,,,
-2016,DEU,Total,32415,,,,
-2017,DEU,Total,23236,,,,
-2018,DEU,Total,30048,,,,
-2019,DEU,Total,23362,,,,
-2000,DJI,Total,10,,,,
-2000,DMA,Total,39,,,,
-2001,DMA,Total,17,,,,
-2002,DMA,Total,31,,,,
-2003,DMA,Total,27,,,,
-2005,DMA,Total,1662,,,,
-2006,DMA,Total,3207,,,,
-2007,DMA,Total,4582,,,,
-2008,DMA,Total,5421,,,,
-2009,DMA,Total,6300,,,,
-2010,DMA,Total,7126,,,,
-2011,DMA,Total,6885,,,,
-2012,DMA,Total,6767,,,,
-2013,DMA,Total,6418,,,,
-2014,DMA,Total,5153,,,,
-2015,DMA,Total,3570,,,,
-2016,DMA,Total,681,,,,
-2017,DMA,Total,512,,,,
-2018,DMA,Total,296,,,,
-2019,DMA,Total,586,,,,
-2000,DNK,Total,61622,,,,
-2001,DNK,Total,59020,,,,
-2002,DNK,Total,62994,,,,
-2003,DNK,Total,63671,,,,
-2004,DNK,Total,56466,,,,
-2005,DNK,Total,53749,,,,
-2006,DNK,Total,47397,,,,
-2007,DNK,Total,21956,,,,
-2008,DNK,Total,19315,,,,
-2009,DNK,Total,18847,,,,
-2010,DNK,Total,23756,,,,
-2011,DNK,Total,26364,,,,
-2012,DNK,Total,24375,,,,
-2013,DNK,Total,26148,,,,
-2014,DNK,Total,29856,,,,
-2015,DNK,Total,15447,,,,
-2016,DNK,Total,14493,,,,
-2017,DNK,Total,21945,,,,
-2018,DNK,Total,13599,,,,
-2019,DNK,Total,12195,,,,
-2000,DOM,Total,28,,,,
-2001,DOM,Total,35,,,,
-2002,DOM,Total,71,,,,
-2003,DOM,Total,13,,,,
-2004,DOM,Total,25,,,,
-2006,DOM,Total,17,,,,
-2007,DOM,Total,16,,,,
-2000,DZA,Total,16477,,,,
-2001,DZA,Total,18293,,,,
-2002,DZA,Total,18847,,,,
-2003,DZA,Total,19274,,,,
-2004,DZA,Total,18176,,,,
-2005,DZA,Total,20425,,,,
-2006,DZA,Total,22626,,,,
-2007,DZA,Total,24042,,,,
-2008,DZA,Total,23828,,,,
-2009,DZA,Total,23643,,,,
-2010,DZA,Total,23993,,,,
-2011,DZA,Total,24946,,,,
-2012,DZA,Total,25306,,,,
-2013,DZA,Total,25346,,,,
-2014,DZA,Total,25026,,,,
-2015,DZA,Total,24718,,,,
-2016,DZA,Total,24392,,,,
-2017,DZA,Total,27736,,,,
-2018,DZA,Total,31188,,,,
-2019,DZA,Total,27288,,,,
-2000,ECU,Total,23436,,,,
-2001,ECU,Total,18247,,,,
-2002,ECU,Total,13858,,,,
-2003,ECU,Total,20039,,,,
-2004,ECU,Total,15492,,,,
-2005,ECU,Total,17217,,,,
-2006,ECU,Total,19551,,,,
-2007,ECU,Total,13527,,,,
-2008,ECU,Total,22908,,,,
-2009,ECU,Total,20471,,,,
-2010,ECU,Total,18388,,,,
-2011,ECU,Total,33076,,,,
-2012,ECU,Total,31184,,,,
-2013,ECU,Total,30667,,,,
-2014,ECU,Total,28644,,,,
-2015,ECU,Total,18826,,,,
-2016,ECU,Total,11480,,,,
-2017,ECU,Total,5788,,,,
-2018,ECU,Total,11995,,,,
-2019,ECU,Total,12135,,,,
-2000,EGY,Total,42634,,,,
-2001,EGY,Total,46082,,,,
-2002,EGY,Total,46196,,,,
-2003,EGY,Total,48833,,,,
-2004,EGY,Total,42984,,,,
-2005,EGY,Total,37057,,,,
-2006,EGY,Total,35432,,,,
-2007,EGY,Total,23773,,,,
-2008,EGY,Total,27399,,,,
-2009,EGY,Total,26412,,,,
-2010,EGY,Total,27449,,,,
-2011,EGY,Total,29301,,,,
-2012,EGY,Total,33114,,,,
-2013,EGY,Total,30701,,,,
-2014,EGY,Total,29613,,,,
-2015,EGY,Total,27760,,,,
-2016,EGY,Total,23752,,,,
-2017,EGY,Total,24572,,,,
-2018,EGY,Total,23682,,,,
-2019,EGY,Total,22793,,,,
-2000,ESP,Total,335238,,,,
-2001,ESP,Total,337100,,,,
-2002,ESP,Total,318478,,,,
-2003,ESP,Total,270212,,,,
-2004,ESP,Total,239520,,,,
-2005,ESP,Total,235052,,,,
-2006,ESP,Total,228884,,,,
-2007,ESP,Total,198521,,,,
-2008,ESP,Total,199048,,,,
-2009,ESP,Total,176893,,,,
-2010,ESP,Total,177974,,,,
-2011,ESP,Total,229302,,,,
-2012,ESP,Total,133305,,,,
-2013,ESP,Total,82766,,,,
-2014,ESP,Total,97082,,,,
-2015,ESP,Total,179020,,,,
-2016,ESP,Total,160105,,,,
-2017,ESP,Total,176709,,,,
-2018,ESP,Total,186057,,,,
-2019,ESP,Total,177644,,,,
-2000,EST,Total,5573,,,,
-2001,EST,Total,2217,,,,
-2002,EST,Total,2435,,,,
-2003,EST,Total,1662,,,,
-2004,EST,Total,2005,,,,
-2005,EST,Total,2871,,,,
-2006,EST,Total,1936,,,,
-2007,EST,Total,2259,,,,
-2008,EST,Total,2154,,,,
-2009,EST,Total,2162,,,,
-2010,EST,Total,5976,,,,
-2011,EST,Total,8513,,,,
-2012,EST,Total,4460,,,,
-2013,EST,Total,5607,,,,
-2014,EST,Total,4350,,,,
-2015,EST,Total,4585,,,,
-2016,EST,Total,4143,,,,
-2017,EST,Total,5544,,,,
-2018,EST,Total,5045,,,,
-2019,EST,Total,5040,,,,
-2000,FIN,Total,537,,,,
-2001,FIN,Total,430,,,,
-2002,FIN,Total,309,,,,
-2003,FIN,Total,295,,,,
-2004,FIN,Total,255,,,,
-2005,FIN,Total,192,,,,
-2006,FIN,Total,214,,,,
-2007,FIN,Total,238,,,,
-2008,FIN,Total,217,,,,
-2009,FIN,Total,226,,,,
-2010,FIN,Total,408,,,,
-2011,FIN,Total,498,,,,
-2012,FIN,Total,560,,,,
-2013,FIN,Total,446,,,,
-2014,FIN,Total,431,,,,
-2015,FIN,Total,352,,,,
-2016,FIN,Total,294,,,,
-2017,FIN,Total,309,,,,
-2018,FIN,Total,369,,,,
-2019,FIN,Total,338,,,,
-2000,FJI,Total,3845,,,,
-2001,FJI,Total,4645,,,,
-2002,FJI,Total,4730,,,,
-2003,FJI,Total,4185,,,,
-2004,FJI,Total,6966,,,,
-2005,FJI,Total,6181,,,,
-2006,FJI,Total,5947,,,,
-2007,FJI,Total,3872,,,,
-2008,FJI,Total,5222,,,,
-2009,FJI,Total,6389,,,,
-2010,FJI,Total,4766,,,,
-2011,FJI,Total,6377,,,,
-2012,FJI,Total,6108,,,,
-2013,FJI,Total,5211,,,,
-2014,FJI,Total,5449,,,,
-2015,FJI,Total,5131,,,,
-2016,FJI,Total,5718,,,,
-2017,FJI,Total,6800,,,,
-2018,FJI,Total,5461,,,,
-2019,FJI,Total,5794,,,,
-2000,FLK,Total,2644,,,,
-2001,FLK,Total,2512,,,,
-2002,FLK,Total,1501,,,,
-2003,FLK,Total,2545,,,,
-2004,FLK,Total,1819,,,,
-2005,FLK,Total,3157,,,,
-2006,FLK,Total,2753,,,,
-2007,FLK,Total,2780,,,,
-2008,FLK,Total,3249,,,,
-2009,FLK,Total,2477,,,,
-2010,FLK,Total,3913,,,,
-2011,FLK,Total,2638,,,,
-2012,FLK,Total,3845,,,,
-2013,FLK,Total,2872,,,,
-2014,FLK,Total,2842,,,,
-2015,FLK,Total,2203,,,,
-2016,FLK,Total,2321,,,,
-2017,FLK,Total,2682,,,,
-2018,FLK,Total,3761,,,,
-2019,FLK,Total,3761,,,,
-2000,FRA,Total,184238,,,,
-2001,FRA,Total,180518,,,,
-2002,FRA,Total,188088,,,,
-2003,FRA,Total,172043,,,,
-2004,FRA,Total,159723,,,,
-2005,FRA,Total,147006,,,,
-2006,FRA,Total,148923,,,,
-2007,FRA,Total,147347,,,,
-2008,FRA,Total,126884,,,,
-2009,FRA,Total,111241,,,,
-2010,FRA,Total,110549,,,,
-2011,FRA,Total,165594,,,,
-2012,FRA,Total,101075,,,,
-2013,FRA,Total,102398,,,,
-2014,FRA,Total,102779,,,,
-2015,FRA,Total,113910,,,,
-2016,FRA,Total,82235,,,,
-2017,FRA,Total,81989,,,,
-2018,FRA,Total,99780,,,,
-2019,FRA,Total,84810,,,,
-2000,FRO,Total,10745,,,,
-2001,FRO,Total,11880,,,,
-2002,FRO,Total,11807,,,,
-2003,FRO,Total,11786,,,,
-2004,FRO,Total,10018,,,,
-2005,FRO,Total,8210,,,,
-2006,FRO,Total,7980,,,,
-2007,FRO,Total,5664,,,,
-2008,FRO,Total,7095,,,,
-2009,FRO,Total,3558,,,,
-2010,FRO,Total,6101,,,,
-2011,FRO,Total,5442,,,,
-2012,FRO,Total,4612,,,,
-2013,FRO,Total,5999,,,,
-2014,FRO,Total,5203,,,,
-2015,FRO,Total,5063,,,,
-2016,FRO,Total,4825,,,,
-2017,FRO,Total,2727,,,,
-2018,FRO,Total,1969,,,,
-2019,FRO,Total,1045,,,,
-2000,FSM,Total,1085,,,,
-2001,FSM,Total,1055,,,,
-2002,FSM,Total,644,,,,
-2003,FSM,Total,1358,,,,
-2004,FSM,Total,1427,,,,
-2005,FSM,Total,1259,,,,
-2006,FSM,Total,364,,,,
-2007,FSM,Total,1033,,,,
-2008,FSM,Total,683,,,,
-2009,FSM,Total,1252,,,,
-2010,FSM,Total,1088,,,,
-2011,FSM,Total,1360,,,,
-2012,FSM,Total,1616,,,,
-2013,FSM,Total,1365,,,,
-2014,FSM,Total,2105,,,,
-2015,FSM,Total,2658,,,,
-2016,FSM,Total,3005,,,,
-2017,FSM,Total,2785,,,,
-2018,FSM,Total,4289,,,,
-2019,FSM,Total,6195,,,,
-2000,GAB,Total,874,,,,
-2001,GAB,Total,484,,,,
-2002,GAB,Total,716,,,,
-2003,GAB,Total,625,,,,
-2004,GAB,Total,714,,,,
-2005,GAB,Total,1498,,,,
-2006,GAB,Total,1089,,,,
-2007,GAB,Total,1049,,,,
-2008,GAB,Total,584,,,,
-2009,GAB,Total,360,,,,
-2010,GAB,Total,318,,,,
-2011,GAB,Total,353,,,,
-2012,GAB,Total,373,,,,
-2013,GAB,Total,394,,,,
-2014,GAB,Total,411,,,,
-2015,GAB,Total,330,,,,
-2016,GAB,Total,299,,,,
-2017,GAB,Total,268,,,,
-2018,GAB,Total,267,,,,
-2019,GAB,Total,267,,,,
-2000,GBR,Total,69349,,,,
-2001,GBR,Total,52326,,,,
-2002,GBR,Total,67211,,,,
-2003,GBR,Total,58158,,,,
-2004,GBR,Total,60903,,,,
-2005,GBR,Total,42368,,,,
-2006,GBR,Total,53959,,,,
-2007,GBR,Total,49862,,,,
-2008,GBR,Total,51632,,,,
-2009,GBR,Total,53891,,,,
-2010,GBR,Total,52010,,,,
-2011,GBR,Total,42901,,,,
-2012,GBR,Total,44305,,,,
-2013,GBR,Total,39006,,,,
-2014,GBR,Total,39975,,,,
-2015,GBR,Total,41085,,,,
-2016,GBR,Total,43248,,,,
-2017,GBR,Total,43564,,,,
-2018,GBR,Total,32430,,,,
-2019,GBR,Total,32387,,,,
-2000,GEO,Total,524,,,,
-2001,GEO,Total,581,,,,
-2002,GEO,Total,660,,,,
-2003,GEO,Total,856,,,,
-2004,GEO,Total,1732,,,,
-2005,GEO,Total,2185,,,,
-2006,GEO,Total,2349,,,,
-2007,GEO,Total,3635,,,,
-2008,GEO,Total,5802,,,,
-2009,GEO,Total,5161,,,,
-2010,GEO,Total,9252,,,,
-2011,GEO,Total,6712,,,,
-2012,GEO,Total,3471,,,,
-2013,GEO,Total,12103,,,,
-2014,GEO,Total,16544,,,,
-2015,GEO,Total,12651,,,,
-2016,GEO,Total,16272,,,,
-2017,GEO,Total,23773,,,,
-2018,GEO,Total,57527,,,,
-2019,GEO,Total,57439,,,,
-2000,GHA,Total,123560,,,,
-2001,GHA,Total,122233,,,,
-2002,GHA,Total,119111,,,,
-2003,GHA,Total,121765,,,,
-2004,GHA,Total,101310,,,,
-2005,GHA,Total,98128,,,,
-2006,GHA,Total,97769,,,,
-2007,GHA,Total,98856,,,,
-2008,GHA,Total,100947,,,,
-2009,GHA,Total,118610,,,,
-2010,GHA,Total,127066,,,,
-2011,GHA,Total,93304,,,,
-2012,GHA,Total,108002,,,,
-2013,GHA,Total,107520,,,,
-2014,GHA,Total,119053,,,,
-2015,GHA,Total,119543,,,,
-2016,GHA,Total,123690,,,,
-2017,GHA,Total,123486,,,,
-2018,GHA,Total,128275,,,,
-2019,GHA,Total,134349,,,,
-2000,GIN,Total,12537,,,,
-2001,GIN,Total,14399,,,,
-2002,GIN,Total,21175,,,,
-2003,GIN,Total,16137,,,,
-2004,GIN,Total,20348,,,,
-2005,GIN,Total,20257,,,,
-2006,GIN,Total,24879,,,,
-2007,GIN,Total,29998,,,,
-2008,GIN,Total,28437,,,,
-2009,GIN,Total,30052,,,,
-2010,GIN,Total,27538,,,,
-2011,GIN,Total,42885,,,,
-2012,GIN,Total,46530,,,,
-2013,GIN,Total,53966,,,,
-2014,GIN,Total,61551,,,,
-2015,GIN,Total,72906,,,,
-2016,GIN,Total,66520,,,,
-2017,GIN,Total,84864,,,,
-2018,GIN,Total,105061,,,,
-2019,GIN,Total,103357,,,,
-2000,GMB,Total,2707,,,,
-2001,GMB,Total,1604,,,,
-2002,GMB,Total,1381,,,,
-2003,GMB,Total,2580,,,,
-2004,GMB,Total,1985,,,,
-2005,GMB,Total,661,,,,
-2006,GMB,Total,163,,,,
-2007,GMB,Total,39,,,,
-2008,GMB,Total,53,,,,
-2009,GMB,Total,15,,,,
-2010,GMB,Total,53,,,,
-2011,GMB,Total,54,,,,
-2012,GMB,Total,123,,,,
-2013,GMB,Total,31,,,,
-2014,GMB,Total,76,,,,
-2015,GMB,Total,1,,,,
-2003,GNB,Total,121,,,,
-2000,GNQ,Total,11,,,,
-2001,GNQ,Total,11,,,,
-2002,GNQ,Total,10,,,,
-2003,GNQ,Total,10,,,,
-2004,GNQ,Total,9,,,,
-2005,GNQ,Total,9,,,,
-2006,GNQ,Total,9,,,,
-2007,GNQ,Total,19,,,,
-2008,GNQ,Total,15,,,,
-2009,GNQ,Total,140,,,,
-2010,GNQ,Total,121,,,,
-2011,GNQ,Total,79,,,,
-2012,GNQ,Total,21,,,,
-2013,GNQ,Total,18,,,,
-2014,GNQ,Total,15,,,,
-2015,GNQ,Total,17,,,,
-2016,GNQ,Total,17,,,,
-2017,GNQ,Total,16,,,,
-2018,GNQ,Total,16,,,,
-2019,GNQ,Total,22,,,,
-2000,GRC,Total,50166,,,,
-2001,GRC,Total,46760,,,,
-2002,GRC,Total,51513,,,,
-2003,GRC,Total,39825,,,,
-2004,GRC,Total,39691,,,,
-2005,GRC,Total,34155,,,,
-2006,GRC,Total,32553,,,,
-2007,GRC,Total,32999,,,,
-2008,GRC,Total,31778,,,,
-2009,GRC,Total,27441,,,,
-2010,GRC,Total,23998,,,,
-2011,GRC,Total,23260,,,,
-2012,GRC,Total,18206,,,,
-2013,GRC,Total,13128,,,,
-2014,GRC,Total,12096,,,,
-2015,GRC,Total,15898,,,,
-2016,GRC,Total,15505,,,,
-2017,GRC,Total,14009,,,,
-2018,GRC,Total,13924,,,,
-2019,GRC,Total,9750,,,,
-2000,GRD,Total,259,,,,
-2001,GRD,Total,357,,,,
-2002,GRD,Total,245,,,,
-2003,GRD,Total,315,,,,
-2004,GRD,Total,213,,,,
-2005,GRD,Total,264,,,,
-2006,GRD,Total,186,,,,
-2007,GRD,Total,231,,,,
-2008,GRD,Total,322,,,,
-2009,GRD,Total,251,,,,
-2010,GRD,Total,256,,,,
-2011,GRD,Total,79,,,,
-2012,GRD,Total,67,,,,
-2013,GRD,Total,63,,,,
-2014,GRD,Total,69,,,,
-2015,GRD,Total,442,,,,
-2016,GRD,Total,518,,,,
-2017,GRD,Total,439,,,,
-2018,GRD,Total,459,,,,
-2019,GRD,Total,295,,,,
-2000,GRL,Total,25666,,,,
-2001,GRL,Total,33382,,,,
-2002,GRL,Total,62495,,,,
-2003,GRL,Total,78650,,,,
-2004,GRL,Total,15412,,,,
-2005,GRL,Total,16004,,,,
-2006,GRL,Total,17409,,,,
-2007,GRL,Total,18252,,,,
-2008,GRL,Total,19404,,,,
-2009,GRL,Total,17271,,,,
-2010,GRL,Total,15938,,,,
-2011,GRL,Total,18396,,,,
-2012,GRL,Total,19109,,,,
-2013,GRL,Total,21059,,,,
-2014,GRL,Total,19333,,,,
-2015,GRL,Total,22506,,,,
-2016,GRL,Total,24609,,,,
-2017,GRL,Total,24437,,,,
-2018,GRL,Total,25226,,,,
-2019,GRL,Total,25226,,,,
-2000,GTM,Total,4222,,,,
-2001,GTM,Total,3540,,,,
-2002,GTM,Total,2318,,,,
-2003,GTM,Total,6278,,,,
-2004,GTM,Total,3123,,,,
-2005,GTM,Total,3293,,,,
-2006,GTM,Total,2370,,,,
-2007,GTM,Total,3597,,,,
-2008,GTM,Total,3517,,,,
-2009,GTM,Total,2048,,,,
-2010,GTM,Total,6379,,,,
-2011,GTM,Total,6076,,,,
-2012,GTM,Total,2430,,,,
-2013,GTM,Total,4549,,,,
-2014,GTM,Total,5588,,,,
-2015,GTM,Total,6461,,,,
-2016,GTM,Total,8241,,,,
-2017,GTM,Total,6822,,,,
-2018,GTM,Total,7297,,,,
-2019,GTM,Total,8506,,,,
-2000,GUY,Total,12079,,,,
-2001,GUY,Total,17037,,,,
-2002,GUY,Total,12857,,,,
-2003,GUY,Total,13989,,,,
-2004,GUY,Total,10961,,,,
-2005,GUY,Total,10947,,,,
-2006,GUY,Total,11587,,,,
-2007,GUY,Total,12615,,,,
-2008,GUY,Total,10438,,,,
-2009,GUY,Total,10963,,,,
-2010,GUY,Total,12486,,,,
-2011,GUY,Total,13874,,,,
-2012,GUY,Total,17533,,,,
-2013,GUY,Total,16555,,,,
-2014,GUY,Total,11891,,,,
-2015,GUY,Total,12898,,,,
-2016,GUY,Total,14689,,,,
-2017,GUY,Total,14454,,,,
-2018,GUY,Total,13955,,,,
-2019,GUY,Total,10664,,,,
-2000,HKG,Total,61526,,,,
-2001,HKG,Total,68171,,,,
-2002,HKG,Total,64718,,,,
-2003,HKG,Total,59247,,,,
-2004,HKG,Total,59400,,,,
-2005,HKG,Total,61735,,,,
-2006,HKG,Total,58903,,,,
-2007,HKG,Total,58551,,,,
-2008,HKG,Total,60237,,,,
-2009,HKG,Total,60589,,,,
-2010,HKG,Total,64037,,,,
-2011,HKG,Total,65071,,,,
-2012,HKG,Total,59166,,,,
-2013,HKG,Total,64827,,,,
-2014,HKG,Total,61267,,,,
-2015,HKG,Total,55334,,,,
-2016,HKG,Total,54412,,,,
-2017,HKG,Total,48611,,,,
-2018,HKG,Total,47371,,,,
-2019,HKG,Total,46849,,,,
-2000,HND,Total,5785,,,,
-2001,HND,Total,3241,,,,
-2002,HND,Total,3471,,,,
-2003,HND,Total,95,,,,
-2004,HND,Total,3559,,,,
-2005,HND,Total,3285,,,,
-2006,HND,Total,1651,,,,
-2007,HND,Total,1043,,,,
-2008,HND,Total,609,,,,
-2009,HND,Total,2855,,,,
-2010,HND,Total,1423,,,,
-2011,HND,Total,4197,,,,
-2012,HND,Total,3699,,,,
-2013,HND,Total,1946,,,,
-2014,HND,Total,3876,,,,
-2015,HND,Total,4197,,,,
-2016,HND,Total,3583,,,,
-2017,HND,Total,3583,,,,
-2018,HND,Total,3583,,,,
-2019,HND,Total,3583,,,,
-2000,HRV,Total,3350,,,,
-2001,HRV,Total,3066,,,,
-2002,HRV,Total,2233,,,,
-2003,HRV,Total,4659,,,,
-2004,HRV,Total,5604,,,,
-2005,HRV,Total,6769,,,,
-2006,HRV,Total,6277,,,,
-2007,HRV,Total,6618,,,,
-2008,HRV,Total,6267,,,,
-2009,HRV,Total,5841,,,,
-2010,HRV,Total,5953,,,,
-2011,HRV,Total,5975,,,,
-2012,HRV,Total,5876,,,,
-2013,HRV,Total,6039,,,,
-2014,HRV,Total,6332,,,,
-2015,HRV,Total,2291,,,,
-2016,HRV,Total,2314,,,,
-2017,HRV,Total,2257,,,,
-2018,HRV,Total,2279,,,,
-2019,HRV,Total,2101,,,,
-2000,IDN,Total,506363,,,,
-2001,IDN,Total,529621,,,,
-2002,IDN,Total,514568,,,,
-2003,IDN,Total,497435,,,,
-2004,IDN,Total,469699,,,,
-2005,IDN,Total,376838,,,,
-2006,IDN,Total,316880,,,,
-2007,IDN,Total,266994,,,,
-2008,IDN,Total,236883,,,,
-2009,IDN,Total,235745,,,,
-2010,IDN,Total,222362,,,,
-2011,IDN,Total,245114,,,,
-2012,IDN,Total,252278,,,,
-2013,IDN,Total,255450,,,,
-2014,IDN,Total,270082,,,,
-2015,IDN,Total,280964,,,,
-2016,IDN,Total,281557,,,,
-2017,IDN,Total,296588,,,,
-2018,IDN,Total,296771,,,,
-2019,IDN,Total,359144,,,,
-2000,IND,Total,215929,,,,
-2001,IND,Total,173476,,,,
-2002,IND,Total,186298,,,,
-2003,IND,Total,167476,,,,
-2004,IND,Total,173928,,,,
-2005,IND,Total,148992,,,,
-2006,IND,Total,150613,,,,
-2007,IND,Total,149925,,,,
-2008,IND,Total,155531,,,,
-2009,IND,Total,208193,,,,
-2010,IND,Total,226299,,,,
-2011,IND,Total,207983,,,,
-2012,IND,Total,227772,,,,
-2013,IND,Total,211606,,,,
-2014,IND,Total,214118,,,,
-2015,IND,Total,196842,,,,
-2016,IND,Total,216622,,,,
-2017,IND,Total,228477,,,,
-2018,IND,Total,193314,,,,
-2019,IND,Total,201072,,,,
-2000,IRL,Total,51404,,,,
-2001,IRL,Total,51632,,,,
-2002,IRL,Total,45740,,,,
-2003,IRL,Total,41372,,,,
-2004,IRL,Total,39655,,,,
-2005,IRL,Total,37229,,,,
-2006,IRL,Total,32195,,,,
-2007,IRL,Total,38552,,,,
-2008,IRL,Total,35175,,,,
-2009,IRL,Total,37924,,,,
-2010,IRL,Total,41570,,,,
-2011,IRL,Total,24566,,,,
-2012,IRL,Total,18223,,,,
-2013,IRL,Total,15610,,,,
-2014,IRL,Total,17962,,,,
-2015,IRL,Total,28879,,,,
-2016,IRL,Total,35590,,,,
-2017,IRL,Total,33719,,,,
-2018,IRL,Total,23822,,,,
-2019,IRL,Total,11545,,,,
-2000,IRN,Total,23981,,,,
-2001,IRN,Total,22618,,,,
-2002,IRN,Total,22724,,,,
-2003,IRN,Total,22977,,,,
-2004,IRN,Total,22907,,,,
-2005,IRN,Total,22708,,,,
-2006,IRN,Total,22854,,,,
-2007,IRN,Total,13454,,,,
-2008,IRN,Total,12703,,,,
-2009,IRN,Total,12196,,,,
-2010,IRN,Total,12795,,,,
-2011,IRN,Total,15438,,,,
-2012,IRN,Total,17112,,,,
-2013,IRN,Total,18694,,,,
-2014,IRN,Total,21083,,,,
-2015,IRN,Total,22493,,,,
-2016,IRN,Total,24332,,,,
-2017,IRN,Total,27216,,,,
-2018,IRN,Total,29429,,,,
-2019,IRN,Total,29932,,,,
-2000,IRQ,Total,618,,,,
-2001,IRQ,Total,942,,,,
-2002,IRQ,Total,680,,,,
-2003,IRQ,Total,174,,,,
-2004,IRQ,Total,122,,,,
-2005,IRQ,Total,123,,,,
-2006,IRQ,Total,633,,,,
-2007,IRQ,Total,367,,,,
-2008,IRQ,Total,217,,,,
-2009,IRQ,Total,277,,,,
-2010,IRQ,Total,322,,,,
-2011,IRQ,Total,80,,,,
-2012,IRQ,Total,470,,,,
-2013,IRQ,Total,163,,,,
-2014,IRQ,Total,261,,,,
-2015,IRQ,Total,210,,,,
-2016,IRQ,Total,259,,,,
-2017,IRQ,Total,316,,,,
-2018,IRQ,Total,375,,,,
-2019,IRQ,Total,492,,,,
-2000,ISL,Total,57297,,,,
-2001,ISL,Total,50094,,,,
-2002,ISL,Total,52643,,,,
-2003,ISL,Total,51504,,,,
-2004,ISL,Total,44460,,,,
-2005,ISL,Total,44554,,,,
-2006,ISL,Total,37195,,,,
-2007,ISL,Total,38242,,,,
-2008,ISL,Total,37095,,,,
-2009,ISL,Total,34274,,,,
-2010,ISL,Total,32385,,,,
-2011,ISL,Total,31843,,,,
-2012,ISL,Total,33900,,,,
-2013,ISL,Total,33106,,,,
-2014,ISL,Total,26845,,,,
-2015,ISL,Total,30657,,,,
-2016,ISL,Total,27002,,,,
-2017,ISL,Total,22112,,,,
-2018,ISL,Total,19056,,,,
-2019,ISL,Total,15899,,,,
-2000,ISR,Total,827,,,,
-2001,ISR,Total,983,,,,
-2002,ISR,Total,934,,,,
-2003,ISR,Total,837,,,,
-2004,ISR,Total,790,,,,
-2005,ISR,Total,836,,,,
-2006,ISR,Total,776,,,,
-2007,ISR,Total,953,,,,
-2008,ISR,Total,1158,,,,
-2009,ISR,Total,1232,,,,
-2010,ISR,Total,1297,,,,
-2011,ISR,Total,959,,,,
-2012,ISR,Total,1001,,,,
-2013,ISR,Total,888,,,,
-2014,ISR,Total,858,,,,
-2015,ISR,Total,879,,,,
-2016,ISR,Total,742,,,,
-2017,ISR,Total,591,,,,
-2018,ISR,Total,589,,,,
-2019,ISR,Total,589,,,,
-2000,ITA,Total,81393,,,,
-2001,ITA,Total,80306,,,,
-2002,ITA,Total,73355,,,,
-2003,ITA,Total,71777,,,,
-2004,ITA,Total,65398,,,,
-2005,ITA,Total,56990,,,,
-2006,ITA,Total,55440,,,,
-2007,ITA,Total,56288,,,,
-2008,ITA,Total,55243,,,,
-2009,ITA,Total,44660,,,,
-2010,ITA,Total,44433,,,,
-2011,ITA,Total,48815,,,,
-2012,ITA,Total,22561,,,,
-2013,ITA,Total,17891,,,,
-2014,ITA,Total,12309,,,,
-2015,ITA,Total,23410,,,,
-2016,ITA,Total,27752,,,,
-2017,ITA,Total,24343,,,,
-2018,ITA,Total,26795,,,,
-2019,ITA,Total,26670,,,,
-2000,JAM,Total,68,,,,
-2001,JAM,Total,164,,,,
-2002,JAM,Total,169,,,,
-2003,JAM,Total,138,,,,
-2004,JAM,Total,154,,,,
-2005,JAM,Total,154,,,,
-2006,JAM,Total,198,,,,
-2007,JAM,Total,186,,,,
-2008,JAM,Total,146,,,,
-2009,JAM,Total,180,,,,
-2010,JAM,Total,170,,,,
-2011,JAM,Total,199,,,,
-2012,JAM,Total,159,,,,
-2013,JAM,Total,200,,,,
-2014,JAM,Total,166,,,,
-2015,JAM,Total,149,,,,
-2016,JAM,Total,146,,,,
-2017,JAM,Total,170,,,,
-2018,JAM,Total,178,,,,
-2019,JAM,Total,155,,,,
-2000,JPN,Total,773631,,,,
-2001,JPN,Total,728449,,,,
-2002,JPN,Total,694207,,,,
-2003,JPN,Total,649584,,,,
-2004,JPN,Total,610035,,,,
-2005,JPN,Total,590615,,,,
-2006,JPN,Total,565672,,,,
-2007,JPN,Total,564749,,,,
-2008,JPN,Total,577837,,,,
-2009,JPN,Total,517084,,,,
-2010,JPN,Total,569383,,,,
-2011,JPN,Total,537688,,,,
-2012,JPN,Total,534160,,,,
-2013,JPN,Total,520404,,,,
-2014,JPN,Total,509357,,,,
-2015,JPN,Total,498307,,,,
-2016,JPN,Total,438400,,,,
-2017,JPN,Total,420163,,,,
-2018,JPN,Total,428180,,,,
-2019,JPN,Total,435984,,,,
-2000,KEN,Total,766,,,,
-2001,KEN,Total,352,,,,
-2002,KEN,Total,374,,,,
-2003,KEN,Total,359,,,,
-2004,KEN,Total,986,,,,
-2005,KEN,Total,962,,,,
-2006,KEN,Total,765,,,,
-2007,KEN,Total,537,,,,
-2008,KEN,Total,537,,,,
-2009,KEN,Total,537,,,,
-2010,KEN,Total,537,,,,
-2011,KEN,Total,546,,,,
-2012,KEN,Total,553,,,,
-2013,KEN,Total,553,,,,
-2014,KEN,Total,560,,,,
-2015,KEN,Total,624,,,,
-2016,KEN,Total,617,,,,
-2017,KEN,Total,750,,,,
-2018,KEN,Total,740,,,,
-2019,KEN,Total,753,,,,
-2000,KHM,Total,504,,,,
-2001,KHM,Total,483,,,,
-2002,KHM,Total,460,,,,
-2003,KHM,Total,592,,,,
-2004,KHM,Total,559,,,,
-2005,KHM,Total,600,,,,
-2006,KHM,Total,605,,,,
-2007,KHM,Total,635,,,,
-2008,KHM,Total,660,,,,
-2009,KHM,Total,750,,,,
-2010,KHM,Total,854,,,,
-2011,KHM,Total,1195,,,,
-2012,KHM,Total,1231,,,,
-2013,KHM,Total,1162,,,,
-2014,KHM,Total,4209,,,,
-2015,KHM,Total,1203,,,,
-2016,KHM,Total,1206,,,,
-2017,KHM,Total,1210,,,,
-2018,KHM,Total,1536,,,,
-2019,KHM,Total,1372,,,,
-2000,KIR,Total,266,,,,
-2001,KIR,Total,310,,,,
-2002,KIR,Total,167,,,,
-2003,KIR,Total,174,,,,
-2004,KIR,Total,212,,,,
-2005,KIR,Total,305,,,,
-2006,KIR,Total,144,,,,
-2007,KIR,Total,308,,,,
-2008,KIR,Total,219,,,,
-2009,KIR,Total,638,,,,
-2010,KIR,Total,649,,,,
-2011,KIR,Total,1005,,,,
-2012,KIR,Total,1191,,,,
-2013,KIR,Total,1195,,,,
-2014,KIR,Total,1822,,,,
-2015,KIR,Total,2089,,,,
-2016,KIR,Total,2121,,,,
-2017,KIR,Total,1977,,,,
-2018,KIR,Total,2437,,,,
-2019,KIR,Total,2936,,,,
-2000,KOR,Total,563650,,,,
-2001,KOR,Total,530850,,,,
-2002,KOR,Total,539629,,,,
-2003,KOR,Total,506701,,,,
-2004,KOR,Total,495149,,,,
-2005,KOR,Total,445725,,,,
-2006,KOR,Total,418407,,,,
-2007,KOR,Total,388396,,,,
-2008,KOR,Total,369147,,,,
-2009,KOR,Total,367144,,,,
-2010,KOR,Total,370646,,,,
-2011,KOR,Total,437269,,,,
-2012,KOR,Total,349970,,,,
-2013,KOR,Total,342791,,,,
-2014,KOR,Total,385507,,,,
-2015,KOR,Total,291131,,,,
-2016,KOR,Total,256091,,,,
-2017,KOR,Total,250869,,,,
-2018,KOR,Total,260872,,,,
-2019,KOR,Total,237602,,,,
-2000,KWT,Total,27156,,,,
-2001,KWT,Total,30074,,,,
-2002,KWT,Total,27773,,,,
-2003,KWT,Total,26061,,,,
-2004,KWT,Total,27151,,,,
-2005,KWT,Total,31934,,,,
-2006,KWT,Total,31241,,,,
-2007,KWT,Total,30795,,,,
-2008,KWT,Total,28092,,,,
-2009,KWT,Total,31191,,,,
-2010,KWT,Total,29154,,,,
-2011,KWT,Total,27580,,,,
-2012,KWT,Total,24316,,,,
-2013,KWT,Total,23275,,,,
-2014,KWT,Total,22901,,,,
-2015,KWT,Total,21882,,,,
-2016,KWT,Total,28076,,,,
-2017,KWT,Total,23474,,,,
-2018,KWT,Total,19074,,,,
-2019,KWT,Total,18796,,,,
-2000,LBN,Total,35,,,,
-2001,LBN,Total,37,,,,
-2002,LBN,Total,38,,,,
-2003,LBN,Total,39,,,,
-2004,LBN,Total,39,,,,
-2005,LBN,Total,40,,,,
-2006,LBN,Total,31,,,,
-2007,LBN,Total,27,,,,
-2008,LBN,Total,188,,,,
-2009,LBN,Total,26,,,,
-2010,LBN,Total,26,,,,
-2011,LBN,Total,26,,,,
-2012,LBN,Total,26,,,,
-2013,LBN,Total,23,,,,
-2014,LBN,Total,21,,,,
-2015,LBN,Total,26,,,,
-2016,LBN,Total,30,,,,
-2017,LBN,Total,25,,,,
-2018,LBN,Total,20,,,,
-2019,LBN,Total,18,,,,
-2000,LBR,Total,1763,,,,
-2001,LBR,Total,1347,,,,
-2002,LBR,Total,1594,,,,
-2003,LBR,Total,1539,,,,
-2004,LBR,Total,3091,,,,
-2005,LBR,Total,293,,,,
-2006,LBR,Total,1,,,,
-2007,LBR,Total,1,,,,
-2010,LBR,Total,8,,,,
-2011,LBR,Total,42,,,,
-2012,LBR,Total,46,,,,
-2013,LBR,Total,20,,,,
-2014,LBR,Total,18,,,,
-2015,LBR,Total,17,,,,
-2016,LBR,Total,4,,,,
-2017,LBR,Total,90,,,,
-2018,LBR,Total,30,,,,
-2019,LBR,Total,54,,,,
-2000,LBY,Total,6273,,,,
-2001,LBY,Total,6112,,,,
-2002,LBY,Total,4589,,,,
-2003,LBY,Total,6597,,,,
-2004,LBY,Total,6399,,,,
-2005,LBY,Total,6103,,,,
-2006,LBY,Total,5644,,,,
-2007,LBY,Total,5559,,,,
-2008,LBY,Total,6575,,,,
-2009,LBY,Total,6833,,,,
-2010,LBY,Total,6709,,,,
-2011,LBY,Total,5275,,,,
-2012,LBY,Total,7109,,,,
-2013,LBY,Total,5997,,,,
-2014,LBY,Total,4622,,,,
-2015,LBY,Total,4484,,,,
-2016,LBY,Total,4989,,,,
-2017,LBY,Total,5407,,,,
-2018,LBY,Total,4636,,,,
-2019,LBY,Total,4463,,,,
-2000,LKA,Total,33873,,,,
-2001,LKA,Total,17323,,,,
-2002,LKA,Total,15265,,,,
-2003,LKA,Total,38892,,,,
-2004,LKA,Total,38099,,,,
-2005,LKA,Total,8155,,,,
-2006,LKA,Total,20192,,,,
-2007,LKA,Total,20150,,,,
-2008,LKA,Total,22978,,,,
-2009,LKA,Total,22994,,,,
-2010,LKA,Total,24319,,,,
-2011,LKA,Total,16042,,,,
-2012,LKA,Total,16362,,,,
-2013,LKA,Total,16893,,,,
-2014,LKA,Total,22272,,,,
-2015,LKA,Total,14897,,,,
-2016,LKA,Total,18265,,,,
-2017,LKA,Total,14544,,,,
-2018,LKA,Total,12036,,,,
-2019,LKA,Total,15754,,,,
-2000,LTU,Total,13924,,,,
-2001,LTU,Total,18512,,,,
-2002,LTU,Total,21996,,,,
-2003,LTU,Total,17751,,,,
-2004,LTU,Total,21501,,,,
-2005,LTU,Total,18123,,,,
-2006,LTU,Total,17033,,,,
-2007,LTU,Total,15993,,,,
-2008,LTU,Total,17909,,,,
-2009,LTU,Total,16305,,,,
-2010,LTU,Total,18199,,,,
-2011,LTU,Total,4112,,,,
-2012,LTU,Total,2988,,,,
-2013,LTU,Total,3660,,,,
-2014,LTU,Total,4658,,,,
-2015,LTU,Total,1586,,,,
-2016,LTU,Total,3891,,,,
-2017,LTU,Total,2682,,,,
-2018,LTU,Total,3622,,,,
-2019,LTU,Total,2845,,,,
-2000,LVA,Total,39756,,,,
-2001,LVA,Total,34567,,,,
-2002,LVA,Total,49206,,,,
-2003,LVA,Total,37304,,,,
-2004,LVA,Total,49436,,,,
-2005,LVA,Total,40754,,,,
-2006,LVA,Total,30361,,,,
-2007,LVA,Total,47144,,,,
-2008,LVA,Total,51448,,,,
-2009,LVA,Total,44656,,,,
-2010,LVA,Total,45877,,,,
-2011,LVA,Total,13718,,,,
-2012,LVA,Total,6417,,,,
-2013,LVA,Total,7144,,,,
-2014,LVA,Total,6302,,,,
-2015,LVA,Total,7737,,,,
-2016,LVA,Total,8604,,,,
-2017,LVA,Total,9303,,,,
-2018,LVA,Total,10687,,,,
-2019,LVA,Total,10563,,,,
-2000,MAF,Total,18,,,,
-2001,MAF,Total,18,,,,
-2002,MAF,Total,18,,,,
-2003,MAF,Total,19,,,,
-2004,MAF,Total,19,,,,
-2005,MAF,Total,19,,,,
-2006,MAF,Total,19,,,,
-2007,MAF,Total,19,,,,
-2008,MAF,Total,19,,,,
-2009,MAF,Total,19,,,,
-2010,MAF,Total,19,,,,
-2011,MAF,Total,19,,,,
-2012,MAF,Total,19,,,,
-2013,MAF,Total,19,,,,
-2014,MAF,Total,19,,,,
-2015,MAF,Total,19,,,,
-2016,MAF,Total,19,,,,
-2017,MAF,Total,19,,,,
-2018,MAF,Total,19,,,,
-2019,MAF,Total,19,,,,
-2000,MAR,Total,165904,,,,
-2001,MAR,Total,182417,,,,
-2002,MAR,Total,157310,,,,
-2003,MAR,Total,142795,,,,
-2004,MAR,Total,127883,,,,
-2005,MAR,Total,126476,,,,
-2006,MAR,Total,131150,,,,
-2007,MAR,Total,126710,,,,
-2008,MAR,Total,125981,,,,
-2009,MAR,Total,147108,,,,
-2010,MAR,Total,139003,,,,
-2011,MAR,Total,109186,,,,
-2012,MAR,Total,126493,,,,
-2013,MAR,Total,139577,,,,
-2014,MAR,Total,146310,,,,
-2015,MAR,Total,133295,,,,
-2016,MAR,Total,138909,,,,
-2017,MAR,Total,138052,,,,
-2018,MAR,Total,140541,,,,
-2019,MAR,Total,145260,,,,
-2000,MDG,Total,22290,,,,
-2001,MDG,Total,18963,,,,
-2002,MDG,Total,12704,,,,
-2003,MDG,Total,12274,,,,
-2004,MDG,Total,11276,,,,
-2005,MDG,Total,5898,,,,
-2006,MDG,Total,6212,,,,
-2007,MDG,Total,5435,,,,
-2008,MDG,Total,4384,,,,
-2009,MDG,Total,4806,,,,
-2010,MDG,Total,4267,,,,
-2011,MDG,Total,2814,,,,
-2012,MDG,Total,6505,,,,
-2013,MDG,Total,8823,,,,
-2014,MDG,Total,6773,,,,
-2015,MDG,Total,6907,,,,
-2016,MDG,Total,9531,,,,
-2017,MDG,Total,12063,,,,
-2018,MDG,Total,10483,,,,
-2019,MDG,Total,9020,,,,
-2000,MEX,Total,346206,,,,
-2001,MEX,Total,319121,,,,
-2002,MEX,Total,317222,,,,
-2003,MEX,Total,385445,,,,
-2004,MEX,Total,326294,,,,
-2005,MEX,Total,343591,,,,
-2006,MEX,Total,359498,,,,
-2007,MEX,Total,373477,,,,
-2008,MEX,Total,343481,,,,
-2009,MEX,Total,315746,,,,
-2010,MEX,Total,335300,,,,
-2011,MEX,Total,399590,,,,
-2012,MEX,Total,359293,,,,
-2013,MEX,Total,271753,,,,
-2014,MEX,Total,282903,,,,
-2015,MEX,Total,420661,,,,
-2016,MEX,Total,452559,,,,
-2017,MEX,Total,456380,,,,
-2018,MEX,Total,373191,,,,
-2019,MEX,Total,470269,,,,
-2000,MHL,Total,267,,,,
-2001,MHL,Total,1822,,,,
-2002,MHL,Total,1184,,,,
-2003,MHL,Total,1512,,,,
-2004,MHL,Total,2386,,,,
-2005,MHL,Total,2742,,,,
-2006,MHL,Total,1504,,,,
-2007,MHL,Total,2502,,,,
-2008,MHL,Total,971,,,,
-2009,MHL,Total,1657,,,,
-2010,MHL,Total,1491,,,,
-2011,MHL,Total,2089,,,,
-2012,MHL,Total,1541,,,,
-2013,MHL,Total,1338,,,,
-2014,MHL,Total,1017,,,,
-2015,MHL,Total,947,,,,
-2016,MHL,Total,1360,,,,
-2017,MHL,Total,2043,,,,
-2018,MHL,Total,1819,,,,
-2019,MHL,Total,2607,,,,
-2000,MLT,Total,27481,,,,
-2001,MLT,Total,24304,,,,
-2002,MLT,Total,25427,,,,
-2003,MLT,Total,16439,,,,
-2004,MLT,Total,12665,,,,
-2005,MLT,Total,9355,,,,
-2006,MLT,Total,10106,,,,
-2007,MLT,Total,11407,,,,
-2008,MLT,Total,13326,,,,
-2009,MLT,Total,16944,,,,
-2010,MLT,Total,18639,,,,
-2011,MLT,Total,462,,,,
-2012,MLT,Total,529,,,,
-2013,MLT,Total,666,,,,
-2014,MLT,Total,664,,,,
-2015,MLT,Total,690,,,,
-2016,MLT,Total,970,,,,
-2017,MLT,Total,546,,,,
-2018,MLT,Total,732,,,,
-2019,MLT,Total,726,,,,
-2000,MMR,Total,32304,,,,
-2001,MMR,Total,34281,,,,
-2002,MMR,Total,37161,,,,
-2003,MMR,Total,37981,,,,
-2004,MMR,Total,40851,,,,
-2005,MMR,Total,41104,,,,
-2006,MMR,Total,41468,,,,
-2007,MMR,Total,41722,,,,
-2008,MMR,Total,40596,,,,
-2009,MMR,Total,40596,,,,
-2010,MMR,Total,40596,,,,
-2011,MMR,Total,40962,,,,
-2012,MMR,Total,39685,,,,
-2013,MMR,Total,37572,,,,
-2014,MMR,Total,39996,,,,
-2015,MMR,Total,38227,,,,
-2016,MMR,Total,40941,,,,
-2017,MMR,Total,43616,,,,
-2018,MMR,Total,77549,,,,
-2019,MMR,Total,71511,,,,
-2000,MNE,Total,72,,,,
-2001,MNE,Total,85,,,,
-2002,MNE,Total,51,,,,
-2003,MNE,Total,82,,,,
-2004,MNE,Total,86,,,,
-2005,MNE,Total,93,,,,
-2006,MNE,Total,96,,,,
-2007,MNE,Total,92,,,,
-2008,MNE,Total,86,,,,
-2009,MNE,Total,62,,,,
-2010,MNE,Total,65,,,,
-2011,MNE,Total,46,,,,
-2012,MNE,Total,61,,,,
-2013,MNE,Total,48,,,,
-2014,MNE,Total,61,,,,
-2015,MNE,Total,167,,,,
-2016,MNE,Total,170,,,,
-2017,MNE,Total,114,,,,
-2018,MNE,Total,140,,,,
-2019,MNE,Total,147,,,,
-2000,MOZ,Total,30849,,,,
-2001,MOZ,Total,30659,,,,
-2002,MOZ,Total,29574,,,,
-2003,MOZ,Total,25933,,,,
-2004,MOZ,Total,26231,,,,
-2005,MOZ,Total,29475,,,,
-2006,MOZ,Total,26430,,,,
-2007,MOZ,Total,24310,,,,
-2008,MOZ,Total,19623,,,,
-2009,MOZ,Total,18693,,,,
-2010,MOZ,Total,24806,,,,
-2011,MOZ,Total,21144,,,,
-2012,MOZ,Total,16394,,,,
-2013,MOZ,Total,16003,,,,
-2014,MOZ,Total,25213,,,,
-2015,MOZ,Total,22329,,,,
-2016,MOZ,Total,21779,,,,
-2017,MOZ,Total,27369,,,,
-2018,MOZ,Total,23999,,,,
-2019,MOZ,Total,21335,,,,
-2000,MRT,Total,122560,,,,
-2001,MRT,Total,127618,,,,
-2002,MRT,Total,133984,,,,
-2003,MRT,Total,139397,,,,
-2004,MRT,Total,144874,,,,
-2005,MRT,Total,149913,,,,
-2006,MRT,Total,155565,,,,
-2007,MRT,Total,213817,,,,
-2008,MRT,Total,186296,,,,
-2009,MRT,Total,169872,,,,
-2010,MRT,Total,169872,,,,
-2011,MRT,Total,23175,,,,
-2012,MRT,Total,30874,,,,
-2013,MRT,Total,43224,,,,
-2014,MRT,Total,38513,,,,
-2015,MRT,Total,37116,,,,
-2016,MRT,Total,53098,,,,
-2017,MRT,Total,61632,,,,
-2018,MRT,Total,72793,,,,
-2019,MRT,Total,53999,,,,
-2000,MUS,Total,32,,,,
-2001,MUS,Total,9,,,,
-2003,MUS,Total,227,,,,
-2004,MUS,Total,225,,,,
-2005,MUS,Total,256,,,,
-2006,MUS,Total,240,,,,
-2007,MUS,Total,164,,,,
-2008,MUS,Total,114,,,,
-2009,MUS,Total,29,,,,
-2010,MUS,Total,71,,,,
-2013,MUS,Total,27,,,,
-2014,MUS,Total,270,,,,
-2015,MUS,Total,296,,,,
-2016,MUS,Total,364,,,,
-2017,MUS,Total,549,,,,
-2018,MUS,Total,791,,,,
-2019,MUS,Total,854,,,,
-2000,MYS,Total,24071,,,,
-2001,MYS,Total,22051,,,,
-2002,MYS,Total,20489,,,,
-2003,MYS,Total,19510,,,,
-2004,MYS,Total,16845,,,,
-2005,MYS,Total,13266,,,,
-2006,MYS,Total,14353,,,,
-2007,MYS,Total,14662,,,,
-2008,MYS,Total,14782,,,,
-2009,MYS,Total,14913,,,,
-2010,MYS,Total,15213,,,,
-2011,MYS,Total,14970,,,,
-2012,MYS,Total,15649,,,,
-2013,MYS,Total,15905,,,,
-2014,MYS,Total,16200,,,,
-2015,MYS,Total,16628,,,,
-2016,MYS,Total,17382,,,,
-2017,MYS,Total,16454,,,,
-2018,MYS,Total,15717,,,,
-2019,MYS,Total,15736,,,,
-2000,NAM,Total,31887,,,,
-2001,NAM,Total,29472,,,,
-2002,NAM,Total,27772,,,,
-2003,NAM,Total,31890,,,,
-2004,NAM,Total,27656,,,,
-2005,NAM,Total,27122,,,,
-2006,NAM,Total,21874,,,,
-2007,NAM,Total,18376,,,,
-2008,NAM,Total,17736,,,,
-2009,NAM,Total,18369,,,,
-2010,NAM,Total,19939,,,,
-2011,NAM,Total,22885,,,,
-2012,NAM,Total,23579,,,,
-2013,NAM,Total,24009,,,,
-2014,NAM,Total,21632,,,,
-2015,NAM,Total,24041,,,,
-2016,NAM,Total,24148,,,,
-2017,NAM,Total,21913,,,,
-2018,NAM,Total,26913,,,,
-2019,NAM,Total,26022,,,,
-2000,NCL,Total,297,,,,
-2001,NCL,Total,371,,,,
-2002,NCL,Total,378,,,,
-2003,NCL,Total,380,,,,
-2004,NCL,Total,529,,,,
-2005,NCL,Total,438,,,,
-2006,NCL,Total,318,,,,
-2007,NCL,Total,283,,,,
-2008,NCL,Total,310,,,,
-2009,NCL,Total,378,,,,
-2010,NCL,Total,472,,,,
-2011,NCL,Total,466,,,,
-2012,NCL,Total,442,,,,
-2013,NCL,Total,489,,,,
-2014,NCL,Total,560,,,,
-2015,NCL,Total,634,,,,
-2016,NCL,Total,567,,,,
-2017,NCL,Total,563,,,,
-2018,NCL,Total,572,,,,
-2019,NCL,Total,716,,,,
-2000,NGA,Total,3036,,,,
-2001,NGA,Total,3173,,,,
-2002,NGA,Total,3198,,,,
-2003,NGA,Total,3514,,,,
-2004,NGA,Total,3446,,,,
-2005,NGA,Total,3380,,,,
-2006,NGA,Total,3208,,,,
-2007,NGA,Total,3684,,,,
-2008,NGA,Total,3229,,,,
-2009,NGA,Total,3231,,,,
-2010,NGA,Total,3134,,,,
-2011,NGA,Total,2878,,,,
-2012,NGA,Total,2592,,,,
-2013,NGA,Total,2368,,,,
-2014,NGA,Total,2164,,,,
-2015,NGA,Total,1977,,,,
-2016,NGA,Total,1758,,,,
-2017,NGA,Total,2024,,,,
-2018,NGA,Total,1574,,,,
-2019,NGA,Total,1085,,,,
-2000,NIC,Total,13253,,,,
-2001,NIC,Total,13535,,,,
-2002,NIC,Total,12816,,,,
-2003,NIC,Total,11478,,,,
-2004,NIC,Total,9589,,,,
-2005,NIC,Total,12491,,,,
-2006,NIC,Total,7821,,,,
-2007,NIC,Total,8282,,,,
-2008,NIC,Total,5953,,,,
-2009,NIC,Total,8016,,,,
-2010,NIC,Total,8677,,,,
-2011,NIC,Total,7651,,,,
-2012,NIC,Total,3507,,,,
-2013,NIC,Total,4799,,,,
-2014,NIC,Total,6706,,,,
-2015,NIC,Total,6714,,,,
-2016,NIC,Total,9475,,,,
-2017,NIC,Total,7223,,,,
-2018,NIC,Total,7203,,,,
-2019,NIC,Total,7250,,,,
-2000,NLD,Total,121778,,,,
-2001,NLD,Total,123391,,,,
-2002,NLD,Total,109941,,,,
-2003,NLD,Total,111784,,,,
-2004,NLD,Total,98797,,,,
-2005,NLD,Total,93780,,,,
-2006,NLD,Total,83945,,,,
-2007,NLD,Total,89761,,,,
-2008,NLD,Total,86841,,,,
-2009,NLD,Total,97288,,,,
-2010,NLD,Total,105614,,,,
-2011,NLD,Total,83858,,,,
-2012,NLD,Total,90320,,,,
-2013,NLD,Total,94721,,,,
-2014,NLD,Total,89463,,,,
-2015,NLD,Total,77106,,,,
-2016,NLD,Total,82517,,,,
-2017,NLD,Total,74023,,,,
-2018,NLD,Total,100525,,,,
-2019,NLD,Total,77922,,,,
-2000,NOR,Total,47985,,,,
-2001,NOR,Total,42488,,,,
-2002,NOR,Total,44813,,,,
-2003,NOR,Total,48138,,,,
-2004,NOR,Total,48328,,,,
-2005,NOR,Total,45801,,,,
-2006,NOR,Total,45493,,,,
-2007,NOR,Total,49114,,,,
-2008,NOR,Total,48885,,,,
-2009,NOR,Total,51476,,,,
-2010,NOR,Total,57736,,,,
-2011,NOR,Total,10351,,,,
-2012,NOR,Total,9708,,,,
-2013,NOR,Total,8375,,,,
-2014,NOR,Total,8027,,,,
-2015,NOR,Total,7988,,,,
-2016,NOR,Total,8524,,,,
-2017,NOR,Total,8508,,,,
-2018,NOR,Total,8621,,,,
-2019,NOR,Total,9165,,,,
-2000,NZL,Total,65053,,,,
-2001,NZL,Total,67080,,,,
-2002,NZL,Total,63367,,,,
-2003,NZL,Total,62395,,,,
-2004,NZL,Total,59206,,,,
-2005,NZL,Total,55922,,,,
-2006,NZL,Total,50470,,,,
-2007,NZL,Total,48672,,,,
-2008,NZL,Total,42142,,,,
-2009,NZL,Total,39933,,,,
-2010,NZL,Total,40989,,,,
-2011,NZL,Total,41605,,,,
-2012,NZL,Total,42161,,,,
-2013,NZL,Total,42331,,,,
-2014,NZL,Total,49979,,,,
-2015,NZL,Total,55804,,,,
-2016,NZL,Total,65426,,,,
-2017,NZL,Total,67124,,,,
-2018,NZL,Total,58580,,,,
-2019,NZL,Total,63773,,,,
-2000,OMN,Total,2145,,,,
-2001,OMN,Total,1938,,,,
-2002,OMN,Total,3077,,,,
-2003,OMN,Total,2648,,,,
-2004,OMN,Total,3320,,,,
-2005,OMN,Total,3623,,,,
-2006,OMN,Total,2813,,,,
-2007,OMN,Total,2225,,,,
-2008,OMN,Total,2318,,,,
-2009,OMN,Total,2792,,,,
-2010,OMN,Total,2535,,,,
-2011,OMN,Total,2812,,,,
-2012,OMN,Total,2796,,,,
-2013,OMN,Total,2532,,,,
-2014,OMN,Total,2464,,,,
-2015,OMN,Total,2885,,,,
-2016,OMN,Total,3075,,,,
-2017,OMN,Total,2770,,,,
-2018,OMN,Total,3115,,,,
-2019,OMN,Total,3262,,,,
-2000,PAK,Total,32048,,,,
-2001,PAK,Total,31743,,,,
-2002,PAK,Total,28684,,,,
-2003,PAK,Total,6127,,,,
-2004,PAK,Total,6218,,,,
-2005,PAK,Total,5569,,,,
-2006,PAK,Total,5542,,,,
-2007,PAK,Total,4470,,,,
-2008,PAK,Total,4540,,,,
-2009,PAK,Total,5080,,,,
-2010,PAK,Total,5093,,,,
-2011,PAK,Total,5117,,,,
-2012,PAK,Total,5588,,,,
-2013,PAK,Total,5759,,,,
-2014,PAK,Total,5408,,,,
-2015,PAK,Total,5962,,,,
-2016,PAK,Total,5644,,,,
-2017,PAK,Total,6158,,,,
-2018,PAK,Total,5809,,,,
-2019,PAK,Total,4250,,,,
-2000,PAN,Total,31401,,,,
-2001,PAN,Total,31512,,,,
-2002,PAN,Total,23685,,,,
-2003,PAN,Total,28000,,,,
-2004,PAN,Total,25402,,,,
-2005,PAN,Total,20070,,,,
-2006,PAN,Total,25482,,,,
-2007,PAN,Total,32081,,,,
-2008,PAN,Total,27644,,,,
-2009,PAN,Total,27105,,,,
-2010,PAN,Total,19940,,,,
-2011,PAN,Total,17591,,,,
-2012,PAN,Total,7276,,,,
-2013,PAN,Total,64619,,,,
-2014,PAN,Total,12235,,,,
-2015,PAN,Total,13785,,,,
-2016,PAN,Total,15048,,,,
-2017,PAN,Total,17757,,,,
-2018,PAN,Total,21774,,,,
-2019,PAN,Total,30115,,,,
-2000,PER,Total,800532,,,,
-2001,PER,Total,442233,,,,
-2002,PER,Total,629800,,,,
-2003,PER,Total,355577,,,,
-2004,PER,Total,803726,,,,
-2005,PER,Total,718192,,,,
-2006,PER,Total,459827,,,,
-2007,PER,Total,477714,,,,
-2008,PER,Total,506453,,,,
-2009,PER,Total,663576,,,,
-2010,PER,Total,446460,,,,
-2011,PER,Total,780406,,,,
-2012,PER,Total,400928,,,,
-2013,PER,Total,506061,,,,
-2014,PER,Total,185964,,,,
-2015,PER,Total,333344,,,,
-2016,PER,Total,233970,,,,
-2017,PER,Total,191189,,,,
-2018,PER,Total,326784,,,,
-2019,PER,Total,214451,,,,
-2000,PHL,Total,25393,,,,
-2001,PHL,Total,26488,,,,
-2002,PHL,Total,25839,,,,
-2003,PHL,Total,29986,,,,
-2004,PHL,Total,30262,,,,
-2005,PHL,Total,29605,,,,
-2006,PHL,Total,25943,,,,
-2007,PHL,Total,30248,,,,
-2008,PHL,Total,28194,,,,
-2009,PHL,Total,28860,,,,
-2010,PHL,Total,25596,,,,
-2011,PHL,Total,21332,,,,
-2012,PHL,Total,22398,,,,
-2013,PHL,Total,22292,,,,
-2014,PHL,Total,23497,,,,
-2015,PHL,Total,21691,,,,
-2016,PHL,Total,20464,,,,
-2017,PHL,Total,18814,,,,
-2018,PHL,Total,18387,,,,
-2019,PHL,Total,18428,,,,
-2000,PLW,Total,3,,,,
-2004,PLW,Total,1,,,,
-2011,PLW,Total,0,,,,
-2000,PNG,Total,5156,,,,
-2001,PNG,Total,7248,,,,
-2002,PNG,Total,5175,,,,
-2003,PNG,Total,8425,,,,
-2004,PNG,Total,13721,,,,
-2005,PNG,Total,13496,,,,
-2006,PNG,Total,10388,,,,
-2007,PNG,Total,11708,,,,
-2008,PNG,Total,6769,,,,
-2009,PNG,Total,9507,,,,
-2010,PNG,Total,7365,,,,
-2011,PNG,Total,5472,,,,
-2012,PNG,Total,7281,,,,
-2013,PNG,Total,5215,,,,
-2014,PNG,Total,5793,,,,
-2015,PNG,Total,4632,,,,
-2016,PNG,Total,5845,,,,
-2017,PNG,Total,6416,,,,
-2018,PNG,Total,6605,,,,
-2019,PNG,Total,5696,,,,
-2000,POL,Total,9453,,,,
-2001,POL,Total,7300,,,,
-2002,POL,Total,6788,,,,
-2003,POL,Total,8548,,,,
-2004,POL,Total,7732,,,,
-2005,POL,Total,13335,,,,
-2006,POL,Total,15375,,,,
-2007,POL,Total,11289,,,,
-2008,POL,Total,9085,,,,
-2009,POL,Total,10421,,,,
-2010,POL,Total,11711,,,,
-2011,POL,Total,18852,,,,
-2012,POL,Total,21769,,,,
-2013,POL,Total,26354,,,,
-2014,POL,Total,21776,,,,
-2015,POL,Total,12850,,,,
-2016,POL,Total,16357,,,,
-2017,POL,Total,14230,,,,
-2018,POL,Total,11673,,,,
-2019,POL,Total,5147,,,,
-2000,PRI,Total,120,,,,
-2001,PRI,Total,92,,,,
-2002,PRI,Total,66,,,,
-2003,PRI,Total,53,,,,
-2004,PRI,Total,35,,,,
-2005,PRI,Total,27,,,,
-2006,PRI,Total,30,,,,
-2007,PRI,Total,22,,,,
-2008,PRI,Total,21,,,,
-2009,PRI,Total,20,,,,
-2010,PRI,Total,17,,,,
-2011,PRI,Total,14,,,,
-2012,PRI,Total,11,,,,
-2013,PRI,Total,8,,,,
-2014,PRI,Total,7,,,,
-2015,PRI,Total,25,,,,
-2016,PRI,Total,23,,,,
-2017,PRI,Total,19,,,,
-2018,PRI,Total,20,,,,
-2019,PRI,Total,18,,,,
-2000,PRK,Total,1071,,,,
-2001,PRK,Total,1012,,,,
-2002,PRK,Total,1085,,,,
-2003,PRK,Total,1125,,,,
-2004,PRK,Total,1576,,,,
-2005,PRK,Total,1225,,,,
-2006,PRK,Total,1244,,,,
-2007,PRK,Total,1160,,,,
-2008,PRK,Total,1118,,,,
-2009,PRK,Total,961,,,,
-2010,PRK,Total,961,,,,
-2011,PRK,Total,971,,,,
-2012,PRK,Total,995,,,,
-2013,PRK,Total,1010,,,,
-2014,PRK,Total,1064,,,,
-2015,PRK,Total,1064,,,,
-2016,PRK,Total,1064,,,,
-2017,PRK,Total,1064,,,,
-2018,PRK,Total,1064,,,,
-2019,PRK,Total,1064,,,,
-2000,PRT,Total,78943,,,,
-2001,PRT,Total,78763,,,,
-2002,PRT,Total,73844,,,,
-2003,PRT,Total,80997,,,,
-2004,PRT,Total,77741,,,,
-2005,PRT,Total,81997,,,,
-2006,PRT,Total,78707,,,,
-2007,PRT,Total,74726,,,,
-2008,PRT,Total,75715,,,,
-2009,PRT,Total,67378,,,,
-2010,PRT,Total,80037,,,,
-2011,PRT,Total,87751,,,,
-2012,PRT,Total,72994,,,,
-2013,PRT,Total,73948,,,,
-2014,PRT,Total,68518,,,,
-2015,PRT,Total,73787,,,,
-2016,PRT,Total,76019,,,,
-2017,PRT,Total,74638,,,,
-2018,PRT,Total,91372,,,,
-2019,PRT,Total,87955,,,,
-2000,PYF,Total,2904,,,,
-2001,PYF,Total,4159,,,,
-2002,PYF,Total,3203,,,,
-2003,PYF,Total,1302,,,,
-2004,PYF,Total,887,,,,
-2005,PYF,Total,896,,,,
-2006,PYF,Total,811,,,,
-2007,PYF,Total,1137,,,,
-2008,PYF,Total,739,,,,
-2009,PYF,Total,1150,,,,
-2010,PYF,Total,1011,,,,
-2011,PYF,Total,1089,,,,
-2012,PYF,Total,1344,,,,
-2013,PYF,Total,1431,,,,
-2014,PYF,Total,1633,,,,
-2015,PYF,Total,1802,,,,
-2016,PYF,Total,1685,,,,
-2017,PYF,Total,1458,,,,
-2018,PYF,Total,1849,,,,
-2019,PYF,Total,2215,,,,
-2000,QAT,Total,332,,,,
-2001,QAT,Total,409,,,,
-2002,QAT,Total,333,,,,
-2003,QAT,Total,519,,,,
-2004,QAT,Total,511,,,,
-2005,QAT,Total,636,,,,
-2006,QAT,Total,746,,,,
-2007,QAT,Total,691,,,,
-2008,QAT,Total,802,,,,
-2009,QAT,Total,639,,,,
-2010,QAT,Total,627,,,,
-2011,QAT,Total,593,,,,
-2012,QAT,Total,514,,,,
-2013,QAT,Total,549,,,,
-2014,QAT,Total,728,,,,
-2015,QAT,Total,684,,,,
-2016,QAT,Total,655,,,,
-2017,QAT,Total,654,,,,
-2018,QAT,Total,628,,,,
-2019,QAT,Total,727,,,,
-2000,REU,Total,852,,,,
-2001,REU,Total,839,,,,
-2002,REU,Total,782,,,,
-2003,REU,Total,722,,,,
-2004,REU,Total,748,,,,
-2005,REU,Total,1060,,,,
-2006,REU,Total,848,,,,
-2007,REU,Total,938,,,,
-2008,REU,Total,509,,,,
-2009,REU,Total,381,,,,
-2010,REU,Total,269,,,,
-2011,REU,Total,232,,,,
-2012,REU,Total,110,,,,
-2013,REU,Total,79,,,,
-2014,REU,Total,34,,,,
-2015,REU,Total,3,,,,
-2016,REU,Total,2,,,,
-2017,REU,Total,1,,,,
-2018,REU,Total,1,,,,
-2019,REU,Total,1,,,,
-2000,ROU,Total,15622,,,,
-2001,ROU,Total,15042,,,,
-2002,ROU,Total,14659,,,,
-2003,ROU,Total,13689,,,,
-2004,ROU,Total,13806,,,,
-2005,ROU,Total,13150,,,,
-2006,ROU,Total,12047,,,,
-2007,ROU,Total,12377,,,,
-2008,ROU,Total,12233,,,,
-2009,ROU,Total,11679,,,,
-2010,ROU,Total,11375,,,,
-2011,ROU,Total,2013,,,,
-2012,ROU,Total,2,,,,
-2013,ROU,Total,3,,,,
-2014,ROU,Total,3,,,,
-2015,ROU,Total,34,,,,
-2016,ROU,Total,49,,,,
-2017,ROU,Total,68,,,,
-2018,ROU,Total,55,,,,
-2019,ROU,Total,51,,,,
-2000,RUS,Total,2290796,,,,
-2001,RUS,Total,2319427,,,,
-2002,RUS,Total,1683857,,,,
-2003,RUS,Total,1961484,,,,
-2004,RUS,Total,1513297,,,,
-2005,RUS,Total,1698300,,,,
-2006,RUS,Total,1683973,,,,
-2007,RUS,Total,1864847,,,,
-2008,RUS,Total,1289487,,,,
-2009,RUS,Total,1291274,,,,
-2010,RUS,Total,1545657,,,,
-2011,RUS,Total,1594529,,,,
-2012,RUS,Total,1664917,,,,
-2013,RUS,Total,1683225,,,,
-2014,RUS,Total,1660388,,,,
-2015,RUS,Total,1723814,,,,
-2016,RUS,Total,1740755,,,,
-2017,RUS,Total,1819189,,,,
-2018,RUS,Total,1995609,,,,
-2019,RUS,Total,1966601,,,,
-2000,SAU,Total,7810,,,,
-2001,SAU,Total,6257,,,,
-2002,SAU,Total,7430,,,,
-2003,SAU,Total,7056,,,,
-2004,SAU,Total,4320,,,,
-2005,SAU,Total,6341,,,,
-2006,SAU,Total,5821,,,,
-2007,SAU,Total,6188,,,,
-2008,SAU,Total,6101,,,,
-2009,SAU,Total,6119,,,,
-2010,SAU,Total,6137,,,,
-2011,SAU,Total,6150,,,,
-2012,SAU,Total,6172,,,,
-2013,SAU,Total,6230,,,,
-2014,SAU,Total,6229,,,,
-2015,SAU,Total,6245,,,,
-2016,SAU,Total,6263,,,,
-2017,SAU,Total,6086,,,,
-2018,SAU,Total,6007,,,,
-2019,SAU,Total,5897,,,,
-2000,SDN,Total,53,,,,
-2001,SDN,Total,71,,,,
-2002,SDN,Total,88,,,,
-2003,SDN,Total,70,,,,
-2004,SDN,Total,52,,,,
-2005,SDN,Total,35,,,,
-2006,SDN,Total,17,,,,
-2008,SDN,Total,51,,,,
-2009,SDN,Total,102,,,,
-2000,SEN,Total,129569,,,,
-2001,SEN,Total,117173,,,,
-2002,SEN,Total,103886,,,,
-2003,SEN,Total,88100,,,,
-2004,SEN,Total,77561,,,,
-2005,SEN,Total,63286,,,,
-2006,SEN,Total,70672,,,,
-2007,SEN,Total,68272,,,,
-2008,SEN,Total,60540,,,,
-2009,SEN,Total,61703,,,,
-2010,SEN,Total,61540,,,,
-2011,SEN,Total,44406,,,,
-2012,SEN,Total,24387,,,,
-2013,SEN,Total,30153,,,,
-2014,SEN,Total,38768,,,,
-2015,SEN,Total,77589,,,,
-2016,SEN,Total,92027,,,,
-2017,SEN,Total,66917,,,,
-2018,SEN,Total,62319,,,,
-2019,SEN,Total,62636,,,,
-2000,SLB,Total,569,,,,
-2001,SLB,Total,524,,,,
-2002,SLB,Total,424,,,,
-2003,SLB,Total,726,,,,
-2004,SLB,Total,866,,,,
-2005,SLB,Total,624,,,,
-2006,SLB,Total,650,,,,
-2007,SLB,Total,591,,,,
-2008,SLB,Total,273,,,,
-2009,SLB,Total,408,,,,
-2010,SLB,Total,5165,,,,
-2011,SLB,Total,1173,,,,
-2012,SLB,Total,315,,,,
-2013,SLB,Total,238,,,,
-2014,SLB,Total,22513,,,,
-2015,SLB,Total,26542,,,,
-2016,SLB,Total,330,,,,
-2017,SLB,Total,270,,,,
-2018,SLB,Total,6826,,,,
-2019,SLB,Total,8222,,,,
-2000,SLE,Total,29404,,,,
-2001,SLE,Total,25695,,,,
-2002,SLE,Total,26628,,,,
-2003,SLE,Total,18058,,,,
-2004,SLE,Total,14267,,,,
-2005,SLE,Total,11398,,,,
-2006,SLE,Total,12290,,,,
-2007,SLE,Total,13544,,,,
-2008,SLE,Total,14713,,,,
-2009,SLE,Total,18257,,,,
-2010,SLE,Total,19898,,,,
-2011,SLE,Total,862,,,,
-2012,SLE,Total,785,,,,
-2013,SLE,Total,684,,,,
-2014,SLE,Total,657,,,,
-2015,SLE,Total,483,,,,
-2016,SLE,Total,483,,,,
-2017,SLE,Total,483,,,,
-2018,SLE,Total,483,,,,
-2019,SLE,Total,483,,,,
-2000,SLV,Total,13692,,,,
-2001,SLV,Total,14511,,,,
-2002,SLV,Total,14688,,,,
-2003,SLV,Total,16526,,,,
-2004,SLV,Total,13909,,,,
-2005,SLV,Total,14580,,,,
-2006,SLV,Total,11584,,,,
-2007,SLV,Total,12959,,,,
-2008,SLV,Total,10014,,,,
-2009,SLV,Total,7875,,,,
-2010,SLV,Total,6828,,,,
-2011,SLV,Total,2414,,,,
-2012,SLV,Total,2279,,,,
-2013,SLV,Total,2218,,,,
-2014,SLV,Total,2206,,,,
-2015,SLV,Total,8224,,,,
-2016,SLV,Total,9984,,,,
-2017,SLV,Total,10029,,,,
-2018,SLV,Total,7618,,,,
-2019,SLV,Total,7572,,,,
-2000,SOM,Total,4571,,,,
-2001,SOM,Total,5301,,,,
-2002,SOM,Total,6030,,,,
-2003,SOM,Total,6771,,,,
-2004,SOM,Total,6944,,,,
-2005,SOM,Total,5205,,,,
-2006,SOM,Total,5656,,,,
-2007,SOM,Total,6109,,,,
-2008,SOM,Total,6562,,,,
-2009,SOM,Total,6994,,,,
-2010,SOM,Total,7437,,,,
-2011,SOM,Total,7556,,,,
-2012,SOM,Total,7681,,,,
-2013,SOM,Total,7789,,,,
-2014,SOM,Total,7909,,,,
-2015,SOM,Total,8013,,,,
-2016,SOM,Total,8121,,,,
-2017,SOM,Total,8234,,,,
-2018,SOM,Total,8344,,,,
-2019,SOM,Total,8482,,,,
-2000,SPM,Total,8054,,,,
-2001,SPM,Total,5287,,,,
-2002,SPM,Total,4608,,,,
-2003,SPM,Total,4541,,,,
-2004,SPM,Total,4978,,,,
-2005,SPM,Total,5421,,,,
-2006,SPM,Total,3087,,,,
-2007,SPM,Total,7095,,,,
-2008,SPM,Total,5749,,,,
-2009,SPM,Total,4563,,,,
-2010,SPM,Total,5272,,,,
-2011,SPM,Total,4176,,,,
-2012,SPM,Total,4005,,,,
-2013,SPM,Total,3662,,,,
-2014,SPM,Total,3128,,,,
-2015,SPM,Total,2752,,,,
-2016,SPM,Total,2079,,,,
-2017,SPM,Total,2079,,,,
-2018,SPM,Total,2079,,,,
-2019,SPM,Total,2079,,,,
-2000,STP,Total,121,,,,
-2001,STP,Total,52,,,,
-2002,STP,Total,74,,,,
-2003,STP,Total,60,,,,
-2004,STP,Total,62,,,,
-2005,STP,Total,1,,,,
-2006,STP,Total,1,,,,
-2007,STP,Total,1,,,,
-2008,STP,Total,1,,,,
-2009,STP,Total,21,,,,
-2010,STP,Total,1,,,,
-2011,STP,Total,1,,,,
-2000,SUR,Total,29070,,,,
-2001,SUR,Total,36838,,,,
-2002,SUR,Total,34729,,,,
-2003,SUR,Total,32111,,,,
-2004,SUR,Total,25261,,,,
-2005,SUR,Total,22510,,,,
-2006,SUR,Total,14126,,,,
-2007,SUR,Total,13513,,,,
-2008,SUR,Total,4092,,,,
-2009,SUR,Total,4547,,,,
-2010,SUR,Total,7797,,,,
-2011,SUR,Total,7261,,,,
-2012,SUR,Total,7619,,,,
-2013,SUR,Total,7388,,,,
-2014,SUR,Total,4253,,,,
-2015,SUR,Total,5586,,,,
-2016,SUR,Total,6261,,,,
-2017,SUR,Total,6821,,,,
-2018,SUR,Total,7403,,,,
-2019,SUR,Total,5118,,,,
-2000,SVN,Total,3743,,,,
-2001,SVN,Total,3286,,,,
-2002,SVN,Total,4687,,,,
-2003,SVN,Total,3547,,,,
-2004,SVN,Total,4645,,,,
-2005,SVN,Total,3689,,,,
-2006,SVN,Total,2613,,,,
-2007,SVN,Total,4351,,,,
-2008,SVN,Total,4864,,,,
-2009,SVN,Total,4245,,,,
-2010,SVN,Total,4216,,,,
-2011,SVN,Total,780,,,,
-2012,SVN,Total,30,,,,
-2013,SVN,Total,28,,,,
-2014,SVN,Total,21,,,,
-2015,SVN,Total,22,,,,
-2016,SVN,Total,16,,,,
-2017,SVN,Total,10,,,,
-2018,SVN,Total,14,,,,
-2019,SVN,Total,13,,,,
-2000,SWE,Total,6144,,,,
-2001,SWE,Total,7677,,,,
-2002,SWE,Total,8918,,,,
-2003,SWE,Total,9468,,,,
-2004,SWE,Total,6302,,,,
-2005,SWE,Total,4777,,,,
-2006,SWE,Total,5969,,,,
-2007,SWE,Total,3603,,,,
-2008,SWE,Total,3837,,,,
-2009,SWE,Total,4045,,,,
-2010,SWE,Total,4816,,,,
-2011,SWE,Total,11859,,,,
-2012,SWE,Total,8943,,,,
-2013,SWE,Total,10997,,,,
-2014,SWE,Total,10197,,,,
-2015,SWE,Total,23798,,,,
-2016,SWE,Total,21905,,,,
-2017,SWE,Total,24658,,,,
-2018,SWE,Total,16976,,,,
-2019,SWE,Total,15883,,,,
-2000,SYC,Total,1729,,,,
-2001,SYC,Total,2502,,,,
-2002,SYC,Total,3609,,,,
-2003,SYC,Total,5131,,,,
-2004,SYC,Total,5812,,,,
-2005,SYC,Total,6412,,,,
-2006,SYC,Total,4555,,,,
-2007,SYC,Total,3977,,,,
-2008,SYC,Total,3769,,,,
-2009,SYC,Total,4902,,,,
-2010,SYC,Total,4598,,,,
-2011,SYC,Total,4155,,,,
-2012,SYC,Total,4923,,,,
-2013,SYC,Total,4892,,,,
-2014,SYC,Total,2062,,,,
-2015,SYC,Total,5827,,,,
-2016,SYC,Total,7355,,,,
-2017,SYC,Total,7707,,,,
-2018,SYC,Total,8451,,,,
-2019,SYC,Total,7872,,,,
-2000,SYR,Total,447,,,,
-2001,SYR,Total,433,,,,
-2002,SYR,Total,419,,,,
-2003,SYR,Total,405,,,,
-2004,SYR,Total,390,,,,
-2005,SYR,Total,376,,,,
-2006,SYR,Total,414,,,,
-2007,SYR,Total,399,,,,
-2008,SYR,Total,426,,,,
-2009,SYR,Total,406,,,,
-2010,SYR,Total,388,,,,
-2011,SYR,Total,194,,,,
-2012,SYR,Total,194,,,,
-2013,SYR,Total,194,,,,
-2014,SYR,Total,194,,,,
-2015,SYR,Total,194,,,,
-2016,SYR,Total,280,,,,
-2017,SYR,Total,283,,,,
-2018,SYR,Total,308,,,,
-2019,SYR,Total,333,,,,
-2013,TCA,Total,6,,,,
-2014,TCA,Total,6,,,,
-2000,TGO,Total,527,,,,
-2001,TGO,Total,687,,,,
-2002,TGO,Total,651,,,,
-2003,TGO,Total,496,,,,
-2004,TGO,Total,227,,,,
-2005,TGO,Total,284,,,,
-2006,TGO,Total,254,,,,
-2007,TGO,Total,344,,,,
-2008,TGO,Total,232,,,,
-2009,TGO,Total,168,,,,
-2010,TGO,Total,183,,,,
-2011,TGO,Total,166,,,,
-2012,TGO,Total,204,,,,
-2013,TGO,Total,190,,,,
-2014,TGO,Total,148,,,,
-2015,TGO,Total,158,,,,
-2016,TGO,Total,165,,,,
-2017,TGO,Total,159,,,,
-2018,TGO,Total,159,,,,
-2019,TGO,Total,159,,,,
-2000,THA,Total,65753,,,,
-2001,THA,Total,59429,,,,
-2002,THA,Total,56982,,,,
-2003,THA,Total,56443,,,,
-2004,THA,Total,52681,,,,
-2005,THA,Total,52183,,,,
-2006,THA,Total,51126,,,,
-2007,THA,Total,41862,,,,
-2008,THA,Total,38640,,,,
-2009,THA,Total,37087,,,,
-2010,THA,Total,32591,,,,
-2011,THA,Total,32968,,,,
-2012,THA,Total,31126,,,,
-2013,THA,Total,33325,,,,
-2014,THA,Total,31442,,,,
-2015,THA,Total,28681,,,,
-2016,THA,Total,29321,,,,
-2017,THA,Total,28712,,,,
-2018,THA,Total,28219,,,,
-2019,THA,Total,28505,,,,
-2000,TTO,Total,3924,,,,
-2001,TTO,Total,5827,,,,
-2002,TTO,Total,6029,,,,
-2003,TTO,Total,4865,,,,
-2004,TTO,Total,5357,,,,
-2005,TTO,Total,6204,,,,
-2006,TTO,Total,4720,,,,
-2007,TTO,Total,4402,,,,
-2008,TTO,Total,4852,,,,
-2009,TTO,Total,4714,,,,
-2010,TTO,Total,4772,,,,
-2011,TTO,Total,4578,,,,
-2012,TTO,Total,4084,,,,
-2013,TTO,Total,4742,,,,
-2014,TTO,Total,4751,,,,
-2015,TTO,Total,3904,,,,
-2016,TTO,Total,4537,,,,
-2017,TTO,Total,4530,,,,
-2018,TTO,Total,4646,,,,
-2019,TTO,Total,4621,,,,
-2000,TUN,Total,13339,,,,
-2001,TUN,Total,13590,,,,
-2002,TUN,Total,13610,,,,
-2003,TUN,Total,13909,,,,
-2004,TUN,Total,14479,,,,
-2005,TUN,Total,13009,,,,
-2006,TUN,Total,12224,,,,
-2007,TUN,Total,11550,,,,
-2008,TUN,Total,10522,,,,
-2009,TUN,Total,10271,,,,
-2010,TUN,Total,11485,,,,
-2011,TUN,Total,11633,,,,
-2012,TUN,Total,13200,,,,
-2013,TUN,Total,13693,,,,
-2014,TUN,Total,13912,,,,
-2015,TUN,Total,14104,,,,
-2016,TUN,Total,13822,,,,
-2017,TUN,Total,12932,,,,
-2018,TUN,Total,12163,,,,
-2019,TUN,Total,12438,,,,
-2000,TUR,Total,44915,,,,
-2001,TUR,Total,44033,,,,
-2002,TUR,Total,41655,,,,
-2003,TUR,Total,38905,,,,
-2004,TUR,Total,42044,,,,
-2005,TUR,Total,39308,,,,
-2006,TUR,Total,41680,,,,
-2007,TUR,Total,50145,,,,
-2008,TUR,Total,46297,,,,
-2009,TUR,Total,45890,,,,
-2010,TUR,Total,47326,,,,
-2011,TUR,Total,50954,,,,
-2012,TUR,Total,38430,,,,
-2013,TUR,Total,36687,,,,
-2014,TUR,Total,35000,,,,
-2015,TUR,Total,45526,,,,
-2016,TUR,Total,37904,,,,
-2017,TUR,Total,37679,,,,
-2018,TUR,Total,36582,,,,
-2019,TUR,Total,43924,,,,
-2009,TUV,Total,118,,,,
-2010,TUV,Total,186,,,,
-2011,TUV,Total,163,,,,
-2012,TUV,Total,292,,,,
-2013,TUV,Total,351,,,,
-2014,TUV,Total,209,,,,
-2015,TUV,Total,181,,,,
-2016,TUV,Total,238,,,,
-2017,TUV,Total,223,,,,
-2018,TUV,Total,436,,,,
-2019,TUV,Total,267,,,,
-2000,TWN,Total,117043,,,,
-2001,TWN,Total,125249,,,,
-2002,TWN,Total,132150,,,,
-2003,TWN,Total,132632,,,,
-2004,TWN,Total,122326,,,,
-2005,TWN,Total,109774,,,,
-2006,TWN,Total,85725,,,,
-2007,TWN,Total,77318,,,,
-2008,TWN,Total,63639,,,,
-2009,TWN,Total,73332,,,,
-2010,TWN,Total,69752,,,,
-2011,TWN,Total,75017,,,,
-2012,TWN,Total,101903,,,,
-2013,TWN,Total,98968,,,,
-2014,TWN,Total,102158,,,,
-2015,TWN,Total,95344,,,,
-2016,TWN,Total,123480,,,,
-2017,TWN,Total,84387,,,,
-2018,TWN,Total,91920,,,,
-2019,TWN,Total,101144,,,,
-2000,TZA,Total,3639,,,,
-2001,TZA,Total,3535,,,,
-2002,TZA,Total,3571,,,,
-2003,TZA,Total,3033,,,,
-2004,TZA,Total,2342,,,,
-2005,TZA,Total,3382,,,,
-2006,TZA,Total,3566,,,,
-2007,TZA,Total,3199,,,,
-2008,TZA,Total,2056,,,,
-2009,TZA,Total,2051,,,,
-2010,TZA,Total,2824,,,,
-2011,TZA,Total,3365,,,,
-2012,TZA,Total,2946,,,,
-2013,TZA,Total,2831,,,,
-2014,TZA,Total,2694,,,,
-2015,TZA,Total,2913,,,,
-2016,TZA,Total,2864,,,,
-2017,TZA,Total,2718,,,,
-2018,TZA,Total,2664,,,,
-2019,TZA,Total,5557,,,,
-2000,UKR,Total,109498,,,,
-2001,UKR,Total,109145,,,,
-2002,UKR,Total,99328,,,,
-2003,UKR,Total,101376,,,,
-2004,UKR,Total,94098,,,,
-2005,UKR,Total,77717,,,,
-2006,UKR,Total,69184,,,,
-2007,UKR,Total,62542,,,,
-2008,UKR,Total,55904,,,,
-2009,UKR,Total,52603,,,,
-2010,UKR,Total,48372,,,,
-2011,UKR,Total,39770,,,,
-2012,UKR,Total,39052,,,,
-2013,UKR,Total,40438,,,,
-2014,UKR,Total,39109,,,,
-2015,UKR,Total,38332,,,,
-2016,UKR,Total,35502,,,,
-2017,UKR,Total,36411,,,,
-2018,UKR,Total,37863,,,,
-2019,UKR,Total,40607,,,,
-2000,URY,Total,14222,,,,
-2001,URY,Total,8863,,,,
-2002,URY,Total,9335,,,,
-2003,URY,Total,10293,,,,
-2004,URY,Total,10947,,,,
-2005,URY,Total,11364,,,,
-2006,URY,Total,11786,,,,
-2007,URY,Total,9382,,,,
-2008,URY,Total,9630,,,,
-2009,URY,Total,7424,,,,
-2010,URY,Total,6540,,,,
-2011,URY,Total,7630,,,,
-2012,URY,Total,6410,,,,
-2013,URY,Total,4817,,,,
-2014,URY,Total,5277,,,,
-2015,URY,Total,4678,,,,
-2016,URY,Total,3908,,,,
-2017,URY,Total,4857,,,,
-2018,URY,Total,5312,,,,
-2019,URY,Total,5211,,,,
-2000,USA,Total,967324,,,,
-2001,USA,Total,900766,,,,
-2002,USA,Total,934793,,,,
-2003,USA,Total,948447,,,,
-2004,USA,Total,1005190,,,,
-2005,USA,Total,806799,,,,
-2006,USA,Total,891663,,,,
-2007,USA,Total,798693,,,,
-2008,USA,Total,729099,,,,
-2009,USA,Total,845145,,,,
-2010,USA,Total,802167,,,,
-2011,USA,Total,861156,,,,
-2012,USA,Total,797402,,,,
-2013,USA,Total,721249,,,,
-2014,USA,Total,747007,,,,
-2015,USA,Total,755276,,,,
-2016,USA,Total,747419,,,,
-2017,USA,Total,523473,,,,
-2018,USA,Total,534683,,,,
-2019,USA,Total,512065,,,,
-2000,VCT,Total,1914,,,,
-2001,VCT,Total,3214,,,,
-2002,VCT,Total,527,,,,
-2003,VCT,Total,1080,,,,
-2004,VCT,Total,2117,,,,
-2005,VCT,Total,1480,,,,
-2006,VCT,Total,896,,,,
-2007,VCT,Total,1008,,,,
-2008,VCT,Total,860,,,,
-2009,VCT,Total,832,,,,
-2010,VCT,Total,434,,,,
-2011,VCT,Total,470,,,,
-2012,VCT,Total,1616,,,,
-2013,VCT,Total,1736,,,,
-2014,VCT,Total,2568,,,,
-2015,VCT,Total,2943,,,,
-2016,VCT,Total,1319,,,,
-2017,VCT,Total,1854,,,,
-2018,VCT,Total,365,,,,
-2019,VCT,Total,233,,,,
-2000,VEN,Total,25791,,,,
-2001,VEN,Total,30117,,,,
-2002,VEN,Total,31137,,,,
-2003,VEN,Total,23424,,,,
-2004,VEN,Total,23344,,,,
-2005,VEN,Total,23087,,,,
-2006,VEN,Total,17883,,,,
-2007,VEN,Total,15267,,,,
-2008,VEN,Total,13150,,,,
-2009,VEN,Total,6280,,,,
-2010,VEN,Total,4689,,,,
-2011,VEN,Total,2644,,,,
-2012,VEN,Total,2726,,,,
-2013,VEN,Total,2763,,,,
-2014,VEN,Total,2639,,,,
-2015,VEN,Total,2773,,,,
-2016,VEN,Total,2926,,,,
-2017,VEN,Total,2977,,,,
-2018,VEN,Total,2690,,,,
-2019,VEN,Total,2599,,,,
-2000,VGB,Total,0,,,,
-2001,VGB,Total,2,,,,
-2002,VGB,Total,2,,,,
-2003,VGB,Total,1,,,,
-2004,VGB,Total,1,,,,
-2005,VGB,Total,1,,,,
-2006,VGB,Total,2,,,,
-2007,VGB,Total,1,,,,
-2008,VGB,Total,1,,,,
-2009,VGB,Total,1,,,,
-2010,VGB,Total,1,,,,
-2011,VGB,Total,1,,,,
-2012,VGB,Total,1,,,,
-2013,VGB,Total,1,,,,
-2014,VGB,Total,1,,,,
-2015,VGB,Total,0,,,,
-2016,VGB,Total,0,,,,
-2017,VGB,Total,0,,,,
-2018,VGB,Total,0,,,,
-2019,VGB,Total,0,,,,
-2000,VNM,Total,255635,,,,
-2001,VNM,Total,272920,,,,
-2002,VNM,Total,290498,,,,
-2003,VNM,Total,308463,,,,
-2004,VNM,Total,330016,,,,
-2005,VNM,Total,349313,,,,
-2006,VNM,Total,368328,,,,
-2007,VNM,Total,389514,,,,
-2008,VNM,Total,409564,,,,
-2009,VNM,Total,431557,,,,
-2010,VNM,Total,453378,,,,
-2011,VNM,Total,500724,,,,
-2012,VNM,Total,536698,,,,
-2013,VNM,Total,569128,,,,
-2014,VNM,Total,601214,,,,
-2015,VNM,Total,641541,,,,
-2016,VNM,Total,695049,,,,
-2017,VNM,Total,758551,,,,
-2018,VNM,Total,772093,,,,
-2019,VNM,Total,805059,,,,
-2000,VUT,Total,6279,,,,
-2001,VUT,Total,6437,,,,
-2002,VUT,Total,8208,,,,
-2003,VUT,Total,10297,,,,
-2004,VUT,Total,13448,,,,
-2005,VUT,Total,10835,,,,
-2006,VUT,Total,12861,,,,
-2007,VUT,Total,11988,,,,
-2008,VUT,Total,9630,,,,
-2009,VUT,Total,12365,,,,
-2010,VUT,Total,13863,,,,
-2011,VUT,Total,9605,,,,
-2012,VUT,Total,13102,,,,
-2013,VUT,Total,11187,,,,
-2014,VUT,Total,12165,,,,
-2015,VUT,Total,18164,,,,
-2016,VUT,Total,6806,,,,
-2017,VUT,Total,9071,,,,
-2018,VUT,Total,8958,,,,
-2019,VUT,Total,10234,,,,
-2000,WSM,Total,257,,,,
-2001,WSM,Total,270,,,,
-2002,WSM,Total,232,,,,
-2003,WSM,Total,132,,,,
-2004,WSM,Total,87,,,,
-2005,WSM,Total,75,,,,
-2006,WSM,Total,126,,,,
-2007,WSM,Total,172,,,,
-2008,WSM,Total,136,,,,
-2009,WSM,Total,164,,,,
-2010,WSM,Total,148,,,,
-2011,WSM,Total,86,,,,
-2012,WSM,Total,107,,,,
-2013,WSM,Total,91,,,,
-2014,WSM,Total,50,,,,
-2015,WSM,Total,52,,,,
-2016,WSM,Total,58,,,,
-2017,WSM,Total,88,,,,
-2018,WSM,Total,82,,,,
-2019,WSM,Total,1563,,,,
-2000,YEM,Total,31427,,,,
-2001,YEM,Total,36955,,,,
-2002,YEM,Total,43402,,,,
-2003,YEM,Total,28209,,,,
-2004,YEM,Total,22763,,,,
-2005,YEM,Total,12884,,,,
-2006,YEM,Total,4294,,,,
-2007,YEM,Total,9856,,,,
-2008,YEM,Total,1033,,,,
-2009,YEM,Total,1345,,,,
-2010,YEM,Total,1651,,,,
-2011,YEM,Total,2102,,,,
-2012,YEM,Total,3534,,,,
-2013,YEM,Total,3950,,,,
-2014,YEM,Total,3541,,,,
-2015,YEM,Total,3042,,,,
-2016,YEM,Total,2600,,,,
-2017,YEM,Total,2224,,,,
-2018,YEM,Total,2270,,,,
-2019,YEM,Total,2275,,,,
-2000,ZAF,Total,44489,,,,
-2001,ZAF,Total,52038,,,,
-2002,ZAF,Total,51644,,,,
-2003,ZAF,Total,55809,,,,
-2004,ZAF,Total,59752,,,,
-2005,ZAF,Total,55138,,,,
-2006,ZAF,Total,41549,,,,
-2007,ZAF,Total,45572,,,,
-2008,ZAF,Total,43061,,,,
-2009,ZAF,Total,33590,,,,
-2010,ZAF,Total,41706,,,,
-2011,ZAF,Total,34733,,,,
-2012,ZAF,Total,47306,,,,
-2013,ZAF,Total,27490,,,,
-2014,ZAF,Total,39911,,,,
-2015,ZAF,Total,37776,,,,
-2016,ZAF,Total,41257,,,,
-2017,ZAF,Total,35435,,,,
-2018,ZAF,Total,36907,,,,
-2019,ZAF,Total,28976,,,,
+﻿year,geo,disagg,value
+2000,WLD,Total,10849075
+2001,WLD,Total,10422491
+2002,WLD,Total,9882471
+2003,WLD,Total,9710432
+2004,WLD,Total,9452639
+2005,WLD,Total,8995825
+2006,WLD,Total,8617805
+2007,WLD,Total,8719024
+2008,WLD,Total,7924204
+2009,WLD,Total,8124732
+2010,WLD,Total,8218780
+2011,WLD,Total,8479949
+2012,WLD,Total,7820519
+2013,WLD,Total,7788204
+2014,WLD,Total,8198275
+2015,WLD,Total,8163391
+2016,WLD,Total,8074071
+2017,WLD,Total,7985762
+2018,WLD,Total,8422364
+2019,WLD,Total,8371461
+2000,WLD,Dredges,196712
+2000,WLD,Gillnets and entangling nets,310796
+2000,WLD,Hook and line gear,366558
+2000,WLD,Mixed,361930
+2000,WLD,Other gear,102230
+2000,WLD,Small-scale gear,800041
+2000,WLD,Surrounding nets,1365693
+2000,WLD,Traps,8521
+2000,WLD,Trawls,7105683
+2000,WLD,Unknown,230910
+2001,WLD,Dredges,266765
+2001,WLD,Gillnets and entangling nets,305942
+2001,WLD,Hook and line gear,400843
+2001,WLD,Mixed,318764
+2001,WLD,Other gear,97457
+2001,WLD,Small-scale gear,824834
+2001,WLD,Surrounding nets,987582
+2001,WLD,Traps,9190
+2001,WLD,Trawls,6959424
+2001,WLD,Unknown,251691
+2002,WLD,Dredges,303333
+2002,WLD,Gillnets and entangling nets,285553
+2002,WLD,Hook and line gear,389060
+2002,WLD,Mixed,295992
+2002,WLD,Other gear,100277
+2002,WLD,Small-scale gear,831451
+2002,WLD,Surrounding nets,1113943
+2002,WLD,Traps,8825
+2002,WLD,Trawls,6269888
+2002,WLD,Unknown,284150
+2003,WLD,Dredges,320964
+2003,WLD,Gillnets and entangling nets,250320
+2003,WLD,Hook and line gear,385140
+2003,WLD,Mixed,278316
+2003,WLD,Other gear,105606
+2003,WLD,Small-scale gear,847181
+2003,WLD,Surrounding nets,840899
+2003,WLD,Traps,8776
+2003,WLD,Trawls,6455255
+2003,WLD,Unknown,217974
+2004,WLD,Dredges,341260
+2004,WLD,Gillnets and entangling nets,231246
+2004,WLD,Hook and line gear,382142
+2004,WLD,Mixed,265189
+2004,WLD,Other gear,100441
+2004,WLD,Small-scale gear,843979
+2004,WLD,Surrounding nets,1216290
+2004,WLD,Traps,8553
+2004,WLD,Trawls,5870621
+2004,WLD,Unknown,192919
+2005,WLD,Dredges,297991
+2005,WLD,Gillnets and entangling nets,282124
+2005,WLD,Hook and line gear,356869
+2005,WLD,Mixed,278201
+2005,WLD,Other gear,97191
+2005,WLD,Small-scale gear,773938
+2005,WLD,Surrounding nets,1140410
+2005,WLD,Traps,7748
+2005,WLD,Trawls,5558059
+2005,WLD,Unknown,203292
+2006,WLD,Dredges,293603
+2006,WLD,Gillnets and entangling nets,251604
+2006,WLD,Hook and line gear,348928
+2006,WLD,Mixed,248361
+2006,WLD,Other gear,99483
+2006,WLD,Small-scale gear,750338
+2006,WLD,Surrounding nets,815293
+2006,WLD,Traps,9246
+2006,WLD,Trawls,5596135
+2006,WLD,Unknown,204813
+2007,WLD,Dredges,276990
+2007,WLD,Gillnets and entangling nets,270174
+2007,WLD,Hook and line gear,322671
+2007,WLD,Mixed,259353
+2007,WLD,Other gear,103577
+2007,WLD,Small-scale gear,732411
+2007,WLD,Surrounding nets,823828
+2007,WLD,Traps,8195
+2007,WLD,Trawls,5727699
+2007,WLD,Unknown,194127
+2008,WLD,Dredges,246102
+2008,WLD,Gillnets and entangling nets,272713
+2008,WLD,Hook and line gear,319740
+2008,WLD,Mixed,154434
+2008,WLD,Other gear,105368
+2008,WLD,Small-scale gear,749957
+2008,WLD,Surrounding nets,869804
+2008,WLD,Traps,9502
+2008,WLD,Trawls,5003118
+2008,WLD,Unknown,193466
+2009,WLD,Dredges,247690
+2009,WLD,Gillnets and entangling nets,177286
+2009,WLD,Hook and line gear,347692
+2009,WLD,Mixed,172082
+2009,WLD,Other gear,103841
+2009,WLD,Small-scale gear,716168
+2009,WLD,Surrounding nets,1109450
+2009,WLD,Traps,9040
+2009,WLD,Trawls,5034278
+2009,WLD,Unknown,207204
+2010,WLD,Dredges,235871
+2010,WLD,Gillnets and entangling nets,292839
+2010,WLD,Hook and line gear,322418
+2010,WLD,Mixed,180800
+2010,WLD,Other gear,105903
+2010,WLD,Small-scale gear,698317
+2010,WLD,Surrounding nets,841722
+2010,WLD,Traps,5844
+2010,WLD,Trawls,5280093
+2010,WLD,Unknown,254973
+2011,WLD,Dredges,228009
+2011,WLD,Gillnets and entangling nets,292827
+2011,WLD,Hook and line gear,318878
+2011,WLD,Mixed,299066
+2011,WLD,Other gear,107630
+2011,WLD,Small-scale gear,718089
+2011,WLD,Surrounding nets,1100304
+2011,WLD,Traps,3824
+2011,WLD,Trawls,5212656
+2011,WLD,Unknown,198667
+2012,WLD,Dredges,222153
+2012,WLD,Gillnets and entangling nets,280909
+2012,WLD,Hook and line gear,333359
+2012,WLD,Mixed,308721
+2012,WLD,Other gear,88835
+2012,WLD,Small-scale gear,769388
+2012,WLD,Surrounding nets,754395
+2012,WLD,Traps,11236
+2012,WLD,Trawls,4861921
+2012,WLD,Unknown,189602
+2013,WLD,Dredges,165070
+2013,WLD,Gillnets and entangling nets,285527
+2013,WLD,Hook and line gear,331497
+2013,WLD,Mixed,323682
+2013,WLD,Other gear,99740
+2013,WLD,Small-scale gear,728287
+2013,WLD,Surrounding nets,883555
+2013,WLD,Traps,5427
+2013,WLD,Trawls,4799555
+2013,WLD,Unknown,165863
+2014,WLD,Dredges,131592
+2014,WLD,Gillnets and entangling nets,404899
+2014,WLD,Hook and line gear,348565
+2014,WLD,Mixed,348835
+2014,WLD,Other gear,111034
+2014,WLD,Small-scale gear,741635
+2014,WLD,Surrounding nets,676355
+2014,WLD,Traps,6327
+2014,WLD,Trawls,5213872
+2014,WLD,Unknown,215162
+2015,WLD,Dredges,136804
+2015,WLD,Gillnets and entangling nets,286351
+2015,WLD,Hook and line gear,314099
+2015,WLD,Mixed,362256
+2015,WLD,Other gear,111081
+2015,WLD,Small-scale gear,749675
+2015,WLD,Surrounding nets,733416
+2015,WLD,Traps,4839
+2015,WLD,Trawls,5240622
+2015,WLD,Unknown,224248
+2016,WLD,Dredges,144721
+2016,WLD,Gillnets and entangling nets,194450
+2016,WLD,Hook and line gear,283499
+2016,WLD,Mixed,375117
+2016,WLD,Other gear,111091
+2016,WLD,Small-scale gear,725195
+2016,WLD,Surrounding nets,668039
+2016,WLD,Traps,4556
+2016,WLD,Trawls,5355122
+2016,WLD,Unknown,212282
+2017,WLD,Dredges,74107
+2017,WLD,Gillnets and entangling nets,245256
+2017,WLD,Hook and line gear,280482
+2017,WLD,Mixed,385923
+2017,WLD,Other gear,104691
+2017,WLD,Small-scale gear,727741
+2017,WLD,Surrounding nets,605159
+2017,WLD,Traps,5816
+2017,WLD,Trawls,5341221
+2017,WLD,Unknown,215364
+2018,WLD,Dredges,70778
+2018,WLD,Gillnets and entangling nets,265415
+2018,WLD,Hook and line gear,293271
+2018,WLD,Mixed,426509
+2018,WLD,Other gear,105394
+2018,WLD,Small-scale gear,784906
+2018,WLD,Surrounding nets,784459
+2018,WLD,Traps,5641
+2018,WLD,Trawls,5489944
+2018,WLD,Unknown,196049
+2019,WLD,Dredges,64605
+2019,WLD,Gillnets and entangling nets,259213
+2019,WLD,Hook and line gear,334857
+2019,WLD,Mixed,427188
+2019,WLD,Other gear,104623
+2019,WLD,Small-scale gear,765485
+2019,WLD,Surrounding nets,669041
+2019,WLD,Traps,4790
+2019,WLD,Trawls,5564917
+2019,WLD,Unknown,176742
+2000,ABW,Total,10
+2001,ABW,Total,7
+2002,ABW,Total,8
+2003,ABW,Total,3
+2004,ABW,Total,3
+2005,ABW,Total,3
+2006,ABW,Total,3
+2007,ABW,Total,3
+2008,ABW,Total,3
+2009,ABW,Total,3
+2010,ABW,Total,3
+2011,ABW,Total,3
+2012,ABW,Total,3
+2013,ABW,Total,3
+2014,ABW,Total,3
+2015,ABW,Total,3
+2016,ABW,Total,3
+2017,ABW,Total,3
+2018,ABW,Total,3
+2019,ABW,Total,3
+2000,AGO,Total,33447
+2001,AGO,Total,46585
+2002,AGO,Total,31362
+2003,AGO,Total,30584
+2004,AGO,Total,34772
+2005,AGO,Total,42305
+2006,AGO,Total,47072
+2007,AGO,Total,53592
+2008,AGO,Total,38256
+2009,AGO,Total,41078
+2010,AGO,Total,36782
+2011,AGO,Total,43414
+2012,AGO,Total,45390
+2013,AGO,Total,46278
+2014,AGO,Total,54217
+2015,AGO,Total,41395
+2016,AGO,Total,42774
+2017,AGO,Total,40655
+2018,AGO,Total,49530
+2019,AGO,Total,47385
+2000,ALB,Total,722
+2001,ALB,Total,516
+2002,ALB,Total,719
+2003,ALB,Total,342
+2004,ALB,Total,793
+2005,ALB,Total,868
+2006,ALB,Total,1011
+2007,ALB,Total,899
+2008,ALB,Total,1045
+2009,ALB,Total,1145
+2010,ALB,Total,959
+2011,ALB,Total,933
+2012,ALB,Total,2203
+2013,ALB,Total,2294
+2014,ALB,Total,1871
+2015,ALB,Total,1773
+2016,ALB,Total,1655
+2017,ALB,Total,1649
+2018,ALB,Total,1931
+2019,ALB,Total,1809
+2000,ARE,Total,470
+2001,ARE,Total,938
+2002,ARE,Total,866
+2003,ARE,Total,906
+2004,ARE,Total,809
+2005,ARE,Total,762
+2006,ARE,Total,815
+2007,ARE,Total,375
+2008,ARE,Total,379
+2009,ARE,Total,573
+2010,ARE,Total,466
+2011,ARE,Total,453
+2012,ARE,Total,440
+2013,ARE,Total,411
+2014,ARE,Total,424
+2015,ARE,Total,438
+2016,ARE,Total,442
+2017,ARE,Total,439
+2018,ARE,Total,467
+2019,ARE,Total,506
+2000,ARG,Total,128086
+2001,ARG,Total,137678
+2002,ARG,Total,111121
+2003,ARG,Total,114879
+2004,ARG,Total,114258
+2005,ARG,Total,102311
+2006,ARG,Total,112323
+2007,ARG,Total,100996
+2008,ARG,Total,112809
+2009,ARG,Total,107435
+2010,ARG,Total,75321
+2011,ARG,Total,68429
+2012,ARG,Total,67240
+2013,ARG,Total,79936
+2014,ARG,Total,78217
+2015,ARG,Total,78876
+2016,ARG,Total,73769
+2017,ARG,Total,77116
+2018,ARG,Total,87842
+2019,ARG,Total,87112
+2000,ASM,Total,126
+2001,ASM,Total,1086
+2002,ASM,Total,2302
+2003,ASM,Total,1375
+2004,ASM,Total,980
+2005,ASM,Total,915
+2006,ASM,Total,1054
+2007,ASM,Total,1356
+2008,ASM,Total,760
+2009,ASM,Total,1137
+2010,ASM,Total,1153
+2011,ASM,Total,1201
+2012,ASM,Total,1586
+2013,ASM,Total,835
+2014,ASM,Total,626
+2015,ASM,Total,865
+2016,ASM,Total,897
+2017,ASM,Total,1144
+2018,ASM,Total,840
+2000,AUS,Total,92091
+2001,AUS,Total,109548
+2002,AUS,Total,48297
+2003,AUS,Total,45251
+2004,AUS,Total,39009
+2005,AUS,Total,32283
+2006,AUS,Total,31252
+2007,AUS,Total,22970
+2008,AUS,Total,24146
+2009,AUS,Total,24285
+2010,AUS,Total,23785
+2011,AUS,Total,21902
+2012,AUS,Total,19818
+2013,AUS,Total,19117
+2014,AUS,Total,18640
+2015,AUS,Total,19582
+2016,AUS,Total,22445
+2017,AUS,Total,21606
+2018,AUS,Total,21363
+2019,AUS,Total,18961
+2000,BEL,Total,11333
+2001,BEL,Total,12542
+2002,BEL,Total,9469
+2003,BEL,Total,11275
+2004,BEL,Total,9229
+2005,BEL,Total,9465
+2006,BEL,Total,7894
+2007,BEL,Total,7083
+2008,BEL,Total,9054
+2009,BEL,Total,11261
+2010,BEL,Total,12073
+2011,BEL,Total,8160
+2012,BEL,Total,8981
+2013,BEL,Total,10615
+2014,BEL,Total,11228
+2015,BEL,Total,12808
+2016,BEL,Total,15924
+2017,BEL,Total,13721
+2018,BEL,Total,12143
+2019,BEL,Total,11114
+2000,BGD,Total,85781
+2001,BGD,Total,83324
+2002,BGD,Total,80867
+2003,BGD,Total,74001
+2004,BGD,Total,71545
+2005,BGD,Total,69088
+2006,BGD,Total,66632
+2007,BGD,Total,64175
+2008,BGD,Total,61718
+2009,BGD,Total,59262
+2010,BGD,Total,44270
+2011,BGD,Total,51320
+2012,BGD,Total,66344
+2013,BGD,Total,60193
+2014,BGD,Total,52761
+2015,BGD,Total,47361
+2016,BGD,Total,50057
+2017,BGD,Total,49055
+2018,BGD,Total,51823
+2019,BGD,Total,53188
+2000,BGR,Total,571
+2001,BGR,Total,464
+2002,BGR,Total,701
+2003,BGR,Total,519
+2004,BGR,Total,440
+2005,BGR,Total,198
+2006,BGR,Total,459
+2007,BGR,Total,666
+2008,BGR,Total,562
+2009,BGR,Total,502
+2010,BGR,Total,779
+2011,BGR,Total,582
+2012,BGR,Total,613
+2013,BGR,Total,767
+2014,BGR,Total,694
+2015,BGR,Total,774
+2016,BGR,Total,816
+2017,BGR,Total,858
+2018,BGR,Total,1005
+2019,BGR,Total,930
+2000,BHR,Total,4669
+2001,BHR,Total,4188
+2002,BHR,Total,4404
+2003,BHR,Total,4122
+2004,BHR,Total,4457
+2005,BHR,Total,5614
+2006,BHR,Total,6858
+2007,BHR,Total,8280
+2008,BHR,Total,10017
+2009,BHR,Total,10145
+2010,BHR,Total,9241
+2011,BHR,Total,7786
+2012,BHR,Total,8196
+2013,BHR,Total,8494
+2014,BHR,Total,8302
+2015,BHR,Total,8064
+2016,BHR,Total,6925
+2017,BHR,Total,8161
+2018,BHR,Total,8161
+2019,BHR,Total,8161
+2000,BIH,Total,1
+2001,BIH,Total,1
+2002,BIH,Total,1
+2003,BIH,Total,1
+2004,BIH,Total,1
+2005,BIH,Total,1
+2006,BIH,Total,1
+2007,BIH,Total,1
+2008,BIH,Total,1
+2009,BIH,Total,1
+2010,BIH,Total,1
+2011,BIH,Total,1
+2012,BIH,Total,1
+2013,BIH,Total,1
+2014,BIH,Total,1
+2015,BIH,Total,1
+2016,BIH,Total,1
+2017,BIH,Total,1
+2018,BIH,Total,1
+2019,BIH,Total,1
+2000,BLM,Total,20
+2001,BLM,Total,20
+2002,BLM,Total,20
+2003,BLM,Total,21
+2004,BLM,Total,21
+2005,BLM,Total,21
+2006,BLM,Total,21
+2007,BLM,Total,21
+2008,BLM,Total,21
+2009,BLM,Total,21
+2010,BLM,Total,21
+2011,BLM,Total,21
+2012,BLM,Total,21
+2013,BLM,Total,21
+2014,BLM,Total,21
+2015,BLM,Total,21
+2016,BLM,Total,21
+2017,BLM,Total,21
+2018,BLM,Total,21
+2019,BLM,Total,21
+2000,BLZ,Total,35278
+2001,BLZ,Total,35693
+2002,BLZ,Total,50550
+2003,BLZ,Total,36069
+2004,BLZ,Total,49166
+2005,BLZ,Total,41493
+2006,BLZ,Total,41149
+2007,BLZ,Total,66597
+2008,BLZ,Total,76434
+2009,BLZ,Total,67648
+2010,BLZ,Total,74852
+2011,BLZ,Total,39783
+2012,BLZ,Total,28018
+2013,BLZ,Total,13737
+2014,BLZ,Total,19184
+2015,BLZ,Total,13524
+2016,BLZ,Total,13887
+2017,BLZ,Total,17734
+2018,BLZ,Total,29936
+2019,BLZ,Total,29725
+2000,BMU,Total,2
+2001,BMU,Total,1
+2002,BMU,Total,0
+2003,BMU,Total,0
+2004,BMU,Total,0
+2005,BMU,Total,0
+2006,BMU,Total,0
+2007,BMU,Total,0
+2008,BMU,Total,1
+2009,BMU,Total,0
+2011,BMU,Total,0
+2012,BMU,Total,1
+2013,BMU,Total,0
+2014,BMU,Total,13
+2015,BMU,Total,15
+2016,BMU,Total,15
+2017,BMU,Total,15
+2018,BMU,Total,16
+2019,BMU,Total,19
+2000,BRA,Total,265038
+2001,BRA,Total,274553
+2002,BRA,Total,295631
+2003,BRA,Total,275619
+2004,BRA,Total,262669
+2005,BRA,Total,275363
+2006,BRA,Total,274871
+2007,BRA,Total,287521
+2008,BRA,Total,277264
+2009,BRA,Total,267815
+2010,BRA,Total,263341
+2011,BRA,Total,323515
+2012,BRA,Total,314721
+2013,BRA,Total,288425
+2014,BRA,Total,321779
+2015,BRA,Total,285359
+2016,BRA,Total,289144
+2017,BRA,Total,295468
+2018,BRA,Total,304835
+2019,BRA,Total,311766
+2000,BRB,Total,110
+2001,BRB,Total,88
+2002,BRB,Total,54
+2003,BRB,Total,68
+2004,BRB,Total,77
+2005,BRB,Total,128
+2006,BRB,Total,80
+2007,BRB,Total,62
+2008,BRB,Total,64
+2009,BRB,Total,37
+2010,BRB,Total,46
+2011,BRB,Total,51
+2012,BRB,Total,63
+2013,BRB,Total,79
+2014,BRB,Total,85
+2015,BRB,Total,122
+2016,BRB,Total,128
+2017,BRB,Total,103
+2018,BRB,Total,98
+2019,BRB,Total,52
+2000,BRN,Total,2140
+2001,BRN,Total,2322
+2002,BRN,Total,1791
+2003,BRN,Total,1868
+2004,BRN,Total,1860
+2005,BRN,Total,2032
+2006,BRN,Total,2289
+2007,BRN,Total,2606
+2008,BRN,Total,2631
+2009,BRN,Total,2065
+2010,BRN,Total,2629
+2011,BRN,Total,2187
+2012,BRN,Total,2221
+2013,BRN,Total,2254
+2014,BRN,Total,2287
+2015,BRN,Total,1302
+2016,BRN,Total,1946
+2017,BRN,Total,1466
+2018,BRN,Total,2058
+2019,BRN,Total,2056
+2000,CAN,Total,48164
+2001,CAN,Total,53635
+2002,CAN,Total,50143
+2003,CAN,Total,50277
+2004,CAN,Total,52691
+2005,CAN,Total,46310
+2006,CAN,Total,45574
+2007,CAN,Total,45432
+2008,CAN,Total,44626
+2009,CAN,Total,47500
+2010,CAN,Total,36648
+2011,CAN,Total,50100
+2012,CAN,Total,47553
+2013,CAN,Total,49853
+2014,CAN,Total,43463
+2015,CAN,Total,43244
+2016,CAN,Total,31567
+2017,CAN,Total,58842
+2018,CAN,Total,51341
+2019,CAN,Total,43825
+2000,CHI,Total,61
+2001,CHI,Total,135
+2002,CHI,Total,91
+2003,CHI,Total,77
+2004,CHI,Total,59
+2005,CHI,Total,65
+2006,CHI,Total,81
+2007,CHI,Total,92
+2008,CHI,Total,82
+2009,CHI,Total,78
+2010,CHI,Total,25
+2011,CHI,Total,0
+2012,CHI,Total,0
+2013,CHI,Total,0
+2014,CHI,Total,0
+2015,CHI,Total,371
+2016,CHI,Total,709
+2017,CHI,Total,582
+2018,CHI,Total,649
+2019,CHI,Total,572
+2000,CHL,Total,50699
+2001,CHL,Total,66216
+2002,CHL,Total,53402
+2003,CHL,Total,58213
+2004,CHL,Total,59595
+2005,CHL,Total,54762
+2006,CHL,Total,51380
+2007,CHL,Total,48691
+2008,CHL,Total,35984
+2009,CHL,Total,34806
+2010,CHL,Total,27842
+2011,CHL,Total,11652
+2012,CHL,Total,12566
+2013,CHL,Total,12223
+2014,CHL,Total,13209
+2015,CHL,Total,5534
+2016,CHL,Total,4998
+2017,CHL,Total,11914
+2018,CHL,Total,13773
+2019,CHL,Total,11983
+2000,CHN,Total,190204
+2001,CHN,Total,221676
+2002,CHN,Total,228155
+2003,CHN,Total,230398
+2004,CHN,Total,224624
+2005,CHN,Total,225213
+2006,CHN,Total,224829
+2007,CHN,Total,230315
+2008,CHN,Total,218096
+2009,CHN,Total,223361
+2010,CHN,Total,240508
+2011,CHN,Total,202795
+2012,CHN,Total,179607
+2013,CHN,Total,181429
+2014,CHN,Total,745035
+2015,CHN,Total,372499
+2016,CHN,Total,364821
+2017,CHN,Total,388575
+2018,CHN,Total,404501
+2019,CHN,Total,414470
+2000,CIV,Total,3503
+2001,CIV,Total,3096
+2002,CIV,Total,2573
+2003,CIV,Total,1340
+2004,CIV,Total,1358
+2005,CIV,Total,2495
+2006,CIV,Total,1103
+2007,CIV,Total,1104
+2008,CIV,Total,1126
+2009,CIV,Total,1387
+2010,CIV,Total,2054
+2011,CIV,Total,1890
+2012,CIV,Total,1529
+2013,CIV,Total,1698
+2014,CIV,Total,2897
+2015,CIV,Total,2493
+2016,CIV,Total,2870
+2017,CIV,Total,2310
+2018,CIV,Total,2577
+2019,CIV,Total,3774
+2000,CMR,Total,3055
+2001,CMR,Total,3418
+2002,CMR,Total,2031
+2003,CMR,Total,1964
+2004,CMR,Total,2478
+2005,CMR,Total,1442
+2006,CMR,Total,994
+2007,CMR,Total,2388
+2008,CMR,Total,1902
+2009,CMR,Total,1705
+2010,CMR,Total,1310
+2011,CMR,Total,1322
+2012,CMR,Total,1355
+2013,CMR,Total,1420
+2014,CMR,Total,1425
+2015,CMR,Total,1435
+2016,CMR,Total,1440
+2017,CMR,Total,1408
+2018,CMR,Total,1408
+2019,CMR,Total,1408
+2000,COG,Total,2008
+2001,COG,Total,2271
+2002,COG,Total,2170
+2003,COG,Total,1890
+2004,COG,Total,1132
+2005,COG,Total,588
+2006,COG,Total,961
+2007,COG,Total,894
+2008,COG,Total,918
+2009,COG,Total,1536
+2010,COG,Total,1085
+2011,COG,Total,1248
+2012,COG,Total,1410
+2013,COG,Total,4096
+2014,COG,Total,4507
+2015,COG,Total,4466
+2016,COG,Total,1799
+2017,COG,Total,1896
+2018,COG,Total,1994
+2019,COG,Total,1994
+2002,COK,Total,116
+2003,COK,Total,387
+2004,COK,Total,941
+2005,COK,Total,1103
+2006,COK,Total,843
+2007,COK,Total,1131
+2008,COK,Total,866
+2009,COK,Total,470
+2010,COK,Total,1717
+2011,COK,Total,1340
+2012,COK,Total,2118
+2013,COK,Total,775
+2014,COK,Total,827
+2015,COK,Total,751
+2016,COK,Total,783
+2017,COK,Total,1557
+2018,COK,Total,1689
+2019,COK,Total,1341
+2000,COL,Total,16486
+2001,COL,Total,17296
+2002,COL,Total,4963
+2003,COL,Total,16562
+2004,COL,Total,9335
+2005,COL,Total,3317
+2006,COL,Total,4568
+2007,COL,Total,6741
+2008,COL,Total,7168
+2009,COL,Total,8404
+2010,COL,Total,3147
+2011,COL,Total,12060
+2012,COL,Total,20159
+2013,COL,Total,13614
+2014,COL,Total,33427
+2015,COL,Total,32021
+2016,COL,Total,25708
+2017,COL,Total,31612
+2018,COL,Total,25869
+2019,COL,Total,33146
+2000,CPV,Total,1995
+2001,CPV,Total,1659
+2002,CPV,Total,1804
+2003,CPV,Total,1561
+2004,CPV,Total,1682
+2005,CPV,Total,2088
+2006,CPV,Total,2544
+2007,CPV,Total,2160
+2008,CPV,Total,2214
+2009,CPV,Total,2309
+2010,CPV,Total,2243
+2011,CPV,Total,8565
+2012,CPV,Total,5992
+2013,CPV,Total,13365
+2014,CPV,Total,13132
+2015,CPV,Total,4978
+2016,CPV,Total,3840
+2017,CPV,Total,3520
+2018,CPV,Total,3634
+2019,CPV,Total,3167
+2000,CRI,Total,17905
+2001,CRI,Total,22946
+2002,CRI,Total,20198
+2003,CRI,Total,18270
+2004,CRI,Total,23705
+2005,CRI,Total,23385
+2006,CRI,Total,25936
+2007,CRI,Total,24393
+2008,CRI,Total,29710
+2009,CRI,Total,29243
+2010,CRI,Total,22525
+2011,CRI,Total,26084
+2012,CRI,Total,27623
+2013,CRI,Total,26857
+2014,CRI,Total,29275
+2015,CRI,Total,29651
+2016,CRI,Total,30289
+2017,CRI,Total,31656
+2018,CRI,Total,31652
+2019,CRI,Total,31650
+2000,CUB,Total,724
+2001,CUB,Total,79
+2002,CUB,Total,92
+2003,CUB,Total,148
+2004,CUB,Total,186
+2005,CUB,Total,230
+2006,CUB,Total,184
+2007,CUB,Total,24
+2008,CUB,Total,11
+2009,CUB,Total,12
+2010,CUB,Total,15
+2011,CUB,Total,1452
+2012,CUB,Total,972
+2013,CUB,Total,12
+2014,CUB,Total,12
+2015,CUB,Total,14
+2016,CUB,Total,12
+2017,CUB,Total,11
+2018,CUB,Total,17
+2019,CUB,Total,10
+2000,CUW,Total,972
+2001,CUW,Total,1027
+2002,CUW,Total,629
+2003,CUW,Total,840
+2004,CUW,Total,716
+2005,CUW,Total,6
+2006,CUW,Total,220
+2007,CUW,Total,138
+2008,CUW,Total,923
+2009,CUW,Total,1068
+2010,CUW,Total,821
+2011,CUW,Total,953
+2012,CUW,Total,914
+2013,CUW,Total,6361
+2014,CUW,Total,6904
+2015,CUW,Total,8773
+2016,CUW,Total,9075
+2017,CUW,Total,9295
+2018,CUW,Total,9775
+2019,CUW,Total,8824
+2000,CYM,Total,6
+2001,CYM,Total,6
+2002,CYM,Total,6
+2003,CYM,Total,6
+2004,CYM,Total,6
+2005,CYM,Total,6
+2006,CYM,Total,6
+2007,CYM,Total,6
+2008,CYM,Total,6
+2009,CYM,Total,6
+2000,CYP,Total,47254
+2001,CYP,Total,40563
+2002,CYP,Total,57846
+2003,CYP,Total,43892
+2004,CYP,Total,57433
+2005,CYP,Total,45964
+2006,CYP,Total,33217
+2007,CYP,Total,55178
+2008,CYP,Total,61406
+2009,CYP,Total,53175
+2010,CYP,Total,53167
+2011,CYP,Total,10069
+2012,CYP,Total,960
+2013,CYP,Total,939
+2014,CYP,Total,977
+2015,CYP,Total,776
+2016,CYP,Total,808
+2017,CYP,Total,922
+2018,CYP,Total,658
+2019,CYP,Total,644
+2000,DEU,Total,52829
+2001,DEU,Total,43678
+2002,DEU,Total,49322
+2003,DEU,Total,48390
+2004,DEU,Total,54252
+2005,DEU,Total,58576
+2006,DEU,Total,49448
+2007,DEU,Total,45364
+2008,DEU,Total,51115
+2009,DEU,Total,47974
+2010,DEU,Total,52920
+2011,DEU,Total,45993
+2012,DEU,Total,43071
+2013,DEU,Total,44978
+2014,DEU,Total,42368
+2015,DEU,Total,37263
+2016,DEU,Total,32415
+2017,DEU,Total,23236
+2018,DEU,Total,30048
+2019,DEU,Total,23362
+2000,DJI,Total,10
+2000,DMA,Total,39
+2001,DMA,Total,17
+2002,DMA,Total,31
+2003,DMA,Total,27
+2005,DMA,Total,1662
+2006,DMA,Total,3207
+2007,DMA,Total,4582
+2008,DMA,Total,5421
+2009,DMA,Total,6300
+2010,DMA,Total,7126
+2011,DMA,Total,6885
+2012,DMA,Total,6767
+2013,DMA,Total,6418
+2014,DMA,Total,5153
+2015,DMA,Total,3570
+2016,DMA,Total,681
+2017,DMA,Total,512
+2018,DMA,Total,296
+2019,DMA,Total,586
+2000,DNK,Total,61622
+2001,DNK,Total,59020
+2002,DNK,Total,62994
+2003,DNK,Total,63671
+2004,DNK,Total,56466
+2005,DNK,Total,53749
+2006,DNK,Total,47397
+2007,DNK,Total,21956
+2008,DNK,Total,19315
+2009,DNK,Total,18847
+2010,DNK,Total,23756
+2011,DNK,Total,26364
+2012,DNK,Total,24375
+2013,DNK,Total,26148
+2014,DNK,Total,29856
+2015,DNK,Total,15447
+2016,DNK,Total,14493
+2017,DNK,Total,21945
+2018,DNK,Total,13599
+2019,DNK,Total,12195
+2000,DOM,Total,28
+2001,DOM,Total,35
+2002,DOM,Total,71
+2003,DOM,Total,13
+2004,DOM,Total,25
+2006,DOM,Total,17
+2007,DOM,Total,16
+2000,DZA,Total,16477
+2001,DZA,Total,18293
+2002,DZA,Total,18847
+2003,DZA,Total,19274
+2004,DZA,Total,18176
+2005,DZA,Total,20425
+2006,DZA,Total,22626
+2007,DZA,Total,24042
+2008,DZA,Total,23828
+2009,DZA,Total,23643
+2010,DZA,Total,23993
+2011,DZA,Total,24946
+2012,DZA,Total,25306
+2013,DZA,Total,25346
+2014,DZA,Total,25026
+2015,DZA,Total,24718
+2016,DZA,Total,24392
+2017,DZA,Total,27736
+2018,DZA,Total,31188
+2019,DZA,Total,27288
+2000,ECU,Total,23436
+2001,ECU,Total,18247
+2002,ECU,Total,13858
+2003,ECU,Total,20039
+2004,ECU,Total,15492
+2005,ECU,Total,17217
+2006,ECU,Total,19551
+2007,ECU,Total,13527
+2008,ECU,Total,22908
+2009,ECU,Total,20471
+2010,ECU,Total,18388
+2011,ECU,Total,33076
+2012,ECU,Total,31184
+2013,ECU,Total,30667
+2014,ECU,Total,28644
+2015,ECU,Total,18826
+2016,ECU,Total,11480
+2017,ECU,Total,5788
+2018,ECU,Total,11995
+2019,ECU,Total,12135
+2000,EGY,Total,42634
+2001,EGY,Total,46082
+2002,EGY,Total,46196
+2003,EGY,Total,48833
+2004,EGY,Total,42984
+2005,EGY,Total,37057
+2006,EGY,Total,35432
+2007,EGY,Total,23773
+2008,EGY,Total,27399
+2009,EGY,Total,26412
+2010,EGY,Total,27449
+2011,EGY,Total,29301
+2012,EGY,Total,33114
+2013,EGY,Total,30701
+2014,EGY,Total,29613
+2015,EGY,Total,27760
+2016,EGY,Total,23752
+2017,EGY,Total,24572
+2018,EGY,Total,23682
+2019,EGY,Total,22793
+2000,ESP,Total,335238
+2001,ESP,Total,337100
+2002,ESP,Total,318478
+2003,ESP,Total,270212
+2004,ESP,Total,239520
+2005,ESP,Total,235052
+2006,ESP,Total,228884
+2007,ESP,Total,198521
+2008,ESP,Total,199048
+2009,ESP,Total,176893
+2010,ESP,Total,177974
+2011,ESP,Total,229302
+2012,ESP,Total,133305
+2013,ESP,Total,82766
+2014,ESP,Total,97082
+2015,ESP,Total,179020
+2016,ESP,Total,160105
+2017,ESP,Total,176709
+2018,ESP,Total,186057
+2019,ESP,Total,177644
+2000,EST,Total,5573
+2001,EST,Total,2217
+2002,EST,Total,2435
+2003,EST,Total,1662
+2004,EST,Total,2005
+2005,EST,Total,2871
+2006,EST,Total,1936
+2007,EST,Total,2259
+2008,EST,Total,2154
+2009,EST,Total,2162
+2010,EST,Total,5976
+2011,EST,Total,8513
+2012,EST,Total,4460
+2013,EST,Total,5607
+2014,EST,Total,4350
+2015,EST,Total,4585
+2016,EST,Total,4143
+2017,EST,Total,5544
+2018,EST,Total,5045
+2019,EST,Total,5040
+2000,FIN,Total,537
+2001,FIN,Total,430
+2002,FIN,Total,309
+2003,FIN,Total,295
+2004,FIN,Total,255
+2005,FIN,Total,192
+2006,FIN,Total,214
+2007,FIN,Total,238
+2008,FIN,Total,217
+2009,FIN,Total,226
+2010,FIN,Total,408
+2011,FIN,Total,498
+2012,FIN,Total,560
+2013,FIN,Total,446
+2014,FIN,Total,431
+2015,FIN,Total,352
+2016,FIN,Total,294
+2017,FIN,Total,309
+2018,FIN,Total,369
+2019,FIN,Total,338
+2000,FJI,Total,3845
+2001,FJI,Total,4645
+2002,FJI,Total,4730
+2003,FJI,Total,4185
+2004,FJI,Total,6966
+2005,FJI,Total,6181
+2006,FJI,Total,5947
+2007,FJI,Total,3872
+2008,FJI,Total,5222
+2009,FJI,Total,6389
+2010,FJI,Total,4766
+2011,FJI,Total,6377
+2012,FJI,Total,6108
+2013,FJI,Total,5211
+2014,FJI,Total,5449
+2015,FJI,Total,5131
+2016,FJI,Total,5718
+2017,FJI,Total,6800
+2018,FJI,Total,5461
+2019,FJI,Total,5794
+2000,FLK,Total,2644
+2001,FLK,Total,2512
+2002,FLK,Total,1501
+2003,FLK,Total,2545
+2004,FLK,Total,1819
+2005,FLK,Total,3157
+2006,FLK,Total,2753
+2007,FLK,Total,2780
+2008,FLK,Total,3249
+2009,FLK,Total,2477
+2010,FLK,Total,3913
+2011,FLK,Total,2638
+2012,FLK,Total,3845
+2013,FLK,Total,2872
+2014,FLK,Total,2842
+2015,FLK,Total,2203
+2016,FLK,Total,2321
+2017,FLK,Total,2682
+2018,FLK,Total,3761
+2019,FLK,Total,3761
+2000,FRA,Total,184238
+2001,FRA,Total,180518
+2002,FRA,Total,188088
+2003,FRA,Total,172043
+2004,FRA,Total,159723
+2005,FRA,Total,147006
+2006,FRA,Total,148923
+2007,FRA,Total,147347
+2008,FRA,Total,126884
+2009,FRA,Total,111241
+2010,FRA,Total,110549
+2011,FRA,Total,165594
+2012,FRA,Total,101075
+2013,FRA,Total,102398
+2014,FRA,Total,102779
+2015,FRA,Total,113910
+2016,FRA,Total,82235
+2017,FRA,Total,81989
+2018,FRA,Total,99780
+2019,FRA,Total,84810
+2000,FRO,Total,10745
+2001,FRO,Total,11880
+2002,FRO,Total,11807
+2003,FRO,Total,11786
+2004,FRO,Total,10018
+2005,FRO,Total,8210
+2006,FRO,Total,7980
+2007,FRO,Total,5664
+2008,FRO,Total,7095
+2009,FRO,Total,3558
+2010,FRO,Total,6101
+2011,FRO,Total,5442
+2012,FRO,Total,4612
+2013,FRO,Total,5999
+2014,FRO,Total,5203
+2015,FRO,Total,5063
+2016,FRO,Total,4825
+2017,FRO,Total,2727
+2018,FRO,Total,1969
+2019,FRO,Total,1045
+2000,FSM,Total,1085
+2001,FSM,Total,1055
+2002,FSM,Total,644
+2003,FSM,Total,1358
+2004,FSM,Total,1427
+2005,FSM,Total,1259
+2006,FSM,Total,364
+2007,FSM,Total,1033
+2008,FSM,Total,683
+2009,FSM,Total,1252
+2010,FSM,Total,1088
+2011,FSM,Total,1360
+2012,FSM,Total,1616
+2013,FSM,Total,1365
+2014,FSM,Total,2105
+2015,FSM,Total,2658
+2016,FSM,Total,3005
+2017,FSM,Total,2785
+2018,FSM,Total,4289
+2019,FSM,Total,6195
+2000,GAB,Total,874
+2001,GAB,Total,484
+2002,GAB,Total,716
+2003,GAB,Total,625
+2004,GAB,Total,714
+2005,GAB,Total,1498
+2006,GAB,Total,1089
+2007,GAB,Total,1049
+2008,GAB,Total,584
+2009,GAB,Total,360
+2010,GAB,Total,318
+2011,GAB,Total,353
+2012,GAB,Total,373
+2013,GAB,Total,394
+2014,GAB,Total,411
+2015,GAB,Total,330
+2016,GAB,Total,299
+2017,GAB,Total,268
+2018,GAB,Total,267
+2019,GAB,Total,267
+2000,GBR,Total,69349
+2001,GBR,Total,52326
+2002,GBR,Total,67211
+2003,GBR,Total,58158
+2004,GBR,Total,60903
+2005,GBR,Total,42368
+2006,GBR,Total,53959
+2007,GBR,Total,49862
+2008,GBR,Total,51632
+2009,GBR,Total,53891
+2010,GBR,Total,52010
+2011,GBR,Total,42901
+2012,GBR,Total,44305
+2013,GBR,Total,39006
+2014,GBR,Total,39975
+2015,GBR,Total,41085
+2016,GBR,Total,43248
+2017,GBR,Total,43564
+2018,GBR,Total,32430
+2019,GBR,Total,32387
+2000,GEO,Total,524
+2001,GEO,Total,581
+2002,GEO,Total,660
+2003,GEO,Total,856
+2004,GEO,Total,1732
+2005,GEO,Total,2185
+2006,GEO,Total,2349
+2007,GEO,Total,3635
+2008,GEO,Total,5802
+2009,GEO,Total,5161
+2010,GEO,Total,9252
+2011,GEO,Total,6712
+2012,GEO,Total,3471
+2013,GEO,Total,12103
+2014,GEO,Total,16544
+2015,GEO,Total,12651
+2016,GEO,Total,16272
+2017,GEO,Total,23773
+2018,GEO,Total,57527
+2019,GEO,Total,57439
+2000,GHA,Total,123560
+2001,GHA,Total,122233
+2002,GHA,Total,119111
+2003,GHA,Total,121765
+2004,GHA,Total,101310
+2005,GHA,Total,98128
+2006,GHA,Total,97769
+2007,GHA,Total,98856
+2008,GHA,Total,100947
+2009,GHA,Total,118610
+2010,GHA,Total,127066
+2011,GHA,Total,93304
+2012,GHA,Total,108002
+2013,GHA,Total,107520
+2014,GHA,Total,119053
+2015,GHA,Total,119543
+2016,GHA,Total,123690
+2017,GHA,Total,123486
+2018,GHA,Total,128275
+2019,GHA,Total,134349
+2000,GIN,Total,12537
+2001,GIN,Total,14399
+2002,GIN,Total,21175
+2003,GIN,Total,16137
+2004,GIN,Total,20348
+2005,GIN,Total,20257
+2006,GIN,Total,24879
+2007,GIN,Total,29998
+2008,GIN,Total,28437
+2009,GIN,Total,30052
+2010,GIN,Total,27538
+2011,GIN,Total,42885
+2012,GIN,Total,46530
+2013,GIN,Total,53966
+2014,GIN,Total,61551
+2015,GIN,Total,72906
+2016,GIN,Total,66520
+2017,GIN,Total,84864
+2018,GIN,Total,105061
+2019,GIN,Total,103357
+2000,GMB,Total,2707
+2001,GMB,Total,1604
+2002,GMB,Total,1381
+2003,GMB,Total,2580
+2004,GMB,Total,1985
+2005,GMB,Total,661
+2006,GMB,Total,163
+2007,GMB,Total,39
+2008,GMB,Total,53
+2009,GMB,Total,15
+2010,GMB,Total,53
+2011,GMB,Total,54
+2012,GMB,Total,123
+2013,GMB,Total,31
+2014,GMB,Total,76
+2015,GMB,Total,1
+2003,GNB,Total,121
+2000,GNQ,Total,11
+2001,GNQ,Total,11
+2002,GNQ,Total,10
+2003,GNQ,Total,10
+2004,GNQ,Total,9
+2005,GNQ,Total,9
+2006,GNQ,Total,9
+2007,GNQ,Total,19
+2008,GNQ,Total,15
+2009,GNQ,Total,140
+2010,GNQ,Total,121
+2011,GNQ,Total,79
+2012,GNQ,Total,21
+2013,GNQ,Total,18
+2014,GNQ,Total,15
+2015,GNQ,Total,17
+2016,GNQ,Total,17
+2017,GNQ,Total,16
+2018,GNQ,Total,16
+2019,GNQ,Total,22
+2000,GRC,Total,50166
+2001,GRC,Total,46760
+2002,GRC,Total,51513
+2003,GRC,Total,39825
+2004,GRC,Total,39691
+2005,GRC,Total,34155
+2006,GRC,Total,32553
+2007,GRC,Total,32999
+2008,GRC,Total,31778
+2009,GRC,Total,27441
+2010,GRC,Total,23998
+2011,GRC,Total,23260
+2012,GRC,Total,18206
+2013,GRC,Total,13128
+2014,GRC,Total,12096
+2015,GRC,Total,15898
+2016,GRC,Total,15505
+2017,GRC,Total,14009
+2018,GRC,Total,13924
+2019,GRC,Total,9750
+2000,GRD,Total,259
+2001,GRD,Total,357
+2002,GRD,Total,245
+2003,GRD,Total,315
+2004,GRD,Total,213
+2005,GRD,Total,264
+2006,GRD,Total,186
+2007,GRD,Total,231
+2008,GRD,Total,322
+2009,GRD,Total,251
+2010,GRD,Total,256
+2011,GRD,Total,79
+2012,GRD,Total,67
+2013,GRD,Total,63
+2014,GRD,Total,69
+2015,GRD,Total,442
+2016,GRD,Total,518
+2017,GRD,Total,439
+2018,GRD,Total,459
+2019,GRD,Total,295
+2000,GRL,Total,25666
+2001,GRL,Total,33382
+2002,GRL,Total,62495
+2003,GRL,Total,78650
+2004,GRL,Total,15412
+2005,GRL,Total,16004
+2006,GRL,Total,17409
+2007,GRL,Total,18252
+2008,GRL,Total,19404
+2009,GRL,Total,17271
+2010,GRL,Total,15938
+2011,GRL,Total,18396
+2012,GRL,Total,19109
+2013,GRL,Total,21059
+2014,GRL,Total,19333
+2015,GRL,Total,22506
+2016,GRL,Total,24609
+2017,GRL,Total,24437
+2018,GRL,Total,25226
+2019,GRL,Total,25226
+2000,GTM,Total,4222
+2001,GTM,Total,3540
+2002,GTM,Total,2318
+2003,GTM,Total,6278
+2004,GTM,Total,3123
+2005,GTM,Total,3293
+2006,GTM,Total,2370
+2007,GTM,Total,3597
+2008,GTM,Total,3517
+2009,GTM,Total,2048
+2010,GTM,Total,6379
+2011,GTM,Total,6076
+2012,GTM,Total,2430
+2013,GTM,Total,4549
+2014,GTM,Total,5588
+2015,GTM,Total,6461
+2016,GTM,Total,8241
+2017,GTM,Total,6822
+2018,GTM,Total,7297
+2019,GTM,Total,8506
+2000,GUY,Total,12079
+2001,GUY,Total,17037
+2002,GUY,Total,12857
+2003,GUY,Total,13989
+2004,GUY,Total,10961
+2005,GUY,Total,10947
+2006,GUY,Total,11587
+2007,GUY,Total,12615
+2008,GUY,Total,10438
+2009,GUY,Total,10963
+2010,GUY,Total,12486
+2011,GUY,Total,13874
+2012,GUY,Total,17533
+2013,GUY,Total,16555
+2014,GUY,Total,11891
+2015,GUY,Total,12898
+2016,GUY,Total,14689
+2017,GUY,Total,14454
+2018,GUY,Total,13955
+2019,GUY,Total,10664
+2000,HKG,Total,61526
+2001,HKG,Total,68171
+2002,HKG,Total,64718
+2003,HKG,Total,59247
+2004,HKG,Total,59400
+2005,HKG,Total,61735
+2006,HKG,Total,58903
+2007,HKG,Total,58551
+2008,HKG,Total,60237
+2009,HKG,Total,60589
+2010,HKG,Total,64037
+2011,HKG,Total,65071
+2012,HKG,Total,59166
+2013,HKG,Total,64827
+2014,HKG,Total,61267
+2015,HKG,Total,55334
+2016,HKG,Total,54412
+2017,HKG,Total,48611
+2018,HKG,Total,47371
+2019,HKG,Total,46849
+2000,HND,Total,5785
+2001,HND,Total,3241
+2002,HND,Total,3471
+2003,HND,Total,95
+2004,HND,Total,3559
+2005,HND,Total,3285
+2006,HND,Total,1651
+2007,HND,Total,1043
+2008,HND,Total,609
+2009,HND,Total,2855
+2010,HND,Total,1423
+2011,HND,Total,4197
+2012,HND,Total,3699
+2013,HND,Total,1946
+2014,HND,Total,3876
+2015,HND,Total,4197
+2016,HND,Total,3583
+2017,HND,Total,3583
+2018,HND,Total,3583
+2019,HND,Total,3583
+2000,HRV,Total,3350
+2001,HRV,Total,3066
+2002,HRV,Total,2233
+2003,HRV,Total,4659
+2004,HRV,Total,5604
+2005,HRV,Total,6769
+2006,HRV,Total,6277
+2007,HRV,Total,6618
+2008,HRV,Total,6267
+2009,HRV,Total,5841
+2010,HRV,Total,5953
+2011,HRV,Total,5975
+2012,HRV,Total,5876
+2013,HRV,Total,6039
+2014,HRV,Total,6332
+2015,HRV,Total,2291
+2016,HRV,Total,2314
+2017,HRV,Total,2257
+2018,HRV,Total,2279
+2019,HRV,Total,2101
+2000,IDN,Total,506363
+2001,IDN,Total,529621
+2002,IDN,Total,514568
+2003,IDN,Total,497435
+2004,IDN,Total,469699
+2005,IDN,Total,376838
+2006,IDN,Total,316880
+2007,IDN,Total,266994
+2008,IDN,Total,236883
+2009,IDN,Total,235745
+2010,IDN,Total,222362
+2011,IDN,Total,245114
+2012,IDN,Total,252278
+2013,IDN,Total,255450
+2014,IDN,Total,270082
+2015,IDN,Total,280964
+2016,IDN,Total,281557
+2017,IDN,Total,296588
+2018,IDN,Total,296771
+2019,IDN,Total,359144
+2000,IND,Total,215929
+2001,IND,Total,173476
+2002,IND,Total,186298
+2003,IND,Total,167476
+2004,IND,Total,173928
+2005,IND,Total,148992
+2006,IND,Total,150613
+2007,IND,Total,149925
+2008,IND,Total,155531
+2009,IND,Total,208193
+2010,IND,Total,226299
+2011,IND,Total,207983
+2012,IND,Total,227772
+2013,IND,Total,211606
+2014,IND,Total,214118
+2015,IND,Total,196842
+2016,IND,Total,216622
+2017,IND,Total,228477
+2018,IND,Total,193314
+2019,IND,Total,201072
+2000,IRL,Total,51404
+2001,IRL,Total,51632
+2002,IRL,Total,45740
+2003,IRL,Total,41372
+2004,IRL,Total,39655
+2005,IRL,Total,37229
+2006,IRL,Total,32195
+2007,IRL,Total,38552
+2008,IRL,Total,35175
+2009,IRL,Total,37924
+2010,IRL,Total,41570
+2011,IRL,Total,24566
+2012,IRL,Total,18223
+2013,IRL,Total,15610
+2014,IRL,Total,17962
+2015,IRL,Total,28879
+2016,IRL,Total,35590
+2017,IRL,Total,33719
+2018,IRL,Total,23822
+2019,IRL,Total,11545
+2000,IRN,Total,23981
+2001,IRN,Total,22618
+2002,IRN,Total,22724
+2003,IRN,Total,22977
+2004,IRN,Total,22907
+2005,IRN,Total,22708
+2006,IRN,Total,22854
+2007,IRN,Total,13454
+2008,IRN,Total,12703
+2009,IRN,Total,12196
+2010,IRN,Total,12795
+2011,IRN,Total,15438
+2012,IRN,Total,17112
+2013,IRN,Total,18694
+2014,IRN,Total,21083
+2015,IRN,Total,22493
+2016,IRN,Total,24332
+2017,IRN,Total,27216
+2018,IRN,Total,29429
+2019,IRN,Total,29932
+2000,IRQ,Total,618
+2001,IRQ,Total,942
+2002,IRQ,Total,680
+2003,IRQ,Total,174
+2004,IRQ,Total,122
+2005,IRQ,Total,123
+2006,IRQ,Total,633
+2007,IRQ,Total,367
+2008,IRQ,Total,217
+2009,IRQ,Total,277
+2010,IRQ,Total,322
+2011,IRQ,Total,80
+2012,IRQ,Total,470
+2013,IRQ,Total,163
+2014,IRQ,Total,261
+2015,IRQ,Total,210
+2016,IRQ,Total,259
+2017,IRQ,Total,316
+2018,IRQ,Total,375
+2019,IRQ,Total,492
+2000,ISL,Total,57297
+2001,ISL,Total,50094
+2002,ISL,Total,52643
+2003,ISL,Total,51504
+2004,ISL,Total,44460
+2005,ISL,Total,44554
+2006,ISL,Total,37195
+2007,ISL,Total,38242
+2008,ISL,Total,37095
+2009,ISL,Total,34274
+2010,ISL,Total,32385
+2011,ISL,Total,31843
+2012,ISL,Total,33900
+2013,ISL,Total,33106
+2014,ISL,Total,26845
+2015,ISL,Total,30657
+2016,ISL,Total,27002
+2017,ISL,Total,22112
+2018,ISL,Total,19056
+2019,ISL,Total,15899
+2000,ISR,Total,827
+2001,ISR,Total,983
+2002,ISR,Total,934
+2003,ISR,Total,837
+2004,ISR,Total,790
+2005,ISR,Total,836
+2006,ISR,Total,776
+2007,ISR,Total,953
+2008,ISR,Total,1158
+2009,ISR,Total,1232
+2010,ISR,Total,1297
+2011,ISR,Total,959
+2012,ISR,Total,1001
+2013,ISR,Total,888
+2014,ISR,Total,858
+2015,ISR,Total,879
+2016,ISR,Total,742
+2017,ISR,Total,591
+2018,ISR,Total,589
+2019,ISR,Total,589
+2000,ITA,Total,81393
+2001,ITA,Total,80306
+2002,ITA,Total,73355
+2003,ITA,Total,71777
+2004,ITA,Total,65398
+2005,ITA,Total,56990
+2006,ITA,Total,55440
+2007,ITA,Total,56288
+2008,ITA,Total,55243
+2009,ITA,Total,44660
+2010,ITA,Total,44433
+2011,ITA,Total,48815
+2012,ITA,Total,22561
+2013,ITA,Total,17891
+2014,ITA,Total,12309
+2015,ITA,Total,23410
+2016,ITA,Total,27752
+2017,ITA,Total,24343
+2018,ITA,Total,26795
+2019,ITA,Total,26670
+2000,JAM,Total,68
+2001,JAM,Total,164
+2002,JAM,Total,169
+2003,JAM,Total,138
+2004,JAM,Total,154
+2005,JAM,Total,154
+2006,JAM,Total,198
+2007,JAM,Total,186
+2008,JAM,Total,146
+2009,JAM,Total,180
+2010,JAM,Total,170
+2011,JAM,Total,199
+2012,JAM,Total,159
+2013,JAM,Total,200
+2014,JAM,Total,166
+2015,JAM,Total,149
+2016,JAM,Total,146
+2017,JAM,Total,170
+2018,JAM,Total,178
+2019,JAM,Total,155
+2000,JPN,Total,773631
+2001,JPN,Total,728449
+2002,JPN,Total,694207
+2003,JPN,Total,649584
+2004,JPN,Total,610035
+2005,JPN,Total,590615
+2006,JPN,Total,565672
+2007,JPN,Total,564749
+2008,JPN,Total,577837
+2009,JPN,Total,517084
+2010,JPN,Total,569383
+2011,JPN,Total,537688
+2012,JPN,Total,534160
+2013,JPN,Total,520404
+2014,JPN,Total,509357
+2015,JPN,Total,498307
+2016,JPN,Total,438400
+2017,JPN,Total,420163
+2018,JPN,Total,428180
+2019,JPN,Total,435984
+2000,KEN,Total,766
+2001,KEN,Total,352
+2002,KEN,Total,374
+2003,KEN,Total,359
+2004,KEN,Total,986
+2005,KEN,Total,962
+2006,KEN,Total,765
+2007,KEN,Total,537
+2008,KEN,Total,537
+2009,KEN,Total,537
+2010,KEN,Total,537
+2011,KEN,Total,546
+2012,KEN,Total,553
+2013,KEN,Total,553
+2014,KEN,Total,560
+2015,KEN,Total,624
+2016,KEN,Total,617
+2017,KEN,Total,750
+2018,KEN,Total,740
+2019,KEN,Total,753
+2000,KHM,Total,504
+2001,KHM,Total,483
+2002,KHM,Total,460
+2003,KHM,Total,592
+2004,KHM,Total,559
+2005,KHM,Total,600
+2006,KHM,Total,605
+2007,KHM,Total,635
+2008,KHM,Total,660
+2009,KHM,Total,750
+2010,KHM,Total,854
+2011,KHM,Total,1195
+2012,KHM,Total,1231
+2013,KHM,Total,1162
+2014,KHM,Total,4209
+2015,KHM,Total,1203
+2016,KHM,Total,1206
+2017,KHM,Total,1210
+2018,KHM,Total,1536
+2019,KHM,Total,1372
+2000,KIR,Total,266
+2001,KIR,Total,310
+2002,KIR,Total,167
+2003,KIR,Total,174
+2004,KIR,Total,212
+2005,KIR,Total,305
+2006,KIR,Total,144
+2007,KIR,Total,308
+2008,KIR,Total,219
+2009,KIR,Total,638
+2010,KIR,Total,649
+2011,KIR,Total,1005
+2012,KIR,Total,1191
+2013,KIR,Total,1195
+2014,KIR,Total,1822
+2015,KIR,Total,2089
+2016,KIR,Total,2121
+2017,KIR,Total,1977
+2018,KIR,Total,2437
+2019,KIR,Total,2936
+2000,KOR,Total,563650
+2001,KOR,Total,530850
+2002,KOR,Total,539629
+2003,KOR,Total,506701
+2004,KOR,Total,495149
+2005,KOR,Total,445725
+2006,KOR,Total,418407
+2007,KOR,Total,388396
+2008,KOR,Total,369147
+2009,KOR,Total,367144
+2010,KOR,Total,370646
+2011,KOR,Total,437269
+2012,KOR,Total,349970
+2013,KOR,Total,342791
+2014,KOR,Total,385507
+2015,KOR,Total,291131
+2016,KOR,Total,256091
+2017,KOR,Total,250869
+2018,KOR,Total,260872
+2019,KOR,Total,237602
+2000,KWT,Total,27156
+2001,KWT,Total,30074
+2002,KWT,Total,27773
+2003,KWT,Total,26061
+2004,KWT,Total,27151
+2005,KWT,Total,31934
+2006,KWT,Total,31241
+2007,KWT,Total,30795
+2008,KWT,Total,28092
+2009,KWT,Total,31191
+2010,KWT,Total,29154
+2011,KWT,Total,27580
+2012,KWT,Total,24316
+2013,KWT,Total,23275
+2014,KWT,Total,22901
+2015,KWT,Total,21882
+2016,KWT,Total,28076
+2017,KWT,Total,23474
+2018,KWT,Total,19074
+2019,KWT,Total,18796
+2000,LBN,Total,35
+2001,LBN,Total,37
+2002,LBN,Total,38
+2003,LBN,Total,39
+2004,LBN,Total,39
+2005,LBN,Total,40
+2006,LBN,Total,31
+2007,LBN,Total,27
+2008,LBN,Total,188
+2009,LBN,Total,26
+2010,LBN,Total,26
+2011,LBN,Total,26
+2012,LBN,Total,26
+2013,LBN,Total,23
+2014,LBN,Total,21
+2015,LBN,Total,26
+2016,LBN,Total,30
+2017,LBN,Total,25
+2018,LBN,Total,20
+2019,LBN,Total,18
+2000,LBR,Total,1763
+2001,LBR,Total,1347
+2002,LBR,Total,1594
+2003,LBR,Total,1539
+2004,LBR,Total,3091
+2005,LBR,Total,293
+2006,LBR,Total,1
+2007,LBR,Total,1
+2010,LBR,Total,8
+2011,LBR,Total,42
+2012,LBR,Total,46
+2013,LBR,Total,20
+2014,LBR,Total,18
+2015,LBR,Total,17
+2016,LBR,Total,4
+2017,LBR,Total,90
+2018,LBR,Total,30
+2019,LBR,Total,54
+2000,LBY,Total,6273
+2001,LBY,Total,6112
+2002,LBY,Total,4589
+2003,LBY,Total,6597
+2004,LBY,Total,6399
+2005,LBY,Total,6103
+2006,LBY,Total,5644
+2007,LBY,Total,5559
+2008,LBY,Total,6575
+2009,LBY,Total,6833
+2010,LBY,Total,6709
+2011,LBY,Total,5275
+2012,LBY,Total,7109
+2013,LBY,Total,5997
+2014,LBY,Total,4622
+2015,LBY,Total,4484
+2016,LBY,Total,4989
+2017,LBY,Total,5407
+2018,LBY,Total,4636
+2019,LBY,Total,4463
+2000,LKA,Total,33873
+2001,LKA,Total,17323
+2002,LKA,Total,15265
+2003,LKA,Total,38892
+2004,LKA,Total,38099
+2005,LKA,Total,8155
+2006,LKA,Total,20192
+2007,LKA,Total,20150
+2008,LKA,Total,22978
+2009,LKA,Total,22994
+2010,LKA,Total,24319
+2011,LKA,Total,16042
+2012,LKA,Total,16362
+2013,LKA,Total,16893
+2014,LKA,Total,22272
+2015,LKA,Total,14897
+2016,LKA,Total,18265
+2017,LKA,Total,14544
+2018,LKA,Total,12036
+2019,LKA,Total,15754
+2000,LTU,Total,13924
+2001,LTU,Total,18512
+2002,LTU,Total,21996
+2003,LTU,Total,17751
+2004,LTU,Total,21501
+2005,LTU,Total,18123
+2006,LTU,Total,17033
+2007,LTU,Total,15993
+2008,LTU,Total,17909
+2009,LTU,Total,16305
+2010,LTU,Total,18199
+2011,LTU,Total,4112
+2012,LTU,Total,2988
+2013,LTU,Total,3660
+2014,LTU,Total,4658
+2015,LTU,Total,1586
+2016,LTU,Total,3891
+2017,LTU,Total,2682
+2018,LTU,Total,3622
+2019,LTU,Total,2845
+2000,LVA,Total,39756
+2001,LVA,Total,34567
+2002,LVA,Total,49206
+2003,LVA,Total,37304
+2004,LVA,Total,49436
+2005,LVA,Total,40754
+2006,LVA,Total,30361
+2007,LVA,Total,47144
+2008,LVA,Total,51448
+2009,LVA,Total,44656
+2010,LVA,Total,45877
+2011,LVA,Total,13718
+2012,LVA,Total,6417
+2013,LVA,Total,7144
+2014,LVA,Total,6302
+2015,LVA,Total,7737
+2016,LVA,Total,8604
+2017,LVA,Total,9303
+2018,LVA,Total,10687
+2019,LVA,Total,10563
+2000,MAF,Total,18
+2001,MAF,Total,18
+2002,MAF,Total,18
+2003,MAF,Total,19
+2004,MAF,Total,19
+2005,MAF,Total,19
+2006,MAF,Total,19
+2007,MAF,Total,19
+2008,MAF,Total,19
+2009,MAF,Total,19
+2010,MAF,Total,19
+2011,MAF,Total,19
+2012,MAF,Total,19
+2013,MAF,Total,19
+2014,MAF,Total,19
+2015,MAF,Total,19
+2016,MAF,Total,19
+2017,MAF,Total,19
+2018,MAF,Total,19
+2019,MAF,Total,19
+2000,MAR,Total,165904
+2001,MAR,Total,182417
+2002,MAR,Total,157310
+2003,MAR,Total,142795
+2004,MAR,Total,127883
+2005,MAR,Total,126476
+2006,MAR,Total,131150
+2007,MAR,Total,126710
+2008,MAR,Total,125981
+2009,MAR,Total,147108
+2010,MAR,Total,139003
+2011,MAR,Total,109186
+2012,MAR,Total,126493
+2013,MAR,Total,139577
+2014,MAR,Total,146310
+2015,MAR,Total,133295
+2016,MAR,Total,138909
+2017,MAR,Total,138052
+2018,MAR,Total,140541
+2019,MAR,Total,145260
+2000,MDG,Total,22290
+2001,MDG,Total,18963
+2002,MDG,Total,12704
+2003,MDG,Total,12274
+2004,MDG,Total,11276
+2005,MDG,Total,5898
+2006,MDG,Total,6212
+2007,MDG,Total,5435
+2008,MDG,Total,4384
+2009,MDG,Total,4806
+2010,MDG,Total,4267
+2011,MDG,Total,2814
+2012,MDG,Total,6505
+2013,MDG,Total,8823
+2014,MDG,Total,6773
+2015,MDG,Total,6907
+2016,MDG,Total,9531
+2017,MDG,Total,12063
+2018,MDG,Total,10483
+2019,MDG,Total,9020
+2000,MEX,Total,346206
+2001,MEX,Total,319121
+2002,MEX,Total,317222
+2003,MEX,Total,385445
+2004,MEX,Total,326294
+2005,MEX,Total,343591
+2006,MEX,Total,359498
+2007,MEX,Total,373477
+2008,MEX,Total,343481
+2009,MEX,Total,315746
+2010,MEX,Total,335300
+2011,MEX,Total,399590
+2012,MEX,Total,359293
+2013,MEX,Total,271753
+2014,MEX,Total,282903
+2015,MEX,Total,420661
+2016,MEX,Total,452559
+2017,MEX,Total,456380
+2018,MEX,Total,373191
+2019,MEX,Total,470269
+2000,MHL,Total,267
+2001,MHL,Total,1822
+2002,MHL,Total,1184
+2003,MHL,Total,1512
+2004,MHL,Total,2386
+2005,MHL,Total,2742
+2006,MHL,Total,1504
+2007,MHL,Total,2502
+2008,MHL,Total,971
+2009,MHL,Total,1657
+2010,MHL,Total,1491
+2011,MHL,Total,2089
+2012,MHL,Total,1541
+2013,MHL,Total,1338
+2014,MHL,Total,1017
+2015,MHL,Total,947
+2016,MHL,Total,1360
+2017,MHL,Total,2043
+2018,MHL,Total,1819
+2019,MHL,Total,2607
+2000,MLT,Total,27481
+2001,MLT,Total,24304
+2002,MLT,Total,25427
+2003,MLT,Total,16439
+2004,MLT,Total,12665
+2005,MLT,Total,9355
+2006,MLT,Total,10106
+2007,MLT,Total,11407
+2008,MLT,Total,13326
+2009,MLT,Total,16944
+2010,MLT,Total,18639
+2011,MLT,Total,462
+2012,MLT,Total,529
+2013,MLT,Total,666
+2014,MLT,Total,664
+2015,MLT,Total,690
+2016,MLT,Total,970
+2017,MLT,Total,546
+2018,MLT,Total,732
+2019,MLT,Total,726
+2000,MMR,Total,32304
+2001,MMR,Total,34281
+2002,MMR,Total,37161
+2003,MMR,Total,37981
+2004,MMR,Total,40851
+2005,MMR,Total,41104
+2006,MMR,Total,41468
+2007,MMR,Total,41722
+2008,MMR,Total,40596
+2009,MMR,Total,40596
+2010,MMR,Total,40596
+2011,MMR,Total,40962
+2012,MMR,Total,39685
+2013,MMR,Total,37572
+2014,MMR,Total,39996
+2015,MMR,Total,38227
+2016,MMR,Total,40941
+2017,MMR,Total,43616
+2018,MMR,Total,77549
+2019,MMR,Total,71511
+2000,MNE,Total,72
+2001,MNE,Total,85
+2002,MNE,Total,51
+2003,MNE,Total,82
+2004,MNE,Total,86
+2005,MNE,Total,93
+2006,MNE,Total,96
+2007,MNE,Total,92
+2008,MNE,Total,86
+2009,MNE,Total,62
+2010,MNE,Total,65
+2011,MNE,Total,46
+2012,MNE,Total,61
+2013,MNE,Total,48
+2014,MNE,Total,61
+2015,MNE,Total,167
+2016,MNE,Total,170
+2017,MNE,Total,114
+2018,MNE,Total,140
+2019,MNE,Total,147
+2000,MOZ,Total,30849
+2001,MOZ,Total,30659
+2002,MOZ,Total,29574
+2003,MOZ,Total,25933
+2004,MOZ,Total,26231
+2005,MOZ,Total,29475
+2006,MOZ,Total,26430
+2007,MOZ,Total,24310
+2008,MOZ,Total,19623
+2009,MOZ,Total,18693
+2010,MOZ,Total,24806
+2011,MOZ,Total,21144
+2012,MOZ,Total,16394
+2013,MOZ,Total,16003
+2014,MOZ,Total,25213
+2015,MOZ,Total,22329
+2016,MOZ,Total,21779
+2017,MOZ,Total,27369
+2018,MOZ,Total,23999
+2019,MOZ,Total,21335
+2000,MRT,Total,122560
+2001,MRT,Total,127618
+2002,MRT,Total,133984
+2003,MRT,Total,139397
+2004,MRT,Total,144874
+2005,MRT,Total,149913
+2006,MRT,Total,155565
+2007,MRT,Total,213817
+2008,MRT,Total,186296
+2009,MRT,Total,169872
+2010,MRT,Total,169872
+2011,MRT,Total,23175
+2012,MRT,Total,30874
+2013,MRT,Total,43224
+2014,MRT,Total,38513
+2015,MRT,Total,37116
+2016,MRT,Total,53098
+2017,MRT,Total,61632
+2018,MRT,Total,72793
+2019,MRT,Total,53999
+2000,MUS,Total,32
+2001,MUS,Total,9
+2003,MUS,Total,227
+2004,MUS,Total,225
+2005,MUS,Total,256
+2006,MUS,Total,240
+2007,MUS,Total,164
+2008,MUS,Total,114
+2009,MUS,Total,29
+2010,MUS,Total,71
+2013,MUS,Total,27
+2014,MUS,Total,270
+2015,MUS,Total,296
+2016,MUS,Total,364
+2017,MUS,Total,549
+2018,MUS,Total,791
+2019,MUS,Total,854
+2000,MYS,Total,24071
+2001,MYS,Total,22051
+2002,MYS,Total,20489
+2003,MYS,Total,19510
+2004,MYS,Total,16845
+2005,MYS,Total,13266
+2006,MYS,Total,14353
+2007,MYS,Total,14662
+2008,MYS,Total,14782
+2009,MYS,Total,14913
+2010,MYS,Total,15213
+2011,MYS,Total,14970
+2012,MYS,Total,15649
+2013,MYS,Total,15905
+2014,MYS,Total,16200
+2015,MYS,Total,16628
+2016,MYS,Total,17382
+2017,MYS,Total,16454
+2018,MYS,Total,15717
+2019,MYS,Total,15736
+2000,NAM,Total,31887
+2001,NAM,Total,29472
+2002,NAM,Total,27772
+2003,NAM,Total,31890
+2004,NAM,Total,27656
+2005,NAM,Total,27122
+2006,NAM,Total,21874
+2007,NAM,Total,18376
+2008,NAM,Total,17736
+2009,NAM,Total,18369
+2010,NAM,Total,19939
+2011,NAM,Total,22885
+2012,NAM,Total,23579
+2013,NAM,Total,24009
+2014,NAM,Total,21632
+2015,NAM,Total,24041
+2016,NAM,Total,24148
+2017,NAM,Total,21913
+2018,NAM,Total,26913
+2019,NAM,Total,26022
+2000,NCL,Total,297
+2001,NCL,Total,371
+2002,NCL,Total,378
+2003,NCL,Total,380
+2004,NCL,Total,529
+2005,NCL,Total,438
+2006,NCL,Total,318
+2007,NCL,Total,283
+2008,NCL,Total,310
+2009,NCL,Total,378
+2010,NCL,Total,472
+2011,NCL,Total,466
+2012,NCL,Total,442
+2013,NCL,Total,489
+2014,NCL,Total,560
+2015,NCL,Total,634
+2016,NCL,Total,567
+2017,NCL,Total,563
+2018,NCL,Total,572
+2019,NCL,Total,716
+2000,NGA,Total,3036
+2001,NGA,Total,3173
+2002,NGA,Total,3198
+2003,NGA,Total,3514
+2004,NGA,Total,3446
+2005,NGA,Total,3380
+2006,NGA,Total,3208
+2007,NGA,Total,3684
+2008,NGA,Total,3229
+2009,NGA,Total,3231
+2010,NGA,Total,3134
+2011,NGA,Total,2878
+2012,NGA,Total,2592
+2013,NGA,Total,2368
+2014,NGA,Total,2164
+2015,NGA,Total,1977
+2016,NGA,Total,1758
+2017,NGA,Total,2024
+2018,NGA,Total,1574
+2019,NGA,Total,1085
+2000,NIC,Total,13253
+2001,NIC,Total,13535
+2002,NIC,Total,12816
+2003,NIC,Total,11478
+2004,NIC,Total,9589
+2005,NIC,Total,12491
+2006,NIC,Total,7821
+2007,NIC,Total,8282
+2008,NIC,Total,5953
+2009,NIC,Total,8016
+2010,NIC,Total,8677
+2011,NIC,Total,7651
+2012,NIC,Total,3507
+2013,NIC,Total,4799
+2014,NIC,Total,6706
+2015,NIC,Total,6714
+2016,NIC,Total,9475
+2017,NIC,Total,7223
+2018,NIC,Total,7203
+2019,NIC,Total,7250
+2000,NLD,Total,121778
+2001,NLD,Total,123391
+2002,NLD,Total,109941
+2003,NLD,Total,111784
+2004,NLD,Total,98797
+2005,NLD,Total,93780
+2006,NLD,Total,83945
+2007,NLD,Total,89761
+2008,NLD,Total,86841
+2009,NLD,Total,97288
+2010,NLD,Total,105614
+2011,NLD,Total,83858
+2012,NLD,Total,90320
+2013,NLD,Total,94721
+2014,NLD,Total,89463
+2015,NLD,Total,77106
+2016,NLD,Total,82517
+2017,NLD,Total,74023
+2018,NLD,Total,100525
+2019,NLD,Total,77922
+2000,NOR,Total,47985
+2001,NOR,Total,42488
+2002,NOR,Total,44813
+2003,NOR,Total,48138
+2004,NOR,Total,48328
+2005,NOR,Total,45801
+2006,NOR,Total,45493
+2007,NOR,Total,49114
+2008,NOR,Total,48885
+2009,NOR,Total,51476
+2010,NOR,Total,57736
+2011,NOR,Total,10351
+2012,NOR,Total,9708
+2013,NOR,Total,8375
+2014,NOR,Total,8027
+2015,NOR,Total,7988
+2016,NOR,Total,8524
+2017,NOR,Total,8508
+2018,NOR,Total,8621
+2019,NOR,Total,9165
+2000,NZL,Total,65053
+2001,NZL,Total,67080
+2002,NZL,Total,63367
+2003,NZL,Total,62395
+2004,NZL,Total,59206
+2005,NZL,Total,55922
+2006,NZL,Total,50470
+2007,NZL,Total,48672
+2008,NZL,Total,42142
+2009,NZL,Total,39933
+2010,NZL,Total,40989
+2011,NZL,Total,41605
+2012,NZL,Total,42161
+2013,NZL,Total,42331
+2014,NZL,Total,49979
+2015,NZL,Total,55804
+2016,NZL,Total,65426
+2017,NZL,Total,67124
+2018,NZL,Total,58580
+2019,NZL,Total,63773
+2000,OMN,Total,2145
+2001,OMN,Total,1938
+2002,OMN,Total,3077
+2003,OMN,Total,2648
+2004,OMN,Total,3320
+2005,OMN,Total,3623
+2006,OMN,Total,2813
+2007,OMN,Total,2225
+2008,OMN,Total,2318
+2009,OMN,Total,2792
+2010,OMN,Total,2535
+2011,OMN,Total,2812
+2012,OMN,Total,2796
+2013,OMN,Total,2532
+2014,OMN,Total,2464
+2015,OMN,Total,2885
+2016,OMN,Total,3075
+2017,OMN,Total,2770
+2018,OMN,Total,3115
+2019,OMN,Total,3262
+2000,PAK,Total,32048
+2001,PAK,Total,31743
+2002,PAK,Total,28684
+2003,PAK,Total,6127
+2004,PAK,Total,6218
+2005,PAK,Total,5569
+2006,PAK,Total,5542
+2007,PAK,Total,4470
+2008,PAK,Total,4540
+2009,PAK,Total,5080
+2010,PAK,Total,5093
+2011,PAK,Total,5117
+2012,PAK,Total,5588
+2013,PAK,Total,5759
+2014,PAK,Total,5408
+2015,PAK,Total,5962
+2016,PAK,Total,5644
+2017,PAK,Total,6158
+2018,PAK,Total,5809
+2019,PAK,Total,4250
+2000,PAN,Total,31401
+2001,PAN,Total,31512
+2002,PAN,Total,23685
+2003,PAN,Total,28000
+2004,PAN,Total,25402
+2005,PAN,Total,20070
+2006,PAN,Total,25482
+2007,PAN,Total,32081
+2008,PAN,Total,27644
+2009,PAN,Total,27105
+2010,PAN,Total,19940
+2011,PAN,Total,17591
+2012,PAN,Total,7276
+2013,PAN,Total,64619
+2014,PAN,Total,12235
+2015,PAN,Total,13785
+2016,PAN,Total,15048
+2017,PAN,Total,17757
+2018,PAN,Total,21774
+2019,PAN,Total,30115
+2000,PER,Total,800532
+2001,PER,Total,442233
+2002,PER,Total,629800
+2003,PER,Total,355577
+2004,PER,Total,803726
+2005,PER,Total,718192
+2006,PER,Total,459827
+2007,PER,Total,477714
+2008,PER,Total,506453
+2009,PER,Total,663576
+2010,PER,Total,446460
+2011,PER,Total,780406
+2012,PER,Total,400928
+2013,PER,Total,506061
+2014,PER,Total,185964
+2015,PER,Total,333344
+2016,PER,Total,233970
+2017,PER,Total,191189
+2018,PER,Total,326784
+2019,PER,Total,214451
+2000,PHL,Total,25393
+2001,PHL,Total,26488
+2002,PHL,Total,25839
+2003,PHL,Total,29986
+2004,PHL,Total,30262
+2005,PHL,Total,29605
+2006,PHL,Total,25943
+2007,PHL,Total,30248
+2008,PHL,Total,28194
+2009,PHL,Total,28860
+2010,PHL,Total,25596
+2011,PHL,Total,21332
+2012,PHL,Total,22398
+2013,PHL,Total,22292
+2014,PHL,Total,23497
+2015,PHL,Total,21691
+2016,PHL,Total,20464
+2017,PHL,Total,18814
+2018,PHL,Total,18387
+2019,PHL,Total,18428
+2000,PLW,Total,3
+2004,PLW,Total,1
+2011,PLW,Total,0
+2000,PNG,Total,5156
+2001,PNG,Total,7248
+2002,PNG,Total,5175
+2003,PNG,Total,8425
+2004,PNG,Total,13721
+2005,PNG,Total,13496
+2006,PNG,Total,10388
+2007,PNG,Total,11708
+2008,PNG,Total,6769
+2009,PNG,Total,9507
+2010,PNG,Total,7365
+2011,PNG,Total,5472
+2012,PNG,Total,7281
+2013,PNG,Total,5215
+2014,PNG,Total,5793
+2015,PNG,Total,4632
+2016,PNG,Total,5845
+2017,PNG,Total,6416
+2018,PNG,Total,6605
+2019,PNG,Total,5696
+2000,POL,Total,9453
+2001,POL,Total,7300
+2002,POL,Total,6788
+2003,POL,Total,8548
+2004,POL,Total,7732
+2005,POL,Total,13335
+2006,POL,Total,15375
+2007,POL,Total,11289
+2008,POL,Total,9085
+2009,POL,Total,10421
+2010,POL,Total,11711
+2011,POL,Total,18852
+2012,POL,Total,21769
+2013,POL,Total,26354
+2014,POL,Total,21776
+2015,POL,Total,12850
+2016,POL,Total,16357
+2017,POL,Total,14230
+2018,POL,Total,11673
+2019,POL,Total,5147
+2000,PRI,Total,120
+2001,PRI,Total,92
+2002,PRI,Total,66
+2003,PRI,Total,53
+2004,PRI,Total,35
+2005,PRI,Total,27
+2006,PRI,Total,30
+2007,PRI,Total,22
+2008,PRI,Total,21
+2009,PRI,Total,20
+2010,PRI,Total,17
+2011,PRI,Total,14
+2012,PRI,Total,11
+2013,PRI,Total,8
+2014,PRI,Total,7
+2015,PRI,Total,25
+2016,PRI,Total,23
+2017,PRI,Total,19
+2018,PRI,Total,20
+2019,PRI,Total,18
+2000,PRK,Total,1071
+2001,PRK,Total,1012
+2002,PRK,Total,1085
+2003,PRK,Total,1125
+2004,PRK,Total,1576
+2005,PRK,Total,1225
+2006,PRK,Total,1244
+2007,PRK,Total,1160
+2008,PRK,Total,1118
+2009,PRK,Total,961
+2010,PRK,Total,961
+2011,PRK,Total,971
+2012,PRK,Total,995
+2013,PRK,Total,1010
+2014,PRK,Total,1064
+2015,PRK,Total,1064
+2016,PRK,Total,1064
+2017,PRK,Total,1064
+2018,PRK,Total,1064
+2019,PRK,Total,1064
+2000,PRT,Total,78943
+2001,PRT,Total,78763
+2002,PRT,Total,73844
+2003,PRT,Total,80997
+2004,PRT,Total,77741
+2005,PRT,Total,81997
+2006,PRT,Total,78707
+2007,PRT,Total,74726
+2008,PRT,Total,75715
+2009,PRT,Total,67378
+2010,PRT,Total,80037
+2011,PRT,Total,87751
+2012,PRT,Total,72994
+2013,PRT,Total,73948
+2014,PRT,Total,68518
+2015,PRT,Total,73787
+2016,PRT,Total,76019
+2017,PRT,Total,74638
+2018,PRT,Total,91372
+2019,PRT,Total,87955
+2000,PYF,Total,2904
+2001,PYF,Total,4159
+2002,PYF,Total,3203
+2003,PYF,Total,1302
+2004,PYF,Total,887
+2005,PYF,Total,896
+2006,PYF,Total,811
+2007,PYF,Total,1137
+2008,PYF,Total,739
+2009,PYF,Total,1150
+2010,PYF,Total,1011
+2011,PYF,Total,1089
+2012,PYF,Total,1344
+2013,PYF,Total,1431
+2014,PYF,Total,1633
+2015,PYF,Total,1802
+2016,PYF,Total,1685
+2017,PYF,Total,1458
+2018,PYF,Total,1849
+2019,PYF,Total,2215
+2000,QAT,Total,332
+2001,QAT,Total,409
+2002,QAT,Total,333
+2003,QAT,Total,519
+2004,QAT,Total,511
+2005,QAT,Total,636
+2006,QAT,Total,746
+2007,QAT,Total,691
+2008,QAT,Total,802
+2009,QAT,Total,639
+2010,QAT,Total,627
+2011,QAT,Total,593
+2012,QAT,Total,514
+2013,QAT,Total,549
+2014,QAT,Total,728
+2015,QAT,Total,684
+2016,QAT,Total,655
+2017,QAT,Total,654
+2018,QAT,Total,628
+2019,QAT,Total,727
+2000,REU,Total,852
+2001,REU,Total,839
+2002,REU,Total,782
+2003,REU,Total,722
+2004,REU,Total,748
+2005,REU,Total,1060
+2006,REU,Total,848
+2007,REU,Total,938
+2008,REU,Total,509
+2009,REU,Total,381
+2010,REU,Total,269
+2011,REU,Total,232
+2012,REU,Total,110
+2013,REU,Total,79
+2014,REU,Total,34
+2015,REU,Total,3
+2016,REU,Total,2
+2017,REU,Total,1
+2018,REU,Total,1
+2019,REU,Total,1
+2000,ROU,Total,15622
+2001,ROU,Total,15042
+2002,ROU,Total,14659
+2003,ROU,Total,13689
+2004,ROU,Total,13806
+2005,ROU,Total,13150
+2006,ROU,Total,12047
+2007,ROU,Total,12377
+2008,ROU,Total,12233
+2009,ROU,Total,11679
+2010,ROU,Total,11375
+2011,ROU,Total,2013
+2012,ROU,Total,2
+2013,ROU,Total,3
+2014,ROU,Total,3
+2015,ROU,Total,34
+2016,ROU,Total,49
+2017,ROU,Total,68
+2018,ROU,Total,55
+2019,ROU,Total,51
+2000,RUS,Total,2290796
+2001,RUS,Total,2319427
+2002,RUS,Total,1683857
+2003,RUS,Total,1961484
+2004,RUS,Total,1513297
+2005,RUS,Total,1698300
+2006,RUS,Total,1683973
+2007,RUS,Total,1864847
+2008,RUS,Total,1289487
+2009,RUS,Total,1291274
+2010,RUS,Total,1545657
+2011,RUS,Total,1594529
+2012,RUS,Total,1664917
+2013,RUS,Total,1683225
+2014,RUS,Total,1660388
+2015,RUS,Total,1723814
+2016,RUS,Total,1740755
+2017,RUS,Total,1819189
+2018,RUS,Total,1995609
+2019,RUS,Total,1966601
+2000,SAU,Total,7810
+2001,SAU,Total,6257
+2002,SAU,Total,7430
+2003,SAU,Total,7056
+2004,SAU,Total,4320
+2005,SAU,Total,6341
+2006,SAU,Total,5821
+2007,SAU,Total,6188
+2008,SAU,Total,6101
+2009,SAU,Total,6119
+2010,SAU,Total,6137
+2011,SAU,Total,6150
+2012,SAU,Total,6172
+2013,SAU,Total,6230
+2014,SAU,Total,6229
+2015,SAU,Total,6245
+2016,SAU,Total,6263
+2017,SAU,Total,6086
+2018,SAU,Total,6007
+2019,SAU,Total,5897
+2000,SDN,Total,53
+2001,SDN,Total,71
+2002,SDN,Total,88
+2003,SDN,Total,70
+2004,SDN,Total,52
+2005,SDN,Total,35
+2006,SDN,Total,17
+2008,SDN,Total,51
+2009,SDN,Total,102
+2000,SEN,Total,129569
+2001,SEN,Total,117173
+2002,SEN,Total,103886
+2003,SEN,Total,88100
+2004,SEN,Total,77561
+2005,SEN,Total,63286
+2006,SEN,Total,70672
+2007,SEN,Total,68272
+2008,SEN,Total,60540
+2009,SEN,Total,61703
+2010,SEN,Total,61540
+2011,SEN,Total,44406
+2012,SEN,Total,24387
+2013,SEN,Total,30153
+2014,SEN,Total,38768
+2015,SEN,Total,77589
+2016,SEN,Total,92027
+2017,SEN,Total,66917
+2018,SEN,Total,62319
+2019,SEN,Total,62636
+2000,SLB,Total,569
+2001,SLB,Total,524
+2002,SLB,Total,424
+2003,SLB,Total,726
+2004,SLB,Total,866
+2005,SLB,Total,624
+2006,SLB,Total,650
+2007,SLB,Total,591
+2008,SLB,Total,273
+2009,SLB,Total,408
+2010,SLB,Total,5165
+2011,SLB,Total,1173
+2012,SLB,Total,315
+2013,SLB,Total,238
+2014,SLB,Total,22513
+2015,SLB,Total,26542
+2016,SLB,Total,330
+2017,SLB,Total,270
+2018,SLB,Total,6826
+2019,SLB,Total,8222
+2000,SLE,Total,29404
+2001,SLE,Total,25695
+2002,SLE,Total,26628
+2003,SLE,Total,18058
+2004,SLE,Total,14267
+2005,SLE,Total,11398
+2006,SLE,Total,12290
+2007,SLE,Total,13544
+2008,SLE,Total,14713
+2009,SLE,Total,18257
+2010,SLE,Total,19898
+2011,SLE,Total,862
+2012,SLE,Total,785
+2013,SLE,Total,684
+2014,SLE,Total,657
+2015,SLE,Total,483
+2016,SLE,Total,483
+2017,SLE,Total,483
+2018,SLE,Total,483
+2019,SLE,Total,483
+2000,SLV,Total,13692
+2001,SLV,Total,14511
+2002,SLV,Total,14688
+2003,SLV,Total,16526
+2004,SLV,Total,13909
+2005,SLV,Total,14580
+2006,SLV,Total,11584
+2007,SLV,Total,12959
+2008,SLV,Total,10014
+2009,SLV,Total,7875
+2010,SLV,Total,6828
+2011,SLV,Total,2414
+2012,SLV,Total,2279
+2013,SLV,Total,2218
+2014,SLV,Total,2206
+2015,SLV,Total,8224
+2016,SLV,Total,9984
+2017,SLV,Total,10029
+2018,SLV,Total,7618
+2019,SLV,Total,7572
+2000,SOM,Total,4571
+2001,SOM,Total,5301
+2002,SOM,Total,6030
+2003,SOM,Total,6771
+2004,SOM,Total,6944
+2005,SOM,Total,5205
+2006,SOM,Total,5656
+2007,SOM,Total,6109
+2008,SOM,Total,6562
+2009,SOM,Total,6994
+2010,SOM,Total,7437
+2011,SOM,Total,7556
+2012,SOM,Total,7681
+2013,SOM,Total,7789
+2014,SOM,Total,7909
+2015,SOM,Total,8013
+2016,SOM,Total,8121
+2017,SOM,Total,8234
+2018,SOM,Total,8344
+2019,SOM,Total,8482
+2000,SPM,Total,8054
+2001,SPM,Total,5287
+2002,SPM,Total,4608
+2003,SPM,Total,4541
+2004,SPM,Total,4978
+2005,SPM,Total,5421
+2006,SPM,Total,3087
+2007,SPM,Total,7095
+2008,SPM,Total,5749
+2009,SPM,Total,4563
+2010,SPM,Total,5272
+2011,SPM,Total,4176
+2012,SPM,Total,4005
+2013,SPM,Total,3662
+2014,SPM,Total,3128
+2015,SPM,Total,2752
+2016,SPM,Total,2079
+2017,SPM,Total,2079
+2018,SPM,Total,2079
+2019,SPM,Total,2079
+2000,STP,Total,121
+2001,STP,Total,52
+2002,STP,Total,74
+2003,STP,Total,60
+2004,STP,Total,62
+2005,STP,Total,1
+2006,STP,Total,1
+2007,STP,Total,1
+2008,STP,Total,1
+2009,STP,Total,21
+2010,STP,Total,1
+2011,STP,Total,1
+2000,SUR,Total,29070
+2001,SUR,Total,36838
+2002,SUR,Total,34729
+2003,SUR,Total,32111
+2004,SUR,Total,25261
+2005,SUR,Total,22510
+2006,SUR,Total,14126
+2007,SUR,Total,13513
+2008,SUR,Total,4092
+2009,SUR,Total,4547
+2010,SUR,Total,7797
+2011,SUR,Total,7261
+2012,SUR,Total,7619
+2013,SUR,Total,7388
+2014,SUR,Total,4253
+2015,SUR,Total,5586
+2016,SUR,Total,6261
+2017,SUR,Total,6821
+2018,SUR,Total,7403
+2019,SUR,Total,5118
+2000,SVN,Total,3743
+2001,SVN,Total,3286
+2002,SVN,Total,4687
+2003,SVN,Total,3547
+2004,SVN,Total,4645
+2005,SVN,Total,3689
+2006,SVN,Total,2613
+2007,SVN,Total,4351
+2008,SVN,Total,4864
+2009,SVN,Total,4245
+2010,SVN,Total,4216
+2011,SVN,Total,780
+2012,SVN,Total,30
+2013,SVN,Total,28
+2014,SVN,Total,21
+2015,SVN,Total,22
+2016,SVN,Total,16
+2017,SVN,Total,10
+2018,SVN,Total,14
+2019,SVN,Total,13
+2000,SWE,Total,6144
+2001,SWE,Total,7677
+2002,SWE,Total,8918
+2003,SWE,Total,9468
+2004,SWE,Total,6302
+2005,SWE,Total,4777
+2006,SWE,Total,5969
+2007,SWE,Total,3603
+2008,SWE,Total,3837
+2009,SWE,Total,4045
+2010,SWE,Total,4816
+2011,SWE,Total,11859
+2012,SWE,Total,8943
+2013,SWE,Total,10997
+2014,SWE,Total,10197
+2015,SWE,Total,23798
+2016,SWE,Total,21905
+2017,SWE,Total,24658
+2018,SWE,Total,16976
+2019,SWE,Total,15883
+2000,SYC,Total,1729
+2001,SYC,Total,2502
+2002,SYC,Total,3609
+2003,SYC,Total,5131
+2004,SYC,Total,5812
+2005,SYC,Total,6412
+2006,SYC,Total,4555
+2007,SYC,Total,3977
+2008,SYC,Total,3769
+2009,SYC,Total,4902
+2010,SYC,Total,4598
+2011,SYC,Total,4155
+2012,SYC,Total,4923
+2013,SYC,Total,4892
+2014,SYC,Total,2062
+2015,SYC,Total,5827
+2016,SYC,Total,7355
+2017,SYC,Total,7707
+2018,SYC,Total,8451
+2019,SYC,Total,7872
+2000,SYR,Total,447
+2001,SYR,Total,433
+2002,SYR,Total,419
+2003,SYR,Total,405
+2004,SYR,Total,390
+2005,SYR,Total,376
+2006,SYR,Total,414
+2007,SYR,Total,399
+2008,SYR,Total,426
+2009,SYR,Total,406
+2010,SYR,Total,388
+2011,SYR,Total,194
+2012,SYR,Total,194
+2013,SYR,Total,194
+2014,SYR,Total,194
+2015,SYR,Total,194
+2016,SYR,Total,280
+2017,SYR,Total,283
+2018,SYR,Total,308
+2019,SYR,Total,333
+2013,TCA,Total,6
+2014,TCA,Total,6
+2000,TGO,Total,527
+2001,TGO,Total,687
+2002,TGO,Total,651
+2003,TGO,Total,496
+2004,TGO,Total,227
+2005,TGO,Total,284
+2006,TGO,Total,254
+2007,TGO,Total,344
+2008,TGO,Total,232
+2009,TGO,Total,168
+2010,TGO,Total,183
+2011,TGO,Total,166
+2012,TGO,Total,204
+2013,TGO,Total,190
+2014,TGO,Total,148
+2015,TGO,Total,158
+2016,TGO,Total,165
+2017,TGO,Total,159
+2018,TGO,Total,159
+2019,TGO,Total,159
+2000,THA,Total,65753
+2001,THA,Total,59429
+2002,THA,Total,56982
+2003,THA,Total,56443
+2004,THA,Total,52681
+2005,THA,Total,52183
+2006,THA,Total,51126
+2007,THA,Total,41862
+2008,THA,Total,38640
+2009,THA,Total,37087
+2010,THA,Total,32591
+2011,THA,Total,32968
+2012,THA,Total,31126
+2013,THA,Total,33325
+2014,THA,Total,31442
+2015,THA,Total,28681
+2016,THA,Total,29321
+2017,THA,Total,28712
+2018,THA,Total,28219
+2019,THA,Total,28505
+2000,TTO,Total,3924
+2001,TTO,Total,5827
+2002,TTO,Total,6029
+2003,TTO,Total,4865
+2004,TTO,Total,5357
+2005,TTO,Total,6204
+2006,TTO,Total,4720
+2007,TTO,Total,4402
+2008,TTO,Total,4852
+2009,TTO,Total,4714
+2010,TTO,Total,4772
+2011,TTO,Total,4578
+2012,TTO,Total,4084
+2013,TTO,Total,4742
+2014,TTO,Total,4751
+2015,TTO,Total,3904
+2016,TTO,Total,4537
+2017,TTO,Total,4530
+2018,TTO,Total,4646
+2019,TTO,Total,4621
+2000,TUN,Total,13339
+2001,TUN,Total,13590
+2002,TUN,Total,13610
+2003,TUN,Total,13909
+2004,TUN,Total,14479
+2005,TUN,Total,13009
+2006,TUN,Total,12224
+2007,TUN,Total,11550
+2008,TUN,Total,10522
+2009,TUN,Total,10271
+2010,TUN,Total,11485
+2011,TUN,Total,11633
+2012,TUN,Total,13200
+2013,TUN,Total,13693
+2014,TUN,Total,13912
+2015,TUN,Total,14104
+2016,TUN,Total,13822
+2017,TUN,Total,12932
+2018,TUN,Total,12163
+2019,TUN,Total,12438
+2000,TUR,Total,44915
+2001,TUR,Total,44033
+2002,TUR,Total,41655
+2003,TUR,Total,38905
+2004,TUR,Total,42044
+2005,TUR,Total,39308
+2006,TUR,Total,41680
+2007,TUR,Total,50145
+2008,TUR,Total,46297
+2009,TUR,Total,45890
+2010,TUR,Total,47326
+2011,TUR,Total,50954
+2012,TUR,Total,38430
+2013,TUR,Total,36687
+2014,TUR,Total,35000
+2015,TUR,Total,45526
+2016,TUR,Total,37904
+2017,TUR,Total,37679
+2018,TUR,Total,36582
+2019,TUR,Total,43924
+2009,TUV,Total,118
+2010,TUV,Total,186
+2011,TUV,Total,163
+2012,TUV,Total,292
+2013,TUV,Total,351
+2014,TUV,Total,209
+2015,TUV,Total,181
+2016,TUV,Total,238
+2017,TUV,Total,223
+2018,TUV,Total,436
+2019,TUV,Total,267
+2000,TWN,Total,117043
+2001,TWN,Total,125249
+2002,TWN,Total,132150
+2003,TWN,Total,132632
+2004,TWN,Total,122326
+2005,TWN,Total,109774
+2006,TWN,Total,85725
+2007,TWN,Total,77318
+2008,TWN,Total,63639
+2009,TWN,Total,73332
+2010,TWN,Total,69752
+2011,TWN,Total,75017
+2012,TWN,Total,101903
+2013,TWN,Total,98968
+2014,TWN,Total,102158
+2015,TWN,Total,95344
+2016,TWN,Total,123480
+2017,TWN,Total,84387
+2018,TWN,Total,91920
+2019,TWN,Total,101144
+2000,TZA,Total,3639
+2001,TZA,Total,3535
+2002,TZA,Total,3571
+2003,TZA,Total,3033
+2004,TZA,Total,2342
+2005,TZA,Total,3382
+2006,TZA,Total,3566
+2007,TZA,Total,3199
+2008,TZA,Total,2056
+2009,TZA,Total,2051
+2010,TZA,Total,2824
+2011,TZA,Total,3365
+2012,TZA,Total,2946
+2013,TZA,Total,2831
+2014,TZA,Total,2694
+2015,TZA,Total,2913
+2016,TZA,Total,2864
+2017,TZA,Total,2718
+2018,TZA,Total,2664
+2019,TZA,Total,5557
+2000,UKR,Total,109498
+2001,UKR,Total,109145
+2002,UKR,Total,99328
+2003,UKR,Total,101376
+2004,UKR,Total,94098
+2005,UKR,Total,77717
+2006,UKR,Total,69184
+2007,UKR,Total,62542
+2008,UKR,Total,55904
+2009,UKR,Total,52603
+2010,UKR,Total,48372
+2011,UKR,Total,39770
+2012,UKR,Total,39052
+2013,UKR,Total,40438
+2014,UKR,Total,39109
+2015,UKR,Total,38332
+2016,UKR,Total,35502
+2017,UKR,Total,36411
+2018,UKR,Total,37863
+2019,UKR,Total,40607
+2000,URY,Total,14222
+2001,URY,Total,8863
+2002,URY,Total,9335
+2003,URY,Total,10293
+2004,URY,Total,10947
+2005,URY,Total,11364
+2006,URY,Total,11786
+2007,URY,Total,9382
+2008,URY,Total,9630
+2009,URY,Total,7424
+2010,URY,Total,6540
+2011,URY,Total,7630
+2012,URY,Total,6410
+2013,URY,Total,4817
+2014,URY,Total,5277
+2015,URY,Total,4678
+2016,URY,Total,3908
+2017,URY,Total,4857
+2018,URY,Total,5312
+2019,URY,Total,5211
+2000,USA,Total,967324
+2001,USA,Total,900766
+2002,USA,Total,934793
+2003,USA,Total,948447
+2004,USA,Total,1005190
+2005,USA,Total,806799
+2006,USA,Total,891663
+2007,USA,Total,798693
+2008,USA,Total,729099
+2009,USA,Total,845145
+2010,USA,Total,802167
+2011,USA,Total,861156
+2012,USA,Total,797402
+2013,USA,Total,721249
+2014,USA,Total,747007
+2015,USA,Total,755276
+2016,USA,Total,747419
+2017,USA,Total,523473
+2018,USA,Total,534683
+2019,USA,Total,512065
+2000,VCT,Total,1914
+2001,VCT,Total,3214
+2002,VCT,Total,527
+2003,VCT,Total,1080
+2004,VCT,Total,2117
+2005,VCT,Total,1480
+2006,VCT,Total,896
+2007,VCT,Total,1008
+2008,VCT,Total,860
+2009,VCT,Total,832
+2010,VCT,Total,434
+2011,VCT,Total,470
+2012,VCT,Total,1616
+2013,VCT,Total,1736
+2014,VCT,Total,2568
+2015,VCT,Total,2943
+2016,VCT,Total,1319
+2017,VCT,Total,1854
+2018,VCT,Total,365
+2019,VCT,Total,233
+2000,VEN,Total,25791
+2001,VEN,Total,30117
+2002,VEN,Total,31137
+2003,VEN,Total,23424
+2004,VEN,Total,23344
+2005,VEN,Total,23087
+2006,VEN,Total,17883
+2007,VEN,Total,15267
+2008,VEN,Total,13150
+2009,VEN,Total,6280
+2010,VEN,Total,4689
+2011,VEN,Total,2644
+2012,VEN,Total,2726
+2013,VEN,Total,2763
+2014,VEN,Total,2639
+2015,VEN,Total,2773
+2016,VEN,Total,2926
+2017,VEN,Total,2977
+2018,VEN,Total,2690
+2019,VEN,Total,2599
+2000,VGB,Total,0
+2001,VGB,Total,2
+2002,VGB,Total,2
+2003,VGB,Total,1
+2004,VGB,Total,1
+2005,VGB,Total,1
+2006,VGB,Total,2
+2007,VGB,Total,1
+2008,VGB,Total,1
+2009,VGB,Total,1
+2010,VGB,Total,1
+2011,VGB,Total,1
+2012,VGB,Total,1
+2013,VGB,Total,1
+2014,VGB,Total,1
+2015,VGB,Total,0
+2016,VGB,Total,0
+2017,VGB,Total,0
+2018,VGB,Total,0
+2019,VGB,Total,0
+2000,VNM,Total,255635
+2001,VNM,Total,272920
+2002,VNM,Total,290498
+2003,VNM,Total,308463
+2004,VNM,Total,330016
+2005,VNM,Total,349313
+2006,VNM,Total,368328
+2007,VNM,Total,389514
+2008,VNM,Total,409564
+2009,VNM,Total,431557
+2010,VNM,Total,453378
+2011,VNM,Total,500724
+2012,VNM,Total,536698
+2013,VNM,Total,569128
+2014,VNM,Total,601214
+2015,VNM,Total,641541
+2016,VNM,Total,695049
+2017,VNM,Total,758551
+2018,VNM,Total,772093
+2019,VNM,Total,805059
+2000,VUT,Total,6279
+2001,VUT,Total,6437
+2002,VUT,Total,8208
+2003,VUT,Total,10297
+2004,VUT,Total,13448
+2005,VUT,Total,10835
+2006,VUT,Total,12861
+2007,VUT,Total,11988
+2008,VUT,Total,9630
+2009,VUT,Total,12365
+2010,VUT,Total,13863
+2011,VUT,Total,9605
+2012,VUT,Total,13102
+2013,VUT,Total,11187
+2014,VUT,Total,12165
+2015,VUT,Total,18164
+2016,VUT,Total,6806
+2017,VUT,Total,9071
+2018,VUT,Total,8958
+2019,VUT,Total,10234
+2000,WSM,Total,257
+2001,WSM,Total,270
+2002,WSM,Total,232
+2003,WSM,Total,132
+2004,WSM,Total,87
+2005,WSM,Total,75
+2006,WSM,Total,126
+2007,WSM,Total,172
+2008,WSM,Total,136
+2009,WSM,Total,164
+2010,WSM,Total,148
+2011,WSM,Total,86
+2012,WSM,Total,107
+2013,WSM,Total,91
+2014,WSM,Total,50
+2015,WSM,Total,52
+2016,WSM,Total,58
+2017,WSM,Total,88
+2018,WSM,Total,82
+2019,WSM,Total,1563
+2000,YEM,Total,31427
+2001,YEM,Total,36955
+2002,YEM,Total,43402
+2003,YEM,Total,28209
+2004,YEM,Total,22763
+2005,YEM,Total,12884
+2006,YEM,Total,4294
+2007,YEM,Total,9856
+2008,YEM,Total,1033
+2009,YEM,Total,1345
+2010,YEM,Total,1651
+2011,YEM,Total,2102
+2012,YEM,Total,3534
+2013,YEM,Total,3950
+2014,YEM,Total,3541
+2015,YEM,Total,3042
+2016,YEM,Total,2600
+2017,YEM,Total,2224
+2018,YEM,Total,2270
+2019,YEM,Total,2275
+2000,ZAF,Total,44489
+2001,ZAF,Total,52038
+2002,ZAF,Total,51644
+2003,ZAF,Total,55809
+2004,ZAF,Total,59752
+2005,ZAF,Total,55138
+2006,ZAF,Total,41549
+2007,ZAF,Total,45572
+2008,ZAF,Total,43061
+2009,ZAF,Total,33590
+2010,ZAF,Total,41706
+2011,ZAF,Total,34733
+2012,ZAF,Total,47306
+2013,ZAF,Total,27490
+2014,ZAF,Total,39911
+2015,ZAF,Total,37776
+2016,ZAF,Total,41257
+2017,ZAF,Total,35435
+2018,ZAF,Total,36907
+2019,ZAF,Total,28976
