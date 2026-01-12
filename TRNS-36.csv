@@ -1,8 +1,2 @@
-﻿year,geo,disagg,value
-2019,WLD,Manufacturing,0.46
-2019,WLD,EV supply chains,0.85
-2019,WLD,Total,1.31
-2020,WLD,Manufacturing,0.62
-2022,WLD,Manufacturing,1
-2023,WLD,Manufacturing,1.4
-2024,WLD,Manufacturing,3.1
+﻿year,geo,value
+2024,WLD,3.5
