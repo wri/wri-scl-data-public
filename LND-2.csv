@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2001,WLD,Total,1.7,,,,
 2002,WLD,Total,4.4,,,,
 2003,WLD,Total,4.3,,,,
@@ -13,7 +13,7 @@
 2012,WLD,Total,6.2,,,,
 2013,WLD,Total,6.1,,,,
 2014,WLD,Total,6.4,,,,
-2015,WLD,Total,5.3,,62.1,,
+2015,WLD,Total,5.3,,,,
 2016,WLD,Total,8.9,,,,
 2017,WLD,Total,7.9,,,,
 2018,WLD,Total,5.9,,,,
@@ -37,10 +37,10 @@
 2011,WLD,Humid tropical primary forests,2.7,,,,
 2012,WLD,Humid tropical primary forests,3.6,,,,
 2013,WLD,Humid tropical primary forests,2.6,,,,
-2014,WLD,Humid tropical primary forests,3.6,,Total,Slope,
-2015,WLD,Humid tropical primary forests,2.9,,43.7,0.083030303,83030.30303
+2014,WLD,Humid tropical primary forests,3.6,,,,
+2015,WLD,Humid tropical primary forests,2.9,,,,
 2016,WLD,Humid tropical primary forests,6.1,,,,
-2017,WLD,Humid tropical primary forests,5,,0.597811218,,
+2017,WLD,Humid tropical primary forests,5,,,,
 2018,WLD,Humid tropical primary forests,3.6,,,,
 2019,WLD,Humid tropical primary forests,3.7,,,,
 2020,WLD,Humid tropical primary forests,4.2,,,,
@@ -57,12 +57,12 @@
 2007,WLD,Intact forest landscapes within temperate and boreal forests,1.7,,,,
 2008,WLD,Intact forest landscapes within temperate and boreal forests,1.7,,,,
 2009,WLD,Intact forest landscapes within temperate and boreal forests,1.2,,,,
-2010,WLD,Intact forest landscapes within temperate and boreal forests,1.5,,72.4,,
+2010,WLD,Intact forest landscapes within temperate and boreal forests,1.5,,,,
 2011,WLD,Intact forest landscapes within temperate and boreal forests,1.6,,,,
 2012,WLD,Intact forest landscapes within temperate and boreal forests,2.6,,,,
 2013,WLD,Intact forest landscapes within temperate and boreal forests,3.5,,,,
 2014,WLD,Intact forest landscapes within temperate and boreal forests,2.8,,,,
-2015,WLD,Intact forest landscapes within temperate and boreal forests,2.3,,28.7,0.178787879,178787.8788
+2015,WLD,Intact forest landscapes within temperate and boreal forests,2.3,,,,
 2016,WLD,Intact forest landscapes within temperate and boreal forests,2.7,,,,
 2017,WLD,Intact forest landscapes within temperate and boreal forests,2.9,,,,
 2018,WLD,Intact forest landscapes within temperate and boreal forests,2.2,,,,
