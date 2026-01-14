@@ -1,284 +1,835 @@
-year,geo,disagg,value
-2009,WLD,Total,1
-2010,WLD,Total,2
-2012,WLD,Total,3
-2013,WLD,Total,5
-2014,WLD,Total,6
-2015,WLD,Total,12
-2016,WLD,Total,13
-2017,WLD,Total,19
-2018,WLD,Total,22
-2019,WLD,Total,30
-2020,WLD,Total,41
-2021,WLD,Total,61
-2022,WLD,Total,87
-2023,WLD,Total,121
-2024,WLD,Total,140
-2020,WLD,Hydropower,3
-2021,WLD,Hydropower,4
-2022,WLD,Hydropower,4
-2023,WLD,Hydropower,4
-2024,WLD,Hydropower,5
-2020,WLD,Offshore wind,0
-2021,WLD,Offshore wind,0
-2022,WLD,Offshore wind,1
-2023,WLD,Offshore wind,2
-2024,WLD,Offshore wind,3
-2009,WLD,Onshore wind,1
-2010,WLD,Onshore wind,1
-2011,WLD,Onshore wind,1
-2012,WLD,Onshore wind,1
-2013,WLD,Onshore wind,2
-2014,WLD,Onshore wind,3
-2015,WLD,Onshore wind,5
-2016,WLD,Onshore wind,6
-2017,WLD,Onshore wind,8
-2018,WLD,Onshore wind,9
-2019,WLD,Onshore wind,12
-2020,WLD,Onshore wind,15
-2021,WLD,Onshore wind,18
-2022,WLD,Onshore wind,20
-2023,WLD,Onshore wind,22
-2024,WLD,Onshore wind,22
-2012,WLD,Others/Various,1
-2013,WLD,Others/Various,1
-2014,WLD,Others/Various,1
-2015,WLD,Others/Various,1
-2016,WLD,Others/Various,1
-2017,WLD,Others/Various,3
-2018,WLD,Others/Various,3
-2019,WLD,Others/Various,4
-2020,WLD,Others/Various,5
-2021,WLD,Others/Various,10
-2022,WLD,Others/Various,14
-2023,WLD,Others/Various,18
-2024,WLD,Others/Various,20
-2013,WLD,Solar PV,1
-2014,WLD,Solar PV,1
-2015,WLD,Solar PV,3
-2016,WLD,Solar PV,3
-2017,WLD,Solar PV,5
-2018,WLD,Solar PV,7
-2019,WLD,Solar PV,8
-2020,WLD,Solar PV,10
-2021,WLD,Solar PV,17
-2022,WLD,Solar PV,24
-2023,WLD,Solar PV,35
-2024,WLD,Solar PV,41
-2010,WLD,Unknown,1
-2011,WLD,Unknown,1
-2012,WLD,Unknown,1
-2013,WLD,Unknown,1
-2014,WLD,Unknown,1
-2015,WLD,Unknown,2
-2016,WLD,Unknown,2
-2017,WLD,Unknown,2
-2018,WLD,Unknown,2
-2019,WLD,Unknown,5
-2020,WLD,Unknown,5
-2021,WLD,Unknown,6
-2022,WLD,Unknown,12
-2023,WLD,Unknown,19
-2024,WLD,Unknown,24
-2021,ARE,Total,1
-2009,ARG,Total,1
-2021,AUS,Total,2
-2022,AUS,Total,3
-2024,AUS,Total,4
-2017,AUT,Total,1
-2018,AUT,Total,2
-2022,AUT,Total,3
-2023,AUT,Total,6
-2015,BEL,Total,1
-2022,BRA,Total,2
-2020,CAN,Total,1
-2020,CHE,Total,1
-2022,CHE,Total,2
-2023,CHE,Total,3
-2024,CHE,Total,4
-2017,CHL,Total,1
-2021,CHL,Total,2
-2022,CHL,Total,4
-2023,CHL,Total,6
-2018,CHN,Total,1
-2019,CHN,Total,3
-2020,CHN,Total,5
-2021,CHN,Total,9
-2022,CHN,Total,12
-2023,CHN,Total,19
-2022,COL,Total,3
-2023,COL,Total,4
-2017,CRI,Total,1
-2013,DEU,Total,2
-2014,DEU,Total,3
-2015,DEU,Total,4
-2017,DEU,Total,5
-2018,DEU,Total,6
-2019,DEU,Total,9
-2020,DEU,Total,14
-2021,DEU,Total,17
-2022,DEU,Total,18
-2023,DEU,Total,21
-2024,DEU,Total,25
-2020,DNK,Total,1
-2022,DNK,Total,2
-2024,DNK,Total,4
-2022,EGY,Total,1
-2015,ESP,Total,1
-2022,ESP,Total,5
-2023,ESP,Total,9
-2010,EST,Total,1
-2021,FRA,Total,2
-2022,FRA,Total,3
-2023,FRA,Total,5
-2024,FRA,Total,7
-2016,GBR,Total,1
-2017,GBR,Total,2
-2019,GBR,Total,3
-2021,GBR,Total,4
-2023,GBR,Total,5
-2024,GBR,Total,6
-2021,GRC,Total,1
-2022,GRC,Total,1
-2023,HUN,Total,1
-2023,IDN,Total,1
-2015,IND,Total,2
-2021,IND,Total,3
-2022,IND,Total,4
-2024,IND,Total,8
-2012,ISL,Total,1
-2019,JPN,Total,1
-2020,JPN,Total,2
-2024,NAM,Total,1
-2021,NLD,Total,1
-2022,NLD,Total,3
-2023,NLD,Total,5
-2024,NLD,Total,6
-2017,NOR,Total,1
-2021,NOR,Total,2
-2022,NOR,Total,3
-2023,NOR,Total,4
-2021,NZL,Total,1
-1965,PER,Total,1
-2023,PER,Total,2
-2023,PRT,Total,1
-2021,SVN,Total,1
-2019,SWE,Total,1
-2023,USA,Total,3
-2024,USA,Total,5
-2021,ARE,Solar PV,1
-2009,ARG,Onshore wind,1
-2021,AUS,Others/Various,2
-2022,AUS,Solar PV,1
-2024,AUS,Solar PV,1
-2017,AUT,Solar PV,1
-2018,AUT,Solar PV,1
-2022,AUT,Solar PV,1
-2023,AUT,Others/Various,2
-2023,AUT,Solar PV,1
-2015,BEL,Onshore wind,1
-2022,BRA,Solar PV,2
-2020,CAN,Hydropower,1
-2020,CHE,Hydropower,1
-2022,CHE,Unknown,1
-2023,CHE,Solar PV,1
-2024,CHE,Hydropower,1
-2017,CHL,Others/Various,1
-2021,CHL,Solar PV,1
-2022,CHL,Onshore wind,1
-2022,CHL,Solar PV,1
-2023,CHL,Solar PV,2
-2018,CHN,Solar PV,1
-2019,CHN,Onshore wind,1
-2019,CHN,Unknown,1
-2020,CHN,Onshore wind,1
-2020,CHN,Solar PV,1
-2021,CHN,Onshore wind,1
-2021,CHN,Others/Various,1
-2021,CHN,Solar PV,2
-2022,CHN,Onshore wind,1
-2022,CHN,Others/Various,2
-2023,CHN,Onshore wind,2
-2023,CHN,Solar PV,4
-2023,CHN,Unknown,1
-2022,COL,Solar PV,2
-2022,COL,Unknown,1
-2023,COL,Solar PV,1
-2017,CRI,Others/Various,1
-2013,DEU,Onshore wind,1
-2013,DEU,Solar PV,1
-2014,DEU,Onshore wind,1
-2015,DEU,Onshore wind,1
-2017,DEU,Onshore wind,1
-2018,DEU,Onshore wind,1
-2019,DEU,Onshore wind,1
-2019,DEU,Others/Various,1
-2019,DEU,Unknown,1
-2020,DEU,Hydropower,2
-2020,DEU,Onshore wind,2
-2020,DEU,Others/Various,1
-2021,DEU,Onshore wind,2
-2021,DEU,Others/Various,1
-2022,DEU,Others/Various,1
-2023,DEU,Onshore wind,1
-2023,DEU,Solar PV,1
-2023,DEU,Unknown,1
-2024,DEU,Offshore wind,2
-2024,DEU,Solar PV,1
-2024,DEU,Unknown,1
-2020,DNK,Onshore wind,1
-2022,DNK,Offshore wind,1
-2024,DNK,Others/Various,2
-2022,EGY,Others/Various,1
-2015,ESP,Solar PV,1
-2022,ESP,Others/Various,1
-2022,ESP,Solar PV,3
-2023,ESP,Others/Various,1
-2023,ESP,Solar PV,2
-2023,ESP,Unknown,1
-2010,EST,Unknown,1
-2021,FRA,Solar PV,1
-2021,FRA,Unknown,1
-2022,FRA,Unknown,1
-2023,FRA,Offshore wind,1
-2023,FRA,Unknown,1
-2024,FRA,Solar PV,1
-2024,FRA,Unknown,1
-2016,GBR,Onshore wind,1
-2017,GBR,Onshore wind,1
-2019,GBR,Onshore wind,1
-2021,GBR,Others/Various,1
-2023,GBR,Solar PV,1
-2024,GBR,Unknown,1
-2021,GRC,Hydropower,1
-2022,GRC,Unknown,1
-2023,HUN,Others/Various,1
-2023,IDN,Others/Various,1
-2015,IND,Solar PV,2
-2015,IND,Unknown,1
-2021,IND,Solar PV,1
-2022,IND,Unknown,1
-2024,IND,Solar PV,2
-2024,IND,Unknown,2
-2012,ISL,Others/Various,1
-2019,JPN,Unknown,1
-2020,JPN,Solar PV,1
-2024,NAM,Solar PV,1
-2021,NLD,Solar PV,1
-2022,NLD,Solar PV,2
-2023,NLD,Unknown,2
-2024,NLD,Solar PV,1
-2017,NOR,Solar PV,1
-2021,NOR,Onshore wind,1
-2022,NOR,Unknown,1
-2023,NOR,Unknown,1
-2021,NZL,Others/Various,1
-1965,PER,Hydropower,1
-2023,PER,Solar PV,1
-2023,PRT,Solar PV,1
-2021,SVN,Solar PV,1
-2019,SWE,Solar PV,1
-2023,USA,Solar PV,2
-2023,USA,Unknown,1
-2024,USA,Others/Various,1
-2024,USA,Unknown,1
+year,geo,disagg_type,disagg,value
+1965,WLD,All,Total,1
+1966,WLD,All,Total,1
+1967,WLD,All,Total,1
+1968,WLD,All,Total,1
+1969,WLD,All,Total,1
+1970,WLD,All,Total,1
+1971,WLD,All,Total,1
+1972,WLD,All,Total,1
+1973,WLD,All,Total,1
+1974,WLD,All,Total,1
+1975,WLD,All,Total,1
+1976,WLD,All,Total,1
+1977,WLD,All,Total,1
+1978,WLD,All,Total,1
+1979,WLD,All,Total,1
+1980,WLD,All,Total,1
+1981,WLD,All,Total,1
+1982,WLD,All,Total,1
+1983,WLD,All,Total,1
+1984,WLD,All,Total,1
+1985,WLD,All,Total,1
+1986,WLD,All,Total,1
+1987,WLD,All,Total,1
+1988,WLD,All,Total,1
+1989,WLD,All,Total,1
+1990,WLD,All,Total,1
+1991,WLD,All,Total,1
+1992,WLD,All,Total,1
+1993,WLD,All,Total,1
+1994,WLD,All,Total,1
+1995,WLD,All,Total,1
+1996,WLD,All,Total,1
+1997,WLD,All,Total,1
+1998,WLD,All,Total,1
+1999,WLD,All,Total,1
+2000,WLD,All,Total,1
+2001,WLD,All,Total,1
+2002,WLD,All,Total,1
+2003,WLD,All,Total,1
+2004,WLD,All,Total,1
+2005,WLD,All,Total,1
+2006,WLD,All,Total,1
+2007,WLD,All,Total,1
+2008,WLD,All,Total,1
+2009,WLD,All,Total,1
+2010,WLD,All,Total,2
+2011,WLD,All,Total,2
+2012,WLD,All,Total,3
+2013,WLD,All,Total,5
+2014,WLD,All,Total,6
+2015,WLD,All,Total,12
+2016,WLD,All,Total,13
+2017,WLD,All,Total,19
+2018,WLD,All,Total,22
+2019,WLD,All,Total,30
+2020,WLD,All,Total,41
+2021,WLD,All,Total,61
+2022,WLD,All,Total,87
+2023,WLD,All,Total,121
+2024,WLD,All,Total,140
+1965,WLD,Technology,Hydropower,1
+1966,WLD,Technology,Hydropower,1
+1967,WLD,Technology,Hydropower,1
+1968,WLD,Technology,Hydropower,1
+1969,WLD,Technology,Hydropower,1
+1970,WLD,Technology,Hydropower,1
+1971,WLD,Technology,Hydropower,1
+1972,WLD,Technology,Hydropower,1
+1973,WLD,Technology,Hydropower,1
+1974,WLD,Technology,Hydropower,1
+1975,WLD,Technology,Hydropower,1
+1976,WLD,Technology,Hydropower,1
+1977,WLD,Technology,Hydropower,1
+1978,WLD,Technology,Hydropower,1
+1979,WLD,Technology,Hydropower,1
+1980,WLD,Technology,Hydropower,1
+1981,WLD,Technology,Hydropower,1
+1982,WLD,Technology,Hydropower,1
+1983,WLD,Technology,Hydropower,1
+1984,WLD,Technology,Hydropower,1
+1985,WLD,Technology,Hydropower,1
+1986,WLD,Technology,Hydropower,1
+1987,WLD,Technology,Hydropower,1
+1988,WLD,Technology,Hydropower,1
+1989,WLD,Technology,Hydropower,1
+1990,WLD,Technology,Hydropower,1
+1991,WLD,Technology,Hydropower,1
+1992,WLD,Technology,Hydropower,1
+1993,WLD,Technology,Hydropower,1
+1994,WLD,Technology,Hydropower,1
+1995,WLD,Technology,Hydropower,1
+1996,WLD,Technology,Hydropower,1
+1997,WLD,Technology,Hydropower,1
+1998,WLD,Technology,Hydropower,1
+1999,WLD,Technology,Hydropower,1
+2000,WLD,Technology,Hydropower,1
+2001,WLD,Technology,Hydropower,1
+2002,WLD,Technology,Hydropower,1
+2003,WLD,Technology,Hydropower,1
+2004,WLD,Technology,Hydropower,1
+2005,WLD,Technology,Hydropower,1
+2006,WLD,Technology,Hydropower,1
+2007,WLD,Technology,Hydropower,1
+2008,WLD,Technology,Hydropower,1
+2009,WLD,Technology,Hydropower,1
+2010,WLD,Technology,Hydropower,1
+2011,WLD,Technology,Hydropower,1
+2012,WLD,Technology,Hydropower,1
+2013,WLD,Technology,Hydropower,1
+2014,WLD,Technology,Hydropower,1
+2015,WLD,Technology,Hydropower,1
+2016,WLD,Technology,Hydropower,1
+2017,WLD,Technology,Hydropower,1
+2018,WLD,Technology,Hydropower,1
+2019,WLD,Technology,Hydropower,1
+2020,WLD,Technology,Hydropower,3
+2021,WLD,Technology,Hydropower,4
+2022,WLD,Technology,Hydropower,4
+2023,WLD,Technology,Hydropower,4
+2024,WLD,Technology,Hydropower,5
+2020,WLD,Technology,Offshore wind,0
+2021,WLD,Technology,Offshore wind,0
+2022,WLD,Technology,Offshore wind,1
+2023,WLD,Technology,Offshore wind,2
+2024,WLD,Technology,Offshore wind,3
+2009,WLD,Technology,Onshore wind,1
+2010,WLD,Technology,Onshore wind,1
+2011,WLD,Technology,Onshore wind,1
+2012,WLD,Technology,Onshore wind,1
+2013,WLD,Technology,Onshore wind,2
+2014,WLD,Technology,Onshore wind,3
+2015,WLD,Technology,Onshore wind,5
+2016,WLD,Technology,Onshore wind,6
+2017,WLD,Technology,Onshore wind,8
+2018,WLD,Technology,Onshore wind,9
+2019,WLD,Technology,Onshore wind,12
+2020,WLD,Technology,Onshore wind,15
+2021,WLD,Technology,Onshore wind,18
+2022,WLD,Technology,Onshore wind,20
+2023,WLD,Technology,Onshore wind,22
+2024,WLD,Technology,Onshore wind,22
+2012,WLD,Technology,Others/Various,1
+2013,WLD,Technology,Others/Various,1
+2014,WLD,Technology,Others/Various,1
+2015,WLD,Technology,Others/Various,1
+2016,WLD,Technology,Others/Various,1
+2017,WLD,Technology,Others/Various,3
+2018,WLD,Technology,Others/Various,3
+2019,WLD,Technology,Others/Various,4
+2020,WLD,Technology,Others/Various,5
+2021,WLD,Technology,Others/Various,10
+2022,WLD,Technology,Others/Various,14
+2023,WLD,Technology,Others/Various,18
+2024,WLD,Technology,Others/Various,20
+2013,WLD,Technology,Solar PV,1
+2014,WLD,Technology,Solar PV,1
+2015,WLD,Technology,Solar PV,3
+2016,WLD,Technology,Solar PV,3
+2017,WLD,Technology,Solar PV,5
+2018,WLD,Technology,Solar PV,7
+2019,WLD,Technology,Solar PV,8
+2020,WLD,Technology,Solar PV,10
+2021,WLD,Technology,Solar PV,17
+2022,WLD,Technology,Solar PV,24
+2023,WLD,Technology,Solar PV,35
+2024,WLD,Technology,Solar PV,41
+2010,WLD,Technology,Unknown,1
+2011,WLD,Technology,Unknown,1
+2012,WLD,Technology,Unknown,1
+2013,WLD,Technology,Unknown,1
+2014,WLD,Technology,Unknown,1
+2015,WLD,Technology,Unknown,2
+2016,WLD,Technology,Unknown,2
+2017,WLD,Technology,Unknown,2
+2018,WLD,Technology,Unknown,2
+2019,WLD,Technology,Unknown,5
+2020,WLD,Technology,Unknown,5
+2021,WLD,Technology,Unknown,6
+2022,WLD,Technology,Unknown,12
+2023,WLD,Technology,Unknown,19
+2024,WLD,Technology,Unknown,24
+2021,ARE,All,Total,1
+2021,ARE,Technology,Solar PV,1
+2022,ARE,All,Total,1
+2022,ARE,Technology,Solar PV,1
+2023,ARE,All,Total,1
+2023,ARE,Technology,Solar PV,1
+2024,ARE,All,Total,1
+2024,ARE,Technology,Solar PV,1
+2009,ARG,All,Total,1
+2009,ARG,Technology,Onshore wind,1
+2010,ARG,All,Total,1
+2010,ARG,Technology,Onshore wind,1
+2011,ARG,All,Total,1
+2011,ARG,Technology,Onshore wind,1
+2012,ARG,All,Total,1
+2012,ARG,Technology,Onshore wind,1
+2013,ARG,All,Total,1
+2013,ARG,Technology,Onshore wind,1
+2014,ARG,All,Total,1
+2014,ARG,Technology,Onshore wind,1
+2015,ARG,All,Total,1
+2015,ARG,Technology,Onshore wind,1
+2016,ARG,All,Total,1
+2016,ARG,Technology,Onshore wind,1
+2017,ARG,All,Total,1
+2017,ARG,Technology,Onshore wind,1
+2018,ARG,All,Total,1
+2018,ARG,Technology,Onshore wind,1
+2019,ARG,All,Total,1
+2019,ARG,Technology,Onshore wind,1
+2020,ARG,All,Total,1
+2020,ARG,Technology,Onshore wind,1
+2021,ARG,All,Total,1
+2021,ARG,Technology,Onshore wind,1
+2022,ARG,All,Total,1
+2022,ARG,Technology,Onshore wind,1
+2023,ARG,All,Total,1
+2023,ARG,Technology,Onshore wind,1
+2024,ARG,All,Total,1
+2024,ARG,Technology,Onshore wind,1
+2021,AUS,All,Total,2
+2021,AUS,Technology,Others/Various,2
+2022,AUS,All,Total,3
+2022,AUS,Technology,Others/Various,2
+2022,AUS,Technology,Solar PV,1
+2023,AUS,All,Total,3
+2023,AUS,Technology,Others/Various,4
+2023,AUS,Technology,Solar PV,1
+2024,AUS,All,Total,4
+2024,AUS,Technology,Others/Various,4
+2024,AUS,Technology,Solar PV,2
+2024,AUS,Technology,Solar PV,2
+2017,AUT,All,Total,1
+2017,AUT,Technology,Solar PV,1
+2018,AUT,All,Total,2
+2018,AUT,Technology,Solar PV,2
+2019,AUT,All,Total,2
+2019,AUT,Technology,Solar PV,2
+2020,AUT,All,Total,2
+2020,AUT,Technology,Solar PV,2
+2021,AUT,All,Total,3
+2021,AUT,Technology,Solar PV,2
+2022,AUT,All,Total,3
+2022,AUT,Technology,Solar PV,3
+2023,AUT,All,Total,6
+2023,AUT,Technology,Others/Various,2
+2023,AUT,Technology,Solar PV,4
+2024,AUT,All,Total,6
+2024,AUT,Technology,Others/Various,2
+2024,AUT,Technology,Solar PV,4
+2015,BEL,All,Total,1
+2015,BEL,Technology,Onshore wind,1
+2016,BEL,All,Total,1
+2016,BEL,Technology,Onshore wind,1
+2017,BEL,All,Total,1
+2017,BEL,Technology,Onshore wind,1
+2018,BEL,All,Total,1
+2018,BEL,Technology,Onshore wind,1
+2019,BEL,All,Total,1
+2019,BEL,Technology,Onshore wind,1
+2020,BEL,All,Total,1
+2020,BEL,Technology,Onshore wind,1
+2021,BEL,All,Total,1
+2021,BEL,Technology,Onshore wind,1
+2022,BEL,All,Total,1
+2022,BEL,Technology,Onshore wind,1
+2023,BEL,All,Total,1
+2023,BEL,Technology,Onshore wind,1
+2024,BEL,All,Total,1
+2024,BEL,Technology,Onshore wind,1
+2022,BRA,All,Total,2
+2022,BRA,Technology,Solar PV,2
+2023,BRA,All,Total,2
+2023,BRA,Technology,Solar PV,2
+2024,BRA,All,Total,2
+2024,BRA,Technology,Solar PV,2
+2020,CAN,All,Total,1
+2020,CAN,Technology,Hydropower,1
+2021,CAN,All,Total,1
+2021,CAN,Technology,Hydropower,1
+2022,CAN,All,Total,1
+2022,CAN,Technology,Hydropower,1
+2023,CAN,All,Total,1
+2023,CAN,Technology,Hydropower,1
+2024,CAN,All,Total,1
+2024,CAN,Technology,Hydropower,1
+2020,CHE,All,Total,1
+2020,CHE,Technology,Hydropower,1
+2021,CHE,All,Total,1
+2021,CHE,Technology,Hydropower,1
+2022,CHE,All,Total,2
+2022,CHE,Technology,Hydropower,1
+2022,CHE,Technology,Unknown,1
+2023,CHE,All,Total,3
+2023,CHE,Technology,Hydropower,1
+2023,CHE,Technology,Solar PV,1
+2023,CHE,Technology,Unknown,1
+2024,CHE,All,Total,4
+2024,CHE,Technology,Hydropower,2
+2024,CHE,Technology,Solar PV,1
+2024,CHE,Technology,Unknown,1
+2017,CHL,All,Total,1
+2017,CHL,Technology,Others/Various,1
+2018,CHL,All,Total,1
+2018,CHL,Technology,Others/Various,1
+2019,CHL,All,Total,1
+2019,CHL,Technology,Others/Various,1
+2020,CHL,All,Total,1
+2020,CHL,Technology,Others/Various,1
+2021,CHL,All,Total,1
+2021,CHL,Technology,Others/Various,1
+2021,CHL,Technology,Solar PV,1
+2022,CHL,All,Total,2
+2022,CHL,Technology,Onshore wind,1
+2022,CHL,Technology,Others/Various,1
+2022,CHL,Technology,Solar PV,2
+2023,CHL,All,Total,6
+2023,CHL,Technology,Onshore wind,1
+2023,CHL,Technology,Others/Various,1
+2023,CHL,Technology,Solar PV,4
+2023,CHL,Technology,Solar PV,2
+2024,CHL,All,Total,1
+2024,CHL,Technology,Onshore wind,1
+2024,CHL,Technology,Others/Various,1
+2024,CHL,Technology,Solar PV,4
+2018,CHN,All,Total,1
+2018,CHN,Technology,Solar PV,1
+2019,CHN,All,Total,3
+2019,CHN,Technology,Onshore wind,1
+2019,CHN,Technology,Solar PV,1
+2019,CHN,Technology,Unknown,1
+2020,CHN,All,Total,5
+2020,CHN,Technology,Onshore wind,2
+2020,CHN,Technology,Solar PV,2
+2020,CHN,Technology,Unknown,1
+2021,CHN,All,Total,9
+2021,CHN,Technology,Onshore wind,3
+2021,CHN,Technology,Others/Various,1
+2021,CHN,Technology,Solar PV,4
+2021,CHN,Technology,Unknown,1
+2022,CHN,All,Total,12
+2022,CHN,Technology,Onshore wind,4
+2022,CHN,Technology,Others/Various,3
+2022,CHN,Technology,Solar PV,4
+2022,CHN,Technology,Unknown,1
+2023,CHN,All,Total,19
+2023,CHN,Technology,Onshore wind,6
+2023,CHN,Technology,Others/Various,3
+2023,CHN,Technology,Solar PV,8
+2023,CHN,Technology,Unknown,2
+2024,CHN,All,Total,19
+2024,CHN,Technology,Onshore wind,6
+2024,CHN,Technology,Others/Various,3
+2024,CHN,Technology,Solar PV,8
+2024,CHN,Technology,Unknown,2
+2022,COL,All,Total,3
+2022,COL,Technology,Solar PV,2
+2022,COL,Technology,Unknown,1
+2023,COL,All,Total,4
+2023,COL,Technology,Solar PV,3
+2023,COL,Technology,Unknown,1
+2024,COL,All,Total,4
+2024,COL,Technology,Solar PV,3
+2024,COL,Technology,Unknown,1
+2017,CRI,All,Total,1
+2017,CRI,Technology,Others/Various,1
+2018,CRI,All,Total,1
+2018,CRI,Technology,Others/Various,1
+2019,CRI,All,Total,1
+2019,CRI,Technology,Others/Various,1
+2020,CRI,All,Total,1
+2020,CRI,Technology,Others/Various,1
+2021,CRI,All,Total,1
+2021,CRI,Technology,Others/Various,1
+2022,CRI,All,Total,1
+2022,CRI,Technology,Others/Various,1
+2023,CRI,All,Total,1
+2023,CRI,Technology,Others/Various,1
+2024,CRI,All,Total,1
+2024,CRI,Technology,Others/Various,1
+2013,DEU,All,Total,2
+2013,DEU,Technology,Onshore wind,1
+2013,DEU,Technology,Solar PV,1
+2014,DEU,All,Total,3
+2014,DEU,Technology,Onshore wind,2
+2014,DEU,Technology,Solar PV,1
+2015,DEU,All,Total,4
+2015,DEU,Technology,Onshore wind,3
+2015,DEU,Technology,Solar PV,1
+2016,DEU,All,Total,4
+2016,DEU,Technology,Onshore wind,3
+2016,DEU,Technology,Solar PV,1
+2017,DEU,All,Total,5
+2017,DEU,Technology,Onshore wind,4
+2017,DEU,Technology,Solar PV,1
+2017,DEU,Technology,Solar PV,1
+2018,DEU,All,Total,6
+2018,DEU,Technology,Onshore wind,5
+2018,DEU,Technology,Solar PV,1
+2019,DEU,All,Total,9
+2019,DEU,Technology,Onshore wind,6
+2019,DEU,Technology,Others/Various,1
+2019,DEU,Technology,Solar PV,1
+2019,DEU,Technology,Unknown,1
+2020,DEU,All,Total,14
+2020,DEU,Technology,Hydropower,2
+2020,DEU,Technology,Onshore wind,8
+2020,DEU,Technology,Others/Various,2
+2020,DEU,Technology,Solar PV,1
+2020,DEU,Technology,Unknown,1
+2021,DEU,All,Total,17
+2021,DEU,Technology,Hydropower,2
+2021,DEU,Technology,Onshore wind,10
+2021,DEU,Technology,Others/Various,3
+2021,DEU,Technology,Solar PV,1
+2021,DEU,Technology,Unknown,1
+2022,DEU,All,Total,18
+2022,DEU,Technology,Hydropower,2
+2022,DEU,Technology,Onshore wind,10
+2022,DEU,Technology,Others/Various,4
+2022,DEU,Technology,Solar PV,1
+2022,DEU,Technology,Unknown,1
+2023,DEU,All,Total,21
+2023,DEU,Technology,Hydropower,2
+2023,DEU,Technology,Onshore wind,11
+2023,DEU,Technology,Others/Various,4
+2023,DEU,Technology,Solar PV,2
+2023,DEU,Technology,Unknown,2
+2024,DEU,All,Total,25
+2024,DEU,Technology,Hydropower,2
+2024,DEU,Technology,Offshore wind,2
+2024,DEU,Technology,Onshore wind,11
+2024,DEU,Technology,Others/Various,4
+2024,DEU,Technology,Solar PV,3
+2024,DEU,Technology,Unknown,3
+2020,DNK,All,Total,1
+2020,DNK,Technology,Onshore wind,1
+2021,DNK,All,Total,1
+2021,DNK,Technology,Onshore wind,1
+2022,DNK,All,Total,2
+2022,DNK,Technology,Offshore wind,1
+2022,DNK,Technology,Onshore wind,1
+2023,DNK,All,Total,2
+2023,DNK,Technology,Offshore wind,1
+2023,DNK,Technology,Onshore wind,1
+2024,DNK,All,Total,4
+2024,DNK,Technology,Offshore wind,1
+2024,DNK,Technology,Onshore wind,1
+2024,DNK,Technology,Others/Various,2
+2022,EGY,All,Total,1
+2022,EGY,Technology,Others/Various,1
+2023,EGY,All,Total,1
+2023,EGY,Technology,Others/Various,1
+2024,EGY,All,Total,1
+2024,EGY,Technology,Others/Various,1
+2015,ESP,All,Total,1
+2015,ESP,Technology,Solar PV,1
+2016,ESP,All,Total,1
+2016,ESP,Technology,Solar PV,1
+2017,ESP,All,Total,1
+2017,ESP,Technology,Solar PV,1
+2018,ESP,All,Total,1
+2018,ESP,Technology,Solar PV,1
+2019,ESP,All,Total,1
+2019,ESP,Technology,Solar PV,1
+2020,ESP,All,Total,1
+2020,ESP,Technology,Solar PV,1
+2021,ESP,All,Total,1
+2021,ESP,Technology,Solar PV,1
+2022,ESP,All,Total,5
+2022,ESP,Technology,Others/Various,1
+2022,ESP,Technology,Solar PV,4
+2023,ESP,All,Total,9
+2023,ESP,Technology,Others/Various,2
+2023,ESP,Technology,Solar PV,6
+2023,ESP,Technology,Unknown,1
+2024,ESP,All,Total,9
+2024,ESP,Technology,Others/Various,2
+2024,ESP,Technology,Solar PV,6
+2024,ESP,Technology,Unknown,1
+2010,EST,All,Total,1
+2010,EST,Technology,Unknown,1
+2011,EST,All,Total,1
+2011,EST,Technology,Unknown,1
+2012,EST,All,Total,1
+2012,EST,Technology,Unknown,1
+2013,EST,All,Total,1
+2013,EST,Technology,Unknown,1
+2014,EST,All,Total,1
+2014,EST,Technology,Unknown,1
+2015,EST,All,Total,1
+2015,EST,Technology,Unknown,1
+2016,EST,All,Total,1
+2016,EST,Technology,Unknown,1
+2017,EST,All,Total,1
+2017,EST,Technology,Unknown,1
+2018,EST,All,Total,1
+2018,EST,Technology,Unknown,1
+2019,EST,All,Total,1
+2019,EST,Technology,Unknown,1
+2020,EST,All,Total,1
+2020,EST,Technology,Unknown,1
+2021,EST,All,Total,1
+2021,EST,Technology,Unknown,1
+2022,EST,All,Total,1
+2022,EST,Technology,Unknown,1
+2023,EST,All,Total,1
+2023,EST,Technology,Unknown,1
+2024,EST,All,Total,1
+2024,EST,Technology,Unknown,1
+2021,FRA,All,Total,2
+2021,FRA,Technology,Solar PV,1
+2021,FRA,Technology,Unknown,1
+2022,FRA,All,Total,3
+2022,FRA,Technology,Solar PV,1
+2022,FRA,Technology,Unknown,2
+2023,FRA,All,Total,5
+2023,FRA,Technology,Offshore wind,1
+2023,FRA,Technology,Solar PV,1
+2023,FRA,Technology,Unknown,3
+2024,FRA,All,Total,7
+2024,FRA,Technology,Offshore wind,1
+2024,FRA,Technology,Solar PV,2
+2024,FRA,Technology,Unknown,4
+2016,GBR,All,Total,1
+2016,GBR,Technology,Onshore wind,1
+2017,GBR,All,Total,2
+2017,GBR,Technology,Onshore wind,2
+2018,GBR,All,Total,2
+2018,GBR,Technology,Onshore wind,2
+2019,GBR,All,Total,3
+2019,GBR,Technology,Onshore wind,3
+2019,GBR,Technology,Onshore wind,3
+2020,GBR,All,Total,3
+2020,GBR,Technology,Onshore wind,3
+2021,GBR,All,Total,4
+2021,GBR,Technology,Onshore wind,3
+2021,GBR,Technology,Others/Various,1
+2022,GBR,All,Total,4
+2022,GBR,Technology,Onshore wind,3
+2022,GBR,Technology,Others/Various,1
+2023,GBR,All,Total,5
+2023,GBR,Technology,Onshore wind,3
+2023,GBR,Technology,Others/Various,1
+2023,GBR,Technology,Solar PV,1
+2024,GBR,All,Total,6
+2024,GBR,Technology,Onshore wind,3
+2024,GBR,Technology,Others/Various,1
+2024,GBR,Technology,Solar PV,1
+2024,GBR,Technology,Unknown,1
+2021,GRC,All,Total,1
+2021,GRC,Technology,Hydropower,1
+2022,GRC,All,Total,1
+2022,GRC,Technology,Hydropower,1
+2022,GRC,Technology,Unknown,1
+2023,GRC,All,Total,1
+2023,GRC,Technology,Hydropower,1
+2023,GRC,Technology,Unknown,1
+2024,GRC,All,Total,1
+2024,GRC,Technology,Hydropower,1
+2024,GRC,Technology,Unknown,1
+2023,HUN,All,Total,1
+2023,HUN,Technology,Others/Various,1
+2024,HUN,All,Total,1
+2024,HUN,Technology,Others/Various,1
+2023,IDN,All,Total,1
+2023,IDN,Technology,Others/Various,1
+2024,IDN,All,Total,1
+2024,IDN,Technology,Others/Various,1
+2015,IND,All,Total,2
+2015,IND,Technology,Solar PV,2
+2015,IND,Technology,Unknown,1
+2016,IND,All,Total,2
+2016,IND,Technology,Solar PV,2
+2016,IND,Technology,Unknown,1
+2017,IND,All,Total,2
+2017,IND,Technology,Solar PV,2
+2017,IND,Technology,Unknown,1
+2018,IND,All,Total,2
+2018,IND,Technology,Solar PV,2
+2018,IND,Technology,Unknown,1
+2019,IND,All,Total,2
+2019,IND,Technology,Solar PV,2
+2019,IND,Technology,Unknown,1
+2020,IND,All,Total,2
+2020,IND,Technology,Solar PV,2
+2021,IND,All,Total,3
+2021,IND,Technology,Solar PV,3
+2021,IND,Technology,Unknown,1
+2022,IND,All,Total,4
+2022,IND,Technology,Solar PV,3
+2022,IND,Technology,Unknown,2
+2023,IND,All,Total,4
+2023,IND,Technology,Solar PV,3
+2023,IND,Technology,Unknown,2
+2024,IND,All,Total,8
+2024,IND,Technology,Solar PV,5
+2024,IND,Technology,Unknown,4
+2012,ISL,All,Total,1
+2012,ISL,Technology,Others/Various,1
+2013,ISL,All,Total,1
+2013,ISL,Technology,Others/Various,1
+2014,ISL,All,Total,1
+2014,ISL,Technology,Others/Various,1
+2015,ISL,All,Total,1
+2015,ISL,Technology,Others/Various,1
+2016,ISL,All,Total,1
+2016,ISL,Technology,Others/Various,1
+2017,ISL,All,Total,1
+2017,ISL,Technology,Others/Various,1
+2018,ISL,All,Total,1
+2018,ISL,Technology,Others/Various,1
+2019,ISL,All,Total,1
+2019,ISL,Technology,Others/Various,1
+2020,ISL,All,Total,1
+2020,ISL,Technology,Others/Various,1
+2021,ISL,All,Total,1
+2021,ISL,Technology,Others/Various,1
+2022,ISL,All,Total,1
+2022,ISL,Technology,Others/Various,1
+2023,ISL,All,Total,1
+2023,ISL,Technology,Others/Various,1
+2024,ISL,All,Total,1
+2024,ISL,Technology,Others/Various,1
+2019,JPN,All,Total,1
+2019,JPN,Technology,Unknown,1
+2020,JPN,All,Total,2
+2020,JPN,Technology,Solar PV,1
+2021,JPN,All,Total,2
+2021,JPN,Technology,Solar PV,1
+2021,JPN,Technology,Unknown,1
+2022,JPN,All,Total,2
+2022,JPN,Technology,Solar PV,1
+2022,JPN,Technology,Unknown,1
+2023,JPN,All,Total,2
+2023,JPN,Technology,Solar PV,1
+2023,JPN,Technology,Unknown,1
+2024,JPN,All,Total,2
+2024,JPN,Technology,Solar PV,1
+2024,JPN,Technology,Unknown,1
+2024,NAM,All,Total,1
+2024,NAM,Technology,Solar PV,1
+2021,NLD,All,Total,1
+2021,NLD,Technology,Solar PV,1
+2022,NLD,All,Total,3
+2022,NLD,Technology,Solar PV,3
+2023,NLD,All,Total,5
+2023,NLD,Technology,Solar PV,3
+2023,NLD,Technology,Unknown,2
+2024,NLD,All,Total,6
+2024,NLD,Technology,Solar PV,4
+2024,NLD,Technology,Unknown,2
+2017,NOR,All,Total,1
+2017,NOR,Technology,Solar PV,1
+2018,NOR,All,Total,1
+2018,NOR,Technology,Solar PV,1
+2019,NOR,All,Total,1
+2019,NOR,Technology,Solar PV,1
+2020,NOR,All,Total,1
+2020,NOR,Technology,Solar PV,1
+2021,NOR,All,Total,2
+2021,NOR,Technology,Onshore wind,1
+2021,NOR,Technology,Solar PV,1
+2022,NOR,All,Total,3
+2022,NOR,Technology,Solar PV,1
+2022,NOR,Technology,Unknown,1
+2023,NOR,All,Total,4
+2023,NOR,Technology,Solar PV,1
+2023,NOR,Technology,Unknown,2
+2024,NOR,All,Total,4
+2024,NOR,Technology,Solar PV,1
+2024,NOR,Technology,Unknown,2
+2021,NZL,All,Total,1
+2021,NZL,Technology,Others/Various,1
+2022,NZL,All,Total,1
+2022,NZL,Technology,Others/Various,1
+2023,NZL,All,Total,1
+2023,NZL,Technology,Others/Various,1
+2024,NZL,All,Total,1
+2024,NZL,Technology,Others/Various,1
+1965,PER,All,Total,1
+1965,PER,Technology,Hydropower,1
+1966,PER,All,Total,1
+1966,PER,Technology,Hydropower,1
+1967,PER,All,Total,1
+1967,PER,Technology,Hydropower,1
+1968,PER,All,Total,1
+1968,PER,Technology,Hydropower,1
+1969,PER,All,Total,1
+1969,PER,Technology,Hydropower,1
+1970,PER,All,Total,1
+1970,PER,Technology,Hydropower,1
+1971,PER,All,Total,1
+1971,PER,Technology,Hydropower,1
+1972,PER,All,Total,1
+1972,PER,Technology,Hydropower,1
+1973,PER,All,Total,1
+1973,PER,Technology,Hydropower,1
+1974,PER,All,Total,1
+1974,PER,Technology,Hydropower,1
+1975,PER,All,Total,1
+1975,PER,Technology,Hydropower,1
+1976,PER,All,Total,1
+1976,PER,Technology,Hydropower,1
+1977,PER,All,Total,1
+1977,PER,Technology,Hydropower,1
+1978,PER,All,Total,1
+1978,PER,Technology,Hydropower,1
+1979,PER,All,Total,1
+1979,PER,Technology,Hydropower,1
+1980,PER,All,Total,1
+1980,PER,Technology,Hydropower,1
+1981,PER,All,Total,1
+1981,PER,Technology,Hydropower,1
+1982,PER,All,Total,1
+1982,PER,Technology,Hydropower,1
+1983,PER,All,Total,1
+1983,PER,Technology,Hydropower,1
+1984,PER,All,Total,1
+1984,PER,Technology,Hydropower,1
+1985,PER,All,Total,1
+1985,PER,Technology,Hydropower,1
+1986,PER,All,Total,1
+1986,PER,Technology,Hydropower,1
+1987,PER,All,Total,1
+1987,PER,Technology,Hydropower,1
+1988,PER,All,Total,1
+1988,PER,Technology,Hydropower,1
+1989,PER,All,Total,1
+1989,PER,Technology,Hydropower,1
+1990,PER,All,Total,1
+1990,PER,Technology,Hydropower,1
+1991,PER,All,Total,1
+1991,PER,Technology,Hydropower,1
+1992,PER,All,Total,1
+1992,PER,Technology,Hydropower,1
+1993,PER,All,Total,1
+1993,PER,Technology,Hydropower,1
+1994,PER,All,Total,1
+1994,PER,Technology,Hydropower,1
+1995,PER,All,Total,1
+1995,PER,Technology,Hydropower,1
+1996,PER,All,Total,1
+1996,PER,Technology,Hydropower,1
+1997,PER,All,Total,1
+1997,PER,Technology,Hydropower,1
+1998,PER,All,Total,1
+1998,PER,Technology,Hydropower,1
+1999,PER,All,Total,1
+1999,PER,Technology,Hydropower,1
+2000,PER,All,Total,1
+2000,PER,Technology,Hydropower,1
+2001,PER,All,Total,1
+2001,PER,Technology,Hydropower,1
+2002,PER,All,Total,1
+2002,PER,Technology,Hydropower,1
+2003,PER,All,Total,1
+2003,PER,Technology,Hydropower,1
+2004,PER,All,Total,1
+2004,PER,Technology,Hydropower,1
+2005,PER,All,Total,1
+2005,PER,Technology,Hydropower,1
+2006,PER,All,Total,1
+2006,PER,Technology,Hydropower,1
+2007,PER,All,Total,1
+2007,PER,Technology,Hydropower,1
+2008,PER,All,Total,1
+2008,PER,Technology,Hydropower,1
+2009,PER,All,Total,1
+2009,PER,Technology,Hydropower,1
+2010,PER,All,Total,1
+2010,PER,Technology,Hydropower,1
+2011,PER,All,Total,1
+2011,PER,Technology,Hydropower,1
+2012,PER,All,Total,1
+2012,PER,Technology,Hydropower,1
+2013,PER,All,Total,1
+2013,PER,Technology,Hydropower,1
+2014,PER,All,Total,1
+2014,PER,Technology,Hydropower,1
+2015,PER,All,Total,1
+2015,PER,Technology,Hydropower,1
+2016,PER,All,Total,1
+2016,PER,Technology,Hydropower,1
+2017,PER,All,Total,1
+2017,PER,Technology,Hydropower,1
+2018,PER,All,Total,1
+2018,PER,Technology,Hydropower,1
+2019,PER,All,Total,1
+2019,PER,Technology,Hydropower,1
+2020,PER,All,Total,1
+2020,PER,Technology,Hydropower,1
+2021,PER,All,Total,1
+2021,PER,Technology,Hydropower,1
+2022,PER,All,Total,1
+2022,PER,Technology,Hydropower,1
+2023,PER,All,Total,1
+2023,PER,Technology,Hydropower,1
+2023,PER,Technology,Solar PV,1
+2024,PER,All,Total,1
+2024,PER,Technology,Hydropower,1
+2024,PER,Technology,Solar PV,1
+2023,PRT,All,Total,1
+2023,PRT,Technology,Solar PV,1
+2024,PRT,All,Total,1
+2024,PRT,Technology,Solar PV,1
+2021,SVN,All,Total,1
+2021,SVN,Technology,Solar PV,1
+2022,SVN,All,Total,1
+2022,SVN,Technology,Solar PV,1
+2023,SVN,All,Total,1
+2023,SVN,Technology,Solar PV,1
+2024,SVN,All,Total,1
+2024,SVN,Technology,Solar PV,1
+2019,SWE,All,Total,1
+2019,SWE,Technology,Solar PV,1
+2020,SWE,All,Total,1
+2020,SWE,Technology,Solar PV,1
+2021,SWE,All,Total,1
+2021,SWE,Technology,Solar PV,1
+2022,SWE,All,Total,1
+2022,SWE,Technology,Solar PV,1
+2023,SWE,All,Total,1
+2023,SWE,Technology,Solar PV,1
+2024,SWE,All,Total,1
+2024,SWE,Technology,Solar PV,1
+2023,USA,All,Total,3
+2023,USA,Technology,Solar PV,2
+2023,USA,Technology,Unknown,1
+2024,USA,All,Total,5
+2024,USA,Technology,Others/Various,1
+2024,USA,Technology,Solar PV,2
+2024,USA,Technology,Unknown,2
