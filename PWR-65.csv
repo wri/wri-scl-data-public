@@ -181,651 +181,651 @@ year,geo,disagg,value
 2023,WLD,Unknown,19
 2024,WLD,Unknown,24
 2021,ARE,Total,1
-2022,ARE,Total,1
-2023,ARE,Total,1
-2024,ARE,Total,1
 2021,ARE,Solar PV,1
+2022,ARE,Total,1
 2022,ARE,Solar PV,1
+2023,ARE,Total,1
 2023,ARE,Solar PV,1
+2024,ARE,Total,1
 2024,ARE,Solar PV,1
 2009,ARG,Total,1
-2010,ARG,Total,1
-2011,ARG,Total,1
-2012,ARG,Total,1
-2013,ARG,Total,1
-2014,ARG,Total,1
-2015,ARG,Total,1
-2016,ARG,Total,1
-2017,ARG,Total,1
-2018,ARG,Total,1
-2019,ARG,Total,1
-2020,ARG,Total,1
-2021,ARG,Total,1
-2022,ARG,Total,1
-2023,ARG,Total,1
-2024,ARG,Total,1
 2009,ARG,Onshore wind,1
+2010,ARG,Total,1
 2010,ARG,Onshore wind,1
+2011,ARG,Total,1
 2011,ARG,Onshore wind,1
+2012,ARG,Total,1
 2012,ARG,Onshore wind,1
+2013,ARG,Total,1
 2013,ARG,Onshore wind,1
+2014,ARG,Total,1
 2014,ARG,Onshore wind,1
+2015,ARG,Total,1
 2015,ARG,Onshore wind,1
+2016,ARG,Total,1
 2016,ARG,Onshore wind,1
+2017,ARG,Total,1
 2017,ARG,Onshore wind,1
+2018,ARG,Total,1
 2018,ARG,Onshore wind,1
+2019,ARG,Total,1
 2019,ARG,Onshore wind,1
+2020,ARG,Total,1
 2020,ARG,Onshore wind,1
+2021,ARG,Total,1
 2021,ARG,Onshore wind,1
+2022,ARG,Total,1
 2022,ARG,Onshore wind,1
+2023,ARG,Total,1
 2023,ARG,Onshore wind,1
+2024,ARG,Total,1
 2024,ARG,Onshore wind,1
 2021,AUS,Total,2
-2022,AUS,Total,3
-2023,AUS,Total,3
-2024,AUS,Total,4
-2022,AUS,Solar PV,1
-2023,AUS,Solar PV,1
-2024,AUS,Solar PV,2
 2021,AUS,Others/Various,2
+2022,AUS,Total,3
+2022,AUS,Solar PV,1
 2022,AUS,Others/Various,2
+2023,AUS,Total,3
+2023,AUS,Solar PV,1
 2023,AUS,Others/Various,4
+2024,AUS,Total,4
+2024,AUS,Solar PV,2
 2024,AUS,Others/Various,4
 2017,AUT,Total,1
-2018,AUT,Total,2
-2019,AUT,Total,2
-2020,AUT,Total,2
-2021,AUT,Total,3
-2022,AUT,Total,3
-2023,AUT,Total,6
-2024,AUT,Total,6
 2017,AUT,Solar PV,1
+2018,AUT,Total,2
 2018,AUT,Solar PV,2
+2019,AUT,Total,2
 2019,AUT,Solar PV,2
+2020,AUT,Total,2
 2020,AUT,Solar PV,2
+2021,AUT,Total,3
 2021,AUT,Solar PV,2
+2022,AUT,Total,3
 2022,AUT,Solar PV,3
+2023,AUT,Total,6
 2023,AUT,Solar PV,4
-2024,AUT,Solar PV,4
 2023,AUT,Others/Various,2
+2024,AUT,Total,6
+2024,AUT,Solar PV,4
 2024,AUT,Others/Various,2
 2015,BEL,Total,1
-2016,BEL,Total,1
-2017,BEL,Total,1
-2018,BEL,Total,1
-2019,BEL,Total,1
-2020,BEL,Total,1
-2021,BEL,Total,1
-2022,BEL,Total,1
-2023,BEL,Total,1
-2024,BEL,Total,1
 2015,BEL,Onshore wind,1
+2016,BEL,Total,1
 2016,BEL,Onshore wind,1
+2017,BEL,Total,1
 2017,BEL,Onshore wind,1
+2018,BEL,Total,1
 2018,BEL,Onshore wind,1
+2019,BEL,Total,1
 2019,BEL,Onshore wind,1
+2020,BEL,Total,1
 2020,BEL,Onshore wind,1
+2021,BEL,Total,1
 2021,BEL,Onshore wind,1
+2022,BEL,Total,1
 2022,BEL,Onshore wind,1
+2023,BEL,Total,1
 2023,BEL,Onshore wind,1
+2024,BEL,Total,1
 2024,BEL,Onshore wind,1
 2022,BRA,Total,2
-2023,BRA,Total,2
-2024,BRA,Total,2
 2022,BRA,Solar PV,2
+2023,BRA,Total,2
 2023,BRA,Solar PV,2
+2024,BRA,Total,2
 2024,BRA,Solar PV,2
 2020,CAN,Total,1
-2021,CAN,Total,1
-2022,CAN,Total,1
-2023,CAN,Total,1
-2024,CAN,Total,1
 2020,CAN,Hydropower,1
+2021,CAN,Total,1
 2021,CAN,Hydropower,1
+2022,CAN,Total,1
 2022,CAN,Hydropower,1
+2023,CAN,Total,1
 2023,CAN,Hydropower,1
+2024,CAN,Total,1
 2024,CAN,Hydropower,1
-2022,CHE,Unknown,1
-2023,CHE,Unknown,1
-2024,CHE,Unknown,1
 2020,CHE,Total,1
-2021,CHE,Total,1
-2022,CHE,Total,2
-2023,CHE,Total,3
-2024,CHE,Total,4
-2023,CHE,Solar PV,1
-2024,CHE,Solar PV,1
 2020,CHE,Hydropower,1
+2021,CHE,Total,1
 2021,CHE,Hydropower,1
+2022,CHE,Unknown,1
+2022,CHE,Total,2
 2022,CHE,Hydropower,1
+2023,CHE,Unknown,1
+2023,CHE,Total,3
+2023,CHE,Solar PV,1
 2023,CHE,Hydropower,1
+2024,CHE,Unknown,1
+2024,CHE,Total,4
+2024,CHE,Solar PV,1
 2024,CHE,Hydropower,2
 2017,CHL,Total,1
-2018,CHL,Total,1
-2019,CHL,Total,1
-2020,CHL,Total,1
-2021,CHL,Total,1
-2022,CHL,Total,2
-2023,CHL,Total,6
-2024,CHL,Total,1
-2021,CHL,Solar PV,1
-2022,CHL,Solar PV,2
-2023,CHL,Solar PV,4
-2024,CHL,Solar PV,4
 2017,CHL,Others/Various,1
+2018,CHL,Total,1
 2018,CHL,Others/Various,1
+2019,CHL,Total,1
 2019,CHL,Others/Various,1
+2020,CHL,Total,1
 2020,CHL,Others/Various,1
+2021,CHL,Total,1
+2021,CHL,Solar PV,1
 2021,CHL,Others/Various,1
+2022,CHL,Total,2
+2022,CHL,Solar PV,2
 2022,CHL,Others/Various,1
-2023,CHL,Others/Various,1
-2024,CHL,Others/Various,1
 2022,CHL,Onshore wind,1
+2023,CHL,Total,6
+2023,CHL,Solar PV,4
+2023,CHL,Others/Various,1
 2023,CHL,Onshore wind,1
+2024,CHL,Total,1
+2024,CHL,Solar PV,4
+2024,CHL,Others/Various,1
 2024,CHL,Onshore wind,1
-2019,CHN,Unknown,1
-2020,CHN,Unknown,1
-2021,CHN,Unknown,1
-2022,CHN,Unknown,1
-2023,CHN,Unknown,2
-2024,CHN,Unknown,2
 2018,CHN,Total,1
-2019,CHN,Total,3
-2020,CHN,Total,5
-2021,CHN,Total,9
-2022,CHN,Total,12
-2023,CHN,Total,19
-2024,CHN,Total,19
 2018,CHN,Solar PV,1
+2019,CHN,Unknown,1
+2019,CHN,Total,3
 2019,CHN,Solar PV,1
-2020,CHN,Solar PV,2
-2021,CHN,Solar PV,4
-2022,CHN,Solar PV,4
-2023,CHN,Solar PV,8
-2024,CHN,Solar PV,8
-2021,CHN,Others/Various,1
-2022,CHN,Others/Various,3
-2023,CHN,Others/Various,3
-2024,CHN,Others/Various,3
 2019,CHN,Onshore wind,1
+2020,CHN,Unknown,1
+2020,CHN,Total,5
+2020,CHN,Solar PV,2
 2020,CHN,Onshore wind,2
+2021,CHN,Unknown,1
+2021,CHN,Total,9
+2021,CHN,Solar PV,4
+2021,CHN,Others/Various,1
 2021,CHN,Onshore wind,3
+2022,CHN,Unknown,1
+2022,CHN,Total,12
+2022,CHN,Solar PV,4
+2022,CHN,Others/Various,3
 2022,CHN,Onshore wind,4
+2023,CHN,Unknown,2
+2023,CHN,Total,19
+2023,CHN,Solar PV,8
+2023,CHN,Others/Various,3
 2023,CHN,Onshore wind,6
+2024,CHN,Unknown,2
+2024,CHN,Total,19
+2024,CHN,Solar PV,8
+2024,CHN,Others/Various,3
 2024,CHN,Onshore wind,6
 2022,COL,Unknown,1
-2023,COL,Unknown,1
-2024,COL,Unknown,1
 2022,COL,Total,3
-2023,COL,Total,4
-2024,COL,Total,4
 2022,COL,Solar PV,2
+2023,COL,Unknown,1
+2023,COL,Total,4
 2023,COL,Solar PV,3
+2024,COL,Unknown,1
+2024,COL,Total,4
 2024,COL,Solar PV,3
 2017,CRI,Total,1
-2018,CRI,Total,1
-2019,CRI,Total,1
-2020,CRI,Total,1
-2021,CRI,Total,1
-2022,CRI,Total,1
-2023,CRI,Total,1
-2024,CRI,Total,1
 2017,CRI,Others/Various,1
+2018,CRI,Total,1
 2018,CRI,Others/Various,1
+2019,CRI,Total,1
 2019,CRI,Others/Various,1
+2020,CRI,Total,1
 2020,CRI,Others/Various,1
+2021,CRI,Total,1
 2021,CRI,Others/Various,1
+2022,CRI,Total,1
 2022,CRI,Others/Various,1
+2023,CRI,Total,1
 2023,CRI,Others/Various,1
+2024,CRI,Total,1
 2024,CRI,Others/Various,1
-2019,DEU,Unknown,1
-2020,DEU,Unknown,1
-2021,DEU,Unknown,1
-2022,DEU,Unknown,1
-2023,DEU,Unknown,2
-2024,DEU,Unknown,3
 2013,DEU,Total,2
-2014,DEU,Total,3
-2015,DEU,Total,4
-2016,DEU,Total,4
-2017,DEU,Total,5
-2018,DEU,Total,6
-2019,DEU,Total,9
-2020,DEU,Total,14
-2021,DEU,Total,17
-2022,DEU,Total,18
-2023,DEU,Total,21
-2024,DEU,Total,25
 2013,DEU,Solar PV,1
-2014,DEU,Solar PV,1
-2015,DEU,Solar PV,1
-2016,DEU,Solar PV,1
-2017,DEU,Solar PV,1
-2018,DEU,Solar PV,1
-2019,DEU,Solar PV,1
-2020,DEU,Solar PV,1
-2021,DEU,Solar PV,1
-2022,DEU,Solar PV,1
-2023,DEU,Solar PV,2
-2024,DEU,Solar PV,3
-2019,DEU,Others/Various,1
-2020,DEU,Others/Various,2
-2021,DEU,Others/Various,3
-2022,DEU,Others/Various,4
-2023,DEU,Others/Various,4
-2024,DEU,Others/Various,4
 2013,DEU,Onshore wind,1
+2014,DEU,Total,3
+2014,DEU,Solar PV,1
 2014,DEU,Onshore wind,2
+2015,DEU,Total,4
+2015,DEU,Solar PV,1
 2015,DEU,Onshore wind,3
+2016,DEU,Total,4
+2016,DEU,Solar PV,1
 2016,DEU,Onshore wind,3
+2017,DEU,Total,5
+2017,DEU,Solar PV,1
 2017,DEU,Onshore wind,4
+2018,DEU,Total,6
+2018,DEU,Solar PV,1
 2018,DEU,Onshore wind,5
+2019,DEU,Unknown,1
+2019,DEU,Total,9
+2019,DEU,Solar PV,1
+2019,DEU,Others/Various,1
 2019,DEU,Onshore wind,6
+2020,DEU,Unknown,1
+2020,DEU,Total,14
+2020,DEU,Solar PV,1
+2020,DEU,Others/Various,2
 2020,DEU,Onshore wind,8
+2020,DEU,Hydropower,2
+2021,DEU,Unknown,1
+2021,DEU,Total,17
+2021,DEU,Solar PV,1
+2021,DEU,Others/Various,3
 2021,DEU,Onshore wind,10
+2021,DEU,Hydropower,2
+2022,DEU,Unknown,1
+2022,DEU,Total,18
+2022,DEU,Solar PV,1
+2022,DEU,Others/Various,4
 2022,DEU,Onshore wind,10
+2022,DEU,Hydropower,2
+2023,DEU,Unknown,2
+2023,DEU,Total,21
+2023,DEU,Solar PV,2
+2023,DEU,Others/Various,4
 2023,DEU,Onshore wind,11
+2023,DEU,Hydropower,2
+2024,DEU,Unknown,3
+2024,DEU,Total,25
+2024,DEU,Solar PV,3
+2024,DEU,Others/Various,4
 2024,DEU,Onshore wind,11
 2024,DEU,Offshore wind,2
-2020,DEU,Hydropower,2
-2021,DEU,Hydropower,2
-2022,DEU,Hydropower,2
-2023,DEU,Hydropower,2
 2024,DEU,Hydropower,2
 2020,DNK,Total,1
+2020,DNK,Onshore wind,1
 2021,DNK,Total,1
+2021,DNK,Onshore wind,1
 2022,DNK,Total,2
+2022,DNK,Onshore wind,1
+2022,DNK,Offshore wind,1
 2023,DNK,Total,2
+2023,DNK,Onshore wind,1
+2023,DNK,Offshore wind,1
 2024,DNK,Total,4
 2024,DNK,Others/Various,2
-2020,DNK,Onshore wind,1
-2021,DNK,Onshore wind,1
-2022,DNK,Onshore wind,1
-2023,DNK,Onshore wind,1
 2024,DNK,Onshore wind,1
-2022,DNK,Offshore wind,1
-2023,DNK,Offshore wind,1
 2024,DNK,Offshore wind,1
 2022,EGY,Total,1
-2023,EGY,Total,1
-2024,EGY,Total,1
 2022,EGY,Others/Various,1
+2023,EGY,Total,1
 2023,EGY,Others/Various,1
+2024,EGY,Total,1
 2024,EGY,Others/Various,1
-2023,ESP,Unknown,1
-2024,ESP,Unknown,1
 2015,ESP,Total,1
-2016,ESP,Total,1
-2017,ESP,Total,1
-2018,ESP,Total,1
-2019,ESP,Total,1
-2020,ESP,Total,1
-2021,ESP,Total,1
-2022,ESP,Total,5
-2023,ESP,Total,9
-2024,ESP,Total,9
 2015,ESP,Solar PV,1
+2016,ESP,Total,1
 2016,ESP,Solar PV,1
+2017,ESP,Total,1
 2017,ESP,Solar PV,1
+2018,ESP,Total,1
 2018,ESP,Solar PV,1
+2019,ESP,Total,1
 2019,ESP,Solar PV,1
+2020,ESP,Total,1
 2020,ESP,Solar PV,1
+2021,ESP,Total,1
 2021,ESP,Solar PV,1
+2022,ESP,Total,5
 2022,ESP,Solar PV,4
-2023,ESP,Solar PV,6
-2024,ESP,Solar PV,6
 2022,ESP,Others/Various,1
+2023,ESP,Unknown,1
+2023,ESP,Total,9
+2023,ESP,Solar PV,6
 2023,ESP,Others/Various,2
+2024,ESP,Unknown,1
+2024,ESP,Total,9
+2024,ESP,Solar PV,6
 2024,ESP,Others/Various,2
 2010,EST,Unknown,1
-2011,EST,Unknown,1
-2012,EST,Unknown,1
-2013,EST,Unknown,1
-2014,EST,Unknown,1
-2015,EST,Unknown,1
-2016,EST,Unknown,1
-2017,EST,Unknown,1
-2018,EST,Unknown,1
-2019,EST,Unknown,1
-2020,EST,Unknown,1
-2021,EST,Unknown,1
-2022,EST,Unknown,1
-2023,EST,Unknown,1
-2024,EST,Unknown,1
 2010,EST,Total,1
+2011,EST,Unknown,1
 2011,EST,Total,1
+2012,EST,Unknown,1
 2012,EST,Total,1
+2013,EST,Unknown,1
 2013,EST,Total,1
+2014,EST,Unknown,1
 2014,EST,Total,1
+2015,EST,Unknown,1
 2015,EST,Total,1
+2016,EST,Unknown,1
 2016,EST,Total,1
+2017,EST,Unknown,1
 2017,EST,Total,1
+2018,EST,Unknown,1
 2018,EST,Total,1
+2019,EST,Unknown,1
 2019,EST,Total,1
+2020,EST,Unknown,1
 2020,EST,Total,1
+2021,EST,Unknown,1
 2021,EST,Total,1
+2022,EST,Unknown,1
 2022,EST,Total,1
+2023,EST,Unknown,1
 2023,EST,Total,1
+2024,EST,Unknown,1
 2024,EST,Total,1
 2021,FRA,Unknown,1
-2022,FRA,Unknown,2
-2023,FRA,Unknown,3
-2024,FRA,Unknown,4
 2021,FRA,Total,2
-2022,FRA,Total,3
-2023,FRA,Total,5
-2024,FRA,Total,7
 2021,FRA,Solar PV,1
+2022,FRA,Unknown,2
+2022,FRA,Total,3
 2022,FRA,Solar PV,1
+2023,FRA,Unknown,3
+2023,FRA,Total,5
 2023,FRA,Solar PV,1
-2024,FRA,Solar PV,2
 2023,FRA,Offshore wind,1
+2024,FRA,Unknown,4
+2024,FRA,Total,7
+2024,FRA,Solar PV,2
 2024,FRA,Offshore wind,1
-2024,GBR,Unknown,1
 2016,GBR,Total,1
-2017,GBR,Total,2
-2018,GBR,Total,2
-2019,GBR,Total,3
-2020,GBR,Total,3
-2021,GBR,Total,4
-2022,GBR,Total,4
-2023,GBR,Total,5
-2024,GBR,Total,6
-2023,GBR,Solar PV,1
-2024,GBR,Solar PV,1
-2021,GBR,Others/Various,1
-2022,GBR,Others/Various,1
-2023,GBR,Others/Various,1
-2024,GBR,Others/Various,1
 2016,GBR,Onshore wind,1
+2017,GBR,Total,2
 2017,GBR,Onshore wind,2
+2018,GBR,Total,2
 2018,GBR,Onshore wind,2
+2019,GBR,Total,3
 2019,GBR,Onshore wind,3
+2020,GBR,Total,3
 2020,GBR,Onshore wind,3
+2021,GBR,Total,4
+2021,GBR,Others/Various,1
 2021,GBR,Onshore wind,3
+2022,GBR,Total,4
+2022,GBR,Others/Various,1
 2022,GBR,Onshore wind,3
+2023,GBR,Total,5
+2023,GBR,Solar PV,1
+2023,GBR,Others/Various,1
 2023,GBR,Onshore wind,3
+2024,GBR,Unknown,1
+2024,GBR,Total,6
+2024,GBR,Solar PV,1
+2024,GBR,Others/Various,1
 2024,GBR,Onshore wind,3
-2022,GRC,Unknown,1
-2023,GRC,Unknown,1
-2024,GRC,Unknown,1
 2021,GRC,Total,1
-2022,GRC,Total,1
-2023,GRC,Total,1
-2024,GRC,Total,1
 2021,GRC,Hydropower,1
+2022,GRC,Unknown,1
+2022,GRC,Total,1
 2022,GRC,Hydropower,1
+2023,GRC,Unknown,1
+2023,GRC,Total,1
 2023,GRC,Hydropower,1
+2024,GRC,Unknown,1
+2024,GRC,Total,1
 2024,GRC,Hydropower,1
 2023,HUN,Total,1
-2024,HUN,Total,1
 2023,HUN,Others/Various,1
+2024,HUN,Total,1
 2024,HUN,Others/Various,1
 2023,IDN,Total,1
-2024,IDN,Total,1
 2023,IDN,Others/Various,1
+2024,IDN,Total,1
 2024,IDN,Others/Various,1
 2015,IND,Unknown,1
-2016,IND,Unknown,1
-2017,IND,Unknown,1
-2018,IND,Unknown,1
-2019,IND,Unknown,1
-2021,IND,Unknown,1
-2022,IND,Unknown,2
-2023,IND,Unknown,2
-2024,IND,Unknown,4
 2015,IND,Total,2
-2016,IND,Total,2
-2017,IND,Total,2
-2018,IND,Total,2
-2019,IND,Total,2
-2020,IND,Total,2
-2021,IND,Total,3
-2022,IND,Total,4
-2023,IND,Total,4
-2024,IND,Total,8
 2015,IND,Solar PV,2
+2016,IND,Unknown,1
+2016,IND,Total,2
 2016,IND,Solar PV,2
+2017,IND,Unknown,1
+2017,IND,Total,2
 2017,IND,Solar PV,2
+2018,IND,Unknown,1
+2018,IND,Total,2
 2018,IND,Solar PV,2
+2019,IND,Unknown,1
+2019,IND,Total,2
 2019,IND,Solar PV,2
+2020,IND,Total,2
 2020,IND,Solar PV,2
+2021,IND,Unknown,1
+2021,IND,Total,3
 2021,IND,Solar PV,3
+2022,IND,Unknown,2
+2022,IND,Total,4
 2022,IND,Solar PV,3
+2023,IND,Unknown,2
+2023,IND,Total,4
 2023,IND,Solar PV,3
+2024,IND,Unknown,4
+2024,IND,Total,8
 2024,IND,Solar PV,5
 2012,ISL,Total,1
-2013,ISL,Total,1
-2014,ISL,Total,1
-2015,ISL,Total,1
-2016,ISL,Total,1
-2017,ISL,Total,1
-2018,ISL,Total,1
-2019,ISL,Total,1
-2020,ISL,Total,1
-2021,ISL,Total,1
-2022,ISL,Total,1
-2023,ISL,Total,1
-2024,ISL,Total,1
 2012,ISL,Others/Various,1
+2013,ISL,Total,1
 2013,ISL,Others/Various,1
+2014,ISL,Total,1
 2014,ISL,Others/Various,1
+2015,ISL,Total,1
 2015,ISL,Others/Various,1
+2016,ISL,Total,1
 2016,ISL,Others/Various,1
+2017,ISL,Total,1
 2017,ISL,Others/Various,1
+2018,ISL,Total,1
 2018,ISL,Others/Various,1
+2019,ISL,Total,1
 2019,ISL,Others/Various,1
+2020,ISL,Total,1
 2020,ISL,Others/Various,1
+2021,ISL,Total,1
 2021,ISL,Others/Various,1
+2022,ISL,Total,1
 2022,ISL,Others/Various,1
+2023,ISL,Total,1
 2023,ISL,Others/Various,1
+2024,ISL,Total,1
 2024,ISL,Others/Various,1
 2019,JPN,Unknown,1
-2021,JPN,Unknown,1
-2022,JPN,Unknown,1
-2023,JPN,Unknown,1
-2024,JPN,Unknown,1
 2019,JPN,Total,1
 2020,JPN,Total,2
-2021,JPN,Total,2
-2022,JPN,Total,2
-2023,JPN,Total,2
-2024,JPN,Total,2
 2020,JPN,Solar PV,1
+2021,JPN,Unknown,1
+2021,JPN,Total,2
 2021,JPN,Solar PV,1
+2022,JPN,Unknown,1
+2022,JPN,Total,2
 2022,JPN,Solar PV,1
+2023,JPN,Unknown,1
+2023,JPN,Total,2
 2023,JPN,Solar PV,1
+2024,JPN,Unknown,1
+2024,JPN,Total,2
 2024,JPN,Solar PV,1
 2024,NAM,Total,1
 2024,NAM,Solar PV,1
-2023,NLD,Unknown,2
-2024,NLD,Unknown,2
 2021,NLD,Total,1
-2022,NLD,Total,3
-2023,NLD,Total,5
-2024,NLD,Total,6
 2021,NLD,Solar PV,1
+2022,NLD,Total,3
 2022,NLD,Solar PV,3
+2023,NLD,Unknown,2
+2023,NLD,Total,5
 2023,NLD,Solar PV,3
+2024,NLD,Unknown,2
+2024,NLD,Total,6
 2024,NLD,Solar PV,4
-2022,NOR,Unknown,1
-2023,NOR,Unknown,2
-2024,NOR,Unknown,2
 2017,NOR,Total,1
-2018,NOR,Total,1
-2019,NOR,Total,1
-2020,NOR,Total,1
-2021,NOR,Total,2
-2022,NOR,Total,3
-2023,NOR,Total,4
-2024,NOR,Total,4
 2017,NOR,Solar PV,1
+2018,NOR,Total,1
 2018,NOR,Solar PV,1
+2019,NOR,Total,1
 2019,NOR,Solar PV,1
+2020,NOR,Total,1
 2020,NOR,Solar PV,1
+2021,NOR,Total,2
 2021,NOR,Solar PV,1
-2022,NOR,Solar PV,1
-2023,NOR,Solar PV,1
-2024,NOR,Solar PV,1
 2021,NOR,Onshore wind,1
+2022,NOR,Unknown,1
+2022,NOR,Total,3
+2022,NOR,Solar PV,1
+2023,NOR,Unknown,2
+2023,NOR,Total,4
+2023,NOR,Solar PV,1
+2024,NOR,Unknown,2
+2024,NOR,Total,4
+2024,NOR,Solar PV,1
 2021,NZL,Total,1
-2022,NZL,Total,1
-2023,NZL,Total,1
-2024,NZL,Total,1
 2021,NZL,Others/Various,1
+2022,NZL,Total,1
 2022,NZL,Others/Various,1
+2023,NZL,Total,1
 2023,NZL,Others/Various,1
+2024,NZL,Total,1
 2024,NZL,Others/Various,1
 1965,PER,Total,1
-1966,PER,Total,1
-1967,PER,Total,1
-1968,PER,Total,1
-1969,PER,Total,1
-1970,PER,Total,1
-1971,PER,Total,1
-1972,PER,Total,1
-1973,PER,Total,1
-1974,PER,Total,1
-1975,PER,Total,1
-1976,PER,Total,1
-1977,PER,Total,1
-1978,PER,Total,1
-1979,PER,Total,1
-1980,PER,Total,1
-1981,PER,Total,1
-1982,PER,Total,1
-1983,PER,Total,1
-1984,PER,Total,1
-1985,PER,Total,1
-1986,PER,Total,1
-1987,PER,Total,1
-1988,PER,Total,1
-1989,PER,Total,1
-1990,PER,Total,1
-1991,PER,Total,1
-1992,PER,Total,1
-1993,PER,Total,1
-1994,PER,Total,1
-1995,PER,Total,1
-1996,PER,Total,1
-1997,PER,Total,1
-1998,PER,Total,1
-1999,PER,Total,1
-2000,PER,Total,1
-2001,PER,Total,1
-2002,PER,Total,1
-2003,PER,Total,1
-2004,PER,Total,1
-2005,PER,Total,1
-2006,PER,Total,1
-2007,PER,Total,1
-2008,PER,Total,1
-2009,PER,Total,1
-2010,PER,Total,1
-2011,PER,Total,1
-2012,PER,Total,1
-2013,PER,Total,1
-2014,PER,Total,1
-2015,PER,Total,1
-2016,PER,Total,1
-2017,PER,Total,1
-2018,PER,Total,1
-2019,PER,Total,1
-2020,PER,Total,1
-2021,PER,Total,1
-2022,PER,Total,1
-2023,PER,Total,1
-2024,PER,Total,1
-2023,PER,Solar PV,1
-2024,PER,Solar PV,1
 1965,PER,Hydropower,1
+1966,PER,Total,1
 1966,PER,Hydropower,1
+1967,PER,Total,1
 1967,PER,Hydropower,1
+1968,PER,Total,1
 1968,PER,Hydropower,1
+1969,PER,Total,1
 1969,PER,Hydropower,1
+1970,PER,Total,1
 1970,PER,Hydropower,1
+1971,PER,Total,1
 1971,PER,Hydropower,1
+1972,PER,Total,1
 1972,PER,Hydropower,1
+1973,PER,Total,1
 1973,PER,Hydropower,1
+1974,PER,Total,1
 1974,PER,Hydropower,1
+1975,PER,Total,1
 1975,PER,Hydropower,1
+1976,PER,Total,1
 1976,PER,Hydropower,1
+1977,PER,Total,1
 1977,PER,Hydropower,1
+1978,PER,Total,1
 1978,PER,Hydropower,1
+1979,PER,Total,1
 1979,PER,Hydropower,1
+1980,PER,Total,1
 1980,PER,Hydropower,1
+1981,PER,Total,1
 1981,PER,Hydropower,1
+1982,PER,Total,1
 1982,PER,Hydropower,1
+1983,PER,Total,1
 1983,PER,Hydropower,1
+1984,PER,Total,1
 1984,PER,Hydropower,1
+1985,PER,Total,1
 1985,PER,Hydropower,1
+1986,PER,Total,1
 1986,PER,Hydropower,1
+1987,PER,Total,1
 1987,PER,Hydropower,1
+1988,PER,Total,1
 1988,PER,Hydropower,1
+1989,PER,Total,1
 1989,PER,Hydropower,1
+1990,PER,Total,1
 1990,PER,Hydropower,1
+1991,PER,Total,1
 1991,PER,Hydropower,1
+1992,PER,Total,1
 1992,PER,Hydropower,1
+1993,PER,Total,1
 1993,PER,Hydropower,1
+1994,PER,Total,1
 1994,PER,Hydropower,1
+1995,PER,Total,1
 1995,PER,Hydropower,1
+1996,PER,Total,1
 1996,PER,Hydropower,1
+1997,PER,Total,1
 1997,PER,Hydropower,1
+1998,PER,Total,1
 1998,PER,Hydropower,1
+1999,PER,Total,1
 1999,PER,Hydropower,1
+2000,PER,Total,1
 2000,PER,Hydropower,1
+2001,PER,Total,1
 2001,PER,Hydropower,1
+2002,PER,Total,1
 2002,PER,Hydropower,1
+2003,PER,Total,1
 2003,PER,Hydropower,1
+2004,PER,Total,1
 2004,PER,Hydropower,1
+2005,PER,Total,1
 2005,PER,Hydropower,1
+2006,PER,Total,1
 2006,PER,Hydropower,1
+2007,PER,Total,1
 2007,PER,Hydropower,1
+2008,PER,Total,1
 2008,PER,Hydropower,1
+2009,PER,Total,1
 2009,PER,Hydropower,1
+2010,PER,Total,1
 2010,PER,Hydropower,1
+2011,PER,Total,1
 2011,PER,Hydropower,1
+2012,PER,Total,1
 2012,PER,Hydropower,1
+2013,PER,Total,1
 2013,PER,Hydropower,1
+2014,PER,Total,1
 2014,PER,Hydropower,1
+2015,PER,Total,1
 2015,PER,Hydropower,1
+2016,PER,Total,1
 2016,PER,Hydropower,1
+2017,PER,Total,1
 2017,PER,Hydropower,1
+2018,PER,Total,1
 2018,PER,Hydropower,1
+2019,PER,Total,1
 2019,PER,Hydropower,1
+2020,PER,Total,1
 2020,PER,Hydropower,1
+2021,PER,Total,1
 2021,PER,Hydropower,1
+2022,PER,Total,1
 2022,PER,Hydropower,1
+2023,PER,Total,1
+2023,PER,Solar PV,1
 2023,PER,Hydropower,1
+2024,PER,Total,1
+2024,PER,Solar PV,1
 2024,PER,Hydropower,1
 2023,PRT,Total,1
-2024,PRT,Total,1
 2023,PRT,Solar PV,1
+2024,PRT,Total,1
 2024,PRT,Solar PV,1
 2021,SVN,Total,1
-2022,SVN,Total,1
-2023,SVN,Total,1
-2024,SVN,Total,1
 2021,SVN,Solar PV,1
+2022,SVN,Total,1
 2022,SVN,Solar PV,1
+2023,SVN,Total,1
 2023,SVN,Solar PV,1
+2024,SVN,Total,1
 2024,SVN,Solar PV,1
 2019,SWE,Total,1
-2020,SWE,Total,1
-2021,SWE,Total,1
-2022,SWE,Total,1
-2023,SWE,Total,1
-2024,SWE,Total,1
 2019,SWE,Solar PV,1
+2020,SWE,Total,1
 2020,SWE,Solar PV,1
+2021,SWE,Total,1
 2021,SWE,Solar PV,1
+2022,SWE,Total,1
 2022,SWE,Solar PV,1
+2023,SWE,Total,1
 2023,SWE,Solar PV,1
+2024,SWE,Total,1
 2024,SWE,Solar PV,1
 2023,USA,Unknown,1
-2024,USA,Unknown,2
 2023,USA,Total,3
-2024,USA,Total,5
 2023,USA,Solar PV,2
+2024,USA,Unknown,2
+2024,USA,Total,5
 2024,USA,Solar PV,2
 2024,USA,Others/Various,1
