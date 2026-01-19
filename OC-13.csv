@@ -1,22 +1,85 @@
-year,geo,value
-2000,WLD,6.8
-2001,WLD,9.0
-2002,WLD,9.7
-2003,WLD,9.6
-2004,WLD,8.3
-2005,WLD,8.2
-2006,WLD,9.1
-2007,WLD,8.1
-2008,WLD,8.1
-2009,WLD,7.2
-2010,WLD,9.0
-2011,WLD,8.9
-2012,WLD,9.3
-2013,WLD,9.2
-2014,WLD,8.9
-2015,WLD,8.5
-2016,WLD,7.1
-2017,WLD,14
-2018,WLD,12
-2019,WLD,13
-2021,WLD,12
+year,geo,disagg,value
+2000,WLD,Total,6.8
+2001,WLD,Total,9
+2002,WLD,Total,9.7
+2003,WLD,Total,9.6
+2004,WLD,Total,8.3
+2005,WLD,Total,8.2
+2006,WLD,Total,9.1
+2007,WLD,Total,8.1
+2008,WLD,Total,8.1
+2009,WLD,Total,7.2
+2010,WLD,Total,9
+2011,WLD,Total,8.9
+2012,WLD,Total,9.3
+2013,WLD,Total,9.2
+2014,WLD,Total,8.9
+2015,WLD,Total,8.5
+2016,WLD,Total,7.1
+2017,WLD,Total,14
+2018,WLD,Total,12
+2019,WLD,Total,13
+2021,WLD,Total,12
+2000,WLD,Local Communities,0.14
+2001,WLD,Local Communities,0.13
+2002,WLD,Local Communities,0.14
+2003,WLD,Local Communities,0.13
+2004,WLD,Local Communities,0.12
+2005,WLD,Local Communities,0.11
+2006,WLD,Local Communities,0.058
+2007,WLD,Local Communities,0.051
+2008,WLD,Local Communities,0.05
+2009,WLD,Local Communities,0.039
+2010,WLD,Local Communities,0.035
+2011,WLD,Local Communities,0.034
+2012,WLD,Local Communities,0.031
+2013,WLD,Local Communities,0.03
+2014,WLD,Local Communities,0.027
+2015,WLD,Local Communities,0.026
+2016,WLD,Local Communities,0.022
+2017,WLD,Local Communities,0.018
+2018,WLD,Local Communities,0.019
+2019,WLD,Local Communities,0.018
+2021,WLD,Local Communities,0.017
+2000,WLD,Indigineous People,0.028
+2001,WLD,Indigineous People,0.076
+2002,WLD,Indigineous People,0.077
+2003,WLD,Indigineous People,0.17
+2004,WLD,Indigineous People,0.22
+2005,WLD,Indigineous People,0.21
+2006,WLD,Indigineous People,0.13
+2007,WLD,Indigineous People,0.12
+2008,WLD,Indigineous People,0.12
+2009,WLD,Indigineous People,0.098
+2010,WLD,Indigineous People,0.086
+2011,WLD,Indigineous People,0.085
+2012,WLD,Indigineous People,0.076
+2013,WLD,Indigineous People,0.082
+2014,WLD,Indigineous People,0.075
+2015,WLD,Indigineous People,0.072
+2016,WLD,Indigineous People,0.059
+2017,WLD,Indigineous People,0.048
+2018,WLD,Indigineous People,0.041
+2019,WLD,Indigineous People,0.039
+2021,WLD,Indigineous People,0.037
+2000,WLD,Collaborative governance,6.6
+2001,WLD,Collaborative governance,8.8
+2002,WLD,Collaborative governance,9.5
+2003,WLD,Collaborative governance,9.3
+2004,WLD,Collaborative governance,8
+2005,WLD,Collaborative governance,7.9
+2006,WLD,Collaborative governance,9
+2007,WLD,Collaborative governance,8
+2008,WLD,Collaborative governance,8
+2009,WLD,Collaborative governance,7.1
+2010,WLD,Collaborative governance,8.9
+2011,WLD,Collaborative governance,8.8
+2012,WLD,Collaborative governance,9.2
+2013,WLD,Collaborative governance,9.1
+2014,WLD,Collaborative governance,8.8
+2015,WLD,Collaborative governance,8.4
+2016,WLD,Collaborative governance,7
+2017,WLD,Collaborative governance,14
+2018,WLD,Collaborative governance,12
+2019,WLD,Collaborative governance,12
+2021,WLD,Collaborative governance,12
