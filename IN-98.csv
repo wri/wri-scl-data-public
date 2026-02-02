@@ -1,17 +1,18 @@
 year,geo,disagg_type,disagg,value
-2023,WLD,All,Total,0.26
-2023,WLD,Region,East Asia & Pacific,0.012
-2023,WLD,Region,Latin America & Caribbean,0.0044
-2023,WLD,Region,Middle East & North Africa,0.0065
-2023,WLD,Region,South Asia,0.038
-2023,WLD,Region,Sub-Saharan Africa,0.16
-2023,WLD,Region,Transregional,0.033
-2023,WLD,Institution,Bilateral DFIs,0.011
-2023,WLD,Institution,Governments,0.016
-2023,WLD,Institution,Multilateral DFIs,0.20
-2023,WLD,Institution,National DFIs,0.030
-2023,WLD,Instrument,Grant,0.089
-2023,WLD,Instrument,Low-cost project debt,0.11
-2023,WLD,Instrument,Project-level equity,0.00091
-2023,WLD,Instrument,Project-level market rate debt,0.044
-2023,WLD,Instrument,Unknown,0.017
+2023,WLD,All,Total,0.93
+2023,WLD,Region,East Asia & Pacific,0.067
+2023,WLD,Region,Latin America & Caribbean,0.32
+2023,WLD,Region,Middle East & North Africa,0.089
+2023,WLD,Region,South Asia,0.12
+2023,WLD,Region,Sub-Saharan Africa,0.24
+2023,WLD,Region,Transregional,0.088
+2023,WLD,Institution,Bilateral DFIs,0.10
+2023,WLD,Institution,Governments,0.076
+2023,WLD,Institution,Multilateral DFIs,0.65
+2023,WLD,Institution,National DFIs,0.067
+2023,WLD,Institution,State-owned FIs,0.032
+2023,WLD,Instrument,Grant,0.12
+2023,WLD,Instrument,Low-cost project debt,0.21
+2023,WLD,Instrument,Project-level equity,0.049
+2023,WLD,Instrument,Project-level market rate debt,0.49
+2023,WLD,Instrument,Unknown,0.053
