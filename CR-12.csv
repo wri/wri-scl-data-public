@@ -31,43 +31,43 @@ year,geo,disagg,value
 2016,WLD,Bioenergy with CCS,1
 2017,WLD,Bioenergy with CCS,1
 2020,WLD,Bioenergy with CCS,1
-2015,WLD,Biomass Burial,1
-2019,WLD,Biomass Burial,1
-2020,WLD,Biomass Burial,1
-2021,WLD,Biomass Burial,1
-2023,WLD,Biomass Burial,1
-2013,WLD,Biomass Sinking,2
-2014,WLD,Biomass Sinking,1
-2018,WLD,Biomass Sinking,1
-2020,WLD,Biomass Sinking,2
-2021,WLD,Biomass Sinking,6
-2009,WLD,Direct Air Capture with CCS,2
-2010,WLD,Direct Air Capture with CCS,3
-2013,WLD,Direct Air Capture with CCS,2
-2014,WLD,Direct Air Capture with CCS,2
-2015,WLD,Direct Air Capture with CCS,1
-2017,WLD,Direct Air Capture with CCS,2
-2018,WLD,Direct Air Capture with CCS,4
-2019,WLD,Direct Air Capture with CCS,7
-2020,WLD,Direct Air Capture with CCS,10
-2021,WLD,Direct Air Capture with CCS,15
-2022,WLD,Direct Air Capture with CCS,18
-2023,WLD,Direct Air Capture with CCS,2
-2019,WLD,Direct Ocean Capture,1
-2020,WLD,Direct Ocean Capture,1
-2021,WLD,Direct Ocean Capture,2
-2022,WLD,Direct Ocean Capture,3
-2011,WLD,Enhanced Weathering,1
-2019,WLD,Enhanced Weathering,3
-2020,WLD,Enhanced Weathering,3
-2021,WLD,Enhanced Weathering,4
-2022,WLD,Enhanced Weathering,5
-2023,WLD,Enhanced Weathering,2
+2015,WLD,Biomass burial,1
+2019,WLD,Biomass burial,1
+2020,WLD,Biomass burial,1
+2021,WLD,Biomass burial,1
+2023,WLD,Biomass burial,1
+2013,WLD,Biomass sinking,2
+2014,WLD,Biomass sinking,1
+2018,WLD,Biomass sinking,1
+2020,WLD,Biomass sinking,2
+2021,WLD,Biomass sinking,6
+2009,WLD,Direct air capture with CCS,2
+2010,WLD,Direct air capture with CCS,3
+2013,WLD,Direct air capture with CCS,2
+2014,WLD,Direct air capture with CCS,2
+2015,WLD,Direct air capture with CCS,1
+2017,WLD,Direct air capture with CCS,2
+2018,WLD,Direct air capture with CCS,4
+2019,WLD,Direct air capture with CCS,7
+2020,WLD,Direct air capture with CCS,10
+2021,WLD,Direct air capture with CCS,15
+2022,WLD,Direct air capture with CCS,18
+2023,WLD,Direct air capture with CCS,2
+2019,WLD,Direct ocean capture,1
+2020,WLD,Direct ocean capture,1
+2021,WLD,Direct ocean capture,2
+2022,WLD,Direct ocean capture,3
+2011,WLD,Enhanced weathering,1
+2019,WLD,Enhanced weathering,3
+2020,WLD,Enhanced weathering,3
+2021,WLD,Enhanced weathering,4
+2022,WLD,Enhanced weathering,5
+2023,WLD,Enhanced weathering,2
 2009,WLD,Forestry,2
 2010,WLD,Forestry,9
 2011,WLD,Forestry,5
-2017,WLD,Ocean Alkalinity Enhancement,1
-2019,WLD,Ocean Alkalinity Enhancement,3
-2021,WLD,Ocean Alkalinity Enhancement,2
-2022,WLD,Ocean Alkalinity Enhancement,3
-2023,WLD,Ocean Alkalinity Enhancement,1
+2017,WLD,Ocean alkalinity enhancement,1
+2019,WLD,Ocean alkalinity enhancement,3
+2021,WLD,Ocean alkalinity enhancement,2
+2022,WLD,Ocean alkalinity enhancement,3
+2023,WLD,Ocean alkalinity enhancement,1
