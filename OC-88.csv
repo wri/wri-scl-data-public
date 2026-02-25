@@ -1,679 +1,4417 @@
-year,geo,value
-2000,WLD,0.16
-2001,WLD,0.3
-2002,WLD,0.82
-2003,WLD,0.81
-2004,WLD,1
-2005,WLD,1.1
-2006,WLD,1.4
-2007,WLD,2.1
-2008,WLD,3.6
-2009,WLD,5
-2010,WLD,6.4
-2011,WLD,8.3
-2012,WLD,13
-2013,WLD,12
-2014,WLD,12
-2015,WLD,11
-2016,WLD,9.5
-2017,WLD,10
-2018,WLD,8.3
-2019,WLD,11
-2020,WLD,12
-2021,WLD,10
-2022,WLD,6.1
-2010,ARG,19
-2011,ARG,37
-2012,ARG,40
-2013,ARG,48
-2014,ARG,40
-2015,ARG,43
-2016,ARG,73
-2017,ARG,74
-2018,ARG,39
-2019,ARG,35
-2020,ARG,27
-2021,ARG,38
-2022,ARG,42
-2009,AUS,134
-2010,AUS,142
-2011,AUS,173
-2012,AUS,201
-2013,AUS,226
-2014,AUS,212
-2015,AUS,200
-2016,AUS,179
-2017,AUS,220
-2018,AUS,172
-2019,AUS,71
-2020,AUS,70
-2021,AUS,99
-2022,AUS,85
-2009,BEL,16
-2010,BEL,16
-2011,BEL,5
-2012,BEL,12
-2013,BEL,7
-2014,BEL,8
-2015,BEL,4
-2016,BEL,6
-2017,BEL,11
-2018,BEL,13
-2019,BEL,5
-2020,BEL,10
-2021,BEL,2
-2022,BEL,5
-2010,BGR,0
-2011,BGR,3
-2012,BGR,3
-2013,BGR,3
-2014,BGR,18
-2015,BGR,19
-2016,BGR,4
-2017,BGR,1
-2018,BGR,15
-2019,BGR,15
-2020,BGR,3
-2021,BGR,3
-2022,BGR,6
-2012,BRA,965
-2013,BRA,1208
-2014,BRA,1280
-2015,BRA,997
-2016,BRA,431
-2017,BRA,704
-2018,BRA,748
-2019,BRA,602
-2020,BRA,651
-2021,BRA,678
-2022,BRA,736
-2008,CAN,829
-2009,CAN,850
-2010,CAN,926
-2011,CAN,931
-2012,CAN,819
-2013,CAN,763
-2014,CAN,708
-2015,CAN,717
-2016,CAN,756
-2017,CAN,793
-2018,CAN,786
-2019,CAN,953
-2020,CAN,1064
-2021,CAN,1329
-2022,CAN,1155
-2000,CHL,16
-2001,CHL,14
-2002,CHL,14
-2003,CHL,14
-2004,CHL,17
-2005,CHL,19
-2006,CHL,23
-2007,CHL,36
-2008,CHL,49
-2009,CHL,46
-2010,CHL,64
-2011,CHL,75
-2012,CHL,86
-2013,CHL,105
-2014,CHL,103
-2015,CHL,103
-2016,CHL,111
-2017,CHL,196
-2018,CHL,201
-2019,CHL,202
-2020,CHL,216
-2021,CHL,184
-2022,CHL,167
-2009,CHN,1624
-2010,CHN,2668
-2011,CHN,3910
-2012,CHN,6974
-2013,CHN,6420
-2014,CHN,5065
-2015,CHN,4408
-2016,CHN,3834
-2017,CHN,3799
-2018,CHN,1673
-2019,CHN,4620
-2020,CHN,5616
-2021,CHN,2994
-2000,COL,2
-2001,COL,1
-2002,COL,1
-2003,COL,1
-2004,COL,1
-2005,COL,1
-2006,COL,7
-2007,COL,8
-2008,COL,5
-2009,COL,4
-2010,COL,2
-2011,COL,4
-2012,COL,6
-2013,COL,11
-2014,COL,10
-2015,COL,7
-2016,COL,8
-2017,COL,9
-2018,COL,2
-2019,COL,7
-2020,COL,10
-2021,COL,6
-2022,COL,4
-2004,CRI,0
-2005,CRI,1
-2006,CRI,1
-2007,CRI,1
-2008,CRI,7
-2009,CRI,7
-2010,CRI,12
-2011,CRI,14
-2012,CRI,14
-2013,CRI,17
-2014,CRI,24
-2015,CRI,23
-2016,CRI,23
-2017,CRI,24
-2018,CRI,19
-2019,CRI,21
-2020,CRI,20
-2021,CRI,20
-2022,CRI,19
-2013,DEU,53
-2014,DEU,37
-2015,DEU,30
-2016,DEU,2
-2017,DEU,37
-2018,DEU,29
-2019,DEU,33
-2020,DEU,41
-2021,DEU,42
-2022,DEU,42
-2007,DNK,47
-2008,DNK,109
-2009,DNK,91
-2010,DNK,95
-2011,DNK,111
-2012,DNK,97
-2013,DNK,127
-2014,DNK,135
-2015,DNK,104
-2016,DNK,108
-2017,DNK,111
-2018,DNK,112
-2019,DNK,114
-2020,DNK,120
-2007,ESP,41
-2008,ESP,112
-2009,ESP,255
-2010,ESP,218
-2011,ESP,151
-2012,ESP,149
-2013,ESP,121
-2014,ESP,99
-2015,ESP,147
-2016,ESP,24
-2017,ESP,44
-2018,ESP,59
-2019,ESP,53
-2020,ESP,62
-2021,ESP,70
-2022,ESP,38
-2006,EST,0
-2007,EST,1
-2008,EST,4
-2009,EST,9
-2010,EST,15
-2011,EST,14
-2012,EST,14
-2013,EST,14
-2014,EST,22
-2015,EST,8
-2016,EST,4
-2017,EST,8
-2018,EST,13
-2019,EST,13
-2020,EST,11
-2021,EST,14
-2022,EST,13
-2008,FRA,50
-2009,FRA,91
-2010,FRA,137
-2011,FRA,47
-2012,FRA,67
-2013,FRA,85
-2014,FRA,0
-2015,FRA,0
-2016,FRA,8
-2017,FRA,4
-2018,FRA,44
-2019,FRA,35
-2020,FRA,34
-2021,FRA,54
-2022,FRA,34
-2007,GBR,55
-2008,GBR,58
-2009,GBR,13
-2010,GBR,22
-2011,GBR,30
-2012,GBR,21
-2013,GBR,27
-2014,GBR,41
-2015,GBR,59
-2016,GBR,17
-2017,GBR,14
-2018,GBR,45
-2019,GBR,61
-2020,GBR,67
-2021,GBR,83
-2022,GBR,44
-2006,GRC,53
-2007,GRC,74
-2008,GRC,74
-2009,GRC,41
-2010,GRC,5
-2011,GRC,35
-2012,GRC,43
-2013,GRC,23
-2014,GRC,12
-2015,GRC,36
-2016,GRC,19
-2017,GRC,0
-2018,GRC,53
-2019,GRC,10
-2020,GRC,14
-2021,GRC,36
-2022,GRC,43
-2013,HRV,17
-2014,HRV,29
-2015,HRV,29
-2016,HRV,32
-2017,HRV,31
-2018,HRV,41
-2019,HRV,29
-2020,HRV,42
-2021,HRV,38
-2022,HRV,20
-2011,IDN,52
-2012,IDN,49
-2013,IDN,44
-2015,IDN,0
-2016,IDN,9
-2017,IDN,21
-2018,IDN,25
-2012,IND,169
-2013,IND,231
-2014,IND,251
-2015,IND,310
-2016,IND,302
-2017,IND,376
-2018,IND,354
-2019,IND,308
-2020,IND,326
-2021,IND,388
-2014,IRL,69
-2015,IRL,37
-2016,IRL,76
-2017,IRL,24
-2018,IRL,44
-2000,ISL,36
-2001,ISL,34
-2002,ISL,35
-2003,ISL,45
-2004,ISL,56
-2005,ISL,68
-2006,ISL,64
-2007,ISL,78
-2008,ISL,55
-2009,ISL,47
-2010,ISL,58
-2011,ISL,75
-2012,ISL,118
-2013,ISL,119
-2014,ISL,109
-2015,ISL,56
-2016,ISL,101
-2017,ISL,105
-2018,ISL,152
-2008,ITA,51
-2009,ITA,75
-2010,ITA,91
-2011,ITA,154
-2012,ITA,155
-2013,ITA,75
-2014,ITA,86
-2015,ITA,122
-2016,ITA,108
-2017,ITA,23
-2018,ITA,126
-2019,ITA,89
-2020,ITA,101
-2021,ITA,94
-2022,ITA,111
-2014,JPN,1394
-2015,JPN,1197
-2016,JPN,1271
-2017,JPN,1224
-2018,JPN,1233
-2019,JPN,1445
-2020,JPN,1372
-2021,JPN,1412
-2022,JPN,1212
-2007,KOR,206
-2008,KOR,404
-2009,KOR,135
-2010,KOR,123
-2011,KOR,86
-2012,KOR,76
-2013,KOR,63
-2014,KOR,56
-2015,KOR,53
-2016,KOR,64
-2017,KOR,190
-2018,KOR,192
-2019,KOR,182
-2020,KOR,202
-2021,KOR,256
-2022,KOR,237
-2004,LTU,0
-2005,LTU,0
-2006,LTU,0
-2007,LTU,1
-2008,LTU,1
-2009,LTU,3
-2010,LTU,7
-2011,LTU,3
-2012,LTU,2
-2013,LTU,3
-2014,LTU,4
-2015,LTU,9
-2016,LTU,15
-2017,LTU,16
-2018,LTU,6
-2019,LTU,7
-2020,LTU,5
-2021,LTU,6
-2022,LTU,6
-2014,LVA,4
-2015,LVA,5
-2016,LVA,4
-2017,LVA,3
-2018,LVA,8
-2019,LVA,7
-2020,LVA,4
-2021,LVA,5
-2022,LVA,4
-2005,MEX,20
-2006,MEX,4
-2007,MEX,85
-2008,MEX,108
-2009,MEX,68
-2010,MEX,96
-2011,MEX,106
-2012,MEX,86
-2013,MEX,87
-2014,MEX,70
-2015,MEX,64
-2016,MEX,76
-2017,MEX,80
-2018,MEX,69
-2019,MEX,58
-2020,MEX,65
-2021,MEX,71
-2022,MEX,69
-2011,MYS,593
-2012,MYS,589
-2013,MYS,575
-2014,MYS,408
-2015,MYS,115
-2016,MYS,79
-2008,NLD,40
-2009,NLD,3
-2010,NLD,4
-2011,NLD,5
-2012,NLD,15
-2013,NLD,22
-2014,NLD,29
-2015,NLD,18
-2016,NLD,38
-2017,NLD,16
-2018,NLD,18
-2019,NLD,19
-2020,NLD,17
-2021,NLD,20
-2022,NLD,16
-2001,NOR,126
-2002,NOR,156
-2003,NOR,180
-2004,NOR,170
-2005,NOR,171
-2006,NOR,248
-2007,NOR,299
-2008,NOR,369
-2009,NOR,364
-2010,NOR,365
-2011,NOR,386
-2012,NOR,356
-2013,NOR,374
-2014,NOR,363
-2015,NOR,353
-2016,NOR,306
-2017,NOR,313
-2018,NOR,324
-2019,NOR,315
-2020,NOR,269
-2021,NOR,359
-2022,NOR,351
-2007,NZL,87
-2008,NZL,69
-2009,NZL,57
-2010,NZL,60
-2011,NZL,71
-2012,NZL,99
-2013,NZL,83
-2014,NZL,100
-2015,NZL,76
-2016,NZL,84
-2017,NZL,93
-2018,NZL,90
-2019,NZL,91
-2020,NZL,88
-2021,NZL,100
-2022,NZL,96
-2000,PER,7
-2001,PER,9
-2002,PER,8
-2003,PER,10
-2004,PER,17
-2005,PER,23
-2006,PER,31
-2007,PER,45
-2008,PER,74
-2009,PER,66
-2010,PER,66
-2011,PER,67
-2012,PER,80
-2013,PER,107
-2014,PER,125
-2015,PER,116
-2016,PER,86
-2017,PER,132
-2018,PER,161
-2019,PER,151
-2020,PER,113
-2021,PER,123
-2022,PER,121
-2005,PHL,0
-2006,PHL,0
-2007,PHL,0
-2008,PHL,0
-2009,PHL,0
-2010,PHL,0
-2011,PHL,0
-2012,PHL,0
-2013,PHL,0
-2014,PHL,0
-2015,PHL,0
-2016,PHL,0
-2000,POL,0
-2001,POL,0
-2002,POL,0
-2003,POL,0
-2004,POL,0
-2005,POL,0
-2006,POL,0
-2007,POL,0
-2008,POL,0
-2009,POL,56
-2010,POL,36
-2011,POL,63
-2012,POL,96
-2013,POL,176
-2014,POL,157
-2015,POL,243
-2016,POL,7
-2017,POL,42
-2018,POL,46
-2019,POL,59
-2020,POL,79
-2021,POL,43
-2022,POL,36
-2009,PRT,21
-2010,PRT,20
-2011,PRT,8
-2012,PRT,6
-2013,PRT,6
-2014,PRT,25
-2015,PRT,23
-2016,PRT,8
-2017,PRT,11
-2018,PRT,12
-2019,PRT,10
-2020,PRT,18
-2010,ROU,2
-2011,ROU,1
-2012,ROU,1
-2013,ROU,16
-2014,ROU,38
-2015,ROU,10
-2016,ROU,1
-2017,ROU,15
-2018,ROU,8
-2019,ROU,20
-2020,ROU,10
-2021,ROU,16
-2007,SVN,0
-2008,SVN,0
-2009,SVN,1
-2010,SVN,3
-2011,SVN,4
-2012,SVN,5
-2013,SVN,5
-2014,SVN,0
-2015,SVN,1
-2016,SVN,1
-2017,SVN,1
-2018,SVN,2
-2019,SVN,2
-2020,SVN,3
-2021,SVN,5
-2022,SVN,3
-2003,SWE,2
-2004,SWE,48
-2005,SWE,44
-2006,SWE,50
-2007,SWE,86
-2008,SWE,101
-2009,SWE,103
-2010,SWE,121
-2011,SWE,116
-2012,SWE,100
-2013,SWE,120
-2014,SWE,110
-2015,SWE,98
-2016,SWE,98
-2017,SWE,95
-2018,SWE,121
-2019,SWE,114
-2020,SWE,108
-2021,SWE,127
-2022,SWE,102
-2012,TUR,198
-2013,TUR,250
-2014,TUR,170
-2015,TUR,161
-2016,TUR,175
-2017,TUR,148
-2018,TUR,111
-2019,TUR,102
-2020,TUR,97
-2021,TUR,76
-2022,TUR,80
-2000,TWN,18
-2001,TWN,20
-2002,TWN,36
-2003,TWN,25
-2004,TWN,23
-2005,TWN,50
-2006,TWN,88
-2007,TWN,59
-2008,TWN,54
-2009,TWN,47
-2010,TWN,36
-2011,TWN,38
-2012,TWN,36
-2013,TWN,38
-2014,TWN,35
-2015,TWN,34
-2016,TWN,77
-2017,TWN,89
-2018,TWN,44
-2019,TWN,66
-2020,TWN,78
-2021,TWN,84
-2022,TWN,72
-2001,USA,8
-2002,USA,501
-2003,USA,463
-2004,USA,592
-2005,USA,617
-2006,USA,725
-2007,USA,770
-2008,USA,880
-2009,USA,715
-2010,USA,862
-2011,USA,824
-2012,USA,768
-2013,USA,760
-2014,USA,869
-2015,USA,808
-2016,USA,838
-2017,USA,835
-2018,USA,1074
-2019,USA,1029
-2020,USA,1204
-2021,USA,1213
-2022,USA,1147
-2000,VNM,81
-2001,VNM,89
-2002,VNM,72
-2003,VNM,70
-2004,VNM,69
-2005,VNM,84
-2006,VNM,98
-2007,VNM,95
-2008,VNM,91
-2009,VNM,83
-2010,VNM,89
-2011,VNM,68
-2012,VNM,75
-2013,VNM,67
-2014,VNM,91
-2015,VNM,105
-2016,VNM,74
-2017,VNM,20
-2018,VNM,20
-2019,VNM,20
-2020,VNM,19
-2021,VNM,24
+year,geo,disagg,value
+2000,WLD,Total,0.04
+2001,WLD,Total,0.1
+2002,WLD,Total,0.12
+2003,WLD,Total,0.11
+2004,WLD,Total,0.11
+2005,WLD,Total,0.17
+2006,WLD,Total,0.35
+2007,WLD,Total,0.58
+2008,WLD,Total,1.3
+2009,WLD,Total,1.2
+2010,WLD,Total,1.2
+2011,WLD,Total,1.2
+2012,WLD,Total,2.1
+2013,WLD,Total,2.3
+2014,WLD,Total,3.3
+2015,WLD,Total,3.4
+2016,WLD,Total,2.6
+2017,WLD,Total,2.8
+2018,WLD,Total,2.7
+2019,WLD,Total,4.8
+2020,WLD,Total,6.1
+2021,WLD,Total,4.5
+2022,WLD,Total,2.6
+2000,WLD,Buyback of vessel and license,0
+2001,WLD,Buyback of vessel and license,0
+2002,WLD,Buyback of vessel and license,0.03
+2003,WLD,Buyback of vessel and license,0.01
+2004,WLD,Buyback of vessel and license,0.02
+2005,WLD,Buyback of vessel and license,0.05
+2006,WLD,Buyback of vessel and license,0.07
+2007,WLD,Buyback of vessel and license,0.19
+2008,WLD,Buyback of vessel and license,0.44
+2009,WLD,Buyback of vessel and license,0.34
+2010,WLD,Buyback of vessel and license,0.32
+2011,WLD,Buyback of vessel and license,0.25
+2012,WLD,Buyback of vessel and license,0.26
+2013,WLD,Buyback of vessel and license,0.27
+2014,WLD,Buyback of vessel and license,0.22
+2015,WLD,Buyback of vessel and license,0.27
+2016,WLD,Buyback of vessel and license,0.25
+2017,WLD,Buyback of vessel and license,0.4
+2018,WLD,Buyback of vessel and license,0.16
+2019,WLD,Buyback of vessel and license,0.98
+2020,WLD,Buyback of vessel and license,2.1
+2021,WLD,Buyback of vessel and license,0.35
+2022,WLD,Buyback of vessel and license,0.1
+2000,WLD,Direct fisher income support,0.02
+2001,WLD,Direct fisher income support,0.06
+2002,WLD,Direct fisher income support,0.05
+2003,WLD,Direct fisher income support,0.07
+2004,WLD,Direct fisher income support,0.07
+2005,WLD,Direct fisher income support,0.08
+2006,WLD,Direct fisher income support,0.21
+2007,WLD,Direct fisher income support,0.31
+2008,WLD,Direct fisher income support,0.7
+2009,WLD,Direct fisher income support,0.57
+2010,WLD,Direct fisher income support,0.55
+2011,WLD,Direct fisher income support,0.63
+2012,WLD,Direct fisher income support,1.4
+2013,WLD,Direct fisher income support,1.5
+2014,WLD,Direct fisher income support,1.7
+2015,WLD,Direct fisher income support,1.3
+2016,WLD,Direct fisher income support,0.87
+2017,WLD,Direct fisher income support,1.2
+2018,WLD,Direct fisher income support,1.4
+2019,WLD,Direct fisher income support,2.2
+2020,WLD,Direct fisher income support,2.7
+2021,WLD,Direct fisher income support,2.8
+2022,WLD,Direct fisher income support,1.5
+2000,WLD,Port and community infrastructure,0.01
+2001,WLD,Port and community infrastructure,0.03
+2002,WLD,Port and community infrastructure,0.03
+2003,WLD,Port and community infrastructure,0.03
+2004,WLD,Port and community infrastructure,0.02
+2005,WLD,Port and community infrastructure,0.04
+2006,WLD,Port and community infrastructure,0.06
+2007,WLD,Port and community infrastructure,0.08
+2008,WLD,Port and community infrastructure,0.17
+2009,WLD,Port and community infrastructure,0.32
+2010,WLD,Port and community infrastructure,0.34
+2011,WLD,Port and community infrastructure,0.32
+2012,WLD,Port and community infrastructure,0.37
+2013,WLD,Port and community infrastructure,0.42
+2014,WLD,Port and community infrastructure,1.2
+2015,WLD,Port and community infrastructure,1.6
+2016,WLD,Port and community infrastructure,1.4
+2017,WLD,Port and community infrastructure,1.2
+2018,WLD,Port and community infrastructure,1.1
+2019,WLD,Port and community infrastructure,1.5
+2020,WLD,Port and community infrastructure,1.2
+2021,WLD,Port and community infrastructure,1.3
+2022,WLD,Port and community infrastructure,0.87
+2000,WLD,Support for education and training,0.01
+2001,WLD,Support for education and training,0.01
+2002,WLD,Support for education and training,0.01
+2003,WLD,Support for education and training,0.01
+2004,WLD,Support for education and training,0.01
+2005,WLD,Support for education and training,0
+2006,WLD,Support for education and training,0
+2007,WLD,Support for education and training,0.01
+2008,WLD,Support for education and training,0.01
+2009,WLD,Support for education and training,0.01
+2010,WLD,Support for education and training,0.01
+2011,WLD,Support for education and training,0.03
+2012,WLD,Support for education and training,0.06
+2013,WLD,Support for education and training,0.12
+2014,WLD,Support for education and training,0.22
+2015,WLD,Support for education and training,0.24
+2016,WLD,Support for education and training,0.12
+2017,WLD,Support for education and training,0.09
+2018,WLD,Support for education and training,0.1
+2019,WLD,Support for education and training,0.13
+2020,WLD,Support for education and training,0.11
+2021,WLD,Support for education and training,0.1
+2022,WLD,Support for education and training,0.07
+2000,ARG,Total,0
+2000,ARG,Direct fisher income support,0
+2000,ARG,Support for education and training,0
+2001,ARG,Total,0
+2001,ARG,Direct fisher income support,0
+2001,ARG,Support for education and training,0
+2002,ARG,Total,0
+2002,ARG,Direct fisher income support,0
+2002,ARG,Support for education and training,0
+2003,ARG,Total,0
+2003,ARG,Direct fisher income support,0
+2003,ARG,Support for education and training,0
+2004,ARG,Total,0
+2004,ARG,Direct fisher income support,0
+2004,ARG,Support for education and training,0
+2005,ARG,Total,0
+2005,ARG,Direct fisher income support,0
+2005,ARG,Support for education and training,0
+2006,ARG,Total,0
+2006,ARG,Direct fisher income support,0
+2006,ARG,Support for education and training,0
+2007,ARG,Total,0
+2007,ARG,Direct fisher income support,0
+2007,ARG,Support for education and training,0
+2008,ARG,Total,0
+2008,ARG,Direct fisher income support,0
+2008,ARG,Support for education and training,0
+2009,ARG,Total,0
+2009,ARG,Direct fisher income support,0
+2009,ARG,Support for education and training,0
+2010,ARG,Total,0.11
+2010,ARG,Direct fisher income support,0
+2010,ARG,Support for education and training,0.11
+2011,ARG,Total,8.2
+2011,ARG,Support for education and training,0.22
+2011,ARG,Direct fisher income support,8
+2012,ARG,Total,4.9
+2012,ARG,Support for education and training,0.23
+2012,ARG,Direct fisher income support,4.7
+2013,ARG,Total,4.7
+2013,ARG,Support for education and training,0.16
+2013,ARG,Direct fisher income support,4.6
+2014,ARG,Total,6.6
+2014,ARG,Support for education and training,0.2
+2014,ARG,Direct fisher income support,6.4
+2015,ARG,Total,5.3
+2015,ARG,Support for education and training,0.21
+2015,ARG,Direct fisher income support,5.1
+2016,ARG,Total,0.04
+2016,ARG,Direct fisher income support,0
+2016,ARG,Support for education and training,0.04
+2017,ARG,Total,0.17
+2017,ARG,Direct fisher income support,0
+2017,ARG,Support for education and training,0.17
+2018,ARG,Total,0
+2018,ARG,Direct fisher income support,0
+2018,ARG,Support for education and training,0
+2019,ARG,Total,0
+2019,ARG,Direct fisher income support,0
+2019,ARG,Support for education and training,0
+2020,ARG,Total,0
+2020,ARG,Direct fisher income support,0
+2020,ARG,Support for education and training,0
+2021,ARG,Total,0
+2021,ARG,Direct fisher income support,0
+2021,ARG,Support for education and training,0
+2022,ARG,Total,0
+2022,ARG,Direct fisher income support,0
+2022,ARG,Support for education and training,0
+2000,AUS,Total,0
+2000,AUS,Port and community infrastructure,0
+2000,AUS,Port and community infrastructure,0
+2000,AUS,Direct fisher income support,0
+2000,AUS,Buyback of vessel and license,0
+2000,AUS,Support for education and training,0
+2001,AUS,Total,0
+2001,AUS,Port and community infrastructure,0
+2001,AUS,Port and community infrastructure,0
+2001,AUS,Direct fisher income support,0
+2001,AUS,Buyback of vessel and license,0
+2001,AUS,Support for education and training,0
+2002,AUS,Total,0
+2002,AUS,Port and community infrastructure,0
+2002,AUS,Port and community infrastructure,0
+2002,AUS,Direct fisher income support,0
+2002,AUS,Buyback of vessel and license,0
+2002,AUS,Support for education and training,0
+2003,AUS,Total,0
+2003,AUS,Port and community infrastructure,0
+2003,AUS,Port and community infrastructure,0
+2003,AUS,Direct fisher income support,0
+2003,AUS,Buyback of vessel and license,0
+2003,AUS,Support for education and training,0
+2004,AUS,Total,0
+2004,AUS,Port and community infrastructure,0
+2004,AUS,Port and community infrastructure,0
+2004,AUS,Direct fisher income support,0
+2004,AUS,Buyback of vessel and license,0
+2004,AUS,Support for education and training,0
+2005,AUS,Total,0
+2005,AUS,Port and community infrastructure,0
+2005,AUS,Port and community infrastructure,0
+2005,AUS,Direct fisher income support,0
+2005,AUS,Buyback of vessel and license,0
+2005,AUS,Support for education and training,0
+2006,AUS,Total,0
+2006,AUS,Port and community infrastructure,0
+2006,AUS,Port and community infrastructure,0
+2006,AUS,Direct fisher income support,0
+2006,AUS,Buyback of vessel and license,0
+2006,AUS,Support for education and training,0
+2007,AUS,Total,0
+2007,AUS,Port and community infrastructure,0
+2007,AUS,Port and community infrastructure,0
+2007,AUS,Direct fisher income support,0
+2007,AUS,Buyback of vessel and license,0
+2007,AUS,Support for education and training,0
+2008,AUS,Total,0
+2008,AUS,Port and community infrastructure,0
+2008,AUS,Port and community infrastructure,0
+2008,AUS,Direct fisher income support,0
+2008,AUS,Buyback of vessel and license,0
+2008,AUS,Support for education and training,0
+2009,AUS,Total,13
+2009,AUS,Port and community infrastructure,0
+2009,AUS,Port and community infrastructure,0
+2009,AUS,Direct fisher income support,0
+2009,AUS,Support for education and training,0
+2009,AUS,Buyback of vessel and license,13
+2010,AUS,Total,2.4
+2010,AUS,Port and community infrastructure,0
+2010,AUS,Port and community infrastructure,0
+2010,AUS,Direct fisher income support,0
+2010,AUS,Support for education and training,0
+2010,AUS,Buyback of vessel and license,2.4
+2011,AUS,Total,8.5
+2011,AUS,Port and community infrastructure,0
+2011,AUS,Port and community infrastructure,0
+2011,AUS,Direct fisher income support,0
+2011,AUS,Support for education and training,0
+2011,AUS,Buyback of vessel and license,8.5
+2012,AUS,Total,5.6
+2012,AUS,Port and community infrastructure,0
+2012,AUS,Port and community infrastructure,0
+2012,AUS,Direct fisher income support,0
+2012,AUS,Support for education and training,0
+2012,AUS,Buyback of vessel and license,5.6
+2013,AUS,Total,20
+2013,AUS,Port and community infrastructure,0
+2013,AUS,Port and community infrastructure,0
+2013,AUS,Direct fisher income support,0
+2013,AUS,Support for education and training,0.96
+2013,AUS,Buyback of vessel and license,19
+2014,AUS,Total,7.9
+2014,AUS,Port and community infrastructure,0
+2014,AUS,Port and community infrastructure,0
+2014,AUS,Direct fisher income support,0
+2014,AUS,Support for education and training,0.38
+2014,AUS,Buyback of vessel and license,7.5
+2015,AUS,Total,27
+2015,AUS,Port and community infrastructure,0
+2015,AUS,Port and community infrastructure,0
+2015,AUS,Direct fisher income support,0.07
+2015,AUS,Support for education and training,0.62
+2015,AUS,Buyback of vessel and license,26
+2016,AUS,Total,3.7
+2016,AUS,Port and community infrastructure,0
+2016,AUS,Direct fisher income support,0.28
+2016,AUS,Port and community infrastructure,0.85
+2016,AUS,Support for education and training,0.86
+2016,AUS,Buyback of vessel and license,1.7
+2017,AUS,Total,21
+2017,AUS,Port and community infrastructure,0
+2017,AUS,Direct fisher income support,0.16
+2017,AUS,Port and community infrastructure,0.88
+2017,AUS,Support for education and training,7.7
+2017,AUS,Buyback of vessel and license,12
+2018,AUS,Total,12
+2018,AUS,Direct fisher income support,0
+2018,AUS,Port and community infrastructure,0
+2018,AUS,Port and community infrastructure,0.37
+2018,AUS,Support for education and training,1.5
+2018,AUS,Buyback of vessel and license,10
+2019,AUS,Total,2.1
+2019,AUS,Port and community infrastructure,0
+2019,AUS,Port and community infrastructure,0
+2019,AUS,Support for education and training,0
+2019,AUS,Buyback of vessel and license,0.22
+2019,AUS,Direct fisher income support,1.9
+2020,AUS,Total,1.5
+2020,AUS,Port and community infrastructure,0
+2020,AUS,Port and community infrastructure,0
+2020,AUS,Support for education and training,0
+2020,AUS,Buyback of vessel and license,0.3
+2020,AUS,Direct fisher income support,1.2
+2021,AUS,Total,10
+2021,AUS,Port and community infrastructure,0
+2021,AUS,Port and community infrastructure,0
+2021,AUS,Direct fisher income support,0
+2021,AUS,Support for education and training,0.27
+2021,AUS,Buyback of vessel and license,10
+2022,AUS,Total,2.7
+2022,AUS,Port and community infrastructure,0
+2022,AUS,Port and community infrastructure,0
+2022,AUS,Support for education and training,0.25
+2022,AUS,Direct fisher income support,0.6
+2022,AUS,Buyback of vessel and license,1.9
+2000,BEL,Total,0
+2000,BEL,Port and community infrastructure,0
+2000,BEL,Buyback of vessel and license,0
+2000,BEL,Support for education and training,0
+2001,BEL,Total,0
+2001,BEL,Port and community infrastructure,0
+2001,BEL,Buyback of vessel and license,0
+2001,BEL,Support for education and training,0
+2002,BEL,Total,0
+2002,BEL,Port and community infrastructure,0
+2002,BEL,Buyback of vessel and license,0
+2002,BEL,Support for education and training,0
+2003,BEL,Total,0
+2003,BEL,Port and community infrastructure,0
+2003,BEL,Buyback of vessel and license,0
+2003,BEL,Support for education and training,0
+2004,BEL,Total,0
+2004,BEL,Port and community infrastructure,0
+2004,BEL,Buyback of vessel and license,0
+2004,BEL,Support for education and training,0
+2005,BEL,Total,0
+2005,BEL,Port and community infrastructure,0
+2005,BEL,Buyback of vessel and license,0
+2005,BEL,Support for education and training,0
+2006,BEL,Total,0
+2006,BEL,Port and community infrastructure,0
+2006,BEL,Buyback of vessel and license,0
+2006,BEL,Support for education and training,0
+2007,BEL,Total,0
+2007,BEL,Port and community infrastructure,0
+2007,BEL,Buyback of vessel and license,0
+2007,BEL,Support for education and training,0
+2008,BEL,Total,0
+2008,BEL,Port and community infrastructure,0
+2008,BEL,Buyback of vessel and license,0
+2008,BEL,Support for education and training,0
+2009,BEL,Total,11
+2009,BEL,Support for education and training,0
+2009,BEL,Port and community infrastructure,0.1
+2009,BEL,Buyback of vessel and license,11
+2010,BEL,Total,0.4
+2010,BEL,Buyback of vessel and license,0
+2010,BEL,Support for education and training,0
+2010,BEL,Port and community infrastructure,0.4
+2011,BEL,Total,0.52
+2011,BEL,Buyback of vessel and license,0
+2011,BEL,Support for education and training,0
+2011,BEL,Port and community infrastructure,0.52
+2012,BEL,Total,2.8
+2012,BEL,Buyback of vessel and license,0
+2012,BEL,Port and community infrastructure,0.23
+2012,BEL,Support for education and training,2.6
+2013,BEL,Total,1.7
+2013,BEL,Buyback of vessel and license,0
+2013,BEL,Port and community infrastructure,0.36
+2013,BEL,Support for education and training,1.3
+2014,BEL,Total,3
+2014,BEL,Buyback of vessel and license,0
+2014,BEL,Support for education and training,0.25
+2014,BEL,Port and community infrastructure,2.7
+2015,BEL,Total,1.9
+2015,BEL,Buyback of vessel and license,0
+2015,BEL,Support for education and training,0.67
+2015,BEL,Port and community infrastructure,1.2
+2016,BEL,Total,0.06
+2016,BEL,Buyback of vessel and license,0
+2016,BEL,Support for education and training,0
+2016,BEL,Port and community infrastructure,0.06
+2017,BEL,Total,0.45
+2017,BEL,Buyback of vessel and license,0
+2017,BEL,Support for education and training,0
+2017,BEL,Port and community infrastructure,0.45
+2018,BEL,Total,1.9
+2018,BEL,Buyback of vessel and license,0
+2018,BEL,Support for education and training,0
+2018,BEL,Port and community infrastructure,1.9
+2019,BEL,Total,0
+2019,BEL,Port and community infrastructure,0
+2019,BEL,Buyback of vessel and license,0
+2019,BEL,Support for education and training,0
+2020,BEL,Total,0.06
+2020,BEL,Buyback of vessel and license,0
+2020,BEL,Support for education and training,0
+2020,BEL,Port and community infrastructure,0.06
+2021,BEL,Total,0.24
+2021,BEL,Buyback of vessel and license,0
+2021,BEL,Support for education and training,0
+2021,BEL,Port and community infrastructure,0.24
+2022,BEL,Total,0
+2022,BEL,Port and community infrastructure,0
+2022,BEL,Buyback of vessel and license,0
+2022,BEL,Support for education and training,0
+2000,BGR,Total,0
+2000,BGR,Port and community infrastructure,0
+2000,BGR,Buyback of vessel and license,0
+2000,BGR,Support for education and training,0
+2001,BGR,Total,0
+2001,BGR,Port and community infrastructure,0
+2001,BGR,Buyback of vessel and license,0
+2001,BGR,Support for education and training,0
+2002,BGR,Total,0
+2002,BGR,Port and community infrastructure,0
+2002,BGR,Buyback of vessel and license,0
+2002,BGR,Support for education and training,0
+2003,BGR,Total,0
+2003,BGR,Port and community infrastructure,0
+2003,BGR,Buyback of vessel and license,0
+2003,BGR,Support for education and training,0
+2004,BGR,Total,0
+2004,BGR,Port and community infrastructure,0
+2004,BGR,Buyback of vessel and license,0
+2004,BGR,Support for education and training,0
+2005,BGR,Total,0
+2005,BGR,Port and community infrastructure,0
+2005,BGR,Buyback of vessel and license,0
+2005,BGR,Support for education and training,0
+2006,BGR,Total,0
+2006,BGR,Port and community infrastructure,0
+2006,BGR,Buyback of vessel and license,0
+2006,BGR,Support for education and training,0
+2007,BGR,Total,0
+2007,BGR,Port and community infrastructure,0
+2007,BGR,Buyback of vessel and license,0
+2007,BGR,Support for education and training,0
+2008,BGR,Total,0
+2008,BGR,Port and community infrastructure,0
+2008,BGR,Buyback of vessel and license,0
+2008,BGR,Support for education and training,0
+2009,BGR,Total,0
+2009,BGR,Port and community infrastructure,0
+2009,BGR,Buyback of vessel and license,0
+2009,BGR,Support for education and training,0
+2010,BGR,Total,0
+2010,BGR,Port and community infrastructure,0
+2010,BGR,Buyback of vessel and license,0
+2010,BGR,Support for education and training,0
+2011,BGR,Total,2.5
+2011,BGR,Port and community infrastructure,0
+2011,BGR,Buyback of vessel and license,1.1
+2011,BGR,Support for education and training,1.4
+2012,BGR,Total,2.8
+2012,BGR,Port and community infrastructure,0
+2012,BGR,Buyback of vessel and license,1.3
+2012,BGR,Support for education and training,1.5
+2013,BGR,Total,2.6
+2013,BGR,Port and community infrastructure,0
+2013,BGR,Support for education and training,0.25
+2013,BGR,Buyback of vessel and license,2.4
+2014,BGR,Total,16
+2014,BGR,Buyback of vessel and license,1.1
+2014,BGR,Support for education and training,5.2
+2014,BGR,Port and community infrastructure,9.2
+2015,BGR,Total,18
+2015,BGR,Buyback of vessel and license,0.13
+2015,BGR,Port and community infrastructure,8.1
+2015,BGR,Support for education and training,9.7
+2016,BGR,Total,3.7
+2016,BGR,Buyback of vessel and license,0
+2016,BGR,Port and community infrastructure,0.09
+2016,BGR,Support for education and training,3.6
+2017,BGR,Total,0.61
+2017,BGR,Port and community infrastructure,0
+2017,BGR,Buyback of vessel and license,0.28
+2017,BGR,Support for education and training,0.33
+2018,BGR,Total,8.7
+2018,BGR,Buyback of vessel and license,0
+2018,BGR,Support for education and training,3.6
+2018,BGR,Port and community infrastructure,5.1
+2019,BGR,Total,12
+2019,BGR,Buyback of vessel and license,0
+2019,BGR,Support for education and training,3.8
+2019,BGR,Port and community infrastructure,8.7
+2020,BGR,Total,1.1
+2020,BGR,Buyback of vessel and license,0
+2020,BGR,Support for education and training,0
+2020,BGR,Port and community infrastructure,1.1
+2021,BGR,Total,0
+2021,BGR,Port and community infrastructure,0
+2021,BGR,Buyback of vessel and license,0
+2021,BGR,Support for education and training,0
+2022,BGR,Total,5.6
+2022,BGR,Buyback of vessel and license,0
+2022,BGR,Port and community infrastructure,1.2
+2022,BGR,Support for education and training,4.4
+2000,BRA,Total,0
+2000,BRA,Port and community infrastructure,0
+2000,BRA,Direct fisher income support,0
+2000,BRA,Support for education and training,0
+2001,BRA,Total,0
+2001,BRA,Port and community infrastructure,0
+2001,BRA,Direct fisher income support,0
+2001,BRA,Support for education and training,0
+2002,BRA,Total,0
+2002,BRA,Port and community infrastructure,0
+2002,BRA,Direct fisher income support,0
+2002,BRA,Support for education and training,0
+2003,BRA,Total,0
+2003,BRA,Port and community infrastructure,0
+2003,BRA,Direct fisher income support,0
+2003,BRA,Support for education and training,0
+2004,BRA,Total,0
+2004,BRA,Port and community infrastructure,0
+2004,BRA,Direct fisher income support,0
+2004,BRA,Support for education and training,0
+2005,BRA,Total,0
+2005,BRA,Port and community infrastructure,0
+2005,BRA,Direct fisher income support,0
+2005,BRA,Support for education and training,0
+2006,BRA,Total,0
+2006,BRA,Port and community infrastructure,0
+2006,BRA,Direct fisher income support,0
+2006,BRA,Support for education and training,0
+2007,BRA,Total,0
+2007,BRA,Port and community infrastructure,0
+2007,BRA,Direct fisher income support,0
+2007,BRA,Support for education and training,0
+2008,BRA,Total,0
+2008,BRA,Port and community infrastructure,0
+2008,BRA,Direct fisher income support,0
+2008,BRA,Support for education and training,0
+2009,BRA,Total,0
+2009,BRA,Port and community infrastructure,0
+2009,BRA,Direct fisher income support,0
+2009,BRA,Support for education and training,0
+2010,BRA,Total,0
+2010,BRA,Port and community infrastructure,0
+2010,BRA,Direct fisher income support,0
+2010,BRA,Support for education and training,0
+2011,BRA,Total,0
+2011,BRA,Port and community infrastructure,0
+2011,BRA,Direct fisher income support,0
+2011,BRA,Support for education and training,0
+2012,BRA,Total,879
+2012,BRA,Support for education and training,7
+2012,BRA,Port and community infrastructure,46
+2012,BRA,Direct fisher income support,827
+2013,BRA,Total,972
+2013,BRA,Support for education and training,0.25
+2013,BRA,Port and community infrastructure,64
+2013,BRA,Direct fisher income support,908
+2014,BRA,Total,1158
+2014,BRA,Support for education and training,0.38
+2014,BRA,Port and community infrastructure,125
+2014,BRA,Direct fisher income support,1032
+2015,BRA,Total,920
+2015,BRA,Support for education and training,0.45
+2015,BRA,Port and community infrastructure,155
+2015,BRA,Direct fisher income support,765
+2016,BRA,Total,411
+2016,BRA,Support for education and training,1
+2016,BRA,Port and community infrastructure,12
+2016,BRA,Direct fisher income support,399
+2017,BRA,Total,683
+2017,BRA,Support for education and training,0.16
+2017,BRA,Port and community infrastructure,8.5
+2017,BRA,Direct fisher income support,674
+2018,BRA,Total,712
+2018,BRA,Support for education and training,0
+2018,BRA,Port and community infrastructure,11
+2018,BRA,Direct fisher income support,702
+2019,BRA,Total,577
+2019,BRA,Support for education and training,0.25
+2019,BRA,Port and community infrastructure,4
+2019,BRA,Direct fisher income support,573
+2020,BRA,Total,648
+2020,BRA,Port and community infrastructure,0
+2020,BRA,Support for education and training,0
+2020,BRA,Direct fisher income support,648
+2021,BRA,Total,674
+2021,BRA,Support for education and training,0
+2021,BRA,Port and community infrastructure,6.3
+2021,BRA,Direct fisher income support,668
+2022,BRA,Total,731
+2022,BRA,Support for education and training,0
+2022,BRA,Port and community infrastructure,1.8
+2022,BRA,Direct fisher income support,730
+2000,CAN,Total,0
+2000,CAN,Port and community infrastructure,0
+2000,CAN,Port and community infrastructure,0
+2000,CAN,Direct fisher income support,0
+2001,CAN,Total,0
+2001,CAN,Port and community infrastructure,0
+2001,CAN,Port and community infrastructure,0
+2001,CAN,Direct fisher income support,0
+2002,CAN,Total,0
+2002,CAN,Port and community infrastructure,0
+2002,CAN,Port and community infrastructure,0
+2002,CAN,Direct fisher income support,0
+2003,CAN,Total,0
+2003,CAN,Port and community infrastructure,0
+2003,CAN,Port and community infrastructure,0
+2003,CAN,Direct fisher income support,0
+2004,CAN,Total,0
+2004,CAN,Port and community infrastructure,0
+2004,CAN,Port and community infrastructure,0
+2004,CAN,Direct fisher income support,0
+2005,CAN,Total,0
+2005,CAN,Port and community infrastructure,0
+2005,CAN,Port and community infrastructure,0
+2005,CAN,Direct fisher income support,0
+2006,CAN,Total,0
+2006,CAN,Port and community infrastructure,0
+2006,CAN,Port and community infrastructure,0
+2006,CAN,Direct fisher income support,0
+2007,CAN,Total,0
+2007,CAN,Port and community infrastructure,0
+2007,CAN,Port and community infrastructure,0
+2007,CAN,Direct fisher income support,0
+2008,CAN,Total,323
+2008,CAN,Port and community infrastructure,0
+2008,CAN,Port and community infrastructure,92
+2008,CAN,Direct fisher income support,231
+2009,CAN,Total,414
+2009,CAN,Port and community infrastructure,0
+2009,CAN,Port and community infrastructure,191
+2009,CAN,Direct fisher income support,222
+2010,CAN,Total,432
+2010,CAN,Port and community infrastructure,0
+2010,CAN,Port and community infrastructure,198
+2010,CAN,Direct fisher income support,235
+2011,CAN,Total,424
+2011,CAN,Port and community infrastructure,0
+2011,CAN,Port and community infrastructure,162
+2011,CAN,Direct fisher income support,262
+2012,CAN,Total,362
+2012,CAN,Port and community infrastructure,0.59
+2012,CAN,Port and community infrastructure,109
+2012,CAN,Direct fisher income support,253
+2013,CAN,Total,334
+2013,CAN,Port and community infrastructure,0.57
+2013,CAN,Port and community infrastructure,93
+2013,CAN,Direct fisher income support,241
+2014,CAN,Total,324
+2014,CAN,Port and community infrastructure,0.71
+2014,CAN,Port and community infrastructure,92
+2014,CAN,Direct fisher income support,231
+2015,CAN,Total,383
+2015,CAN,Port and community infrastructure,0.64
+2015,CAN,Port and community infrastructure,169
+2015,CAN,Direct fisher income support,213
+2016,CAN,Total,431
+2016,CAN,Port and community infrastructure,0.61
+2016,CAN,Direct fisher income support,213
+2016,CAN,Port and community infrastructure,217
+2017,CAN,Total,393
+2017,CAN,Port and community infrastructure,0.8
+2017,CAN,Port and community infrastructure,161
+2017,CAN,Direct fisher income support,231
+2018,CAN,Total,360
+2018,CAN,Port and community infrastructure,0.71
+2018,CAN,Port and community infrastructure,130
+2018,CAN,Direct fisher income support,230
+2019,CAN,Total,404
+2019,CAN,Port and community infrastructure,0.68
+2019,CAN,Port and community infrastructure,174
+2019,CAN,Direct fisher income support,229
+2020,CAN,Total,460
+2020,CAN,Port and community infrastructure,0.78
+2020,CAN,Port and community infrastructure,121
+2020,CAN,Direct fisher income support,338
+2021,CAN,Total,429
+2021,CAN,Port and community infrastructure,0.92
+2021,CAN,Port and community infrastructure,119
+2021,CAN,Direct fisher income support,309
+2022,CAN,Total,482
+2022,CAN,Port and community infrastructure,0.92
+2022,CAN,Port and community infrastructure,186
+2022,CAN,Direct fisher income support,296
+2000,CHL,Total,0
+2000,CHL,Port and community infrastructure,0
+2000,CHL,Support for education and training,0
+2001,CHL,Total,0
+2001,CHL,Port and community infrastructure,0
+2001,CHL,Support for education and training,0
+2002,CHL,Total,0
+2002,CHL,Port and community infrastructure,0
+2002,CHL,Support for education and training,0
+2003,CHL,Total,0
+2003,CHL,Port and community infrastructure,0
+2003,CHL,Support for education and training,0
+2004,CHL,Total,0
+2004,CHL,Port and community infrastructure,0
+2004,CHL,Support for education and training,0
+2005,CHL,Total,0
+2005,CHL,Port and community infrastructure,0
+2005,CHL,Support for education and training,0
+2006,CHL,Total,0
+2006,CHL,Port and community infrastructure,0
+2006,CHL,Support for education and training,0
+2007,CHL,Total,0
+2007,CHL,Port and community infrastructure,0
+2007,CHL,Support for education and training,0
+2008,CHL,Total,0
+2008,CHL,Port and community infrastructure,0
+2008,CHL,Support for education and training,0
+2009,CHL,Total,0
+2009,CHL,Port and community infrastructure,0
+2009,CHL,Support for education and training,0
+2010,CHL,Total,2.9
+2010,CHL,Support for education and training,0.79
+2010,CHL,Port and community infrastructure,2.1
+2011,CHL,Total,2.2
+2011,CHL,Port and community infrastructure,0.99
+2011,CHL,Support for education and training,1.2
+2012,CHL,Total,6.8
+2012,CHL,Support for education and training,1.5
+2012,CHL,Port and community infrastructure,5.3
+2013,CHL,Total,2.8
+2013,CHL,Support for education and training,1.2
+2013,CHL,Port and community infrastructure,1.6
+2014,CHL,Total,2.7
+2014,CHL,Port and community infrastructure,1.2
+2014,CHL,Support for education and training,1.5
+2015,CHL,Total,10
+2015,CHL,Support for education and training,5.1
+2015,CHL,Port and community infrastructure,5.2
+2016,CHL,Total,10
+2016,CHL,Support for education and training,2.4
+2016,CHL,Port and community infrastructure,7.9
+2017,CHL,Total,9.3
+2017,CHL,Support for education and training,2
+2017,CHL,Port and community infrastructure,7.3
+2018,CHL,Total,10
+2018,CHL,Support for education and training,2.8
+2018,CHL,Port and community infrastructure,7.2
+2019,CHL,Total,5
+2019,CHL,Port and community infrastructure,2.4
+2019,CHL,Support for education and training,2.6
+2020,CHL,Total,2
+2020,CHL,Support for education and training,0
+2020,CHL,Port and community infrastructure,2
+2021,CHL,Total,3.4
+2021,CHL,Support for education and training,0
+2021,CHL,Port and community infrastructure,3.4
+2022,CHL,Total,2.2
+2022,CHL,Support for education and training,0
+2022,CHL,Port and community infrastructure,2.2
+2000,CHN,Total,0
+2000,CHN,Port and community infrastructure,0
+2000,CHN,Port and community infrastructure,0
+2000,CHN,Direct fisher income support,0
+2000,CHN,Buyback of vessel and license,0
+2001,CHN,Total,0
+2001,CHN,Port and community infrastructure,0
+2001,CHN,Port and community infrastructure,0
+2001,CHN,Direct fisher income support,0
+2001,CHN,Buyback of vessel and license,0
+2002,CHN,Total,0
+2002,CHN,Port and community infrastructure,0
+2002,CHN,Port and community infrastructure,0
+2002,CHN,Direct fisher income support,0
+2002,CHN,Buyback of vessel and license,0
+2003,CHN,Total,0
+2003,CHN,Port and community infrastructure,0
+2003,CHN,Port and community infrastructure,0
+2003,CHN,Direct fisher income support,0
+2003,CHN,Buyback of vessel and license,0
+2004,CHN,Total,0
+2004,CHN,Port and community infrastructure,0
+2004,CHN,Port and community infrastructure,0
+2004,CHN,Direct fisher income support,0
+2004,CHN,Buyback of vessel and license,0
+2005,CHN,Total,0
+2005,CHN,Port and community infrastructure,0
+2005,CHN,Port and community infrastructure,0
+2005,CHN,Direct fisher income support,0
+2005,CHN,Buyback of vessel and license,0
+2006,CHN,Total,0
+2006,CHN,Port and community infrastructure,0
+2006,CHN,Port and community infrastructure,0
+2006,CHN,Direct fisher income support,0
+2006,CHN,Buyback of vessel and license,0
+2007,CHN,Total,0
+2007,CHN,Port and community infrastructure,0
+2007,CHN,Port and community infrastructure,0
+2007,CHN,Direct fisher income support,0
+2007,CHN,Buyback of vessel and license,0
+2008,CHN,Total,0
+2008,CHN,Port and community infrastructure,0
+2008,CHN,Port and community infrastructure,0
+2008,CHN,Direct fisher income support,0
+2008,CHN,Buyback of vessel and license,0
+2009,CHN,Total,53
+2009,CHN,Port and community infrastructure,0
+2009,CHN,Buyback of vessel and license,4
+2009,CHN,Direct fisher income support,6.3
+2009,CHN,Port and community infrastructure,43
+2010,CHN,Total,53
+2010,CHN,Port and community infrastructure,0
+2010,CHN,Buyback of vessel and license,2.7
+2010,CHN,Direct fisher income support,9.8
+2010,CHN,Port and community infrastructure,40
+2011,CHN,Total,133
+2011,CHN,Port and community infrastructure,0
+2011,CHN,Buyback of vessel and license,5
+2011,CHN,Port and community infrastructure,55
+2011,CHN,Direct fisher income support,73
+2012,CHN,Total,45
+2012,CHN,Port and community infrastructure,0
+2012,CHN,Buyback of vessel and license,1.2
+2012,CHN,Direct fisher income support,10
+2012,CHN,Port and community infrastructure,34
+2013,CHN,Total,96
+2013,CHN,Port and community infrastructure,0
+2013,CHN,Port and community infrastructure,0
+2013,CHN,Direct fisher income support,14
+2013,CHN,Buyback of vessel and license,81
+2014,CHN,Total,165
+2014,CHN,Port and community infrastructure,0
+2014,CHN,Direct fisher income support,19
+2014,CHN,Port and community infrastructure,65
+2014,CHN,Buyback of vessel and license,81
+2015,CHN,Total,496
+2015,CHN,Port and community infrastructure,0
+2015,CHN,Direct fisher income support,0
+2015,CHN,Buyback of vessel and license,80
+2015,CHN,Port and community infrastructure,416
+2016,CHN,Total,561
+2016,CHN,Port and community infrastructure,0
+2016,CHN,Direct fisher income support,0
+2016,CHN,Buyback of vessel and license,216
+2016,CHN,Port and community infrastructure,345
+2017,CHN,Total,530
+2017,CHN,Port and community infrastructure,0
+2017,CHN,Direct fisher income support,0
+2017,CHN,Port and community infrastructure,206
+2017,CHN,Buyback of vessel and license,325
+2018,CHN,Total,0
+2018,CHN,Port and community infrastructure,0
+2018,CHN,Port and community infrastructure,0
+2018,CHN,Direct fisher income support,0
+2018,CHN,Buyback of vessel and license,0
+2019,CHN,Total,2165
+2019,CHN,Port and community infrastructure,26
+2019,CHN,Port and community infrastructure,223
+2019,CHN,Buyback of vessel and license,944
+2019,CHN,Direct fisher income support,972
+2020,CHN,Total,3143
+2020,CHN,Port and community infrastructure,27
+2020,CHN,Port and community infrastructure,120
+2020,CHN,Direct fisher income support,1007
+2020,CHN,Buyback of vessel and license,1989
+2021,CHN,Total,1584
+2021,CHN,Port and community infrastructure,13
+2021,CHN,Buyback of vessel and license,231
+2021,CHN,Port and community infrastructure,250
+2021,CHN,Direct fisher income support,1090
+2022,CHN,Total,0
+2022,CHN,Port and community infrastructure,0
+2022,CHN,Port and community infrastructure,0
+2022,CHN,Direct fisher income support,0
+2022,CHN,Buyback of vessel and license,0
+2000,COL,Total,2.2
+2000,COL,Port and community infrastructure,0
+2000,COL,Support for education and training,2.2
+2001,COL,Total,0.61
+2001,COL,Port and community infrastructure,0
+2001,COL,Support for education and training,0.61
+2002,COL,Total,0.25
+2002,COL,Port and community infrastructure,0
+2002,COL,Support for education and training,0.25
+2003,COL,Total,0.24
+2003,COL,Port and community infrastructure,0.03
+2003,COL,Support for education and training,0.2
+2004,COL,Total,0.12
+2004,COL,Port and community infrastructure,0
+2004,COL,Support for education and training,0.12
+2005,COL,Total,0.04
+2005,COL,Port and community infrastructure,0
+2005,COL,Support for education and training,0.04
+2006,COL,Total,0.16
+2006,COL,Support for education and training,0.08
+2006,COL,Port and community infrastructure,0.08
+2007,COL,Total,3.4
+2007,COL,Support for education and training,1.6
+2007,COL,Port and community infrastructure,1.8
+2008,COL,Total,1.1
+2008,COL,Support for education and training,0.56
+2008,COL,Port and community infrastructure,0.56
+2009,COL,Total,1.2
+2009,COL,Support for education and training,0.58
+2009,COL,Port and community infrastructure,0.58
+2010,COL,Total,0.68
+2010,COL,Support for education and training,0.3
+2010,COL,Port and community infrastructure,0.38
+2011,COL,Total,1.9
+2011,COL,Port and community infrastructure,0.74
+2011,COL,Support for education and training,1.1
+2012,COL,Total,2.6
+2012,COL,Port and community infrastructure,0.93
+2012,COL,Support for education and training,1.6
+2013,COL,Total,4
+2013,COL,Support for education and training,0.56
+2013,COL,Port and community infrastructure,3.5
+2014,COL,Total,3
+2014,COL,Port and community infrastructure,1.3
+2014,COL,Support for education and training,1.7
+2015,COL,Total,2.1
+2015,COL,Port and community infrastructure,0.7
+2015,COL,Support for education and training,1.4
+2016,COL,Total,1.9
+2016,COL,Port and community infrastructure,0.56
+2016,COL,Support for education and training,1.3
+2017,COL,Total,2.6
+2017,COL,Port and community infrastructure,0.85
+2017,COL,Support for education and training,1.8
+2018,COL,Total,0
+2018,COL,Port and community infrastructure,0
+2018,COL,Support for education and training,0
+2019,COL,Total,3.9
+2019,COL,Port and community infrastructure,1.3
+2019,COL,Support for education and training,2.6
+2020,COL,Total,4.7
+2020,COL,Port and community infrastructure,0.12
+2020,COL,Support for education and training,4.6
+2021,COL,Total,2.8
+2021,COL,Port and community infrastructure,0
+2021,COL,Support for education and training,2.8
+2022,COL,Total,2.5
+2022,COL,Port and community infrastructure,0
+2022,COL,Support for education and training,2.5
+2000,CRI,Total,0
+2000,CRI,Port and community infrastructure,0
+2000,CRI,Direct fisher income support,0
+2000,CRI,Support for education and training,0
+2001,CRI,Total,0
+2001,CRI,Port and community infrastructure,0
+2001,CRI,Direct fisher income support,0
+2001,CRI,Support for education and training,0
+2002,CRI,Total,0
+2002,CRI,Port and community infrastructure,0
+2002,CRI,Direct fisher income support,0
+2002,CRI,Support for education and training,0
+2003,CRI,Total,0
+2003,CRI,Port and community infrastructure,0
+2003,CRI,Direct fisher income support,0
+2003,CRI,Support for education and training,0
+2004,CRI,Total,0.39
+2004,CRI,Port and community infrastructure,0
+2004,CRI,Support for education and training,0
+2004,CRI,Direct fisher income support,0.39
+2005,CRI,Total,0.55
+2005,CRI,Port and community infrastructure,0
+2005,CRI,Support for education and training,0
+2005,CRI,Direct fisher income support,0.55
+2006,CRI,Total,0.6
+2006,CRI,Port and community infrastructure,0
+2006,CRI,Support for education and training,0
+2006,CRI,Direct fisher income support,0.6
+2007,CRI,Total,0.58
+2007,CRI,Port and community infrastructure,0
+2007,CRI,Support for education and training,0
+2007,CRI,Direct fisher income support,0.58
+2008,CRI,Total,0.48
+2008,CRI,Port and community infrastructure,0
+2008,CRI,Support for education and training,0.06
+2008,CRI,Direct fisher income support,0.42
+2009,CRI,Total,0.56
+2009,CRI,Port and community infrastructure,0
+2009,CRI,Support for education and training,0.06
+2009,CRI,Direct fisher income support,0.5
+2010,CRI,Total,0.95
+2010,CRI,Port and community infrastructure,0.08
+2010,CRI,Support for education and training,0.15
+2010,CRI,Direct fisher income support,0.72
+2011,CRI,Total,2
+2011,CRI,Support for education and training,0.18
+2011,CRI,Port and community infrastructure,0.47
+2011,CRI,Direct fisher income support,1.3
+2012,CRI,Total,2
+2012,CRI,Port and community infrastructure,0.03
+2012,CRI,Support for education and training,0.17
+2012,CRI,Direct fisher income support,1.8
+2013,CRI,Total,2.2
+2013,CRI,Port and community infrastructure,0
+2013,CRI,Support for education and training,0.15
+2013,CRI,Direct fisher income support,2
+2014,CRI,Total,2.6
+2014,CRI,Port and community infrastructure,0
+2014,CRI,Support for education and training,0.2
+2014,CRI,Direct fisher income support,2.4
+2015,CRI,Total,2.7
+2015,CRI,Port and community infrastructure,0
+2015,CRI,Support for education and training,0.24
+2015,CRI,Direct fisher income support,2.5
+2016,CRI,Total,2.5
+2016,CRI,Port and community infrastructure,0
+2016,CRI,Support for education and training,0.21
+2016,CRI,Direct fisher income support,2.3
+2017,CRI,Total,2.9
+2017,CRI,Port and community infrastructure,0
+2017,CRI,Direct fisher income support,1.4
+2017,CRI,Support for education and training,1.5
+2018,CRI,Total,3.3
+2018,CRI,Port and community infrastructure,0
+2018,CRI,Direct fisher income support,0.86
+2018,CRI,Support for education and training,2.5
+2019,CRI,Total,3.9
+2019,CRI,Port and community infrastructure,0
+2019,CRI,Direct fisher income support,1.8
+2019,CRI,Support for education and training,2.1
+2020,CRI,Total,3.1
+2020,CRI,Port and community infrastructure,0
+2020,CRI,Support for education and training,1.5
+2020,CRI,Direct fisher income support,1.6
+2021,CRI,Total,2.2
+2021,CRI,Port and community infrastructure,0
+2021,CRI,Support for education and training,0.14
+2021,CRI,Direct fisher income support,2
+2022,CRI,Total,2.5
+2022,CRI,Port and community infrastructure,0
+2022,CRI,Support for education and training,0.14
+2022,CRI,Direct fisher income support,2.3
+2000,DEU,Total,0
+2000,DEU,Port and community infrastructure,0
+2000,DEU,Port and community infrastructure,0
+2000,DEU,Direct fisher income support,0
+2000,DEU,Buyback of vessel and license,0
+2000,DEU,Support for education and training,0
+2001,DEU,Total,0
+2001,DEU,Port and community infrastructure,0
+2001,DEU,Port and community infrastructure,0
+2001,DEU,Direct fisher income support,0
+2001,DEU,Buyback of vessel and license,0
+2001,DEU,Support for education and training,0
+2002,DEU,Total,0
+2002,DEU,Port and community infrastructure,0
+2002,DEU,Port and community infrastructure,0
+2002,DEU,Direct fisher income support,0
+2002,DEU,Buyback of vessel and license,0
+2002,DEU,Support for education and training,0
+2003,DEU,Total,0
+2003,DEU,Port and community infrastructure,0
+2003,DEU,Port and community infrastructure,0
+2003,DEU,Direct fisher income support,0
+2003,DEU,Buyback of vessel and license,0
+2003,DEU,Support for education and training,0
+2004,DEU,Total,0
+2004,DEU,Port and community infrastructure,0
+2004,DEU,Port and community infrastructure,0
+2004,DEU,Direct fisher income support,0
+2004,DEU,Buyback of vessel and license,0
+2004,DEU,Support for education and training,0
+2005,DEU,Total,0
+2005,DEU,Port and community infrastructure,0
+2005,DEU,Port and community infrastructure,0
+2005,DEU,Direct fisher income support,0
+2005,DEU,Buyback of vessel and license,0
+2005,DEU,Support for education and training,0
+2006,DEU,Total,0
+2006,DEU,Port and community infrastructure,0
+2006,DEU,Port and community infrastructure,0
+2006,DEU,Direct fisher income support,0
+2006,DEU,Buyback of vessel and license,0
+2006,DEU,Support for education and training,0
+2007,DEU,Total,0
+2007,DEU,Port and community infrastructure,0
+2007,DEU,Port and community infrastructure,0
+2007,DEU,Direct fisher income support,0
+2007,DEU,Buyback of vessel and license,0
+2007,DEU,Support for education and training,0
+2008,DEU,Total,0
+2008,DEU,Port and community infrastructure,0
+2008,DEU,Port and community infrastructure,0
+2008,DEU,Direct fisher income support,0
+2008,DEU,Buyback of vessel and license,0
+2008,DEU,Support for education and training,0
+2009,DEU,Total,0
+2009,DEU,Port and community infrastructure,0
+2009,DEU,Port and community infrastructure,0
+2009,DEU,Direct fisher income support,0
+2009,DEU,Buyback of vessel and license,0
+2009,DEU,Support for education and training,0
+2010,DEU,Total,0
+2010,DEU,Port and community infrastructure,0
+2010,DEU,Port and community infrastructure,0
+2010,DEU,Direct fisher income support,0
+2010,DEU,Buyback of vessel and license,0
+2010,DEU,Support for education and training,0
+2011,DEU,Total,0
+2011,DEU,Port and community infrastructure,0
+2011,DEU,Port and community infrastructure,0
+2011,DEU,Direct fisher income support,0
+2011,DEU,Buyback of vessel and license,0
+2011,DEU,Support for education and training,0
+2012,DEU,Total,0
+2012,DEU,Port and community infrastructure,0
+2012,DEU,Port and community infrastructure,0
+2012,DEU,Direct fisher income support,0
+2012,DEU,Buyback of vessel and license,0
+2012,DEU,Support for education and training,0
+2013,DEU,Total,18
+2013,DEU,Port and community infrastructure,0
+2013,DEU,Buyback of vessel and license,0
+2013,DEU,Direct fisher income support,0.29
+2013,DEU,Support for education and training,0.73
+2013,DEU,Port and community infrastructure,17
+2014,DEU,Total,16
+2014,DEU,Direct fisher income support,-0.01
+2014,DEU,Port and community infrastructure,0
+2014,DEU,Buyback of vessel and license,0
+2014,DEU,Support for education and training,0.72
+2014,DEU,Port and community infrastructure,15
+2015,DEU,Total,13
+2015,DEU,Port and community infrastructure,0
+2015,DEU,Buyback of vessel and license,0
+2015,DEU,Direct fisher income support,0.06
+2015,DEU,Support for education and training,0.8
+2015,DEU,Port and community infrastructure,12
+2016,DEU,Total,0.06
+2016,DEU,Port and community infrastructure,0
+2016,DEU,Port and community infrastructure,0
+2016,DEU,Buyback of vessel and license,0
+2016,DEU,Support for education and training,0.03
+2016,DEU,Direct fisher income support,0.03
+2017,DEU,Total,2.6
+2017,DEU,Port and community infrastructure,0
+2017,DEU,Port and community infrastructure,0.43
+2017,DEU,Buyback of vessel and license,0.61
+2017,DEU,Direct fisher income support,0.72
+2017,DEU,Support for education and training,0.84
+2018,DEU,Total,9.6
+2018,DEU,Port and community infrastructure,0
+2018,DEU,Buyback of vessel and license,0.64
+2018,DEU,Port and community infrastructure,1.4
+2018,DEU,Support for education and training,2.8
+2018,DEU,Direct fisher income support,4.7
+2019,DEU,Total,5.1
+2019,DEU,Port and community infrastructure,0
+2019,DEU,Support for education and training,0.12
+2019,DEU,Buyback of vessel and license,0.3
+2019,DEU,Port and community infrastructure,1.4
+2019,DEU,Direct fisher income support,3.2
+2020,DEU,Total,7.8
+2020,DEU,Port and community infrastructure,0
+2020,DEU,Support for education and training,0.19
+2020,DEU,Buyback of vessel and license,0.31
+2020,DEU,Port and community infrastructure,2.9
+2020,DEU,Direct fisher income support,4.4
+2021,DEU,Total,11
+2021,DEU,Port and community infrastructure,0
+2021,DEU,Buyback of vessel and license,0.32
+2021,DEU,Support for education and training,0.34
+2021,DEU,Port and community infrastructure,4.2
+2021,DEU,Direct fisher income support,6.3
+2022,DEU,Total,14
+2022,DEU,Port and community infrastructure,0
+2022,DEU,Support for education and training,0.52
+2022,DEU,Buyback of vessel and license,2.8
+2022,DEU,Port and community infrastructure,4.1
+2022,DEU,Direct fisher income support,6.6
+2000,DNK,Total,0
+2000,DNK,Port and community infrastructure,0
+2000,DNK,Port and community infrastructure,0
+2000,DNK,Direct fisher income support,0
+2000,DNK,Buyback of vessel and license,0
+2000,DNK,Support for education and training,0
+2001,DNK,Total,0
+2001,DNK,Port and community infrastructure,0
+2001,DNK,Port and community infrastructure,0
+2001,DNK,Direct fisher income support,0
+2001,DNK,Buyback of vessel and license,0
+2001,DNK,Support for education and training,0
+2002,DNK,Total,0
+2002,DNK,Port and community infrastructure,0
+2002,DNK,Port and community infrastructure,0
+2002,DNK,Direct fisher income support,0
+2002,DNK,Buyback of vessel and license,0
+2002,DNK,Support for education and training,0
+2003,DNK,Total,0
+2003,DNK,Port and community infrastructure,0
+2003,DNK,Port and community infrastructure,0
+2003,DNK,Direct fisher income support,0
+2003,DNK,Buyback of vessel and license,0
+2003,DNK,Support for education and training,0
+2004,DNK,Total,0
+2004,DNK,Port and community infrastructure,0
+2004,DNK,Port and community infrastructure,0
+2004,DNK,Direct fisher income support,0
+2004,DNK,Buyback of vessel and license,0
+2004,DNK,Support for education and training,0
+2005,DNK,Total,0
+2005,DNK,Port and community infrastructure,0
+2005,DNK,Port and community infrastructure,0
+2005,DNK,Direct fisher income support,0
+2005,DNK,Buyback of vessel and license,0
+2005,DNK,Support for education and training,0
+2006,DNK,Total,0
+2006,DNK,Port and community infrastructure,0
+2006,DNK,Port and community infrastructure,0
+2006,DNK,Direct fisher income support,0
+2006,DNK,Buyback of vessel and license,0
+2006,DNK,Support for education and training,0
+2007,DNK,Total,0.06
+2007,DNK,Port and community infrastructure,0
+2007,DNK,Direct fisher income support,0
+2007,DNK,Buyback of vessel and license,0
+2007,DNK,Support for education and training,0
+2007,DNK,Port and community infrastructure,0.06
+2008,DNK,Total,13
+2008,DNK,Direct fisher income support,0
+2008,DNK,Buyback of vessel and license,0
+2008,DNK,Port and community infrastructure,0.13
+2008,DNK,Support for education and training,0.17
+2008,DNK,Port and community infrastructure,13
+2009,DNK,Total,3.1
+2009,DNK,Direct fisher income support,0
+2009,DNK,Buyback of vessel and license,0
+2009,DNK,Port and community infrastructure,0.25
+2009,DNK,Support for education and training,0.83
+2009,DNK,Port and community infrastructure,2
+2010,DNK,Total,6
+2010,DNK,Direct fisher income support,0
+2010,DNK,Buyback of vessel and license,0.02
+2010,DNK,Port and community infrastructure,1.4
+2010,DNK,Port and community infrastructure,2.2
+2010,DNK,Support for education and training,2.5
+2011,DNK,Total,9.3
+2011,DNK,Direct fisher income support,0
+2011,DNK,Port and community infrastructure,1.3
+2011,DNK,Buyback of vessel and license,1.8
+2011,DNK,Port and community infrastructure,2.3
+2011,DNK,Support for education and training,3.9
+2012,DNK,Total,7.1
+2012,DNK,Direct fisher income support,0
+2012,DNK,Buyback of vessel and license,0
+2012,DNK,Port and community infrastructure,0.44
+2012,DNK,Port and community infrastructure,3.3
+2012,DNK,Support for education and training,3.4
+2013,DNK,Total,7.4
+2013,DNK,Direct fisher income support,0
+2013,DNK,Buyback of vessel and license,0
+2013,DNK,Port and community infrastructure,0.48
+2013,DNK,Support for education and training,1.9
+2013,DNK,Port and community infrastructure,5
+2014,DNK,Total,17
+2014,DNK,Direct fisher income support,0
+2014,DNK,Buyback of vessel and license,0
+2014,DNK,Port and community infrastructure,1.2
+2014,DNK,Support for education and training,6.6
+2014,DNK,Port and community infrastructure,8.7
+2015,DNK,Total,10
+2015,DNK,Port and community infrastructure,0
+2015,DNK,Direct fisher income support,0
+2015,DNK,Buyback of vessel and license,0
+2015,DNK,Port and community infrastructure,3.9
+2015,DNK,Support for education and training,6.4
+2016,DNK,Total,1.4
+2016,DNK,Port and community infrastructure,0
+2016,DNK,Port and community infrastructure,0
+2016,DNK,Direct fisher income support,0
+2016,DNK,Buyback of vessel and license,0
+2016,DNK,Support for education and training,1.4
+2017,DNK,Total,6.5
+2017,DNK,Port and community infrastructure,0
+2017,DNK,Buyback of vessel and license,0
+2017,DNK,Port and community infrastructure,1.9
+2017,DNK,Support for education and training,1.9
+2017,DNK,Direct fisher income support,2.7
+2018,DNK,Total,4.7
+2018,DNK,Port and community infrastructure,0
+2018,DNK,Buyback of vessel and license,0
+2018,DNK,Port and community infrastructure,0.6
+2018,DNK,Direct fisher income support,0.93
+2018,DNK,Support for education and training,3.2
+2019,DNK,Total,2.5
+2019,DNK,Port and community infrastructure,0
+2019,DNK,Buyback of vessel and license,0
+2019,DNK,Port and community infrastructure,0.01
+2019,DNK,Direct fisher income support,0.45
+2019,DNK,Support for education and training,2.1
+2020,DNK,Total,5.3
+2020,DNK,Port and community infrastructure,0
+2020,DNK,Buyback of vessel and license,0
+2020,DNK,Port and community infrastructure,0.14
+2020,DNK,Direct fisher income support,1.3
+2020,DNK,Support for education and training,3.8
+2021,DNK,Total,0
+2021,DNK,Port and community infrastructure,0
+2021,DNK,Port and community infrastructure,0
+2021,DNK,Direct fisher income support,0
+2021,DNK,Buyback of vessel and license,0
+2021,DNK,Support for education and training,0
+2022,DNK,Total,0
+2022,DNK,Port and community infrastructure,0
+2022,DNK,Port and community infrastructure,0
+2022,DNK,Direct fisher income support,0
+2022,DNK,Buyback of vessel and license,0
+2022,DNK,Support for education and training,0
+2000,ESP,Total,0
+2000,ESP,Port and community infrastructure,0
+2000,ESP,Direct fisher income support,0
+2000,ESP,Buyback of vessel and license,0
+2000,ESP,Support for education and training,0
+2001,ESP,Total,0
+2001,ESP,Port and community infrastructure,0
+2001,ESP,Direct fisher income support,0
+2001,ESP,Buyback of vessel and license,0
+2001,ESP,Support for education and training,0
+2002,ESP,Total,0
+2002,ESP,Port and community infrastructure,0
+2002,ESP,Direct fisher income support,0
+2002,ESP,Buyback of vessel and license,0
+2002,ESP,Support for education and training,0
+2003,ESP,Total,0
+2003,ESP,Port and community infrastructure,0
+2003,ESP,Direct fisher income support,0
+2003,ESP,Buyback of vessel and license,0
+2003,ESP,Support for education and training,0
+2004,ESP,Total,0
+2004,ESP,Port and community infrastructure,0
+2004,ESP,Direct fisher income support,0
+2004,ESP,Buyback of vessel and license,0
+2004,ESP,Support for education and training,0
+2005,ESP,Total,0
+2005,ESP,Port and community infrastructure,0
+2005,ESP,Direct fisher income support,0
+2005,ESP,Buyback of vessel and license,0
+2005,ESP,Support for education and training,0
+2006,ESP,Total,0
+2006,ESP,Port and community infrastructure,0
+2006,ESP,Direct fisher income support,0
+2006,ESP,Buyback of vessel and license,0
+2006,ESP,Support for education and training,0
+2007,ESP,Total,17
+2007,ESP,Support for education and training,0
+2007,ESP,Buyback of vessel and license,0.25
+2007,ESP,Port and community infrastructure,0.54
+2007,ESP,Direct fisher income support,16
+2008,ESP,Total,60
+2008,ESP,Support for education and training,0
+2008,ESP,Port and community infrastructure,5.9
+2008,ESP,Buyback of vessel and license,15
+2008,ESP,Direct fisher income support,39
+2009,ESP,Total,192
+2009,ESP,Support for education and training,1.6
+2009,ESP,Port and community infrastructure,22
+2009,ESP,Buyback of vessel and license,73
+2009,ESP,Direct fisher income support,96
+2010,ESP,Total,162
+2010,ESP,Support for education and training,0.2
+2010,ESP,Port and community infrastructure,19
+2010,ESP,Direct fisher income support,44
+2010,ESP,Buyback of vessel and license,99
+2011,ESP,Total,106
+2011,ESP,Support for education and training,4.8
+2011,ESP,Port and community infrastructure,20
+2011,ESP,Direct fisher income support,23
+2011,ESP,Buyback of vessel and license,58
+2012,ESP,Total,116
+2012,ESP,Support for education and training,6.4
+2012,ESP,Port and community infrastructure,9.2
+2012,ESP,Direct fisher income support,36
+2012,ESP,Buyback of vessel and license,64
+2013,ESP,Total,101
+2013,ESP,Port and community infrastructure,9.6
+2013,ESP,Support for education and training,12
+2013,ESP,Direct fisher income support,28
+2013,ESP,Buyback of vessel and license,51
+2014,ESP,Total,78
+2014,ESP,Direct fisher income support,1.2
+2014,ESP,Support for education and training,9.5
+2014,ESP,Port and community infrastructure,11
+2014,ESP,Buyback of vessel and license,57
+2015,ESP,Total,100
+2015,ESP,Direct fisher income support,5.4
+2015,ESP,Port and community infrastructure,17
+2015,ESP,Support for education and training,21
+2015,ESP,Buyback of vessel and license,57
+2016,ESP,Total,5.8
+2016,ESP,Buyback of vessel and license,0.24
+2016,ESP,Port and community infrastructure,0.5
+2016,ESP,Support for education and training,2.2
+2016,ESP,Direct fisher income support,2.9
+2017,ESP,Total,24
+2017,ESP,Direct fisher income support,1.4
+2017,ESP,Port and community infrastructure,2.3
+2017,ESP,Support for education and training,7.6
+2017,ESP,Buyback of vessel and license,13
+2018,ESP,Total,34
+2018,ESP,Direct fisher income support,2.2
+2018,ESP,Buyback of vessel and license,7.8
+2018,ESP,Port and community infrastructure,9
+2018,ESP,Support for education and training,15
+2019,ESP,Total,31
+2019,ESP,Buyback of vessel and license,3.2
+2019,ESP,Direct fisher income support,4.3
+2019,ESP,Port and community infrastructure,6.8
+2019,ESP,Support for education and training,17
+2020,ESP,Total,33
+2020,ESP,Buyback of vessel and license,0
+2020,ESP,Direct fisher income support,7.2
+2020,ESP,Port and community infrastructure,8.5
+2020,ESP,Support for education and training,18
+2021,ESP,Total,36
+2021,ESP,Buyback of vessel and license,0
+2021,ESP,Port and community infrastructure,8.3
+2021,ESP,Direct fisher income support,12
+2021,ESP,Support for education and training,16
+2022,ESP,Total,16
+2022,ESP,Buyback of vessel and license,0
+2022,ESP,Port and community infrastructure,4.8
+2022,ESP,Support for education and training,4.9
+2022,ESP,Direct fisher income support,5.8
+2000,EST,Total,0
+2000,EST,Port and community infrastructure,0
+2000,EST,Port and community infrastructure,0
+2000,EST,Direct fisher income support,0
+2000,EST,Buyback of vessel and license,0
+2000,EST,Support for education and training,0
+2001,EST,Total,0
+2001,EST,Port and community infrastructure,0
+2001,EST,Port and community infrastructure,0
+2001,EST,Direct fisher income support,0
+2001,EST,Buyback of vessel and license,0
+2001,EST,Support for education and training,0
+2002,EST,Total,0
+2002,EST,Port and community infrastructure,0
+2002,EST,Port and community infrastructure,0
+2002,EST,Direct fisher income support,0
+2002,EST,Buyback of vessel and license,0
+2002,EST,Support for education and training,0
+2003,EST,Total,0
+2003,EST,Port and community infrastructure,0
+2003,EST,Port and community infrastructure,0
+2003,EST,Direct fisher income support,0
+2003,EST,Buyback of vessel and license,0
+2003,EST,Support for education and training,0
+2004,EST,Total,0
+2004,EST,Port and community infrastructure,0
+2004,EST,Port and community infrastructure,0
+2004,EST,Direct fisher income support,0
+2004,EST,Buyback of vessel and license,0
+2004,EST,Support for education and training,0
+2005,EST,Total,0
+2005,EST,Port and community infrastructure,0
+2005,EST,Port and community infrastructure,0
+2005,EST,Direct fisher income support,0
+2005,EST,Buyback of vessel and license,0
+2005,EST,Support for education and training,0
+2006,EST,Total,0.02
+2006,EST,Port and community infrastructure,0
+2006,EST,Port and community infrastructure,0
+2006,EST,Direct fisher income support,0
+2006,EST,Buyback of vessel and license,0
+2006,EST,Support for education and training,0.02
+2007,EST,Total,0.03
+2007,EST,Port and community infrastructure,0
+2007,EST,Port and community infrastructure,0
+2007,EST,Direct fisher income support,0
+2007,EST,Buyback of vessel and license,0
+2007,EST,Support for education and training,0.03
+2008,EST,Total,0.07
+2008,EST,Port and community infrastructure,0
+2008,EST,Port and community infrastructure,0
+2008,EST,Direct fisher income support,0
+2008,EST,Buyback of vessel and license,0
+2008,EST,Support for education and training,0.07
+2009,EST,Total,5.6
+2009,EST,Port and community infrastructure,0
+2009,EST,Port and community infrastructure,0
+2009,EST,Direct fisher income support,0.02
+2009,EST,Support for education and training,0.7
+2009,EST,Buyback of vessel and license,4.9
+2010,EST,Total,4.5
+2010,EST,Port and community infrastructure,0
+2010,EST,Direct fisher income support,0.41
+2010,EST,Port and community infrastructure,0.59
+2010,EST,Support for education and training,1.1
+2010,EST,Buyback of vessel and license,2.4
+2011,EST,Total,7.6
+2011,EST,Port and community infrastructure,0
+2011,EST,Direct fisher income support,0.48
+2011,EST,Port and community infrastructure,0.63
+2011,EST,Buyback of vessel and license,1.6
+2011,EST,Support for education and training,4.9
+2012,EST,Total,8.8
+2012,EST,Port and community infrastructure,0
+2012,EST,Port and community infrastructure,0
+2012,EST,Buyback of vessel and license,0.32
+2012,EST,Direct fisher income support,0.67
+2012,EST,Support for education and training,7.8
+2013,EST,Total,11
+2013,EST,Port and community infrastructure,0
+2013,EST,Port and community infrastructure,0.04
+2013,EST,Direct fisher income support,1
+2013,EST,Buyback of vessel and license,4
+2013,EST,Support for education and training,5.8
+2014,EST,Total,17
+2014,EST,Port and community infrastructure,0
+2014,EST,Direct fisher income support,1.4
+2014,EST,Buyback of vessel and license,2.7
+2014,EST,Port and community infrastructure,5.1
+2014,EST,Support for education and training,7.3
+2015,EST,Total,4.1
+2015,EST,Port and community infrastructure,0
+2015,EST,Buyback of vessel and license,0
+2015,EST,Port and community infrastructure,0.18
+2015,EST,Direct fisher income support,0.76
+2015,EST,Support for education and training,3.2
+2016,EST,Total,1
+2016,EST,Port and community infrastructure,0
+2016,EST,Buyback of vessel and license,0
+2016,EST,Direct fisher income support,0.01
+2016,EST,Port and community infrastructure,0.42
+2016,EST,Support for education and training,0.6
+2017,EST,Total,4.2
+2017,EST,Port and community infrastructure,0
+2017,EST,Buyback of vessel and license,0
+2017,EST,Direct fisher income support,0.03
+2017,EST,Port and community infrastructure,0.21
+2017,EST,Support for education and training,3.9
+2018,EST,Total,6
+2018,EST,Port and community infrastructure,0
+2018,EST,Buyback of vessel and license,0
+2018,EST,Direct fisher income support,0.03
+2018,EST,Port and community infrastructure,0.22
+2018,EST,Support for education and training,5.8
+2019,EST,Total,6
+2019,EST,Port and community infrastructure,0
+2019,EST,Direct fisher income support,0
+2019,EST,Buyback of vessel and license,0
+2019,EST,Port and community infrastructure,0.21
+2019,EST,Support for education and training,5.7
+2020,EST,Total,4.7
+2020,EST,Port and community infrastructure,0
+2020,EST,Port and community infrastructure,0
+2020,EST,Direct fisher income support,0
+2020,EST,Buyback of vessel and license,0
+2020,EST,Support for education and training,4.7
+2021,EST,Total,6
+2021,EST,Port and community infrastructure,0
+2021,EST,Direct fisher income support,0
+2021,EST,Buyback of vessel and license,0
+2021,EST,Port and community infrastructure,1.2
+2021,EST,Support for education and training,4.8
+2022,EST,Total,4.7
+2022,EST,Port and community infrastructure,0
+2022,EST,Port and community infrastructure,0
+2022,EST,Direct fisher income support,0
+2022,EST,Buyback of vessel and license,0
+2022,EST,Support for education and training,4.7
+2000,FRA,Total,0
+2000,FRA,Port and community infrastructure,0
+2000,FRA,Direct fisher income support,0
+2000,FRA,Buyback of vessel and license,0
+2000,FRA,Support for education and training,0
+2001,FRA,Total,0
+2001,FRA,Port and community infrastructure,0
+2001,FRA,Direct fisher income support,0
+2001,FRA,Buyback of vessel and license,0
+2001,FRA,Support for education and training,0
+2002,FRA,Total,0
+2002,FRA,Port and community infrastructure,0
+2002,FRA,Direct fisher income support,0
+2002,FRA,Buyback of vessel and license,0
+2002,FRA,Support for education and training,0
+2003,FRA,Total,0
+2003,FRA,Port and community infrastructure,0
+2003,FRA,Direct fisher income support,0
+2003,FRA,Buyback of vessel and license,0
+2003,FRA,Support for education and training,0
+2004,FRA,Total,0
+2004,FRA,Port and community infrastructure,0
+2004,FRA,Direct fisher income support,0
+2004,FRA,Buyback of vessel and license,0
+2004,FRA,Support for education and training,0
+2005,FRA,Total,0
+2005,FRA,Port and community infrastructure,0
+2005,FRA,Direct fisher income support,0
+2005,FRA,Buyback of vessel and license,0
+2005,FRA,Support for education and training,0
+2006,FRA,Total,0
+2006,FRA,Port and community infrastructure,0
+2006,FRA,Direct fisher income support,0
+2006,FRA,Buyback of vessel and license,0
+2006,FRA,Support for education and training,0
+2007,FRA,Total,0
+2007,FRA,Port and community infrastructure,0
+2007,FRA,Direct fisher income support,0
+2007,FRA,Buyback of vessel and license,0
+2007,FRA,Support for education and training,0
+2008,FRA,Total,32
+2008,FRA,Port and community infrastructure,0
+2008,FRA,Support for education and training,0
+2008,FRA,Direct fisher income support,9.9
+2008,FRA,Buyback of vessel and license,22
+2009,FRA,Total,66
+2009,FRA,Support for education and training,0
+2009,FRA,Port and community infrastructure,0.24
+2009,FRA,Direct fisher income support,11
+2009,FRA,Buyback of vessel and license,55
+2010,FRA,Total,94
+2010,FRA,Support for education and training,0.05
+2010,FRA,Port and community infrastructure,4
+2010,FRA,Direct fisher income support,5.4
+2010,FRA,Buyback of vessel and license,85
+2011,FRA,Total,19
+2011,FRA,Direct fisher income support,0.34
+2011,FRA,Support for education and training,1.1
+2011,FRA,Port and community infrastructure,6
+2011,FRA,Buyback of vessel and license,11
+2012,FRA,Total,26
+2012,FRA,Direct fisher income support,0.21
+2012,FRA,Support for education and training,1.2
+2012,FRA,Port and community infrastructure,7
+2012,FRA,Buyback of vessel and license,18
+2013,FRA,Total,56
+2013,FRA,Support for education and training,1
+2013,FRA,Buyback of vessel and license,11
+2013,FRA,Direct fisher income support,17
+2013,FRA,Port and community infrastructure,27
+2014,FRA,Total,0
+2014,FRA,Port and community infrastructure,0
+2014,FRA,Direct fisher income support,0
+2014,FRA,Buyback of vessel and license,0
+2014,FRA,Support for education and training,0
+2015,FRA,Total,0
+2015,FRA,Port and community infrastructure,0
+2015,FRA,Direct fisher income support,0
+2015,FRA,Buyback of vessel and license,0
+2015,FRA,Support for education and training,0
+2016,FRA,Total,0
+2016,FRA,Port and community infrastructure,0
+2016,FRA,Direct fisher income support,0
+2016,FRA,Buyback of vessel and license,0
+2016,FRA,Support for education and training,0
+2017,FRA,Total,0.41
+2017,FRA,Port and community infrastructure,0
+2017,FRA,Direct fisher income support,0
+2017,FRA,Support for education and training,0
+2017,FRA,Buyback of vessel and license,0.41
+2018,FRA,Total,1.4
+2018,FRA,Port and community infrastructure,0
+2018,FRA,Support for education and training,0
+2018,FRA,Direct fisher income support,0.01
+2018,FRA,Buyback of vessel and license,1.4
+2019,FRA,Total,0.16
+2019,FRA,Port and community infrastructure,0
+2019,FRA,Direct fisher income support,0
+2019,FRA,Support for education and training,0
+2019,FRA,Buyback of vessel and license,0.16
+2020,FRA,Total,13
+2020,FRA,Port and community infrastructure,0
+2020,FRA,Buyback of vessel and license,0
+2020,FRA,Support for education and training,0
+2020,FRA,Direct fisher income support,13
+2021,FRA,Total,18
+2021,FRA,Port and community infrastructure,0
+2021,FRA,Buyback of vessel and license,0
+2021,FRA,Support for education and training,0
+2021,FRA,Direct fisher income support,18
+2022,FRA,Total,4.6
+2022,FRA,Port and community infrastructure,0
+2022,FRA,Buyback of vessel and license,0
+2022,FRA,Support for education and training,0
+2022,FRA,Direct fisher income support,4.6
+2000,GBR,Total,0
+2000,GBR,Port and community infrastructure,0
+2000,GBR,Direct fisher income support,0
+2000,GBR,Buyback of vessel and license,0
+2000,GBR,Support for education and training,0
+2001,GBR,Total,0
+2001,GBR,Port and community infrastructure,0
+2001,GBR,Direct fisher income support,0
+2001,GBR,Buyback of vessel and license,0
+2001,GBR,Support for education and training,0
+2002,GBR,Total,0
+2002,GBR,Port and community infrastructure,0
+2002,GBR,Direct fisher income support,0
+2002,GBR,Buyback of vessel and license,0
+2002,GBR,Support for education and training,0
+2003,GBR,Total,0
+2003,GBR,Port and community infrastructure,0
+2003,GBR,Direct fisher income support,0
+2003,GBR,Buyback of vessel and license,0
+2003,GBR,Support for education and training,0
+2004,GBR,Total,0
+2004,GBR,Port and community infrastructure,0
+2004,GBR,Direct fisher income support,0
+2004,GBR,Buyback of vessel and license,0
+2004,GBR,Support for education and training,0
+2005,GBR,Total,0
+2005,GBR,Port and community infrastructure,0
+2005,GBR,Direct fisher income support,0
+2005,GBR,Buyback of vessel and license,0
+2005,GBR,Support for education and training,0
+2006,GBR,Total,0
+2006,GBR,Port and community infrastructure,0
+2006,GBR,Direct fisher income support,0
+2006,GBR,Buyback of vessel and license,0
+2006,GBR,Support for education and training,0
+2007,GBR,Total,0
+2007,GBR,Port and community infrastructure,0
+2007,GBR,Direct fisher income support,0
+2007,GBR,Buyback of vessel and license,0
+2007,GBR,Support for education and training,0
+2008,GBR,Total,0
+2008,GBR,Port and community infrastructure,0
+2008,GBR,Direct fisher income support,0
+2008,GBR,Buyback of vessel and license,0
+2008,GBR,Support for education and training,0
+2009,GBR,Total,9.9
+2009,GBR,Support for education and training,0
+2009,GBR,Direct fisher income support,0.08
+2009,GBR,Port and community infrastructure,2.8
+2009,GBR,Buyback of vessel and license,7
+2010,GBR,Total,14
+2010,GBR,Support for education and training,0
+2010,GBR,Direct fisher income support,0.14
+2010,GBR,Buyback of vessel and license,0.69
+2010,GBR,Port and community infrastructure,13
+2011,GBR,Total,19
+2011,GBR,Support for education and training,0
+2011,GBR,Direct fisher income support,0.07
+2011,GBR,Port and community infrastructure,8.9
+2011,GBR,Buyback of vessel and license,10
+2012,GBR,Total,14
+2012,GBR,Buyback of vessel and license,0
+2012,GBR,Support for education and training,0
+2012,GBR,Direct fisher income support,0.09
+2012,GBR,Port and community infrastructure,14
+2013,GBR,Total,11
+2013,GBR,Buyback of vessel and license,0
+2013,GBR,Support for education and training,0
+2013,GBR,Direct fisher income support,0.06
+2013,GBR,Port and community infrastructure,11
+2014,GBR,Total,14
+2014,GBR,Buyback of vessel and license,0
+2014,GBR,Support for education and training,0
+2014,GBR,Direct fisher income support,0.56
+2014,GBR,Port and community infrastructure,13
+2015,GBR,Total,14
+2015,GBR,Buyback of vessel and license,0
+2015,GBR,Support for education and training,0
+2015,GBR,Direct fisher income support,0.49
+2015,GBR,Port and community infrastructure,13
+2016,GBR,Total,2.5
+2016,GBR,Buyback of vessel and license,0
+2016,GBR,Direct fisher income support,0.01
+2016,GBR,Support for education and training,0.18
+2016,GBR,Port and community infrastructure,2.4
+2017,GBR,Total,5.2
+2017,GBR,Direct fisher income support,0
+2017,GBR,Buyback of vessel and license,0
+2017,GBR,Support for education and training,2
+2017,GBR,Port and community infrastructure,3.2
+2018,GBR,Total,17
+2018,GBR,Direct fisher income support,0
+2018,GBR,Buyback of vessel and license,0
+2018,GBR,Support for education and training,5.9
+2018,GBR,Port and community infrastructure,11
+2019,GBR,Total,20
+2019,GBR,Direct fisher income support,0
+2019,GBR,Buyback of vessel and license,0
+2019,GBR,Support for education and training,7.2
+2019,GBR,Port and community infrastructure,13
+2020,GBR,Total,42
+2020,GBR,Buyback of vessel and license,0
+2020,GBR,Port and community infrastructure,5.6
+2020,GBR,Support for education and training,6.5
+2020,GBR,Direct fisher income support,30
+2021,GBR,Total,38
+2021,GBR,Buyback of vessel and license,0
+2021,GBR,Port and community infrastructure,3.7
+2021,GBR,Support for education and training,3.8
+2021,GBR,Direct fisher income support,30
+2022,GBR,Total,18
+2022,GBR,Direct fisher income support,0
+2022,GBR,Buyback of vessel and license,0
+2022,GBR,Support for education and training,3
+2022,GBR,Port and community infrastructure,15
+2000,GRC,Total,0
+2000,GRC,Port and community infrastructure,0
+2000,GRC,Direct fisher income support,0
+2000,GRC,Buyback of vessel and license,0
+2000,GRC,Support for education and training,0
+2001,GRC,Total,0
+2001,GRC,Port and community infrastructure,0
+2001,GRC,Direct fisher income support,0
+2001,GRC,Buyback of vessel and license,0
+2001,GRC,Support for education and training,0
+2002,GRC,Total,0
+2002,GRC,Port and community infrastructure,0
+2002,GRC,Direct fisher income support,0
+2002,GRC,Buyback of vessel and license,0
+2002,GRC,Support for education and training,0
+2003,GRC,Total,0
+2003,GRC,Port and community infrastructure,0
+2003,GRC,Direct fisher income support,0
+2003,GRC,Buyback of vessel and license,0
+2003,GRC,Support for education and training,0
+2004,GRC,Total,0
+2004,GRC,Port and community infrastructure,0
+2004,GRC,Direct fisher income support,0
+2004,GRC,Buyback of vessel and license,0
+2004,GRC,Support for education and training,0
+2005,GRC,Total,0
+2005,GRC,Port and community infrastructure,0
+2005,GRC,Direct fisher income support,0
+2005,GRC,Buyback of vessel and license,0
+2005,GRC,Support for education and training,0
+2006,GRC,Total,20
+2006,GRC,Support for education and training,0
+2006,GRC,Direct fisher income support,2.1
+2006,GRC,Buyback of vessel and license,6.3
+2006,GRC,Port and community infrastructure,11
+2007,GRC,Total,34
+2007,GRC,Support for education and training,0
+2007,GRC,Direct fisher income support,2.5
+2007,GRC,Buyback of vessel and license,13
+2007,GRC,Port and community infrastructure,19
+2008,GRC,Total,26
+2008,GRC,Support for education and training,0
+2008,GRC,Direct fisher income support,5.2
+2008,GRC,Buyback of vessel and license,10
+2008,GRC,Port and community infrastructure,11
+2009,GRC,Total,32
+2009,GRC,Support for education and training,0
+2009,GRC,Buyback of vessel and license,9.1
+2009,GRC,Port and community infrastructure,11
+2009,GRC,Direct fisher income support,12
+2010,GRC,Total,4.6
+2010,GRC,Direct fisher income support,0
+2010,GRC,Buyback of vessel and license,0
+2010,GRC,Support for education and training,0
+2010,GRC,Port and community infrastructure,4.6
+2011,GRC,Total,35
+2011,GRC,Direct fisher income support,0
+2011,GRC,Support for education and training,0
+2011,GRC,Port and community infrastructure,3.7
+2011,GRC,Buyback of vessel and license,31
+2012,GRC,Total,43
+2012,GRC,Direct fisher income support,0
+2012,GRC,Support for education and training,0
+2012,GRC,Port and community infrastructure,6
+2012,GRC,Buyback of vessel and license,37
+2013,GRC,Total,21
+2013,GRC,Direct fisher income support,0
+2013,GRC,Support for education and training,0.66
+2013,GRC,Port and community infrastructure,5.5
+2013,GRC,Buyback of vessel and license,15
+2014,GRC,Total,10
+2014,GRC,Direct fisher income support,0
+2014,GRC,Buyback of vessel and license,0
+2014,GRC,Support for education and training,4.8
+2014,GRC,Port and community infrastructure,5.2
+2015,GRC,Total,32
+2015,GRC,Direct fisher income support,0
+2015,GRC,Support for education and training,4.3
+2015,GRC,Port and community infrastructure,9.6
+2015,GRC,Buyback of vessel and license,19
+2016,GRC,Total,16
+2016,GRC,Port and community infrastructure,0
+2016,GRC,Direct fisher income support,0
+2016,GRC,Buyback of vessel and license,0
+2016,GRC,Support for education and training,16
+2017,GRC,Total,0.43
+2017,GRC,Direct fisher income support,0
+2017,GRC,Buyback of vessel and license,0
+2017,GRC,Support for education and training,0
+2017,GRC,Port and community infrastructure,0.43
+2018,GRC,Total,52
+2018,GRC,Direct fisher income support,0
+2018,GRC,Support for education and training,1
+2018,GRC,Port and community infrastructure,5.2
+2018,GRC,Buyback of vessel and license,46
+2019,GRC,Total,6.8
+2019,GRC,Direct fisher income support,0
+2019,GRC,Buyback of vessel and license,1.7
+2019,GRC,Port and community infrastructure,2.2
+2019,GRC,Support for education and training,2.9
+2020,GRC,Total,11
+2020,GRC,Buyback of vessel and license,0
+2020,GRC,Support for education and training,2.2
+2020,GRC,Direct fisher income support,3.2
+2020,GRC,Port and community infrastructure,5.8
+2021,GRC,Total,29
+2021,GRC,Buyback of vessel and license,0
+2021,GRC,Support for education and training,2.1
+2021,GRC,Port and community infrastructure,8
+2021,GRC,Direct fisher income support,19
+2022,GRC,Total,34
+2022,GRC,Buyback of vessel and license,0
+2022,GRC,Support for education and training,3.8
+2022,GRC,Port and community infrastructure,7.4
+2022,GRC,Direct fisher income support,22
+2000,HRV,Total,0
+2000,HRV,Port and community infrastructure,0
+2000,HRV,Direct fisher income support,0
+2000,HRV,Buyback of vessel and license,0
+2000,HRV,Support for education and training,0
+2001,HRV,Total,0
+2001,HRV,Port and community infrastructure,0
+2001,HRV,Direct fisher income support,0
+2001,HRV,Buyback of vessel and license,0
+2001,HRV,Support for education and training,0
+2002,HRV,Total,0
+2002,HRV,Port and community infrastructure,0
+2002,HRV,Direct fisher income support,0
+2002,HRV,Buyback of vessel and license,0
+2002,HRV,Support for education and training,0
+2003,HRV,Total,0
+2003,HRV,Port and community infrastructure,0
+2003,HRV,Direct fisher income support,0
+2003,HRV,Buyback of vessel and license,0
+2003,HRV,Support for education and training,0
+2004,HRV,Total,0
+2004,HRV,Port and community infrastructure,0
+2004,HRV,Direct fisher income support,0
+2004,HRV,Buyback of vessel and license,0
+2004,HRV,Support for education and training,0
+2005,HRV,Total,0
+2005,HRV,Port and community infrastructure,0
+2005,HRV,Direct fisher income support,0
+2005,HRV,Buyback of vessel and license,0
+2005,HRV,Support for education and training,0
+2006,HRV,Total,0
+2006,HRV,Port and community infrastructure,0
+2006,HRV,Direct fisher income support,0
+2006,HRV,Buyback of vessel and license,0
+2006,HRV,Support for education and training,0
+2007,HRV,Total,0
+2007,HRV,Port and community infrastructure,0
+2007,HRV,Direct fisher income support,0
+2007,HRV,Buyback of vessel and license,0
+2007,HRV,Support for education and training,0
+2008,HRV,Total,0
+2008,HRV,Port and community infrastructure,0
+2008,HRV,Direct fisher income support,0
+2008,HRV,Buyback of vessel and license,0
+2008,HRV,Support for education and training,0
+2009,HRV,Total,0
+2009,HRV,Port and community infrastructure,0
+2009,HRV,Direct fisher income support,0
+2009,HRV,Buyback of vessel and license,0
+2009,HRV,Support for education and training,0
+2010,HRV,Total,0
+2010,HRV,Port and community infrastructure,0
+2010,HRV,Direct fisher income support,0
+2010,HRV,Buyback of vessel and license,0
+2010,HRV,Support for education and training,0
+2011,HRV,Total,0
+2011,HRV,Port and community infrastructure,0
+2011,HRV,Direct fisher income support,0
+2011,HRV,Buyback of vessel and license,0
+2011,HRV,Support for education and training,0
+2012,HRV,Total,0
+2012,HRV,Port and community infrastructure,0
+2012,HRV,Direct fisher income support,0
+2012,HRV,Buyback of vessel and license,0
+2012,HRV,Support for education and training,0
+2013,HRV,Total,0
+2013,HRV,Port and community infrastructure,0
+2013,HRV,Direct fisher income support,0
+2013,HRV,Buyback of vessel and license,0
+2013,HRV,Support for education and training,0
+2014,HRV,Total,7.3
+2014,HRV,Port and community infrastructure,0
+2014,HRV,Buyback of vessel and license,0
+2014,HRV,Support for education and training,1.2
+2014,HRV,Direct fisher income support,6.1
+2015,HRV,Total,13
+2015,HRV,Port and community infrastructure,0
+2015,HRV,Support for education and training,0.91
+2015,HRV,Buyback of vessel and license,5.1
+2015,HRV,Direct fisher income support,7
+2016,HRV,Total,16
+2016,HRV,Port and community infrastructure,0
+2016,HRV,Support for education and training,0.61
+2016,HRV,Buyback of vessel and license,4.8
+2016,HRV,Direct fisher income support,11
+2017,HRV,Total,15
+2017,HRV,Port and community infrastructure,0
+2017,HRV,Support for education and training,0
+2017,HRV,Buyback of vessel and license,7.2
+2017,HRV,Direct fisher income support,8.1
+2018,HRV,Total,15
+2018,HRV,Port and community infrastructure,0
+2018,HRV,Support for education and training,0
+2018,HRV,Buyback of vessel and license,5.4
+2018,HRV,Direct fisher income support,9.6
+2019,HRV,Total,9.4
+2019,HRV,Port and community infrastructure,0
+2019,HRV,Buyback of vessel and license,0
+2019,HRV,Support for education and training,0
+2019,HRV,Direct fisher income support,9.4
+2020,HRV,Total,19
+2020,HRV,Buyback of vessel and license,0
+2020,HRV,Support for education and training,0.02
+2020,HRV,Port and community infrastructure,7.9
+2020,HRV,Direct fisher income support,11
+2021,HRV,Total,17
+2021,HRV,Buyback of vessel and license,0
+2021,HRV,Support for education and training,0.07
+2021,HRV,Port and community infrastructure,5.4
+2021,HRV,Direct fisher income support,12
+2022,HRV,Total,6.2
+2022,HRV,Buyback of vessel and license,0
+2022,HRV,Support for education and training,0.03
+2022,HRV,Direct fisher income support,2.5
+2022,HRV,Port and community infrastructure,3.7
+2000,IDN,Total,0
+2000,IDN,Support for education and training,0
+2001,IDN,Total,0
+2001,IDN,Support for education and training,0
+2002,IDN,Total,0
+2002,IDN,Support for education and training,0
+2003,IDN,Total,0
+2003,IDN,Support for education and training,0
+2004,IDN,Total,0
+2004,IDN,Support for education and training,0
+2005,IDN,Total,0
+2005,IDN,Support for education and training,0
+2006,IDN,Total,0
+2006,IDN,Support for education and training,0
+2007,IDN,Total,0
+2007,IDN,Support for education and training,0
+2008,IDN,Total,0
+2008,IDN,Support for education and training,0
+2009,IDN,Total,0
+2009,IDN,Support for education and training,0
+2010,IDN,Total,0
+2010,IDN,Support for education and training,0
+2011,IDN,Total,0
+2011,IDN,Support for education and training,0
+2012,IDN,Total,0
+2012,IDN,Support for education and training,0
+2013,IDN,Total,0
+2013,IDN,Support for education and training,0
+2014,IDN,Total,0
+2014,IDN,Support for education and training,0
+2015,IDN,Total,0
+2015,IDN,Support for education and training,0
+2016,IDN,Total,4.1
+2016,IDN,Support for education and training,4.1
+2017,IDN,Total,0
+2017,IDN,Support for education and training,0
+2018,IDN,Total,2.7
+2018,IDN,Support for education and training,2.7
+2019,IDN,Total,0
+2019,IDN,Support for education and training,0
+2020,IDN,Total,0
+2020,IDN,Support for education and training,0
+2021,IDN,Total,0
+2021,IDN,Support for education and training,0
+2022,IDN,Total,0
+2022,IDN,Support for education and training,0
+2000,IND,Total,0
+2000,IND,Port and community infrastructure,0
+2000,IND,Direct fisher income support,0
+2000,IND,Support for education and training,0
+2001,IND,Total,0
+2001,IND,Port and community infrastructure,0
+2001,IND,Direct fisher income support,0
+2001,IND,Support for education and training,0
+2002,IND,Total,0
+2002,IND,Port and community infrastructure,0
+2002,IND,Direct fisher income support,0
+2002,IND,Support for education and training,0
+2003,IND,Total,0
+2003,IND,Port and community infrastructure,0
+2003,IND,Direct fisher income support,0
+2003,IND,Support for education and training,0
+2004,IND,Total,0
+2004,IND,Port and community infrastructure,0
+2004,IND,Direct fisher income support,0
+2004,IND,Support for education and training,0
+2005,IND,Total,0
+2005,IND,Port and community infrastructure,0
+2005,IND,Direct fisher income support,0
+2005,IND,Support for education and training,0
+2006,IND,Total,0
+2006,IND,Port and community infrastructure,0
+2006,IND,Direct fisher income support,0
+2006,IND,Support for education and training,0
+2007,IND,Total,0
+2007,IND,Port and community infrastructure,0
+2007,IND,Direct fisher income support,0
+2007,IND,Support for education and training,0
+2008,IND,Total,0
+2008,IND,Port and community infrastructure,0
+2008,IND,Direct fisher income support,0
+2008,IND,Support for education and training,0
+2009,IND,Total,0
+2009,IND,Port and community infrastructure,0
+2009,IND,Direct fisher income support,0
+2009,IND,Support for education and training,0
+2010,IND,Total,0
+2010,IND,Port and community infrastructure,0
+2010,IND,Direct fisher income support,0
+2010,IND,Support for education and training,0
+2011,IND,Total,0
+2011,IND,Port and community infrastructure,0
+2011,IND,Direct fisher income support,0
+2011,IND,Support for education and training,0
+2012,IND,Total,50
+2012,IND,Support for education and training,3.1
+2012,IND,Direct fisher income support,17
+2012,IND,Port and community infrastructure,30
+2013,IND,Total,91
+2013,IND,Support for education and training,3.8
+2013,IND,Direct fisher income support,41
+2013,IND,Port and community infrastructure,46
+2014,IND,Total,112
+2014,IND,Support for education and training,6
+2014,IND,Direct fisher income support,48
+2014,IND,Port and community infrastructure,58
+2015,IND,Total,116
+2015,IND,Support for education and training,6.6
+2015,IND,Direct fisher income support,48
+2015,IND,Port and community infrastructure,61
+2016,IND,Total,128
+2016,IND,Support for education and training,6.9
+2016,IND,Port and community infrastructure,55
+2016,IND,Direct fisher income support,66
+2017,IND,Total,168
+2017,IND,Support for education and training,8.7
+2017,IND,Port and community infrastructure,67
+2017,IND,Direct fisher income support,92
+2018,IND,Total,157
+2018,IND,Support for education and training,7.9
+2018,IND,Port and community infrastructure,66
+2018,IND,Direct fisher income support,83
+2019,IND,Total,137
+2019,IND,Support for education and training,7.5
+2019,IND,Direct fisher income support,58
+2019,IND,Port and community infrastructure,71
+2020,IND,Total,155
+2020,IND,Support for education and training,9
+2020,IND,Direct fisher income support,60
+2020,IND,Port and community infrastructure,87
+2021,IND,Total,157
+2021,IND,Support for education and training,10
+2021,IND,Direct fisher income support,68
+2021,IND,Port and community infrastructure,79
+2022,IND,Total,0
+2022,IND,Port and community infrastructure,0
+2022,IND,Direct fisher income support,0
+2022,IND,Support for education and training,0
+2000,IRL,Total,0
+2000,IRL,Port and community infrastructure,0
+2000,IRL,Direct fisher income support,0
+2000,IRL,Support for education and training,0
+2001,IRL,Total,0
+2001,IRL,Port and community infrastructure,0
+2001,IRL,Direct fisher income support,0
+2001,IRL,Support for education and training,0
+2002,IRL,Total,0
+2002,IRL,Port and community infrastructure,0
+2002,IRL,Direct fisher income support,0
+2002,IRL,Support for education and training,0
+2003,IRL,Total,0
+2003,IRL,Port and community infrastructure,0
+2003,IRL,Direct fisher income support,0
+2003,IRL,Support for education and training,0
+2004,IRL,Total,0
+2004,IRL,Port and community infrastructure,0
+2004,IRL,Direct fisher income support,0
+2004,IRL,Support for education and training,0
+2005,IRL,Total,0
+2005,IRL,Port and community infrastructure,0
+2005,IRL,Direct fisher income support,0
+2005,IRL,Support for education and training,0
+2006,IRL,Total,0
+2006,IRL,Port and community infrastructure,0
+2006,IRL,Direct fisher income support,0
+2006,IRL,Support for education and training,0
+2007,IRL,Total,0
+2007,IRL,Port and community infrastructure,0
+2007,IRL,Direct fisher income support,0
+2007,IRL,Support for education and training,0
+2008,IRL,Total,0
+2008,IRL,Port and community infrastructure,0
+2008,IRL,Direct fisher income support,0
+2008,IRL,Support for education and training,0
+2009,IRL,Total,0
+2009,IRL,Port and community infrastructure,0
+2009,IRL,Direct fisher income support,0
+2009,IRL,Support for education and training,0
+2010,IRL,Total,0
+2010,IRL,Port and community infrastructure,0
+2010,IRL,Direct fisher income support,0
+2010,IRL,Support for education and training,0
+2011,IRL,Total,0
+2011,IRL,Port and community infrastructure,0
+2011,IRL,Direct fisher income support,0
+2011,IRL,Support for education and training,0
+2012,IRL,Total,0
+2012,IRL,Port and community infrastructure,0
+2012,IRL,Direct fisher income support,0
+2012,IRL,Support for education and training,0
+2013,IRL,Total,0
+2013,IRL,Port and community infrastructure,0
+2013,IRL,Direct fisher income support,0
+2013,IRL,Support for education and training,0
+2014,IRL,Total,0.16
+2014,IRL,Port and community infrastructure,0
+2014,IRL,Direct fisher income support,0.02
+2014,IRL,Support for education and training,0.15
+2015,IRL,Total,12
+2015,IRL,Direct fisher income support,0
+2015,IRL,Support for education and training,0.37
+2015,IRL,Port and community infrastructure,11
+2016,IRL,Total,29
+2016,IRL,Port and community infrastructure,0
+2016,IRL,Direct fisher income support,0
+2016,IRL,Support for education and training,29
+2017,IRL,Total,3.6
+2017,IRL,Direct fisher income support,0
+2017,IRL,Port and community infrastructure,0.73
+2017,IRL,Support for education and training,2.9
+2018,IRL,Total,15
+2018,IRL,Direct fisher income support,0
+2018,IRL,Support for education and training,5
+2018,IRL,Port and community infrastructure,10
+2019,IRL,Total,0
+2019,IRL,Port and community infrastructure,0
+2019,IRL,Direct fisher income support,0
+2019,IRL,Support for education and training,0
+2020,IRL,Total,0
+2020,IRL,Port and community infrastructure,0
+2020,IRL,Direct fisher income support,0
+2020,IRL,Support for education and training,0
+2021,IRL,Total,0
+2021,IRL,Port and community infrastructure,0
+2021,IRL,Direct fisher income support,0
+2021,IRL,Support for education and training,0
+2022,IRL,Total,0
+2022,IRL,Port and community infrastructure,0
+2022,IRL,Direct fisher income support,0
+2022,IRL,Support for education and training,0
+2000,ISL,Total,15
+2000,ISL,Port and community infrastructure,0
+2000,ISL,Direct fisher income support,15
+2001,ISL,Total,13
+2001,ISL,Port and community infrastructure,0
+2001,ISL,Direct fisher income support,13
+2002,ISL,Total,13
+2002,ISL,Port and community infrastructure,0
+2002,ISL,Direct fisher income support,13
+2003,ISL,Total,17
+2003,ISL,Port and community infrastructure,0
+2003,ISL,Direct fisher income support,17
+2004,ISL,Total,18
+2004,ISL,Port and community infrastructure,0
+2004,ISL,Direct fisher income support,18
+2005,ISL,Total,20
+2005,ISL,Port and community infrastructure,0
+2005,ISL,Direct fisher income support,20
+2006,ISL,Total,17
+2006,ISL,Port and community infrastructure,0
+2006,ISL,Direct fisher income support,17
+2007,ISL,Total,17
+2007,ISL,Port and community infrastructure,0
+2007,ISL,Direct fisher income support,17
+2008,ISL,Total,13
+2008,ISL,Port and community infrastructure,0
+2008,ISL,Direct fisher income support,13
+2009,ISL,Total,8.9
+2009,ISL,Port and community infrastructure,0
+2009,ISL,Direct fisher income support,8.9
+2010,ISL,Total,11
+2010,ISL,Port and community infrastructure,0
+2010,ISL,Direct fisher income support,11
+2011,ISL,Total,11
+2011,ISL,Port and community infrastructure,0
+2011,ISL,Direct fisher income support,11
+2012,ISL,Total,7.9
+2012,ISL,Port and community infrastructure,0
+2012,ISL,Direct fisher income support,7.9
+2013,ISL,Total,5.6
+2013,ISL,Port and community infrastructure,0
+2013,ISL,Direct fisher income support,5.6
+2014,ISL,Total,2.8
+2014,ISL,Port and community infrastructure,0
+2014,ISL,Direct fisher income support,2.8
+2015,ISL,Total,0
+2015,ISL,Port and community infrastructure,0
+2015,ISL,Direct fisher income support,0
+2016,ISL,Total,0.27
+2016,ISL,Direct fisher income support,0
+2016,ISL,Port and community infrastructure,0.27
+2017,ISL,Total,0.29
+2017,ISL,Direct fisher income support,0
+2017,ISL,Port and community infrastructure,0.29
+2018,ISL,Total,0.29
+2018,ISL,Direct fisher income support,0
+2018,ISL,Port and community infrastructure,0.29
+2019,ISL,Total,0
+2019,ISL,Port and community infrastructure,0
+2019,ISL,Direct fisher income support,0
+2020,ISL,Total,0
+2020,ISL,Port and community infrastructure,0
+2020,ISL,Direct fisher income support,0
+2021,ISL,Total,0
+2021,ISL,Port and community infrastructure,0
+2021,ISL,Direct fisher income support,0
+2022,ISL,Total,0
+2022,ISL,Port and community infrastructure,0
+2022,ISL,Direct fisher income support,0
+2000,ITA,Total,0
+2000,ITA,Port and community infrastructure,0
+2000,ITA,Direct fisher income support,0
+2000,ITA,Buyback of vessel and license,0
+2000,ITA,Support for education and training,0
+2001,ITA,Total,0
+2001,ITA,Port and community infrastructure,0
+2001,ITA,Direct fisher income support,0
+2001,ITA,Buyback of vessel and license,0
+2001,ITA,Support for education and training,0
+2002,ITA,Total,0
+2002,ITA,Port and community infrastructure,0
+2002,ITA,Direct fisher income support,0
+2002,ITA,Buyback of vessel and license,0
+2002,ITA,Support for education and training,0
+2003,ITA,Total,0
+2003,ITA,Port and community infrastructure,0
+2003,ITA,Direct fisher income support,0
+2003,ITA,Buyback of vessel and license,0
+2003,ITA,Support for education and training,0
+2004,ITA,Total,0
+2004,ITA,Port and community infrastructure,0
+2004,ITA,Direct fisher income support,0
+2004,ITA,Buyback of vessel and license,0
+2004,ITA,Support for education and training,0
+2005,ITA,Total,0
+2005,ITA,Port and community infrastructure,0
+2005,ITA,Direct fisher income support,0
+2005,ITA,Buyback of vessel and license,0
+2005,ITA,Support for education and training,0
+2006,ITA,Total,0
+2006,ITA,Port and community infrastructure,0
+2006,ITA,Direct fisher income support,0
+2006,ITA,Buyback of vessel and license,0
+2006,ITA,Support for education and training,0
+2007,ITA,Total,0
+2007,ITA,Port and community infrastructure,0
+2007,ITA,Direct fisher income support,0
+2007,ITA,Buyback of vessel and license,0
+2007,ITA,Support for education and training,0
+2008,ITA,Total,5.2
+2008,ITA,Port and community infrastructure,0
+2008,ITA,Buyback of vessel and license,0
+2008,ITA,Support for education and training,0
+2008,ITA,Direct fisher income support,5.2
+2009,ITA,Total,29
+2009,ITA,Port and community infrastructure,0
+2009,ITA,Direct fisher income support,0
+2009,ITA,Support for education and training,0
+2009,ITA,Buyback of vessel and license,29
+2010,ITA,Total,41
+2010,ITA,Support for education and training,0
+2010,ITA,Port and community infrastructure,0.67
+2010,ITA,Buyback of vessel and license,8.6
+2010,ITA,Direct fisher income support,32
+2011,ITA,Total,94
+2011,ITA,Support for education and training,0
+2011,ITA,Port and community infrastructure,8.1
+2011,ITA,Direct fisher income support,9.1
+2011,ITA,Buyback of vessel and license,76
+2012,ITA,Total,113
+2012,ITA,Support for education and training,0.31
+2012,ITA,Direct fisher income support,9.3
+2012,ITA,Port and community infrastructure,10
+2012,ITA,Buyback of vessel and license,93
+2013,ITA,Total,48
+2013,ITA,Support for education and training,0.7
+2013,ITA,Direct fisher income support,14
+2013,ITA,Port and community infrastructure,16
+2013,ITA,Buyback of vessel and license,18
+2014,ITA,Total,57
+2014,ITA,Support for education and training,5.8
+2014,ITA,Direct fisher income support,12
+2014,ITA,Buyback of vessel and license,15
+2014,ITA,Port and community infrastructure,24
+2015,ITA,Total,88
+2015,ITA,Support for education and training,14
+2015,ITA,Port and community infrastructure,14
+2015,ITA,Direct fisher income support,20
+2015,ITA,Buyback of vessel and license,39
+2016,ITA,Total,38
+2016,ITA,Buyback of vessel and license,0.21
+2016,ITA,Direct fisher income support,0.87
+2016,ITA,Port and community infrastructure,12
+2016,ITA,Support for education and training,25
+2017,ITA,Total,7.1
+2017,ITA,Port and community infrastructure,0
+2017,ITA,Buyback of vessel and license,0
+2017,ITA,Support for education and training,0.67
+2017,ITA,Direct fisher income support,6.4
+2018,ITA,Total,79
+2018,ITA,Port and community infrastructure,0
+2018,ITA,Support for education and training,3.7
+2018,ITA,Direct fisher income support,11
+2018,ITA,Buyback of vessel and license,65
+2019,ITA,Total,43
+2019,ITA,Buyback of vessel and license,0.29
+2019,ITA,Port and community infrastructure,9
+2019,ITA,Support for education and training,13
+2019,ITA,Direct fisher income support,21
+2020,ITA,Total,67
+2020,ITA,Buyback of vessel and license,0.32
+2020,ITA,Port and community infrastructure,8.9
+2020,ITA,Support for education and training,9.9
+2020,ITA,Direct fisher income support,48
+2021,ITA,Total,50
+2021,ITA,Buyback of vessel and license,0
+2021,ITA,Port and community infrastructure,8.6
+2021,ITA,Support for education and training,14
+2021,ITA,Direct fisher income support,28
+2022,ITA,Total,53
+2022,ITA,Buyback of vessel and license,0
+2022,ITA,Port and community infrastructure,7.4
+2022,ITA,Support for education and training,17
+2022,ITA,Direct fisher income support,29
+2000,JPN,Total,0
+2000,JPN,Port and community infrastructure,0
+2000,JPN,Buyback of vessel and license,0
+2000,JPN,Support for education and training,0
+2001,JPN,Total,0
+2001,JPN,Port and community infrastructure,0
+2001,JPN,Buyback of vessel and license,0
+2001,JPN,Support for education and training,0
+2002,JPN,Total,0
+2002,JPN,Port and community infrastructure,0
+2002,JPN,Buyback of vessel and license,0
+2002,JPN,Support for education and training,0
+2003,JPN,Total,0
+2003,JPN,Port and community infrastructure,0
+2003,JPN,Buyback of vessel and license,0
+2003,JPN,Support for education and training,0
+2004,JPN,Total,0
+2004,JPN,Port and community infrastructure,0
+2004,JPN,Buyback of vessel and license,0
+2004,JPN,Support for education and training,0
+2005,JPN,Total,0
+2005,JPN,Port and community infrastructure,0
+2005,JPN,Buyback of vessel and license,0
+2005,JPN,Support for education and training,0
+2006,JPN,Total,0
+2006,JPN,Port and community infrastructure,0
+2006,JPN,Buyback of vessel and license,0
+2006,JPN,Support for education and training,0
+2007,JPN,Total,0
+2007,JPN,Port and community infrastructure,0
+2007,JPN,Buyback of vessel and license,0
+2007,JPN,Support for education and training,0
+2008,JPN,Total,0
+2008,JPN,Port and community infrastructure,0
+2008,JPN,Buyback of vessel and license,0
+2008,JPN,Support for education and training,0
+2009,JPN,Total,0
+2009,JPN,Port and community infrastructure,0
+2009,JPN,Buyback of vessel and license,0
+2009,JPN,Support for education and training,0
+2010,JPN,Total,0
+2010,JPN,Port and community infrastructure,0
+2010,JPN,Buyback of vessel and license,0
+2010,JPN,Support for education and training,0
+2011,JPN,Total,0
+2011,JPN,Port and community infrastructure,0
+2011,JPN,Buyback of vessel and license,0
+2011,JPN,Support for education and training,0
+2012,JPN,Total,0
+2012,JPN,Port and community infrastructure,0
+2012,JPN,Buyback of vessel and license,0
+2012,JPN,Support for education and training,0
+2013,JPN,Total,0
+2013,JPN,Port and community infrastructure,0
+2013,JPN,Buyback of vessel and license,0
+2013,JPN,Support for education and training,0
+2014,JPN,Total,697
+2014,JPN,Buyback of vessel and license,0.94
+2014,JPN,Support for education and training,7.9
+2014,JPN,Port and community infrastructure,688
+2015,JPN,Total,610
+2015,JPN,Buyback of vessel and license,0.74
+2015,JPN,Support for education and training,6.7
+2015,JPN,Port and community infrastructure,602
+2016,JPN,Total,657
+2016,JPN,Buyback of vessel and license,0
+2016,JPN,Support for education and training,7.5
+2016,JPN,Port and community infrastructure,650
+2017,JPN,Total,641
+2017,JPN,Buyback of vessel and license,0
+2017,JPN,Support for education and training,10
+2017,JPN,Port and community infrastructure,630
+2018,JPN,Total,733
+2018,JPN,Buyback of vessel and license,0.81
+2018,JPN,Support for education and training,7.7
+2018,JPN,Port and community infrastructure,725
+2019,JPN,Total,847
+2019,JPN,Buyback of vessel and license,0
+2019,JPN,Support for education and training,9.4
+2019,JPN,Port and community infrastructure,837
+2020,JPN,Total,755
+2020,JPN,Buyback of vessel and license,0
+2020,JPN,Support for education and training,8.4
+2020,JPN,Port and community infrastructure,746
+2021,JPN,Total,692
+2021,JPN,Buyback of vessel and license,0
+2021,JPN,Support for education and training,8.3
+2021,JPN,Port and community infrastructure,683
+2022,JPN,Total,587
+2022,JPN,Buyback of vessel and license,0
+2022,JPN,Support for education and training,6.4
+2022,JPN,Port and community infrastructure,581
+2000,KOR,Total,0
+2000,KOR,Direct fisher income support,0
+2000,KOR,Buyback of vessel and license,0
+2001,KOR,Total,0
+2001,KOR,Direct fisher income support,0
+2001,KOR,Buyback of vessel and license,0
+2002,KOR,Total,0
+2002,KOR,Direct fisher income support,0
+2002,KOR,Buyback of vessel and license,0
+2003,KOR,Total,0
+2003,KOR,Direct fisher income support,0
+2003,KOR,Buyback of vessel and license,0
+2004,KOR,Total,0
+2004,KOR,Direct fisher income support,0
+2004,KOR,Buyback of vessel and license,0
+2005,KOR,Total,0
+2005,KOR,Direct fisher income support,0
+2005,KOR,Buyback of vessel and license,0
+2006,KOR,Total,0
+2006,KOR,Direct fisher income support,0
+2006,KOR,Buyback of vessel and license,0
+2007,KOR,Total,206
+2007,KOR,Direct fisher income support,66
+2007,KOR,Buyback of vessel and license,139
+2008,KOR,Total,403
+2008,KOR,Direct fisher income support,69
+2008,KOR,Buyback of vessel and license,335
+2009,KOR,Total,135
+2009,KOR,Direct fisher income support,50
+2009,KOR,Buyback of vessel and license,85
+2010,KOR,Total,122
+2010,KOR,Direct fisher income support,55
+2010,KOR,Buyback of vessel and license,67
+2011,KOR,Total,85
+2011,KOR,Buyback of vessel and license,34
+2011,KOR,Direct fisher income support,52
+2012,KOR,Total,76
+2012,KOR,Buyback of vessel and license,26
+2012,KOR,Direct fisher income support,49
+2013,KOR,Total,63
+2013,KOR,Buyback of vessel and license,23
+2013,KOR,Direct fisher income support,40
+2014,KOR,Total,56
+2014,KOR,Buyback of vessel and license,19
+2014,KOR,Direct fisher income support,37
+2015,KOR,Total,53
+2015,KOR,Buyback of vessel and license,20
+2015,KOR,Direct fisher income support,33
+2016,KOR,Total,64
+2016,KOR,Buyback of vessel and license,19
+2016,KOR,Direct fisher income support,45
+2017,KOR,Total,73
+2017,KOR,Buyback of vessel and license,20
+2017,KOR,Direct fisher income support,54
+2018,KOR,Total,69
+2018,KOR,Buyback of vessel and license,18
+2018,KOR,Direct fisher income support,51
+2019,KOR,Total,83
+2019,KOR,Buyback of vessel and license,28
+2019,KOR,Direct fisher income support,54
+2020,KOR,Total,113
+2020,KOR,Direct fisher income support,50
+2020,KOR,Buyback of vessel and license,63
+2021,KOR,Total,162
+2021,KOR,Direct fisher income support,53
+2021,KOR,Buyback of vessel and license,110
+2022,KOR,Total,147
+2022,KOR,Direct fisher income support,54
+2022,KOR,Buyback of vessel and license,93
+2000,LTU,Total,0
+2000,LTU,Port and community infrastructure,0
+2000,LTU,Direct fisher income support,0
+2000,LTU,Buyback of vessel and license,0
+2000,LTU,Support for education and training,0
+2001,LTU,Total,0
+2001,LTU,Port and community infrastructure,0
+2001,LTU,Direct fisher income support,0
+2001,LTU,Buyback of vessel and license,0
+2001,LTU,Support for education and training,0
+2002,LTU,Total,0
+2002,LTU,Port and community infrastructure,0
+2002,LTU,Direct fisher income support,0
+2002,LTU,Buyback of vessel and license,0
+2002,LTU,Support for education and training,0
+2003,LTU,Total,0
+2003,LTU,Port and community infrastructure,0
+2003,LTU,Direct fisher income support,0
+2003,LTU,Buyback of vessel and license,0
+2003,LTU,Support for education and training,0
+2004,LTU,Total,0
+2004,LTU,Port and community infrastructure,0
+2004,LTU,Direct fisher income support,0
+2004,LTU,Buyback of vessel and license,0
+2004,LTU,Support for education and training,0
+2005,LTU,Total,0
+2005,LTU,Port and community infrastructure,0
+2005,LTU,Direct fisher income support,0
+2005,LTU,Buyback of vessel and license,0
+2005,LTU,Support for education and training,0
+2006,LTU,Total,0
+2006,LTU,Port and community infrastructure,0
+2006,LTU,Direct fisher income support,0
+2006,LTU,Buyback of vessel and license,0
+2006,LTU,Support for education and training,0
+2007,LTU,Total,0
+2007,LTU,Port and community infrastructure,0
+2007,LTU,Direct fisher income support,0
+2007,LTU,Buyback of vessel and license,0
+2007,LTU,Support for education and training,0
+2008,LTU,Total,0
+2008,LTU,Port and community infrastructure,0
+2008,LTU,Direct fisher income support,0
+2008,LTU,Buyback of vessel and license,0
+2008,LTU,Support for education and training,0
+2009,LTU,Total,1.3
+2009,LTU,Port and community infrastructure,0
+2009,LTU,Direct fisher income support,0
+2009,LTU,Support for education and training,0
+2009,LTU,Buyback of vessel and license,1.3
+2010,LTU,Total,5.5
+2010,LTU,Port and community infrastructure,0
+2010,LTU,Direct fisher income support,0
+2010,LTU,Support for education and training,0
+2010,LTU,Buyback of vessel and license,5.5
+2011,LTU,Total,0.24
+2011,LTU,Port and community infrastructure,0
+2011,LTU,Direct fisher income support,0
+2011,LTU,Buyback of vessel and license,0
+2011,LTU,Support for education and training,0.24
+2012,LTU,Total,0.15
+2012,LTU,Port and community infrastructure,0
+2012,LTU,Direct fisher income support,0
+2012,LTU,Buyback of vessel and license,0
+2012,LTU,Support for education and training,0.15
+2013,LTU,Total,0
+2013,LTU,Port and community infrastructure,0
+2013,LTU,Direct fisher income support,0
+2013,LTU,Buyback of vessel and license,0
+2013,LTU,Support for education and training,0
+2014,LTU,Total,0.41
+2014,LTU,Direct fisher income support,0
+2014,LTU,Buyback of vessel and license,0
+2014,LTU,Support for education and training,0.1
+2014,LTU,Port and community infrastructure,0.32
+2015,LTU,Total,3
+2015,LTU,Direct fisher income support,0
+2015,LTU,Buyback of vessel and license,0
+2015,LTU,Support for education and training,0.92
+2015,LTU,Port and community infrastructure,2
+2016,LTU,Total,6.5
+2016,LTU,Buyback of vessel and license,0
+2016,LTU,Direct fisher income support,0.08
+2016,LTU,Support for education and training,1.9
+2016,LTU,Port and community infrastructure,4.6
+2017,LTU,Total,12
+2017,LTU,Port and community infrastructure,0
+2017,LTU,Buyback of vessel and license,0
+2017,LTU,Direct fisher income support,0.16
+2017,LTU,Support for education and training,12
+2018,LTU,Total,0.09
+2018,LTU,Port and community infrastructure,0
+2018,LTU,Buyback of vessel and license,0
+2018,LTU,Support for education and training,0.01
+2018,LTU,Direct fisher income support,0.07
+2019,LTU,Total,3.2
+2019,LTU,Buyback of vessel and license,0
+2019,LTU,Support for education and training,0
+2019,LTU,Direct fisher income support,1
+2019,LTU,Port and community infrastructure,2.1
+2020,LTU,Total,1.6
+2020,LTU,Port and community infrastructure,0
+2020,LTU,Buyback of vessel and license,0
+2020,LTU,Support for education and training,0.17
+2020,LTU,Direct fisher income support,1.4
+2021,LTU,Total,2.1
+2021,LTU,Buyback of vessel and license,0
+2021,LTU,Port and community infrastructure,0.03
+2021,LTU,Direct fisher income support,0.5
+2021,LTU,Support for education and training,1.6
+2022,LTU,Total,3.5
+2022,LTU,Direct fisher income support,0.14
+2022,LTU,Port and community infrastructure,0.3
+2022,LTU,Buyback of vessel and license,1.3
+2022,LTU,Support for education and training,1.8
+2000,LVA,Total,0
+2000,LVA,Port and community infrastructure,0
+2000,LVA,Port and community infrastructure,0
+2000,LVA,Direct fisher income support,0
+2000,LVA,Buyback of vessel and license,0
+2001,LVA,Total,0
+2001,LVA,Port and community infrastructure,0
+2001,LVA,Port and community infrastructure,0
+2001,LVA,Direct fisher income support,0
+2001,LVA,Buyback of vessel and license,0
+2002,LVA,Total,0
+2002,LVA,Port and community infrastructure,0
+2002,LVA,Port and community infrastructure,0
+2002,LVA,Direct fisher income support,0
+2002,LVA,Buyback of vessel and license,0
+2003,LVA,Total,0
+2003,LVA,Port and community infrastructure,0
+2003,LVA,Port and community infrastructure,0
+2003,LVA,Direct fisher income support,0
+2003,LVA,Buyback of vessel and license,0
+2004,LVA,Total,0
+2004,LVA,Port and community infrastructure,0
+2004,LVA,Port and community infrastructure,0
+2004,LVA,Direct fisher income support,0
+2004,LVA,Buyback of vessel and license,0
+2005,LVA,Total,0
+2005,LVA,Port and community infrastructure,0
+2005,LVA,Port and community infrastructure,0
+2005,LVA,Direct fisher income support,0
+2005,LVA,Buyback of vessel and license,0
+2006,LVA,Total,0
+2006,LVA,Port and community infrastructure,0
+2006,LVA,Port and community infrastructure,0
+2006,LVA,Direct fisher income support,0
+2006,LVA,Buyback of vessel and license,0
+2007,LVA,Total,0
+2007,LVA,Port and community infrastructure,0
+2007,LVA,Port and community infrastructure,0
+2007,LVA,Direct fisher income support,0
+2007,LVA,Buyback of vessel and license,0
+2008,LVA,Total,0
+2008,LVA,Port and community infrastructure,0
+2008,LVA,Port and community infrastructure,0
+2008,LVA,Direct fisher income support,0
+2008,LVA,Buyback of vessel and license,0
+2009,LVA,Total,0
+2009,LVA,Port and community infrastructure,0
+2009,LVA,Port and community infrastructure,0
+2009,LVA,Direct fisher income support,0
+2009,LVA,Buyback of vessel and license,0
+2010,LVA,Total,0
+2010,LVA,Port and community infrastructure,0
+2010,LVA,Port and community infrastructure,0
+2010,LVA,Direct fisher income support,0
+2010,LVA,Buyback of vessel and license,0
+2011,LVA,Total,0
+2011,LVA,Port and community infrastructure,0
+2011,LVA,Port and community infrastructure,0
+2011,LVA,Direct fisher income support,0
+2011,LVA,Buyback of vessel and license,0
+2012,LVA,Total,0
+2012,LVA,Port and community infrastructure,0
+2012,LVA,Port and community infrastructure,0
+2012,LVA,Direct fisher income support,0
+2012,LVA,Buyback of vessel and license,0
+2013,LVA,Total,0
+2013,LVA,Port and community infrastructure,0
+2013,LVA,Port and community infrastructure,0
+2013,LVA,Direct fisher income support,0
+2013,LVA,Buyback of vessel and license,0
+2014,LVA,Total,2.5
+2014,LVA,Port and community infrastructure,0
+2014,LVA,Direct fisher income support,0
+2014,LVA,Buyback of vessel and license,0.43
+2014,LVA,Port and community infrastructure,2.1
+2015,LVA,Total,2.2
+2015,LVA,Direct fisher income support,0
+2015,LVA,Port and community infrastructure,0.33
+2015,LVA,Buyback of vessel and license,0.52
+2015,LVA,Port and community infrastructure,1.4
+2016,LVA,Total,3.3
+2016,LVA,Direct fisher income support,0
+2016,LVA,Port and community infrastructure,0.32
+2016,LVA,Buyback of vessel and license,1
+2016,LVA,Port and community infrastructure,2
+2017,LVA,Total,1.3
+2017,LVA,Direct fisher income support,0
+2017,LVA,Buyback of vessel and license,0.24
+2017,LVA,Port and community infrastructure,0.32
+2017,LVA,Port and community infrastructure,0.72
+2018,LVA,Total,7.4
+2018,LVA,Direct fisher income support,0
+2018,LVA,Buyback of vessel and license,0
+2018,LVA,Port and community infrastructure,0.35
+2018,LVA,Port and community infrastructure,7
+2019,LVA,Total,6.9
+2019,LVA,Buyback of vessel and license,0
+2019,LVA,Port and community infrastructure,0.02
+2019,LVA,Direct fisher income support,1.3
+2019,LVA,Port and community infrastructure,5.6
+2020,LVA,Total,3.8
+2020,LVA,Port and community infrastructure,0
+2020,LVA,Buyback of vessel and license,0
+2020,LVA,Port and community infrastructure,0.39
+2020,LVA,Direct fisher income support,3.4
+2021,LVA,Total,4.1
+2021,LVA,Direct fisher income support,0.21
+2021,LVA,Port and community infrastructure,0.26
+2021,LVA,Port and community infrastructure,1.7
+2021,LVA,Buyback of vessel and license,2
+2022,LVA,Total,3
+2022,LVA,Port and community infrastructure,0
+2022,LVA,Buyback of vessel and license,0
+2022,LVA,Direct fisher income support,0.36
+2022,LVA,Port and community infrastructure,2.7
+2000,MEX,Total,0
+2000,MEX,Port and community infrastructure,0
+2000,MEX,Direct fisher income support,0
+2000,MEX,Buyback of vessel and license,0
+2000,MEX,Support for education and training,0
+2001,MEX,Total,0
+2001,MEX,Port and community infrastructure,0
+2001,MEX,Direct fisher income support,0
+2001,MEX,Buyback of vessel and license,0
+2001,MEX,Support for education and training,0
+2002,MEX,Total,0
+2002,MEX,Port and community infrastructure,0
+2002,MEX,Direct fisher income support,0
+2002,MEX,Buyback of vessel and license,0
+2002,MEX,Support for education and training,0
+2003,MEX,Total,0
+2003,MEX,Port and community infrastructure,0
+2003,MEX,Direct fisher income support,0
+2003,MEX,Buyback of vessel and license,0
+2003,MEX,Support for education and training,0
+2004,MEX,Total,0
+2004,MEX,Port and community infrastructure,0
+2004,MEX,Direct fisher income support,0
+2004,MEX,Buyback of vessel and license,0
+2004,MEX,Support for education and training,0
+2005,MEX,Total,20
+2005,MEX,Port and community infrastructure,0
+2005,MEX,Direct fisher income support,0
+2005,MEX,Support for education and training,0
+2005,MEX,Buyback of vessel and license,20
+2006,MEX,Total,4.2
+2006,MEX,Port and community infrastructure,0
+2006,MEX,Direct fisher income support,0
+2006,MEX,Support for education and training,0
+2006,MEX,Buyback of vessel and license,4.2
+2007,MEX,Total,4
+2007,MEX,Port and community infrastructure,0
+2007,MEX,Direct fisher income support,0
+2007,MEX,Support for education and training,0
+2007,MEX,Buyback of vessel and license,4
+2008,MEX,Total,0
+2008,MEX,Port and community infrastructure,0
+2008,MEX,Direct fisher income support,0
+2008,MEX,Buyback of vessel and license,0
+2008,MEX,Support for education and training,0
+2009,MEX,Total,9
+2009,MEX,Port and community infrastructure,0
+2009,MEX,Direct fisher income support,0
+2009,MEX,Support for education and training,0
+2009,MEX,Buyback of vessel and license,9
+2010,MEX,Total,9.7
+2010,MEX,Port and community infrastructure,0
+2010,MEX,Direct fisher income support,0
+2010,MEX,Support for education and training,0
+2010,MEX,Buyback of vessel and license,9.7
+2011,MEX,Total,3.5
+2011,MEX,Port and community infrastructure,0
+2011,MEX,Direct fisher income support,0
+2011,MEX,Support for education and training,0
+2011,MEX,Buyback of vessel and license,3.5
+2012,MEX,Total,1.1
+2012,MEX,Port and community infrastructure,0
+2012,MEX,Direct fisher income support,0
+2012,MEX,Support for education and training,0
+2012,MEX,Buyback of vessel and license,1.1
+2013,MEX,Total,1.1
+2013,MEX,Port and community infrastructure,0
+2013,MEX,Direct fisher income support,0
+2013,MEX,Support for education and training,0
+2013,MEX,Buyback of vessel and license,1.1
+2014,MEX,Total,9.6
+2014,MEX,Port and community infrastructure,0
+2014,MEX,Support for education and training,0
+2014,MEX,Buyback of vessel and license,1.1
+2014,MEX,Direct fisher income support,8.5
+2015,MEX,Total,11
+2015,MEX,Port and community infrastructure,0
+2015,MEX,Support for education and training,0
+2015,MEX,Buyback of vessel and license,0.43
+2015,MEX,Direct fisher income support,11
+2016,MEX,Total,27
+2016,MEX,Support for education and training,0.81
+2016,MEX,Buyback of vessel and license,0.89
+2016,MEX,Port and community infrastructure,9.8
+2016,MEX,Direct fisher income support,16
+2017,MEX,Total,25
+2017,MEX,Support for education and training,0
+2017,MEX,Buyback of vessel and license,0.04
+2017,MEX,Port and community infrastructure,9.4
+2017,MEX,Direct fisher income support,15
+2018,MEX,Total,19
+2018,MEX,Buyback of vessel and license,0.04
+2018,MEX,Support for education and training,0.15
+2018,MEX,Port and community infrastructure,5.1
+2018,MEX,Direct fisher income support,13
+2019,MEX,Total,23
+2019,MEX,Buyback of vessel and license,0
+2019,MEX,Support for education and training,0.2
+2019,MEX,Port and community infrastructure,4.2
+2019,MEX,Direct fisher income support,19
+2020,MEX,Total,65
+2020,MEX,Port and community infrastructure,0
+2020,MEX,Buyback of vessel and license,0
+2020,MEX,Support for education and training,0
+2020,MEX,Direct fisher income support,65
+2021,MEX,Total,71
+2021,MEX,Port and community infrastructure,0
+2021,MEX,Buyback of vessel and license,0
+2021,MEX,Support for education and training,0
+2021,MEX,Direct fisher income support,71
+2022,MEX,Total,69
+2022,MEX,Port and community infrastructure,0
+2022,MEX,Buyback of vessel and license,0
+2022,MEX,Support for education and training,0
+2022,MEX,Direct fisher income support,69
+2000,MYS,Total,0
+2000,MYS,Port and community infrastructure,0
+2000,MYS,Port and community infrastructure,0
+2000,MYS,Direct fisher income support,0
+2000,MYS,Support for education and training,0
+2001,MYS,Total,0
+2001,MYS,Port and community infrastructure,0
+2001,MYS,Port and community infrastructure,0
+2001,MYS,Direct fisher income support,0
+2001,MYS,Support for education and training,0
+2002,MYS,Total,0
+2002,MYS,Port and community infrastructure,0
+2002,MYS,Port and community infrastructure,0
+2002,MYS,Direct fisher income support,0
+2002,MYS,Support for education and training,0
+2003,MYS,Total,0
+2003,MYS,Port and community infrastructure,0
+2003,MYS,Port and community infrastructure,0
+2003,MYS,Direct fisher income support,0
+2003,MYS,Support for education and training,0
+2004,MYS,Total,0
+2004,MYS,Port and community infrastructure,0
+2004,MYS,Port and community infrastructure,0
+2004,MYS,Direct fisher income support,0
+2004,MYS,Support for education and training,0
+2005,MYS,Total,0
+2005,MYS,Port and community infrastructure,0
+2005,MYS,Port and community infrastructure,0
+2005,MYS,Direct fisher income support,0
+2005,MYS,Support for education and training,0
+2006,MYS,Total,0
+2006,MYS,Port and community infrastructure,0
+2006,MYS,Port and community infrastructure,0
+2006,MYS,Direct fisher income support,0
+2006,MYS,Support for education and training,0
+2007,MYS,Total,0
+2007,MYS,Port and community infrastructure,0
+2007,MYS,Port and community infrastructure,0
+2007,MYS,Direct fisher income support,0
+2007,MYS,Support for education and training,0
+2008,MYS,Total,0
+2008,MYS,Port and community infrastructure,0
+2008,MYS,Port and community infrastructure,0
+2008,MYS,Direct fisher income support,0
+2008,MYS,Support for education and training,0
+2009,MYS,Total,0
+2009,MYS,Port and community infrastructure,0
+2009,MYS,Port and community infrastructure,0
+2009,MYS,Direct fisher income support,0
+2009,MYS,Support for education and training,0
+2010,MYS,Total,0
+2010,MYS,Port and community infrastructure,0
+2010,MYS,Port and community infrastructure,0
+2010,MYS,Direct fisher income support,0
+2010,MYS,Support for education and training,0
+2011,MYS,Total,68
+2011,MYS,Support for education and training,0.05
+2011,MYS,Port and community infrastructure,0.33
+2011,MYS,Port and community infrastructure,0.33
+2011,MYS,Direct fisher income support,67
+2012,MYS,Total,70
+2012,MYS,Port and community infrastructure,0
+2012,MYS,Support for education and training,0.08
+2012,MYS,Port and community infrastructure,0.32
+2012,MYS,Direct fisher income support,69
+2013,MYS,Total,66
+2013,MYS,Port and community infrastructure,0
+2013,MYS,Support for education and training,0.1
+2013,MYS,Port and community infrastructure,0.95
+2013,MYS,Direct fisher income support,65
+2014,MYS,Total,68
+2014,MYS,Port and community infrastructure,0
+2014,MYS,Support for education and training,0.31
+2014,MYS,Port and community infrastructure,1.8
+2014,MYS,Direct fisher income support,65
+2015,MYS,Total,72
+2015,MYS,Port and community infrastructure,0
+2015,MYS,Support for education and training,0.1
+2015,MYS,Port and community infrastructure,0.77
+2015,MYS,Direct fisher income support,71
+2016,MYS,Total,55
+2016,MYS,Port and community infrastructure,0
+2016,MYS,Support for education and training,0
+2016,MYS,Port and community infrastructure,0.24
+2016,MYS,Direct fisher income support,55
+2017,MYS,Total,0
+2017,MYS,Port and community infrastructure,0
+2017,MYS,Port and community infrastructure,0
+2017,MYS,Direct fisher income support,0
+2017,MYS,Support for education and training,0
+2018,MYS,Total,0
+2018,MYS,Port and community infrastructure,0
+2018,MYS,Port and community infrastructure,0
+2018,MYS,Direct fisher income support,0
+2018,MYS,Support for education and training,0
+2019,MYS,Total,0
+2019,MYS,Port and community infrastructure,0
+2019,MYS,Port and community infrastructure,0
+2019,MYS,Direct fisher income support,0
+2019,MYS,Support for education and training,0
+2020,MYS,Total,0
+2020,MYS,Port and community infrastructure,0
+2020,MYS,Port and community infrastructure,0
+2020,MYS,Direct fisher income support,0
+2020,MYS,Support for education and training,0
+2021,MYS,Total,0
+2021,MYS,Port and community infrastructure,0
+2021,MYS,Port and community infrastructure,0
+2021,MYS,Direct fisher income support,0
+2021,MYS,Support for education and training,0
+2022,MYS,Total,0
+2022,MYS,Port and community infrastructure,0
+2022,MYS,Port and community infrastructure,0
+2022,MYS,Direct fisher income support,0
+2022,MYS,Support for education and training,0
+2000,NLD,Total,0
+2000,NLD,Direct fisher income support,0
+2000,NLD,Buyback of vessel and license,0
+2000,NLD,Support for education and training,0
+2001,NLD,Total,0
+2001,NLD,Direct fisher income support,0
+2001,NLD,Buyback of vessel and license,0
+2001,NLD,Support for education and training,0
+2002,NLD,Total,0
+2002,NLD,Direct fisher income support,0
+2002,NLD,Buyback of vessel and license,0
+2002,NLD,Support for education and training,0
+2003,NLD,Total,0
+2003,NLD,Direct fisher income support,0
+2003,NLD,Buyback of vessel and license,0
+2003,NLD,Support for education and training,0
+2004,NLD,Total,0
+2004,NLD,Direct fisher income support,0
+2004,NLD,Buyback of vessel and license,0
+2004,NLD,Support for education and training,0
+2005,NLD,Total,0
+2005,NLD,Direct fisher income support,0
+2005,NLD,Buyback of vessel and license,0
+2005,NLD,Support for education and training,0
+2006,NLD,Total,0
+2006,NLD,Direct fisher income support,0
+2006,NLD,Buyback of vessel and license,0
+2006,NLD,Support for education and training,0
+2007,NLD,Total,0
+2007,NLD,Direct fisher income support,0
+2007,NLD,Buyback of vessel and license,0
+2007,NLD,Support for education and training,0
+2008,NLD,Total,40
+2008,NLD,Direct fisher income support,0
+2008,NLD,Support for education and training,0
+2008,NLD,Buyback of vessel and license,40
+2009,NLD,Total,0
+2009,NLD,Direct fisher income support,0
+2009,NLD,Buyback of vessel and license,0
+2009,NLD,Support for education and training,0
+2010,NLD,Total,0
+2010,NLD,Direct fisher income support,0
+2010,NLD,Buyback of vessel and license,0
+2010,NLD,Support for education and training,0
+2011,NLD,Total,0
+2011,NLD,Direct fisher income support,0
+2011,NLD,Buyback of vessel and license,0
+2011,NLD,Support for education and training,0
+2012,NLD,Total,1.9
+2012,NLD,Direct fisher income support,0
+2012,NLD,Buyback of vessel and license,0
+2012,NLD,Support for education and training,1.9
+2013,NLD,Total,2.2
+2013,NLD,Direct fisher income support,0
+2013,NLD,Buyback of vessel and license,0
+2013,NLD,Support for education and training,2.2
+2014,NLD,Total,2.3
+2014,NLD,Direct fisher income support,0
+2014,NLD,Buyback of vessel and license,0
+2014,NLD,Support for education and training,2.3
+2015,NLD,Total,1.4
+2015,NLD,Direct fisher income support,0
+2015,NLD,Buyback of vessel and license,0
+2015,NLD,Support for education and training,1.4
+2016,NLD,Total,4.1
+2016,NLD,Direct fisher income support,0
+2016,NLD,Buyback of vessel and license,0
+2016,NLD,Support for education and training,4.1
+2017,NLD,Total,0
+2017,NLD,Direct fisher income support,0
+2017,NLD,Buyback of vessel and license,0
+2017,NLD,Support for education and training,0
+2018,NLD,Total,0
+2018,NLD,Direct fisher income support,0
+2018,NLD,Buyback of vessel and license,0
+2018,NLD,Support for education and training,0
+2019,NLD,Total,0
+2019,NLD,Direct fisher income support,0
+2019,NLD,Buyback of vessel and license,0
+2019,NLD,Support for education and training,0
+2020,NLD,Total,4.2
+2020,NLD,Buyback of vessel and license,0
+2020,NLD,Support for education and training,0
+2020,NLD,Direct fisher income support,4.2
+2021,NLD,Total,0.58
+2021,NLD,Buyback of vessel and license,0
+2021,NLD,Support for education and training,0
+2021,NLD,Direct fisher income support,0.58
+2022,NLD,Total,0.05
+2022,NLD,Buyback of vessel and license,0
+2022,NLD,Support for education and training,0
+2022,NLD,Direct fisher income support,0.05
+2000,NOR,Total,0
+2000,NOR,Port and community infrastructure,0
+2000,NOR,Port and community infrastructure,0
+2000,NOR,Direct fisher income support,0
+2000,NOR,Buyback of vessel and license,0
+2000,NOR,Support for education and training,0
+2001,NOR,Total,41
+2001,NOR,Port and community infrastructure,0.32
+2001,NOR,Buyback of vessel and license,1.5
+2001,NOR,Support for education and training,3.1
+2001,NOR,Port and community infrastructure,5.4
+2001,NOR,Direct fisher income support,31
+2002,NOR,Total,44
+2002,NOR,Port and community infrastructure,0.36
+2002,NOR,Buyback of vessel and license,1.5
+2002,NOR,Support for education and training,3.1
+2002,NOR,Port and community infrastructure,5.1
+2002,NOR,Direct fisher income support,34
+2003,NOR,Total,50
+2003,NOR,Port and community infrastructure,0.49
+2003,NOR,Buyback of vessel and license,1.9
+2003,NOR,Support for education and training,2.3
+2003,NOR,Port and community infrastructure,8
+2003,NOR,Direct fisher income support,37
+2004,NOR,Total,45
+2004,NOR,Port and community infrastructure,0.3
+2004,NOR,Support for education and training,1.3
+2004,NOR,Port and community infrastructure,3.7
+2004,NOR,Buyback of vessel and license,4.7
+2004,NOR,Direct fisher income support,35
+2005,NOR,Total,41
+2005,NOR,Support for education and training,0
+2005,NOR,Port and community infrastructure,0.28
+2005,NOR,Port and community infrastructure,2
+2005,NOR,Buyback of vessel and license,3.3
+2005,NOR,Direct fisher income support,35
+2006,NOR,Total,40
+2006,NOR,Support for education and training,0
+2006,NOR,Port and community infrastructure,0.28
+2006,NOR,Buyback of vessel and license,0.78
+2006,NOR,Port and community infrastructure,4.1
+2006,NOR,Direct fisher income support,35
+2007,NOR,Total,41
+2007,NOR,Support for education and training,0
+2007,NOR,Port and community infrastructure,0.26
+2007,NOR,Buyback of vessel and license,0.85
+2007,NOR,Port and community infrastructure,4.7
+2007,NOR,Direct fisher income support,36
+2008,NOR,Total,53
+2008,NOR,Support for education and training,0
+2008,NOR,Port and community infrastructure,0.27
+2008,NOR,Buyback of vessel and license,2
+2008,NOR,Port and community infrastructure,5.5
+2008,NOR,Direct fisher income support,46
+2009,NOR,Total,59
+2009,NOR,Buyback of vessel and license,0
+2009,NOR,Support for education and training,0
+2009,NOR,Port and community infrastructure,0.24
+2009,NOR,Port and community infrastructure,7.2
+2009,NOR,Direct fisher income support,51
+2010,NOR,Total,54
+2010,NOR,Buyback of vessel and license,0
+2010,NOR,Port and community infrastructure,0.5
+2010,NOR,Support for education and training,2.2
+2010,NOR,Port and community infrastructure,5.8
+2010,NOR,Direct fisher income support,45
+2011,NOR,Total,51
+2011,NOR,Buyback of vessel and license,0
+2011,NOR,Port and community infrastructure,0.54
+2011,NOR,Support for education and training,2.1
+2011,NOR,Port and community infrastructure,6.2
+2011,NOR,Direct fisher income support,42
+2012,NOR,Total,55
+2012,NOR,Buyback of vessel and license,0
+2012,NOR,Port and community infrastructure,0.52
+2012,NOR,Support for education and training,0.94
+2012,NOR,Port and community infrastructure,6
+2012,NOR,Direct fisher income support,48
+2013,NOR,Total,54
+2013,NOR,Buyback of vessel and license,0
+2013,NOR,Port and community infrastructure,0.34
+2013,NOR,Support for education and training,2.7
+2013,NOR,Port and community infrastructure,6
+2013,NOR,Direct fisher income support,45
+2014,NOR,Total,40
+2014,NOR,Buyback of vessel and license,0
+2014,NOR,Port and community infrastructure,0.24
+2014,NOR,Support for education and training,0.36
+2014,NOR,Port and community infrastructure,4.5
+2014,NOR,Direct fisher income support,35
+2015,NOR,Total,34
+2015,NOR,Port and community infrastructure,0
+2015,NOR,Buyback of vessel and license,0
+2015,NOR,Support for education and training,0.24
+2015,NOR,Port and community infrastructure,3.6
+2015,NOR,Direct fisher income support,30
+2016,NOR,Total,35
+2016,NOR,Port and community infrastructure,0
+2016,NOR,Buyback of vessel and license,0
+2016,NOR,Support for education and training,0.18
+2016,NOR,Port and community infrastructure,4.2
+2016,NOR,Direct fisher income support,30
+2017,NOR,Total,34
+2017,NOR,Port and community infrastructure,0
+2017,NOR,Buyback of vessel and license,0
+2017,NOR,Support for education and training,0.27
+2017,NOR,Port and community infrastructure,4.5
+2017,NOR,Direct fisher income support,30
+2018,NOR,Total,33
+2018,NOR,Port and community infrastructure,0
+2018,NOR,Buyback of vessel and license,0
+2018,NOR,Support for education and training,0
+2018,NOR,Port and community infrastructure,4
+2018,NOR,Direct fisher income support,29
+2019,NOR,Total,29
+2019,NOR,Port and community infrastructure,0
+2019,NOR,Buyback of vessel and license,0
+2019,NOR,Support for education and training,0
+2019,NOR,Port and community infrastructure,3.6
+2019,NOR,Direct fisher income support,26
+2020,NOR,Total,26
+2020,NOR,Port and community infrastructure,0
+2020,NOR,Buyback of vessel and license,0
+2020,NOR,Support for education and training,0
+2020,NOR,Port and community infrastructure,1.9
+2020,NOR,Direct fisher income support,24
+2021,NOR,Total,58
+2021,NOR,Port and community infrastructure,0
+2021,NOR,Buyback of vessel and license,0
+2021,NOR,Support for education and training,0
+2021,NOR,Port and community infrastructure,1.9
+2021,NOR,Direct fisher income support,57
+2022,NOR,Total,53
+2022,NOR,Port and community infrastructure,0
+2022,NOR,Buyback of vessel and license,0
+2022,NOR,Support for education and training,0
+2022,NOR,Port and community infrastructure,1.6
+2022,NOR,Direct fisher income support,51
+2000,PER,Total,5.5
+2000,PER,Port and community infrastructure,0.08
+2000,PER,Support for education and training,0.32
+2000,PER,Direct fisher income support,5.1
+2001,PER,Total,7.5
+2001,PER,Support for education and training,0.65
+2001,PER,Port and community infrastructure,1
+2001,PER,Direct fisher income support,5.9
+2002,PER,Total,7
+2002,PER,Port and community infrastructure,0.12
+2002,PER,Support for education and training,0.36
+2002,PER,Direct fisher income support,6.6
+2003,PER,Total,8.4
+2003,PER,Port and community infrastructure,0.16
+2003,PER,Support for education and training,0.51
+2003,PER,Direct fisher income support,7.7
+2004,PER,Total,11
+2004,PER,Port and community infrastructure,0.07
+2004,PER,Support for education and training,0.55
+2004,PER,Direct fisher income support,9.9
+2005,PER,Total,15
+2005,PER,Port and community infrastructure,0.12
+2005,PER,Support for education and training,0.77
+2005,PER,Direct fisher income support,14
+2006,PER,Total,21
+2006,PER,Support for education and training,0.91
+2006,PER,Port and community infrastructure,3.3
+2006,PER,Direct fisher income support,16
+2007,PER,Total,32
+2007,PER,Support for education and training,0.99
+2007,PER,Port and community infrastructure,10
+2007,PER,Direct fisher income support,21
+2008,PER,Total,29
+2008,PER,Support for education and training,1.2
+2008,PER,Port and community infrastructure,4
+2008,PER,Direct fisher income support,24
+2009,PER,Total,35
+2009,PER,Port and community infrastructure,0.25
+2009,PER,Support for education and training,1.3
+2009,PER,Direct fisher income support,34
+2010,PER,Total,40
+2010,PER,Port and community infrastructure,0.1
+2010,PER,Support for education and training,1.5
+2010,PER,Direct fisher income support,39
+2011,PER,Total,41
+2011,PER,Port and community infrastructure,0.21
+2011,PER,Support for education and training,1.7
+2011,PER,Direct fisher income support,39
+2012,PER,Total,45
+2012,PER,Support for education and training,0.86
+2012,PER,Port and community infrastructure,1.3
+2012,PER,Direct fisher income support,43
+2013,PER,Total,54
+2013,PER,Support for education and training,1.8
+2013,PER,Port and community infrastructure,9.6
+2013,PER,Direct fisher income support,43
+2014,PER,Total,69
+2014,PER,Support for education and training,1.9
+2014,PER,Port and community infrastructure,14
+2014,PER,Direct fisher income support,53
+2015,PER,Total,56
+2015,PER,Support for education and training,1.8
+2015,PER,Port and community infrastructure,21
+2015,PER,Direct fisher income support,33
+2016,PER,Total,28
+2016,PER,Support for education and training,1.8
+2016,PER,Port and community infrastructure,4.2
+2016,PER,Direct fisher income support,22
+2017,PER,Total,61
+2017,PER,Support for education and training,2.2
+2017,PER,Port and community infrastructure,22
+2017,PER,Direct fisher income support,37
+2018,PER,Total,71
+2018,PER,Support for education and training,2
+2018,PER,Port and community infrastructure,24
+2018,PER,Direct fisher income support,45
+2019,PER,Total,53
+2019,PER,Support for education and training,2.4
+2019,PER,Port and community infrastructure,17
+2019,PER,Direct fisher income support,34
+2020,PER,Total,49
+2020,PER,Support for education and training,1.3
+2020,PER,Port and community infrastructure,19
+2020,PER,Direct fisher income support,29
+2021,PER,Total,50
+2021,PER,Support for education and training,1.1
+2021,PER,Port and community infrastructure,15
+2021,PER,Direct fisher income support,34
+2022,PER,Total,48
+2022,PER,Support for education and training,1.8
+2022,PER,Port and community infrastructure,12
+2022,PER,Direct fisher income support,34
+2000,PHL,Total,0
+2000,PHL,Port and community infrastructure,0
+2000,PHL,Support for education and training,0
+2001,PHL,Total,0
+2001,PHL,Port and community infrastructure,0
+2001,PHL,Support for education and training,0
+2002,PHL,Total,0
+2002,PHL,Port and community infrastructure,0
+2002,PHL,Support for education and training,0
+2003,PHL,Total,0
+2003,PHL,Port and community infrastructure,0
+2003,PHL,Support for education and training,0
+2004,PHL,Total,0
+2004,PHL,Port and community infrastructure,0
+2004,PHL,Support for education and training,0
+2005,PHL,Total,0.01
+2005,PHL,Support for education and training,0
+2005,PHL,Port and community infrastructure,0
+2006,PHL,Total,0.01
+2006,PHL,Support for education and training,0
+2006,PHL,Port and community infrastructure,0.01
+2007,PHL,Total,0.01
+2007,PHL,Support for education and training,0
+2007,PHL,Port and community infrastructure,0.01
+2008,PHL,Total,0.01
+2008,PHL,Support for education and training,0
+2008,PHL,Port and community infrastructure,0.01
+2009,PHL,Total,0.01
+2009,PHL,Support for education and training,0
+2009,PHL,Port and community infrastructure,0.01
+2010,PHL,Total,0.02
+2010,PHL,Support for education and training,0.01
+2010,PHL,Port and community infrastructure,0.01
+2011,PHL,Total,0.01
+2011,PHL,Support for education and training,0.01
+2011,PHL,Port and community infrastructure,0.01
+2012,PHL,Total,0.02
+2012,PHL,Support for education and training,0.01
+2012,PHL,Port and community infrastructure,0.01
+2013,PHL,Total,0.02
+2013,PHL,Support for education and training,0.01
+2013,PHL,Port and community infrastructure,0.01
+2014,PHL,Total,0.02
+2014,PHL,Support for education and training,0.01
+2014,PHL,Port and community infrastructure,0.01
+2015,PHL,Total,0.03
+2015,PHL,Support for education and training,0.01
+2015,PHL,Port and community infrastructure,0.02
+2016,PHL,Total,0.03
+2016,PHL,Support for education and training,0.01
+2016,PHL,Port and community infrastructure,0.02
+2017,PHL,Total,0
+2017,PHL,Port and community infrastructure,0
+2017,PHL,Support for education and training,0
+2018,PHL,Total,0
+2018,PHL,Port and community infrastructure,0
+2018,PHL,Support for education and training,0
+2019,PHL,Total,0
+2019,PHL,Port and community infrastructure,0
+2019,PHL,Support for education and training,0
+2020,PHL,Total,0
+2020,PHL,Port and community infrastructure,0
+2020,PHL,Support for education and training,0
+2021,PHL,Total,0
+2021,PHL,Port and community infrastructure,0
+2021,PHL,Support for education and training,0
+2022,PHL,Total,0
+2022,PHL,Port and community infrastructure,0
+2022,PHL,Support for education and training,0
+2000,POL,Total,0
+2000,POL,Port and community infrastructure,0
+2000,POL,Direct fisher income support,0
+2000,POL,Buyback of vessel and license,0
+2000,POL,Support for education and training,0
+2001,POL,Total,0
+2001,POL,Port and community infrastructure,0
+2001,POL,Direct fisher income support,0
+2001,POL,Buyback of vessel and license,0
+2001,POL,Support for education and training,0
+2002,POL,Total,0
+2002,POL,Port and community infrastructure,0
+2002,POL,Direct fisher income support,0
+2002,POL,Buyback of vessel and license,0
+2002,POL,Support for education and training,0
+2003,POL,Total,0
+2003,POL,Port and community infrastructure,0
+2003,POL,Direct fisher income support,0
+2003,POL,Buyback of vessel and license,0
+2003,POL,Support for education and training,0
+2004,POL,Total,0
+2004,POL,Port and community infrastructure,0
+2004,POL,Direct fisher income support,0
+2004,POL,Buyback of vessel and license,0
+2004,POL,Support for education and training,0
+2005,POL,Total,0
+2005,POL,Port and community infrastructure,0
+2005,POL,Direct fisher income support,0
+2005,POL,Buyback of vessel and license,0
+2005,POL,Support for education and training,0
+2006,POL,Total,0
+2006,POL,Port and community infrastructure,0
+2006,POL,Direct fisher income support,0
+2006,POL,Buyback of vessel and license,0
+2006,POL,Support for education and training,0
+2007,POL,Total,0
+2007,POL,Port and community infrastructure,0
+2007,POL,Direct fisher income support,0
+2007,POL,Buyback of vessel and license,0
+2007,POL,Support for education and training,0
+2008,POL,Total,0
+2008,POL,Port and community infrastructure,0
+2008,POL,Direct fisher income support,0
+2008,POL,Buyback of vessel and license,0
+2008,POL,Support for education and training,0
+2009,POL,Total,50
+2009,POL,Port and community infrastructure,0
+2009,POL,Support for education and training,0
+2009,POL,Buyback of vessel and license,0.5
+2009,POL,Direct fisher income support,49
+2010,POL,Total,28
+2010,POL,Support for education and training,0
+2010,POL,Port and community infrastructure,0.77
+2010,POL,Buyback of vessel and license,3.7
+2010,POL,Direct fisher income support,23
+2011,POL,Total,42
+2011,POL,Support for education and training,0
+2011,POL,Buyback of vessel and license,1.7
+2011,POL,Port and community infrastructure,16
+2011,POL,Direct fisher income support,24
+2012,POL,Total,64
+2012,POL,Buyback of vessel and license,2.1
+2012,POL,Support for education and training,8.4
+2012,POL,Direct fisher income support,17
+2012,POL,Port and community infrastructure,37
+2013,POL,Total,141
+2013,POL,Buyback of vessel and license,2
+2013,POL,Direct fisher income support,15
+2013,POL,Port and community infrastructure,56
+2013,POL,Support for education and training,68
+2014,POL,Total,135
+2014,POL,Buyback of vessel and license,2
+2014,POL,Direct fisher income support,10
+2014,POL,Port and community infrastructure,21
+2014,POL,Support for education and training,102
+2015,POL,Total,182
+2015,POL,Buyback of vessel and license,8.3
+2015,POL,Direct fisher income support,8.9
+2015,POL,Port and community infrastructure,51
+2015,POL,Support for education and training,114
+2016,POL,Total,0
+2016,POL,Port and community infrastructure,0
+2016,POL,Direct fisher income support,0
+2016,POL,Buyback of vessel and license,0
+2016,POL,Support for education and training,0
+2017,POL,Total,32
+2017,POL,Port and community infrastructure,0
+2017,POL,Support for education and training,1.1
+2017,POL,Buyback of vessel and license,13
+2017,POL,Direct fisher income support,18
+2018,POL,Total,23
+2018,POL,Buyback of vessel and license,1.6
+2018,POL,Port and community infrastructure,1.8
+2018,POL,Direct fisher income support,8.1
+2018,POL,Support for education and training,12
+2019,POL,Total,37
+2019,POL,Buyback of vessel and license,0
+2019,POL,Port and community infrastructure,1.9
+2019,POL,Direct fisher income support,14
+2019,POL,Support for education and training,22
+2020,POL,Total,57
+2020,POL,Buyback of vessel and license,0
+2020,POL,Port and community infrastructure,0.03
+2020,POL,Support for education and training,16
+2020,POL,Direct fisher income support,41
+2021,POL,Total,17
+2021,POL,Buyback of vessel and license,0
+2021,POL,Port and community infrastructure,0.11
+2021,POL,Direct fisher income support,1.4
+2021,POL,Support for education and training,15
+2022,POL,Total,11
+2022,POL,Buyback of vessel and license,0
+2022,POL,Direct fisher income support,0.1
+2022,POL,Port and community infrastructure,2.3
+2022,POL,Support for education and training,8.9
+2000,PRT,Total,0
+2000,PRT,Port and community infrastructure,0
+2000,PRT,Direct fisher income support,0
+2000,PRT,Buyback of vessel and license,0
+2000,PRT,Support for education and training,0
+2001,PRT,Total,0
+2001,PRT,Port and community infrastructure,0
+2001,PRT,Direct fisher income support,0
+2001,PRT,Buyback of vessel and license,0
+2001,PRT,Support for education and training,0
+2002,PRT,Total,0
+2002,PRT,Port and community infrastructure,0
+2002,PRT,Direct fisher income support,0
+2002,PRT,Buyback of vessel and license,0
+2002,PRT,Support for education and training,0
+2003,PRT,Total,0
+2003,PRT,Port and community infrastructure,0
+2003,PRT,Direct fisher income support,0
+2003,PRT,Buyback of vessel and license,0
+2003,PRT,Support for education and training,0
+2004,PRT,Total,0
+2004,PRT,Port and community infrastructure,0
+2004,PRT,Direct fisher income support,0
+2004,PRT,Buyback of vessel and license,0
+2004,PRT,Support for education and training,0
+2005,PRT,Total,0
+2005,PRT,Port and community infrastructure,0
+2005,PRT,Direct fisher income support,0
+2005,PRT,Buyback of vessel and license,0
+2005,PRT,Support for education and training,0
+2006,PRT,Total,0
+2006,PRT,Port and community infrastructure,0
+2006,PRT,Direct fisher income support,0
+2006,PRT,Buyback of vessel and license,0
+2006,PRT,Support for education and training,0
+2007,PRT,Total,0
+2007,PRT,Port and community infrastructure,0
+2007,PRT,Direct fisher income support,0
+2007,PRT,Buyback of vessel and license,0
+2007,PRT,Support for education and training,0
+2008,PRT,Total,0
+2008,PRT,Port and community infrastructure,0
+2008,PRT,Direct fisher income support,0
+2008,PRT,Buyback of vessel and license,0
+2008,PRT,Support for education and training,0
+2009,PRT,Total,21
+2009,PRT,Port and community infrastructure,0
+2009,PRT,Support for education and training,0
+2009,PRT,Direct fisher income support,5.5
+2009,PRT,Buyback of vessel and license,16
+2010,PRT,Total,15
+2010,PRT,Port and community infrastructure,0
+2010,PRT,Support for education and training,0
+2010,PRT,Direct fisher income support,4.1
+2010,PRT,Buyback of vessel and license,11
+2011,PRT,Total,5.4
+2011,PRT,Port and community infrastructure,0
+2011,PRT,Support for education and training,0.53
+2011,PRT,Buyback of vessel and license,1.8
+2011,PRT,Direct fisher income support,3
+2012,PRT,Total,4.3
+2012,PRT,Port and community infrastructure,0
+2012,PRT,Buyback of vessel and license,0.26
+2012,PRT,Direct fisher income support,1.6
+2012,PRT,Support for education and training,2.4
+2013,PRT,Total,3.5
+2013,PRT,Port and community infrastructure,0
+2013,PRT,Buyback of vessel and license,0.04
+2013,PRT,Direct fisher income support,0.57
+2013,PRT,Support for education and training,2.9
+2014,PRT,Total,20
+2014,PRT,Port and community infrastructure,0
+2014,PRT,Support for education and training,6.1
+2014,PRT,Direct fisher income support,6.2
+2014,PRT,Buyback of vessel and license,8
+2015,PRT,Total,17
+2015,PRT,Port and community infrastructure,0
+2015,PRT,Buyback of vessel and license,0.14
+2015,PRT,Direct fisher income support,4.7
+2015,PRT,Support for education and training,13
+2016,PRT,Total,7.9
+2016,PRT,Buyback of vessel and license,0
+2016,PRT,Support for education and training,0
+2016,PRT,Direct fisher income support,1.1
+2016,PRT,Port and community infrastructure,6.9
+2017,PRT,Total,10
+2017,PRT,Buyback of vessel and license,0
+2017,PRT,Support for education and training,0
+2017,PRT,Port and community infrastructure,4.4
+2017,PRT,Direct fisher income support,5.9
+2018,PRT,Total,10
+2018,PRT,Support for education and training,0
+2018,PRT,Buyback of vessel and license,1
+2018,PRT,Port and community infrastructure,3.6
+2018,PRT,Direct fisher income support,5.8
+2019,PRT,Total,8.3
+2019,PRT,Buyback of vessel and license,0
+2019,PRT,Support for education and training,0
+2019,PRT,Direct fisher income support,3.8
+2019,PRT,Port and community infrastructure,4.5
+2020,PRT,Total,16
+2020,PRT,Buyback of vessel and license,0
+2020,PRT,Support for education and training,0
+2020,PRT,Port and community infrastructure,5.1
+2020,PRT,Direct fisher income support,10
+2021,PRT,Total,0
+2021,PRT,Port and community infrastructure,0
+2021,PRT,Direct fisher income support,0
+2021,PRT,Buyback of vessel and license,0
+2021,PRT,Support for education and training,0
+2022,PRT,Total,0
+2022,PRT,Port and community infrastructure,0
+2022,PRT,Direct fisher income support,0
+2022,PRT,Buyback of vessel and license,0
+2022,PRT,Support for education and training,0
+2000,ROU,Total,0
+2000,ROU,Port and community infrastructure,0
+2000,ROU,Direct fisher income support,0
+2000,ROU,Buyback of vessel and license,0
+2000,ROU,Support for education and training,0
+2001,ROU,Total,0
+2001,ROU,Port and community infrastructure,0
+2001,ROU,Direct fisher income support,0
+2001,ROU,Buyback of vessel and license,0
+2001,ROU,Support for education and training,0
+2002,ROU,Total,0
+2002,ROU,Port and community infrastructure,0
+2002,ROU,Direct fisher income support,0
+2002,ROU,Buyback of vessel and license,0
+2002,ROU,Support for education and training,0
+2003,ROU,Total,0
+2003,ROU,Port and community infrastructure,0
+2003,ROU,Direct fisher income support,0
+2003,ROU,Buyback of vessel and license,0
+2003,ROU,Support for education and training,0
+2004,ROU,Total,0
+2004,ROU,Port and community infrastructure,0
+2004,ROU,Direct fisher income support,0
+2004,ROU,Buyback of vessel and license,0
+2004,ROU,Support for education and training,0
+2005,ROU,Total,0
+2005,ROU,Port and community infrastructure,0
+2005,ROU,Direct fisher income support,0
+2005,ROU,Buyback of vessel and license,0
+2005,ROU,Support for education and training,0
+2006,ROU,Total,0
+2006,ROU,Port and community infrastructure,0
+2006,ROU,Direct fisher income support,0
+2006,ROU,Buyback of vessel and license,0
+2006,ROU,Support for education and training,0
+2007,ROU,Total,0
+2007,ROU,Port and community infrastructure,0
+2007,ROU,Direct fisher income support,0
+2007,ROU,Buyback of vessel and license,0
+2007,ROU,Support for education and training,0
+2008,ROU,Total,0
+2008,ROU,Port and community infrastructure,0
+2008,ROU,Direct fisher income support,0
+2008,ROU,Buyback of vessel and license,0
+2008,ROU,Support for education and training,0
+2009,ROU,Total,0
+2009,ROU,Port and community infrastructure,0
+2009,ROU,Direct fisher income support,0
+2009,ROU,Buyback of vessel and license,0
+2009,ROU,Support for education and training,0
+2010,ROU,Total,2.4
+2010,ROU,Port and community infrastructure,0
+2010,ROU,Direct fisher income support,0
+2010,ROU,Support for education and training,0
+2010,ROU,Buyback of vessel and license,2.4
+2011,ROU,Total,0.73
+2011,ROU,Port and community infrastructure,0
+2011,ROU,Direct fisher income support,0
+2011,ROU,Support for education and training,0
+2011,ROU,Buyback of vessel and license,0.73
+2012,ROU,Total,0.12
+2012,ROU,Port and community infrastructure,0
+2012,ROU,Direct fisher income support,0
+2012,ROU,Support for education and training,0
+2012,ROU,Buyback of vessel and license,0.12
+2013,ROU,Total,4.6
+2013,ROU,Port and community infrastructure,0
+2013,ROU,Direct fisher income support,0
+2013,ROU,Support for education and training,0.2
+2013,ROU,Buyback of vessel and license,4.4
+2014,ROU,Total,35
+2014,ROU,Port and community infrastructure,0
+2014,ROU,Direct fisher income support,0
+2014,ROU,Buyback of vessel and license,0
+2014,ROU,Support for education and training,35
+2015,ROU,Total,9.5
+2015,ROU,Port and community infrastructure,0
+2015,ROU,Direct fisher income support,0
+2015,ROU,Buyback of vessel and license,0
+2015,ROU,Support for education and training,9.5
+2016,ROU,Total,0.71
+2016,ROU,Port and community infrastructure,0
+2016,ROU,Direct fisher income support,0
+2016,ROU,Buyback of vessel and license,0
+2016,ROU,Support for education and training,0.71
+2017,ROU,Total,15
+2017,ROU,Port and community infrastructure,0
+2017,ROU,Direct fisher income support,0
+2017,ROU,Buyback of vessel and license,0
+2017,ROU,Support for education and training,15
+2018,ROU,Total,2.1
+2018,ROU,Direct fisher income support,0
+2018,ROU,Buyback of vessel and license,0
+2018,ROU,Port and community infrastructure,0.36
+2018,ROU,Support for education and training,1.8
+2019,ROU,Total,19
+2019,ROU,Direct fisher income support,0
+2019,ROU,Buyback of vessel and license,0
+2019,ROU,Port and community infrastructure,1.8
+2019,ROU,Support for education and training,18
+2020,ROU,Total,8.9
+2020,ROU,Port and community infrastructure,0
+2020,ROU,Direct fisher income support,0
+2020,ROU,Buyback of vessel and license,0
+2020,ROU,Support for education and training,8.9
+2021,ROU,Total,9.5
+2021,ROU,Port and community infrastructure,0
+2021,ROU,Buyback of vessel and license,0
+2021,ROU,Direct fisher income support,0.84
+2021,ROU,Support for education and training,8.6
+2022,ROU,Total,0
+2022,ROU,Port and community infrastructure,0
+2022,ROU,Direct fisher income support,0
+2022,ROU,Buyback of vessel and license,0
+2022,ROU,Support for education and training,0
+2000,SVN,Total,0
+2000,SVN,Port and community infrastructure,0
+2000,SVN,Port and community infrastructure,0
+2000,SVN,Direct fisher income support,0
+2000,SVN,Buyback of vessel and license,0
+2000,SVN,Support for education and training,0
+2001,SVN,Total,0
+2001,SVN,Port and community infrastructure,0
+2001,SVN,Port and community infrastructure,0
+2001,SVN,Direct fisher income support,0
+2001,SVN,Buyback of vessel and license,0
+2001,SVN,Support for education and training,0
+2002,SVN,Total,0
+2002,SVN,Port and community infrastructure,0
+2002,SVN,Port and community infrastructure,0
+2002,SVN,Direct fisher income support,0
+2002,SVN,Buyback of vessel and license,0
+2002,SVN,Support for education and training,0
+2003,SVN,Total,0
+2003,SVN,Port and community infrastructure,0
+2003,SVN,Port and community infrastructure,0
+2003,SVN,Direct fisher income support,0
+2003,SVN,Buyback of vessel and license,0
+2003,SVN,Support for education and training,0
+2004,SVN,Total,0
+2004,SVN,Port and community infrastructure,0
+2004,SVN,Port and community infrastructure,0
+2004,SVN,Direct fisher income support,0
+2004,SVN,Buyback of vessel and license,0
+2004,SVN,Support for education and training,0
+2005,SVN,Total,0
+2005,SVN,Port and community infrastructure,0
+2005,SVN,Port and community infrastructure,0
+2005,SVN,Direct fisher income support,0
+2005,SVN,Buyback of vessel and license,0
+2005,SVN,Support for education and training,0
+2006,SVN,Total,0
+2006,SVN,Port and community infrastructure,0
+2006,SVN,Port and community infrastructure,0
+2006,SVN,Direct fisher income support,0
+2006,SVN,Buyback of vessel and license,0
+2006,SVN,Support for education and training,0
+2007,SVN,Total,0.01
+2007,SVN,Port and community infrastructure,0
+2007,SVN,Direct fisher income support,0
+2007,SVN,Buyback of vessel and license,0
+2007,SVN,Support for education and training,0
+2007,SVN,Port and community infrastructure,0.01
+2008,SVN,Total,0.16
+2008,SVN,Port and community infrastructure,0
+2008,SVN,Buyback of vessel and license,0
+2008,SVN,Support for education and training,0
+2008,SVN,Port and community infrastructure,0.01
+2008,SVN,Direct fisher income support,0.15
+2009,SVN,Total,0.01
+2009,SVN,Port and community infrastructure,0
+2009,SVN,Direct fisher income support,0
+2009,SVN,Buyback of vessel and license,0
+2009,SVN,Support for education and training,0
+2009,SVN,Port and community infrastructure,0.01
+2010,SVN,Total,2.8
+2010,SVN,Direct fisher income support,0
+2010,SVN,Buyback of vessel and license,0
+2010,SVN,Support for education and training,0
+2010,SVN,Port and community infrastructure,0
+2010,SVN,Port and community infrastructure,2.8
+2011,SVN,Total,4
+2011,SVN,Buyback of vessel and license,0
+2011,SVN,Support for education and training,0
+2011,SVN,Port and community infrastructure,0
+2011,SVN,Direct fisher income support,0.14
+2011,SVN,Port and community infrastructure,3.9
+2012,SVN,Total,4
+2012,SVN,Direct fisher income support,0
+2012,SVN,Port and community infrastructure,0
+2012,SVN,Port and community infrastructure,0.66
+2012,SVN,Support for education and training,1.2
+2012,SVN,Buyback of vessel and license,2.1
+2013,SVN,Total,4.4
+2013,SVN,Direct fisher income support,0
+2013,SVN,Port and community infrastructure,0.01
+2013,SVN,Buyback of vessel and license,0.34
+2013,SVN,Support for education and training,1.9
+2013,SVN,Port and community infrastructure,2.2
+2014,SVN,Total,0.28
+2014,SVN,Port and community infrastructure,0
+2014,SVN,Direct fisher income support,0
+2014,SVN,Buyback of vessel and license,0
+2014,SVN,Port and community infrastructure,0.14
+2014,SVN,Support for education and training,0.14
+2015,SVN,Total,0.85
+2015,SVN,Buyback of vessel and license,0
+2015,SVN,Port and community infrastructure,0.03
+2015,SVN,Support for education and training,0.19
+2015,SVN,Direct fisher income support,0.3
+2015,SVN,Port and community infrastructure,0.32
+2016,SVN,Total,0.08
+2016,SVN,Port and community infrastructure,0
+2016,SVN,Direct fisher income support,0
+2016,SVN,Buyback of vessel and license,0
+2016,SVN,Support for education and training,0.03
+2016,SVN,Port and community infrastructure,0.05
+2017,SVN,Total,0.05
+2017,SVN,Port and community infrastructure,0
+2017,SVN,Direct fisher income support,0
+2017,SVN,Buyback of vessel and license,0
+2017,SVN,Support for education and training,0
+2017,SVN,Port and community infrastructure,0.05
+2018,SVN,Total,0.5
+2018,SVN,Port and community infrastructure,0
+2018,SVN,Buyback of vessel and license,0
+2018,SVN,Port and community infrastructure,0.06
+2018,SVN,Direct fisher income support,0.22
+2018,SVN,Support for education and training,0.22
+2019,SVN,Total,1.1
+2019,SVN,Port and community infrastructure,0
+2019,SVN,Buyback of vessel and license,0
+2019,SVN,Port and community infrastructure,0.06
+2019,SVN,Direct fisher income support,0.1
+2019,SVN,Support for education and training,0.91
+2020,SVN,Total,1.3
+2020,SVN,Port and community infrastructure,0
+2020,SVN,Buyback of vessel and license,0
+2020,SVN,Port and community infrastructure,0.09
+2020,SVN,Direct fisher income support,0.25
+2020,SVN,Support for education and training,0.98
+2021,SVN,Total,2.8
+2021,SVN,Port and community infrastructure,0
+2021,SVN,Buyback of vessel and license,0
+2021,SVN,Port and community infrastructure,0.08
+2021,SVN,Direct fisher income support,0.26
+2021,SVN,Support for education and training,2.4
+2022,SVN,Total,1.6
+2022,SVN,Port and community infrastructure,0
+2022,SVN,Buyback of vessel and license,0
+2022,SVN,Port and community infrastructure,0.07
+2022,SVN,Direct fisher income support,0.21
+2022,SVN,Support for education and training,1.3
+2000,SWE,Total,0
+2000,SWE,Port and community infrastructure,0
+2000,SWE,Direct fisher income support,0
+2000,SWE,Buyback of vessel and license,0
+2000,SWE,Support for education and training,0
+2001,SWE,Total,0
+2001,SWE,Port and community infrastructure,0
+2001,SWE,Direct fisher income support,0
+2001,SWE,Buyback of vessel and license,0
+2001,SWE,Support for education and training,0
+2002,SWE,Total,0
+2002,SWE,Port and community infrastructure,0
+2002,SWE,Direct fisher income support,0
+2002,SWE,Buyback of vessel and license,0
+2002,SWE,Support for education and training,0
+2003,SWE,Total,1.6
+2003,SWE,Port and community infrastructure,0
+2003,SWE,Buyback of vessel and license,0
+2003,SWE,Support for education and training,0
+2003,SWE,Direct fisher income support,1.6
+2004,SWE,Total,2.5
+2004,SWE,Port and community infrastructure,0
+2004,SWE,Buyback of vessel and license,0
+2004,SWE,Support for education and training,0
+2004,SWE,Direct fisher income support,2.5
+2005,SWE,Total,2.2
+2005,SWE,Port and community infrastructure,0
+2005,SWE,Buyback of vessel and license,0
+2005,SWE,Support for education and training,0
+2005,SWE,Direct fisher income support,2.2
+2006,SWE,Total,2.3
+2006,SWE,Port and community infrastructure,0
+2006,SWE,Buyback of vessel and license,0
+2006,SWE,Support for education and training,0
+2006,SWE,Direct fisher income support,2.3
+2007,SWE,Total,2.5
+2007,SWE,Port and community infrastructure,0
+2007,SWE,Buyback of vessel and license,0
+2007,SWE,Support for education and training,0
+2007,SWE,Direct fisher income support,2.5
+2008,SWE,Total,4.8
+2008,SWE,Port and community infrastructure,0
+2008,SWE,Buyback of vessel and license,0
+2008,SWE,Support for education and training,0
+2008,SWE,Direct fisher income support,4.8
+2009,SWE,Total,11
+2009,SWE,Support for education and training,0.08
+2009,SWE,Port and community infrastructure,0.14
+2009,SWE,Direct fisher income support,3.8
+2009,SWE,Buyback of vessel and license,7.2
+2010,SWE,Total,21
+2010,SWE,Support for education and training,0.12
+2010,SWE,Port and community infrastructure,2.4
+2010,SWE,Direct fisher income support,4.7
+2010,SWE,Buyback of vessel and license,14
+2011,SWE,Total,7.9
+2011,SWE,Buyback of vessel and license,0.86
+2011,SWE,Port and community infrastructure,1.1
+2011,SWE,Support for education and training,1.4
+2011,SWE,Direct fisher income support,4.6
+2012,SWE,Total,6
+2012,SWE,Buyback of vessel and license,0.07
+2012,SWE,Port and community infrastructure,0.22
+2012,SWE,Support for education and training,1.7
+2012,SWE,Direct fisher income support,4
+2013,SWE,Total,10
+2013,SWE,Buyback of vessel and license,0
+2013,SWE,Port and community infrastructure,2.3
+2013,SWE,Direct fisher income support,3.9
+2013,SWE,Support for education and training,3.9
+2014,SWE,Total,8.3
+2014,SWE,Buyback of vessel and license,0
+2014,SWE,Port and community infrastructure,0.47
+2014,SWE,Direct fisher income support,3.3
+2014,SWE,Support for education and training,4.6
+2015,SWE,Total,7.5
+2015,SWE,Port and community infrastructure,0
+2015,SWE,Buyback of vessel and license,0
+2015,SWE,Direct fisher income support,2.4
+2015,SWE,Support for education and training,5
+2016,SWE,Total,2.4
+2016,SWE,Port and community infrastructure,0
+2016,SWE,Buyback of vessel and license,0
+2016,SWE,Support for education and training,0.03
+2016,SWE,Direct fisher income support,2.4
+2017,SWE,Total,3.1
+2017,SWE,Buyback of vessel and license,0
+2017,SWE,Port and community infrastructure,0.03
+2017,SWE,Support for education and training,0.72
+2017,SWE,Direct fisher income support,2.4
+2018,SWE,Total,4.5
+2018,SWE,Buyback of vessel and license,0
+2018,SWE,Port and community infrastructure,0.09
+2018,SWE,Direct fisher income support,2.2
+2018,SWE,Support for education and training,2.2
+2019,SWE,Total,5.2
+2019,SWE,Buyback of vessel and license,0
+2019,SWE,Port and community infrastructure,0.27
+2019,SWE,Direct fisher income support,1.9
+2019,SWE,Support for education and training,3.1
+2020,SWE,Total,5.5
+2020,SWE,Buyback of vessel and license,0
+2020,SWE,Port and community infrastructure,0.51
+2020,SWE,Direct fisher income support,2.1
+2020,SWE,Support for education and training,2.9
+2021,SWE,Total,6.1
+2021,SWE,Buyback of vessel and license,0
+2021,SWE,Port and community infrastructure,1.7
+2021,SWE,Direct fisher income support,1.7
+2021,SWE,Support for education and training,2.7
+2022,SWE,Total,4.4
+2022,SWE,Buyback of vessel and license,0
+2022,SWE,Port and community infrastructure,0.6
+2022,SWE,Direct fisher income support,1.6
+2022,SWE,Support for education and training,2.2
+2000,TUR,Total,0
+2000,TUR,Port and community infrastructure,0
+2000,TUR,Direct fisher income support,0
+2000,TUR,Buyback of vessel and license,0
+2001,TUR,Total,0
+2001,TUR,Port and community infrastructure,0
+2001,TUR,Direct fisher income support,0
+2001,TUR,Buyback of vessel and license,0
+2002,TUR,Total,0
+2002,TUR,Port and community infrastructure,0
+2002,TUR,Direct fisher income support,0
+2002,TUR,Buyback of vessel and license,0
+2003,TUR,Total,0
+2003,TUR,Port and community infrastructure,0
+2003,TUR,Direct fisher income support,0
+2003,TUR,Buyback of vessel and license,0
+2004,TUR,Total,0
+2004,TUR,Port and community infrastructure,0
+2004,TUR,Direct fisher income support,0
+2004,TUR,Buyback of vessel and license,0
+2005,TUR,Total,0
+2005,TUR,Port and community infrastructure,0
+2005,TUR,Direct fisher income support,0
+2005,TUR,Buyback of vessel and license,0
+2006,TUR,Total,0
+2006,TUR,Port and community infrastructure,0
+2006,TUR,Direct fisher income support,0
+2006,TUR,Buyback of vessel and license,0
+2007,TUR,Total,0
+2007,TUR,Port and community infrastructure,0
+2007,TUR,Direct fisher income support,0
+2007,TUR,Buyback of vessel and license,0
+2008,TUR,Total,0
+2008,TUR,Port and community infrastructure,0
+2008,TUR,Direct fisher income support,0
+2008,TUR,Buyback of vessel and license,0
+2009,TUR,Total,0
+2009,TUR,Port and community infrastructure,0
+2009,TUR,Direct fisher income support,0
+2009,TUR,Buyback of vessel and license,0
+2010,TUR,Total,0
+2010,TUR,Port and community infrastructure,0
+2010,TUR,Direct fisher income support,0
+2010,TUR,Buyback of vessel and license,0
+2011,TUR,Total,0
+2011,TUR,Port and community infrastructure,0
+2011,TUR,Direct fisher income support,0
+2011,TUR,Buyback of vessel and license,0
+2012,TUR,Total,28
+2012,TUR,Direct fisher income support,0
+2012,TUR,Buyback of vessel and license,0
+2012,TUR,Port and community infrastructure,28
+2013,TUR,Total,54
+2013,TUR,Direct fisher income support,0
+2013,TUR,Port and community infrastructure,21
+2013,TUR,Buyback of vessel and license,33
+2014,TUR,Total,37
+2014,TUR,Direct fisher income support,0
+2014,TUR,Port and community infrastructure,12
+2014,TUR,Buyback of vessel and license,25
+2015,TUR,Total,20
+2015,TUR,Direct fisher income support,0
+2015,TUR,Buyback of vessel and license,8.3
+2015,TUR,Port and community infrastructure,12
+2016,TUR,Total,9.6
+2016,TUR,Direct fisher income support,0
+2016,TUR,Buyback of vessel and license,0
+2016,TUR,Port and community infrastructure,9.6
+2017,TUR,Total,23
+2017,TUR,Direct fisher income support,1.9
+2017,TUR,Buyback of vessel and license,6.1
+2017,TUR,Port and community infrastructure,15
+2018,TUR,Total,18
+2018,TUR,Buyback of vessel and license,0.83
+2018,TUR,Direct fisher income support,1.7
+2018,TUR,Port and community infrastructure,16
+2019,TUR,Total,13
+2019,TUR,Buyback of vessel and license,0
+2019,TUR,Direct fisher income support,2.3
+2019,TUR,Port and community infrastructure,10
+2020,TUR,Total,5.7
+2020,TUR,Buyback of vessel and license,0
+2020,TUR,Direct fisher income support,2
+2020,TUR,Port and community infrastructure,3.8
+2021,TUR,Total,4.7
+2021,TUR,Buyback of vessel and license,0
+2021,TUR,Port and community infrastructure,2.2
+2021,TUR,Direct fisher income support,2.5
+2022,TUR,Total,17
+2022,TUR,Buyback of vessel and license,0
+2022,TUR,Direct fisher income support,1.1
+2022,TUR,Port and community infrastructure,16
+2000,TWN,Total,4.6
+2000,TWN,Port and community infrastructure,0
+2000,TWN,Direct fisher income support,0
+2000,TWN,Buyback of vessel and license,0.37
+2000,TWN,Support for education and training,4.2
+2001,TWN,Total,4.1
+2001,TWN,Port and community infrastructure,0
+2001,TWN,Direct fisher income support,0
+2001,TWN,Buyback of vessel and license,0.5
+2001,TWN,Support for education and training,3.6
+2002,TWN,Total,22
+2002,TWN,Port and community infrastructure,0
+2002,TWN,Direct fisher income support,0
+2002,TWN,Support for education and training,3.5
+2002,TWN,Buyback of vessel and license,19
+2003,TWN,Total,12
+2003,TWN,Port and community infrastructure,0
+2003,TWN,Support for education and training,3
+2003,TWN,Direct fisher income support,4.2
+2003,TWN,Buyback of vessel and license,4.5
+2004,TWN,Total,7.8
+2004,TWN,Port and community infrastructure,0
+2004,TWN,Buyback of vessel and license,0.55
+2004,TWN,Support for education and training,3.2
+2004,TWN,Direct fisher income support,4
+2005,TWN,Total,34
+2005,TWN,Port and community infrastructure,0
+2005,TWN,Support for education and training,3.3
+2005,TWN,Direct fisher income support,4.3
+2005,TWN,Buyback of vessel and license,27
+2006,TWN,Total,68
+2006,TWN,Port and community infrastructure,0
+2006,TWN,Support for education and training,3.3
+2006,TWN,Direct fisher income support,5.2
+2006,TWN,Buyback of vessel and license,60
+2007,TWN,Total,36
+2007,TWN,Port and community infrastructure,0
+2007,TWN,Support for education and training,3.3
+2007,TWN,Direct fisher income support,4.5
+2007,TWN,Buyback of vessel and license,29
+2008,TWN,Total,31
+2008,TWN,Port and community infrastructure,0
+2008,TWN,Support for education and training,3.4
+2008,TWN,Direct fisher income support,8.1
+2008,TWN,Buyback of vessel and license,20
+2009,TWN,Total,26
+2009,TWN,Port and community infrastructure,0
+2009,TWN,Support for education and training,3.1
+2009,TWN,Direct fisher income support,5.7
+2009,TWN,Buyback of vessel and license,17
+2010,TWN,Total,13
+2010,TWN,Port and community infrastructure,0
+2010,TWN,Support for education and training,3.2
+2010,TWN,Buyback of vessel and license,3.4
+2010,TWN,Direct fisher income support,6.2
+2011,TWN,Total,12
+2011,TWN,Port and community infrastructure,0
+2011,TWN,Buyback of vessel and license,2.3
+2011,TWN,Support for education and training,3.3
+2011,TWN,Direct fisher income support,6.8
+2012,TWN,Total,13
+2012,TWN,Port and community infrastructure,0
+2012,TWN,Buyback of vessel and license,2.9
+2012,TWN,Support for education and training,3.3
+2012,TWN,Direct fisher income support,6.8
+2013,TWN,Total,15
+2013,TWN,Port and community infrastructure,0
+2013,TWN,Buyback of vessel and license,3.8
+2013,TWN,Support for education and training,4.2
+2013,TWN,Direct fisher income support,6.9
+2014,TWN,Total,11
+2014,TWN,Port and community infrastructure,0
+2014,TWN,Buyback of vessel and license,1.6
+2014,TWN,Support for education and training,3.1
+2014,TWN,Direct fisher income support,6.8
+2015,TWN,Total,11
+2015,TWN,Port and community infrastructure,0
+2015,TWN,Buyback of vessel and license,1.3
+2015,TWN,Support for education and training,2.9
+2015,TWN,Direct fisher income support,6.6
+2016,TWN,Total,12
+2016,TWN,Port and community infrastructure,0.03
+2016,TWN,Buyback of vessel and license,1.2
+2016,TWN,Support for education and training,4.5
+2016,TWN,Direct fisher income support,6.5
+2017,TWN,Total,11
+2017,TWN,Buyback of vessel and license,0
+2017,TWN,Port and community infrastructure,0.03
+2017,TWN,Support for education and training,4.7
+2017,TWN,Direct fisher income support,6.7
+2018,TWN,Total,11
+2018,TWN,Port and community infrastructure,0
+2018,TWN,Buyback of vessel and license,2.3
+2018,TWN,Support for education and training,2.8
+2018,TWN,Direct fisher income support,6.1
+2019,TWN,Total,33
+2019,TWN,Buyback of vessel and license,1.3
+2019,TWN,Support for education and training,2.7
+2019,TWN,Direct fisher income support,12
+2019,TWN,Port and community infrastructure,16
+2020,TWN,Total,42
+2020,TWN,Buyback of vessel and license,1.2
+2020,TWN,Support for education and training,2.9
+2020,TWN,Direct fisher income support,14
+2020,TWN,Port and community infrastructure,24
+2021,TWN,Total,50
+2021,TWN,Buyback of vessel and license,0
+2021,TWN,Support for education and training,3.1
+2021,TWN,Direct fisher income support,14
+2021,TWN,Port and community infrastructure,33
+2022,TWN,Total,40
+2022,TWN,Buyback of vessel and license,0
+2022,TWN,Support for education and training,3.9
+2022,TWN,Direct fisher income support,13
+2022,TWN,Port and community infrastructure,23
+2000,USA,Total,0
+2000,USA,Direct fisher income support,0
+2000,USA,Buyback of vessel and license,0
+2000,USA,Support for education and training,0
+2001,USA,Total,7.5
+2001,USA,Buyback of vessel and license,0
+2001,USA,Support for education and training,0
+2001,USA,Direct fisher income support,7.5
+2002,USA,Total,13
+2002,USA,Direct fisher income support,0
+2002,USA,Support for education and training,0
+2002,USA,Buyback of vessel and license,13
+2003,USA,Total,5
+2003,USA,Buyback of vessel and license,0
+2003,USA,Support for education and training,0
+2003,USA,Direct fisher income support,5
+2004,USA,Total,10
+2004,USA,Direct fisher income support,0
+2004,USA,Support for education and training,0
+2004,USA,Buyback of vessel and license,10
+2005,USA,Total,0
+2005,USA,Direct fisher income support,0
+2005,USA,Buyback of vessel and license,0
+2005,USA,Support for education and training,0
+2006,USA,Total,132
+2006,USA,Buyback of vessel and license,0
+2006,USA,Support for education and training,0
+2006,USA,Direct fisher income support,132
+2007,USA,Total,145
+2007,USA,Buyback of vessel and license,0
+2007,USA,Support for education and training,0
+2007,USA,Direct fisher income support,145
+2008,USA,Total,244
+2008,USA,Buyback of vessel and license,0
+2008,USA,Support for education and training,0
+2008,USA,Direct fisher income support,244
+2009,USA,Total,10
+2009,USA,Support for education and training,0
+2009,USA,Buyback of vessel and license,0.5
+2009,USA,Direct fisher income support,10
+2010,USA,Total,32
+2010,USA,Buyback of vessel and license,0
+2010,USA,Support for education and training,1
+2010,USA,Direct fisher income support,31
+2011,USA,Total,0
+2011,USA,Direct fisher income support,0
+2011,USA,Buyback of vessel and license,0
+2011,USA,Support for education and training,0
+2012,USA,Total,0
+2012,USA,Direct fisher income support,0
+2012,USA,Buyback of vessel and license,0
+2012,USA,Support for education and training,0
+2013,USA,Total,4.8
+2013,USA,Buyback of vessel and license,0
+2013,USA,Support for education and training,0
+2013,USA,Direct fisher income support,4.8
+2014,USA,Total,75
+2014,USA,Buyback of vessel and license,0
+2014,USA,Support for education and training,0
+2014,USA,Direct fisher income support,75
+2015,USA,Total,0
+2015,USA,Direct fisher income support,0
+2015,USA,Buyback of vessel and license,0
+2015,USA,Support for education and training,0
+2016,USA,Total,0
+2016,USA,Direct fisher income support,0
+2016,USA,Buyback of vessel and license,0
+2016,USA,Support for education and training,0
+2017,USA,Total,0
+2017,USA,Direct fisher income support,0
+2017,USA,Buyback of vessel and license,0
+2017,USA,Support for education and training,0
+2018,USA,Total,220
+2018,USA,Buyback of vessel and license,0
+2018,USA,Support for education and training,0
+2018,USA,Direct fisher income support,220
+2019,USA,Total,165
+2019,USA,Buyback of vessel and license,0
+2019,USA,Support for education and training,0
+2019,USA,Direct fisher income support,165
+2020,USA,Total,300
+2020,USA,Buyback of vessel and license,0
+2020,USA,Support for education and training,0
+2020,USA,Direct fisher income support,300
+2021,USA,Total,300
+2021,USA,Buyback of vessel and license,0
+2021,USA,Support for education and training,0
+2021,USA,Direct fisher income support,300
+2022,USA,Total,200
+2022,USA,Buyback of vessel and license,0
+2022,USA,Support for education and training,0
+2022,USA,Direct fisher income support,200
+2000,VNM,Total,13
+2000,VNM,Support for education and training,0.02
+2000,VNM,Port and community infrastructure,13
+2001,VNM,Total,22
+2001,VNM,Support for education and training,0.17
+2001,VNM,Port and community infrastructure,22
+2002,VNM,Total,22
+2002,VNM,Support for education and training,0.16
+2002,VNM,Port and community infrastructure,22
+2003,VNM,Total,18
+2003,VNM,Support for education and training,0.16
+2003,VNM,Port and community infrastructure,18
+2004,VNM,Total,18
+2004,VNM,Support for education and training,0.16
+2004,VNM,Port and community infrastructure,18
+2005,VNM,Total,35
+2005,VNM,Support for education and training,0.16
+2005,VNM,Port and community infrastructure,35
+2006,VNM,Total,41
+2006,VNM,Support for education and training,0.16
+2006,VNM,Port and community infrastructure,41
+2007,VNM,Total,41
+2007,VNM,Support for education and training,0.15
+2007,VNM,Port and community infrastructure,41
+2008,VNM,Total,39
+2008,VNM,Support for education and training,0.26
+2008,VNM,Port and community infrastructure,39
+2009,VNM,Total,35
+2009,VNM,Support for education and training,0.03
+2009,VNM,Port and community infrastructure,35
+2010,VNM,Total,38
+2010,VNM,Support for education and training,0.08
+2010,VNM,Port and community infrastructure,38
+2011,VNM,Total,22
+2011,VNM,Support for education and training,0.02
+2011,VNM,Port and community infrastructure,22
+2012,VNM,Total,29
+2012,VNM,Support for education and training,5.5
+2012,VNM,Port and community infrastructure,23
+2013,VNM,Total,27
+2013,VNM,Support for education and training,3.7
+2013,VNM,Port and community infrastructure,23
+2014,VNM,Total,45
+2014,VNM,Support for education and training,4.7
+2014,VNM,Port and community infrastructure,41
+2015,VNM,Total,49
+2015,VNM,Support for education and training,4
+2015,VNM,Port and community infrastructure,45
+2016,VNM,Total,19
+2016,VNM,Support for education and training,4.3
+2016,VNM,Port and community infrastructure,15
+2017,VNM,Total,10
+2017,VNM,Support for education and training,3.1
+2017,VNM,Port and community infrastructure,7.2
+2018,VNM,Total,10
+2018,VNM,Support for education and training,3
+2018,VNM,Port and community infrastructure,7.1
+2019,VNM,Total,10
+2019,VNM,Support for education and training,3
+2019,VNM,Port and community infrastructure,7
+2020,VNM,Total,9.8
+2020,VNM,Support for education and training,2.8
+2020,VNM,Port and community infrastructure,7
+2021,VNM,Total,12
+2021,VNM,Support for education and training,2.8
+2021,VNM,Port and community infrastructure,8.9
+2022,VNM,Total,0
+2022,VNM,Port and community infrastructure,0
+2022,VNM,Support for education and training,0
