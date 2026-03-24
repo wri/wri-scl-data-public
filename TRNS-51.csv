@@ -1,4 +1,4 @@
-﻿year,geo,disagg,value
+year,geo,disagg,value
 2020,AGO,Education facilities,48
 2020,ALB,Education facilities,84
 2020,ARE,Education facilities,50
@@ -114,7 +114,6 @@
 2020,NIC,Education facilities,90
 2020,NLD,Education facilities,90
 2020,NOR,Education facilities,97
-2020,NOR,Education facilities,97
 2020,NPL,Education facilities,96
 2020,NZL,Education facilities,96
 2020,OMN,Education facilities,61
@@ -126,13 +125,10 @@
 2020,POL,Education facilities,92
 2020,PRI,Education facilities,83
 2020,PRT,Education facilities,94
-2020,PRT,Education facilities,94
-2020,PRT,Education facilities,94
 2020,PRY,Education facilities,90
 2020,PSE,Education facilities,91
 2020,PYF,Education facilities,81
 2020,QAT,Education facilities,62
-2020,ROU,Education facilities,88
 2020,ROU,Education facilities,88
 2020,RUS,Education facilities,86
 2020,RWA,Education facilities,49
@@ -285,7 +281,6 @@
 2020,NIC,Healthcare facilities,92
 2020,NLD,Healthcare facilities,85
 2020,NOR,Healthcare facilities,90
-2020,NOR,Healthcare facilities,90
 2020,NPL,Healthcare facilities,93
 2020,NZL,Healthcare facilities,82
 2020,OMN,Healthcare facilities,76
@@ -297,13 +292,10 @@
 2020,POL,Healthcare facilities,90
 2020,PRI,Healthcare facilities,64
 2020,PRT,Healthcare facilities,92
-2020,PRT,Healthcare facilities,92
-2020,PRT,Healthcare facilities,92
 2020,PRY,Healthcare facilities,80
 2020,PSE,Healthcare facilities,83
 2020,PYF,Healthcare facilities,83
 2020,QAT,Healthcare facilities,67
-2020,ROU,Healthcare facilities,89
 2020,ROU,Healthcare facilities,89
 2020,RUS,Healthcare facilities,85
 2020,RWA,Healthcare facilities,37
@@ -456,7 +448,6 @@
 2020,NIC,Open public spaces,85
 2020,NLD,Open public spaces,92
 2020,NOR,Open public spaces,91
-2020,NOR,Open public spaces,91
 2020,NPL,Open public spaces,66
 2020,NZL,Open public spaces,99
 2020,OMN,Open public spaces,36
@@ -468,13 +459,10 @@
 2020,POL,Open public spaces,84
 2020,PRI,Open public spaces,59
 2020,PRT,Open public spaces,93
-2020,PRT,Open public spaces,93
-2020,PRT,Open public spaces,93
 2020,PRY,Open public spaces,81
 2020,PSE,Open public spaces,67
 2020,PYF,Open public spaces,82
 2020,QAT,Open public spaces,39
-2020,ROU,Open public spaces,83
 2020,ROU,Open public spaces,83
 2020,RUS,Open public spaces,69
 2020,RWA,Open public spaces,19

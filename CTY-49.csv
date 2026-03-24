@@ -1,4 +1,4 @@
-﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2010,WLD,37.2,,,,
 2011,WLD,38.4,,,,
 2012,WLD,38.8,,,,
@@ -1310,16 +1310,6 @@
 2017,MEX,21.1,,,,
 2018,MEX,19.4,,,,
 2019,MEX,18.4,,,,
-2010,FSM,7.8,,,,
-2011,FSM,7.8,,,,
-2012,FSM,7.8,,,,
-2013,FSM,7.9,,,,
-2014,FSM,7.7,,,,
-2015,FSM,8.0,,,,
-2016,FSM,8.0,,,,
-2017,FSM,8.0,,,,
-2018,FSM,8.2,,,,
-2019,FSM,8.2,,,,
 2010,FSM,7.8,,,,
 2011,FSM,7.5,,,,
 2012,FSM,7.7,,,,

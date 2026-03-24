@@ -1,4 +1,4 @@
-year,geo,disagg_type,disagg,value,projections,benchmark_low,benchmark_mid,benchmark _high
+year,geo,disagg_type,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2018,WLD,All,Total,32,,,,
 2024,WLD,All,Total,32,,,,
 2024,WLD,Region,Africa,33,,,,
