@@ -1,26 +1,26 @@
-year,geo,disagg,value
-2023,AUS,Sydney,56
-2023,AUS,Melbourne,50
-2023,BRA,Sao Paulo,195
-2023,BRA,Rio de Janeiro,68
-2023,CAN,Vancouver,160
-2023,CAN,Montreal,128
-2023,CAN,Toronto,111
-2023,CAN,Ottawa,85
-2022,CHE,Geneva,271
-2023,CHE,Geneva,326
-2022,DEU,Berlin,301
-2023,DEU,Berlin,333
-2023,DEU,Hamburg,262
-2023,ESP,Madrid,209
-2023,ESP,Barcelona,162
-2022,GBR,London,308
-2023,GBR,London,325
-2023,IND,Bangalore,119
-2023,IND,Delhi,109
-2022,NOR,Oslo,282
-2023,NOR,Oslo,312
-2023,USA,New York,110
-2023,USA,Chicago,33
-2023,USA,Portland,31
-2023,USA,Los Angeles,27
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
+2023,AUS,Sydney,56,,,,
+2023,AUS,Melbourne,50,,,,
+2023,BRA,Sao Paulo,195,,,,
+2023,BRA,Rio de Janeiro,68,,,,
+2023,CAN,Vancouver,160,,,,
+2023,CAN,Montreal,128,,,,
+2023,CAN,Toronto,111,,,,
+2023,CAN,Ottawa,85,,,,
+2022,CHE,Geneva,271,,,,
+2023,CHE,Geneva,326,,,,
+2022,DEU,Berlin,301,,,,
+2023,DEU,Berlin,333,,,,
+2023,DEU,Hamburg,262,,,,
+2023,ESP,Madrid,209,,,,
+2023,ESP,Barcelona,162,,,,
+2022,GBR,London,308,,,,
+2023,GBR,London,325,,,,
+2023,IND,Bangalore,119,,,,
+2023,IND,Delhi,109,,,,
+2022,NOR,Oslo,282,,,,
+2023,NOR,Oslo,312,,,,
+2023,USA,New York,110,,,,
+2023,USA,Chicago,33,,,,
+2023,USA,Portland,31,,,,
+2023,USA,Los Angeles,27,,,,

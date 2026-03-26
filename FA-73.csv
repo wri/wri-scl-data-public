@@ -1,4 +1,6 @@
 year,geo,disagg,value
+1998,WLD,Total,1
+1999,WLD,Total,1
 2000,WLD,Total,1
 2001,WLD,Total,1
 2002,WLD,Total,1
@@ -37,6 +39,7 @@ year,geo,disagg,value
 2018,WLD,Background docs for FBDGs include env. impacts,13
 2019,WLD,Background docs for FBDGs include env. impacts,16
 2020,WLD,Background docs for FBDGs include env. impacts,20
+1998,WLD,FBDGs include plant-based dietary patterns,1
 2003,WLD,FBDGs include plant-based dietary patterns,2
 2010,WLD,FBDGs include plant-based dietary patterns,3
 2011,WLD,FBDGs include plant-based dietary patterns,5
@@ -210,6 +213,7 @@ year,geo,disagg,value
 2006,SYC,FBDGs include plant-based dietary patterns,0
 2016,SLE,FBDGs include plant-based dietary patterns,0
 2015,SVK,FBDGs include plant-based dietary patterns,0
+1991,VEN,FBDGs include plant-based dietary patterns,0
 2012,YEM,FBDGs include plant-based dietary patterns,0
 2015,COL,FBDGs include plant-based dietary patterns,0
 2014,GRC,FBDGs include plant-based dietary patterns,0
@@ -240,9 +244,12 @@ year,geo,disagg,value
 2011,LKA,FBDGs include plant-based dietary patterns,1
 2015,SWE,FBDGs include plant-based dietary patterns,1
 2016,CHE,FBDGs include plant-based dietary patterns,1
+1998,THA,FBDGs include plant-based dietary patterns,1
 2016,TUR,FBDGs include plant-based dietary patterns,1
 2018,GBR,FBDGs include plant-based dietary patterns,1
 2020,USA,FBDGs include plant-based dietary patterns,1
+1998,THA,Total,1
+1999,THA,Total,1
 2000,THA,Total,1
 2000,NAM,Total,0
 2000,NGA,Total,0
@@ -574,10 +581,6 @@ year,geo,disagg,value
 2015,PRY,Total,0
 2015,BOL,Total,0
 2015,FJI,Total,0
-2015,JAM,Total,0
-2015,SVK,Total,0
-2015,BEN,Total,0
-2015,PRY,Total,0
 2016,PRT,Total,1
 2016,THA,Total,1
 2016,MYS,Total,1
@@ -640,10 +643,6 @@ year,geo,disagg,value
 2016,CHL,Total,0
 2016,HND,Total,0
 2016,PAN,Total,0
-2016,JAM,Total,0
-2016,SVK,Total,0
-2016,BEN,Total,0
-2016,PRY,Total,0
 2016,BOL,Total,0
 2016,FJI,Total,0
 2016,JAM,Total,0
@@ -723,10 +722,6 @@ year,geo,disagg,value
 2017,CHL,Total,0
 2017,HND,Total,0
 2017,PAN,Total,0
-2017,JAM,Total,0
-2017,SVK,Total,0
-2017,BEN,Total,0
-2017,PRY,Total,0
 2017,BOL,Total,0
 2017,FJI,Total,0
 2017,JAM,Total,0
@@ -814,10 +809,6 @@ year,geo,disagg,value
 2018,CHL,Total,0
 2018,HND,Total,0
 2018,PAN,Total,0
-2018,JAM,Total,0
-2018,SVK,Total,0
-2018,BEN,Total,0
-2018,PRY,Total,0
 2018,BOL,Total,0
 2018,FJI,Total,0
 2018,JAM,Total,0
@@ -910,10 +901,6 @@ year,geo,disagg,value
 2019,CHL,Total,0
 2019,HND,Total,0
 2019,PAN,Total,0
-2019,JAM,Total,0
-2019,SVK,Total,0
-2019,BEN,Total,0
-2019,PRY,Total,0
 2019,BOL,Total,0
 2019,FJI,Total,0
 2019,JAM,Total,0

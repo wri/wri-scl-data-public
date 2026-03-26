@@ -1,0 +1,57 @@
+year,geo,disagg,value
+2018,WLD,Total,19
+2019,WLD,Total,24
+2020,WLD,Total,30
+2021,WLD,Total,32
+2022,WLD,Total,35
+2023,WLD,Total,75
+2024,WLD,Total,31
+2018,WLD,Clean steel,18
+2018,WLD,Circular economy,0
+2018,WLD,Clean ammonia,0
+2018,WLD,Bioplastics,0
+2018,WLD,Hydrogen,0
+2018,WLD,Co-located renewables,0
+2018,WLD,Carbon capture and storage,0
+2019,WLD,Clean steel,21
+2019,WLD,Circular economy,1
+2019,WLD,Clean ammonia,0
+2019,WLD,Bioplastics,1
+2019,WLD,Hydrogen,0
+2019,WLD,Co-located renewables,0
+2019,WLD,Carbon capture and storage,0
+2020,WLD,Clean steel,22
+2020,WLD,Circular economy,5
+2020,WLD,Clean ammonia,0
+2020,WLD,Bioplastics,2
+2020,WLD,Hydrogen,0
+2020,WLD,Co-located renewables,0
+2020,WLD,Carbon capture and storage,1
+2021,WLD,Clean steel,21
+2021,WLD,Circular economy,7
+2021,WLD,Clean ammonia,0
+2021,WLD,Bioplastics,4
+2021,WLD,Hydrogen,0
+2021,WLD,Co-located renewables,0
+2021,WLD,Carbon capture and storage,0
+2022,WLD,Clean steel,22
+2022,WLD,Circular economy,9
+2022,WLD,Clean ammonia,1
+2022,WLD,Bioplastics,3
+2022,WLD,Hydrogen,0
+2022,WLD,Co-located renewables,0
+2022,WLD,Carbon capture and storage,1
+2023,WLD,Clean steel,40
+2023,WLD,Circular economy,6
+2023,WLD,Clean ammonia,3
+2023,WLD,Bioplastics,5
+2023,WLD,Hydrogen,11
+2023,WLD,Co-located renewables,5
+2023,WLD,Carbon capture and storage,4
+2024,WLD,Clean steel,17
+2024,WLD,Circular economy,6
+2024,WLD,Clean ammonia,3
+2024,WLD,Bioplastics,1
+2024,WLD,Hydrogen,2
+2024,WLD,Co-located renewables,0
+2024,WLD,Carbon capture and storage,1
