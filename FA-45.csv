@@ -163,7 +163,7 @@ year,geo,disagg,value
 2023,NGA,Agricultural productivity,0
 2023,NIC,Agricultural productivity,0
 2023,NLD,Agricultural productivity,0
-2023,NORR,Agricultural productivity,0
+2023,NOR,Agricultural productivity,0
 2023,NPL,Agricultural productivity,1
 2023,NRU,Agricultural productivity,0
 2023,NIU,Agricultural productivity,0
@@ -358,7 +358,7 @@ year,geo,disagg,value
 2023,NGA,Agricultural waste,0
 2023,NIC,Agricultural waste,0
 2023,NLD,Agricultural waste,0
-2023,NORR,Agricultural waste,0
+2023,NOR,Agricultural waste,0
 2023,NPL,Agricultural waste,1
 2023,NRU,Agricultural waste,0
 2023,NIU,Agricultural waste,0
@@ -553,7 +553,7 @@ year,geo,disagg,value
 2023,NGA,Agriculture: General,1
 2023,NIC,Agriculture: General,1
 2023,NLD,Agriculture: General,1
-2023,NORR,Agriculture: General,1
+2023,NOR,Agriculture: General,1
 2023,NPL,Agriculture: General,1
 2023,NRU,Agriculture: General,1
 2023,NIU,Agriculture: General,1
@@ -748,7 +748,7 @@ year,geo,disagg,value
 2023,NGA,Agroecology,0
 2023,NIC,Agroecology,0
 2023,NLD,Agroecology,0
-2023,NORR,Agroecology,0
+2023,NOR,Agroecology,0
 2023,NPL,Agroecology,0
 2023,NRU,Agroecology,0
 2023,NIU,Agroecology,0
@@ -943,7 +943,7 @@ year,geo,disagg,value
 2023,NGA,Agroforestry,0
 2023,NIC,Agroforestry,1
 2023,NLD,Agroforestry,0
-2023,NORR,Agroforestry,0
+2023,NOR,Agroforestry,0
 2023,NPL,Agroforestry,1
 2023,NRU,Agroforestry,0
 2023,NIU,Agroforestry,0
@@ -2732,7 +2732,7 @@ year,geo,disagg,value
 2023,NIC,Reducing food loss and waste,0
 2023,NIU,Reducing food loss and waste,0
 2023,NLD,Reducing food loss and waste,0
-2023,NORR,Reducing food loss and waste,0
+2023,NOR,Reducing food loss and waste,0
 2023,NPL,Reducing food loss and waste,0
 2023,NRU,Reducing food loss and waste,0
 2023,NZL,Reducing food loss and waste,0
@@ -6218,7 +6218,7 @@ year,geo,disagg,value
 2024,NIC,Reducing food loss and waste,0
 2024,NIU,Reducing food loss and waste,0
 2024,NLD,Reducing food loss and waste,0
-2024,NORR,Reducing food loss and waste,0
+2024,NOR,Reducing food loss and waste,0
 2024,NPL,Reducing food loss and waste,0
 2024,NRU,Reducing food loss and waste,0
 2024,NZL,Reducing food loss and waste,0
