@@ -196,8 +196,8 @@ year,geo,disagg_type,disagg,value
 2021,GBR,Funding Type,International body,0.5
 2021,GBR,Funding Type,Private sector,3.1
 2015,GNB,Funding Type,Foundation,0.4
-2018,GRE,Funding Type,International body,2.3
-2019,GRE,Funding Type,International body,1.6
+2018,GRC,Funding Type,International body,2.3
+2019,GRC,Funding Type,International body,1.6
 2015,IDN,Funding Type,Multiple donors,8.8
 2016,IDN,Funding Type,Multiple donors,0.1
 2019,IDN,Funding Type,Government,5.2
@@ -286,8 +286,8 @@ year,geo,disagg_type,disagg,value
 2020,GBR,Habitat Type,Multiple habitats,3.2
 2021,GBR,Habitat Type,Multiple habitats,3.6
 2015,GNB,Habitat Type,Mangroves,0.4
-2018,GRE,Habitat Type,NA,2.3
-2019,GRE,Habitat Type,NA,1.6
+2018,GRC,Habitat Type,NA,2.3
+2019,GRC,Habitat Type,NA,1.6
 2015,IDN,Habitat Type,Mangroves,8.7
 2015,IDN,Habitat Type,Seagrass,0.1
 2016,IDN,Habitat Type,NA,0.1
