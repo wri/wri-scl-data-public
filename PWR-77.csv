@@ -294,8 +294,8 @@ year,geo,disagg,value
 2024,KAZ,Total,360
 2021,KEN,Total,74.9
 2023,KEN,Total,74
-2006,KOS,Total,65
-2010,KOS,Total,125
+2006,XKX,Total,65
+2010,XKX,Total,125
 2017,KGZ,Total,150
 2021,LBN,Total,404
 2022,LTU,Total,360
@@ -672,8 +672,8 @@ year,geo,disagg,value
 2017,KAZ,Coal,180
 2018,KAZ,Coal,60
 2024,KAZ,Coal,300
-2006,KOS,Coal,65
-2010,KOS,Coal,125
+2006,XKX,Coal,65
+2010,XKX,Coal,125
 2017,KGZ,Coal,150
 2024,MAR,Coal,165
 2015,NLD,Coal,1774

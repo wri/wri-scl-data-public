@@ -75,7 +75,7 @@ year,geo,disagg,value
 2024,TUR,Total,6
 2024,TWN,Total,25
 2024,TZA,Total,2
-2024,UAE,Total,7
+2024,ARE,Total,7
 2024,UKR,Total,1
 2024,USA,Total,168
 2024,UZB,Total,1
@@ -125,7 +125,7 @@ year,geo,disagg,value
 2024,TWN,Corporate,11
 2024,THA,Corporate,9
 2024,TUR,Corporate,1
-2024,UAE,Corporate,3
+2024,ARE,Corporate,3
 2024,GBR,Corporate,71
 2024,USA,Corporate,38
 2024,UZB,Corporate,1
@@ -236,7 +236,7 @@ year,geo,disagg,value
 2024,SWE,Financial institution,6
 2024,CHE,Financial institution,13
 2024,TWN,Financial institution,6
-2024,UAE,Financial institution,3
+2024,ARE,Financial institution,3
 2024,GBR,Financial institution,70
 2024,USA,Financial institution,31
 2024,AUS,Market association & consortia,14
@@ -301,7 +301,7 @@ year,geo,disagg,value
 2024,TWN,Market service provider,2
 2024,TUR,Market service provider,3
 2024,UKR,Market service provider,1
-2024,UAE,Market service provider,1
+2024,ARE,Market service provider,1
 2024,GBR,Market service provider,111
 2024,USA,Market service provider,43
 2024,CHE,Multilateral & IGO,1

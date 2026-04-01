@@ -539,16 +539,16 @@ year,geo,disagg,value
 2022,KOR,Coal,3.1
 2023,KOR,Coal,2.1
 2024,KOR,Coal,1.1
-2015,KOS,Coal,0.5
-2016,KOS,Coal,0.5
-2017,KOS,Coal,0.5
-2018,KOS,Coal,0.5
-2019,KOS,Coal,0.5
-2020,KOS,Coal,0
-2021,KOS,Coal,0
-2022,KOS,Coal,0
-2023,KOS,Coal,0
-2024,KOS,Coal,0
+2015,XKX,Coal,0.5
+2016,XKX,Coal,0.5
+2017,XKX,Coal,0.5
+2018,XKX,Coal,0.5
+2019,XKX,Coal,0.5
+2020,XKX,Coal,0
+2021,XKX,Coal,0
+2022,XKX,Coal,0
+2023,XKX,Coal,0
+2024,XKX,Coal,0
 2015,LAO,Coal,3.6
 2016,LAO,Coal,2.3
 2017,LAO,Coal,2.3
@@ -1369,9 +1369,9 @@ year,geo,disagg,value
 2022,KOR,Oil and gas,19
 2023,KOR,Oil and gas,20
 2024,KOR,Oil and gas,20
-2022,KOS,Oil and gas,0
-2023,KOS,Oil and gas,0
-2024,KOS,Oil and gas,0.5
+2022,XKX,Oil and gas,0
+2023,XKX,Oil and gas,0
+2024,XKX,Oil and gas,0.5
 2022,KWT,Oil and gas,20
 2023,KWT,Oil and gas,21
 2024,KWT,Oil and gas,18
@@ -1462,9 +1462,6 @@ year,geo,disagg,value
 2022,NZL,Oil and gas,0
 2023,NZL,Oil and gas,0
 2024,NZL,Oil and gas,0.36
-2022,OECD,Oil and gas,150
-2023,OECD,Oil and gas,140
-2024,OECD,Oil and gas,210
 2022,OMN,Oil and gas,0.26
 2023,OMN,Oil and gas,0.13
 2024,OMN,Oil and gas,0.13
