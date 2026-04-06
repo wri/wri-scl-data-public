@@ -163,10 +163,10 @@ year,geo,disagg,value
 2023,NGA,Agricultural productivity,0
 2023,NIC,Agricultural productivity,0
 2023,NLD,Agricultural productivity,0
-2023,NO,Agricultural productivity,0
+2023,NOR,Agricultural productivity,0
 2023,NPL,Agricultural productivity,1
 2023,NRU,Agricultural productivity,0
-2023,NU,Agricultural productivity,0
+2023,NIU,Agricultural productivity,0
 2023,NZL,Agricultural productivity,0
 2023,OMN,Agricultural productivity,0
 2023,PAK,Agricultural productivity,1
@@ -358,10 +358,10 @@ year,geo,disagg,value
 2023,NGA,Agricultural waste,0
 2023,NIC,Agricultural waste,0
 2023,NLD,Agricultural waste,0
-2023,NO,Agricultural waste,0
+2023,NOR,Agricultural waste,0
 2023,NPL,Agricultural waste,1
 2023,NRU,Agricultural waste,0
-2023,NU,Agricultural waste,0
+2023,NIU,Agricultural waste,0
 2023,NZL,Agricultural waste,0
 2023,OMN,Agricultural waste,0
 2023,PAK,Agricultural waste,1
@@ -553,10 +553,10 @@ year,geo,disagg,value
 2023,NGA,Agriculture: General,1
 2023,NIC,Agriculture: General,1
 2023,NLD,Agriculture: General,1
-2023,NO,Agriculture: General,1
+2023,NOR,Agriculture: General,1
 2023,NPL,Agriculture: General,1
 2023,NRU,Agriculture: General,1
-2023,NU,Agriculture: General,1
+2023,NIU,Agriculture: General,1
 2023,NZL,Agriculture: General,1
 2023,OMN,Agriculture: General,0
 2023,PAK,Agriculture: General,1
@@ -748,10 +748,10 @@ year,geo,disagg,value
 2023,NGA,Agroecology,0
 2023,NIC,Agroecology,0
 2023,NLD,Agroecology,0
-2023,NO,Agroecology,0
+2023,NOR,Agroecology,0
 2023,NPL,Agroecology,0
 2023,NRU,Agroecology,0
-2023,NU,Agroecology,0
+2023,NIU,Agroecology,0
 2023,NZL,Agroecology,0
 2023,OMN,Agroecology,0
 2023,PAK,Agroecology,0
@@ -943,10 +943,10 @@ year,geo,disagg,value
 2023,NGA,Agroforestry,0
 2023,NIC,Agroforestry,1
 2023,NLD,Agroforestry,0
-2023,NO,Agroforestry,0
+2023,NOR,Agroforestry,0
 2023,NPL,Agroforestry,1
 2023,NRU,Agroforestry,0
-2023,NU,Agroforestry,0
+2023,NIU,Agroforestry,0
 2023,NZL,Agroforestry,0
 2023,OMN,Agroforestry,0
 2023,PAK,Agroforestry,1
@@ -1138,10 +1138,10 @@ year,geo,disagg,value
 2023,NGA,Climate smart agriculture,1
 2023,NIC,Climate smart agriculture,0
 2023,NLD,Climate smart agriculture,0
-2023,NO,Climate smart agriculture,0
+2023,NOR,Climate smart agriculture,0
 2023,NPL,Climate smart agriculture,0
 2023,NRU,Climate smart agriculture,0
-2023,NU,Climate smart agriculture,0
+2023,NIU,Climate smart agriculture,0
 2023,NZL,Climate smart agriculture,0
 2023,OMN,Climate smart agriculture,0
 2023,PAK,Climate smart agriculture,1
@@ -1333,10 +1333,10 @@ year,geo,disagg,value
 2023,NGA,Crops,1
 2023,NIC,Crops,0
 2023,NLD,Crops,0
-2023,NO,Crops,0
+2023,NOR,Crops,0
 2023,NPL,Crops,0
 2023,NRU,Crops,0
-2023,NU,Crops,0
+2023,NIU,Crops,0
 2023,NZL,Crops,0
 2023,OMN,Crops,0
 2023,PAK,Crops,0
@@ -1528,10 +1528,10 @@ year,geo,disagg,value
 2023,NGA,Diets,0
 2023,NIC,Diets,0
 2023,NLD,Diets,0
-2023,NO,Diets,0
+2023,NOR,Diets,0
 2023,NPL,Diets,0
 2023,NRU,Diets,0
-2023,NU,Diets,0
+2023,NIU,Diets,0
 2023,NZL,Diets,0
 2023,OMN,Diets,0
 2023,PAK,Diets,0
@@ -1723,10 +1723,10 @@ year,geo,disagg,value
 2023,NGA,Fisheries and aquaculture,1
 2023,NIC,Fisheries and aquaculture,0
 2023,NLD,Fisheries and aquaculture,0
-2023,NO,Fisheries and aquaculture,0
+2023,NOR,Fisheries and aquaculture,0
 2023,NPL,Fisheries and aquaculture,0
 2023,NRU,Fisheries and aquaculture,1
-2023,NU,Fisheries and aquaculture,1
+2023,NIU,Fisheries and aquaculture,1
 2023,NZL,Fisheries and aquaculture,0
 2023,OMN,Fisheries and aquaculture,0
 2023,PAK,Fisheries and aquaculture,0
@@ -1918,10 +1918,10 @@ year,geo,disagg,value
 2023,NGA,Food security,0
 2023,NIC,Food security,0
 2023,NLD,Food security,0
-2023,NO,Food security,0
+2023,NOR,Food security,0
 2023,NPL,Food security,0
 2023,NRU,Food security,1
-2023,NU,Food security,1
+2023,NIU,Food security,1
 2023,NZL,Food security,0
 2023,OMN,Food security,1
 2023,PAK,Food security,0
@@ -2113,10 +2113,10 @@ year,geo,disagg,value
 2023,NGA,Irrigation,1
 2023,NIC,Irrigation,1
 2023,NLD,Irrigation,0
-2023,NO,Irrigation,0
+2023,NOR,Irrigation,0
 2023,NPL,Irrigation,0
 2023,NRU,Irrigation,0
-2023,NU,Irrigation,0
+2023,NIU,Irrigation,0
 2023,NZL,Irrigation,0
 2023,OMN,Irrigation,0
 2023,PAK,Irrigation,1
@@ -2308,10 +2308,10 @@ year,geo,disagg,value
 2023,NGA,Land and soil management,1
 2023,NIC,Land and soil management,0
 2023,NLD,Land and soil management,0
-2023,NO,Land and soil management,0
+2023,NOR,Land and soil management,0
 2023,NPL,Land and soil management,0
 2023,NRU,Land and soil management,0
-2023,NU,Land and soil management,0
+2023,NIU,Land and soil management,0
 2023,NZL,Land and soil management,0
 2023,OMN,Land and soil management,1
 2023,PAK,Land and soil management,1
@@ -2503,10 +2503,10 @@ year,geo,disagg,value
 2023,NGA,Livestock,1
 2023,NIC,Livestock,1
 2023,NLD,Livestock,0
-2023,NO,Livestock,0
+2023,NOR,Livestock,0
 2023,NPL,Livestock,1
 2023,NRU,Livestock,0
-2023,NU,Livestock,0
+2023,NIU,Livestock,0
 2023,NZL,Livestock,0
 2023,OMN,Livestock,0
 2023,PAK,Livestock,1
@@ -2893,10 +2893,10 @@ year,geo,disagg,value
 2023,NGA,Rice cultivation,1
 2023,NIC,Rice cultivation,0
 2023,NLD,Rice cultivation,0
-2023,NO,Rice cultivation,0
+2023,NOR,Rice cultivation,0
 2023,NPL,Rice cultivation,0
 2023,NRU,Rice cultivation,0
-2023,NU,Rice cultivation,0
+2023,NIU,Rice cultivation,0
 2023,NZL,Rice cultivation,0
 2023,OMN,Rice cultivation,0
 2023,PAK,Rice cultivation,1
@@ -3088,10 +3088,10 @@ year,geo,disagg,value
 2023,NGA,Soil carbon sequestration,0
 2023,NIC,Soil carbon sequestration,0
 2023,NLD,Soil carbon sequestration,0
-2023,NO,Soil carbon sequestration,0
+2023,NOR,Soil carbon sequestration,0
 2023,NPL,Soil carbon sequestration,0
 2023,NRU,Soil carbon sequestration,0
-2023,NU,Soil carbon sequestration,0
+2023,NIU,Soil carbon sequestration,0
 2023,NZL,Soil carbon sequestration,0
 2023,OMN,Soil carbon sequestration,0
 2023,PAK,Soil carbon sequestration,0
@@ -3283,10 +3283,10 @@ year,geo,disagg,value
 2023,NGA,Soil fertilization emissions,0
 2023,NIC,Soil fertilization emissions,0
 2023,NLD,Soil fertilization emissions,0
-2023,NO,Soil fertilization emissions,0
+2023,NOR,Soil fertilization emissions,0
 2023,NPL,Soil fertilization emissions,1
 2023,NRU,Soil fertilization emissions,0
-2023,NU,Soil fertilization emissions,0
+2023,NIU,Soil fertilization emissions,0
 2023,NZL,Soil fertilization emissions,0
 2023,OMN,Soil fertilization emissions,0
 2023,PAK,Soil fertilization emissions,1
@@ -3477,10 +3477,10 @@ year,geo,disagg,value
 2023,NGA,Total,1
 2023,NIC,Total,1
 2023,NLD,Total,1
-2023,NO,Total,1
+2023,NOR,Total,1
 2023,NPL,Total,1
 2023,NRU,Total,1
-2023,NU,Total,1
+2023,NIU,Total,1
 2023,NZL,Total,1
 2023,OMN,Total,1
 2023,PAK,Total,1
@@ -3672,10 +3672,10 @@ year,geo,disagg,value
 2024,NGA,Agricultural productivity,0
 2024,NIC,Agricultural productivity,0
 2024,NLD,Agricultural productivity,0
-2024,NO,Agricultural productivity,0
+2024,NOR,Agricultural productivity,0
 2024,NPL,Agricultural productivity,1
 2024,NRU,Agricultural productivity,0
-2024,NU,Agricultural productivity,0
+2024,NIU,Agricultural productivity,0
 2024,NZL,Agricultural productivity,0
 2024,OMN,Agricultural productivity,0
 2024,PAK,Agricultural productivity,1
@@ -3867,10 +3867,10 @@ year,geo,disagg,value
 2024,NGA,Agricultural waste,0
 2024,NIC,Agricultural waste,0
 2024,NLD,Agricultural waste,0
-2024,NO,Agricultural waste,0
+2024,NOR,Agricultural waste,0
 2024,NPL,Agricultural waste,1
 2024,NRU,Agricultural waste,0
-2024,NU,Agricultural waste,0
+2024,NIU,Agricultural waste,0
 2024,NZL,Agricultural waste,0
 2024,OMN,Agricultural waste,0
 2024,PAK,Agricultural waste,1
@@ -4062,10 +4062,10 @@ year,geo,disagg,value
 2024,NGA,Agriculture: General,1
 2024,NIC,Agriculture: General,1
 2024,NLD,Agriculture: General,1
-2024,NO,Agriculture: General,1
+2024,NOR,Agriculture: General,1
 2024,NPL,Agriculture: General,1
 2024,NRU,Agriculture: General,1
-2024,NU,Agriculture: General,1
+2024,NIU,Agriculture: General,1
 2024,NZL,Agriculture: General,1
 2024,OMN,Agriculture: General,0
 2024,PAK,Agriculture: General,1
@@ -4257,10 +4257,10 @@ year,geo,disagg,value
 2024,NGA,Agroecology,0
 2024,NIC,Agroecology,0
 2024,NLD,Agroecology,0
-2024,NO,Agroecology,0
+2024,NOR,Agroecology,0
 2024,NPL,Agroecology,0
 2024,NRU,Agroecology,0
-2024,NU,Agroecology,0
+2024,NIU,Agroecology,0
 2024,NZL,Agroecology,0
 2024,OMN,Agroecology,0
 2024,PAK,Agroecology,0
@@ -4452,10 +4452,10 @@ year,geo,disagg,value
 2024,NGA,Agroforestry,0
 2024,NIC,Agroforestry,1
 2024,NLD,Agroforestry,0
-2024,NO,Agroforestry,0
+2024,NOR,Agroforestry,0
 2024,NPL,Agroforestry,1
 2024,NRU,Agroforestry,0
-2024,NU,Agroforestry,0
+2024,NIU,Agroforestry,0
 2024,NZL,Agroforestry,0
 2024,OMN,Agroforestry,0
 2024,PAK,Agroforestry,1
@@ -4647,10 +4647,10 @@ year,geo,disagg,value
 2024,NGA,Climate smart agriculture,1
 2024,NIC,Climate smart agriculture,0
 2024,NLD,Climate smart agriculture,0
-2024,NO,Climate smart agriculture,0
+2024,NOR,Climate smart agriculture,0
 2024,NPL,Climate smart agriculture,0
 2024,NRU,Climate smart agriculture,0
-2024,NU,Climate smart agriculture,0
+2024,NIU,Climate smart agriculture,0
 2024,NZL,Climate smart agriculture,0
 2024,OMN,Climate smart agriculture,0
 2024,PAK,Climate smart agriculture,1
@@ -4842,10 +4842,10 @@ year,geo,disagg,value
 2024,NGA,Crops,1
 2024,NIC,Crops,0
 2024,NLD,Crops,0
-2024,NO,Crops,0
+2024,NOR,Crops,0
 2024,NPL,Crops,0
 2024,NRU,Crops,0
-2024,NU,Crops,0
+2024,NIU,Crops,0
 2024,NZL,Crops,0
 2024,OMN,Crops,0
 2024,PAK,Crops,0
@@ -5037,10 +5037,10 @@ year,geo,disagg,value
 2024,NGA,Diets,0
 2024,NIC,Diets,0
 2024,NLD,Diets,0
-2024,NO,Diets,0
+2024,NOR,Diets,0
 2024,NPL,Diets,0
 2024,NRU,Diets,0
-2024,NU,Diets,0
+2024,NIU,Diets,0
 2024,NZL,Diets,0
 2024,OMN,Diets,0
 2024,PAK,Diets,0
@@ -5232,10 +5232,10 @@ year,geo,disagg,value
 2024,NGA,Fisheries and aquaculture,1
 2024,NIC,Fisheries and aquaculture,0
 2024,NLD,Fisheries and aquaculture,0
-2024,NO,Fisheries and aquaculture,0
+2024,NOR,Fisheries and aquaculture,0
 2024,NPL,Fisheries and aquaculture,0
 2024,NRU,Fisheries and aquaculture,1
-2024,NU,Fisheries and aquaculture,1
+2024,NIU,Fisheries and aquaculture,1
 2024,NZL,Fisheries and aquaculture,0
 2024,OMN,Fisheries and aquaculture,0
 2024,PAK,Fisheries and aquaculture,0
@@ -5427,10 +5427,10 @@ year,geo,disagg,value
 2024,NGA,Food security,0
 2024,NIC,Food security,0
 2024,NLD,Food security,0
-2024,NO,Food security,0
+2024,NOR,Food security,0
 2024,NPL,Food security,0
 2024,NRU,Food security,1
-2024,NU,Food security,1
+2024,NIU,Food security,1
 2024,NZL,Food security,0
 2024,OMN,Food security,1
 2024,PAK,Food security,0
@@ -5622,10 +5622,10 @@ year,geo,disagg,value
 2024,NGA,Irrigation,1
 2024,NIC,Irrigation,1
 2024,NLD,Irrigation,0
-2024,NO,Irrigation,0
+2024,NOR,Irrigation,0
 2024,NPL,Irrigation,0
 2024,NRU,Irrigation,0
-2024,NU,Irrigation,0
+2024,NIU,Irrigation,0
 2024,NZL,Irrigation,0
 2024,OMN,Irrigation,0
 2024,PAK,Irrigation,1
@@ -5817,10 +5817,10 @@ year,geo,disagg,value
 2024,NGA,Land and soil management,1
 2024,NIC,Land and soil management,0
 2024,NLD,Land and soil management,0
-2024,NO,Land and soil management,0
+2024,NOR,Land and soil management,0
 2024,NPL,Land and soil management,0
 2024,NRU,Land and soil management,0
-2024,NU,Land and soil management,0
+2024,NIU,Land and soil management,0
 2024,NZL,Land and soil management,0
 2024,OMN,Land and soil management,1
 2024,PAK,Land and soil management,1
@@ -6012,10 +6012,10 @@ year,geo,disagg,value
 2024,NGA,Livestock,1
 2024,NIC,Livestock,1
 2024,NLD,Livestock,0
-2024,NO,Livestock,0
+2024,NOR,Livestock,0
 2024,NPL,Livestock,1
 2024,NRU,Livestock,0
-2024,NU,Livestock,0
+2024,NIU,Livestock,0
 2024,NZL,Livestock,0
 2024,OMN,Livestock,0
 2024,PAK,Livestock,1
@@ -6402,10 +6402,10 @@ year,geo,disagg,value
 2024,NGA,Rice cultivation,1
 2024,NIC,Rice cultivation,0
 2024,NLD,Rice cultivation,0
-2024,NO,Rice cultivation,0
+2024,NOR,Rice cultivation,0
 2024,NPL,Rice cultivation,0
 2024,NRU,Rice cultivation,0
-2024,NU,Rice cultivation,0
+2024,NIU,Rice cultivation,0
 2024,NZL,Rice cultivation,0
 2024,OMN,Rice cultivation,0
 2024,PAK,Rice cultivation,1
@@ -6597,10 +6597,10 @@ year,geo,disagg,value
 2024,NGA,Soil carbon sequestration,0
 2024,NIC,Soil carbon sequestration,0
 2024,NLD,Soil carbon sequestration,0
-2024,NO,Soil carbon sequestration,0
+2024,NOR,Soil carbon sequestration,0
 2024,NPL,Soil carbon sequestration,0
 2024,NRU,Soil carbon sequestration,0
-2024,NU,Soil carbon sequestration,0
+2024,NIU,Soil carbon sequestration,0
 2024,NZL,Soil carbon sequestration,0
 2024,OMN,Soil carbon sequestration,0
 2024,PAK,Soil carbon sequestration,0
@@ -6792,10 +6792,10 @@ year,geo,disagg,value
 2024,NGA,Soil fertilization emissions,0
 2024,NIC,Soil fertilization emissions,0
 2024,NLD,Soil fertilization emissions,0
-2024,NO,Soil fertilization emissions,0
+2024,NOR,Soil fertilization emissions,0
 2024,NPL,Soil fertilization emissions,1
 2024,NRU,Soil fertilization emissions,0
-2024,NU,Soil fertilization emissions,0
+2024,NIU,Soil fertilization emissions,0
 2024,NZL,Soil fertilization emissions,0
 2024,OMN,Soil fertilization emissions,0
 2024,PAK,Soil fertilization emissions,1
@@ -6987,10 +6987,10 @@ year,geo,disagg,value
 2024,NGA,Total,1
 2024,NIC,Total,1
 2024,NLD,Total,1
-2024,NO,Total,1
+2024,NOR,Total,1
 2024,NPL,Total,1
 2024,NRU,Total,1
-2024,NU,Total,1
+2024,NIU,Total,1
 2024,NZL,Total,1
 2024,OMN,Total,1
 2024,PAK,Total,1
