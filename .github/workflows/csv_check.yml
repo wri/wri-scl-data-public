@@ -1,0 +1,18 @@
+# CSV Quality Check — runs on every PR that touches CSV files.
+# Calls the reusable audit workflow in scl-data-ops.
+# See wri/scl-data-ops/.github/workflows/pr_audit.yml for details.
+
+name: CSV Quality Check
+
+on:
+  pull_request:
+    paths: ['**/*.csv']
+
+jobs:
+  audit:
+    uses: wri/scl-data-ops/.github/workflows/pr_audit.yml@main
+    with:
+      repo-name: wri-scl-data-public
+      other-repo: wri-scl-data
+    secrets:
+      DATA_REPO_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
