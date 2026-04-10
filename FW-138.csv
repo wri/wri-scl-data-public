@@ -14,3 +14,311 @@ year,geo,disagg,value
 2017,WLD,Water resources planning and management,3.3
 2019,WLD,Water resources planning and management,18
 2021,WLD,Water resources planning and management,17
+2014,AFG,Hygiene,1
+2019,AFG,Drinking water,1
+2019,AFG,Sanitation,1
+2019,AFG,Hygiene,1
+2014,AGO,Hygiene,1
+2019,ALB,Drinking water,1
+2019,ALB,Sanitation,1
+2019,ALB,Hygiene,1
+2019,ALB,Water resources planning and management,1
+2021,ALB,Drinking water,1
+2021,ALB,Sanitation,1
+2021,ALB,Hygiene,1
+2021,ALB,Water resources planning and management,1
+2019,AUT,Drinking water,1
+2019,AUT,Sanitation,1
+2019,AUT,Water resources planning and management,1
+2017,AZE,Drinking water,1
+2017,AZE,Water resources planning and management,1
+2019,AZE,Drinking water,1
+2019,AZE,Sanitation,1
+2019,AZE,Hygiene,1
+2019,AZE,Water resources planning and management,1
+2021,AZE,Drinking water,1
+2021,AZE,Sanitation,1
+2021,AZE,Hygiene,1
+2021,AZE,Water resources planning and management,1
+2019,BDI,Hygiene,1
+2019,BEN,Sanitation,1
+2019,BEN,Hygiene,1
+2019,BEN,Water resources planning and management,1
+2017,BFA,Water resources planning and management,1
+2019,BFA,Drinking water,1
+2019,BFA,Sanitation,1
+2019,BFA,Hygiene,1
+2019,BFA,Water resources planning and management,1
+2021,BFA,Hygiene,1
+2021,BFA,Water resources planning and management,1
+2019,BGD,Hygiene,1
+2021,BGD,Hygiene,1
+2021,BHR,Drinking water,1
+2021,BHR,Sanitation,1
+2021,BHR,Hygiene,1
+2021,BHR,Water resources planning and management,1
+2019,BIH,Drinking water,1
+2019,BIH,Sanitation,1
+2019,BIH,Hygiene,1
+2019,BIH,Water resources planning and management,1
+2021,BIH,Drinking water,1
+2021,BIH,Sanitation,1
+2021,BIH,Hygiene,1
+2021,BIH,Water resources planning and management,1
+2019,BLR,Water resources planning and management,1
+2021,BLR,Water resources planning and management,1
+2021,BLZ,Hygiene,1
+2021,BLZ,Water resources planning and management,1
+2014,BRA,Hygiene,1
+2019,BRA,Water resources planning and management,1
+2017,BTN,Hygiene,1
+2019,BTN,Hygiene,1
+2021,BTN,Hygiene,1
+2019,BWA,Drinking water,1
+2019,BWA,Sanitation,1
+2019,BWA,Hygiene,1
+2019,BWA,Water resources planning and management,1
+2021,BWA,Drinking water,1
+2021,BWA,Water resources planning and management,1
+2021,CMR,Hygiene,1
+2019,COG,Sanitation,1
+2019,COG,Water resources planning and management,1
+2021,COM,Drinking water,1
+2021,COM,Sanitation,1
+2021,COM,Hygiene,1
+2021,COM,Water resources planning and management,1
+2014,CRI,Hygiene,1
+2017,CRI,Hygiene,1
+2014,CUB,Hygiene,1
+2017,CUB,Water resources planning and management,1
+2019,CUB,Hygiene,1
+2019,DOM,Water resources planning and management,1
+2017,ECU,Drinking water,1
+2019,ECU,Water resources planning and management,1
+2019,ERI,Drinking water,1
+2021,ERI,Hygiene,1
+2021,EST,Drinking water,1
+2021,EST,Sanitation,1
+2021,EST,Hygiene,1
+2021,EST,Water resources planning and management,1
+2017,ETH,Drinking water,1
+2019,ETH,Drinking water,1
+2019,ETH,Hygiene,1
+2019,ETH,Water resources planning and management,1
+2014,FJI,Drinking water,1
+2014,FJI,Sanitation,1
+2014,FJI,Hygiene,1
+2017,FJI,Hygiene,1
+2019,FJI,Hygiene,1
+2021,FJI,Drinking water,1
+2021,GEO,Hygiene,1
+2019,GHA,Drinking water,1
+2019,GHA,Sanitation,1
+2019,GHA,Hygiene,1
+2019,GHA,Water resources planning and management,1
+2021,GHA,Drinking water,1
+2021,GHA,Hygiene,1
+2021,GHA,Water resources planning and management,1
+2021,GIN,Hygiene,1
+2014,GMB,Sanitation,1
+2019,GMB,Water resources planning and management,1
+2021,GMB,Water resources planning and management,1
+2021,GRC,Drinking water,1
+2021,GRC,Sanitation,1
+2021,GRC,Hygiene,1
+2021,GRC,Water resources planning and management,1
+2021,GTM,Drinking water,1
+2021,GTM,Sanitation,1
+2021,GTM,Hygiene,1
+2021,GTM,Water resources planning and management,1
+2019,HND,Drinking water,1
+2019,HND,Sanitation,1
+2019,HND,Hygiene,1
+2021,HND,Hygiene,1
+2014,IDN,Drinking water,1
+2014,IDN,Hygiene,1
+2021,IDN,Sanitation,1
+2021,IDN,Hygiene,1
+2021,IDN,Water resources planning and management,1
+2017,JAM,Water resources planning and management,1
+2019,JAM,Water resources planning and management,1
+2014,KAZ,Drinking water,1
+2014,KAZ,Sanitation,1
+2014,KAZ,Hygiene,1
+2021,KAZ,Drinking water,1
+2021,KAZ,Sanitation,1
+2021,KAZ,Hygiene,1
+2021,KAZ,Water resources planning and management,1
+2019,KEN,Drinking water,1
+2019,KEN,Hygiene,1
+2021,KGZ,Drinking water,1
+2021,KGZ,Sanitation,1
+2021,KGZ,Hygiene,1
+2021,KGZ,Water resources planning and management,1
+2021,KWT,Hygiene,1
+2021,KWT,Water resources planning and management,1
+2019,LAO,Water resources planning and management,1
+2021,LAO,Hygiene,1
+2019,LBR,Drinking water,1
+2019,LBR,Sanitation,1
+2019,LBR,Hygiene,1
+2019,LBR,Water resources planning and management,1
+2014,LKA,Hygiene,1
+2019,LKA,Drinking water,1
+2019,LKA,Hygiene,1
+2019,LKA,Water resources planning and management,1
+2014,LSO,Drinking water,1
+2014,LSO,Sanitation,1
+2019,LSO,Hygiene,1
+2021,LSO,Drinking water,1
+2021,LSO,Sanitation,1
+2021,LSO,Hygiene,1
+2021,LSO,Water resources planning and management,1
+2019,LTU,Drinking water,1
+2019,LTU,Sanitation,1
+2019,LTU,Hygiene,1
+2019,LTU,Water resources planning and management,1
+2019,MAR,Drinking water,1
+2019,MAR,Sanitation,1
+2019,MAR,Water resources planning and management,1
+2021,MAR,Drinking water,1
+2021,MAR,Sanitation,1
+2021,MAR,Water resources planning and management,1
+2021,MDV,Water resources planning and management,1
+2019,MEX,Hygiene,1
+2021,MEX,Drinking water,1
+2021,MEX,Sanitation,1
+2021,MEX,Water resources planning and management,1
+2019,MLI,Drinking water,1
+2019,MLI,Sanitation,1
+2019,MLI,Water resources planning and management,1
+2021,MLI,Sanitation,1
+2021,MLI,Hygiene,1
+2014,MMR,Sanitation,1
+2014,MMR,Hygiene,1
+2019,MOZ,Hygiene,1
+2019,MOZ,Water resources planning and management,1
+2019,MRT,Drinking water,1
+2021,MRT,Drinking water,1
+2021,MRT,Sanitation,1
+2021,MRT,Hygiene,1
+2021,MRT,Water resources planning and management,1
+2017,MYS,Water resources planning and management,1
+2014,NER,Drinking water,1
+2014,NER,Sanitation,1
+2014,NER,Hygiene,1
+2021,NIC,Drinking water,1
+2021,NIC,Sanitation,1
+2021,NIC,Hygiene,1
+2019,NLD,Sanitation,1
+2019,NLD,Hygiene,1
+2019,NLD,Water resources planning and management,1
+2017,NPL,Drinking water,1
+2019,NZL,Drinking water,1
+2019,NZL,Sanitation,1
+2019,NZL,Hygiene,1
+2019,NZL,Water resources planning and management,1
+2021,OMN,Drinking water,1
+2021,OMN,Sanitation,1
+2021,OMN,Hygiene,1
+2021,OMN,Water resources planning and management,1
+2017,PAN,Drinking water,1
+2017,PAN,Sanitation,1
+2017,PAN,Hygiene,1
+2019,PAN,Hygiene,1
+2021,PAN,Hygiene,1
+2017,PER,Water resources planning and management,1
+2021,PER,Drinking water,1
+2021,PER,Sanitation,1
+2021,PER,Hygiene,1
+2021,PHL,Drinking water,1
+2021,PHL,Water resources planning and management,1
+2019,PSE,Drinking water,1
+2021,PSE,Drinking water,1
+2021,PSE,Sanitation,1
+2021,PSE,Hygiene,1
+2021,PSE,Water resources planning and management,1
+2014,RWA,Drinking water,1
+2014,RWA,Sanitation,1
+2014,RWA,Hygiene,1
+2014,SDN,Drinking water,1
+2021,SEN,Drinking water,1
+2021,SEN,Sanitation,1
+2021,SEN,Hygiene,1
+2021,SEN,Water resources planning and management,1
+2017,SRB,Drinking water,1
+2017,SRB,Sanitation,1
+2017,SRB,Hygiene,1
+2017,SRB,Water resources planning and management,1
+2019,SRB,Drinking water,1
+2019,SRB,Sanitation,1
+2019,SRB,Hygiene,1
+2019,SRB,Water resources planning and management,1
+2021,SRB,Drinking water,1
+2021,SRB,Sanitation,1
+2021,SRB,Hygiene,1
+2021,SRB,Water resources planning and management,1
+2019,SSD,Hygiene,1
+2019,SSD,Water resources planning and management,1
+2019,SWZ,Drinking water,1
+2019,SWZ,Sanitation,1
+2019,SWZ,Hygiene,1
+2019,SWZ,Water resources planning and management,1
+2019,SYR,Drinking water,1
+2019,SYR,Water resources planning and management,1
+2021,SYR,Hygiene,1
+2019,TJK,Water resources planning and management,1
+2021,TKM,Drinking water,1
+2021,TKM,Sanitation,1
+2021,TKM,Hygiene,1
+2021,TKM,Water resources planning and management,1
+2021,TUN,Hygiene,1
+2021,TUN,Water resources planning and management,1
+2019,TUV,Drinking water,1
+2019,TUV,Sanitation,1
+2019,TUV,Hygiene,1
+2014,TZA,Sanitation,1
+2017,TZA,Sanitation,1
+2019,TZA,Drinking water,1
+2019,TZA,Hygiene,1
+2019,TZA,Water resources planning and management,1
+2021,TZA,Drinking water,1
+2021,TZA,Sanitation,1
+2021,TZA,Hygiene,1
+2021,TZA,Water resources planning and management,1
+2019,UGA,Hygiene,1
+2019,UGA,Water resources planning and management,1
+2021,UGA,Drinking water,1
+2021,UGA,Sanitation,1
+2021,UGA,Hygiene,1
+2021,UGA,Water resources planning and management,1
+2019,UKR,Drinking water,1
+2019,UKR,Sanitation,1
+2019,UKR,Hygiene,1
+2019,UKR,Water resources planning and management,1
+2019,UZB,Hygiene,1
+2019,UZB,Water resources planning and management,1
+2021,UZB,Water resources planning and management,1
+2017,VEN,Drinking water,1
+2017,VEN,Sanitation,1
+2019,VEN,Drinking water,1
+2019,VEN,Sanitation,1
+2019,VEN,Hygiene,1
+2019,VEN,Water resources planning and management,1
+2021,VNM,Drinking water,1
+2021,VNM,Water resources planning and management,1
+2014,VUT,Drinking water,1
+2014,VUT,Sanitation,1
+2014,VUT,Hygiene,1
+2017,ZMB,Hygiene,1
+2019,ZMB,Drinking water,1
+2019,ZMB,Sanitation,1
+2019,ZMB,Hygiene,1
+2019,ZMB,Water resources planning and management,1
+2021,ZMB,Drinking water,1
+2021,ZMB,Sanitation,1
+2021,ZMB,Hygiene,1
+2017,ZWE,Hygiene,1
+2019,ZWE,Hygiene,1
+2019,ZWE,Water resources planning and management,1
+2021,ZWE,Hygiene,1
