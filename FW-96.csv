@@ -832,10 +832,10 @@ year,geo,disagg_type,disagg,value
 1989,PNG,All,Basel Convention,0
 1989,POL,All,Montreal Protocol,0
 1989,POL,All,Basel Convention,0
-1989,POR,All,Basel Convention,0
 1989,PRK,All,Montreal Protocol,0
 1989,PRK,All,Basel Convention,0
 1989,PRT,All,Montreal Protocol,1
+1989,PRT,All,Basel Convention,0
 1989,PRY,All,Montreal Protocol,0
 1989,PRY,All,Basel Convention,0
 1989,PSE,All,Montreal Protocol,0
@@ -1221,10 +1221,10 @@ year,geo,disagg_type,disagg,value
 1990,PNG,All,Basel Convention,0
 1990,POL,All,Montreal Protocol,1
 1990,POL,All,Basel Convention,0
-1990,POR,All,Basel Convention,0
 1990,PRK,All,Montreal Protocol,0
 1990,PRK,All,Basel Convention,0
 1990,PRT,All,Montreal Protocol,1
+1990,PRT,All,Basel Convention,0
 1990,PRY,All,Montreal Protocol,0
 1990,PRY,All,Basel Convention,0
 1990,PSE,All,Montreal Protocol,0
@@ -1610,10 +1610,10 @@ year,geo,disagg_type,disagg,value
 1991,PNG,All,Basel Convention,0
 1991,POL,All,Montreal Protocol,1
 1991,POL,All,Basel Convention,0
-1991,POR,All,Basel Convention,0
 1991,PRK,All,Montreal Protocol,0
 1991,PRK,All,Basel Convention,0
 1991,PRT,All,Montreal Protocol,1
+1991,PRT,All,Basel Convention,0
 1991,PRY,All,Montreal Protocol,0
 1991,PRY,All,Basel Convention,0
 1991,PSE,All,Montreal Protocol,0
@@ -1999,10 +1999,10 @@ year,geo,disagg_type,disagg,value
 1992,PNG,All,Basel Convention,0
 1992,POL,All,Montreal Protocol,1
 1992,POL,All,Basel Convention,1
-1992,POR,All,Basel Convention,0
 1992,PRK,All,Montreal Protocol,0
 1992,PRK,All,Basel Convention,0
 1992,PRT,All,Montreal Protocol,1
+1992,PRT,All,Basel Convention,0
 1992,PRY,All,Montreal Protocol,1
 1992,PRY,All,Basel Convention,0
 1992,PSE,All,Montreal Protocol,0
@@ -2388,10 +2388,10 @@ year,geo,disagg_type,disagg,value
 1993,PNG,All,Basel Convention,0
 1993,POL,All,Montreal Protocol,1
 1993,POL,All,Basel Convention,1
-1993,POR,All,Basel Convention,0
 1993,PRK,All,Montreal Protocol,0
 1993,PRK,All,Basel Convention,0
 1993,PRT,All,Montreal Protocol,1
+1993,PRT,All,Basel Convention,0
 1993,PRY,All,Montreal Protocol,1
 1993,PRY,All,Basel Convention,0
 1993,PSE,All,Montreal Protocol,0
@@ -2777,10 +2777,10 @@ year,geo,disagg_type,disagg,value
 1994,PNG,All,Basel Convention,0
 1994,POL,All,Montreal Protocol,1
 1994,POL,All,Basel Convention,1
-1994,POR,All,Basel Convention,1
 1994,PRK,All,Montreal Protocol,0
 1994,PRK,All,Basel Convention,0
 1994,PRT,All,Montreal Protocol,1
+1994,PRT,All,Basel Convention,1
 1994,PRY,All,Montreal Protocol,1
 1994,PRY,All,Basel Convention,0
 1994,PSE,All,Montreal Protocol,0
@@ -3166,10 +3166,10 @@ year,geo,disagg_type,disagg,value
 1995,PNG,All,Basel Convention,1
 1995,POL,All,Montreal Protocol,1
 1995,POL,All,Basel Convention,1
-1995,POR,All,Basel Convention,1
 1995,PRK,All,Montreal Protocol,1
 1995,PRK,All,Basel Convention,0
 1995,PRT,All,Montreal Protocol,1
+1995,PRT,All,Basel Convention,1
 1995,PRY,All,Montreal Protocol,1
 1995,PRY,All,Basel Convention,1
 1995,PSE,All,Montreal Protocol,0
@@ -3555,10 +3555,10 @@ year,geo,disagg_type,disagg,value
 1996,PNG,All,Basel Convention,1
 1996,POL,All,Montreal Protocol,1
 1996,POL,All,Basel Convention,1
-1996,POR,All,Basel Convention,1
 1996,PRK,All,Montreal Protocol,1
 1996,PRK,All,Basel Convention,0
 1996,PRT,All,Montreal Protocol,1
+1996,PRT,All,Basel Convention,1
 1996,PRY,All,Montreal Protocol,1
 1996,PRY,All,Basel Convention,1
 1996,PSE,All,Montreal Protocol,0
@@ -3944,10 +3944,10 @@ year,geo,disagg_type,disagg,value
 1997,PNG,All,Basel Convention,1
 1997,POL,All,Montreal Protocol,1
 1997,POL,All,Basel Convention,1
-1997,POR,All,Basel Convention,1
 1997,PRK,All,Montreal Protocol,1
 1997,PRK,All,Basel Convention,0
 1997,PRT,All,Montreal Protocol,1
+1997,PRT,All,Basel Convention,1
 1997,PRY,All,Montreal Protocol,1
 1997,PRY,All,Basel Convention,1
 1997,PSE,All,Montreal Protocol,0
@@ -4283,9 +4283,9 @@ year,geo,disagg_type,disagg,value
 1998,IRQ,All,Rotterdam Convention,0
 1998,IRQ,All,Basel Convention,0
 1998,ISL,All,Montreal Protocol,1
-1998,ISL,All,Rotterdam Convention,0
 1998,ISL,All,Basel Convention,1
 1998,ISR,All,Montreal Protocol,1
+1998,ISR,All,Rotterdam Convention,0
 1998,ISR,All,Basel Convention,1
 1998,ITA,All,Montreal Protocol,1
 1998,ITA,All,Rotterdam Convention,0
@@ -4455,12 +4455,12 @@ year,geo,disagg_type,disagg,value
 1998,POL,All,Montreal Protocol,1
 1998,POL,All,Rotterdam Convention,0
 1998,POL,All,Basel Convention,1
-1998,POR,All,Basel Convention,1
 1998,PRK,All,Montreal Protocol,1
 1998,PRK,All,Rotterdam Convention,0
 1998,PRK,All,Basel Convention,0
 1998,PRT,All,Montreal Protocol,1
 1998,PRT,All,Rotterdam Convention,0
+1998,PRT,All,Basel Convention,1
 1998,PRY,All,Montreal Protocol,1
 1998,PRY,All,Rotterdam Convention,0
 1998,PRY,All,Basel Convention,1
@@ -4838,9 +4838,9 @@ year,geo,disagg_type,disagg,value
 1999,IRQ,All,Rotterdam Convention,0
 1999,IRQ,All,Basel Convention,0
 1999,ISL,All,Montreal Protocol,1
-1999,ISL,All,Rotterdam Convention,0
 1999,ISL,All,Basel Convention,1
 1999,ISR,All,Montreal Protocol,1
+1999,ISR,All,Rotterdam Convention,0
 1999,ISR,All,Basel Convention,1
 1999,ITA,All,Montreal Protocol,1
 1999,ITA,All,Rotterdam Convention,0
@@ -5010,12 +5010,12 @@ year,geo,disagg_type,disagg,value
 1999,POL,All,Montreal Protocol,1
 1999,POL,All,Rotterdam Convention,0
 1999,POL,All,Basel Convention,1
-1999,POR,All,Basel Convention,1
 1999,PRK,All,Montreal Protocol,1
 1999,PRK,All,Rotterdam Convention,0
 1999,PRK,All,Basel Convention,0
 1999,PRT,All,Montreal Protocol,1
 1999,PRT,All,Rotterdam Convention,0
+1999,PRT,All,Basel Convention,1
 1999,PRY,All,Montreal Protocol,1
 1999,PRY,All,Rotterdam Convention,0
 1999,PRY,All,Basel Convention,1
@@ -5393,9 +5393,9 @@ year,geo,disagg_type,disagg,value
 2000,IRQ,All,Rotterdam Convention,0
 2000,IRQ,All,Basel Convention,0
 2000,ISL,All,Montreal Protocol,1
-2000,ISL,All,Rotterdam Convention,0
 2000,ISL,All,Basel Convention,1
 2000,ISR,All,Montreal Protocol,1
+2000,ISR,All,Rotterdam Convention,0
 2000,ISR,All,Basel Convention,1
 2000,ITA,All,Montreal Protocol,1
 2000,ITA,All,Rotterdam Convention,0
@@ -5565,12 +5565,12 @@ year,geo,disagg_type,disagg,value
 2000,POL,All,Montreal Protocol,1
 2000,POL,All,Rotterdam Convention,0
 2000,POL,All,Basel Convention,1
-2000,POR,All,Basel Convention,1
 2000,PRK,All,Montreal Protocol,1
 2000,PRK,All,Rotterdam Convention,0
 2000,PRK,All,Basel Convention,0
 2000,PRT,All,Montreal Protocol,1
 2000,PRT,All,Rotterdam Convention,0
+2000,PRT,All,Basel Convention,1
 2000,PRY,All,Montreal Protocol,1
 2000,PRY,All,Rotterdam Convention,0
 2000,PRY,All,Basel Convention,1
@@ -6027,10 +6027,10 @@ year,geo,disagg_type,disagg,value
 2001,IRQ,All,Stockholm Convention,0
 2001,IRQ,All,Basel Convention,0
 2001,ISL,All,Montreal Protocol,1
-2001,ISL,All,Rotterdam Convention,0
 2001,ISL,All,Stockholm Convention,0
 2001,ISL,All,Basel Convention,1
 2001,ISR,All,Montreal Protocol,1
+2001,ISR,All,Rotterdam Convention,0
 2001,ISR,All,Basel Convention,1
 2001,ITA,All,Montreal Protocol,1
 2001,ITA,All,Rotterdam Convention,0
@@ -6258,7 +6258,6 @@ year,geo,disagg_type,disagg,value
 2001,POL,All,Rotterdam Convention,0
 2001,POL,All,Stockholm Convention,0
 2001,POL,All,Basel Convention,1
-2001,POR,All,Basel Convention,1
 2001,PRK,All,Montreal Protocol,1
 2001,PRK,All,Rotterdam Convention,0
 2001,PRK,All,Stockholm Convention,0
@@ -6266,6 +6265,7 @@ year,geo,disagg_type,disagg,value
 2001,PRT,All,Montreal Protocol,1
 2001,PRT,All,Rotterdam Convention,0
 2001,PRT,All,Stockholm Convention,0
+2001,PRT,All,Basel Convention,1
 2001,PRY,All,Montreal Protocol,1
 2001,PRY,All,Rotterdam Convention,0
 2001,PRY,All,Stockholm Convention,0
@@ -6768,10 +6768,10 @@ year,geo,disagg_type,disagg,value
 2002,IRQ,All,Stockholm Convention,0
 2002,IRQ,All,Basel Convention,0
 2002,ISL,All,Montreal Protocol,1
-2002,ISL,All,Rotterdam Convention,0
 2002,ISL,All,Stockholm Convention,1
 2002,ISL,All,Basel Convention,1
 2002,ISR,All,Montreal Protocol,1
+2002,ISR,All,Rotterdam Convention,0
 2002,ISR,All,Basel Convention,1
 2002,ITA,All,Montreal Protocol,1
 2002,ITA,All,Rotterdam Convention,1
@@ -6999,7 +6999,6 @@ year,geo,disagg_type,disagg,value
 2002,POL,All,Rotterdam Convention,0
 2002,POL,All,Stockholm Convention,0
 2002,POL,All,Basel Convention,1
-2002,POR,All,Basel Convention,1
 2002,PRK,All,Montreal Protocol,1
 2002,PRK,All,Rotterdam Convention,0
 2002,PRK,All,Stockholm Convention,1
@@ -7007,6 +7006,7 @@ year,geo,disagg_type,disagg,value
 2002,PRT,All,Montreal Protocol,1
 2002,PRT,All,Rotterdam Convention,0
 2002,PRT,All,Stockholm Convention,0
+2002,PRT,All,Basel Convention,1
 2002,PRY,All,Montreal Protocol,1
 2002,PRY,All,Rotterdam Convention,0
 2002,PRY,All,Stockholm Convention,0
@@ -7509,10 +7509,10 @@ year,geo,disagg_type,disagg,value
 2003,IRQ,All,Stockholm Convention,0
 2003,IRQ,All,Basel Convention,0
 2003,ISL,All,Montreal Protocol,1
-2003,ISL,All,Rotterdam Convention,0
 2003,ISL,All,Stockholm Convention,1
 2003,ISL,All,Basel Convention,1
 2003,ISR,All,Montreal Protocol,1
+2003,ISR,All,Rotterdam Convention,0
 2003,ISR,All,Basel Convention,1
 2003,ITA,All,Montreal Protocol,1
 2003,ITA,All,Rotterdam Convention,1
@@ -7740,7 +7740,6 @@ year,geo,disagg_type,disagg,value
 2003,POL,All,Rotterdam Convention,0
 2003,POL,All,Stockholm Convention,0
 2003,POL,All,Basel Convention,1
-2003,POR,All,Basel Convention,1
 2003,PRK,All,Montreal Protocol,1
 2003,PRK,All,Rotterdam Convention,0
 2003,PRK,All,Stockholm Convention,1
@@ -7748,6 +7747,7 @@ year,geo,disagg_type,disagg,value
 2003,PRT,All,Montreal Protocol,1
 2003,PRT,All,Rotterdam Convention,0
 2003,PRT,All,Stockholm Convention,0
+2003,PRT,All,Basel Convention,1
 2003,PRY,All,Montreal Protocol,1
 2003,PRY,All,Rotterdam Convention,1
 2003,PRY,All,Stockholm Convention,0
@@ -8250,10 +8250,10 @@ year,geo,disagg_type,disagg,value
 2004,IRQ,All,Stockholm Convention,0
 2004,IRQ,All,Basel Convention,0
 2004,ISL,All,Montreal Protocol,1
-2004,ISL,All,Rotterdam Convention,0
 2004,ISL,All,Stockholm Convention,1
 2004,ISL,All,Basel Convention,1
 2004,ISR,All,Montreal Protocol,1
+2004,ISR,All,Rotterdam Convention,0
 2004,ISR,All,Basel Convention,1
 2004,ITA,All,Montreal Protocol,1
 2004,ITA,All,Rotterdam Convention,1
@@ -8481,7 +8481,6 @@ year,geo,disagg_type,disagg,value
 2004,POL,All,Rotterdam Convention,0
 2004,POL,All,Stockholm Convention,0
 2004,POL,All,Basel Convention,1
-2004,POR,All,Basel Convention,1
 2004,PRK,All,Montreal Protocol,1
 2004,PRK,All,Rotterdam Convention,1
 2004,PRK,All,Stockholm Convention,1
@@ -8489,6 +8488,7 @@ year,geo,disagg_type,disagg,value
 2004,PRT,All,Montreal Protocol,1
 2004,PRT,All,Rotterdam Convention,0
 2004,PRT,All,Stockholm Convention,1
+2004,PRT,All,Basel Convention,1
 2004,PRY,All,Montreal Protocol,1
 2004,PRY,All,Rotterdam Convention,1
 2004,PRY,All,Stockholm Convention,1
@@ -8991,10 +8991,10 @@ year,geo,disagg_type,disagg,value
 2005,IRQ,All,Stockholm Convention,0
 2005,IRQ,All,Basel Convention,0
 2005,ISL,All,Montreal Protocol,1
-2005,ISL,All,Rotterdam Convention,0
 2005,ISL,All,Stockholm Convention,1
 2005,ISL,All,Basel Convention,1
 2005,ISR,All,Montreal Protocol,1
+2005,ISR,All,Rotterdam Convention,0
 2005,ISR,All,Basel Convention,1
 2005,ITA,All,Montreal Protocol,1
 2005,ITA,All,Rotterdam Convention,1
@@ -9222,7 +9222,6 @@ year,geo,disagg_type,disagg,value
 2005,POL,All,Rotterdam Convention,1
 2005,POL,All,Stockholm Convention,0
 2005,POL,All,Basel Convention,1
-2005,POR,All,Basel Convention,1
 2005,PRK,All,Montreal Protocol,1
 2005,PRK,All,Rotterdam Convention,1
 2005,PRK,All,Stockholm Convention,1
@@ -9230,6 +9229,7 @@ year,geo,disagg_type,disagg,value
 2005,PRT,All,Montreal Protocol,1
 2005,PRT,All,Rotterdam Convention,1
 2005,PRT,All,Stockholm Convention,1
+2005,PRT,All,Basel Convention,1
 2005,PRY,All,Montreal Protocol,1
 2005,PRY,All,Rotterdam Convention,1
 2005,PRY,All,Stockholm Convention,1
@@ -9732,10 +9732,10 @@ year,geo,disagg_type,disagg,value
 2006,IRQ,All,Stockholm Convention,0
 2006,IRQ,All,Basel Convention,0
 2006,ISL,All,Montreal Protocol,1
-2006,ISL,All,Rotterdam Convention,0
 2006,ISL,All,Stockholm Convention,1
 2006,ISL,All,Basel Convention,1
 2006,ISR,All,Montreal Protocol,1
+2006,ISR,All,Rotterdam Convention,0
 2006,ISR,All,Basel Convention,1
 2006,ITA,All,Montreal Protocol,1
 2006,ITA,All,Rotterdam Convention,1
@@ -9963,7 +9963,6 @@ year,geo,disagg_type,disagg,value
 2006,POL,All,Rotterdam Convention,1
 2006,POL,All,Stockholm Convention,0
 2006,POL,All,Basel Convention,1
-2006,POR,All,Basel Convention,1
 2006,PRK,All,Montreal Protocol,1
 2006,PRK,All,Rotterdam Convention,1
 2006,PRK,All,Stockholm Convention,1
@@ -9971,6 +9970,7 @@ year,geo,disagg_type,disagg,value
 2006,PRT,All,Montreal Protocol,1
 2006,PRT,All,Rotterdam Convention,1
 2006,PRT,All,Stockholm Convention,1
+2006,PRT,All,Basel Convention,1
 2006,PRY,All,Montreal Protocol,1
 2006,PRY,All,Rotterdam Convention,1
 2006,PRY,All,Stockholm Convention,1
@@ -10473,10 +10473,10 @@ year,geo,disagg_type,disagg,value
 2007,IRQ,All,Stockholm Convention,0
 2007,IRQ,All,Basel Convention,0
 2007,ISL,All,Montreal Protocol,1
-2007,ISL,All,Rotterdam Convention,0
 2007,ISL,All,Stockholm Convention,1
 2007,ISL,All,Basel Convention,1
 2007,ISR,All,Montreal Protocol,1
+2007,ISR,All,Rotterdam Convention,0
 2007,ISR,All,Basel Convention,1
 2007,ITA,All,Montreal Protocol,1
 2007,ITA,All,Rotterdam Convention,1
@@ -10704,7 +10704,6 @@ year,geo,disagg_type,disagg,value
 2007,POL,All,Rotterdam Convention,1
 2007,POL,All,Stockholm Convention,0
 2007,POL,All,Basel Convention,1
-2007,POR,All,Basel Convention,1
 2007,PRK,All,Montreal Protocol,1
 2007,PRK,All,Rotterdam Convention,1
 2007,PRK,All,Stockholm Convention,1
@@ -10712,6 +10711,7 @@ year,geo,disagg_type,disagg,value
 2007,PRT,All,Montreal Protocol,1
 2007,PRT,All,Rotterdam Convention,1
 2007,PRT,All,Stockholm Convention,1
+2007,PRT,All,Basel Convention,1
 2007,PRY,All,Montreal Protocol,1
 2007,PRY,All,Rotterdam Convention,1
 2007,PRY,All,Stockholm Convention,1
@@ -11214,10 +11214,10 @@ year,geo,disagg_type,disagg,value
 2008,IRQ,All,Stockholm Convention,0
 2008,IRQ,All,Basel Convention,0
 2008,ISL,All,Montreal Protocol,1
-2008,ISL,All,Rotterdam Convention,0
 2008,ISL,All,Stockholm Convention,1
 2008,ISL,All,Basel Convention,1
 2008,ISR,All,Montreal Protocol,1
+2008,ISR,All,Rotterdam Convention,0
 2008,ISR,All,Basel Convention,1
 2008,ITA,All,Montreal Protocol,1
 2008,ITA,All,Rotterdam Convention,1
@@ -11445,7 +11445,6 @@ year,geo,disagg_type,disagg,value
 2008,POL,All,Rotterdam Convention,1
 2008,POL,All,Stockholm Convention,1
 2008,POL,All,Basel Convention,1
-2008,POR,All,Basel Convention,1
 2008,PRK,All,Montreal Protocol,1
 2008,PRK,All,Rotterdam Convention,1
 2008,PRK,All,Stockholm Convention,1
@@ -11453,6 +11452,7 @@ year,geo,disagg_type,disagg,value
 2008,PRT,All,Montreal Protocol,1
 2008,PRT,All,Rotterdam Convention,1
 2008,PRT,All,Stockholm Convention,1
+2008,PRT,All,Basel Convention,1
 2008,PRY,All,Montreal Protocol,1
 2008,PRY,All,Rotterdam Convention,1
 2008,PRY,All,Stockholm Convention,1
@@ -11955,10 +11955,10 @@ year,geo,disagg_type,disagg,value
 2009,IRQ,All,Stockholm Convention,0
 2009,IRQ,All,Basel Convention,0
 2009,ISL,All,Montreal Protocol,1
-2009,ISL,All,Rotterdam Convention,0
 2009,ISL,All,Stockholm Convention,1
 2009,ISL,All,Basel Convention,1
 2009,ISR,All,Montreal Protocol,1
+2009,ISR,All,Rotterdam Convention,0
 2009,ISR,All,Basel Convention,1
 2009,ITA,All,Montreal Protocol,1
 2009,ITA,All,Rotterdam Convention,1
@@ -12186,7 +12186,6 @@ year,geo,disagg_type,disagg,value
 2009,POL,All,Rotterdam Convention,1
 2009,POL,All,Stockholm Convention,1
 2009,POL,All,Basel Convention,1
-2009,POR,All,Basel Convention,1
 2009,PRK,All,Montreal Protocol,1
 2009,PRK,All,Rotterdam Convention,1
 2009,PRK,All,Stockholm Convention,1
@@ -12194,6 +12193,7 @@ year,geo,disagg_type,disagg,value
 2009,PRT,All,Montreal Protocol,1
 2009,PRT,All,Rotterdam Convention,1
 2009,PRT,All,Stockholm Convention,1
+2009,PRT,All,Basel Convention,1
 2009,PRY,All,Montreal Protocol,1
 2009,PRY,All,Rotterdam Convention,1
 2009,PRY,All,Stockholm Convention,1
@@ -12696,10 +12696,10 @@ year,geo,disagg_type,disagg,value
 2010,IRQ,All,Stockholm Convention,0
 2010,IRQ,All,Basel Convention,0
 2010,ISL,All,Montreal Protocol,1
-2010,ISL,All,Rotterdam Convention,0
 2010,ISL,All,Stockholm Convention,1
 2010,ISL,All,Basel Convention,1
 2010,ISR,All,Montreal Protocol,1
+2010,ISR,All,Rotterdam Convention,0
 2010,ISR,All,Basel Convention,1
 2010,ITA,All,Montreal Protocol,1
 2010,ITA,All,Rotterdam Convention,1
@@ -12927,7 +12927,6 @@ year,geo,disagg_type,disagg,value
 2010,POL,All,Rotterdam Convention,1
 2010,POL,All,Stockholm Convention,1
 2010,POL,All,Basel Convention,1
-2010,POR,All,Basel Convention,1
 2010,PRK,All,Montreal Protocol,1
 2010,PRK,All,Rotterdam Convention,1
 2010,PRK,All,Stockholm Convention,1
@@ -12935,6 +12934,7 @@ year,geo,disagg_type,disagg,value
 2010,PRT,All,Montreal Protocol,1
 2010,PRT,All,Rotterdam Convention,1
 2010,PRT,All,Stockholm Convention,1
+2010,PRT,All,Basel Convention,1
 2010,PRY,All,Montreal Protocol,1
 2010,PRY,All,Rotterdam Convention,1
 2010,PRY,All,Stockholm Convention,1
@@ -13437,10 +13437,10 @@ year,geo,disagg_type,disagg,value
 2011,IRQ,All,Stockholm Convention,0
 2011,IRQ,All,Basel Convention,1
 2011,ISL,All,Montreal Protocol,1
-2011,ISL,All,Rotterdam Convention,1
 2011,ISL,All,Stockholm Convention,1
 2011,ISL,All,Basel Convention,1
 2011,ISR,All,Montreal Protocol,1
+2011,ISR,All,Rotterdam Convention,1
 2011,ISR,All,Basel Convention,1
 2011,ITA,All,Montreal Protocol,1
 2011,ITA,All,Rotterdam Convention,1
@@ -13668,7 +13668,6 @@ year,geo,disagg_type,disagg,value
 2011,POL,All,Rotterdam Convention,1
 2011,POL,All,Stockholm Convention,1
 2011,POL,All,Basel Convention,1
-2011,POR,All,Basel Convention,1
 2011,PRK,All,Montreal Protocol,1
 2011,PRK,All,Rotterdam Convention,1
 2011,PRK,All,Stockholm Convention,1
@@ -13676,6 +13675,7 @@ year,geo,disagg_type,disagg,value
 2011,PRT,All,Montreal Protocol,1
 2011,PRT,All,Rotterdam Convention,1
 2011,PRT,All,Stockholm Convention,1
+2011,PRT,All,Basel Convention,1
 2011,PRY,All,Montreal Protocol,1
 2011,PRY,All,Rotterdam Convention,1
 2011,PRY,All,Stockholm Convention,1
@@ -14178,10 +14178,10 @@ year,geo,disagg_type,disagg,value
 2012,IRQ,All,Stockholm Convention,0
 2012,IRQ,All,Basel Convention,1
 2012,ISL,All,Montreal Protocol,1
-2012,ISL,All,Rotterdam Convention,1
 2012,ISL,All,Stockholm Convention,1
 2012,ISL,All,Basel Convention,1
 2012,ISR,All,Montreal Protocol,1
+2012,ISR,All,Rotterdam Convention,1
 2012,ISR,All,Basel Convention,1
 2012,ITA,All,Montreal Protocol,1
 2012,ITA,All,Rotterdam Convention,1
@@ -14409,7 +14409,6 @@ year,geo,disagg_type,disagg,value
 2012,POL,All,Rotterdam Convention,1
 2012,POL,All,Stockholm Convention,1
 2012,POL,All,Basel Convention,1
-2012,POR,All,Basel Convention,1
 2012,PRK,All,Montreal Protocol,1
 2012,PRK,All,Rotterdam Convention,1
 2012,PRK,All,Stockholm Convention,1
@@ -14417,6 +14416,7 @@ year,geo,disagg_type,disagg,value
 2012,PRT,All,Montreal Protocol,1
 2012,PRT,All,Rotterdam Convention,1
 2012,PRT,All,Stockholm Convention,1
+2012,PRT,All,Basel Convention,1
 2012,PRY,All,Montreal Protocol,1
 2012,PRY,All,Rotterdam Convention,1
 2012,PRY,All,Stockholm Convention,1
@@ -15044,13 +15044,12 @@ year,geo,disagg_type,disagg,value
 2013,IRQ,All,Minamata Convention,0
 2013,IRQ,All,Stockholm Convention,0
 2013,IRQ,All,Basel Convention,1
-2013,ISL,All,Total,0
 2013,ISL,All,Montreal Protocol,1
-2013,ISL,All,Rotterdam Convention,1
 2013,ISL,All,Minamata Convention,0
 2013,ISL,All,Stockholm Convention,1
 2013,ISL,All,Basel Convention,1
 2013,ISR,All,Montreal Protocol,1
+2013,ISR,All,Rotterdam Convention,1
 2013,ISR,All,Basel Convention,1
 2013,ITA,All,Total,0
 2013,ITA,All,Montreal Protocol,1
@@ -15370,15 +15369,16 @@ year,geo,disagg_type,disagg,value
 2013,POL,All,Minamata Convention,0
 2013,POL,All,Stockholm Convention,1
 2013,POL,All,Basel Convention,1
-2013,POR,All,Basel Convention,1
 2013,PRK,All,Montreal Protocol,1
 2013,PRK,All,Rotterdam Convention,1
 2013,PRK,All,Stockholm Convention,1
 2013,PRK,All,Basel Convention,1
+2013,PRT,All,Total,0
 2013,PRT,All,Montreal Protocol,1
 2013,PRT,All,Rotterdam Convention,1
 2013,PRT,All,Minamata Convention,0
 2013,PRT,All,Stockholm Convention,1
+2013,PRT,All,Basel Convention,1
 2013,PRY,All,Total,0
 2013,PRY,All,Montreal Protocol,1
 2013,PRY,All,Rotterdam Convention,1
@@ -16078,13 +16078,12 @@ year,geo,disagg_type,disagg,value
 2014,IRQ,All,Minamata Convention,0
 2014,IRQ,All,Stockholm Convention,0
 2014,IRQ,All,Basel Convention,1
-2014,ISL,All,Total,0
 2014,ISL,All,Montreal Protocol,1
-2014,ISL,All,Rotterdam Convention,1
 2014,ISL,All,Minamata Convention,0
 2014,ISL,All,Stockholm Convention,1
 2014,ISL,All,Basel Convention,1
 2014,ISR,All,Montreal Protocol,1
+2014,ISR,All,Rotterdam Convention,1
 2014,ISR,All,Basel Convention,1
 2014,ITA,All,Total,0
 2014,ITA,All,Montreal Protocol,1
@@ -16404,15 +16403,16 @@ year,geo,disagg_type,disagg,value
 2014,POL,All,Minamata Convention,0
 2014,POL,All,Stockholm Convention,1
 2014,POL,All,Basel Convention,1
-2014,POR,All,Basel Convention,1
 2014,PRK,All,Montreal Protocol,1
 2014,PRK,All,Rotterdam Convention,1
 2014,PRK,All,Stockholm Convention,1
 2014,PRK,All,Basel Convention,1
+2014,PRT,All,Total,0
 2014,PRT,All,Montreal Protocol,1
 2014,PRT,All,Rotterdam Convention,1
 2014,PRT,All,Minamata Convention,0
 2014,PRT,All,Stockholm Convention,1
+2014,PRT,All,Basel Convention,1
 2014,PRY,All,Total,0
 2014,PRY,All,Montreal Protocol,1
 2014,PRY,All,Rotterdam Convention,1
@@ -17112,13 +17112,12 @@ year,geo,disagg_type,disagg,value
 2015,IRQ,All,Minamata Convention,0
 2015,IRQ,All,Stockholm Convention,0
 2015,IRQ,All,Basel Convention,1
-2015,ISL,All,Total,0
 2015,ISL,All,Montreal Protocol,1
-2015,ISL,All,Rotterdam Convention,1
 2015,ISL,All,Minamata Convention,0
 2015,ISL,All,Stockholm Convention,1
 2015,ISL,All,Basel Convention,1
 2015,ISR,All,Montreal Protocol,1
+2015,ISR,All,Rotterdam Convention,1
 2015,ISR,All,Basel Convention,1
 2015,ITA,All,Total,0
 2015,ITA,All,Montreal Protocol,1
@@ -17438,15 +17437,16 @@ year,geo,disagg_type,disagg,value
 2015,POL,All,Minamata Convention,0
 2015,POL,All,Stockholm Convention,1
 2015,POL,All,Basel Convention,1
-2015,POR,All,Basel Convention,1
 2015,PRK,All,Montreal Protocol,1
 2015,PRK,All,Rotterdam Convention,1
 2015,PRK,All,Stockholm Convention,1
 2015,PRK,All,Basel Convention,1
+2015,PRT,All,Total,0
 2015,PRT,All,Montreal Protocol,1
 2015,PRT,All,Rotterdam Convention,1
 2015,PRT,All,Minamata Convention,0
 2015,PRT,All,Stockholm Convention,1
+2015,PRT,All,Basel Convention,1
 2015,PRY,All,Total,0
 2015,PRY,All,Montreal Protocol,1
 2015,PRY,All,Rotterdam Convention,1
@@ -18146,13 +18146,12 @@ year,geo,disagg_type,disagg,value
 2016,IRQ,All,Minamata Convention,0
 2016,IRQ,All,Stockholm Convention,1
 2016,IRQ,All,Basel Convention,1
-2016,ISL,All,Total,0
 2016,ISL,All,Montreal Protocol,1
-2016,ISL,All,Rotterdam Convention,1
 2016,ISL,All,Minamata Convention,0
 2016,ISL,All,Stockholm Convention,1
 2016,ISL,All,Basel Convention,1
 2016,ISR,All,Montreal Protocol,1
+2016,ISR,All,Rotterdam Convention,1
 2016,ISR,All,Basel Convention,1
 2016,ITA,All,Total,0
 2016,ITA,All,Montreal Protocol,1
@@ -18472,15 +18471,16 @@ year,geo,disagg_type,disagg,value
 2016,POL,All,Minamata Convention,0
 2016,POL,All,Stockholm Convention,1
 2016,POL,All,Basel Convention,1
-2016,POR,All,Basel Convention,1
 2016,PRK,All,Montreal Protocol,1
 2016,PRK,All,Rotterdam Convention,1
 2016,PRK,All,Stockholm Convention,1
 2016,PRK,All,Basel Convention,1
+2016,PRT,All,Total,0
 2016,PRT,All,Montreal Protocol,1
 2016,PRT,All,Rotterdam Convention,1
 2016,PRT,All,Minamata Convention,0
 2016,PRT,All,Stockholm Convention,1
+2016,PRT,All,Basel Convention,1
 2016,PRY,All,Total,0
 2016,PRY,All,Montreal Protocol,1
 2016,PRY,All,Rotterdam Convention,1
@@ -19180,13 +19180,12 @@ year,geo,disagg_type,disagg,value
 2017,IRQ,All,Minamata Convention,0
 2017,IRQ,All,Stockholm Convention,1
 2017,IRQ,All,Basel Convention,1
-2017,ISL,All,Total,0
 2017,ISL,All,Montreal Protocol,1
-2017,ISL,All,Rotterdam Convention,1
 2017,ISL,All,Minamata Convention,0
 2017,ISL,All,Stockholm Convention,1
 2017,ISL,All,Basel Convention,1
 2017,ISR,All,Montreal Protocol,1
+2017,ISR,All,Rotterdam Convention,1
 2017,ISR,All,Basel Convention,1
 2017,ITA,All,Total,0
 2017,ITA,All,Montreal Protocol,1
@@ -19506,15 +19505,16 @@ year,geo,disagg_type,disagg,value
 2017,POL,All,Minamata Convention,0
 2017,POL,All,Stockholm Convention,1
 2017,POL,All,Basel Convention,1
-2017,POR,All,Basel Convention,1
 2017,PRK,All,Montreal Protocol,1
 2017,PRK,All,Rotterdam Convention,1
 2017,PRK,All,Stockholm Convention,1
 2017,PRK,All,Basel Convention,1
+2017,PRT,All,Total,0
 2017,PRT,All,Montreal Protocol,1
 2017,PRT,All,Rotterdam Convention,1
 2017,PRT,All,Minamata Convention,0
 2017,PRT,All,Stockholm Convention,1
+2017,PRT,All,Basel Convention,1
 2017,PRY,All,Total,0
 2017,PRY,All,Montreal Protocol,1
 2017,PRY,All,Rotterdam Convention,1
@@ -20214,13 +20214,12 @@ year,geo,disagg_type,disagg,value
 2018,IRQ,All,Minamata Convention,0
 2018,IRQ,All,Stockholm Convention,1
 2018,IRQ,All,Basel Convention,1
-2018,ISL,All,Total,1
 2018,ISL,All,Montreal Protocol,1
-2018,ISL,All,Rotterdam Convention,1
 2018,ISL,All,Minamata Convention,1
 2018,ISL,All,Stockholm Convention,1
 2018,ISL,All,Basel Convention,1
 2018,ISR,All,Montreal Protocol,1
+2018,ISR,All,Rotterdam Convention,1
 2018,ISR,All,Basel Convention,1
 2018,ITA,All,Total,0
 2018,ITA,All,Montreal Protocol,1
@@ -20540,15 +20539,16 @@ year,geo,disagg_type,disagg,value
 2018,POL,All,Minamata Convention,0
 2018,POL,All,Stockholm Convention,1
 2018,POL,All,Basel Convention,1
-2018,POR,All,Basel Convention,1
 2018,PRK,All,Montreal Protocol,1
 2018,PRK,All,Rotterdam Convention,1
 2018,PRK,All,Stockholm Convention,1
 2018,PRK,All,Basel Convention,1
+2018,PRT,All,Total,1
 2018,PRT,All,Montreal Protocol,1
 2018,PRT,All,Rotterdam Convention,1
 2018,PRT,All,Minamata Convention,1
 2018,PRT,All,Stockholm Convention,1
+2018,PRT,All,Basel Convention,1
 2018,PRY,All,Total,1
 2018,PRY,All,Montreal Protocol,1
 2018,PRY,All,Rotterdam Convention,1
@@ -21248,13 +21248,12 @@ year,geo,disagg_type,disagg,value
 2019,IRQ,All,Minamata Convention,0
 2019,IRQ,All,Stockholm Convention,1
 2019,IRQ,All,Basel Convention,1
-2019,ISL,All,Total,1
 2019,ISL,All,Montreal Protocol,1
-2019,ISL,All,Rotterdam Convention,1
 2019,ISL,All,Minamata Convention,1
 2019,ISL,All,Stockholm Convention,1
 2019,ISL,All,Basel Convention,1
 2019,ISR,All,Montreal Protocol,1
+2019,ISR,All,Rotterdam Convention,1
 2019,ISR,All,Basel Convention,1
 2019,ITA,All,Total,0
 2019,ITA,All,Montreal Protocol,1
@@ -21574,15 +21573,16 @@ year,geo,disagg_type,disagg,value
 2019,POL,All,Minamata Convention,0
 2019,POL,All,Stockholm Convention,1
 2019,POL,All,Basel Convention,1
-2019,POR,All,Basel Convention,1
 2019,PRK,All,Montreal Protocol,1
 2019,PRK,All,Rotterdam Convention,1
 2019,PRK,All,Stockholm Convention,1
 2019,PRK,All,Basel Convention,1
+2019,PRT,All,Total,1
 2019,PRT,All,Montreal Protocol,1
 2019,PRT,All,Rotterdam Convention,1
 2019,PRT,All,Minamata Convention,1
 2019,PRT,All,Stockholm Convention,1
+2019,PRT,All,Basel Convention,1
 2019,PRY,All,Total,1
 2019,PRY,All,Montreal Protocol,1
 2019,PRY,All,Rotterdam Convention,1
@@ -22282,13 +22282,12 @@ year,geo,disagg_type,disagg,value
 2020,IRQ,All,Minamata Convention,0
 2020,IRQ,All,Stockholm Convention,1
 2020,IRQ,All,Basel Convention,1
-2020,ISL,All,Total,1
 2020,ISL,All,Montreal Protocol,1
-2020,ISL,All,Rotterdam Convention,1
 2020,ISL,All,Minamata Convention,1
 2020,ISL,All,Stockholm Convention,1
 2020,ISL,All,Basel Convention,1
 2020,ISR,All,Montreal Protocol,1
+2020,ISR,All,Rotterdam Convention,1
 2020,ISR,All,Basel Convention,1
 2020,ITA,All,Total,0
 2020,ITA,All,Montreal Protocol,1
@@ -22608,15 +22607,16 @@ year,geo,disagg_type,disagg,value
 2020,POL,All,Minamata Convention,0
 2020,POL,All,Stockholm Convention,1
 2020,POL,All,Basel Convention,1
-2020,POR,All,Basel Convention,1
 2020,PRK,All,Montreal Protocol,1
 2020,PRK,All,Rotterdam Convention,1
 2020,PRK,All,Stockholm Convention,1
 2020,PRK,All,Basel Convention,1
+2020,PRT,All,Total,1
 2020,PRT,All,Montreal Protocol,1
 2020,PRT,All,Rotterdam Convention,1
 2020,PRT,All,Minamata Convention,1
 2020,PRT,All,Stockholm Convention,1
+2020,PRT,All,Basel Convention,1
 2020,PRY,All,Total,1
 2020,PRY,All,Montreal Protocol,1
 2020,PRY,All,Rotterdam Convention,1
@@ -23316,13 +23316,12 @@ year,geo,disagg_type,disagg,value
 2021,IRQ,All,Minamata Convention,1
 2021,IRQ,All,Stockholm Convention,1
 2021,IRQ,All,Basel Convention,1
-2021,ISL,All,Total,1
 2021,ISL,All,Montreal Protocol,1
-2021,ISL,All,Rotterdam Convention,1
 2021,ISL,All,Minamata Convention,1
 2021,ISL,All,Stockholm Convention,1
 2021,ISL,All,Basel Convention,1
 2021,ISR,All,Montreal Protocol,1
+2021,ISR,All,Rotterdam Convention,1
 2021,ISR,All,Basel Convention,1
 2021,ITA,All,Total,0
 2021,ITA,All,Montreal Protocol,1
@@ -23642,15 +23641,16 @@ year,geo,disagg_type,disagg,value
 2021,POL,All,Minamata Convention,1
 2021,POL,All,Stockholm Convention,1
 2021,POL,All,Basel Convention,1
-2021,POR,All,Basel Convention,1
 2021,PRK,All,Montreal Protocol,1
 2021,PRK,All,Rotterdam Convention,1
 2021,PRK,All,Stockholm Convention,1
 2021,PRK,All,Basel Convention,1
+2021,PRT,All,Total,1
 2021,PRT,All,Montreal Protocol,1
 2021,PRT,All,Rotterdam Convention,1
 2021,PRT,All,Minamata Convention,1
 2021,PRT,All,Stockholm Convention,1
+2021,PRT,All,Basel Convention,1
 2021,PRY,All,Total,1
 2021,PRY,All,Montreal Protocol,1
 2021,PRY,All,Rotterdam Convention,1
@@ -24350,13 +24350,12 @@ year,geo,disagg_type,disagg,value
 2022,IRQ,All,Minamata Convention,1
 2022,IRQ,All,Stockholm Convention,1
 2022,IRQ,All,Basel Convention,1
-2022,ISL,All,Total,1
 2022,ISL,All,Montreal Protocol,1
-2022,ISL,All,Rotterdam Convention,1
 2022,ISL,All,Minamata Convention,1
 2022,ISL,All,Stockholm Convention,1
 2022,ISL,All,Basel Convention,1
 2022,ISR,All,Montreal Protocol,1
+2022,ISR,All,Rotterdam Convention,1
 2022,ISR,All,Basel Convention,1
 2022,ITA,All,Total,1
 2022,ITA,All,Montreal Protocol,1
@@ -24676,15 +24675,16 @@ year,geo,disagg_type,disagg,value
 2022,POL,All,Minamata Convention,1
 2022,POL,All,Stockholm Convention,1
 2022,POL,All,Basel Convention,1
-2022,POR,All,Basel Convention,1
 2022,PRK,All,Montreal Protocol,1
 2022,PRK,All,Rotterdam Convention,1
 2022,PRK,All,Stockholm Convention,1
 2022,PRK,All,Basel Convention,1
+2022,PRT,All,Total,1
 2022,PRT,All,Montreal Protocol,1
 2022,PRT,All,Rotterdam Convention,1
 2022,PRT,All,Minamata Convention,1
 2022,PRT,All,Stockholm Convention,1
+2022,PRT,All,Basel Convention,1
 2022,PRY,All,Total,1
 2022,PRY,All,Montreal Protocol,1
 2022,PRY,All,Rotterdam Convention,1
@@ -25384,13 +25384,12 @@ year,geo,disagg_type,disagg,value
 2023,IRQ,All,Minamata Convention,1
 2023,IRQ,All,Stockholm Convention,1
 2023,IRQ,All,Basel Convention,1
-2023,ISL,All,Total,1
 2023,ISL,All,Montreal Protocol,1
-2023,ISL,All,Rotterdam Convention,1
 2023,ISL,All,Minamata Convention,1
 2023,ISL,All,Stockholm Convention,1
 2023,ISL,All,Basel Convention,1
 2023,ISR,All,Montreal Protocol,1
+2023,ISR,All,Rotterdam Convention,1
 2023,ISR,All,Basel Convention,1
 2023,ITA,All,Total,1
 2023,ITA,All,Montreal Protocol,1
@@ -25710,15 +25709,16 @@ year,geo,disagg_type,disagg,value
 2023,POL,All,Minamata Convention,1
 2023,POL,All,Stockholm Convention,1
 2023,POL,All,Basel Convention,1
-2023,POR,All,Basel Convention,1
 2023,PRK,All,Montreal Protocol,1
 2023,PRK,All,Rotterdam Convention,1
 2023,PRK,All,Stockholm Convention,1
 2023,PRK,All,Basel Convention,1
+2023,PRT,All,Total,1
 2023,PRT,All,Montreal Protocol,1
 2023,PRT,All,Rotterdam Convention,1
 2023,PRT,All,Minamata Convention,1
 2023,PRT,All,Stockholm Convention,1
+2023,PRT,All,Basel Convention,1
 2023,PRY,All,Total,1
 2023,PRY,All,Montreal Protocol,1
 2023,PRY,All,Rotterdam Convention,1
@@ -26418,13 +26418,12 @@ year,geo,disagg_type,disagg,value
 2024,IRQ,All,Minamata Convention,1
 2024,IRQ,All,Stockholm Convention,1
 2024,IRQ,All,Basel Convention,1
-2024,ISL,All,Total,1
 2024,ISL,All,Montreal Protocol,1
-2024,ISL,All,Rotterdam Convention,1
 2024,ISL,All,Minamata Convention,1
 2024,ISL,All,Stockholm Convention,1
 2024,ISL,All,Basel Convention,1
 2024,ISR,All,Montreal Protocol,1
+2024,ISR,All,Rotterdam Convention,1
 2024,ISR,All,Basel Convention,1
 2024,ITA,All,Total,1
 2024,ITA,All,Montreal Protocol,1
@@ -26744,15 +26743,16 @@ year,geo,disagg_type,disagg,value
 2024,POL,All,Minamata Convention,1
 2024,POL,All,Stockholm Convention,1
 2024,POL,All,Basel Convention,1
-2024,POR,All,Basel Convention,1
 2024,PRK,All,Montreal Protocol,1
 2024,PRK,All,Rotterdam Convention,1
 2024,PRK,All,Stockholm Convention,1
 2024,PRK,All,Basel Convention,1
+2024,PRT,All,Total,1
 2024,PRT,All,Montreal Protocol,1
 2024,PRT,All,Rotterdam Convention,1
 2024,PRT,All,Minamata Convention,1
 2024,PRT,All,Stockholm Convention,1
+2024,PRT,All,Basel Convention,1
 2024,PRY,All,Total,1
 2024,PRY,All,Montreal Protocol,1
 2024,PRY,All,Rotterdam Convention,1
@@ -27452,13 +27452,12 @@ year,geo,disagg_type,disagg,value
 2025,IRQ,All,Minamata Convention,1
 2025,IRQ,All,Stockholm Convention,1
 2025,IRQ,All,Basel Convention,1
-2025,ISL,All,Total,1
 2025,ISL,All,Montreal Protocol,1
-2025,ISL,All,Rotterdam Convention,1
 2025,ISL,All,Minamata Convention,1
 2025,ISL,All,Stockholm Convention,1
 2025,ISL,All,Basel Convention,1
 2025,ISR,All,Montreal Protocol,1
+2025,ISR,All,Rotterdam Convention,1
 2025,ISR,All,Basel Convention,1
 2025,ITA,All,Total,1
 2025,ITA,All,Montreal Protocol,1
@@ -27778,15 +27777,16 @@ year,geo,disagg_type,disagg,value
 2025,POL,All,Minamata Convention,1
 2025,POL,All,Stockholm Convention,1
 2025,POL,All,Basel Convention,1
-2025,POR,All,Basel Convention,1
 2025,PRK,All,Montreal Protocol,1
 2025,PRK,All,Rotterdam Convention,1
 2025,PRK,All,Stockholm Convention,1
 2025,PRK,All,Basel Convention,1
+2025,PRT,All,Total,1
 2025,PRT,All,Montreal Protocol,1
 2025,PRT,All,Rotterdam Convention,1
 2025,PRT,All,Minamata Convention,1
 2025,PRT,All,Stockholm Convention,1
+2025,PRT,All,Basel Convention,1
 2025,PRY,All,Total,1
 2025,PRY,All,Montreal Protocol,1
 2025,PRY,All,Rotterdam Convention,1
