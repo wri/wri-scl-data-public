@@ -2879,21 +2879,21 @@ year,geo,disagg,value
 2022,WSM,Total,0
 2023,WSM,Total,0
 2024,WSM,Total,0
-2010,XKV,Total,0
-2011,XKV,Total,0
-2012,XKV,Total,0
-2013,XKV,Total,0
-2014,XKV,Total,0
-2015,XKV,Total,0.069
-2016,XKV,Total,0.041
-2017,XKV,Total,0.058
-2018,XKV,Total,2.1
-2019,XKV,Total,1.6
-2020,XKV,Total,2.2
-2021,XKV,Total,2.0
-2022,XKV,Total,1.4
-2023,XKV,Total,2.1
-2024,XKV,Total,2.1
+2010,XKX,Total,0
+2011,XKX,Total,0
+2012,XKX,Total,0
+2013,XKX,Total,0
+2014,XKX,Total,0
+2015,XKX,Total,0.069
+2016,XKX,Total,0.041
+2017,XKX,Total,0.058
+2018,XKX,Total,2.1
+2019,XKX,Total,1.6
+2020,XKX,Total,2.2
+2021,XKX,Total,2.0
+2022,XKX,Total,1.4
+2023,XKX,Total,2.1
+2024,XKX,Total,2.1
 2010,YEM,Total,1942
 2011,YEM,Total,2239
 2012,YEM,Total,1660
@@ -5759,21 +5759,21 @@ year,geo,disagg,value
 2022,WSM,Coal,0
 2023,WSM,Coal,0
 2024,WSM,Coal,0
-2010,XKV,Coal,0
-2011,XKV,Coal,0
-2012,XKV,Coal,0
-2013,XKV,Coal,0
-2014,XKV,Coal,0
-2015,XKV,Coal,0
-2016,XKV,Coal,0
-2017,XKV,Coal,0
-2018,XKV,Coal,0
-2019,XKV,Coal,0
-2020,XKV,Coal,0
-2021,XKV,Coal,0.000011
-2022,XKV,Coal,0
-2023,XKV,Coal,0
-2024,XKV,Coal,0
+2010,XKX,Coal,0
+2011,XKX,Coal,0
+2012,XKX,Coal,0
+2013,XKX,Coal,0
+2014,XKX,Coal,0
+2015,XKX,Coal,0
+2016,XKX,Coal,0
+2017,XKX,Coal,0
+2018,XKX,Coal,0
+2019,XKX,Coal,0
+2020,XKX,Coal,0
+2021,XKX,Coal,0.000011
+2022,XKX,Coal,0
+2023,XKX,Coal,0
+2024,XKX,Coal,0
 2010,YEM,Coal,0
 2011,YEM,Coal,0
 2012,YEM,Coal,0
@@ -8639,21 +8639,21 @@ year,geo,disagg,value
 2022,WSM,End-use electricity,0
 2023,WSM,End-use electricity,0
 2024,WSM,End-use electricity,0
-2010,XKV,End-use electricity,0
-2011,XKV,End-use electricity,0
-2012,XKV,End-use electricity,0
-2013,XKV,End-use electricity,0
-2014,XKV,End-use electricity,0
-2015,XKV,End-use electricity,0
-2016,XKV,End-use electricity,0
-2017,XKV,End-use electricity,0
-2018,XKV,End-use electricity,2.004815517
-2019,XKV,End-use electricity,1.517426193
-2020,XKV,End-use electricity,2.122125139
-2021,XKV,End-use electricity,2.039947027
-2022,XKV,End-use electricity,1.416665931
-2023,XKV,End-use electricity,2.122123323
-2024,XKV,End-use electricity,2.07104922
+2010,XKX,End-use electricity,0
+2011,XKX,End-use electricity,0
+2012,XKX,End-use electricity,0
+2013,XKX,End-use electricity,0
+2014,XKX,End-use electricity,0
+2015,XKX,End-use electricity,0
+2016,XKX,End-use electricity,0
+2017,XKX,End-use electricity,0
+2018,XKX,End-use electricity,2.004815517
+2019,XKX,End-use electricity,1.517426193
+2020,XKX,End-use electricity,2.122125139
+2021,XKX,End-use electricity,2.039947027
+2022,XKX,End-use electricity,1.416665931
+2023,XKX,End-use electricity,2.122123323
+2024,XKX,End-use electricity,2.07104922
 2010,YEM,End-use electricity,508.1519646
 2011,YEM,End-use electricity,435.5744104
 2012,YEM,End-use electricity,444.9806799
@@ -11519,21 +11519,21 @@ year,geo,disagg,value
 2022,WSM,Natural gas,0
 2023,WSM,Natural gas,0
 2024,WSM,Natural gas,0
-2010,XKV,Natural gas,0
-2011,XKV,Natural gas,0
-2012,XKV,Natural gas,0
-2013,XKV,Natural gas,0
-2014,XKV,Natural gas,0
-2015,XKV,Natural gas,0
-2016,XKV,Natural gas,0
-2017,XKV,Natural gas,0
-2018,XKV,Natural gas,0
-2019,XKV,Natural gas,0
-2020,XKV,Natural gas,0
-2021,XKV,Natural gas,0
-2022,XKV,Natural gas,0
-2023,XKV,Natural gas,0
-2024,XKV,Natural gas,0
+2010,XKX,Natural gas,0
+2011,XKX,Natural gas,0
+2012,XKX,Natural gas,0
+2013,XKX,Natural gas,0
+2014,XKX,Natural gas,0
+2015,XKX,Natural gas,0
+2016,XKX,Natural gas,0
+2017,XKX,Natural gas,0
+2018,XKX,Natural gas,0
+2019,XKX,Natural gas,0
+2020,XKX,Natural gas,0
+2021,XKX,Natural gas,0
+2022,XKX,Natural gas,0
+2023,XKX,Natural gas,0
+2024,XKX,Natural gas,0
 2010,YEM,Natural gas,0
 2011,YEM,Natural gas,0
 2012,YEM,Natural gas,0
@@ -14399,21 +14399,21 @@ year,geo,disagg,value
 2022,WSM,Petroleum,0
 2023,WSM,Petroleum,0
 2024,WSM,Petroleum,0
-2010,XKV,Petroleum,0
-2011,XKV,Petroleum,0
-2012,XKV,Petroleum,0
-2013,XKV,Petroleum,0
-2014,XKV,Petroleum,0
-2015,XKV,Petroleum,0.069
-2016,XKV,Petroleum,0.041
-2017,XKV,Petroleum,0.058
-2018,XKV,Petroleum,0.085
-2019,XKV,Petroleum,0.066
-2020,XKV,Petroleum,0.035
-2021,XKV,Petroleum,0
-2022,XKV,Petroleum,0
-2023,XKV,Petroleum,0
-2024,XKV,Petroleum,0
+2010,XKX,Petroleum,0
+2011,XKX,Petroleum,0
+2012,XKX,Petroleum,0
+2013,XKX,Petroleum,0
+2014,XKX,Petroleum,0
+2015,XKX,Petroleum,0.069
+2016,XKX,Petroleum,0.041
+2017,XKX,Petroleum,0.058
+2018,XKX,Petroleum,0.085
+2019,XKX,Petroleum,0.066
+2020,XKX,Petroleum,0.035
+2021,XKX,Petroleum,0
+2022,XKX,Petroleum,0
+2023,XKX,Petroleum,0
+2024,XKX,Petroleum,0
 2010,YEM,Petroleum,1434
 2011,YEM,Petroleum,1804
 2012,YEM,Petroleum,1215
