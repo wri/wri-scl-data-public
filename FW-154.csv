@@ -1,230 +1,320 @@
-﻿year,geo,disagg_type,disagg,value
-2024,AFG,All,Use of menstrual materials,92
-2024,AFG,Rural,Use of menstrual materials,93
-2024,AFG,Urban,Use of menstrual materials,87
-2024,AFG,All,Private place to change at home,92
-2024,AFG,Rural,Private place to change at home,92
-2024,AFG,Urban,Private place to change at home,91
-2024,AFG,All,Participation in activities during menstruation,66
-2024,AFG,Rural,Participation in activities during menstruation,66
-2024,AFG,Urban,Participation in activities during menstruation,65
+year,geo,disagg_type,disagg,value
+2020,EGY,All,Use of menstrual materials,99
+2020,EGY,Rural,Use of menstrual materials,98
+2020,EGY,Urban,Use of menstrual materials,99
+2020,IDN,All,Use of menstrual materials,98
+2020,IDN,All,Private place to change at home,93
+2020,IDN,Rural,Use of menstrual materials,97
+2020,IDN,Rural,Private place to change at home,90
+2020,IDN,Urban,Use of menstrual materials,100
+2020,IDN,Urban,Private place to change at home,96
+2020,NER,All,Use of menstrual materials,84
+2020,NER,All,Private place to change at home,50
+2020,NER,Rural,Use of menstrual materials,83
+2020,NER,Rural,Private place to change at home,47
+2020,NER,Urban,Use of menstrual materials,94
+2020,NER,Urban,Private place to change at home,61
+2021,PRK,All,Use of menstrual materials,99
+2021,PRK,All,Private place to change at home,99
+2021,PRK,All,Participation in activities during menstruation,98
+2021,PRK,Rural,Use of menstrual materials,100
+2021,PRK,Rural,Private place to change at home,100
+2021,PRK,Rural,Participation in activities during menstruation,100
+2021,PRK,Urban,Use of menstrual materials,99
+2021,PRK,Urban,Private place to change at home,99
+2021,PRK,Urban,Participation in activities during menstruation,98
+2021,SLE,All,Use of menstrual materials,97
+2021,SLE,All,Private place to change at home,93
+2021,SLE,All,Participation in activities during menstruation,80
+2021,SLE,Rural,Use of menstrual materials,97
+2021,SLE,Rural,Private place to change at home,90
+2021,SLE,Rural,Participation in activities during menstruation,80
+2021,SLE,Urban,Use of menstrual materials,97
+2021,SLE,Urban,Private place to change at home,96
+2021,SLE,Urban,Participation in activities during menstruation,80
+2021,TGO,All,Use of menstrual materials,96
+2021,TGO,All,Private place to change at home,91
+2021,TGO,All,Participation in activities during menstruation,88
+2021,TGO,Rural,Use of menstrual materials,96
+2021,TGO,Rural,Private place to change at home,90
+2021,TGO,Rural,Participation in activities during menstruation,87
+2021,TGO,Urban,Use of menstrual materials,88
+2021,TGO,Urban,Private place to change at home,93
+2021,TGO,Urban,Participation in activities during menstruation,91
+2021,UGA,All,Use of menstrual materials,98
+2021,UGA,All,Private place to change at home,87
+2021,UGA,Rural,Use of menstrual materials,98
+2021,UGA,Rural,Private place to change at home,85
+2021,UGA,Urban,Use of menstrual materials,98
+2021,UGA,Urban,Private place to change at home,92
+2022,COD,All,Use of menstrual materials,94
+2022,COD,All,Private place to change at home,90
+2022,COD,All,Participation in activities during menstruation,85
+2022,COD,Rural,Use of menstrual materials,93
+2022,COD,Rural,Private place to change at home,89
+2022,COD,Rural,Participation in activities during menstruation,85
+2022,COD,Urban,Use of menstrual materials,96
+2022,COD,Urban,Private place to change at home,92
+2022,COD,Urban,Participation in activities during menstruation,85
+2022,CRI,All,Use of menstrual materials,99
+2022,CRI,All,Private place to change at home,99
+2022,CRI,All,Participation in activities during menstruation,92
+2022,CRI,Rural,Use of menstrual materials,99
+2022,CRI,Rural,Private place to change at home,100
+2022,CRI,Rural,Participation in activities during menstruation,92
+2022,CRI,Urban,Use of menstrual materials,99
+2022,CRI,Urban,Private place to change at home,99
+2022,CRI,Urban,Participation in activities during menstruation,93
+2022,GMB,All,Use of menstrual materials,98
+2022,GMB,All,Private place to change at home,96
+2022,GMB,All,Participation in activities during menstruation,80
+2022,GMB,Rural,Use of menstrual materials,100
+2022,GMB,Rural,Private place to change at home,98
+2022,GMB,Rural,Participation in activities during menstruation,83
+2022,GMB,Urban,Use of menstrual materials,98
+2022,GMB,Urban,Private place to change at home,95
+2022,GMB,Urban,Participation in activities during menstruation,78
+2022,IRQ,All,Use of menstrual materials,96
+2022,IRQ,All,Private place to change at home,89
+2022,IRQ,All,Participation in activities during menstruation,89
+2022,IRQ,Rural,Use of menstrual materials,96
+2022,IRQ,Rural,Private place to change at home,87
+2022,IRQ,Rural,Participation in activities during menstruation,88
+2022,IRQ,Urban,Use of menstrual materials,96
+2022,IRQ,Urban,Private place to change at home,89
+2022,IRQ,Urban,Participation in activities during menstruation,90
+2022,KGZ,All,Use of menstrual materials,97
+2022,KGZ,All,Private place to change at home,93
+2022,KGZ,All,Participation in activities during menstruation,93
+2022,KGZ,Rural,Use of menstrual materials,97
+2022,KGZ,Rural,Private place to change at home,93
+2022,KGZ,Rural,Participation in activities during menstruation,94
+2022,KGZ,Urban,Use of menstrual materials,97
+2022,KGZ,Urban,Private place to change at home,94
+2022,KGZ,Urban,Participation in activities during menstruation,91
+2022,MDG,All,Use of menstrual materials,94
+2022,MDG,All,Private place to change at home,91
+2022,MDG,All,Participation in activities during menstruation,91
+2022,MDG,Rural,Use of menstrual materials,93
+2022,MDG,Rural,Private place to change at home,91
+2022,MDG,Rural,Participation in activities during menstruation,92
+2022,MDG,Urban,Use of menstrual materials,97
+2022,MDG,Urban,Private place to change at home,90
+2022,MDG,Urban,Participation in activities during menstruation,90
+2022,MNE,All,Use of menstrual materials,97
+2022,MNE,All,Private place to change at home,97
+2022,MNE,All,Participation in activities during menstruation,93
+2022,MNE,Rural,Use of menstrual materials,97
+2022,MNE,Rural,Private place to change at home,98
+2022,MNE,Rural,Participation in activities during menstruation,93
+2022,MNE,Urban,Use of menstrual materials,97
+2022,MNE,Urban,Private place to change at home,97
+2022,MNE,Urban,Participation in activities during menstruation,93
+2022,SUR,All,Use of menstrual materials,92
+2022,SUR,All,Private place to change at home,96
+2022,SUR,All,Participation in activities during menstruation,82
+2022,SUR,Rural,Use of menstrual materials,87
+2022,SUR,Rural,Private place to change at home,96
+2022,SUR,Rural,Participation in activities during menstruation,82
+2022,SUR,Urban,Use of menstrual materials,95
+2022,SUR,Urban,Private place to change at home,96
+2022,SUR,Urban,Participation in activities during menstruation,82
+2023,CAF,All,Use of menstrual materials,95
+2023,CAF,All,Private place to change at home,92
+2023,CAF,All,Participation in activities during menstruation,69
+2023,CAF,Rural,Use of menstrual materials,96
+2023,CAF,Rural,Private place to change at home,92
+2023,CAF,Rural,Participation in activities during menstruation,66
+2023,CAF,Urban,Use of menstrual materials,94
+2023,CAF,Urban,Private place to change at home,92
+2023,CAF,Urban,Participation in activities during menstruation,72
+2023,CAN,All,Enough menstrual materials,62
+2023,CAN,All,Comfort seeking medical help,70
+2023,CUB,All,Use of menstrual materials,98
+2023,CUB,All,Private place to change at home,95
+2023,CUB,All,Participation in activities during menstruation,73
+2023,CUB,Rural,Use of menstrual materials,98
+2023,CUB,Rural,Private place to change at home,97
+2023,CUB,Rural,Participation in activities during menstruation,67
+2023,CUB,Urban,Use of menstrual materials,97
+2023,CUB,Urban,Private place to change at home,94
+2023,CUB,Urban,Participation in activities during menstruation,74
+2023,DOM,All,Use of menstrual materials,98
+2023,DOM,All,Private place to change at home,95
+2023,DOM,All,Participation in activities during menstruation,78
+2023,DOM,Rural,Use of menstrual materials,98
+2023,DOM,Rural,Private place to change at home,96
+2023,DOM,Rural,Participation in activities during menstruation,76
+2023,DOM,Urban,Use of menstrual materials,98
+2023,DOM,Urban,Private place to change at home,95
+2023,DOM,Urban,Participation in activities during menstruation,78
 2023,DZA,All,Use of menstrual materials,95
-2023,DZA,Rural,Use of menstrual materials,94
-2023,DZA,Urban,Use of menstrual materials,95
 2023,DZA,All,Private place to change at home,91
-2023,DZA,Rural,Private place to change at home,88
-2023,DZA,Urban,Private place to change at home,91
 2023,DZA,All,Participation in activities during menstruation,75
+2023,DZA,Rural,Use of menstrual materials,94
+2023,DZA,Rural,Private place to change at home,88
 2023,DZA,Rural,Participation in activities during menstruation,77
+2023,DZA,Urban,Use of menstrual materials,95
+2023,DZA,Urban,Private place to change at home,91
 2023,DZA,Urban,Participation in activities during menstruation,74
+2023,GNB,All,Participation in activities during menstruation,91
+2023,GNB,Rural,Participation in activities during menstruation,92
+2023,GNB,Urban,Participation in activities during menstruation,90
+2023,HND,All,Use of menstrual materials,98
+2023,HND,All,Private place to change at home,97
+2023,HND,All,Participation in activities during menstruation,81
+2023,HND,Rural,Use of menstrual materials,98
+2023,HND,Rural,Private place to change at home,97
+2023,HND,Rural,Participation in activities during menstruation,79
+2023,HND,Urban,Use of menstrual materials,98
+2023,HND,Urban,Private place to change at home,97
+2023,HND,Urban,Participation in activities during menstruation,82
+2023,KIR,All,Use of menstrual materials,98
+2023,KIR,All,Private place to change at home,93
+2023,KIR,All,Participation in activities during menstruation,84
+2023,KIR,Rural,Use of menstrual materials,98
+2023,KIR,Rural,Private place to change at home,91
+2023,KIR,Rural,Participation in activities during menstruation,85
+2023,KIR,Urban,Use of menstrual materials,98
+2023,KIR,Urban,Private place to change at home,94
+2023,KIR,Urban,Participation in activities during menstruation,83
+2023,MKD,All,Use of menstrual materials,99
+2023,MKD,All,Private place to change at home,98
+2023,MKD,All,Participation in activities during menstruation,93
+2023,MKD,Rural,Use of menstrual materials,98
+2023,MKD,Rural,Private place to change at home,97
+2023,MKD,Rural,Participation in activities during menstruation,92
+2023,MKD,Urban,Use of menstrual materials,99
+2023,MKD,Urban,Private place to change at home,98
+2023,MKD,Urban,Participation in activities during menstruation,94
+2023,TCD,All,Use of menstrual materials,95
+2023,TCD,All,Private place to change at home,93
+2023,TCD,All,Participation in activities during menstruation,67
+2023,TCD,Rural,Use of menstrual materials,96
+2023,TCD,Rural,Private place to change at home,94
+2023,TCD,Rural,Participation in activities during menstruation,66
+2023,TCD,Urban,Use of menstrual materials,93
+2023,TCD,Urban,Private place to change at home,92
+2023,TCD,Urban,Participation in activities during menstruation,69
+2023,TKM,All,Use of menstrual materials,100
+2023,TKM,All,Private place to change at home,100
+2023,TKM,All,Participation in activities during menstruation,100
+2023,TKM,Rural,Use of menstrual materials,100
+2023,TKM,Rural,Private place to change at home,100
+2023,TKM,Rural,Participation in activities during menstruation,100
+2023,TKM,Urban,Use of menstrual materials,99
+2023,TKM,Urban,Private place to change at home,99
+2023,TKM,Urban,Participation in activities during menstruation,100
+2023,TON,All,Use of menstrual materials,94
+2023,TON,All,Private place to change at home,94
+2023,TON,All,Participation in activities during menstruation,84
+2023,TON,Rural,Use of menstrual materials,95
+2023,TON,Rural,Private place to change at home,94
+2023,TON,Rural,Participation in activities during menstruation,84
+2023,TON,Urban,Use of menstrual materials,91
+2023,TON,Urban,Private place to change at home,94
+2023,TON,Urban,Participation in activities during menstruation,86
+2023,ZWE,All,Use of menstrual materials,98
+2023,ZWE,All,Private place to change at home,97
+2023,ZWE,All,Participation in activities during menstruation,84
+2023,ZWE,Rural,Use of menstrual materials,98
+2023,ZWE,Rural,Private place to change at home,97
+2023,ZWE,Rural,Participation in activities during menstruation,84
+2023,ZWE,Urban,Use of menstrual materials,100
+2023,ZWE,Urban,Private place to change at home,97
+2023,ZWE,Urban,Participation in activities during menstruation,84
+2024,AFG,All,Use of menstrual materials,92
+2024,AFG,All,Private place to change at home,92
+2024,AFG,All,Participation in activities during menstruation,66
+2024,AFG,Rural,Use of menstrual materials,93
+2024,AFG,Rural,Private place to change at home,92
+2024,AFG,Rural,Participation in activities during menstruation,66
+2024,AFG,Urban,Use of menstrual materials,87
+2024,AFG,Urban,Private place to change at home,91
+2024,AFG,Urban,Participation in activities during menstruation,65
 2024,AUT,All,Use of menstrual materials,97
 2024,AUT,All,Participation in activities during menstruation,48
 2024,AUT,All,Awareness of menstruation before menarche,76
 2024,AUT,All,Enough menstrual materials,79
 2024,AUT,All,Comfort seeking medical help,82
 2024,AZE,All,Use of menstrual materials,98
-2024,AZE,Rural,Use of menstrual materials,98
-2024,AZE,Urban,Use of menstrual materials,97
 2024,AZE,All,Private place to change at home,96
-2024,AZE,Rural,Private place to change at home,94
-2024,AZE,Urban,Private place to change at home,97
 2024,AZE,All,Participation in activities during menstruation,94
+2024,AZE,Rural,Use of menstrual materials,98
+2024,AZE,Rural,Private place to change at home,94
 2024,AZE,Rural,Participation in activities during menstruation,92
+2024,AZE,Urban,Use of menstrual materials,97
+2024,AZE,Urban,Private place to change at home,97
 2024,AZE,Urban,Participation in activities during menstruation,96
-2024,BGD,All,Use of menstrual materials,97
-2024,BGD,Rural,Use of menstrual materials,96
-2024,BGD,Urban,Use of menstrual materials,97
-2024,BGD,All,Private place to change at home,90
-2024,BGD,Rural,Private place to change at home,90
-2024,BGD,Urban,Private place to change at home,89
 2024,BEN,All,Use of menstrual materials,97
-2024,BEN,Rural,Use of menstrual materials,97
-2024,BEN,Urban,Use of menstrual materials,97
 2024,BEN,All,Private place to change at home,92
-2024,BEN,Rural,Private place to change at home,90
-2024,BEN,Urban,Private place to change at home,93
 2024,BEN,All,Participation in activities during menstruation,87
+2024,BEN,Rural,Use of menstrual materials,97
+2024,BEN,Rural,Private place to change at home,90
 2024,BEN,Rural,Participation in activities during menstruation,88
+2024,BEN,Urban,Use of menstrual materials,97
+2024,BEN,Urban,Private place to change at home,93
 2024,BEN,Urban,Participation in activities during menstruation,86
 2024,BFA,All,Use of menstrual materials,91
-2024,BFA,Rural,Use of menstrual materials,89
-2024,BFA,Urban,Use of menstrual materials,96
 2024,BFA,All,Private place to change at home,79
-2024,BFA,Rural,Private place to change at home,77
-2024,BFA,Urban,Private place to change at home,84
 2024,BFA,All,Participation in activities during menstruation,83
+2024,BFA,Rural,Use of menstrual materials,89
+2024,BFA,Rural,Private place to change at home,77
 2024,BFA,Rural,Participation in activities during menstruation,81
+2024,BFA,Urban,Use of menstrual materials,96
+2024,BFA,Urban,Private place to change at home,84
 2024,BFA,Urban,Participation in activities during menstruation,85
-2024,KHM,All,Use of menstrual materials,91
-2024,KHM,Rural,Use of menstrual materials,89
-2024,KHM,Urban,Use of menstrual materials,95
-2024,KHM,All,Private place to change at home,94
-2024,KHM,Rural,Private place to change at home,94
-2024,KHM,Urban,Private place to change at home,96
-2024,KHM,All,Participation in activities during menstruation,85
-2024,KHM,Rural,Participation in activities during menstruation,83
-2024,KHM,Urban,Participation in activities during menstruation,91
-2024,KHM,All,Awareness of menstruation before menarche,53
-2024,KHM,Rural,Awareness of menstruation before menarche,52
-2024,KHM,Urban,Awareness of menstruation before menarche,56
-2023,CAN,All,Enough menstrual materials,62
-2023,CAN,All,Comfort seeking medical help,70
-2023,CAF,All,Use of menstrual materials,95
-2023,CAF,Rural,Use of menstrual materials,96
-2023,CAF,Urban,Use of menstrual materials,94
-2023,CAF,All,Private place to change at home,92
-2023,CAF,Rural,Private place to change at home,92
-2023,CAF,Urban,Private place to change at home,92
-2023,CAF,All,Participation in activities during menstruation,69
-2023,CAF,Rural,Participation in activities during menstruation,66
-2023,CAF,Urban,Participation in activities during menstruation,72
-2023,TCD,All,Use of menstrual materials,95
-2023,TCD,Rural,Use of menstrual materials,96
-2023,TCD,Urban,Use of menstrual materials,93
-2023,TCD,All,Private place to change at home,93
-2023,TCD,Rural,Private place to change at home,94
-2023,TCD,Urban,Private place to change at home,92
-2023,TCD,All,Participation in activities during menstruation,67
-2023,TCD,Rural,Participation in activities during menstruation,66
-2023,TCD,Urban,Participation in activities during menstruation,69
-2024,COM,All,Use of menstrual materials,87
-2024,COM,Rural,Use of menstrual materials,87
-2024,COM,Urban,Use of menstrual materials,89
-2024,COM,All,Private place to change at home,87
-2024,COM,Rural,Private place to change at home,87
-2024,COM,Urban,Private place to change at home,89
-2024,COM,All,Participation in activities during menstruation,78
-2024,COM,Rural,Participation in activities during menstruation,79
-2024,COM,Urban,Participation in activities during menstruation,77
-2022,CRI,All,Use of menstrual materials,99
-2022,CRI,Rural,Use of menstrual materials,99
-2022,CRI,Urban,Use of menstrual materials,99
-2022,CRI,All,Private place to change at home,99
-2022,CRI,Rural,Private place to change at home,100
-2022,CRI,Urban,Private place to change at home,99
-2022,CRI,All,Participation in activities during menstruation,92
-2022,CRI,Rural,Participation in activities during menstruation,92
-2022,CRI,Urban,Participation in activities during menstruation,93
+2024,BGD,All,Use of menstrual materials,97
+2024,BGD,All,Private place to change at home,90
+2024,BGD,Rural,Use of menstrual materials,96
+2024,BGD,Rural,Private place to change at home,90
+2024,BGD,Urban,Use of menstrual materials,97
+2024,BGD,Urban,Private place to change at home,89
 2024,CIV,All,Use of menstrual materials,100
-2024,CIV,Rural,Use of menstrual materials,100
-2024,CIV,Urban,Use of menstrual materials,99
 2024,CIV,All,Private place to change at home,88
+2024,CIV,Rural,Use of menstrual materials,100
 2024,CIV,Rural,Private place to change at home,88
+2024,CIV,Urban,Use of menstrual materials,99
 2024,CIV,Urban,Private place to change at home,89
-2023,CUB,All,Use of menstrual materials,98
-2023,CUB,Rural,Use of menstrual materials,98
-2023,CUB,Urban,Use of menstrual materials,97
-2023,CUB,All,Private place to change at home,95
-2023,CUB,Rural,Private place to change at home,97
-2023,CUB,Urban,Private place to change at home,94
-2023,CUB,All,Participation in activities during menstruation,73
-2023,CUB,Rural,Participation in activities during menstruation,67
-2023,CUB,Urban,Participation in activities during menstruation,74
-2021,PRK,All,Use of menstrual materials,99
-2021,PRK,Rural,Use of menstrual materials,100
-2021,PRK,Urban,Use of menstrual materials,99
-2021,PRK,All,Private place to change at home,99
-2021,PRK,Rural,Private place to change at home,100
-2021,PRK,Urban,Private place to change at home,99
-2021,PRK,All,Participation in activities during menstruation,98
-2021,PRK,Rural,Participation in activities during menstruation,100
-2021,PRK,Urban,Participation in activities during menstruation,98
-2022,COD,All,Use of menstrual materials,94
-2022,COD,Rural,Use of menstrual materials,93
-2022,COD,Urban,Use of menstrual materials,96
-2022,COD,All,Private place to change at home,90
-2022,COD,Rural,Private place to change at home,89
-2022,COD,Urban,Private place to change at home,92
-2022,COD,All,Participation in activities during menstruation,85
-2022,COD,Rural,Participation in activities during menstruation,85
-2022,COD,Urban,Participation in activities during menstruation,85
-2023,DOM,All,Use of menstrual materials,98
-2023,DOM,Rural,Use of menstrual materials,98
-2023,DOM,Urban,Use of menstrual materials,98
-2023,DOM,All,Private place to change at home,95
-2023,DOM,Rural,Private place to change at home,96
-2023,DOM,Urban,Private place to change at home,95
-2023,DOM,All,Participation in activities during menstruation,78
-2023,DOM,Rural,Participation in activities during menstruation,76
-2023,DOM,Urban,Participation in activities during menstruation,78
-2020,EGY,All,Use of menstrual materials,99
-2020,EGY,Rural,Use of menstrual materials,98
-2020,EGY,Urban,Use of menstrual materials,99
-2024,SWZ,All,Use of menstrual materials,97
-2024,SWZ,Rural,Use of menstrual materials,97
-2024,SWZ,Urban,Use of menstrual materials,97
-2024,SWZ,All,Private place to change at home,95
-2024,SWZ,Rural,Private place to change at home,95
-2024,SWZ,Urban,Private place to change at home,94
-2024,SWZ,All,Participation in activities during menstruation,94
-2024,SWZ,Rural,Participation in activities during menstruation,94
-2024,SWZ,Urban,Participation in activities during menstruation,96
+2024,COM,All,Use of menstrual materials,87
+2024,COM,All,Private place to change at home,87
+2024,COM,All,Participation in activities during menstruation,78
+2024,COM,Rural,Use of menstrual materials,87
+2024,COM,Rural,Private place to change at home,87
+2024,COM,Rural,Participation in activities during menstruation,79
+2024,COM,Urban,Use of menstrual materials,89
+2024,COM,Urban,Private place to change at home,89
+2024,COM,Urban,Participation in activities during menstruation,77
 2024,ETH,All,Enough menstrual materials,46
 2024,ETH,Rural,Enough menstrual materials,38
 2024,ETH,Urban,Enough menstrual materials,73
 2024,FJI,All,Use of menstrual materials,97
-2024,FJI,Rural,Use of menstrual materials,96
-2024,FJI,Urban,Use of menstrual materials,98
 2024,FJI,All,Private place to change at home,96
-2024,FJI,Rural,Private place to change at home,96
-2024,FJI,Urban,Private place to change at home,96
 2024,FJI,All,Participation in activities during menstruation,76
+2024,FJI,Rural,Use of menstrual materials,96
+2024,FJI,Rural,Private place to change at home,96
 2024,FJI,Rural,Participation in activities during menstruation,74
+2024,FJI,Urban,Use of menstrual materials,98
+2024,FJI,Urban,Private place to change at home,96
 2024,FJI,Urban,Participation in activities during menstruation,78
-2022,GMB,All,Use of menstrual materials,98
-2022,GMB,Rural,Use of menstrual materials,100
-2022,GMB,Urban,Use of menstrual materials,98
-2022,GMB,All,Private place to change at home,96
-2022,GMB,Rural,Private place to change at home,98
-2022,GMB,Urban,Private place to change at home,95
-2022,GMB,All,Participation in activities during menstruation,80
-2022,GMB,Rural,Participation in activities during menstruation,83
-2022,GMB,Urban,Participation in activities during menstruation,78
 2024,GHA,All,Use of menstrual materials,98
-2024,GHA,Rural,Use of menstrual materials,98
-2024,GHA,Urban,Use of menstrual materials,98
 2024,GHA,All,Private place to change at home,100
+2024,GHA,Rural,Use of menstrual materials,98
 2024,GHA,Rural,Private place to change at home,100
+2024,GHA,Urban,Use of menstrual materials,98
 2024,GHA,Urban,Private place to change at home,100
-2023,GNB,All,Participation in activities during menstruation,91
-2023,GNB,Rural,Participation in activities during menstruation,92
-2023,GNB,Urban,Participation in activities during menstruation,90
 2024,GUY,All,Use of menstrual materials,96
-2024,GUY,Rural,Use of menstrual materials,97
-2024,GUY,Urban,Use of menstrual materials,96
 2024,GUY,All,Private place to change at home,93
-2024,GUY,Rural,Private place to change at home,93
-2024,GUY,Urban,Private place to change at home,95
 2024,GUY,All,Participation in activities during menstruation,79
+2024,GUY,Rural,Use of menstrual materials,97
+2024,GUY,Rural,Private place to change at home,93
 2024,GUY,Rural,Participation in activities during menstruation,80
+2024,GUY,Urban,Use of menstrual materials,96
+2024,GUY,Urban,Private place to change at home,95
 2024,GUY,Urban,Participation in activities during menstruation,77
-2023,HND,All,Use of menstrual materials,98
-2023,HND,Rural,Use of menstrual materials,98
-2023,HND,Urban,Use of menstrual materials,98
-2023,HND,All,Private place to change at home,97
-2023,HND,Rural,Private place to change at home,97
-2023,HND,Urban,Private place to change at home,97
-2023,HND,All,Participation in activities during menstruation,81
-2023,HND,Rural,Participation in activities during menstruation,79
-2023,HND,Urban,Participation in activities during menstruation,82
 2024,IND,All,Use of menstrual materials,100
 2024,IND,Rural,Use of menstrual materials,100
 2024,IND,Urban,Use of menstrual materials,100
-2020,IDN,All,Use of menstrual materials,98
-2020,IDN,Rural,Use of menstrual materials,97
-2020,IDN,Urban,Use of menstrual materials,100
-2020,IDN,All,Private place to change at home,93
-2020,IDN,Rural,Private place to change at home,90
-2020,IDN,Urban,Private place to change at home,96
-2022,IRQ,All,Use of menstrual materials,96
-2022,IRQ,Rural,Use of menstrual materials,96
-2022,IRQ,Urban,Use of menstrual materials,96
-2022,IRQ,All,Private place to change at home,89
-2022,IRQ,Rural,Private place to change at home,87
-2022,IRQ,Urban,Private place to change at home,89
-2022,IRQ,All,Participation in activities during menstruation,89
-2022,IRQ,Rural,Participation in activities during menstruation,88
-2022,IRQ,Urban,Participation in activities during menstruation,90
 2024,IRL,All,Private place to change at home,49
 2024,IRL,All,Enough menstrual materials,91
 2024,IRL,All,Able to reduce pain,63
@@ -236,304 +326,214 @@
 2024,JOR,Rural,Use of menstrual materials,100
 2024,JOR,Urban,Use of menstrual materials,100
 2024,KEN,All,Use of menstrual materials,98
-2024,KEN,Rural,Use of menstrual materials,98
-2024,KEN,Urban,Use of menstrual materials,100
 2024,KEN,All,Private place to change at home,100
+2024,KEN,Rural,Use of menstrual materials,98
 2024,KEN,Rural,Private place to change at home,100
+2024,KEN,Urban,Use of menstrual materials,100
 2024,KEN,Urban,Private place to change at home,100
-2023,KIR,All,Use of menstrual materials,98
-2023,KIR,Rural,Use of menstrual materials,98
-2023,KIR,Urban,Use of menstrual materials,98
-2023,KIR,All,Private place to change at home,93
-2023,KIR,Rural,Private place to change at home,91
-2023,KIR,Urban,Private place to change at home,94
-2023,KIR,All,Participation in activities during menstruation,84
-2023,KIR,Rural,Participation in activities during menstruation,85
-2023,KIR,Urban,Participation in activities during menstruation,83
-2022,KGZ,All,Use of menstrual materials,97
-2022,KGZ,Rural,Use of menstrual materials,97
-2022,KGZ,Urban,Use of menstrual materials,97
-2022,KGZ,All,Private place to change at home,93
-2022,KGZ,Rural,Private place to change at home,93
-2022,KGZ,Urban,Private place to change at home,94
-2022,KGZ,All,Participation in activities during menstruation,93
-2022,KGZ,Rural,Participation in activities during menstruation,94
-2022,KGZ,Urban,Participation in activities during menstruation,91
+2024,KHM,All,Use of menstrual materials,91
+2024,KHM,All,Private place to change at home,94
+2024,KHM,All,Participation in activities during menstruation,85
+2024,KHM,All,Awareness of menstruation before menarche,53
+2024,KHM,Rural,Use of menstrual materials,89
+2024,KHM,Rural,Private place to change at home,94
+2024,KHM,Rural,Participation in activities during menstruation,83
+2024,KHM,Rural,Awareness of menstruation before menarche,52
+2024,KHM,Urban,Use of menstrual materials,95
+2024,KHM,Urban,Private place to change at home,96
+2024,KHM,Urban,Participation in activities during menstruation,91
+2024,KHM,Urban,Awareness of menstruation before menarche,56
 2024,LAO,All,Use of menstrual materials,89
-2024,LAO,Rural,Use of menstrual materials,88
-2024,LAO,Urban,Use of menstrual materials,89
 2024,LAO,All,Private place to change at home,94
-2024,LAO,Rural,Private place to change at home,93
-2024,LAO,Urban,Private place to change at home,97
 2024,LAO,All,Participation in activities during menstruation,90
+2024,LAO,Rural,Use of menstrual materials,88
+2024,LAO,Rural,Private place to change at home,93
 2024,LAO,Rural,Participation in activities during menstruation,90
+2024,LAO,Urban,Use of menstrual materials,89
+2024,LAO,Urban,Private place to change at home,97
 2024,LAO,Urban,Participation in activities during menstruation,89
 2024,LSO,All,Use of menstrual materials,100
-2024,LSO,Rural,Use of menstrual materials,100
-2024,LSO,Urban,Use of menstrual materials,100
 2024,LSO,All,Private place to change at home,98
+2024,LSO,Rural,Use of menstrual materials,100
 2024,LSO,Rural,Private place to change at home,98
+2024,LSO,Urban,Use of menstrual materials,100
 2024,LSO,Urban,Private place to change at home,98
-2022,MDG,All,Use of menstrual materials,94
-2022,MDG,Rural,Use of menstrual materials,93
-2022,MDG,Urban,Use of menstrual materials,97
-2022,MDG,All,Private place to change at home,91
-2022,MDG,Rural,Private place to change at home,91
-2022,MDG,Urban,Private place to change at home,90
-2022,MDG,All,Participation in activities during menstruation,91
-2022,MDG,Rural,Participation in activities during menstruation,92
-2022,MDG,Urban,Participation in activities during menstruation,90
-2024,MWI,All,Use of menstrual materials,97
-2024,MWI,Rural,Use of menstrual materials,97
-2024,MWI,Urban,Use of menstrual materials,98
-2024,MWI,All,Private place to change at home,92
-2024,MWI,Rural,Private place to change at home,92
-2024,MWI,Urban,Private place to change at home,96
-2024,MWI,All,Participation in activities during menstruation,81
-2024,MWI,Rural,Participation in activities during menstruation,80
-2024,MWI,Urban,Participation in activities during menstruation,84
 2024,MNG,All,Private place to change at home,93
-2024,MNG,Rural,Private place to change at home,91
-2024,MNG,Urban,Private place to change at home,94
 2024,MNG,All,Participation in activities during menstruation,73
-2024,MNG,Rural,Participation in activities during menstruation,77
-2024,MNG,Urban,Participation in activities during menstruation,71
 2024,MNG,All,Awareness of menstruation before menarche,65
-2024,MNG,Rural,Awareness of menstruation before menarche,64
-2024,MNG,Urban,Awareness of menstruation before menarche,65
 2024,MNG,All,Enough menstrual materials,98
-2024,MNG,Rural,Enough menstrual materials,98
-2024,MNG,Urban,Enough menstrual materials,98
 2024,MNG,All,Able to reduce pain,24
-2024,MNG,Rural,Able to reduce pain,21
-2024,MNG,Urban,Able to reduce pain,25
 2024,MNG,All,Comfort seeking medical help,81
+2024,MNG,Rural,Private place to change at home,91
+2024,MNG,Rural,Participation in activities during menstruation,77
+2024,MNG,Rural,Awareness of menstruation before menarche,64
+2024,MNG,Rural,Enough menstrual materials,98
+2024,MNG,Rural,Able to reduce pain,21
 2024,MNG,Rural,Comfort seeking medical help,81
+2024,MNG,Urban,Private place to change at home,94
+2024,MNG,Urban,Participation in activities during menstruation,71
+2024,MNG,Urban,Awareness of menstruation before menarche,65
+2024,MNG,Urban,Enough menstrual materials,98
+2024,MNG,Urban,Able to reduce pain,25
 2024,MNG,Urban,Comfort seeking medical help,82
-2022,MNE,All,Use of menstrual materials,97
-2022,MNE,Rural,Use of menstrual materials,97
-2022,MNE,Urban,Use of menstrual materials,97
-2022,MNE,All,Private place to change at home,97
-2022,MNE,Rural,Private place to change at home,98
-2022,MNE,Urban,Private place to change at home,97
-2022,MNE,All,Participation in activities during menstruation,93
-2022,MNE,Rural,Participation in activities during menstruation,93
-2022,MNE,Urban,Participation in activities during menstruation,93
 2024,MOZ,All,Use of menstrual materials,98
-2024,MOZ,Rural,Use of menstrual materials,98
-2024,MOZ,Urban,Use of menstrual materials,97
 2024,MOZ,All,Private place to change at home,93
-2024,MOZ,Rural,Private place to change at home,93
-2024,MOZ,Urban,Private place to change at home,95
 2024,MOZ,All,Participation in activities during menstruation,81
+2024,MOZ,Rural,Use of menstrual materials,98
+2024,MOZ,Rural,Private place to change at home,93
 2024,MOZ,Rural,Participation in activities during menstruation,80
+2024,MOZ,Urban,Use of menstrual materials,97
+2024,MOZ,Urban,Private place to change at home,95
 2024,MOZ,Urban,Participation in activities during menstruation,82
-2024,NRU,All,Use of menstrual materials,90
-2024,NRU,Urban,Use of menstrual materials,90
-2024,NRU,All,Private place to change at home,91
-2024,NRU,Urban,Private place to change at home,91
-2024,NRU,All,Participation in activities during menstruation,53
-2024,NRU,Urban,Participation in activities during menstruation,53
-2024,NPL,All,Use of menstrual materials,93
-2024,NPL,Rural,Use of menstrual materials,93
-2024,NPL,Urban,Use of menstrual materials,95
-2024,NPL,All,Private place to change at home,91
-2024,NPL,Rural,Private place to change at home,90
-2024,NPL,Urban,Private place to change at home,94
-2024,NPL,All,Participation in activities during menstruation,100
-2024,NPL,Rural,Participation in activities during menstruation,100
-2024,NPL,Urban,Participation in activities during menstruation,100
-2020,NER,All,Use of menstrual materials,84
-2020,NER,Rural,Use of menstrual materials,83
-2020,NER,Urban,Use of menstrual materials,94
-2020,NER,All,Private place to change at home,50
-2020,NER,Rural,Private place to change at home,47
-2020,NER,Urban,Private place to change at home,61
+2024,MWI,All,Use of menstrual materials,97
+2024,MWI,All,Private place to change at home,92
+2024,MWI,All,Participation in activities during menstruation,81
+2024,MWI,Rural,Use of menstrual materials,97
+2024,MWI,Rural,Private place to change at home,92
+2024,MWI,Rural,Participation in activities during menstruation,80
+2024,MWI,Urban,Use of menstrual materials,98
+2024,MWI,Urban,Private place to change at home,96
+2024,MWI,Urban,Participation in activities during menstruation,84
 2024,NGA,All,Use of menstrual materials,96
-2024,NGA,Rural,Use of menstrual materials,96
-2024,NGA,Urban,Use of menstrual materials,97
 2024,NGA,All,Private place to change at home,86
-2024,NGA,Rural,Private place to change at home,80
-2024,NGA,Urban,Private place to change at home,92
 2024,NGA,All,Participation in activities during menstruation,82
+2024,NGA,Rural,Use of menstrual materials,96
+2024,NGA,Rural,Private place to change at home,80
 2024,NGA,Rural,Participation in activities during menstruation,80
+2024,NGA,Urban,Use of menstrual materials,97
+2024,NGA,Urban,Private place to change at home,92
 2024,NGA,Urban,Participation in activities during menstruation,83
-2023,MKD,All,Use of menstrual materials,99
-2023,MKD,Rural,Use of menstrual materials,98
-2023,MKD,Urban,Use of menstrual materials,99
-2023,MKD,All,Private place to change at home,98
-2023,MKD,Rural,Private place to change at home,97
-2023,MKD,Urban,Private place to change at home,98
-2023,MKD,All,Participation in activities during menstruation,93
-2023,MKD,Rural,Participation in activities during menstruation,92
-2023,MKD,Urban,Participation in activities during menstruation,94
-2024,PSE,All,Use of menstrual materials,97
-2024,PSE,Rural,Use of menstrual materials,95
-2024,PSE,Urban,Use of menstrual materials,97
-2024,PSE,All,Private place to change at home,81
-2024,PSE,Rural,Private place to change at home,83
-2024,PSE,Urban,Private place to change at home,80
-2024,PSE,All,Participation in activities during menstruation,86
-2024,PSE,Rural,Participation in activities during menstruation,88
-2024,PSE,Urban,Participation in activities during menstruation,85
+2024,NPL,All,Use of menstrual materials,93
+2024,NPL,All,Private place to change at home,91
+2024,NPL,All,Participation in activities during menstruation,100
+2024,NPL,Rural,Use of menstrual materials,93
+2024,NPL,Rural,Private place to change at home,90
+2024,NPL,Rural,Participation in activities during menstruation,100
+2024,NPL,Urban,Use of menstrual materials,95
+2024,NPL,Urban,Private place to change at home,94
+2024,NPL,Urban,Participation in activities during menstruation,100
+2024,NRU,All,Use of menstrual materials,90
+2024,NRU,All,Private place to change at home,91
+2024,NRU,All,Participation in activities during menstruation,53
+2024,NRU,Urban,Use of menstrual materials,90
+2024,NRU,Urban,Private place to change at home,91
+2024,NRU,Urban,Participation in activities during menstruation,53
 2024,PAK,All,Use of menstrual materials,86
-2024,PAK,Rural,Use of menstrual materials,84
-2024,PAK,Urban,Use of menstrual materials,89
 2024,PAK,All,Private place to change at home,87
-2024,PAK,Rural,Private place to change at home,86
-2024,PAK,Urban,Private place to change at home,88
 2024,PAK,All,Participation in activities during menstruation,78
+2024,PAK,Rural,Use of menstrual materials,84
+2024,PAK,Rural,Private place to change at home,86
 2024,PAK,Rural,Participation in activities during menstruation,77
+2024,PAK,Urban,Use of menstrual materials,89
+2024,PAK,Urban,Private place to change at home,88
 2024,PAK,Urban,Participation in activities during menstruation,79
 2024,PHL,All,Use of menstrual materials,98
-2024,PHL,Rural,Use of menstrual materials,97
-2024,PHL,Urban,Use of menstrual materials,100
 2024,PHL,All,Private place to change at home,100
+2024,PHL,Rural,Use of menstrual materials,97
 2024,PHL,Rural,Private place to change at home,100
+2024,PHL,Urban,Use of menstrual materials,100
 2024,PHL,Urban,Private place to change at home,100
-2024,WSM,All,Use of menstrual materials,92
-2024,WSM,Rural,Use of menstrual materials,91
-2024,WSM,Urban,Use of menstrual materials,93
-2024,WSM,All,Private place to change at home,84
-2024,WSM,Rural,Private place to change at home,83
-2024,WSM,Urban,Private place to change at home,91
-2024,WSM,All,Participation in activities during menstruation,89
-2024,WSM,Rural,Participation in activities during menstruation,89
-2024,WSM,Urban,Participation in activities during menstruation,90
-2024,STP,Rural,Use of menstrual materials,100
+2024,PSE,All,Use of menstrual materials,97
+2024,PSE,All,Private place to change at home,81
+2024,PSE,All,Participation in activities during menstruation,86
+2024,PSE,Rural,Use of menstrual materials,95
+2024,PSE,Rural,Private place to change at home,83
+2024,PSE,Rural,Participation in activities during menstruation,88
+2024,PSE,Urban,Use of menstrual materials,97
+2024,PSE,Urban,Private place to change at home,80
+2024,PSE,Urban,Participation in activities during menstruation,85
 2024,SEN,All,Use of menstrual materials,99
-2024,SEN,Rural,Use of menstrual materials,98
-2024,SEN,Urban,Use of menstrual materials,100
 2024,SEN,All,Private place to change at home,97
+2024,SEN,Rural,Use of menstrual materials,98
 2024,SEN,Rural,Private place to change at home,96
+2024,SEN,Urban,Use of menstrual materials,100
 2024,SEN,Urban,Private place to change at home,97
 2024,SRB,Rural,Use of menstrual materials,1
-2021,SLE,All,Use of menstrual materials,97
-2021,SLE,Rural,Use of menstrual materials,97
-2021,SLE,Urban,Use of menstrual materials,97
-2021,SLE,All,Private place to change at home,93
-2021,SLE,Rural,Private place to change at home,90
-2021,SLE,Urban,Private place to change at home,96
-2021,SLE,All,Participation in activities during menstruation,80
-2021,SLE,Rural,Participation in activities during menstruation,80
-2021,SLE,Urban,Participation in activities during menstruation,80
-2022,SUR,All,Use of menstrual materials,92
-2022,SUR,Rural,Use of menstrual materials,87
-2022,SUR,Urban,Use of menstrual materials,95
-2022,SUR,All,Private place to change at home,96
-2022,SUR,Rural,Private place to change at home,96
-2022,SUR,Urban,Private place to change at home,96
-2022,SUR,All,Participation in activities during menstruation,82
-2022,SUR,Rural,Participation in activities during menstruation,82
-2022,SUR,Urban,Participation in activities during menstruation,82
-2021,TGO,All,Use of menstrual materials,96
-2021,TGO,Rural,Use of menstrual materials,96
-2021,TGO,Urban,Use of menstrual materials,88
-2021,TGO,All,Private place to change at home,91
-2021,TGO,Rural,Private place to change at home,90
-2021,TGO,Urban,Private place to change at home,93
-2021,TGO,All,Participation in activities during menstruation,88
-2021,TGO,Rural,Participation in activities during menstruation,87
-2021,TGO,Urban,Participation in activities during menstruation,91
-2023,TON,All,Use of menstrual materials,94
-2023,TON,Rural,Use of menstrual materials,95
-2023,TON,Urban,Use of menstrual materials,91
-2023,TON,All,Private place to change at home,94
-2023,TON,Rural,Private place to change at home,94
-2023,TON,Urban,Private place to change at home,94
-2023,TON,All,Participation in activities during menstruation,84
-2023,TON,Rural,Participation in activities during menstruation,84
-2023,TON,Urban,Participation in activities during menstruation,86
+2024,STP,Rural,Use of menstrual materials,100
+2024,SWZ,All,Use of menstrual materials,97
+2024,SWZ,All,Private place to change at home,95
+2024,SWZ,All,Participation in activities during menstruation,94
+2024,SWZ,Rural,Use of menstrual materials,97
+2024,SWZ,Rural,Private place to change at home,95
+2024,SWZ,Rural,Participation in activities during menstruation,94
+2024,SWZ,Urban,Use of menstrual materials,97
+2024,SWZ,Urban,Private place to change at home,94
+2024,SWZ,Urban,Participation in activities during menstruation,96
+2024,TCA,All,Use of menstrual materials,100
+2024,TCA,All,Private place to change at home,97
+2024,TCA,All,Participation in activities during menstruation,87
+2024,TCA,Rural,Use of menstrual materials,100
+2024,TCA,Rural,Private place to change at home,98
+2024,TCA,Rural,Participation in activities during menstruation,96
+2024,TCA,Urban,Use of menstrual materials,100
+2024,TCA,Urban,Private place to change at home,96
+2024,TCA,Urban,Participation in activities during menstruation,86
 2024,TTO,All,Use of menstrual materials,98
-2024,TTO,Rural,Use of menstrual materials,98
-2024,TTO,Urban,Use of menstrual materials,98
 2024,TTO,All,Private place to change at home,95
-2024,TTO,Rural,Private place to change at home,96
-2024,TTO,Urban,Private place to change at home,95
 2024,TTO,All,Participation in activities during menstruation,85
+2024,TTO,Rural,Use of menstrual materials,98
+2024,TTO,Rural,Private place to change at home,96
 2024,TTO,Rural,Participation in activities during menstruation,86
+2024,TTO,Urban,Use of menstrual materials,98
+2024,TTO,Urban,Private place to change at home,95
 2024,TTO,Urban,Participation in activities during menstruation,85
 2024,TUN,All,Use of menstrual materials,90
-2024,TUN,Rural,Use of menstrual materials,93
-2024,TUN,Urban,Use of menstrual materials,89
 2024,TUN,All,Private place to change at home,50
-2024,TUN,Rural,Private place to change at home,54
-2024,TUN,Urban,Private place to change at home,48
 2024,TUN,All,Participation in activities during menstruation,81
+2024,TUN,Rural,Use of menstrual materials,93
+2024,TUN,Rural,Private place to change at home,54
 2024,TUN,Rural,Participation in activities during menstruation,80
+2024,TUN,Urban,Use of menstrual materials,89
+2024,TUN,Urban,Private place to change at home,48
 2024,TUN,Urban,Participation in activities during menstruation,82
-2023,TKM,All,Use of menstrual materials,100
-2023,TKM,Rural,Use of menstrual materials,100
-2023,TKM,Urban,Use of menstrual materials,99
-2023,TKM,All,Private place to change at home,100
-2023,TKM,Rural,Private place to change at home,100
-2023,TKM,Urban,Private place to change at home,99
-2023,TKM,All,Participation in activities during menstruation,100
-2023,TKM,Rural,Participation in activities during menstruation,100
-2023,TKM,Urban,Participation in activities during menstruation,100
-2024,TCA,All,Use of menstrual materials,100
-2024,TCA,Rural,Use of menstrual materials,100
-2024,TCA,Urban,Use of menstrual materials,100
-2024,TCA,All,Private place to change at home,97
-2024,TCA,Rural,Private place to change at home,98
-2024,TCA,Urban,Private place to change at home,96
-2024,TCA,All,Participation in activities during menstruation,87
-2024,TCA,Rural,Participation in activities during menstruation,96
-2024,TCA,Urban,Participation in activities during menstruation,86
 2024,TUV,All,Use of menstrual materials,95
-2024,TUV,Rural,Use of menstrual materials,92
-2024,TUV,Urban,Use of menstrual materials,96
 2024,TUV,All,Private place to change at home,94
-2024,TUV,Rural,Private place to change at home,96
-2024,TUV,Urban,Private place to change at home,94
 2024,TUV,All,Participation in activities during menstruation,84
+2024,TUV,Rural,Use of menstrual materials,92
+2024,TUV,Rural,Private place to change at home,96
 2024,TUV,Rural,Participation in activities during menstruation,81
+2024,TUV,Urban,Use of menstrual materials,96
+2024,TUV,Urban,Private place to change at home,94
 2024,TUV,Urban,Participation in activities during menstruation,86
-2021,UGA,All,Use of menstrual materials,98
-2021,UGA,Rural,Use of menstrual materials,98
-2021,UGA,Urban,Use of menstrual materials,98
-2021,UGA,All,Private place to change at home,87
-2021,UGA,Rural,Private place to change at home,85
-2021,UGA,Urban,Private place to change at home,92
 2024,TZA,All,Use of menstrual materials,99
-2024,TZA,Rural,Use of menstrual materials,99
-2024,TZA,Urban,Use of menstrual materials,99
 2024,TZA,All,Private place to change at home,99
+2024,TZA,Rural,Use of menstrual materials,99
 2024,TZA,Rural,Private place to change at home,99
+2024,TZA,Urban,Use of menstrual materials,99
 2024,TZA,Urban,Private place to change at home,99
 2024,UZB,All,Use of menstrual materials,96
-2024,UZB,Rural,Use of menstrual materials,97
-2024,UZB,Urban,Use of menstrual materials,96
 2024,UZB,All,Private place to change at home,97
-2024,UZB,Rural,Private place to change at home,97
-2024,UZB,Urban,Private place to change at home,97
 2024,UZB,All,Participation in activities during menstruation,92
+2024,UZB,Rural,Use of menstrual materials,97
+2024,UZB,Rural,Private place to change at home,97
 2024,UZB,Rural,Participation in activities during menstruation,92
+2024,UZB,Urban,Use of menstrual materials,96
+2024,UZB,Urban,Private place to change at home,97
 2024,UZB,Urban,Participation in activities during menstruation,92
-2024,VUT,All,Use of menstrual materials,96
-2024,VUT,Rural,Use of menstrual materials,97
-2024,VUT,Urban,Use of menstrual materials,96
-2024,VUT,All,Private place to change at home,97
-2024,VUT,Rural,Private place to change at home,97
-2024,VUT,Urban,Private place to change at home,95
-2024,VUT,All,Participation in activities during menstruation,60
-2024,VUT,Rural,Participation in activities during menstruation,55
-2024,VUT,Urban,Participation in activities during menstruation,74
 2024,VNM,All,Use of menstrual materials,98
-2024,VNM,Rural,Use of menstrual materials,98
-2024,VNM,Urban,Use of menstrual materials,98
 2024,VNM,All,Private place to change at home,97
-2024,VNM,Rural,Private place to change at home,97
-2024,VNM,Urban,Private place to change at home,98
 2024,VNM,All,Participation in activities during menstruation,95
+2024,VNM,Rural,Use of menstrual materials,98
+2024,VNM,Rural,Private place to change at home,97
 2024,VNM,Rural,Participation in activities during menstruation,95
+2024,VNM,Urban,Use of menstrual materials,98
+2024,VNM,Urban,Private place to change at home,98
 2024,VNM,Urban,Participation in activities during menstruation,95
-2023,ZWE,All,Use of menstrual materials,98
-2023,ZWE,Rural,Use of menstrual materials,98
-2023,ZWE,Urban,Use of menstrual materials,100
-2023,ZWE,All,Private place to change at home,97
-2023,ZWE,Rural,Private place to change at home,97
-2023,ZWE,Urban,Private place to change at home,97
-2023,ZWE,All,Participation in activities during menstruation,84
-2023,ZWE,Rural,Participation in activities during menstruation,84
-2023,ZWE,Urban,Participation in activities during menstruation,84
+2024,VUT,All,Use of menstrual materials,96
+2024,VUT,All,Private place to change at home,97
+2024,VUT,All,Participation in activities during menstruation,60
+2024,VUT,Rural,Use of menstrual materials,97
+2024,VUT,Rural,Private place to change at home,97
+2024,VUT,Rural,Participation in activities during menstruation,55
+2024,VUT,Urban,Use of menstrual materials,96
+2024,VUT,Urban,Private place to change at home,95
+2024,VUT,Urban,Participation in activities during menstruation,74
+2024,WSM,All,Use of menstrual materials,92
+2024,WSM,All,Private place to change at home,84
+2024,WSM,All,Participation in activities during menstruation,89
+2024,WSM,Rural,Use of menstrual materials,91
+2024,WSM,Rural,Private place to change at home,83
+2024,WSM,Rural,Participation in activities during menstruation,89
+2024,WSM,Urban,Use of menstrual materials,93
+2024,WSM,Urban,Private place to change at home,91
+2024,WSM,Urban,Participation in activities during menstruation,90
