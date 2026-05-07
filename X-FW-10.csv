@@ -1,2 +1,8 @@
-year,geo,value
-2024,WLD,16
+year,geo,disagg,value
+2024,WLD,Wetlands,16
+2024,WLD,Very large rivers,0.57
+2024,WLD,Large rivers,15
+2024,WLD,Intermediate rivers,18
+2024,WLD,Small streams,17
+2024,WLD,Very small streams,15
+2024,WLD,Smallest headwater/ intermittent streams,32

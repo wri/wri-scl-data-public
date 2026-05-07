@@ -5,18 +5,22 @@
 2022,WLD,Beef,24
 2023,WLD,Beef,31
 2024,WLD,Beef,38
+2025,WLD,Beef,33
 2015,WLD,Beef and leather,22
 2016,WLD,Beef and leather,23
 2017,WLD,Beef and leather,27
 2018,WLD,Beef and leather,19
 2024,WLD,Cocoa,35
+2025,WLD,Cocoa,42
 2024,WLD,Coffee,43
+2025,WLD,Coffee,33
 2019,WLD,Leather,22
 2020,WLD,Leather,23
 2021,WLD,Leather,22
 2022,WLD,Leather,22
 2023,WLD,Leather,24
 2024,WLD,Leather,30
+2025,WLD,Leather,31
 2015,WLD,Palm oil,29
 2016,WLD,Palm oil,32
 2017,WLD,Palm oil,37
@@ -27,6 +31,8 @@
 2022,WLD,Palm oil,35
 2023,WLD,Palm oil,37
 2024,WLD,Palm oil,50
+2025,WLD,Palm oil,59
+2025,WLD,Pulp & Paper,38
 2015,WLD,Pulp and paper,28
 2016,WLD,Pulp and paper,30
 2017,WLD,Pulp and paper,34
@@ -38,6 +44,7 @@
 2023,WLD,Pulp and paper,37
 2024,WLD,Pulp and paper,48
 2024,WLD,Rubber,33
+2025,WLD,Rubber,29
 2015,WLD,Soy,24
 2016,WLD,Soy,27
 2017,WLD,Soy,32
@@ -48,6 +55,7 @@
 2022,WLD,Soy,29
 2023,WLD,Soy,31
 2024,WLD,Soy,39
+2025,WLD,Soy,39
 2015,WLD,Timber,30
 2016,WLD,Timber,30
 2017,WLD,Timber,35
@@ -58,6 +66,7 @@
 2022,WLD,Timber,28
 2023,WLD,Timber,31
 2024,WLD,Timber,35
+2025,WLD,Timber,51
 2015,WLD,Total,28
 2016,WLD,Total,30
 2017,WLD,Total,34
@@ -68,3 +77,4 @@
 2022,WLD,Total,29
 2023,WLD,Total,31
 2024,WLD,Total,35
+2025,WLD,Total,37
