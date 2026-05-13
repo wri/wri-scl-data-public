@@ -1,19 +1,24 @@
-﻿year,geo,disagg,value
+year,geo,disagg,value
+2014,WLD,Total,54
+2017,WLD,Total,69
 2020,WLD,Total,89
-2021,WLD,Total,90
+2021,WLD,Total,89
 2022,WLD,Total,92
 2023,WLD,Total,90
 2024,WLD,Total,94
+2025,WLD,Total,98
 2020,WLD,Compiled SEEA CF,87
-2020,WLD,Compiled SEEA EA,34
 2021,WLD,Compiled SEEA CF,88
-2021,WLD,Compiled SEEA EA,36
 2022,WLD,Compiled SEEA CF,91
-2022,WLD,Compiled SEEA EA,41
 2023,WLD,Compiled SEEA CF,89
-2023,WLD,Compiled SEEA EA,35
 2024,WLD,Compiled SEEA CF,94
+2025,WLD,Compiled SEEA CF,97
+2020,WLD,Compiled SEEA EA,34
+2021,WLD,Compiled SEEA EA,36
+2022,WLD,Compiled SEEA EA,41
+2023,WLD,Compiled SEEA EA,35
 2024,WLD,Compiled SEEA EA,46
+2025,WLD,Compiled SEEA EA,58
 2020,AUS,Total,1
 2020,BEL,Total,1
 2020,BWA,Total,1
@@ -469,6 +474,104 @@
 2024,USA,Total,1
 2024,URY,Total,1
 2024,ZMB,Total,1
+2025,ALB,Total,1
+2025,ARG,Total,1
+2025,ARM,Total,1
+2025,AUS,Total,1
+2025,AUT,Total,1
+2025,AZE,Total,1
+2025,BGD,Total,1
+2025,BLR,Total,1
+2025,BEL,Total,1
+2025,BTN,Total,1
+2025,BIH,Total,1
+2025,BWA,Total,1
+2025,BRA,Total,1
+2025,BGR,Total,1
+2025,BFA,Total,1
+2025,BDI,Total,1
+2025,CMR,Total,1
+2025,CAN,Total,1
+2025,CHL,Total,1
+2025,CHN,Total,1
+2025,COL,Total,1
+2025,CRI,Total,1
+2025,HRV,Total,1
+2025,CYP,Total,1
+2025,CZE,Total,1
+2025,DNK,Total,1
+2025,ECU,Total,1
+2025,EST,Total,1
+2025,ETH,Total,1
+2025,FJI,Total,1
+2025,FIN,Total,1
+2025,FRA,Total,1
+2025,GEO,Total,1
+2025,DEU,Total,1
+2025,GHA,Total,1
+2025,GRC,Total,1
+2025,GTM,Total,1
+2025,GIN,Total,1
+2025,HUN,Total,1
+2025,ISL,Total,1
+2025,IND,Total,1
+2025,IDN,Total,1
+2025,IRQ,Total,1
+2025,IRL,Total,1
+2025,ISR,Total,1
+2025,ITA,Total,1
+2025,JPN,Total,1
+2025,JOR,Total,1
+2025,KAZ,Total,1
+2025,KEN,Total,1
+2025,LAO,Total,1
+2025,LVA,Total,1
+2025,LTU,Total,1
+2025,LUX,Total,1
+2025,MLI,Total,1
+2025,MLT,Total,1
+2025,MUS,Total,1
+2025,MEX,Total,1
+2025,MNG,Total,1
+2025,MAR,Total,1
+2025,MOZ,Total,1
+2025,NAM,Total,1
+2025,NPL,Total,1
+2025,NLD,Total,1
+2025,NZL,Total,1
+2025,NGA,Total,1
+2025,MKD,Total,1
+2025,NOR,Total,1
+2025,PLW,Total,1
+2025,PAN,Total,1
+2025,PER,Total,1
+2025,PHL,Total,1
+2025,POL,Total,1
+2025,PRT,Total,1
+2025,QAT,Total,1
+2025,KOR,Total,1
+2025,ROU,Total,1
+2025,RUS,Total,1
+2025,WSM,Total,1
+2025,SAU,Total,1
+2025,SEN,Total,1
+2025,SRB,Total,1
+2025,SGP,Total,1
+2025,SVK,Total,1
+2025,SVN,Total,1
+2025,ZAF,Total,1
+2025,ESP,Total,1
+2025,SWE,Total,1
+2025,CHE,Total,1
+2025,THA,Total,1
+2025,TUR,Total,1
+2025,UGA,Total,1
+2025,UKR,Total,1
+2025,GBR,Total,1
+2025,TZA,Total,1
+2025,USA,Total,1
+2025,URY,Total,1
+2025,ZMB,Total,1
 2020,ABW,Total,0
 2020,AFG,Total,0
 2020,ARE,Total,0
@@ -607,3 +710,42 @@
 2024,TUN,Total,0
 2024,VUT,Total,0
 2024,VNM,Total,0
+2025,DZA,Total,0
+2025,AND,Total,0
+2025,AGO,Total,0
+2025,ATG,Total,0
+2025,BHS,Total,0
+2025,BLZ,Total,0
+2025,BOL,Total,0
+2025,CPV,Total,0
+2025,COG,Total,0
+2025,DOM,Total,0
+2025,EGY,Total,0
+2025,SLV,Total,0
+2025,GNQ,Total,0
+2025,SWZ,Total,0
+2025,GRD,Total,0
+2025,HND,Total,0
+2025,JAM,Total,0
+2025,LBN,Total,0
+2025,LSO,Total,0
+2025,LBR,Total,0
+2025,LBY,Total,0
+2025,MDG,Total,0
+2025,MWI,Total,0
+2025,MYS,Total,0
+2025,MNE,Total,0
+2025,MMR,Total,0
+2025,PAK,Total,0
+2025,PRY,Total,0
+2025,MDA,Total,0
+2025,RWA,Total,0
+2025,LCA,Total,0
+2025,SYC,Total,0
+2025,SLE,Total,0
+2025,LKA,Total,0
+2025,PSE,Total,0
+2025,TJK,Total,0
+2025,TTO,Total,0
+2025,VEN,Total,0
+2025,VNM,Total,0
