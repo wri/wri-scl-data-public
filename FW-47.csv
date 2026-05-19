@@ -25,6 +25,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2023,WLD,Total,72,,,,
 2024,WLD,Total,74,,,,
 2029,WLD,Total,,77,,,
+2030,WLD,Total,,,,100,
 2000,WLD,Urban,83.5,,,,
 2001,WLD,Urban,83.4,,,,
 2002,WLD,Urban,83.3,,,,
