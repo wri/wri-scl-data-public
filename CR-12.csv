@@ -1,73 +1,97 @@
 year,geo,disagg,value
-2009,WLD,Total,3
-2010,WLD,Total,3
-2011,WLD,Total,3
-2012,WLD,Total,2
-2013,WLD,Total,4
-2014,WLD,Total,7
-2015,WLD,Total,4
-2016,WLD,Total,6
-2017,WLD,Total,14
-2018,WLD,Total,9
-2019,WLD,Total,15
-2020,WLD,Total,28
-2021,WLD,Total,39
-2022,WLD,Total,34
-2023,WLD,Total,7
-2009,WLD,Biochar,1
-2011,WLD,Biochar,2
-2012,WLD,Biochar,1
-2014,WLD,Biochar,4
-2015,WLD,Biochar,1
-2016,WLD,Biochar,5
-2017,WLD,Biochar,10
-2018,WLD,Biochar,4
-2020,WLD,Biochar,10
-2021,WLD,Biochar,9
-2022,WLD,Biochar,5
-2023,WLD,Biochar,1
-2012,WLD,Bioenergy with CCS,1
-2015,WLD,Bioenergy with CCS,1
-2016,WLD,Bioenergy with CCS,1
-2017,WLD,Bioenergy with CCS,1
-2020,WLD,Bioenergy with CCS,1
-2015,WLD,Biomass burial,1
+2007,WLD,Total,4
+2008,WLD,Total,3
+2009,WLD,Total,7
+2010,WLD,Total,9
+2011,WLD,Total,7
+2012,WLD,Total,7
+2013,WLD,Total,7
+2014,WLD,Total,14
+2015,WLD,Total,10
+2016,WLD,Total,14
+2017,WLD,Total,18
+2018,WLD,Total,16
+2019,WLD,Total,31
+2020,WLD,Total,50
+2021,WLD,Total,66
+2022,WLD,Total,91
+2023,WLD,Total,61
+2024,WLD,Total,42
+2025,WLD,Total,9
+2019,WLD,Alkalinity enhancement of water bodies,2
+2021,WLD,Alkalinity enhancement of water bodies,2
+2022,WLD,Alkalinity enhancement of water bodies,2
+2023,WLD,Alkalinity enhancement of water bodies,3
+2024,WLD,Alkalinity enhancement of water bodies,1
+2007,WLD,Biochar soil amendment,3
+2008,WLD,Biochar soil amendment,2
+2009,WLD,Biochar soil amendment,5
+2010,WLD,Biochar soil amendment,6
+2011,WLD,Biochar soil amendment,7
+2012,WLD,Biochar soil amendment,5
+2013,WLD,Biochar soil amendment,5
+2014,WLD,Biochar soil amendment,13
+2015,WLD,Biochar soil amendment,7
+2016,WLD,Biochar soil amendment,11
+2017,WLD,Biochar soil amendment,15
+2018,WLD,Biochar soil amendment,10
+2019,WLD,Biochar soil amendment,15
+2020,WLD,Biochar soil amendment,26
+2021,WLD,Biochar soil amendment,26
+2022,WLD,Biochar soil amendment,36
+2023,WLD,Biochar soil amendment,26
+2024,WLD,Biochar soil amendment,22
+2025,WLD,Biochar soil amendment,8
+2007,WLD,Bioenergy with carbon capture and storage,1
+2016,WLD,Bioenergy with carbon capture and storage,1
+2019,WLD,Bioenergy with carbon capture and storage,1
+2020,WLD,Bioenergy with carbon capture and storage,2
+2021,WLD,Bioenergy with carbon capture and storage,2
+2022,WLD,Bioenergy with carbon capture and storage,2
+2023,WLD,Bioenergy with carbon capture and storage,2
+2024,WLD,Bioenergy with carbon capture and storage,2
 2019,WLD,Biomass burial,1
-2020,WLD,Biomass burial,1
-2021,WLD,Biomass burial,1
-2023,WLD,Biomass burial,1
-2013,WLD,Biomass sinking,2
-2014,WLD,Biomass sinking,1
-2018,WLD,Biomass sinking,1
-2020,WLD,Biomass sinking,2
-2021,WLD,Biomass sinking,6
-2009,WLD,Direct air capture with CCS,2
-2010,WLD,Direct air capture with CCS,3
-2013,WLD,Direct air capture with CCS,2
-2014,WLD,Direct air capture with CCS,2
-2015,WLD,Direct air capture with CCS,1
-2017,WLD,Direct air capture with CCS,2
-2018,WLD,Direct air capture with CCS,4
-2019,WLD,Direct air capture with CCS,7
-2020,WLD,Direct air capture with CCS,10
-2021,WLD,Direct air capture with CCS,15
-2022,WLD,Direct air capture with CCS,18
-2023,WLD,Direct air capture with CCS,2
-2019,WLD,Direct ocean capture,1
-2020,WLD,Direct ocean capture,1
-2021,WLD,Direct ocean capture,2
-2022,WLD,Direct ocean capture,3
-2011,WLD,Enhanced weathering,1
-2019,WLD,Enhanced weathering,3
-2020,WLD,Enhanced weathering,3
-2021,WLD,Enhanced weathering,4
-2022,WLD,Enhanced weathering,5
-2023,WLD,Enhanced weathering,2
-2009,WLD,Forestry,2
-2010,WLD,Forestry,9
-2011,WLD,Forestry,5
-2017,WLD,Ocean alkalinity enhancement,1
-2019,WLD,Ocean alkalinity enhancement,3
-2021,WLD,Ocean alkalinity enhancement,2
-2022,WLD,Ocean alkalinity enhancement,3
-2023,WLD,Ocean alkalinity enhancement,1
+2020,WLD,Biomass burial,2
+2021,WLD,Biomass burial,2
+2022,WLD,Biomass burial,1
+2023,WLD,Biomass burial,4
+2024,WLD,Biomass burial,1
+2013,WLD,Biomass sinking,1
+2017,WLD,Biomass sinking,1
+2020,WLD,Biomass sinking,3
+2021,WLD,Biomass sinking,8
+2022,WLD,Biomass sinking,5
+2018,WLD,Bio-oil storage,1
+2023,WLD,Bio-oil storage,1
+2009,WLD,Direct air carbon capture and storage,2
+2010,WLD,Direct air carbon capture and storage,3
+2013,WLD,Direct air carbon capture and storage,1
+2014,WLD,Direct air carbon capture and storage,1
+2015,WLD,Direct air carbon capture and storage,1
+2017,WLD,Direct air carbon capture and storage,1
+2018,WLD,Direct air carbon capture and storage,2
+2019,WLD,Direct air carbon capture and storage,8
+2020,WLD,Direct air carbon capture and storage,8
+2021,WLD,Direct air carbon capture and storage,14
+2022,WLD,Direct air carbon capture and storage,24
+2023,WLD,Direct air carbon capture and storage,13
+2024,WLD,Direct air carbon capture and storage,7
+2025,WLD,Direct air carbon capture and storage,1
+2008,WLD,Enhanced weathering,1
+2017,WLD,Enhanced weathering,1
+2019,WLD,Enhanced weathering,2
+2020,WLD,Enhanced weathering,2
+2021,WLD,Enhanced weathering,5
+2022,WLD,Enhanced weathering,10
+2023,WLD,Enhanced weathering,8
+2024,WLD,Enhanced weathering,7
+2012,WLD,Mineral products,2
+2015,WLD,Mineral products,2
+2016,WLD,Mineral products,2
+2018,WLD,Mineral products,3
+2019,WLD,Mineral products,2
+2020,WLD,Mineral products,7
+2021,WLD,Mineral products,7
+2022,WLD,Mineral products,11
+2023,WLD,Mineral products,4
+2024,WLD,Mineral products,2
