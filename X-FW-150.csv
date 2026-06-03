@@ -1,2 +1,8 @@
 year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2020,WLD,19,,,,
+2000,WLD,16.93,,,,
+2005,WLD,17.00,,,,
+2010,WLD,16.97,,,,
+2015,WLD,17.00,,,,
+2020,WLD,16.99,,,,
+2025,WLD,16.98,,,,
+2030,WLD,,16.97,,,
