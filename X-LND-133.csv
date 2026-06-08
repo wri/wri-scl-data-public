@@ -1,11 +1,12 @@
 year,geo,disagg,value
-2024,WLD,Total,64
+2024,WLD,Total,76
 2024,WLD,Design and reuse,26
 2024,WLD,Extended Producer Responsibility,30
 2024,WLD,Maritime sources,36
 2024,WLD,Microplastics,21
 2024,WLD,Production and manufacturing,8
 2024,WLD,Waste management,58
+2024,WLD,Reduction,69
 2024,AUT,Design and reuse,1
 2024,CHN,Design and reuse,1
 2024,COL,Design and reuse,1
@@ -145,3 +146,116 @@ year,geo,disagg,value
 2024,VNM,Waste management,1
 2024,ZMB,Waste management,1
 2024,ZWE,Waste management,1
+2024,ABW,Reduction,1
+2024,AIA,Reduction,1
+2024,ARG,Reduction,1
+2024,ARM,Reduction,1
+2024,ASM,Reduction,1
+2024,ATG,Reduction,1
+2024,AZE,Reduction,1
+2024,BDI,Reduction,1
+2024,BEL,Reduction,1
+2024,BEN,Reduction,1
+2024,BFA,Reduction,1
+2024,BGD,Reduction,1
+2024,BHR,Reduction,1
+2024,BRB,Reduction,1
+2024,BWA,Reduction,1
+2024,CAN,Reduction,1
+2024,CHL,Reduction,1
+2024,CHN,Reduction,1
+2024,CIV,Reduction,1
+2024,CMR,Reduction,1
+2024,COD,Reduction,1
+2024,COG,Reduction,1
+2024,COL,Reduction,1
+2024,CPV,Reduction,1
+2024,CRI,Reduction,1
+2024,CYP,Reduction,1
+2024,CZE,Reduction,1
+2024,DEU,Reduction,1
+2024,DJI,Reduction,1
+2024,DNK,Reduction,1
+2024,DOM,Reduction,1
+2024,DZA,Reduction,1
+2024,ECU,Reduction,1
+2024,ERI,Reduction,1
+2024,ESP,Reduction,1
+2024,EST,Reduction,1
+2024,ETH,Reduction,1
+2024,FJI,Reduction,1
+2024,FRA,Reduction,1
+2024,FSM,Reduction,1
+2024,GAB,Reduction,1
+2024,GBR,Reduction,1
+2024,GEO,Reduction,1
+2024,GMB,Reduction,1
+2024,GRC,Reduction,1
+2024,GRD,Reduction,1
+2024,GTM,Reduction,1
+2024,GUM,Reduction,1
+2024,GUY,Reduction,1
+2024,HRV,Reduction,1
+2024,HTI,Reduction,1
+2024,IND,Reduction,1
+2024,IRL,Reduction,1
+2024,ISR,Reduction,1
+2024,JAM,Reduction,1
+2024,JOR,Reduction,1
+2024,JPN,Reduction,1
+2024,KEN,Reduction,1
+2024,KHM,Reduction,1
+2024,KIR,Reduction,1
+2024,KOR,Reduction,1
+2024,LCA,Reduction,1
+2024,LKA,Reduction,1
+2024,LSO,Reduction,1
+2024,MAR,Reduction,1
+2024,MDG,Reduction,1
+2024,MDV,Reduction,1
+2024,MHL,Reduction,1
+2024,MLI,Reduction,1
+2024,MNG,Reduction,1
+2024,MOZ,Reduction,1
+2024,MRT,Reduction,1
+2024,MUS,Reduction,1
+2024,MWI,Reduction,1
+2024,NAM,Reduction,1
+2024,NCL,Reduction,1
+2024,NER,Reduction,1
+2024,NLD,Reduction,1
+2024,NPL,Reduction,1
+2024,NRU,Reduction,1
+2024,NZL,Reduction,1
+2024,PAN,Reduction,1
+2024,PER,Reduction,1
+2024,PHL,Reduction,1
+2024,PLW,Reduction,1
+2024,PRT,Reduction,1
+2024,PRY,Reduction,1
+2024,PYF,Reduction,1
+2024,RWA,Reduction,1
+2024,SEN,Reduction,1
+2024,SGP,Reduction,1
+2024,STP,Reduction,1
+2024,SVN,Reduction,1
+2024,SWZ,Reduction,1
+2024,SYC,Reduction,1
+2024,TCA,Reduction,1
+2024,TGO,Reduction,1
+2024,TLS,Reduction,1
+2024,TUN,Reduction,1
+2024,TUR,Reduction,1
+2024,TUV,Reduction,1
+2024,TZA,Reduction,1
+2024,UGA,Reduction,1
+2024,USA,Reduction,1
+2024,UZB,Reduction,1
+2024,VCT,Reduction,1
+2024,VGB,Reduction,1
+2024,VNM,Reduction,1
+2024,VUT,Reduction,1
+2024,WSM,Reduction,1
+2024,ZAF,Reduction,1
+2024,ZMB,Reduction,1
+2024,ZWE,Reduction,1
