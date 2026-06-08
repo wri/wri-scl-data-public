@@ -1,144 +1,121 @@
 year,geo,disagg,value
-1990,WLD,Total,13
-1991,WLD,Total,19
-1992,WLD,Total,2
-1993,WLD,Total,3
-1994,WLD,Total,3
-1995,WLD,Total,8
-1996,WLD,Total,18
-1997,WLD,Total,4
-1998,WLD,Total,5
-1999,WLD,Total,7
-2000,WLD,Total,21
-2001,WLD,Total,4
-2002,WLD,Total,11
-2003,WLD,Total,5
-2004,WLD,Total,8
-2005,WLD,Total,8
-2006,WLD,Total,10
-2007,WLD,Total,97
-2008,WLD,Total,69
-2009,WLD,Total,159
+2005,WLD,Total,6
+2006,WLD,Total,7
+2007,WLD,Total,82
+2008,WLD,Total,71
+2009,WLD,Total,154
 2010,WLD,Total,85
-2011,WLD,Total,45
-2012,WLD,Total,88
-2013,WLD,Total,52
-2014,WLD,Total,58
-2015,WLD,Total,68
-2016,WLD,Total,43
-2017,WLD,Total,45
+2011,WLD,Total,50
+2012,WLD,Total,101
+2013,WLD,Total,59
+2014,WLD,Total,54
+2015,WLD,Total,72
+2016,WLD,Total,41
+2017,WLD,Total,51
 2018,WLD,Total,72
-2019,WLD,Total,148
-2020,WLD,Total,94
-2021,WLD,Total,351
-2022,WLD,Total,278
-1991,WLD,Biochar,1
-2004,WLD,Biochar,1
-2005,WLD,Biochar,1
-2007,WLD,Biochar,5
-2008,WLD,Biochar,20
-2009,WLD,Biochar,103
-2010,WLD,Biochar,48
-2011,WLD,Biochar,12
-2012,WLD,Biochar,6
-2013,WLD,Biochar,14
-2014,WLD,Biochar,22
-2015,WLD,Biochar,18
-2016,WLD,Biochar,18
-2017,WLD,Biochar,12
-2018,WLD,Biochar,7
-2019,WLD,Biochar,24
-2020,WLD,Biochar,11
-2021,WLD,Biochar,31
-2022,WLD,Biochar,26
-1997,WLD,Bioenergy with CCS,2
-2002,WLD,Bioenergy with CCS,5
-2003,WLD,Bioenergy with CCS,1
-2005,WLD,Bioenergy with CCS,3
-2006,WLD,Bioenergy with CCS,9
-2007,WLD,Bioenergy with CCS,18
-2008,WLD,Bioenergy with CCS,17
-2009,WLD,Bioenergy with CCS,20
-2010,WLD,Bioenergy with CCS,17
-2011,WLD,Bioenergy with CCS,15
-2012,WLD,Bioenergy with CCS,9
-2013,WLD,Bioenergy with CCS,13
-2014,WLD,Bioenergy with CCS,21
-2015,WLD,Bioenergy with CCS,26
-2016,WLD,Bioenergy with CCS,16
-2017,WLD,Bioenergy with CCS,13
-2018,WLD,Bioenergy with CCS,33
-2019,WLD,Bioenergy with CCS,66
-2020,WLD,Bioenergy with CCS,34
-2021,WLD,Bioenergy with CCS,125
-2022,WLD,Bioenergy with CCS,95
-1991,WLD,Direct Air Capture with CCS,3
-1992,WLD,Direct Air Capture with CCS,1
-1998,WLD,Direct Air Capture with CCS,3
-2004,WLD,Direct Air Capture with CCS,1
-2005,WLD,Direct Air Capture with CCS,1
-2006,WLD,Direct Air Capture with CCS,1
-2007,WLD,Direct Air Capture with CCS,14
-2008,WLD,Direct Air Capture with CCS,6
-2009,WLD,Direct Air Capture with CCS,7
-2010,WLD,Direct Air Capture with CCS,1
-2011,WLD,Direct Air Capture with CCS,5
-2012,WLD,Direct Air Capture with CCS,4
-2013,WLD,Direct Air Capture with CCS,5
-2015,WLD,Direct Air Capture with CCS,13
-2016,WLD,Direct Air Capture with CCS,4
-2017,WLD,Direct Air Capture with CCS,15
-2018,WLD,Direct Air Capture with CCS,27
-2019,WLD,Direct Air Capture with CCS,49
-2020,WLD,Direct Air Capture with CCS,41
-2021,WLD,Direct Air Capture with CCS,175
-2022,WLD,Direct Air Capture with CCS,143
-1998,WLD,Enhanced Weathering,1
-2001,WLD,Enhanced Weathering,1
-2003,WLD,Enhanced Weathering,1
-2005,WLD,Enhanced Weathering,3
-2007,WLD,Enhanced Weathering,2
-2008,WLD,Enhanced Weathering,1
-2009,WLD,Enhanced Weathering,2
-2010,WLD,Enhanced Weathering,1
-2011,WLD,Enhanced Weathering,2
-2012,WLD,Enhanced Weathering,3
-2014,WLD,Enhanced Weathering,3
-2015,WLD,Enhanced Weathering,2
-2017,WLD,Enhanced Weathering,2
-2018,WLD,Enhanced Weathering,3
-2019,WLD,Enhanced Weathering,2
-2020,WLD,Enhanced Weathering,5
-2021,WLD,Enhanced Weathering,9
-2022,WLD,Enhanced Weathering,8
-1990,WLD,Ocean Fertilization,13
-1991,WLD,Ocean Fertilization,15
-1992,WLD,Ocean Fertilization,1
-1993,WLD,Ocean Fertilization,3
-1994,WLD,Ocean Fertilization,3
-1995,WLD,Ocean Fertilization,8
-1996,WLD,Ocean Fertilization,18
-1997,WLD,Ocean Fertilization,2
-1998,WLD,Ocean Fertilization,1
-1999,WLD,Ocean Fertilization,7
-2000,WLD,Ocean Fertilization,21
-2001,WLD,Ocean Fertilization,3
-2002,WLD,Ocean Fertilization,6
-2003,WLD,Ocean Fertilization,3
-2004,WLD,Ocean Fertilization,6
-2007,WLD,Ocean Fertilization,58
-2008,WLD,Ocean Fertilization,25
-2009,WLD,Ocean Fertilization,27
-2010,WLD,Ocean Fertilization,18
-2011,WLD,Ocean Fertilization,11
-2012,WLD,Ocean Fertilization,66
-2013,WLD,Ocean Fertilization,20
-2014,WLD,Ocean Fertilization,12
-2015,WLD,Ocean Fertilization,9
-2016,WLD,Ocean Fertilization,5
-2017,WLD,Ocean Fertilization,3
-2018,WLD,Ocean Fertilization,2
-2019,WLD,Ocean Fertilization,7
-2020,WLD,Ocean Fertilization,3
-2021,WLD,Ocean Fertilization,11
-2022,WLD,Ocean Fertilization,6
+2019,WLD,Total,123
+2020,WLD,Total,90
+2021,WLD,Total,302
+2022,WLD,Total,265
+2023,WLD,Total,264
+2024,WLD,Total,199
+2025,WLD,Total,170
+2006,WLD,Biochar soil amendment,1
+2007,WLD,Biochar soil amendment,8
+2008,WLD,Biochar soil amendment,18
+2009,WLD,Biochar soil amendment,101
+2010,WLD,Biochar soil amendment,49
+2011,WLD,Biochar soil amendment,17
+2012,WLD,Biochar soil amendment,10
+2013,WLD,Biochar soil amendment,14
+2014,WLD,Biochar soil amendment,16
+2015,WLD,Biochar soil amendment,22
+2016,WLD,Biochar soil amendment,14
+2017,WLD,Biochar soil amendment,17
+2018,WLD,Biochar soil amendment,7
+2019,WLD,Biochar soil amendment,28
+2020,WLD,Biochar soil amendment,18
+2021,WLD,Biochar soil amendment,25
+2022,WLD,Biochar soil amendment,34
+2023,WLD,Biochar soil amendment,53
+2024,WLD,Biochar soil amendment,34
+2025,WLD,Biochar soil amendment,36
+2005,WLD,Bioenergy with Carbon Capture and Storage,2
+2006,WLD,Bioenergy with Carbon Capture and Storage,4
+2007,WLD,Bioenergy with Carbon Capture and Storage,8
+2008,WLD,Bioenergy with Carbon Capture and Storage,17
+2009,WLD,Bioenergy with Carbon Capture and Storage,16
+2010,WLD,Bioenergy with Carbon Capture and Storage,23
+2011,WLD,Bioenergy with Carbon Capture and Storage,14
+2012,WLD,Bioenergy with Carbon Capture and Storage,8
+2013,WLD,Bioenergy with Carbon Capture and Storage,17
+2014,WLD,Bioenergy with Carbon Capture and Storage,20
+2015,WLD,Bioenergy with Carbon Capture and Storage,20
+2016,WLD,Bioenergy with Carbon Capture and Storage,16
+2017,WLD,Bioenergy with Carbon Capture and Storage,8
+2018,WLD,Bioenergy with Carbon Capture and Storage,28
+2019,WLD,Bioenergy with Carbon Capture and Storage,35
+2020,WLD,Bioenergy with Carbon Capture and Storage,20
+2021,WLD,Bioenergy with Carbon Capture and Storage,93
+2022,WLD,Bioenergy with Carbon Capture and Storage,75
+2023,WLD,Bioenergy with Carbon Capture and Storage,61
+2024,WLD,Bioenergy with Carbon Capture and Storage,60
+2025,WLD,Bioenergy with Carbon Capture and Storage,43
+2007,WLD,Direct Air Carbon Capture and Storage,5
+2008,WLD,Direct Air Carbon Capture and Storage,7
+2009,WLD,Direct Air Carbon Capture and Storage,7
+2011,WLD,Direct Air Carbon Capture and Storage,3
+2012,WLD,Direct Air Carbon Capture and Storage,7
+2013,WLD,Direct Air Carbon Capture and Storage,3
+2015,WLD,Direct Air Carbon Capture and Storage,12
+2016,WLD,Direct Air Carbon Capture and Storage,3
+2017,WLD,Direct Air Carbon Capture and Storage,16
+2018,WLD,Direct Air Carbon Capture and Storage,28
+2019,WLD,Direct Air Carbon Capture and Storage,43
+2020,WLD,Direct Air Carbon Capture and Storage,38
+2021,WLD,Direct Air Carbon Capture and Storage,151
+2022,WLD,Direct Air Carbon Capture and Storage,125
+2023,WLD,Direct Air Carbon Capture and Storage,115
+2024,WLD,Direct Air Carbon Capture and Storage,77
+2025,WLD,Direct Air Carbon Capture and Storage,36
+2005,WLD,Enhanced weathering,3
+2006,WLD,Enhanced weathering,2
+2007,WLD,Enhanced weathering,4
+2008,WLD,Enhanced weathering,5
+2009,WLD,Enhanced weathering,1
+2010,WLD,Enhanced weathering,1
+2011,WLD,Enhanced weathering,4
+2012,WLD,Enhanced weathering,5
+2013,WLD,Enhanced weathering,5
+2014,WLD,Enhanced weathering,5
+2015,WLD,Enhanced weathering,4
+2016,WLD,Enhanced weathering,3
+2017,WLD,Enhanced weathering,3
+2018,WLD,Enhanced weathering,6
+2019,WLD,Enhanced weathering,4
+2020,WLD,Enhanced weathering,9
+2021,WLD,Enhanced weathering,15
+2022,WLD,Enhanced weathering,16
+2023,WLD,Enhanced weathering,15
+2024,WLD,Enhanced weathering,16
+2025,WLD,Enhanced weathering,34
+2005,WLD,Ocean fertilisation,1
+2007,WLD,Ocean fertilisation,57
+2008,WLD,Ocean fertilisation,24
+2009,WLD,Ocean fertilisation,29
+2010,WLD,Ocean fertilisation,12
+2011,WLD,Ocean fertilisation,12
+2012,WLD,Ocean fertilisation,71
+2013,WLD,Ocean fertilisation,20
+2014,WLD,Ocean fertilisation,13
+2015,WLD,Ocean fertilisation,14
+2016,WLD,Ocean fertilisation,5
+2017,WLD,Ocean fertilisation,7
+2018,WLD,Ocean fertilisation,3
+2019,WLD,Ocean fertilisation,13
+2020,WLD,Ocean fertilisation,5
+2021,WLD,Ocean fertilisation,18
+2022,WLD,Ocean fertilisation,15
+2023,WLD,Ocean fertilisation,20
+2024,WLD,Ocean fertilisation,12
+2025,WLD,Ocean fertilisation,21
