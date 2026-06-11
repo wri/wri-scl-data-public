@@ -1,0 +1,30 @@
+year,geo,disagg_type,disagg,value
+2025,WLD,"Afforestation, reforestation, agroforestry and forest management",Low cost range,5
+2025,WLD,Soil carbon sequestration in croplands and grasslands,Low cost range,-45
+2025,WLD,Coastal wetland restoration,Low cost range,11
+2025,WLD,Alkalinity enhancement of water bodies,Low cost range,100
+2025,WLD,DACCS,Low cost range,400
+2025,WLD,Biomass burial,Low cost range,10
+2025,WLD,BECCS,Low cost range,13
+2025,WLD,Biochar,Low cost range,70
+2025,WLD,Mineral products,Low cost range,10
+2025,WLD,Ocean fertilization,Low cost range,10
+2025,WLD,Enhanced weathering,Low cost range,50
+2025,WLD,Biomass sinking,Low cost range,100
+2025,WLD,DOCCS,Low cost range,100
+2025,WLD,Bio-oil storage,Low cost range,100
+2025,WLD,"Afforestation, reforestation, agroforestry and forest management",High cost range,240
+2025,WLD,Soil carbon sequestration in croplands and grasslands,High cost range,105
+2025,WLD,Peatland restoration,High cost range,100
+2025,WLD,Coastal wetland restoration,High cost range,300
+2025,WLD,Alkalinity enhancement of water bodies,High cost range,300
+2025,WLD,DACCS,High cost range,2500
+2025,WLD,Biomass burial,High cost range,200
+2025,WLD,BECCS,High cost range,470
+2025,WLD,Biochar,High cost range,360
+2025,WLD,Mineral products,High cost range,500
+2025,WLD,Ocean fertilization,High cost range,10000
+2025,WLD,Enhanced weathering,High cost range,1000
+2025,WLD,Biomass sinking,High cost range,10000
+2025,WLD,DOCCS,High cost range,2000
+2025,WLD,Bio-oil storage,High cost range,550
