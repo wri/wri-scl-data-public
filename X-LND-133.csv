@@ -1,151 +1,12 @@
 year,geo,disagg,value
 2024,WLD,Total,76
+2024,WLD,Reduction,69
 2024,WLD,Design and reuse,26
+2024,WLD,Production and manufacturing,8
 2024,WLD,Extended Producer Responsibility,30
+2024,WLD,Waste management,58
 2024,WLD,Maritime sources,36
 2024,WLD,Microplastics,21
-2024,WLD,Production and manufacturing,8
-2024,WLD,Waste management,58
-2024,WLD,Reduction,69
-2024,AUT,Design and reuse,1
-2024,CHN,Design and reuse,1
-2024,COL,Design and reuse,1
-2024,HRV,Design and reuse,1
-2024,DNK,Design and reuse,1
-2024,DOM,Design and reuse,1
-2024,EST,Design and reuse,1
-2024,FRA,Design and reuse,1
-2024,DEU,Design and reuse,1
-2024,GRC,Design and reuse,1
-2024,IRL,Design and reuse,1
-2024,JPN,Design and reuse,1
-2024,KEN,Design and reuse,1
-2024,MUS,Design and reuse,1
-2024,NLD,Design and reuse,1
-2024,PRY,Design and reuse,1
-2024,PRT,Design and reuse,1
-2024,SEN,Design and reuse,1
-2024,SYC,Design and reuse,1
-2024,SVN,Design and reuse,1
-2024,ESP,Design and reuse,1
-2024,TGO,Design and reuse,1
-2024,TUN,Design and reuse,1
-2024,GBR,Design and reuse,1
-2024,VNM,Design and reuse,1
-2024,DZA,Extended Producer Responsibility,1
-2024,AUT,Extended Producer Responsibility,1
-2024,BRB,Extended Producer Responsibility,1
-2024,BEL,Extended Producer Responsibility,1
-2024,BLZ,Extended Producer Responsibility,1
-2024,BOL,Extended Producer Responsibility,1
-2024,CMR,Extended Producer Responsibility,1
-2024,CHN,Extended Producer Responsibility,1
-2024,COL,Extended Producer Responsibility,1
-2024,HRV,Extended Producer Responsibility,1
-2024,CYP,Extended Producer Responsibility,1
-2024,DNK,Extended Producer Responsibility,1
-2024,DOM,Extended Producer Responsibility,1
-2024,EST,Extended Producer Responsibility,1
-2024,FRA,Extended Producer Responsibility,1
-2024,DEU,Extended Producer Responsibility,1
-2024,GRC,Extended Producer Responsibility,1
-2024,IRL,Extended Producer Responsibility,1
-2024,ISR,Extended Producer Responsibility,1
-2024,KEN,Extended Producer Responsibility,1
-2024,KOR,Extended Producer Responsibility,1
-2024,MNG,Extended Producer Responsibility,1
-2024,NLD,Extended Producer Responsibility,1
-2024,NGA,Extended Producer Responsibility,1
-2024,PLW,Extended Producer Responsibility,1
-2024,PRY,Extended Producer Responsibility,1
-2024,PER,Extended Producer Responsibility,1
-2024,PRT,Extended Producer Responsibility,1
-2024,SEN,Extended Producer Responsibility,1
-2024,SGP,Extended Producer Responsibility,1
-2024,SVN,Extended Producer Responsibility,1
-2024,ESP,Extended Producer Responsibility,1
-2024,TUV,Extended Producer Responsibility,1
-2024,UGA,Extended Producer Responsibility,1
-2024,GBR,Extended Producer Responsibility,1
-2024,ZMB,Extended Producer Responsibility,1
-2024,ATG,Maritime sources,1
-2024,CHN,Maritime sources,1
-2024,HRV,Maritime sources,1
-2024,DNK,Maritime sources,1
-2024,EST,Maritime sources,1
-2024,IND,Maritime sources,1
-2024,IRL,Maritime sources,1
-2024,NLD,Maritime sources,1
-2024,PRT,Maritime sources,1
-2024,ESP,Maritime sources,1
-2024,ARG,Microplastics,1
-2024,CHN,Microplastics,1
-2024,EST,Microplastics,1
-2024,FRA,Microplastics,1
-2024,IRL,Microplastics,1
-2024,ESP,Microplastics,1
-2024,GBR,Microplastics,1
-2024,VNM,Microplastics,1
-2024,BEL,Production and manufacturing,1
-2024,EST,Production and manufacturing,1
-2024,FRA,Production and manufacturing,1
-2024,GRC,Production and manufacturing,1
-2024,IRL,Production and manufacturing,1
-2024,KEN,Production and manufacturing,1
-2024,NLD,Production and manufacturing,1
-2024,SVN,Production and manufacturing,1
-2024,ESP,Production and manufacturing,1
-2024,GBR,Production and manufacturing,1
-2024,USA,Production and manufacturing,1
-2024,DZA,Waste management,1
-2024,ATG,Waste management,1
-2024,AUT,Waste management,1
-2024,BEL,Waste management,1
-2024,BEN,Waste management,1
-2024,BOL,Waste management,1
-2024,BRA,Waste management,1
-2024,BFA,Waste management,1
-2024,BDI,Waste management,1
-2024,CMR,Waste management,1
-2024,CHN,Waste management,1
-2024,CRI,Waste management,1
-2024,HRV,Waste management,1
-2024,DNK,Waste management,1
-2024,DOM,Waste management,1
-2024,ECU,Waste management,1
-2024,SLV,Waste management,1
-2024,EST,Waste management,1
-2024,FRA,Waste management,1
-2024,DEU,Waste management,1
-2024,GRC,Waste management,1
-2024,IND,Waste management,1
-2024,IRL,Waste management,1
-2024,ISR,Waste management,1
-2024,JPN,Waste management,1
-2024,KEN,Waste management,1
-2024,KOR,Waste management,1
-2024,MLI,Waste management,1
-2024,MUS,Waste management,1
-2024,MEX,Waste management,1
-2024,NLD,Waste management,1
-2024,NGA,Waste management,1
-2024,PRY,Waste management,1
-2024,PER,Waste management,1
-2024,PHL,Waste management,1
-2024,LCA,Waste management,1
-2024,SGP,Waste management,1
-2024,SVN,Waste management,1
-2024,ESP,Waste management,1
-2024,TZA,Waste management,1
-2024,TUN,Waste management,1
-2024,UGA,Waste management,1
-2024,GBR,Waste management,1
-2024,URY,Waste management,1
-2024,UZB,Waste management,1
-2024,VUT,Waste management,1
-2024,VNM,Waste management,1
-2024,ZMB,Waste management,1
-2024,ZWE,Waste management,1
 2024,ABW,Reduction,1
 2024,AIA,Reduction,1
 2024,ARG,Reduction,1
@@ -259,3 +120,142 @@ year,geo,disagg,value
 2024,ZAF,Reduction,1
 2024,ZMB,Reduction,1
 2024,ZWE,Reduction,1
+2024,AUT,Design and reuse,1
+2024,CHN,Design and reuse,1
+2024,COL,Design and reuse,1
+2024,HRV,Design and reuse,1
+2024,DNK,Design and reuse,1
+2024,DOM,Design and reuse,1
+2024,EST,Design and reuse,1
+2024,FRA,Design and reuse,1
+2024,DEU,Design and reuse,1
+2024,GRC,Design and reuse,1
+2024,IRL,Design and reuse,1
+2024,JPN,Design and reuse,1
+2024,KEN,Design and reuse,1
+2024,MUS,Design and reuse,1
+2024,NLD,Design and reuse,1
+2024,PRY,Design and reuse,1
+2024,PRT,Design and reuse,1
+2024,SEN,Design and reuse,1
+2024,SYC,Design and reuse,1
+2024,SVN,Design and reuse,1
+2024,ESP,Design and reuse,1
+2024,TGO,Design and reuse,1
+2024,TUN,Design and reuse,1
+2024,GBR,Design and reuse,1
+2024,VNM,Design and reuse,1
+2024,BEL,Production and manufacturing,1
+2024,EST,Production and manufacturing,1
+2024,FRA,Production and manufacturing,1
+2024,GRC,Production and manufacturing,1
+2024,IRL,Production and manufacturing,1
+2024,KEN,Production and manufacturing,1
+2024,NLD,Production and manufacturing,1
+2024,SVN,Production and manufacturing,1
+2024,ESP,Production and manufacturing,1
+2024,GBR,Production and manufacturing,1
+2024,USA,Production and manufacturing,1
+2024,DZA,Extended Producer Responsibility,1
+2024,AUT,Extended Producer Responsibility,1
+2024,BRB,Extended Producer Responsibility,1
+2024,BEL,Extended Producer Responsibility,1
+2024,BLZ,Extended Producer Responsibility,1
+2024,BOL,Extended Producer Responsibility,1
+2024,CMR,Extended Producer Responsibility,1
+2024,CHN,Extended Producer Responsibility,1
+2024,COL,Extended Producer Responsibility,1
+2024,HRV,Extended Producer Responsibility,1
+2024,CYP,Extended Producer Responsibility,1
+2024,DNK,Extended Producer Responsibility,1
+2024,DOM,Extended Producer Responsibility,1
+2024,EST,Extended Producer Responsibility,1
+2024,FRA,Extended Producer Responsibility,1
+2024,DEU,Extended Producer Responsibility,1
+2024,GRC,Extended Producer Responsibility,1
+2024,IRL,Extended Producer Responsibility,1
+2024,ISR,Extended Producer Responsibility,1
+2024,KEN,Extended Producer Responsibility,1
+2024,KOR,Extended Producer Responsibility,1
+2024,MNG,Extended Producer Responsibility,1
+2024,NLD,Extended Producer Responsibility,1
+2024,NGA,Extended Producer Responsibility,1
+2024,PLW,Extended Producer Responsibility,1
+2024,PRY,Extended Producer Responsibility,1
+2024,PER,Extended Producer Responsibility,1
+2024,PRT,Extended Producer Responsibility,1
+2024,SEN,Extended Producer Responsibility,1
+2024,SGP,Extended Producer Responsibility,1
+2024,SVN,Extended Producer Responsibility,1
+2024,ESP,Extended Producer Responsibility,1
+2024,TUV,Extended Producer Responsibility,1
+2024,UGA,Extended Producer Responsibility,1
+2024,GBR,Extended Producer Responsibility,1
+2024,ZMB,Extended Producer Responsibility,1
+2024,DZA,Waste management,1
+2024,ATG,Waste management,1
+2024,AUT,Waste management,1
+2024,BEL,Waste management,1
+2024,BEN,Waste management,1
+2024,BOL,Waste management,1
+2024,BRA,Waste management,1
+2024,BFA,Waste management,1
+2024,BDI,Waste management,1
+2024,CMR,Waste management,1
+2024,CHN,Waste management,1
+2024,CRI,Waste management,1
+2024,HRV,Waste management,1
+2024,DNK,Waste management,1
+2024,DOM,Waste management,1
+2024,ECU,Waste management,1
+2024,SLV,Waste management,1
+2024,EST,Waste management,1
+2024,FRA,Waste management,1
+2024,DEU,Waste management,1
+2024,GRC,Waste management,1
+2024,IND,Waste management,1
+2024,IRL,Waste management,1
+2024,ISR,Waste management,1
+2024,JPN,Waste management,1
+2024,KEN,Waste management,1
+2024,KOR,Waste management,1
+2024,MLI,Waste management,1
+2024,MUS,Waste management,1
+2024,MEX,Waste management,1
+2024,NLD,Waste management,1
+2024,NGA,Waste management,1
+2024,PRY,Waste management,1
+2024,PER,Waste management,1
+2024,PHL,Waste management,1
+2024,LCA,Waste management,1
+2024,SGP,Waste management,1
+2024,SVN,Waste management,1
+2024,ESP,Waste management,1
+2024,TZA,Waste management,1
+2024,TUN,Waste management,1
+2024,UGA,Waste management,1
+2024,GBR,Waste management,1
+2024,URY,Waste management,1
+2024,UZB,Waste management,1
+2024,VUT,Waste management,1
+2024,VNM,Waste management,1
+2024,ZMB,Waste management,1
+2024,ZWE,Waste management,1
+2024,ATG,Maritime sources,1
+2024,CHN,Maritime sources,1
+2024,HRV,Maritime sources,1
+2024,DNK,Maritime sources,1
+2024,EST,Maritime sources,1
+2024,IND,Maritime sources,1
+2024,IRL,Maritime sources,1
+2024,NLD,Maritime sources,1
+2024,PRT,Maritime sources,1
+2024,ESP,Maritime sources,1
+2024,ARG,Microplastics,1
+2024,CHN,Microplastics,1
+2024,EST,Microplastics,1
+2024,FRA,Microplastics,1
+2024,IRL,Microplastics,1
+2024,ESP,Microplastics,1
+2024,GBR,Microplastics,1
+2024,VNM,Microplastics,1
