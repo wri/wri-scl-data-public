@@ -1,51 +1,2847 @@
-year,geo,disagg,value
-2000,WLD,Taxes and fees,70
-2001,WLD,Taxes and fees,72
-2002,WLD,Taxes and fees,72
-2003,WLD,Taxes and fees,73
-2004,WLD,Taxes and fees,75
-2005,WLD,Taxes and fees,75
-2006,WLD,Taxes and fees,75
-2007,WLD,Taxes and fees,76
-2008,WLD,Taxes and fees,76
-2009,WLD,Taxes and fees,76
-2010,WLD,Taxes and fees,78
-2011,WLD,Taxes and fees,78
-2012,WLD,Taxes and fees,78
-2013,WLD,Taxes and fees,78
-2014,WLD,Taxes and fees,80
-2015,WLD,Taxes and fees,80
-2016,WLD,Taxes and fees,80
-2017,WLD,Taxes and fees,81
-2018,WLD,Taxes and fees,81
-2019,WLD,Taxes and fees,81
-2020,WLD,Taxes and fees,81
-2021,WLD,Taxes and fees,81
-2022,WLD,Taxes and fees,81
-2023,WLD,Taxes and fees,81
-2024,WLD,Taxes and fees,81
-2000,WLD,Tradable permits and offsets,20
-2001,WLD,Tradable permits and offsets,22
-2002,WLD,Tradable permits and offsets,23
-2003,WLD,Tradable permits and offsets,24
-2004,WLD,Tradable permits and offsets,25
-2005,WLD,Tradable permits and offsets,26
-2006,WLD,Tradable permits and offsets,26
-2007,WLD,Tradable permits and offsets,26
-2008,WLD,Tradable permits and offsets,27
-2009,WLD,Tradable permits and offsets,29
-2010,WLD,Tradable permits and offsets,29
-2011,WLD,Tradable permits and offsets,28
-2012,WLD,Tradable permits and offsets,28
-2013,WLD,Tradable permits and offsets,28
-2014,WLD,Tradable permits and offsets,28
-2015,WLD,Tradable permits and offsets,29
-2016,WLD,Tradable permits and offsets,29
-2017,WLD,Tradable permits and offsets,29
-2018,WLD,Tradable permits and offsets,29
-2019,WLD,Tradable permits and offsets,29
-2020,WLD,Tradable permits and offsets,29
-2021,WLD,Tradable permits and offsets,29
-2022,WLD,Tradable permits and offsets,30
-2023,WLD,Tradable permits and offsets,30
-2024,WLD,Tradable permits and offsets,30
+year,geo,value,disagg
+2000,WLD,72,Taxes and fees
+2001,WLD,74,Taxes and fees
+2002,WLD,74,Taxes and fees
+2003,WLD,75,Taxes and fees
+2004,WLD,77,Taxes and fees
+2005,WLD,77,Taxes and fees
+2006,WLD,78,Taxes and fees
+2007,WLD,79,Taxes and fees
+2008,WLD,79,Taxes and fees
+2009,WLD,79,Taxes and fees
+2010,WLD,81,Taxes and fees
+2011,WLD,81,Taxes and fees
+2012,WLD,81,Taxes and fees
+2013,WLD,83,Taxes and fees
+2014,WLD,85,Taxes and fees
+2015,WLD,85,Taxes and fees
+2016,WLD,85,Taxes and fees
+2017,WLD,86,Taxes and fees
+2018,WLD,86,Taxes and fees
+2019,WLD,86,Taxes and fees
+2020,WLD,86,Taxes and fees
+2021,WLD,85,Taxes and fees
+2022,WLD,85,Taxes and fees
+2023,WLD,85,Taxes and fees
+2024,WLD,85,Taxes and fees
+2025,WLD,85,Taxes and fees
+2000,WLD,21,Tradable permits and offsets
+2001,WLD,22,Tradable permits and offsets
+2002,WLD,23,Tradable permits and offsets
+2003,WLD,24,Tradable permits and offsets
+2004,WLD,25,Tradable permits and offsets
+2005,WLD,26,Tradable permits and offsets
+2006,WLD,26,Tradable permits and offsets
+2007,WLD,26,Tradable permits and offsets
+2008,WLD,27,Tradable permits and offsets
+2009,WLD,28,Tradable permits and offsets
+2010,WLD,28,Tradable permits and offsets
+2011,WLD,27,Tradable permits and offsets
+2012,WLD,27,Tradable permits and offsets
+2013,WLD,27,Tradable permits and offsets
+2014,WLD,27,Tradable permits and offsets
+2015,WLD,28,Tradable permits and offsets
+2016,WLD,28,Tradable permits and offsets
+2017,WLD,28,Tradable permits and offsets
+2018,WLD,28,Tradable permits and offsets
+2019,WLD,28,Tradable permits and offsets
+2020,WLD,28,Tradable permits and offsets
+2021,WLD,28,Tradable permits and offsets
+2022,WLD,30,Tradable permits and offsets
+2023,WLD,30,Tradable permits and offsets
+2024,WLD,30,Tradable permits and offsets
+2025,WLD,30,Tradable permits and offsets
+2000,MAR,2,Taxes and fees
+2000,ALB,3,Taxes and fees
+2000,ARG,1,Taxes and fees
+2000,ARM,1,Taxes and fees
+2000,AUS,6,Taxes and fees
+2000,AUT,4,Taxes and fees
+2000,BEL,3,Taxes and fees
+2000,BFA,1,Taxes and fees
+2000,BGR,9,Taxes and fees
+2000,BIH,5,Taxes and fees
+2000,BRN,10,Taxes and fees
+2000,BWA,1,Taxes and fees
+2000,CAN,10,Taxes and fees
+2000,CHL,2,Taxes and fees
+2000,CHN,1,Taxes and fees
+2000,CIV,1,Taxes and fees
+2000,COD,1,Taxes and fees
+2000,COK,2,Taxes and fees
+2000,COL,5,Taxes and fees
+2000,CRI,10,Taxes and fees
+2000,CZE,5,Taxes and fees
+2000,DEU,10,Taxes and fees
+2000,DNK,8,Taxes and fees
+2000,ESP,5,Taxes and fees
+2000,EST,6,Taxes and fees
+2000,FIN,6,Taxes and fees
+2000,FRA,9,Taxes and fees
+2000,GBR,1,Taxes and fees
+2000,GRC,2,Taxes and fees
+2000,HRV,11,Taxes and fees
+2000,HUN,2,Taxes and fees
+2000,IDN,4,Taxes and fees
+2000,IRL,1,Taxes and fees
+2000,ISL,3,Taxes and fees
+2000,ISR,7,Taxes and fees
+2000,JPN,2,Taxes and fees
+2000,KHM,1,Taxes and fees
+2000,KOR,7,Taxes and fees
+2000,LAO,2,Taxes and fees
+2000,LTU,9,Taxes and fees
+2000,LVA,4,Taxes and fees
+2000,MEX,3,Taxes and fees
+2000,MKD,1,Taxes and fees
+2000,MLT,3,Taxes and fees
+2000,MMR,8,Taxes and fees
+2000,MNE,5,Taxes and fees
+2000,MNG,1,Taxes and fees
+2000,MRT,1,Taxes and fees
+2000,MYS,6,Taxes and fees
+2000,NER,1,Taxes and fees
+2000,NLD,3,Taxes and fees
+2000,NOR,2,Taxes and fees
+2000,NZL,3,Taxes and fees
+2000,PAN,1,Taxes and fees
+2000,PHL,6,Taxes and fees
+2000,POL,5,Taxes and fees
+2000,PRT,1,Taxes and fees
+2000,PRY,1,Taxes and fees
+2000,ROU,7,Taxes and fees
+2000,SGP,8,Taxes and fees
+2000,SLB,1,Taxes and fees
+2000,SRB,7,Taxes and fees
+2000,SVK,2,Taxes and fees
+2000,SVN,2,Taxes and fees
+2000,SWE,2,Taxes and fees
+2000,SYC,2,Taxes and fees
+2000,THA,8,Taxes and fees
+2000,TKL,1,Taxes and fees
+2000,TUR,1,Taxes and fees
+2000,UKR,1,Taxes and fees
+2000,USA,15,Taxes and fees
+2000,VNM,1,Taxes and fees
+2001,MAR,2,Taxes and fees
+2001,ALB,3,Taxes and fees
+2001,ARG,1,Taxes and fees
+2001,ARM,1,Taxes and fees
+2001,AUS,6,Taxes and fees
+2001,AUT,4,Taxes and fees
+2001,BEL,3,Taxes and fees
+2001,BFA,1,Taxes and fees
+2001,BGR,9,Taxes and fees
+2001,BIH,5,Taxes and fees
+2001,BRN,10,Taxes and fees
+2001,BWA,1,Taxes and fees
+2001,CAN,10,Taxes and fees
+2001,CHL,2,Taxes and fees
+2001,CHN,1,Taxes and fees
+2001,CIV,1,Taxes and fees
+2001,COD,1,Taxes and fees
+2001,COK,2,Taxes and fees
+2001,COL,5,Taxes and fees
+2001,CRI,10,Taxes and fees
+2001,CYP,1,Taxes and fees
+2001,CZE,5,Taxes and fees
+2001,DEU,10,Taxes and fees
+2001,DNK,8,Taxes and fees
+2001,ESP,6,Taxes and fees
+2001,EST,6,Taxes and fees
+2001,FIN,6,Taxes and fees
+2001,FRA,9,Taxes and fees
+2001,GBR,1,Taxes and fees
+2001,GRC,2,Taxes and fees
+2001,HRV,11,Taxes and fees
+2001,HUN,2,Taxes and fees
+2001,IDN,4,Taxes and fees
+2001,IRL,1,Taxes and fees
+2001,ISL,3,Taxes and fees
+2001,ISR,7,Taxes and fees
+2001,JPN,2,Taxes and fees
+2001,KHM,1,Taxes and fees
+2001,KOR,8,Taxes and fees
+2001,LAO,2,Taxes and fees
+2001,LTU,9,Taxes and fees
+2001,LVA,4,Taxes and fees
+2001,MEX,3,Taxes and fees
+2001,MKD,1,Taxes and fees
+2001,MLT,3,Taxes and fees
+2001,MMR,8,Taxes and fees
+2001,MNE,5,Taxes and fees
+2001,MNG,1,Taxes and fees
+2001,MRT,1,Taxes and fees
+2001,MYS,6,Taxes and fees
+2001,NER,1,Taxes and fees
+2001,NLD,3,Taxes and fees
+2001,NOR,2,Taxes and fees
+2001,NZL,3,Taxes and fees
+2001,PAN,1,Taxes and fees
+2001,PER,1,Taxes and fees
+2001,PHL,6,Taxes and fees
+2001,POL,5,Taxes and fees
+2001,PRT,1,Taxes and fees
+2001,PRY,1,Taxes and fees
+2001,ROU,8,Taxes and fees
+2001,SGP,8,Taxes and fees
+2001,SLB,1,Taxes and fees
+2001,SRB,7,Taxes and fees
+2001,SVK,2,Taxes and fees
+2001,SVN,2,Taxes and fees
+2001,SWE,2,Taxes and fees
+2001,SYC,2,Taxes and fees
+2001,THA,8,Taxes and fees
+2001,TKL,1,Taxes and fees
+2001,TUR,1,Taxes and fees
+2001,UKR,1,Taxes and fees
+2001,USA,15,Taxes and fees
+2001,VNM,1,Taxes and fees
+2002,MAR,2,Taxes and fees
+2002,ALB,3,Taxes and fees
+2002,ARG,1,Taxes and fees
+2002,ARM,1,Taxes and fees
+2002,AUS,6,Taxes and fees
+2002,AUT,4,Taxes and fees
+2002,BEL,3,Taxes and fees
+2002,BFA,1,Taxes and fees
+2002,BGR,9,Taxes and fees
+2002,BIH,6,Taxes and fees
+2002,BRN,11,Taxes and fees
+2002,BWA,1,Taxes and fees
+2002,CAN,10,Taxes and fees
+2002,CHL,2,Taxes and fees
+2002,CHN,1,Taxes and fees
+2002,CIV,1,Taxes and fees
+2002,COD,1,Taxes and fees
+2002,COK,2,Taxes and fees
+2002,COL,6,Taxes and fees
+2002,CRI,10,Taxes and fees
+2002,CYP,1,Taxes and fees
+2002,CZE,6,Taxes and fees
+2002,DEU,10,Taxes and fees
+2002,DNK,9,Taxes and fees
+2002,ESP,6,Taxes and fees
+2002,EST,6,Taxes and fees
+2002,FIN,6,Taxes and fees
+2002,FRA,9,Taxes and fees
+2002,GBR,1,Taxes and fees
+2002,GRC,2,Taxes and fees
+2002,HRV,11,Taxes and fees
+2002,HUN,2,Taxes and fees
+2002,IDN,4,Taxes and fees
+2002,IRL,1,Taxes and fees
+2002,ISL,3,Taxes and fees
+2002,ISR,7,Taxes and fees
+2002,JPN,2,Taxes and fees
+2002,KHM,1,Taxes and fees
+2002,KOR,10,Taxes and fees
+2002,LAO,2,Taxes and fees
+2002,LTU,9,Taxes and fees
+2002,LVA,5,Taxes and fees
+2002,MEX,4,Taxes and fees
+2002,MKD,1,Taxes and fees
+2002,MLT,4,Taxes and fees
+2002,MMR,8,Taxes and fees
+2002,MNE,7,Taxes and fees
+2002,MNG,1,Taxes and fees
+2002,MRT,1,Taxes and fees
+2002,MYS,6,Taxes and fees
+2002,NER,1,Taxes and fees
+2002,NLD,4,Taxes and fees
+2002,NOR,2,Taxes and fees
+2002,NZL,3,Taxes and fees
+2002,PAN,1,Taxes and fees
+2002,PER,1,Taxes and fees
+2002,PHL,6,Taxes and fees
+2002,POL,5,Taxes and fees
+2002,PRT,1,Taxes and fees
+2002,PRY,1,Taxes and fees
+2002,ROU,8,Taxes and fees
+2002,SGP,8,Taxes and fees
+2002,SLB,1,Taxes and fees
+2002,SRB,7,Taxes and fees
+2002,SVK,2,Taxes and fees
+2002,SVN,3,Taxes and fees
+2002,SWE,2,Taxes and fees
+2002,SYC,2,Taxes and fees
+2002,THA,8,Taxes and fees
+2002,TKL,1,Taxes and fees
+2002,TUR,1,Taxes and fees
+2002,UKR,1,Taxes and fees
+2002,USA,15,Taxes and fees
+2002,VNM,1,Taxes and fees
+2003,MAR,2,Taxes and fees
+2003,ALB,3,Taxes and fees
+2003,ARG,1,Taxes and fees
+2003,ARM,1,Taxes and fees
+2003,AUS,6,Taxes and fees
+2003,AUT,4,Taxes and fees
+2003,BEL,3,Taxes and fees
+2003,BFA,1,Taxes and fees
+2003,BGR,10,Taxes and fees
+2003,BIH,6,Taxes and fees
+2003,BRN,11,Taxes and fees
+2003,BWA,1,Taxes and fees
+2003,CAN,10,Taxes and fees
+2003,CHL,2,Taxes and fees
+2003,CHN,1,Taxes and fees
+2003,CIV,1,Taxes and fees
+2003,COD,1,Taxes and fees
+2003,COK,2,Taxes and fees
+2003,COL,6,Taxes and fees
+2003,CRI,11,Taxes and fees
+2003,CYP,1,Taxes and fees
+2003,CZE,6,Taxes and fees
+2003,DEU,10,Taxes and fees
+2003,DNK,9,Taxes and fees
+2003,ESP,7,Taxes and fees
+2003,EST,7,Taxes and fees
+2003,FIN,6,Taxes and fees
+2003,FRA,10,Taxes and fees
+2003,GBR,1,Taxes and fees
+2003,GRC,2,Taxes and fees
+2003,HRV,11,Taxes and fees
+2003,HUN,2,Taxes and fees
+2003,IDN,4,Taxes and fees
+2003,IRL,1,Taxes and fees
+2003,ISL,3,Taxes and fees
+2003,ISR,7,Taxes and fees
+2003,JPN,2,Taxes and fees
+2003,KHM,1,Taxes and fees
+2003,KOR,10,Taxes and fees
+2003,LAO,2,Taxes and fees
+2003,LTU,10,Taxes and fees
+2003,LVA,5,Taxes and fees
+2003,MEX,4,Taxes and fees
+2003,MKD,1,Taxes and fees
+2003,MLT,4,Taxes and fees
+2003,MMR,8,Taxes and fees
+2003,MNE,7,Taxes and fees
+2003,MNG,1,Taxes and fees
+2003,MRT,1,Taxes and fees
+2003,MYS,6,Taxes and fees
+2003,NER,1,Taxes and fees
+2003,NLD,4,Taxes and fees
+2003,NOR,2,Taxes and fees
+2003,NZL,3,Taxes and fees
+2003,PAN,1,Taxes and fees
+2003,PER,1,Taxes and fees
+2003,PHL,11,Taxes and fees
+2003,POL,5,Taxes and fees
+2003,PRT,1,Taxes and fees
+2003,PRY,1,Taxes and fees
+2003,ROU,8,Taxes and fees
+2003,SGP,8,Taxes and fees
+2003,SLB,1,Taxes and fees
+2003,SRB,7,Taxes and fees
+2003,SVK,2,Taxes and fees
+2003,SVN,3,Taxes and fees
+2003,SWE,2,Taxes and fees
+2003,SYC,2,Taxes and fees
+2003,THA,8,Taxes and fees
+2003,TKL,1,Taxes and fees
+2003,TUR,1,Taxes and fees
+2003,UKR,1,Taxes and fees
+2003,USA,15,Taxes and fees
+2003,VNM,1,Taxes and fees
+2003,ZAF,1,Taxes and fees
+2004,MAR,2,Taxes and fees
+2004,ALB,3,Taxes and fees
+2004,ARG,1,Taxes and fees
+2004,ARM,1,Taxes and fees
+2004,AUS,6,Taxes and fees
+2004,AUT,4,Taxes and fees
+2004,BEL,3,Taxes and fees
+2004,BFA,1,Taxes and fees
+2004,BGR,11,Taxes and fees
+2004,BIH,6,Taxes and fees
+2004,BRN,11,Taxes and fees
+2004,BWA,1,Taxes and fees
+2004,CAN,10,Taxes and fees
+2004,CHL,2,Taxes and fees
+2004,CHN,1,Taxes and fees
+2004,CIV,1,Taxes and fees
+2004,COD,1,Taxes and fees
+2004,COK,2,Taxes and fees
+2004,COL,6,Taxes and fees
+2004,CRI,11,Taxes and fees
+2004,CYP,1,Taxes and fees
+2004,CZE,6,Taxes and fees
+2004,DEU,11,Taxes and fees
+2004,DNK,9,Taxes and fees
+2004,ESP,8,Taxes and fees
+2004,EST,7,Taxes and fees
+2004,FIN,6,Taxes and fees
+2004,FRA,10,Taxes and fees
+2004,GBR,1,Taxes and fees
+2004,GNQ,1,Taxes and fees
+2004,GRC,2,Taxes and fees
+2004,HRV,11,Taxes and fees
+2004,HUN,2,Taxes and fees
+2004,IDN,4,Taxes and fees
+2004,IRL,1,Taxes and fees
+2004,ISL,3,Taxes and fees
+2004,ISR,7,Taxes and fees
+2004,JPN,3,Taxes and fees
+2004,KHM,1,Taxes and fees
+2004,KOR,10,Taxes and fees
+2004,LAO,2,Taxes and fees
+2004,LTU,10,Taxes and fees
+2004,LVA,6,Taxes and fees
+2004,MEX,4,Taxes and fees
+2004,MHL,1,Taxes and fees
+2004,MKD,1,Taxes and fees
+2004,MLT,4,Taxes and fees
+2004,MMR,8,Taxes and fees
+2004,MNE,7,Taxes and fees
+2004,MNG,1,Taxes and fees
+2004,MRT,1,Taxes and fees
+2004,MYS,6,Taxes and fees
+2004,NER,1,Taxes and fees
+2004,NLD,4,Taxes and fees
+2004,NOR,2,Taxes and fees
+2004,NZL,3,Taxes and fees
+2004,PAN,1,Taxes and fees
+2004,PER,1,Taxes and fees
+2004,PHL,12,Taxes and fees
+2004,POL,5,Taxes and fees
+2004,PRT,1,Taxes and fees
+2004,PRY,1,Taxes and fees
+2004,ROU,8,Taxes and fees
+2004,SGP,8,Taxes and fees
+2004,SLB,1,Taxes and fees
+2004,SRB,7,Taxes and fees
+2004,SVK,3,Taxes and fees
+2004,SVN,3,Taxes and fees
+2004,SWE,2,Taxes and fees
+2004,SYC,2,Taxes and fees
+2004,THA,8,Taxes and fees
+2004,TKL,1,Taxes and fees
+2004,TUR,1,Taxes and fees
+2004,UKR,1,Taxes and fees
+2004,USA,17,Taxes and fees
+2004,VNM,1,Taxes and fees
+2004,ZAF,1,Taxes and fees
+2005,MAR,2,Taxes and fees
+2005,ALB,3,Taxes and fees
+2005,ARG,1,Taxes and fees
+2005,ARM,1,Taxes and fees
+2005,AUS,6,Taxes and fees
+2005,AUT,4,Taxes and fees
+2005,BEL,3,Taxes and fees
+2005,BFA,1,Taxes and fees
+2005,BGR,12,Taxes and fees
+2005,BIH,6,Taxes and fees
+2005,BRN,11,Taxes and fees
+2005,BWA,1,Taxes and fees
+2005,CAN,10,Taxes and fees
+2005,CHL,2,Taxes and fees
+2005,CHN,1,Taxes and fees
+2005,CIV,1,Taxes and fees
+2005,COD,1,Taxes and fees
+2005,COK,2,Taxes and fees
+2005,COL,6,Taxes and fees
+2005,CRI,13,Taxes and fees
+2005,CYP,1,Taxes and fees
+2005,CZE,6,Taxes and fees
+2005,DEU,12,Taxes and fees
+2005,DNK,9,Taxes and fees
+2005,ESP,8,Taxes and fees
+2005,EST,7,Taxes and fees
+2005,FIN,6,Taxes and fees
+2005,FRA,11,Taxes and fees
+2005,GBR,1,Taxes and fees
+2005,GNQ,1,Taxes and fees
+2005,GRC,2,Taxes and fees
+2005,HRV,11,Taxes and fees
+2005,HUN,2,Taxes and fees
+2005,IDN,4,Taxes and fees
+2005,IRL,1,Taxes and fees
+2005,ISL,3,Taxes and fees
+2005,ISR,7,Taxes and fees
+2005,JPN,3,Taxes and fees
+2005,KHM,1,Taxes and fees
+2005,KOR,10,Taxes and fees
+2005,LAO,2,Taxes and fees
+2005,LTU,10,Taxes and fees
+2005,LVA,6,Taxes and fees
+2005,MEX,4,Taxes and fees
+2005,MHL,1,Taxes and fees
+2005,MKD,2,Taxes and fees
+2005,MLT,5,Taxes and fees
+2005,MMR,8,Taxes and fees
+2005,MNE,7,Taxes and fees
+2005,MNG,1,Taxes and fees
+2005,MRT,1,Taxes and fees
+2005,MYS,6,Taxes and fees
+2005,NER,1,Taxes and fees
+2005,NLD,4,Taxes and fees
+2005,NOR,2,Taxes and fees
+2005,NZL,3,Taxes and fees
+2005,PAN,1,Taxes and fees
+2005,PER,1,Taxes and fees
+2005,PHL,12,Taxes and fees
+2005,POL,6,Taxes and fees
+2005,PRT,1,Taxes and fees
+2005,PRY,1,Taxes and fees
+2005,ROU,9,Taxes and fees
+2005,SGP,8,Taxes and fees
+2005,SLB,1,Taxes and fees
+2005,SRB,7,Taxes and fees
+2005,SVK,3,Taxes and fees
+2005,SVN,3,Taxes and fees
+2005,SWE,2,Taxes and fees
+2005,SYC,3,Taxes and fees
+2005,THA,8,Taxes and fees
+2005,TKL,1,Taxes and fees
+2005,TUR,1,Taxes and fees
+2005,UKR,1,Taxes and fees
+2005,USA,20,Taxes and fees
+2005,VNM,2,Taxes and fees
+2005,ZAF,1,Taxes and fees
+2006,MAR,2,Taxes and fees
+2006,ALB,3,Taxes and fees
+2006,ARG,1,Taxes and fees
+2006,ARM,1,Taxes and fees
+2006,AUS,6,Taxes and fees
+2006,AUT,4,Taxes and fees
+2006,BEL,3,Taxes and fees
+2006,BFA,1,Taxes and fees
+2006,BGR,13,Taxes and fees
+2006,BIH,6,Taxes and fees
+2006,BRN,11,Taxes and fees
+2006,BWA,1,Taxes and fees
+2006,CAN,10,Taxes and fees
+2006,CHL,2,Taxes and fees
+2006,CHN,1,Taxes and fees
+2006,CIV,1,Taxes and fees
+2006,COD,1,Taxes and fees
+2006,COK,2,Taxes and fees
+2006,COL,6,Taxes and fees
+2006,CRI,13,Taxes and fees
+2006,CYP,1,Taxes and fees
+2006,CZE,6,Taxes and fees
+2006,DEU,12,Taxes and fees
+2006,DNK,9,Taxes and fees
+2006,ESP,8,Taxes and fees
+2006,EST,7,Taxes and fees
+2006,FIN,6,Taxes and fees
+2006,FRA,11,Taxes and fees
+2006,GBR,1,Taxes and fees
+2006,GNQ,1,Taxes and fees
+2006,GRC,2,Taxes and fees
+2006,HRV,12,Taxes and fees
+2006,HUN,2,Taxes and fees
+2006,IDN,4,Taxes and fees
+2006,IRL,1,Taxes and fees
+2006,ISL,4,Taxes and fees
+2006,ISR,7,Taxes and fees
+2006,JPN,3,Taxes and fees
+2006,KHM,4,Taxes and fees
+2006,KOR,10,Taxes and fees
+2006,LAO,2,Taxes and fees
+2006,LTU,10,Taxes and fees
+2006,LVA,6,Taxes and fees
+2006,MEX,4,Taxes and fees
+2006,MHL,1,Taxes and fees
+2006,MKD,2,Taxes and fees
+2006,MLT,5,Taxes and fees
+2006,MMR,9,Taxes and fees
+2006,MNE,7,Taxes and fees
+2006,MNG,1,Taxes and fees
+2006,MOZ,3,Taxes and fees
+2006,MRT,1,Taxes and fees
+2006,MYS,6,Taxes and fees
+2006,NER,1,Taxes and fees
+2006,NLD,4,Taxes and fees
+2006,NOR,2,Taxes and fees
+2006,NZL,3,Taxes and fees
+2006,PAN,1,Taxes and fees
+2006,PER,1,Taxes and fees
+2006,PHL,12,Taxes and fees
+2006,POL,6,Taxes and fees
+2006,PRT,1,Taxes and fees
+2006,PRY,1,Taxes and fees
+2006,ROU,9,Taxes and fees
+2006,SGP,9,Taxes and fees
+2006,SLB,1,Taxes and fees
+2006,SRB,7,Taxes and fees
+2006,SVK,3,Taxes and fees
+2006,SVN,4,Taxes and fees
+2006,SWE,2,Taxes and fees
+2006,SYC,3,Taxes and fees
+2006,THA,8,Taxes and fees
+2006,TKL,1,Taxes and fees
+2006,TUR,1,Taxes and fees
+2006,UKR,1,Taxes and fees
+2006,USA,21,Taxes and fees
+2006,VNM,2,Taxes and fees
+2006,ZAF,1,Taxes and fees
+2007,MAR,2,Taxes and fees
+2007,ALB,3,Taxes and fees
+2007,ARG,1,Taxes and fees
+2007,ARM,1,Taxes and fees
+2007,AUS,6,Taxes and fees
+2007,AUT,4,Taxes and fees
+2007,BEL,3,Taxes and fees
+2007,BFA,1,Taxes and fees
+2007,BGR,13,Taxes and fees
+2007,BIH,6,Taxes and fees
+2007,BRN,13,Taxes and fees
+2007,BWA,1,Taxes and fees
+2007,CAN,10,Taxes and fees
+2007,CHL,2,Taxes and fees
+2007,CHN,1,Taxes and fees
+2007,CIV,1,Taxes and fees
+2007,COD,1,Taxes and fees
+2007,COK,2,Taxes and fees
+2007,COL,6,Taxes and fees
+2007,CRI,13,Taxes and fees
+2007,CYP,1,Taxes and fees
+2007,CZE,6,Taxes and fees
+2007,DEU,12,Taxes and fees
+2007,DNK,9,Taxes and fees
+2007,ESP,11,Taxes and fees
+2007,EST,8,Taxes and fees
+2007,FIN,6,Taxes and fees
+2007,FRA,11,Taxes and fees
+2007,GBR,1,Taxes and fees
+2007,GNQ,1,Taxes and fees
+2007,GRC,2,Taxes and fees
+2007,HRV,12,Taxes and fees
+2007,HUN,2,Taxes and fees
+2007,IDN,4,Taxes and fees
+2007,IRL,1,Taxes and fees
+2007,ISL,4,Taxes and fees
+2007,ISR,7,Taxes and fees
+2007,JPN,3,Taxes and fees
+2007,KHM,4,Taxes and fees
+2007,KOR,11,Taxes and fees
+2007,LAO,2,Taxes and fees
+2007,LTU,10,Taxes and fees
+2007,LVA,7,Taxes and fees
+2007,MEX,4,Taxes and fees
+2007,MHL,1,Taxes and fees
+2007,MKD,2,Taxes and fees
+2007,MLT,5,Taxes and fees
+2007,MMR,9,Taxes and fees
+2007,MNE,7,Taxes and fees
+2007,MNG,1,Taxes and fees
+2007,MOZ,3,Taxes and fees
+2007,MRT,1,Taxes and fees
+2007,MUS,1,Taxes and fees
+2007,MYS,6,Taxes and fees
+2007,NER,1,Taxes and fees
+2007,NLD,4,Taxes and fees
+2007,NOR,4,Taxes and fees
+2007,NZL,3,Taxes and fees
+2007,PAN,1,Taxes and fees
+2007,PER,1,Taxes and fees
+2007,PHL,12,Taxes and fees
+2007,POL,6,Taxes and fees
+2007,PRT,1,Taxes and fees
+2007,PRY,1,Taxes and fees
+2007,ROU,9,Taxes and fees
+2007,SGP,9,Taxes and fees
+2007,SLB,1,Taxes and fees
+2007,SRB,7,Taxes and fees
+2007,SVK,3,Taxes and fees
+2007,SVN,4,Taxes and fees
+2007,SWE,2,Taxes and fees
+2007,SYC,3,Taxes and fees
+2007,THA,8,Taxes and fees
+2007,TKL,1,Taxes and fees
+2007,TUR,1,Taxes and fees
+2007,UKR,1,Taxes and fees
+2007,USA,21,Taxes and fees
+2007,VNM,2,Taxes and fees
+2007,ZAF,1,Taxes and fees
+2008,MAR,2,Taxes and fees
+2008,ALB,3,Taxes and fees
+2008,ARG,1,Taxes and fees
+2008,ARM,1,Taxes and fees
+2008,AUS,6,Taxes and fees
+2008,AUT,4,Taxes and fees
+2008,BEL,3,Taxes and fees
+2008,BFA,1,Taxes and fees
+2008,BGR,13,Taxes and fees
+2008,BIH,6,Taxes and fees
+2008,BRN,13,Taxes and fees
+2008,BWA,1,Taxes and fees
+2008,CAN,10,Taxes and fees
+2008,CHL,2,Taxes and fees
+2008,CHN,1,Taxes and fees
+2008,CIV,1,Taxes and fees
+2008,COD,1,Taxes and fees
+2008,COK,2,Taxes and fees
+2008,COL,6,Taxes and fees
+2008,CRI,13,Taxes and fees
+2008,CYP,1,Taxes and fees
+2008,CZE,6,Taxes and fees
+2008,DEU,13,Taxes and fees
+2008,DNK,9,Taxes and fees
+2008,ESP,11,Taxes and fees
+2008,EST,8,Taxes and fees
+2008,FIN,6,Taxes and fees
+2008,FRA,12,Taxes and fees
+2008,GBR,1,Taxes and fees
+2008,GNQ,1,Taxes and fees
+2008,GRC,2,Taxes and fees
+2008,HRV,12,Taxes and fees
+2008,HUN,2,Taxes and fees
+2008,IDN,4,Taxes and fees
+2008,IRL,1,Taxes and fees
+2008,ISL,4,Taxes and fees
+2008,ISR,7,Taxes and fees
+2008,JPN,3,Taxes and fees
+2008,KHM,5,Taxes and fees
+2008,KOR,11,Taxes and fees
+2008,LAO,2,Taxes and fees
+2008,LTU,10,Taxes and fees
+2008,LVA,7,Taxes and fees
+2008,MEX,4,Taxes and fees
+2008,MHL,1,Taxes and fees
+2008,MKD,2,Taxes and fees
+2008,MLT,5,Taxes and fees
+2008,MMR,9,Taxes and fees
+2008,MNE,7,Taxes and fees
+2008,MNG,1,Taxes and fees
+2008,MOZ,3,Taxes and fees
+2008,MRT,1,Taxes and fees
+2008,MUS,1,Taxes and fees
+2008,MYS,6,Taxes and fees
+2008,NER,1,Taxes and fees
+2008,NLD,4,Taxes and fees
+2008,NOR,4,Taxes and fees
+2008,NZL,3,Taxes and fees
+2008,PAN,1,Taxes and fees
+2008,PER,1,Taxes and fees
+2008,PHL,12,Taxes and fees
+2008,POL,6,Taxes and fees
+2008,PRT,1,Taxes and fees
+2008,PRY,1,Taxes and fees
+2008,ROU,9,Taxes and fees
+2008,SGP,9,Taxes and fees
+2008,SLB,1,Taxes and fees
+2008,SRB,7,Taxes and fees
+2008,SVK,3,Taxes and fees
+2008,SVN,4,Taxes and fees
+2008,SWE,2,Taxes and fees
+2008,SYC,3,Taxes and fees
+2008,THA,8,Taxes and fees
+2008,TKL,1,Taxes and fees
+2008,TUR,1,Taxes and fees
+2008,UKR,1,Taxes and fees
+2008,USA,21,Taxes and fees
+2008,VNM,2,Taxes and fees
+2008,ZAF,1,Taxes and fees
+2009,MAR,2,Taxes and fees
+2009,ALB,3,Taxes and fees
+2009,ARG,1,Taxes and fees
+2009,ARM,1,Taxes and fees
+2009,AUS,6,Taxes and fees
+2009,AUT,4,Taxes and fees
+2009,BEL,3,Taxes and fees
+2009,BFA,1,Taxes and fees
+2009,BGR,13,Taxes and fees
+2009,BIH,6,Taxes and fees
+2009,BRN,13,Taxes and fees
+2009,BWA,1,Taxes and fees
+2009,CAN,10,Taxes and fees
+2009,CHL,3,Taxes and fees
+2009,CHN,1,Taxes and fees
+2009,CIV,2,Taxes and fees
+2009,COD,1,Taxes and fees
+2009,COK,2,Taxes and fees
+2009,COL,6,Taxes and fees
+2009,CRI,13,Taxes and fees
+2009,CYP,1,Taxes and fees
+2009,CZE,6,Taxes and fees
+2009,DEU,13,Taxes and fees
+2009,DNK,9,Taxes and fees
+2009,ESP,13,Taxes and fees
+2009,EST,8,Taxes and fees
+2009,FIN,6,Taxes and fees
+2009,FRA,12,Taxes and fees
+2009,GBR,1,Taxes and fees
+2009,GNQ,1,Taxes and fees
+2009,GRC,2,Taxes and fees
+2009,HRV,12,Taxes and fees
+2009,HUN,2,Taxes and fees
+2009,IDN,5,Taxes and fees
+2009,IRL,1,Taxes and fees
+2009,ISL,4,Taxes and fees
+2009,ISR,8,Taxes and fees
+2009,JPN,3,Taxes and fees
+2009,KHM,5,Taxes and fees
+2009,KOR,11,Taxes and fees
+2009,LAO,3,Taxes and fees
+2009,LTU,10,Taxes and fees
+2009,LVA,7,Taxes and fees
+2009,MEX,4,Taxes and fees
+2009,MHL,1,Taxes and fees
+2009,MKD,2,Taxes and fees
+2009,MLT,5,Taxes and fees
+2009,MMR,9,Taxes and fees
+2009,MNE,7,Taxes and fees
+2009,MNG,1,Taxes and fees
+2009,MOZ,3,Taxes and fees
+2009,MRT,1,Taxes and fees
+2009,MUS,1,Taxes and fees
+2009,MYS,6,Taxes and fees
+2009,NER,1,Taxes and fees
+2009,NLD,4,Taxes and fees
+2009,NOR,5,Taxes and fees
+2009,NZL,3,Taxes and fees
+2009,PAN,1,Taxes and fees
+2009,PER,1,Taxes and fees
+2009,PHL,12,Taxes and fees
+2009,POL,6,Taxes and fees
+2009,PRT,2,Taxes and fees
+2009,PRY,1,Taxes and fees
+2009,ROU,9,Taxes and fees
+2009,SGP,9,Taxes and fees
+2009,SLB,1,Taxes and fees
+2009,SRB,7,Taxes and fees
+2009,SVK,3,Taxes and fees
+2009,SVN,4,Taxes and fees
+2009,SWE,2,Taxes and fees
+2009,SYC,3,Taxes and fees
+2009,THA,8,Taxes and fees
+2009,TKL,1,Taxes and fees
+2009,TUR,1,Taxes and fees
+2009,UKR,1,Taxes and fees
+2009,USA,21,Taxes and fees
+2009,VNM,2,Taxes and fees
+2009,ZAF,1,Taxes and fees
+2010,MAR,2,Taxes and fees
+2010,ALB,3,Taxes and fees
+2010,ARG,1,Taxes and fees
+2010,ARM,1,Taxes and fees
+2010,AUS,6,Taxes and fees
+2010,AUT,4,Taxes and fees
+2010,BEL,3,Taxes and fees
+2010,BFA,1,Taxes and fees
+2010,BGR,13,Taxes and fees
+2010,BIH,6,Taxes and fees
+2010,BRN,13,Taxes and fees
+2010,BWA,1,Taxes and fees
+2010,CAN,10,Taxes and fees
+2010,CHL,3,Taxes and fees
+2010,CHN,1,Taxes and fees
+2010,CIV,2,Taxes and fees
+2010,COD,1,Taxes and fees
+2010,COK,2,Taxes and fees
+2010,COL,6,Taxes and fees
+2010,CRI,13,Taxes and fees
+2010,CYP,1,Taxes and fees
+2010,CZE,6,Taxes and fees
+2010,DEU,13,Taxes and fees
+2010,DNK,9,Taxes and fees
+2010,ESP,14,Taxes and fees
+2010,EST,8,Taxes and fees
+2010,FIN,6,Taxes and fees
+2010,FRA,12,Taxes and fees
+2010,GBR,1,Taxes and fees
+2010,GNQ,1,Taxes and fees
+2010,GRC,2,Taxes and fees
+2010,HRV,12,Taxes and fees
+2010,HUN,2,Taxes and fees
+2010,IDN,5,Taxes and fees
+2010,IRL,1,Taxes and fees
+2010,ISL,4,Taxes and fees
+2010,ISR,8,Taxes and fees
+2010,JPN,3,Taxes and fees
+2010,KEN,1,Taxes and fees
+2010,KHM,5,Taxes and fees
+2010,KOR,11,Taxes and fees
+2010,LAO,5,Taxes and fees
+2010,LTU,10,Taxes and fees
+2010,LUX,1,Taxes and fees
+2010,LVA,7,Taxes and fees
+2010,MEX,4,Taxes and fees
+2010,MHL,1,Taxes and fees
+2010,MKD,2,Taxes and fees
+2010,MLT,5,Taxes and fees
+2010,MMR,9,Taxes and fees
+2010,MNE,7,Taxes and fees
+2010,MNG,1,Taxes and fees
+2010,MOZ,3,Taxes and fees
+2010,MRT,1,Taxes and fees
+2010,MUS,1,Taxes and fees
+2010,MYS,7,Taxes and fees
+2010,NER,1,Taxes and fees
+2010,NLD,4,Taxes and fees
+2010,NOR,5,Taxes and fees
+2010,NZL,3,Taxes and fees
+2010,PAN,1,Taxes and fees
+2010,PER,1,Taxes and fees
+2010,PHL,12,Taxes and fees
+2010,POL,6,Taxes and fees
+2010,PRT,2,Taxes and fees
+2010,PRY,1,Taxes and fees
+2010,ROU,9,Taxes and fees
+2010,SGP,9,Taxes and fees
+2010,SLB,1,Taxes and fees
+2010,SRB,7,Taxes and fees
+2010,SVK,3,Taxes and fees
+2010,SVN,4,Taxes and fees
+2010,SWE,2,Taxes and fees
+2010,SYC,3,Taxes and fees
+2010,THA,8,Taxes and fees
+2010,TKL,1,Taxes and fees
+2010,TUR,1,Taxes and fees
+2010,UKR,1,Taxes and fees
+2010,USA,21,Taxes and fees
+2010,VNM,2,Taxes and fees
+2010,ZAF,1,Taxes and fees
+2011,MAR,2,Taxes and fees
+2011,ALB,3,Taxes and fees
+2011,ARG,1,Taxes and fees
+2011,ARM,1,Taxes and fees
+2011,AUS,7,Taxes and fees
+2011,AUT,4,Taxes and fees
+2011,BEL,3,Taxes and fees
+2011,BFA,1,Taxes and fees
+2011,BGR,13,Taxes and fees
+2011,BIH,6,Taxes and fees
+2011,BRN,13,Taxes and fees
+2011,BWA,1,Taxes and fees
+2011,CAN,10,Taxes and fees
+2011,CHL,3,Taxes and fees
+2011,CHN,1,Taxes and fees
+2011,CIV,2,Taxes and fees
+2011,COD,1,Taxes and fees
+2011,COK,2,Taxes and fees
+2011,COL,6,Taxes and fees
+2011,CRI,13,Taxes and fees
+2011,CYP,1,Taxes and fees
+2011,CZE,6,Taxes and fees
+2011,DEU,13,Taxes and fees
+2011,DNK,9,Taxes and fees
+2011,ESP,15,Taxes and fees
+2011,EST,8,Taxes and fees
+2011,FIN,6,Taxes and fees
+2011,FRA,12,Taxes and fees
+2011,GBR,1,Taxes and fees
+2011,GNQ,1,Taxes and fees
+2011,GRC,2,Taxes and fees
+2011,HRV,12,Taxes and fees
+2011,HUN,2,Taxes and fees
+2011,IDN,5,Taxes and fees
+2011,IRL,1,Taxes and fees
+2011,ISL,4,Taxes and fees
+2011,ISR,8,Taxes and fees
+2011,JPN,3,Taxes and fees
+2011,KEN,1,Taxes and fees
+2011,KHM,5,Taxes and fees
+2011,KOR,14,Taxes and fees
+2011,LAO,5,Taxes and fees
+2011,LTU,10,Taxes and fees
+2011,LUX,1,Taxes and fees
+2011,LVA,7,Taxes and fees
+2011,MEX,4,Taxes and fees
+2011,MHL,1,Taxes and fees
+2011,MKD,2,Taxes and fees
+2011,MLT,5,Taxes and fees
+2011,MMR,9,Taxes and fees
+2011,MNE,7,Taxes and fees
+2011,MNG,1,Taxes and fees
+2011,MOZ,3,Taxes and fees
+2011,MRT,1,Taxes and fees
+2011,MUS,1,Taxes and fees
+2011,MYS,7,Taxes and fees
+2011,NER,1,Taxes and fees
+2011,NLD,4,Taxes and fees
+2011,NOR,5,Taxes and fees
+2011,NZL,3,Taxes and fees
+2011,PAN,1,Taxes and fees
+2011,PER,1,Taxes and fees
+2011,PHL,12,Taxes and fees
+2011,POL,6,Taxes and fees
+2011,PRT,2,Taxes and fees
+2011,PRY,1,Taxes and fees
+2011,ROU,9,Taxes and fees
+2011,SGP,9,Taxes and fees
+2011,SLB,1,Taxes and fees
+2011,SRB,9,Taxes and fees
+2011,SVK,3,Taxes and fees
+2011,SVN,4,Taxes and fees
+2011,SWE,2,Taxes and fees
+2011,SYC,3,Taxes and fees
+2011,THA,8,Taxes and fees
+2011,TKL,1,Taxes and fees
+2011,TUR,1,Taxes and fees
+2011,UKR,1,Taxes and fees
+2011,USA,21,Taxes and fees
+2011,VNM,2,Taxes and fees
+2011,ZAF,1,Taxes and fees
+2012,MAR,2,Taxes and fees
+2012,ALB,3,Taxes and fees
+2012,ARG,1,Taxes and fees
+2012,ARM,1,Taxes and fees
+2012,AUS,7,Taxes and fees
+2012,AUT,4,Taxes and fees
+2012,BEL,3,Taxes and fees
+2012,BFA,1,Taxes and fees
+2012,BGR,13,Taxes and fees
+2012,BIH,6,Taxes and fees
+2012,BRN,13,Taxes and fees
+2012,BWA,1,Taxes and fees
+2012,CAN,10,Taxes and fees
+2012,CHL,3,Taxes and fees
+2012,CHN,1,Taxes and fees
+2012,CIV,2,Taxes and fees
+2012,COD,1,Taxes and fees
+2012,COK,2,Taxes and fees
+2012,COL,6,Taxes and fees
+2012,CRI,13,Taxes and fees
+2012,CYP,3,Taxes and fees
+2012,CZE,6,Taxes and fees
+2012,DEU,13,Taxes and fees
+2012,DNK,9,Taxes and fees
+2012,ESP,15,Taxes and fees
+2012,EST,8,Taxes and fees
+2012,FIN,6,Taxes and fees
+2012,FRA,13,Taxes and fees
+2012,GBR,1,Taxes and fees
+2012,GNQ,1,Taxes and fees
+2012,GRC,2,Taxes and fees
+2012,HRV,12,Taxes and fees
+2012,HUN,2,Taxes and fees
+2012,IDN,5,Taxes and fees
+2012,IRL,1,Taxes and fees
+2012,ISL,5,Taxes and fees
+2012,ISR,8,Taxes and fees
+2012,JPN,3,Taxes and fees
+2012,KEN,1,Taxes and fees
+2012,KHM,5,Taxes and fees
+2012,KOR,14,Taxes and fees
+2012,LAO,5,Taxes and fees
+2012,LTU,10,Taxes and fees
+2012,LUX,1,Taxes and fees
+2012,LVA,7,Taxes and fees
+2012,MEX,4,Taxes and fees
+2012,MHL,1,Taxes and fees
+2012,MKD,2,Taxes and fees
+2012,MLT,5,Taxes and fees
+2012,MMR,9,Taxes and fees
+2012,MNE,7,Taxes and fees
+2012,MNG,1,Taxes and fees
+2012,MOZ,3,Taxes and fees
+2012,MRT,1,Taxes and fees
+2012,MUS,1,Taxes and fees
+2012,MYS,7,Taxes and fees
+2012,NER,1,Taxes and fees
+2012,NLD,4,Taxes and fees
+2012,NOR,5,Taxes and fees
+2012,NZL,3,Taxes and fees
+2012,PAN,1,Taxes and fees
+2012,PER,1,Taxes and fees
+2012,PHL,12,Taxes and fees
+2012,POL,6,Taxes and fees
+2012,PRT,2,Taxes and fees
+2012,PRY,1,Taxes and fees
+2012,ROU,9,Taxes and fees
+2012,SGP,9,Taxes and fees
+2012,SLB,1,Taxes and fees
+2012,SRB,9,Taxes and fees
+2012,SVK,3,Taxes and fees
+2012,SVN,4,Taxes and fees
+2012,SWE,2,Taxes and fees
+2012,SYC,3,Taxes and fees
+2012,THA,8,Taxes and fees
+2012,TKL,1,Taxes and fees
+2012,TUR,1,Taxes and fees
+2012,UKR,1,Taxes and fees
+2012,USA,21,Taxes and fees
+2012,VNM,2,Taxes and fees
+2012,ZAF,1,Taxes and fees
+2013,MAR,2,Taxes and fees
+2013,ALB,3,Taxes and fees
+2013,ARG,1,Taxes and fees
+2013,ARM,1,Taxes and fees
+2013,AUS,7,Taxes and fees
+2013,AUT,4,Taxes and fees
+2013,BEL,3,Taxes and fees
+2013,BFA,1,Taxes and fees
+2013,BGR,13,Taxes and fees
+2013,BIH,6,Taxes and fees
+2013,BRN,13,Taxes and fees
+2013,BWA,1,Taxes and fees
+2013,CAN,10,Taxes and fees
+2013,CHL,3,Taxes and fees
+2013,CHN,3,Taxes and fees
+2013,CIV,2,Taxes and fees
+2013,COD,1,Taxes and fees
+2013,COK,2,Taxes and fees
+2013,COL,6,Taxes and fees
+2013,CRI,13,Taxes and fees
+2013,CYP,3,Taxes and fees
+2013,CZE,6,Taxes and fees
+2013,DEU,13,Taxes and fees
+2013,DNK,9,Taxes and fees
+2013,ESP,17,Taxes and fees
+2013,EST,8,Taxes and fees
+2013,FIN,6,Taxes and fees
+2013,FRA,13,Taxes and fees
+2013,GBR,1,Taxes and fees
+2013,GNQ,1,Taxes and fees
+2013,GRC,2,Taxes and fees
+2013,HRV,12,Taxes and fees
+2013,HUN,2,Taxes and fees
+2013,IDN,5,Taxes and fees
+2013,IRL,1,Taxes and fees
+2013,ISL,5,Taxes and fees
+2013,ISR,8,Taxes and fees
+2013,JPN,3,Taxes and fees
+2013,KEN,1,Taxes and fees
+2013,KHM,5,Taxes and fees
+2013,KOR,14,Taxes and fees
+2013,LAO,5,Taxes and fees
+2013,LTU,10,Taxes and fees
+2013,LUX,1,Taxes and fees
+2013,LVA,7,Taxes and fees
+2013,MEX,4,Taxes and fees
+2013,MHL,1,Taxes and fees
+2013,MKD,2,Taxes and fees
+2013,MLT,5,Taxes and fees
+2013,MMR,9,Taxes and fees
+2013,MNE,7,Taxes and fees
+2013,MNG,1,Taxes and fees
+2013,MOZ,3,Taxes and fees
+2013,MRT,1,Taxes and fees
+2013,MUS,1,Taxes and fees
+2013,MYS,7,Taxes and fees
+2013,NER,1,Taxes and fees
+2013,NLD,4,Taxes and fees
+2013,NOR,5,Taxes and fees
+2013,NZL,3,Taxes and fees
+2013,PAN,1,Taxes and fees
+2013,PER,1,Taxes and fees
+2013,PHL,12,Taxes and fees
+2013,POL,6,Taxes and fees
+2013,PRT,2,Taxes and fees
+2013,PRY,1,Taxes and fees
+2013,ROU,9,Taxes and fees
+2013,SGP,9,Taxes and fees
+2013,SLB,1,Taxes and fees
+2013,SOM,2,Taxes and fees
+2013,SRB,9,Taxes and fees
+2013,SVK,3,Taxes and fees
+2013,SVN,4,Taxes and fees
+2013,SWE,2,Taxes and fees
+2013,SYC,3,Taxes and fees
+2013,THA,8,Taxes and fees
+2013,TKL,1,Taxes and fees
+2013,TUR,1,Taxes and fees
+2013,UKR,1,Taxes and fees
+2013,USA,21,Taxes and fees
+2013,VNM,2,Taxes and fees
+2013,ZAF,2,Taxes and fees
+2014,MAR,2,Taxes and fees
+2014,ALB,3,Taxes and fees
+2014,ARG,1,Taxes and fees
+2014,ARM,1,Taxes and fees
+2014,AUS,7,Taxes and fees
+2014,AUT,4,Taxes and fees
+2014,BEL,3,Taxes and fees
+2014,BFA,1,Taxes and fees
+2014,BGR,13,Taxes and fees
+2014,BIH,6,Taxes and fees
+2014,BRA,1,Taxes and fees
+2014,BRN,13,Taxes and fees
+2014,BWA,1,Taxes and fees
+2014,CAN,10,Taxes and fees
+2014,CHL,4,Taxes and fees
+2014,CHN,3,Taxes and fees
+2014,CIV,2,Taxes and fees
+2014,COD,1,Taxes and fees
+2014,COK,2,Taxes and fees
+2014,COL,6,Taxes and fees
+2014,CRI,13,Taxes and fees
+2014,CYP,3,Taxes and fees
+2014,CZE,6,Taxes and fees
+2014,DEU,13,Taxes and fees
+2014,DNK,9,Taxes and fees
+2014,ESP,18,Taxes and fees
+2014,EST,8,Taxes and fees
+2014,FIN,6,Taxes and fees
+2014,FRA,16,Taxes and fees
+2014,GBR,1,Taxes and fees
+2014,GNQ,1,Taxes and fees
+2014,GRC,2,Taxes and fees
+2014,HRV,12,Taxes and fees
+2014,HUN,2,Taxes and fees
+2014,IDN,5,Taxes and fees
+2014,IRL,1,Taxes and fees
+2014,ISL,5,Taxes and fees
+2014,ISR,8,Taxes and fees
+2014,JPN,3,Taxes and fees
+2014,KEN,1,Taxes and fees
+2014,KHM,5,Taxes and fees
+2014,KOR,14,Taxes and fees
+2014,LAO,5,Taxes and fees
+2014,LTU,10,Taxes and fees
+2014,LUX,1,Taxes and fees
+2014,LVA,8,Taxes and fees
+2014,MEX,5,Taxes and fees
+2014,MHL,1,Taxes and fees
+2014,MKD,2,Taxes and fees
+2014,MLT,5,Taxes and fees
+2014,MMR,9,Taxes and fees
+2014,MNE,7,Taxes and fees
+2014,MNG,1,Taxes and fees
+2014,MOZ,3,Taxes and fees
+2014,MRT,1,Taxes and fees
+2014,MUS,1,Taxes and fees
+2014,MYS,7,Taxes and fees
+2014,NER,1,Taxes and fees
+2014,NLD,4,Taxes and fees
+2014,NOR,5,Taxes and fees
+2014,NZL,3,Taxes and fees
+2014,PAN,1,Taxes and fees
+2014,PER,1,Taxes and fees
+2014,PHL,12,Taxes and fees
+2014,POL,6,Taxes and fees
+2014,PRT,2,Taxes and fees
+2014,PRY,1,Taxes and fees
+2014,ROU,9,Taxes and fees
+2014,RUS,1,Taxes and fees
+2014,SGP,9,Taxes and fees
+2014,SLB,1,Taxes and fees
+2014,SOM,2,Taxes and fees
+2014,SRB,9,Taxes and fees
+2014,SVK,3,Taxes and fees
+2014,SVN,4,Taxes and fees
+2014,SWE,2,Taxes and fees
+2014,SYC,3,Taxes and fees
+2014,THA,8,Taxes and fees
+2014,TKL,1,Taxes and fees
+2014,TUR,2,Taxes and fees
+2014,UKR,1,Taxes and fees
+2014,USA,21,Taxes and fees
+2014,VNM,2,Taxes and fees
+2014,ZAF,2,Taxes and fees
+2015,MAR,2,Taxes and fees
+2015,ALB,3,Taxes and fees
+2015,ARG,1,Taxes and fees
+2015,ARM,1,Taxes and fees
+2015,AUS,7,Taxes and fees
+2015,AUT,4,Taxes and fees
+2015,BEL,4,Taxes and fees
+2015,BFA,1,Taxes and fees
+2015,BGR,13,Taxes and fees
+2015,BIH,6,Taxes and fees
+2015,BRA,1,Taxes and fees
+2015,BRN,13,Taxes and fees
+2015,BWA,1,Taxes and fees
+2015,CAN,10,Taxes and fees
+2015,CHL,6,Taxes and fees
+2015,CHN,3,Taxes and fees
+2015,CIV,2,Taxes and fees
+2015,COD,1,Taxes and fees
+2015,COK,2,Taxes and fees
+2015,COL,6,Taxes and fees
+2015,CRI,13,Taxes and fees
+2015,CYP,3,Taxes and fees
+2015,CZE,6,Taxes and fees
+2015,DEU,13,Taxes and fees
+2015,DNK,9,Taxes and fees
+2015,ESP,18,Taxes and fees
+2015,EST,8,Taxes and fees
+2015,FIN,6,Taxes and fees
+2015,FRA,16,Taxes and fees
+2015,GBR,1,Taxes and fees
+2015,GNQ,1,Taxes and fees
+2015,GRC,2,Taxes and fees
+2015,HRV,12,Taxes and fees
+2015,HUN,2,Taxes and fees
+2015,IDN,5,Taxes and fees
+2015,IRL,1,Taxes and fees
+2015,ISL,5,Taxes and fees
+2015,ISR,8,Taxes and fees
+2015,JPN,3,Taxes and fees
+2015,KEN,1,Taxes and fees
+2015,KHM,5,Taxes and fees
+2015,KOR,14,Taxes and fees
+2015,LAO,5,Taxes and fees
+2015,LTU,10,Taxes and fees
+2015,LUX,1,Taxes and fees
+2015,LVA,8,Taxes and fees
+2015,MEX,5,Taxes and fees
+2015,MHL,1,Taxes and fees
+2015,MKD,2,Taxes and fees
+2015,MLT,6,Taxes and fees
+2015,MMR,9,Taxes and fees
+2015,MNE,7,Taxes and fees
+2015,MNG,1,Taxes and fees
+2015,MOZ,3,Taxes and fees
+2015,MRT,2,Taxes and fees
+2015,MUS,1,Taxes and fees
+2015,MYS,7,Taxes and fees
+2015,NER,1,Taxes and fees
+2015,NLD,4,Taxes and fees
+2015,NOR,5,Taxes and fees
+2015,NZL,3,Taxes and fees
+2015,PAN,1,Taxes and fees
+2015,PER,1,Taxes and fees
+2015,PHL,12,Taxes and fees
+2015,POL,6,Taxes and fees
+2015,PRT,2,Taxes and fees
+2015,PRY,1,Taxes and fees
+2015,ROU,9,Taxes and fees
+2015,RUS,1,Taxes and fees
+2015,SGP,9,Taxes and fees
+2015,SLB,1,Taxes and fees
+2015,SOM,2,Taxes and fees
+2015,SRB,9,Taxes and fees
+2015,SVK,3,Taxes and fees
+2015,SVN,4,Taxes and fees
+2015,SWE,2,Taxes and fees
+2015,SYC,3,Taxes and fees
+2015,THA,8,Taxes and fees
+2015,TKL,1,Taxes and fees
+2015,TUR,2,Taxes and fees
+2015,UKR,1,Taxes and fees
+2015,USA,21,Taxes and fees
+2015,VNM,2,Taxes and fees
+2015,ZAF,2,Taxes and fees
+2016,MAR,2,Taxes and fees
+2016,ALB,3,Taxes and fees
+2016,ARG,1,Taxes and fees
+2016,ARM,1,Taxes and fees
+2016,AUS,7,Taxes and fees
+2016,AUT,4,Taxes and fees
+2016,BEL,4,Taxes and fees
+2016,BFA,1,Taxes and fees
+2016,BGR,13,Taxes and fees
+2016,BIH,6,Taxes and fees
+2016,BRA,1,Taxes and fees
+2016,BRN,13,Taxes and fees
+2016,BWA,1,Taxes and fees
+2016,CAN,10,Taxes and fees
+2016,CHL,6,Taxes and fees
+2016,CHN,3,Taxes and fees
+2016,CIV,2,Taxes and fees
+2016,COD,1,Taxes and fees
+2016,COK,2,Taxes and fees
+2016,COL,6,Taxes and fees
+2016,CRI,13,Taxes and fees
+2016,CYP,3,Taxes and fees
+2016,CZE,6,Taxes and fees
+2016,DEU,13,Taxes and fees
+2016,DNK,9,Taxes and fees
+2016,ESP,18,Taxes and fees
+2016,EST,8,Taxes and fees
+2016,FIN,7,Taxes and fees
+2016,FRA,16,Taxes and fees
+2016,GBR,2,Taxes and fees
+2016,GNQ,1,Taxes and fees
+2016,GRC,2,Taxes and fees
+2016,HRV,12,Taxes and fees
+2016,HUN,3,Taxes and fees
+2016,IDN,5,Taxes and fees
+2016,IRL,1,Taxes and fees
+2016,ISL,5,Taxes and fees
+2016,ISR,8,Taxes and fees
+2016,JPN,3,Taxes and fees
+2016,KEN,1,Taxes and fees
+2016,KHM,5,Taxes and fees
+2016,KOR,14,Taxes and fees
+2016,LAO,5,Taxes and fees
+2016,LTU,10,Taxes and fees
+2016,LUX,1,Taxes and fees
+2016,LVA,9,Taxes and fees
+2016,MEX,5,Taxes and fees
+2016,MHL,1,Taxes and fees
+2016,MKD,2,Taxes and fees
+2016,MLT,6,Taxes and fees
+2016,MMR,9,Taxes and fees
+2016,MNE,7,Taxes and fees
+2016,MNG,1,Taxes and fees
+2016,MOZ,3,Taxes and fees
+2016,MRT,2,Taxes and fees
+2016,MUS,1,Taxes and fees
+2016,MYS,7,Taxes and fees
+2016,NER,1,Taxes and fees
+2016,NLD,4,Taxes and fees
+2016,NOR,5,Taxes and fees
+2016,NZL,3,Taxes and fees
+2016,PAN,1,Taxes and fees
+2016,PER,1,Taxes and fees
+2016,PHL,12,Taxes and fees
+2016,POL,6,Taxes and fees
+2016,PRT,2,Taxes and fees
+2016,PRY,1,Taxes and fees
+2016,ROU,9,Taxes and fees
+2016,RUS,1,Taxes and fees
+2016,SGP,9,Taxes and fees
+2016,SLB,1,Taxes and fees
+2016,SOM,2,Taxes and fees
+2016,SRB,9,Taxes and fees
+2016,SVK,3,Taxes and fees
+2016,SVN,4,Taxes and fees
+2016,SWE,2,Taxes and fees
+2016,SYC,3,Taxes and fees
+2016,THA,8,Taxes and fees
+2016,TKL,1,Taxes and fees
+2016,TUR,2,Taxes and fees
+2016,UKR,1,Taxes and fees
+2016,USA,21,Taxes and fees
+2016,VNM,2,Taxes and fees
+2016,ZAF,2,Taxes and fees
+2017,MAR,2,Taxes and fees
+2017,ALB,3,Taxes and fees
+2017,ARG,1,Taxes and fees
+2017,ARM,1,Taxes and fees
+2017,AUS,7,Taxes and fees
+2017,AUT,4,Taxes and fees
+2017,BEL,4,Taxes and fees
+2017,BFA,1,Taxes and fees
+2017,BGR,13,Taxes and fees
+2017,BIH,6,Taxes and fees
+2017,BRA,1,Taxes and fees
+2017,BRN,13,Taxes and fees
+2017,BWA,1,Taxes and fees
+2017,CAN,10,Taxes and fees
+2017,CHL,6,Taxes and fees
+2017,CHN,3,Taxes and fees
+2017,CIV,2,Taxes and fees
+2017,COD,1,Taxes and fees
+2017,COK,2,Taxes and fees
+2017,COL,6,Taxes and fees
+2017,CRI,13,Taxes and fees
+2017,CYP,4,Taxes and fees
+2017,CZE,6,Taxes and fees
+2017,DEU,13,Taxes and fees
+2017,DNK,9,Taxes and fees
+2017,ESP,18,Taxes and fees
+2017,EST,8,Taxes and fees
+2017,FIN,7,Taxes and fees
+2017,FRA,16,Taxes and fees
+2017,GBR,2,Taxes and fees
+2017,GNQ,1,Taxes and fees
+2017,GRC,2,Taxes and fees
+2017,HRV,12,Taxes and fees
+2017,HUN,3,Taxes and fees
+2017,IDN,5,Taxes and fees
+2017,IRL,1,Taxes and fees
+2017,ISL,5,Taxes and fees
+2017,ISR,8,Taxes and fees
+2017,JPN,3,Taxes and fees
+2017,KEN,1,Taxes and fees
+2017,KHM,5,Taxes and fees
+2017,KOR,14,Taxes and fees
+2017,LAO,5,Taxes and fees
+2017,LTU,10,Taxes and fees
+2017,LUX,1,Taxes and fees
+2017,LVA,9,Taxes and fees
+2017,MEX,5,Taxes and fees
+2017,MHL,1,Taxes and fees
+2017,MKD,2,Taxes and fees
+2017,MLT,6,Taxes and fees
+2017,MMR,9,Taxes and fees
+2017,MNE,7,Taxes and fees
+2017,MNG,1,Taxes and fees
+2017,MOZ,3,Taxes and fees
+2017,MRT,2,Taxes and fees
+2017,MUS,1,Taxes and fees
+2017,MYS,8,Taxes and fees
+2017,NER,1,Taxes and fees
+2017,NLD,4,Taxes and fees
+2017,NOR,5,Taxes and fees
+2017,NZL,3,Taxes and fees
+2017,PAN,1,Taxes and fees
+2017,PER,2,Taxes and fees
+2017,PHL,12,Taxes and fees
+2017,POL,6,Taxes and fees
+2017,PRT,2,Taxes and fees
+2017,PRY,1,Taxes and fees
+2017,ROU,9,Taxes and fees
+2017,RUS,1,Taxes and fees
+2017,SGP,9,Taxes and fees
+2017,SLB,1,Taxes and fees
+2017,SOM,2,Taxes and fees
+2017,SRB,9,Taxes and fees
+2017,SVK,3,Taxes and fees
+2017,SVN,4,Taxes and fees
+2017,SWE,2,Taxes and fees
+2017,SYC,3,Taxes and fees
+2017,THA,8,Taxes and fees
+2017,TKL,1,Taxes and fees
+2017,TUR,2,Taxes and fees
+2017,UKR,1,Taxes and fees
+2017,USA,21,Taxes and fees
+2017,VGB,1,Taxes and fees
+2017,VNM,2,Taxes and fees
+2017,ZAF,2,Taxes and fees
+2018,MAR,2,Taxes and fees
+2018,ALB,3,Taxes and fees
+2018,ARG,1,Taxes and fees
+2018,ARM,1,Taxes and fees
+2018,AUS,7,Taxes and fees
+2018,AUT,4,Taxes and fees
+2018,BEL,4,Taxes and fees
+2018,BFA,1,Taxes and fees
+2018,BGR,13,Taxes and fees
+2018,BIH,6,Taxes and fees
+2018,BRA,1,Taxes and fees
+2018,BRN,13,Taxes and fees
+2018,BWA,1,Taxes and fees
+2018,CAN,10,Taxes and fees
+2018,CHL,6,Taxes and fees
+2018,CHN,3,Taxes and fees
+2018,CIV,3,Taxes and fees
+2018,COD,1,Taxes and fees
+2018,COK,2,Taxes and fees
+2018,COL,6,Taxes and fees
+2018,CRI,13,Taxes and fees
+2018,CYP,4,Taxes and fees
+2018,CZE,6,Taxes and fees
+2018,DEU,13,Taxes and fees
+2018,DNK,9,Taxes and fees
+2018,ESP,18,Taxes and fees
+2018,EST,8,Taxes and fees
+2018,FIN,7,Taxes and fees
+2018,FRA,16,Taxes and fees
+2018,GBR,2,Taxes and fees
+2018,GNQ,1,Taxes and fees
+2018,GRC,2,Taxes and fees
+2018,HRV,12,Taxes and fees
+2018,HUN,3,Taxes and fees
+2018,IDN,5,Taxes and fees
+2018,IRL,1,Taxes and fees
+2018,ISL,5,Taxes and fees
+2018,ISR,8,Taxes and fees
+2018,JPN,3,Taxes and fees
+2018,KEN,1,Taxes and fees
+2018,KHM,5,Taxes and fees
+2018,KOR,14,Taxes and fees
+2018,LAO,5,Taxes and fees
+2018,LTU,10,Taxes and fees
+2018,LUX,1,Taxes and fees
+2018,LVA,9,Taxes and fees
+2018,MEX,5,Taxes and fees
+2018,MHL,1,Taxes and fees
+2018,MKD,2,Taxes and fees
+2018,MLT,6,Taxes and fees
+2018,MMR,9,Taxes and fees
+2018,MNE,7,Taxes and fees
+2018,MNG,1,Taxes and fees
+2018,MOZ,3,Taxes and fees
+2018,MRT,2,Taxes and fees
+2018,MUS,1,Taxes and fees
+2018,MYS,8,Taxes and fees
+2018,NER,1,Taxes and fees
+2018,NLD,4,Taxes and fees
+2018,NOR,5,Taxes and fees
+2018,NZL,3,Taxes and fees
+2018,PAN,1,Taxes and fees
+2018,PER,2,Taxes and fees
+2018,PHL,12,Taxes and fees
+2018,POL,9,Taxes and fees
+2018,PRT,2,Taxes and fees
+2018,PRY,1,Taxes and fees
+2018,ROU,9,Taxes and fees
+2018,RUS,1,Taxes and fees
+2018,SGP,9,Taxes and fees
+2018,SLB,1,Taxes and fees
+2018,SOM,2,Taxes and fees
+2018,SRB,9,Taxes and fees
+2018,SVK,3,Taxes and fees
+2018,SVN,4,Taxes and fees
+2018,SWE,2,Taxes and fees
+2018,SYC,3,Taxes and fees
+2018,THA,8,Taxes and fees
+2018,TKL,1,Taxes and fees
+2018,TUR,2,Taxes and fees
+2018,UKR,1,Taxes and fees
+2018,USA,21,Taxes and fees
+2018,VGB,1,Taxes and fees
+2018,VNM,2,Taxes and fees
+2018,ZAF,2,Taxes and fees
+2019,MAR,2,Taxes and fees
+2019,ALB,3,Taxes and fees
+2019,ARG,1,Taxes and fees
+2019,ARM,1,Taxes and fees
+2019,AUS,7,Taxes and fees
+2019,AUT,4,Taxes and fees
+2019,BEL,4,Taxes and fees
+2019,BFA,1,Taxes and fees
+2019,BGR,13,Taxes and fees
+2019,BIH,6,Taxes and fees
+2019,BRA,1,Taxes and fees
+2019,BRN,13,Taxes and fees
+2019,BWA,1,Taxes and fees
+2019,CAN,10,Taxes and fees
+2019,CHL,6,Taxes and fees
+2019,CHN,3,Taxes and fees
+2019,CIV,3,Taxes and fees
+2019,COD,1,Taxes and fees
+2019,COK,2,Taxes and fees
+2019,COL,7,Taxes and fees
+2019,CRI,13,Taxes and fees
+2019,CYP,4,Taxes and fees
+2019,CZE,6,Taxes and fees
+2019,DEU,13,Taxes and fees
+2019,DNK,9,Taxes and fees
+2019,ESP,19,Taxes and fees
+2019,EST,8,Taxes and fees
+2019,FIN,7,Taxes and fees
+2019,FRA,16,Taxes and fees
+2019,GBR,2,Taxes and fees
+2019,GNQ,1,Taxes and fees
+2019,GRC,2,Taxes and fees
+2019,HRV,12,Taxes and fees
+2019,HUN,3,Taxes and fees
+2019,IDN,5,Taxes and fees
+2019,IRL,1,Taxes and fees
+2019,ISL,5,Taxes and fees
+2019,ISR,8,Taxes and fees
+2019,JPN,3,Taxes and fees
+2019,KEN,1,Taxes and fees
+2019,KHM,5,Taxes and fees
+2019,KOR,14,Taxes and fees
+2019,LAO,5,Taxes and fees
+2019,LTU,10,Taxes and fees
+2019,LUX,1,Taxes and fees
+2019,LVA,9,Taxes and fees
+2019,MEX,5,Taxes and fees
+2019,MHL,1,Taxes and fees
+2019,MKD,2,Taxes and fees
+2019,MLT,6,Taxes and fees
+2019,MMR,9,Taxes and fees
+2019,MNE,7,Taxes and fees
+2019,MNG,1,Taxes and fees
+2019,MOZ,3,Taxes and fees
+2019,MRT,2,Taxes and fees
+2019,MUS,1,Taxes and fees
+2019,MYS,8,Taxes and fees
+2019,NER,1,Taxes and fees
+2019,NLD,4,Taxes and fees
+2019,NOR,5,Taxes and fees
+2019,NZL,3,Taxes and fees
+2019,PAN,1,Taxes and fees
+2019,PER,2,Taxes and fees
+2019,PHL,12,Taxes and fees
+2019,POL,10,Taxes and fees
+2019,PRT,2,Taxes and fees
+2019,PRY,1,Taxes and fees
+2019,ROU,9,Taxes and fees
+2019,RUS,1,Taxes and fees
+2019,SGP,9,Taxes and fees
+2019,SLB,1,Taxes and fees
+2019,SOM,2,Taxes and fees
+2019,SRB,9,Taxes and fees
+2019,SVK,3,Taxes and fees
+2019,SVN,4,Taxes and fees
+2019,SWE,2,Taxes and fees
+2019,SYC,3,Taxes and fees
+2019,THA,8,Taxes and fees
+2019,TKL,1,Taxes and fees
+2019,TUR,2,Taxes and fees
+2019,UKR,1,Taxes and fees
+2019,USA,21,Taxes and fees
+2019,VGB,1,Taxes and fees
+2019,VNM,2,Taxes and fees
+2019,ZAF,2,Taxes and fees
+2020,MAR,2,Taxes and fees
+2020,ALB,3,Taxes and fees
+2020,ARG,1,Taxes and fees
+2020,ARM,1,Taxes and fees
+2020,AUS,7,Taxes and fees
+2020,AUT,4,Taxes and fees
+2020,BEL,4,Taxes and fees
+2020,BFA,1,Taxes and fees
+2020,BGR,13,Taxes and fees
+2020,BIH,6,Taxes and fees
+2020,BRA,1,Taxes and fees
+2020,BRN,13,Taxes and fees
+2020,BWA,1,Taxes and fees
+2020,CAN,10,Taxes and fees
+2020,CHL,6,Taxes and fees
+2020,CHN,3,Taxes and fees
+2020,CIV,3,Taxes and fees
+2020,COD,1,Taxes and fees
+2020,COK,2,Taxes and fees
+2020,COL,7,Taxes and fees
+2020,CRI,13,Taxes and fees
+2020,CYP,4,Taxes and fees
+2020,CZE,6,Taxes and fees
+2020,DEU,13,Taxes and fees
+2020,DNK,9,Taxes and fees
+2020,ESP,20,Taxes and fees
+2020,EST,8,Taxes and fees
+2020,FIN,7,Taxes and fees
+2020,FRA,16,Taxes and fees
+2020,GBR,2,Taxes and fees
+2020,GNQ,1,Taxes and fees
+2020,GRC,2,Taxes and fees
+2020,HRV,12,Taxes and fees
+2020,HUN,3,Taxes and fees
+2020,IDN,5,Taxes and fees
+2020,IRL,1,Taxes and fees
+2020,ISL,6,Taxes and fees
+2020,ISR,8,Taxes and fees
+2020,JPN,3,Taxes and fees
+2020,KEN,1,Taxes and fees
+2020,KHM,5,Taxes and fees
+2020,KOR,14,Taxes and fees
+2020,LAO,5,Taxes and fees
+2020,LTU,10,Taxes and fees
+2020,LUX,1,Taxes and fees
+2020,LVA,9,Taxes and fees
+2020,MEX,5,Taxes and fees
+2020,MHL,1,Taxes and fees
+2020,MKD,2,Taxes and fees
+2020,MLT,6,Taxes and fees
+2020,MMR,9,Taxes and fees
+2020,MNE,7,Taxes and fees
+2020,MNG,1,Taxes and fees
+2020,MOZ,3,Taxes and fees
+2020,MRT,2,Taxes and fees
+2020,MUS,1,Taxes and fees
+2020,MYS,8,Taxes and fees
+2020,NER,1,Taxes and fees
+2020,NLD,4,Taxes and fees
+2020,NOR,5,Taxes and fees
+2020,NZL,3,Taxes and fees
+2020,PAN,1,Taxes and fees
+2020,PER,2,Taxes and fees
+2020,PHL,12,Taxes and fees
+2020,POL,10,Taxes and fees
+2020,PRT,2,Taxes and fees
+2020,PRY,1,Taxes and fees
+2020,ROU,9,Taxes and fees
+2020,RUS,1,Taxes and fees
+2020,SGP,9,Taxes and fees
+2020,SLB,1,Taxes and fees
+2020,SOM,2,Taxes and fees
+2020,SRB,9,Taxes and fees
+2020,SVK,3,Taxes and fees
+2020,SVN,4,Taxes and fees
+2020,SWE,2,Taxes and fees
+2020,SYC,3,Taxes and fees
+2020,THA,8,Taxes and fees
+2020,TKL,1,Taxes and fees
+2020,TUR,2,Taxes and fees
+2020,UKR,1,Taxes and fees
+2020,USA,21,Taxes and fees
+2020,VGB,1,Taxes and fees
+2020,VNM,2,Taxes and fees
+2020,ZAF,2,Taxes and fees
+2021,MAR,2,Taxes and fees
+2021,ALB,3,Taxes and fees
+2021,ARG,1,Taxes and fees
+2021,ARM,1,Taxes and fees
+2021,AUS,7,Taxes and fees
+2021,AUT,4,Taxes and fees
+2021,BEL,4,Taxes and fees
+2021,BFA,1,Taxes and fees
+2021,BGR,13,Taxes and fees
+2021,BIH,6,Taxes and fees
+2021,BRA,1,Taxes and fees
+2021,BRN,13,Taxes and fees
+2021,BWA,1,Taxes and fees
+2021,CAN,10,Taxes and fees
+2021,CHL,6,Taxes and fees
+2021,CHN,3,Taxes and fees
+2021,CIV,3,Taxes and fees
+2021,COD,1,Taxes and fees
+2021,COK,2,Taxes and fees
+2021,COL,7,Taxes and fees
+2021,CRI,13,Taxes and fees
+2021,CYP,4,Taxes and fees
+2021,CZE,6,Taxes and fees
+2021,DEU,13,Taxes and fees
+2021,DNK,10,Taxes and fees
+2021,ESP,20,Taxes and fees
+2021,EST,8,Taxes and fees
+2021,FIN,7,Taxes and fees
+2021,FRA,16,Taxes and fees
+2021,GBR,2,Taxes and fees
+2021,GNQ,1,Taxes and fees
+2021,GRC,2,Taxes and fees
+2021,HRV,12,Taxes and fees
+2021,HUN,3,Taxes and fees
+2021,IDN,5,Taxes and fees
+2021,IRL,1,Taxes and fees
+2021,ISL,6,Taxes and fees
+2021,ISR,8,Taxes and fees
+2021,JPN,3,Taxes and fees
+2021,KEN,1,Taxes and fees
+2021,KHM,5,Taxes and fees
+2021,KOR,14,Taxes and fees
+2021,LAO,5,Taxes and fees
+2021,LTU,10,Taxes and fees
+2021,LUX,1,Taxes and fees
+2021,LVA,9,Taxes and fees
+2021,MEX,5,Taxes and fees
+2021,MHL,1,Taxes and fees
+2021,MKD,2,Taxes and fees
+2021,MLT,6,Taxes and fees
+2021,MMR,9,Taxes and fees
+2021,MNE,7,Taxes and fees
+2021,MNG,1,Taxes and fees
+2021,MOZ,3,Taxes and fees
+2021,MRT,2,Taxes and fees
+2021,MUS,1,Taxes and fees
+2021,MYS,8,Taxes and fees
+2021,NER,1,Taxes and fees
+2021,NLD,4,Taxes and fees
+2021,NOR,7,Taxes and fees
+2021,NZL,3,Taxes and fees
+2021,PAN,1,Taxes and fees
+2021,PER,2,Taxes and fees
+2021,PHL,12,Taxes and fees
+2021,POL,10,Taxes and fees
+2021,PRT,3,Taxes and fees
+2021,PRY,1,Taxes and fees
+2021,ROU,9,Taxes and fees
+2021,RUS,1,Taxes and fees
+2021,SGP,9,Taxes and fees
+2021,SLB,1,Taxes and fees
+2021,SOM,2,Taxes and fees
+2021,SRB,9,Taxes and fees
+2021,SVK,3,Taxes and fees
+2021,SVN,4,Taxes and fees
+2021,SWE,2,Taxes and fees
+2021,SYC,3,Taxes and fees
+2021,THA,9,Taxes and fees
+2021,TKL,1,Taxes and fees
+2021,TUR,2,Taxes and fees
+2021,UKR,1,Taxes and fees
+2021,USA,21,Taxes and fees
+2021,VGB,1,Taxes and fees
+2021,VNM,3,Taxes and fees
+2021,ZAF,2,Taxes and fees
+2022,MAR,2,Taxes and fees
+2022,ALB,3,Taxes and fees
+2022,ARG,1,Taxes and fees
+2022,ARM,1,Taxes and fees
+2022,AUS,7,Taxes and fees
+2022,AUT,4,Taxes and fees
+2022,BEL,4,Taxes and fees
+2022,BFA,1,Taxes and fees
+2022,BGR,13,Taxes and fees
+2022,BIH,6,Taxes and fees
+2022,BRA,1,Taxes and fees
+2022,BRN,13,Taxes and fees
+2022,BWA,1,Taxes and fees
+2022,CAN,10,Taxes and fees
+2022,CHL,6,Taxes and fees
+2022,CHN,3,Taxes and fees
+2022,CIV,3,Taxes and fees
+2022,COD,1,Taxes and fees
+2022,COK,2,Taxes and fees
+2022,COL,7,Taxes and fees
+2022,CRI,13,Taxes and fees
+2022,CYP,4,Taxes and fees
+2022,CZE,6,Taxes and fees
+2022,DEU,13,Taxes and fees
+2022,DNK,10,Taxes and fees
+2022,ESP,23,Taxes and fees
+2022,EST,8,Taxes and fees
+2022,FIN,7,Taxes and fees
+2022,FRA,16,Taxes and fees
+2022,GBR,2,Taxes and fees
+2022,GNQ,1,Taxes and fees
+2022,GRC,2,Taxes and fees
+2022,HRV,12,Taxes and fees
+2022,HUN,3,Taxes and fees
+2022,IDN,5,Taxes and fees
+2022,IRL,1,Taxes and fees
+2022,ISL,6,Taxes and fees
+2022,ISR,8,Taxes and fees
+2022,JPN,3,Taxes and fees
+2022,KEN,1,Taxes and fees
+2022,KHM,5,Taxes and fees
+2022,KOR,14,Taxes and fees
+2022,LAO,5,Taxes and fees
+2022,LTU,10,Taxes and fees
+2022,LUX,1,Taxes and fees
+2022,LVA,9,Taxes and fees
+2022,MEX,5,Taxes and fees
+2022,MHL,1,Taxes and fees
+2022,MKD,2,Taxes and fees
+2022,MLT,6,Taxes and fees
+2022,MMR,9,Taxes and fees
+2022,MNE,7,Taxes and fees
+2022,MNG,1,Taxes and fees
+2022,MOZ,3,Taxes and fees
+2022,MRT,2,Taxes and fees
+2022,MUS,1,Taxes and fees
+2022,MYS,8,Taxes and fees
+2022,NER,1,Taxes and fees
+2022,NLD,4,Taxes and fees
+2022,NOR,7,Taxes and fees
+2022,NZL,3,Taxes and fees
+2022,PAN,1,Taxes and fees
+2022,PER,2,Taxes and fees
+2022,PHL,12,Taxes and fees
+2022,POL,10,Taxes and fees
+2022,PRT,3,Taxes and fees
+2022,PRY,1,Taxes and fees
+2022,ROU,9,Taxes and fees
+2022,RUS,1,Taxes and fees
+2022,SGP,9,Taxes and fees
+2022,SLB,1,Taxes and fees
+2022,SOM,2,Taxes and fees
+2022,SRB,9,Taxes and fees
+2022,SVK,3,Taxes and fees
+2022,SVN,4,Taxes and fees
+2022,SWE,2,Taxes and fees
+2022,SYC,3,Taxes and fees
+2022,THA,9,Taxes and fees
+2022,TKL,1,Taxes and fees
+2022,TUR,2,Taxes and fees
+2022,UKR,1,Taxes and fees
+2022,USA,21,Taxes and fees
+2022,VGB,1,Taxes and fees
+2022,VNM,4,Taxes and fees
+2022,ZAF,2,Taxes and fees
+2023,MAR,2,Taxes and fees
+2023,ALB,3,Taxes and fees
+2023,ARG,1,Taxes and fees
+2023,ARM,1,Taxes and fees
+2023,AUS,8,Taxes and fees
+2023,AUT,4,Taxes and fees
+2023,BEL,4,Taxes and fees
+2023,BFA,1,Taxes and fees
+2023,BGR,13,Taxes and fees
+2023,BIH,6,Taxes and fees
+2023,BRA,1,Taxes and fees
+2023,BRN,13,Taxes and fees
+2023,BWA,1,Taxes and fees
+2023,CAN,10,Taxes and fees
+2023,CHL,6,Taxes and fees
+2023,CHN,3,Taxes and fees
+2023,CIV,3,Taxes and fees
+2023,COD,1,Taxes and fees
+2023,COK,2,Taxes and fees
+2023,COL,7,Taxes and fees
+2023,CRI,13,Taxes and fees
+2023,CYP,4,Taxes and fees
+2023,CZE,6,Taxes and fees
+2023,DEU,13,Taxes and fees
+2023,DNK,10,Taxes and fees
+2023,ESP,23,Taxes and fees
+2023,EST,8,Taxes and fees
+2023,FIN,7,Taxes and fees
+2023,FRA,16,Taxes and fees
+2023,GBR,2,Taxes and fees
+2023,GNQ,1,Taxes and fees
+2023,GRC,2,Taxes and fees
+2023,HRV,12,Taxes and fees
+2023,HUN,3,Taxes and fees
+2023,IDN,5,Taxes and fees
+2023,IRL,1,Taxes and fees
+2023,ISL,6,Taxes and fees
+2023,ISR,8,Taxes and fees
+2023,JPN,3,Taxes and fees
+2023,KEN,1,Taxes and fees
+2023,KHM,5,Taxes and fees
+2023,KOR,14,Taxes and fees
+2023,LAO,5,Taxes and fees
+2023,LTU,10,Taxes and fees
+2023,LUX,1,Taxes and fees
+2023,LVA,9,Taxes and fees
+2023,MEX,5,Taxes and fees
+2023,MHL,1,Taxes and fees
+2023,MKD,2,Taxes and fees
+2023,MLT,6,Taxes and fees
+2023,MMR,9,Taxes and fees
+2023,MNE,7,Taxes and fees
+2023,MNG,1,Taxes and fees
+2023,MOZ,3,Taxes and fees
+2023,MRT,2,Taxes and fees
+2023,MUS,1,Taxes and fees
+2023,MYS,8,Taxes and fees
+2023,NER,1,Taxes and fees
+2023,NLD,4,Taxes and fees
+2023,NOR,7,Taxes and fees
+2023,NZL,3,Taxes and fees
+2023,PAN,1,Taxes and fees
+2023,PER,2,Taxes and fees
+2023,PHL,12,Taxes and fees
+2023,POL,10,Taxes and fees
+2023,PRT,3,Taxes and fees
+2023,PRY,1,Taxes and fees
+2023,ROU,9,Taxes and fees
+2023,RUS,1,Taxes and fees
+2023,SGP,9,Taxes and fees
+2023,SLB,1,Taxes and fees
+2023,SOM,2,Taxes and fees
+2023,SRB,9,Taxes and fees
+2023,SVK,3,Taxes and fees
+2023,SVN,4,Taxes and fees
+2023,SWE,2,Taxes and fees
+2023,SYC,3,Taxes and fees
+2023,THA,9,Taxes and fees
+2023,TKL,1,Taxes and fees
+2023,TUR,2,Taxes and fees
+2023,UKR,1,Taxes and fees
+2023,USA,21,Taxes and fees
+2023,VGB,1,Taxes and fees
+2023,VNM,4,Taxes and fees
+2023,ZAF,2,Taxes and fees
+2024,MAR,2,Taxes and fees
+2024,ALB,3,Taxes and fees
+2024,ARG,1,Taxes and fees
+2024,ARM,1,Taxes and fees
+2024,AUS,8,Taxes and fees
+2024,AUT,4,Taxes and fees
+2024,BEL,4,Taxes and fees
+2024,BFA,1,Taxes and fees
+2024,BGR,13,Taxes and fees
+2024,BIH,6,Taxes and fees
+2024,BRA,1,Taxes and fees
+2024,BRN,13,Taxes and fees
+2024,BWA,1,Taxes and fees
+2024,CAN,10,Taxes and fees
+2024,CHL,6,Taxes and fees
+2024,CHN,3,Taxes and fees
+2024,CIV,3,Taxes and fees
+2024,COD,1,Taxes and fees
+2024,COK,2,Taxes and fees
+2024,COL,7,Taxes and fees
+2024,CRI,13,Taxes and fees
+2024,CYP,4,Taxes and fees
+2024,CZE,6,Taxes and fees
+2024,DEU,13,Taxes and fees
+2024,DNK,10,Taxes and fees
+2024,ESP,23,Taxes and fees
+2024,EST,8,Taxes and fees
+2024,FIN,7,Taxes and fees
+2024,FRA,16,Taxes and fees
+2024,GBR,2,Taxes and fees
+2024,GNQ,1,Taxes and fees
+2024,GRC,2,Taxes and fees
+2024,HRV,12,Taxes and fees
+2024,HUN,3,Taxes and fees
+2024,IDN,5,Taxes and fees
+2024,IRL,1,Taxes and fees
+2024,ISL,6,Taxes and fees
+2024,ISR,8,Taxes and fees
+2024,JPN,3,Taxes and fees
+2024,KEN,1,Taxes and fees
+2024,KHM,5,Taxes and fees
+2024,KOR,14,Taxes and fees
+2024,LAO,5,Taxes and fees
+2024,LTU,10,Taxes and fees
+2024,LUX,1,Taxes and fees
+2024,LVA,9,Taxes and fees
+2024,MEX,5,Taxes and fees
+2024,MHL,1,Taxes and fees
+2024,MKD,2,Taxes and fees
+2024,MLT,6,Taxes and fees
+2024,MMR,9,Taxes and fees
+2024,MNE,7,Taxes and fees
+2024,MNG,1,Taxes and fees
+2024,MOZ,3,Taxes and fees
+2024,MRT,2,Taxes and fees
+2024,MUS,1,Taxes and fees
+2024,MYS,8,Taxes and fees
+2024,NER,1,Taxes and fees
+2024,NLD,4,Taxes and fees
+2024,NOR,7,Taxes and fees
+2024,NZL,3,Taxes and fees
+2024,PAN,1,Taxes and fees
+2024,PER,2,Taxes and fees
+2024,PHL,12,Taxes and fees
+2024,POL,10,Taxes and fees
+2024,PRT,3,Taxes and fees
+2024,PRY,1,Taxes and fees
+2024,ROU,9,Taxes and fees
+2024,RUS,1,Taxes and fees
+2024,SGP,9,Taxes and fees
+2024,SLB,1,Taxes and fees
+2024,SOM,2,Taxes and fees
+2024,SRB,9,Taxes and fees
+2024,SVK,3,Taxes and fees
+2024,SVN,4,Taxes and fees
+2024,SWE,2,Taxes and fees
+2024,SYC,3,Taxes and fees
+2024,THA,9,Taxes and fees
+2024,TKL,1,Taxes and fees
+2024,TUR,2,Taxes and fees
+2024,UKR,1,Taxes and fees
+2024,USA,21,Taxes and fees
+2024,VGB,1,Taxes and fees
+2024,VNM,4,Taxes and fees
+2024,ZAF,2,Taxes and fees
+2025,MAR,2,Taxes and fees
+2025,ALB,3,Taxes and fees
+2025,ARG,1,Taxes and fees
+2025,ARM,1,Taxes and fees
+2025,AUS,8,Taxes and fees
+2025,AUT,4,Taxes and fees
+2025,BEL,4,Taxes and fees
+2025,BFA,1,Taxes and fees
+2025,BGR,13,Taxes and fees
+2025,BIH,6,Taxes and fees
+2025,BRA,1,Taxes and fees
+2025,BRN,13,Taxes and fees
+2025,BWA,1,Taxes and fees
+2025,CAN,10,Taxes and fees
+2025,CHL,6,Taxes and fees
+2025,CHN,3,Taxes and fees
+2025,CIV,3,Taxes and fees
+2025,COD,1,Taxes and fees
+2025,COK,2,Taxes and fees
+2025,COL,7,Taxes and fees
+2025,CRI,13,Taxes and fees
+2025,CYP,4,Taxes and fees
+2025,CZE,6,Taxes and fees
+2025,DEU,13,Taxes and fees
+2025,DNK,10,Taxes and fees
+2025,ESP,23,Taxes and fees
+2025,EST,9,Taxes and fees
+2025,FIN,7,Taxes and fees
+2025,FRA,16,Taxes and fees
+2025,GBR,2,Taxes and fees
+2025,GNQ,1,Taxes and fees
+2025,GRC,2,Taxes and fees
+2025,HRV,12,Taxes and fees
+2025,HUN,3,Taxes and fees
+2025,IDN,5,Taxes and fees
+2025,IRL,1,Taxes and fees
+2025,ISL,6,Taxes and fees
+2025,ISR,8,Taxes and fees
+2025,JPN,3,Taxes and fees
+2025,KEN,1,Taxes and fees
+2025,KHM,5,Taxes and fees
+2025,KOR,14,Taxes and fees
+2025,LAO,5,Taxes and fees
+2025,LTU,10,Taxes and fees
+2025,LUX,1,Taxes and fees
+2025,LVA,9,Taxes and fees
+2025,MEX,5,Taxes and fees
+2025,MHL,1,Taxes and fees
+2025,MKD,2,Taxes and fees
+2025,MLT,6,Taxes and fees
+2025,MMR,9,Taxes and fees
+2025,MNE,7,Taxes and fees
+2025,MNG,1,Taxes and fees
+2025,MOZ,3,Taxes and fees
+2025,MRT,2,Taxes and fees
+2025,MUS,1,Taxes and fees
+2025,MYS,8,Taxes and fees
+2025,NER,1,Taxes and fees
+2025,NLD,4,Taxes and fees
+2025,NOR,7,Taxes and fees
+2025,NZL,3,Taxes and fees
+2025,PAN,1,Taxes and fees
+2025,PER,2,Taxes and fees
+2025,PHL,12,Taxes and fees
+2025,POL,10,Taxes and fees
+2025,PRT,3,Taxes and fees
+2025,PRY,1,Taxes and fees
+2025,ROU,9,Taxes and fees
+2025,RUS,1,Taxes and fees
+2025,SGP,9,Taxes and fees
+2025,SLB,1,Taxes and fees
+2025,SOM,2,Taxes and fees
+2025,SRB,9,Taxes and fees
+2025,SVK,3,Taxes and fees
+2025,SVN,4,Taxes and fees
+2025,SWE,2,Taxes and fees
+2025,SYC,3,Taxes and fees
+2025,THA,9,Taxes and fees
+2025,TKL,1,Taxes and fees
+2025,TUR,2,Taxes and fees
+2025,UKR,1,Taxes and fees
+2025,USA,21,Taxes and fees
+2025,VGB,1,Taxes and fees
+2025,VNM,4,Taxes and fees
+2025,ZAF,2,Taxes and fees
+2000,MAR,1,Tradable permits and offsets
+2000,MAR,1,Tradable permits and offsets
+2000,AUS,2,Tradable permits and offsets
+2000,CAN,2,Tradable permits and offsets
+2000,CHL,1,Tradable permits and offsets
+2000,CHN,1,Tradable permits and offsets
+2000,DEU,1,Tradable permits and offsets
+2000,ESP,1,Tradable permits and offsets
+2000,EST,2,Tradable permits and offsets
+2000,FIN,1,Tradable permits and offsets
+2000,FRA,1,Tradable permits and offsets
+2000,GBR,1,Tradable permits and offsets
+2000,IND,1,Tradable permits and offsets
+2000,ISL,1,Tradable permits and offsets
+2000,MEX,3,Tradable permits and offsets
+2000,MOZ,1,Tradable permits and offsets
+2000,MUS,1,Tradable permits and offsets
+2000,NAM,1,Tradable permits and offsets
+2000,NZL,1,Tradable permits and offsets
+2000,PRT,1,Tradable permits and offsets
+2000,USA,5,Tradable permits and offsets
+2001,MAR,1,Tradable permits and offsets
+2001,AUS,2,Tradable permits and offsets
+2001,CAN,2,Tradable permits and offsets
+2001,CHL,2,Tradable permits and offsets
+2001,CHN,1,Tradable permits and offsets
+2001,DEU,1,Tradable permits and offsets
+2001,ESP,1,Tradable permits and offsets
+2001,EST,2,Tradable permits and offsets
+2001,FIN,1,Tradable permits and offsets
+2001,FRA,1,Tradable permits and offsets
+2001,GBR,1,Tradable permits and offsets
+2001,IND,1,Tradable permits and offsets
+2001,ISL,1,Tradable permits and offsets
+2001,MEX,3,Tradable permits and offsets
+2001,MOZ,1,Tradable permits and offsets
+2001,MUS,1,Tradable permits and offsets
+2001,NAM,1,Tradable permits and offsets
+2001,NZL,1,Tradable permits and offsets
+2001,PRT,1,Tradable permits and offsets
+2001,USA,5,Tradable permits and offsets
+2002,MAR,1,Tradable permits and offsets
+2002,AUS,3,Tradable permits and offsets
+2002,BEL,1,Tradable permits and offsets
+2002,CAN,2,Tradable permits and offsets
+2002,CHL,2,Tradable permits and offsets
+2002,CHN,1,Tradable permits and offsets
+2002,DEU,1,Tradable permits and offsets
+2002,ESP,1,Tradable permits and offsets
+2002,EST,2,Tradable permits and offsets
+2002,FIN,1,Tradable permits and offsets
+2002,FRA,1,Tradable permits and offsets
+2002,GBR,1,Tradable permits and offsets
+2002,IND,1,Tradable permits and offsets
+2002,ISL,1,Tradable permits and offsets
+2002,MEX,3,Tradable permits and offsets
+2002,MOZ,1,Tradable permits and offsets
+2002,MUS,1,Tradable permits and offsets
+2002,NAM,1,Tradable permits and offsets
+2002,NZL,1,Tradable permits and offsets
+2002,PRT,1,Tradable permits and offsets
+2002,USA,5,Tradable permits and offsets
+2003,MAR,1,Tradable permits and offsets
+2003,AUS,3,Tradable permits and offsets
+2003,BEL,1,Tradable permits and offsets
+2003,CAN,2,Tradable permits and offsets
+2003,CHL,2,Tradable permits and offsets
+2003,CHN,1,Tradable permits and offsets
+2003,DEU,1,Tradable permits and offsets
+2003,DNK,1,Tradable permits and offsets
+2003,ESP,1,Tradable permits and offsets
+2003,EST,2,Tradable permits and offsets
+2003,FIN,1,Tradable permits and offsets
+2003,FRA,1,Tradable permits and offsets
+2003,GBR,1,Tradable permits and offsets
+2003,IND,1,Tradable permits and offsets
+2003,ISL,1,Tradable permits and offsets
+2003,MEX,3,Tradable permits and offsets
+2003,MLT,1,Tradable permits and offsets
+2003,MOZ,1,Tradable permits and offsets
+2003,MUS,1,Tradable permits and offsets
+2003,NAM,1,Tradable permits and offsets
+2003,NZL,1,Tradable permits and offsets
+2003,PRT,1,Tradable permits and offsets
+2003,USA,5,Tradable permits and offsets
+2004,MAR,1,Tradable permits and offsets
+2004,AUS,3,Tradable permits and offsets
+2004,BEL,1,Tradable permits and offsets
+2004,CAN,2,Tradable permits and offsets
+2004,CHL,2,Tradable permits and offsets
+2004,CHN,1,Tradable permits and offsets
+2004,DEU,1,Tradable permits and offsets
+2004,DNK,1,Tradable permits and offsets
+2004,ESP,1,Tradable permits and offsets
+2004,EST,2,Tradable permits and offsets
+2004,FIN,1,Tradable permits and offsets
+2004,FRA,1,Tradable permits and offsets
+2004,GBR,1,Tradable permits and offsets
+2004,IND,1,Tradable permits and offsets
+2004,ISL,1,Tradable permits and offsets
+2004,MEX,3,Tradable permits and offsets
+2004,MLT,1,Tradable permits and offsets
+2004,MOZ,1,Tradable permits and offsets
+2004,MUS,1,Tradable permits and offsets
+2004,NAM,1,Tradable permits and offsets
+2004,NOR,1,Tradable permits and offsets
+2004,NZL,1,Tradable permits and offsets
+2004,PRT,1,Tradable permits and offsets
+2004,USA,5,Tradable permits and offsets
+2005,MAR,1,Tradable permits and offsets
+2005,AUS,3,Tradable permits and offsets
+2005,BEL,1,Tradable permits and offsets
+2005,CAN,2,Tradable permits and offsets
+2005,CHL,2,Tradable permits and offsets
+2005,CHN,1,Tradable permits and offsets
+2005,DEU,1,Tradable permits and offsets
+2005,DNK,1,Tradable permits and offsets
+2005,ESP,1,Tradable permits and offsets
+2005,EST,2,Tradable permits and offsets
+2005,FIN,1,Tradable permits and offsets
+2005,FRA,1,Tradable permits and offsets
+2005,GBR,1,Tradable permits and offsets
+2005,IND,1,Tradable permits and offsets
+2005,ISL,1,Tradable permits and offsets
+2005,MEX,3,Tradable permits and offsets
+2005,MLT,1,Tradable permits and offsets
+2005,MOZ,1,Tradable permits and offsets
+2005,MUS,1,Tradable permits and offsets
+2005,NAM,1,Tradable permits and offsets
+2005,NOR,1,Tradable permits and offsets
+2005,NZL,1,Tradable permits and offsets
+2005,PRT,1,Tradable permits and offsets
+2005,USA,5,Tradable permits and offsets
+2005,ZAF,1,Tradable permits and offsets
+2006,MAR,1,Tradable permits and offsets
+2006,AUS,4,Tradable permits and offsets
+2006,BEL,1,Tradable permits and offsets
+2006,CAN,2,Tradable permits and offsets
+2006,CHL,2,Tradable permits and offsets
+2006,CHN,1,Tradable permits and offsets
+2006,DEU,1,Tradable permits and offsets
+2006,DNK,1,Tradable permits and offsets
+2006,ESP,1,Tradable permits and offsets
+2006,EST,2,Tradable permits and offsets
+2006,FIN,1,Tradable permits and offsets
+2006,FRA,1,Tradable permits and offsets
+2006,GBR,1,Tradable permits and offsets
+2006,IND,1,Tradable permits and offsets
+2006,ISL,1,Tradable permits and offsets
+2006,MEX,3,Tradable permits and offsets
+2006,MLT,1,Tradable permits and offsets
+2006,MOZ,1,Tradable permits and offsets
+2006,MUS,1,Tradable permits and offsets
+2006,NAM,1,Tradable permits and offsets
+2006,NOR,1,Tradable permits and offsets
+2006,NZL,1,Tradable permits and offsets
+2006,PRT,1,Tradable permits and offsets
+2006,USA,5,Tradable permits and offsets
+2006,ZAF,1,Tradable permits and offsets
+2007,MAR,1,Tradable permits and offsets
+2007,AUS,4,Tradable permits and offsets
+2007,BEL,1,Tradable permits and offsets
+2007,CAN,2,Tradable permits and offsets
+2007,CHL,2,Tradable permits and offsets
+2007,CHN,1,Tradable permits and offsets
+2007,DEU,1,Tradable permits and offsets
+2007,DNK,1,Tradable permits and offsets
+2007,ESP,1,Tradable permits and offsets
+2007,EST,2,Tradable permits and offsets
+2007,FIN,1,Tradable permits and offsets
+2007,FRA,1,Tradable permits and offsets
+2007,GBR,1,Tradable permits and offsets
+2007,IND,1,Tradable permits and offsets
+2007,ISL,1,Tradable permits and offsets
+2007,MEX,3,Tradable permits and offsets
+2007,MLT,1,Tradable permits and offsets
+2007,MOZ,1,Tradable permits and offsets
+2007,MUS,1,Tradable permits and offsets
+2007,NAM,1,Tradable permits and offsets
+2007,NOR,1,Tradable permits and offsets
+2007,NZL,2,Tradable permits and offsets
+2007,PRT,1,Tradable permits and offsets
+2007,USA,5,Tradable permits and offsets
+2007,ZAF,1,Tradable permits and offsets
+2008,MAR,1,Tradable permits and offsets
+2008,AUS,4,Tradable permits and offsets
+2008,BEL,1,Tradable permits and offsets
+2008,CAN,2,Tradable permits and offsets
+2008,CHL,2,Tradable permits and offsets
+2008,CHN,1,Tradable permits and offsets
+2008,DEU,1,Tradable permits and offsets
+2008,DNK,1,Tradable permits and offsets
+2008,ESP,1,Tradable permits and offsets
+2008,EST,2,Tradable permits and offsets
+2008,FIN,1,Tradable permits and offsets
+2008,FRA,1,Tradable permits and offsets
+2008,GBR,1,Tradable permits and offsets
+2008,IND,1,Tradable permits and offsets
+2008,ISL,1,Tradable permits and offsets
+2008,MEX,3,Tradable permits and offsets
+2008,MLT,1,Tradable permits and offsets
+2008,MOZ,1,Tradable permits and offsets
+2008,MUS,1,Tradable permits and offsets
+2008,NAM,1,Tradable permits and offsets
+2008,NOR,1,Tradable permits and offsets
+2008,NZL,2,Tradable permits and offsets
+2008,PER,1,Tradable permits and offsets
+2008,PRT,1,Tradable permits and offsets
+2008,USA,5,Tradable permits and offsets
+2008,ZAF,1,Tradable permits and offsets
+2009,MAR,1,Tradable permits and offsets
+2009,ARG,1,Tradable permits and offsets
+2009,AUS,4,Tradable permits and offsets
+2009,BEL,1,Tradable permits and offsets
+2009,CAN,2,Tradable permits and offsets
+2009,CHL,2,Tradable permits and offsets
+2009,CHN,1,Tradable permits and offsets
+2009,DEU,1,Tradable permits and offsets
+2009,DNK,1,Tradable permits and offsets
+2009,ESP,1,Tradable permits and offsets
+2009,EST,2,Tradable permits and offsets
+2009,FIN,1,Tradable permits and offsets
+2009,FRA,1,Tradable permits and offsets
+2009,GBR,1,Tradable permits and offsets
+2009,IND,1,Tradable permits and offsets
+2009,ISL,1,Tradable permits and offsets
+2009,MEX,3,Tradable permits and offsets
+2009,MLT,1,Tradable permits and offsets
+2009,MOZ,1,Tradable permits and offsets
+2009,MUS,1,Tradable permits and offsets
+2009,NAM,1,Tradable permits and offsets
+2009,NOR,1,Tradable permits and offsets
+2009,NZL,2,Tradable permits and offsets
+2009,PER,1,Tradable permits and offsets
+2009,PRT,1,Tradable permits and offsets
+2009,USA,5,Tradable permits and offsets
+2009,ZAF,1,Tradable permits and offsets
+2010,MAR,1,Tradable permits and offsets
+2010,ARG,1,Tradable permits and offsets
+2010,AUS,4,Tradable permits and offsets
+2010,BEL,1,Tradable permits and offsets
+2010,CAN,2,Tradable permits and offsets
+2010,CHL,2,Tradable permits and offsets
+2010,CHN,1,Tradable permits and offsets
+2010,DEU,1,Tradable permits and offsets
+2010,DNK,1,Tradable permits and offsets
+2010,ESP,1,Tradable permits and offsets
+2010,EST,2,Tradable permits and offsets
+2010,FIN,1,Tradable permits and offsets
+2010,FRA,1,Tradable permits and offsets
+2010,GBR,1,Tradable permits and offsets
+2010,IND,1,Tradable permits and offsets
+2010,ISL,1,Tradable permits and offsets
+2010,MEX,3,Tradable permits and offsets
+2010,MLT,1,Tradable permits and offsets
+2010,MOZ,1,Tradable permits and offsets
+2010,MUS,1,Tradable permits and offsets
+2010,NAM,1,Tradable permits and offsets
+2010,NOR,1,Tradable permits and offsets
+2010,NZL,2,Tradable permits and offsets
+2010,PER,1,Tradable permits and offsets
+2010,PRT,1,Tradable permits and offsets
+2010,USA,5,Tradable permits and offsets
+2010,ZAF,1,Tradable permits and offsets
+2011,MAR,1,Tradable permits and offsets
+2011,ARG,1,Tradable permits and offsets
+2011,AUS,4,Tradable permits and offsets
+2011,BEL,1,Tradable permits and offsets
+2011,CAN,2,Tradable permits and offsets
+2011,CHL,2,Tradable permits and offsets
+2011,CHN,1,Tradable permits and offsets
+2011,DEU,1,Tradable permits and offsets
+2011,DNK,1,Tradable permits and offsets
+2011,ESP,1,Tradable permits and offsets
+2011,EST,2,Tradable permits and offsets
+2011,FIN,1,Tradable permits and offsets
+2011,FRA,1,Tradable permits and offsets
+2011,GBR,1,Tradable permits and offsets
+2011,IND,1,Tradable permits and offsets
+2011,ISL,1,Tradable permits and offsets
+2011,MEX,3,Tradable permits and offsets
+2011,MLT,1,Tradable permits and offsets
+2011,MOZ,1,Tradable permits and offsets
+2011,MUS,1,Tradable permits and offsets
+2011,NAM,1,Tradable permits and offsets
+2011,NOR,1,Tradable permits and offsets
+2011,NZL,2,Tradable permits and offsets
+2011,PER,1,Tradable permits and offsets
+2011,PRT,1,Tradable permits and offsets
+2011,USA,5,Tradable permits and offsets
+2011,ZAF,1,Tradable permits and offsets
+2012,MAR,1,Tradable permits and offsets
+2012,ARG,1,Tradable permits and offsets
+2012,AUS,5,Tradable permits and offsets
+2012,BEL,1,Tradable permits and offsets
+2012,CAN,2,Tradable permits and offsets
+2012,CHL,2,Tradable permits and offsets
+2012,CHN,1,Tradable permits and offsets
+2012,DEU,1,Tradable permits and offsets
+2012,DNK,1,Tradable permits and offsets
+2012,ESP,1,Tradable permits and offsets
+2012,EST,2,Tradable permits and offsets
+2012,FIN,1,Tradable permits and offsets
+2012,FRA,1,Tradable permits and offsets
+2012,GBR,1,Tradable permits and offsets
+2012,IND,1,Tradable permits and offsets
+2012,ISL,1,Tradable permits and offsets
+2012,MEX,3,Tradable permits and offsets
+2012,MLT,1,Tradable permits and offsets
+2012,MOZ,1,Tradable permits and offsets
+2012,MUS,1,Tradable permits and offsets
+2012,NAM,1,Tradable permits and offsets
+2012,NOR,1,Tradable permits and offsets
+2012,NZL,2,Tradable permits and offsets
+2012,PER,1,Tradable permits and offsets
+2012,PRT,1,Tradable permits and offsets
+2012,USA,5,Tradable permits and offsets
+2012,ZAF,1,Tradable permits and offsets
+2013,MAR,1,Tradable permits and offsets
+2013,ARG,1,Tradable permits and offsets
+2013,AUS,5,Tradable permits and offsets
+2013,BEL,1,Tradable permits and offsets
+2013,CAN,3,Tradable permits and offsets
+2013,CHL,2,Tradable permits and offsets
+2013,CHN,1,Tradable permits and offsets
+2013,DEU,1,Tradable permits and offsets
+2013,DNK,1,Tradable permits and offsets
+2013,ESP,1,Tradable permits and offsets
+2013,EST,2,Tradable permits and offsets
+2013,FIN,1,Tradable permits and offsets
+2013,FRA,1,Tradable permits and offsets
+2013,GBR,1,Tradable permits and offsets
+2013,IND,1,Tradable permits and offsets
+2013,ISL,1,Tradable permits and offsets
+2013,MEX,3,Tradable permits and offsets
+2013,MLT,1,Tradable permits and offsets
+2013,MOZ,1,Tradable permits and offsets
+2013,MUS,1,Tradable permits and offsets
+2013,NAM,1,Tradable permits and offsets
+2013,NOR,1,Tradable permits and offsets
+2013,NZL,2,Tradable permits and offsets
+2013,PER,1,Tradable permits and offsets
+2013,PRT,1,Tradable permits and offsets
+2013,USA,5,Tradable permits and offsets
+2013,ZAF,1,Tradable permits and offsets
+2014,MAR,1,Tradable permits and offsets
+2014,ARG,1,Tradable permits and offsets
+2014,AUS,6,Tradable permits and offsets
+2014,BEL,1,Tradable permits and offsets
+2014,CAN,3,Tradable permits and offsets
+2014,CHL,2,Tradable permits and offsets
+2014,CHN,1,Tradable permits and offsets
+2014,DEU,1,Tradable permits and offsets
+2014,DNK,1,Tradable permits and offsets
+2014,ESP,1,Tradable permits and offsets
+2014,EST,2,Tradable permits and offsets
+2014,FIN,1,Tradable permits and offsets
+2014,FRA,1,Tradable permits and offsets
+2014,GBR,1,Tradable permits and offsets
+2014,IND,1,Tradable permits and offsets
+2014,ISL,1,Tradable permits and offsets
+2014,MEX,3,Tradable permits and offsets
+2014,MLT,1,Tradable permits and offsets
+2014,MOZ,1,Tradable permits and offsets
+2014,MUS,1,Tradable permits and offsets
+2014,NAM,1,Tradable permits and offsets
+2014,NOR,1,Tradable permits and offsets
+2014,NZL,2,Tradable permits and offsets
+2014,PER,1,Tradable permits and offsets
+2014,PRT,1,Tradable permits and offsets
+2014,USA,5,Tradable permits and offsets
+2014,ZAF,1,Tradable permits and offsets
+2015,MAR,1,Tradable permits and offsets
+2015,ARG,1,Tradable permits and offsets
+2015,AUS,6,Tradable permits and offsets
+2015,BEL,1,Tradable permits and offsets
+2015,CAN,4,Tradable permits and offsets
+2015,CHL,2,Tradable permits and offsets
+2015,CHN,1,Tradable permits and offsets
+2015,DEU,1,Tradable permits and offsets
+2015,DNK,1,Tradable permits and offsets
+2015,ESP,1,Tradable permits and offsets
+2015,EST,2,Tradable permits and offsets
+2015,FIN,1,Tradable permits and offsets
+2015,FRA,1,Tradable permits and offsets
+2015,GBR,1,Tradable permits and offsets
+2015,IND,1,Tradable permits and offsets
+2015,ISL,1,Tradable permits and offsets
+2015,LTU,1,Tradable permits and offsets
+2015,MEX,3,Tradable permits and offsets
+2015,MLT,1,Tradable permits and offsets
+2015,MOZ,1,Tradable permits and offsets
+2015,MUS,1,Tradable permits and offsets
+2015,NAM,1,Tradable permits and offsets
+2015,NOR,1,Tradable permits and offsets
+2015,NZL,2,Tradable permits and offsets
+2015,PER,1,Tradable permits and offsets
+2015,PRT,1,Tradable permits and offsets
+2015,USA,5,Tradable permits and offsets
+2015,ZAF,1,Tradable permits and offsets
+2016,MAR,1,Tradable permits and offsets
+2016,ARG,1,Tradable permits and offsets
+2016,AUS,6,Tradable permits and offsets
+2016,BEL,1,Tradable permits and offsets
+2016,CAN,4,Tradable permits and offsets
+2016,CHL,2,Tradable permits and offsets
+2016,CHN,1,Tradable permits and offsets
+2016,DEU,1,Tradable permits and offsets
+2016,DNK,1,Tradable permits and offsets
+2016,ESP,1,Tradable permits and offsets
+2016,EST,2,Tradable permits and offsets
+2016,FIN,1,Tradable permits and offsets
+2016,FRA,2,Tradable permits and offsets
+2016,GBR,1,Tradable permits and offsets
+2016,IND,1,Tradable permits and offsets
+2016,ISL,1,Tradable permits and offsets
+2016,LTU,1,Tradable permits and offsets
+2016,MEX,3,Tradable permits and offsets
+2016,MLT,1,Tradable permits and offsets
+2016,MOZ,1,Tradable permits and offsets
+2016,MUS,1,Tradable permits and offsets
+2016,NAM,1,Tradable permits and offsets
+2016,NOR,1,Tradable permits and offsets
+2016,NZL,2,Tradable permits and offsets
+2016,PER,1,Tradable permits and offsets
+2016,PRT,1,Tradable permits and offsets
+2016,USA,5,Tradable permits and offsets
+2016,ZAF,1,Tradable permits and offsets
+2017,MAR,1,Tradable permits and offsets
+2017,ARG,1,Tradable permits and offsets
+2017,AUS,6,Tradable permits and offsets
+2017,BEL,1,Tradable permits and offsets
+2017,CAN,4,Tradable permits and offsets
+2017,CHL,2,Tradable permits and offsets
+2017,CHN,1,Tradable permits and offsets
+2017,DEU,1,Tradable permits and offsets
+2017,DNK,1,Tradable permits and offsets
+2017,ESP,1,Tradable permits and offsets
+2017,EST,2,Tradable permits and offsets
+2017,FIN,1,Tradable permits and offsets
+2017,FRA,2,Tradable permits and offsets
+2017,GBR,1,Tradable permits and offsets
+2017,IND,1,Tradable permits and offsets
+2017,ISL,1,Tradable permits and offsets
+2017,LTU,1,Tradable permits and offsets
+2017,MEX,3,Tradable permits and offsets
+2017,MLT,1,Tradable permits and offsets
+2017,MOZ,1,Tradable permits and offsets
+2017,MUS,1,Tradable permits and offsets
+2017,NAM,1,Tradable permits and offsets
+2017,NOR,1,Tradable permits and offsets
+2017,NZL,2,Tradable permits and offsets
+2017,PER,1,Tradable permits and offsets
+2017,PRT,1,Tradable permits and offsets
+2017,USA,5,Tradable permits and offsets
+2017,ZAF,1,Tradable permits and offsets
+2018,MAR,1,Tradable permits and offsets
+2018,ARG,1,Tradable permits and offsets
+2018,AUS,6,Tradable permits and offsets
+2018,BEL,1,Tradable permits and offsets
+2018,CAN,4,Tradable permits and offsets
+2018,CHL,2,Tradable permits and offsets
+2018,CHN,1,Tradable permits and offsets
+2018,DEU,1,Tradable permits and offsets
+2018,DNK,1,Tradable permits and offsets
+2018,ESP,1,Tradable permits and offsets
+2018,EST,2,Tradable permits and offsets
+2018,FIN,1,Tradable permits and offsets
+2018,FRA,2,Tradable permits and offsets
+2018,GBR,1,Tradable permits and offsets
+2018,IND,1,Tradable permits and offsets
+2018,ISL,1,Tradable permits and offsets
+2018,LTU,1,Tradable permits and offsets
+2018,MEX,3,Tradable permits and offsets
+2018,MLT,1,Tradable permits and offsets
+2018,MOZ,1,Tradable permits and offsets
+2018,MUS,1,Tradable permits and offsets
+2018,NAM,1,Tradable permits and offsets
+2018,NOR,1,Tradable permits and offsets
+2018,NZL,2,Tradable permits and offsets
+2018,PER,1,Tradable permits and offsets
+2018,PRT,1,Tradable permits and offsets
+2018,USA,5,Tradable permits and offsets
+2018,ZAF,1,Tradable permits and offsets
+2019,MAR,1,Tradable permits and offsets
+2019,ARG,1,Tradable permits and offsets
+2019,AUS,7,Tradable permits and offsets
+2019,BEL,1,Tradable permits and offsets
+2019,CAN,4,Tradable permits and offsets
+2019,CHL,2,Tradable permits and offsets
+2019,CHN,1,Tradable permits and offsets
+2019,DEU,1,Tradable permits and offsets
+2019,DNK,1,Tradable permits and offsets
+2019,ESP,1,Tradable permits and offsets
+2019,EST,2,Tradable permits and offsets
+2019,FIN,1,Tradable permits and offsets
+2019,FRA,2,Tradable permits and offsets
+2019,GBR,1,Tradable permits and offsets
+2019,IND,1,Tradable permits and offsets
+2019,ISL,1,Tradable permits and offsets
+2019,LTU,1,Tradable permits and offsets
+2019,MEX,3,Tradable permits and offsets
+2019,MLT,1,Tradable permits and offsets
+2019,MOZ,1,Tradable permits and offsets
+2019,MUS,1,Tradable permits and offsets
+2019,NAM,1,Tradable permits and offsets
+2019,NOR,1,Tradable permits and offsets
+2019,NZL,2,Tradable permits and offsets
+2019,PER,1,Tradable permits and offsets
+2019,PRT,1,Tradable permits and offsets
+2019,USA,5,Tradable permits and offsets
+2019,ZAF,1,Tradable permits and offsets
+2020,MAR,1,Tradable permits and offsets
+2020,ARG,1,Tradable permits and offsets
+2020,AUS,7,Tradable permits and offsets
+2020,BEL,1,Tradable permits and offsets
+2020,CAN,4,Tradable permits and offsets
+2020,CHL,2,Tradable permits and offsets
+2020,CHN,1,Tradable permits and offsets
+2020,DEU,1,Tradable permits and offsets
+2020,DNK,1,Tradable permits and offsets
+2020,ESP,1,Tradable permits and offsets
+2020,EST,2,Tradable permits and offsets
+2020,FIN,1,Tradable permits and offsets
+2020,FRA,2,Tradable permits and offsets
+2020,GBR,1,Tradable permits and offsets
+2020,IND,1,Tradable permits and offsets
+2020,ISL,1,Tradable permits and offsets
+2020,LTU,1,Tradable permits and offsets
+2020,MEX,3,Tradable permits and offsets
+2020,MLT,1,Tradable permits and offsets
+2020,MOZ,1,Tradable permits and offsets
+2020,MUS,1,Tradable permits and offsets
+2020,NAM,1,Tradable permits and offsets
+2020,NOR,1,Tradable permits and offsets
+2020,NZL,2,Tradable permits and offsets
+2020,PER,1,Tradable permits and offsets
+2020,PRT,1,Tradable permits and offsets
+2020,USA,5,Tradable permits and offsets
+2020,ZAF,1,Tradable permits and offsets
+2021,MAR,1,Tradable permits and offsets
+2021,ARG,1,Tradable permits and offsets
+2021,AUS,7,Tradable permits and offsets
+2021,BEL,1,Tradable permits and offsets
+2021,CAN,4,Tradable permits and offsets
+2021,CHL,2,Tradable permits and offsets
+2021,CHN,1,Tradable permits and offsets
+2021,DEU,1,Tradable permits and offsets
+2021,DNK,1,Tradable permits and offsets
+2021,ESP,1,Tradable permits and offsets
+2021,EST,2,Tradable permits and offsets
+2021,FIN,1,Tradable permits and offsets
+2021,FRA,2,Tradable permits and offsets
+2021,GBR,1,Tradable permits and offsets
+2021,IND,1,Tradable permits and offsets
+2021,ISL,1,Tradable permits and offsets
+2021,LTU,1,Tradable permits and offsets
+2021,MEX,3,Tradable permits and offsets
+2021,MLT,1,Tradable permits and offsets
+2021,MOZ,1,Tradable permits and offsets
+2021,MUS,1,Tradable permits and offsets
+2021,NAM,1,Tradable permits and offsets
+2021,NOR,1,Tradable permits and offsets
+2021,NZL,2,Tradable permits and offsets
+2021,PER,1,Tradable permits and offsets
+2021,PRT,1,Tradable permits and offsets
+2021,USA,5,Tradable permits and offsets
+2021,ZAF,1,Tradable permits and offsets
+2022,MAR,1,Tradable permits and offsets
+2022,ARG,1,Tradable permits and offsets
+2022,AUS,7,Tradable permits and offsets
+2022,BEL,1,Tradable permits and offsets
+2022,CAN,4,Tradable permits and offsets
+2022,CHL,2,Tradable permits and offsets
+2022,CHN,1,Tradable permits and offsets
+2022,DEU,1,Tradable permits and offsets
+2022,DNK,1,Tradable permits and offsets
+2022,ESP,1,Tradable permits and offsets
+2022,EST,2,Tradable permits and offsets
+2022,FIN,1,Tradable permits and offsets
+2022,FRA,2,Tradable permits and offsets
+2022,GBR,1,Tradable permits and offsets
+2022,IND,1,Tradable permits and offsets
+2022,ISL,1,Tradable permits and offsets
+2022,LTU,1,Tradable permits and offsets
+2022,MEX,3,Tradable permits and offsets
+2022,MLT,1,Tradable permits and offsets
+2022,MOZ,1,Tradable permits and offsets
+2022,MUS,1,Tradable permits and offsets
+2022,NAM,1,Tradable permits and offsets
+2022,NOR,1,Tradable permits and offsets
+2022,NZL,2,Tradable permits and offsets
+2022,PER,1,Tradable permits and offsets
+2022,PRT,1,Tradable permits and offsets
+2022,ROU,1,Tradable permits and offsets
+2022,SVN,1,Tradable permits and offsets
+2022,USA,5,Tradable permits and offsets
+2022,ZAF,1,Tradable permits and offsets
+2023,MAR,1,Tradable permits and offsets
+2023,ARG,1,Tradable permits and offsets
+2023,AUS,7,Tradable permits and offsets
+2023,BEL,1,Tradable permits and offsets
+2023,CAN,4,Tradable permits and offsets
+2023,CHL,2,Tradable permits and offsets
+2023,CHN,1,Tradable permits and offsets
+2023,DEU,1,Tradable permits and offsets
+2023,DNK,1,Tradable permits and offsets
+2023,ESP,1,Tradable permits and offsets
+2023,EST,2,Tradable permits and offsets
+2023,FIN,2,Tradable permits and offsets
+2023,FRA,2,Tradable permits and offsets
+2023,GBR,1,Tradable permits and offsets
+2023,IND,1,Tradable permits and offsets
+2023,ISL,1,Tradable permits and offsets
+2023,LTU,1,Tradable permits and offsets
+2023,MEX,3,Tradable permits and offsets
+2023,MLT,1,Tradable permits and offsets
+2023,MOZ,1,Tradable permits and offsets
+2023,MUS,1,Tradable permits and offsets
+2023,NAM,1,Tradable permits and offsets
+2023,NOR,1,Tradable permits and offsets
+2023,NZL,2,Tradable permits and offsets
+2023,PER,1,Tradable permits and offsets
+2023,PRT,1,Tradable permits and offsets
+2023,ROU,1,Tradable permits and offsets
+2023,SVN,1,Tradable permits and offsets
+2023,USA,5,Tradable permits and offsets
+2023,ZAF,1,Tradable permits and offsets
+2024,MAR,1,Tradable permits and offsets
+2024,ARG,1,Tradable permits and offsets
+2024,AUS,7,Tradable permits and offsets
+2024,BEL,1,Tradable permits and offsets
+2024,CAN,4,Tradable permits and offsets
+2024,CHL,2,Tradable permits and offsets
+2024,CHN,1,Tradable permits and offsets
+2024,DEU,1,Tradable permits and offsets
+2024,DNK,1,Tradable permits and offsets
+2024,ESP,1,Tradable permits and offsets
+2024,EST,2,Tradable permits and offsets
+2024,FIN,2,Tradable permits and offsets
+2024,FRA,2,Tradable permits and offsets
+2024,GBR,1,Tradable permits and offsets
+2024,IND,1,Tradable permits and offsets
+2024,ISL,1,Tradable permits and offsets
+2024,LTU,1,Tradable permits and offsets
+2024,MEX,3,Tradable permits and offsets
+2024,MLT,1,Tradable permits and offsets
+2024,MOZ,1,Tradable permits and offsets
+2024,MUS,1,Tradable permits and offsets
+2024,NAM,1,Tradable permits and offsets
+2024,NOR,1,Tradable permits and offsets
+2024,NZL,2,Tradable permits and offsets
+2024,PER,1,Tradable permits and offsets
+2024,PRT,1,Tradable permits and offsets
+2024,ROU,1,Tradable permits and offsets
+2024,SVN,1,Tradable permits and offsets
+2024,USA,5,Tradable permits and offsets
+2024,ZAF,1,Tradable permits and offsets
+2025,MAR,1,Tradable permits and offsets
+2025,ARG,1,Tradable permits and offsets
+2025,AUS,7,Tradable permits and offsets
+2025,BEL,1,Tradable permits and offsets
+2025,CAN,4,Tradable permits and offsets
+2025,CHL,2,Tradable permits and offsets
+2025,CHN,1,Tradable permits and offsets
+2025,DEU,1,Tradable permits and offsets
+2025,DNK,1,Tradable permits and offsets
+2025,ESP,1,Tradable permits and offsets
+2025,EST,2,Tradable permits and offsets
+2025,FIN,2,Tradable permits and offsets
+2025,FRA,2,Tradable permits and offsets
+2025,GBR,1,Tradable permits and offsets
+2025,IND,1,Tradable permits and offsets
+2025,ISL,1,Tradable permits and offsets
+2025,LTU,1,Tradable permits and offsets
+2025,MEX,3,Tradable permits and offsets
+2025,MLT,1,Tradable permits and offsets
+2025,MOZ,1,Tradable permits and offsets
+2025,MUS,1,Tradable permits and offsets
+2025,NAM,1,Tradable permits and offsets
+2025,NOR,1,Tradable permits and offsets
+2025,NZL,2,Tradable permits and offsets
+2025,PER,1,Tradable permits and offsets
+2025,PRT,1,Tradable permits and offsets
+2025,ROU,1,Tradable permits and offsets
+2025,SVN,1,Tradable permits and offsets
+2025,USA,5,Tradable permits and offsets
+2025,ZAF,1,Tradable permits and offsets
