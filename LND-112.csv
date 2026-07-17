@@ -682,11 +682,15 @@ year,geo,disagg_type,disagg,value,projections,benchmark_low,benchmark_mid,benchm
 2015,ZMB,Risk,Low risk agricultural land,0.0,,,,
 2015,ZMB,Risk,Medium risk agricultural land,2.9,,,,
 2015,ZMB,Risk,High risk agricultural land,97,,,,
+<<<<<<< Updated upstream
 2015,ZMB,Risk,Total,100,,,,
 2015,ZNC,Risk,Low risk agricultural land,1.5,,,,
 2015,ZNC,Risk,Medium risk agricultural land,25,,,,
 2015,ZNC,Risk,High risk agricultural land,1.8,,,,
 2015,ZNC,Risk,Total,28,,,,
+=======
+2015,ZMB,All,Total,100,,,,
+>>>>>>> Stashed changes
 2015,ZWE,Risk,Low risk agricultural land,14,,,,
 2015,ZWE,Risk,Medium risk agricultural land,51,,,,
 2015,ZWE,Risk,High risk agricultural land,8.7,,,,
