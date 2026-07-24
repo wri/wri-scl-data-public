@@ -23,7 +23,6 @@ year,geo,disagg,value
 2021,WLD,Total,103
 2022,WLD,Total,136
 2023,WLD,Total,147
-2024,WLD,Total,21
 2009,WLD,CITES Appendix I,1
 2010,WLD,CITES Appendix I,1
 2011,WLD,CITES Appendix I,2
@@ -39,7 +38,6 @@ year,geo,disagg,value
 2021,WLD,CITES Appendix I,21
 2022,WLD,CITES Appendix I,32
 2023,WLD,CITES Appendix I,38
-2024,WLD,CITES Appendix I,6
 2000,WLD,CITES Appendix II,2
 2001,WLD,CITES Appendix II,2
 2002,WLD,CITES Appendix II,3
@@ -64,7 +62,6 @@ year,geo,disagg,value
 2021,WLD,CITES Appendix II,74
 2022,WLD,CITES Appendix II,95
 2023,WLD,CITES Appendix II,99
-2024,WLD,CITES Appendix II,15
 2005,WLD,CITES Appendix III,1
 2011,WLD,CITES Appendix III,2
 2012,WLD,CITES Appendix III,3
