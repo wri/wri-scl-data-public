@@ -1,7 +1,7 @@
-﻿year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2022,WLD,Moderate,55,,,,
-2022,WLD,High,17,,,,
+year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,Total,72,,,,
-2024,WLD,Moderate,40,,,,
-2024,WLD,High,13,,,,
 2024,WLD,Total,53,,,,
+2022,WLD,Moderate pressure,55,,,,
+2024,WLD,Moderate pressure,40,,,,
+2022,WLD,High pressure,17,,,,
+2024,WLD,High pressure,13,,,,
