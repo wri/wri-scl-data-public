@@ -17,3 +17,6 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2023,WLD,Environmental policy,11,,,,
 2023,WLD,Pollution abatement,15,,,,
 2023,WLD,Wastewater management,15,,,,
+2025,WLD,,,359,,,
+2030,WLD,,,,,483,
+2050,WLD,,,,,585,
