@@ -1,7 +1,9 @@
 year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2021,WLD,Total public finance,183,,,,
-2022,WLD,Total public finance,181,,,,
-2023,WLD,Total public finance,189,,,,
+2021,WLD,Total,183,,,,
+2022,WLD,Total,181,,,,
+2023,WLD,Total,189,,,,
+2030,WLD,Total,,,,483,
+2050,WLD,Total,,,,585,
 2021,WLD,"Sustainable agriculture, fishing and forestry",71,,,,
 2021,WLD,Biodiversity and landscape protection,72,,,,
 2021,WLD,Environmental policy,12,,,,
