@@ -1,41 +1,36 @@
 ﻿year,geo,disagg,value
-2010,WLD,Total,2.6
-2011,WLD,Total,2.5
-2012,WLD,Total,2.6
-2013,WLD,Total,2.7
-2014,WLD,Total,2.9
-2015,WLD,Total,3.1
-2016,WLD,Total,2.9
-2017,WLD,Total,3.8
-2018,WLD,Total,3.8
-2019,WLD,Total,3.8
-2020,WLD,Total,3.4
-2021,WLD,Total,3.4
-2022,WLD,Total,3.6
-2010,WLD,Philantrophic funding,0.08
-2011,WLD,Philantrophic funding,0.09
-2012,WLD,Philantrophic funding,0.09
-2013,WLD,Philantrophic funding,0.1
-2014,WLD,Philantrophic funding,0.1
-2015,WLD,Philantrophic funding,0.13
+2015,WLD,Total,0.56
+2016,WLD,Total,0.57
+2017,WLD,Total,0.58
+2018,WLD,Total,0.62
+2019,WLD,Total,0.69
+2020,WLD,Total,0.66
+2021,WLD,Total,1.09
+2022,WLD,Total,0.84
+2023,WLD,Total,1.04
+2024,WLD,Total,1.47
+2010,WLD,ODA disbursement,0.21
+2011,WLD,ODA disbursement,0.24
+2012,WLD,ODA disbursement,0.34
+2013,WLD,ODA disbursement,0.3
+2014,WLD,ODA disbursement,0.36
+2015,WLD,ODA disbursement,0.41
+2016,WLD,ODA disbursement,0.46
+2017,WLD,ODA disbursement,0.48
+2018,WLD,ODA disbursement,0.48
+2019,WLD,ODA disbursement,0.54
+2020,WLD,ODA disbursement,0.47
+2021,WLD,ODA disbursement,0.88
+2022,WLD,ODA disbursement,0.55
+2023,WLD,ODA disbursement,0.69
+2024,WLD,ODA disbursement,1.13
+2015,WLD,Philantrophic funding,0.15
 2016,WLD,Philantrophic funding,0.1
 2017,WLD,Philantrophic funding,0.1
-2018,WLD,Philantrophic funding,0.12
+2018,WLD,Philantrophic funding,0.14
 2019,WLD,Philantrophic funding,0.15
 2020,WLD,Philantrophic funding,0.19
-2021,WLD,Philantrophic funding,0.22
-2022,WLD,Philantrophic funding,0.22
-2010,WLD,ODA disbursement,2.5
-2011,WLD,ODA disbursement,2.4
-2012,WLD,ODA disbursement,2.5
-2013,WLD,ODA disbursement,2.6
-2014,WLD,ODA disbursement,2.8
-2015,WLD,ODA disbursement,3
-2016,WLD,ODA disbursement,2.8
-2017,WLD,ODA disbursement,3.7
-2018,WLD,ODA disbursement,3.7
-2019,WLD,ODA disbursement,3.6
-2020,WLD,ODA disbursement,3.2
-2021,WLD,ODA disbursement,3.2
-2022,WLD,ODA disbursement,3.4
-2023,WLD,ODA disbursement,3.2
+2021,WLD,Philantrophic funding,0.21
+2022,WLD,Philantrophic funding,0.29
+2023,WLD,Philantrophic funding,0.35
+2024,WLD,Philantrophic funding,0.34
