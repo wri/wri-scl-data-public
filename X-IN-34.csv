@@ -17,7 +17,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,Total,1920,,,,
 2023,WLD,Total,1920,,,,
 2024,WLD,Total,1920,,,,
-2029,WLD,Total,,,,,
+2029,WLD,Total,,1955,,,
 2030,WLD,Total,,,1340,1345,1350
 2050,WLD,Total,,,0,65,130
 2021,WLD,BF-BOF,2330,,,,
