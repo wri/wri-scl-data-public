@@ -1,4 +1,5 @@
 year,geo,disagg,value
+2025,AFG,Coal,0.4
 2015,ALB,Coal,0
 2016,ALB,Coal,0
 2017,ALB,Coal,0
@@ -9,6 +10,7 @@ year,geo,disagg,value
 2022,ALB,Coal,0
 2023,ALB,Coal,0
 2024,ALB,Coal,0
+2025,ALB,Coal,0
 2015,ARE,Coal,2.7
 2016,ARE,Coal,3.9
 2017,ARE,Coal,5.4
@@ -19,6 +21,7 @@ year,geo,disagg,value
 2022,ARE,Coal,0
 2023,ARE,Coal,0
 2024,ARE,Coal,0
+2025,ARE,Coal,0
 2015,ARG,Coal,0.24
 2016,ARG,Coal,0.24
 2017,ARG,Coal,0.24
@@ -29,6 +32,7 @@ year,geo,disagg,value
 2022,ARG,Coal,0.12
 2023,ARG,Coal,0.12
 2024,ARG,Coal,0.12
+2025,ARG,Coal,0.1
 2015,AUS,Coal,3.6
 2016,AUS,Coal,1.4
 2017,AUS,Coal,0
@@ -39,6 +43,7 @@ year,geo,disagg,value
 2022,AUS,Coal,0.95
 2023,AUS,Coal,0.95
 2024,AUS,Coal,0.95
+2025,AUS,Coal,0.9
 2015,AUT,Coal,0
 2016,AUT,Coal,0
 2017,AUT,Coal,0
@@ -49,6 +54,7 @@ year,geo,disagg,value
 2022,AUT,Coal,0
 2023,AUT,Coal,0
 2024,AUT,Coal,0
+2025,AUT,Coal,0
 2015,BEL,Coal,0
 2016,BEL,Coal,0
 2017,BEL,Coal,0
@@ -59,6 +65,7 @@ year,geo,disagg,value
 2022,BEL,Coal,0
 2023,BEL,Coal,0
 2024,BEL,Coal,0
+2025,BEL,Coal,0
 2015,BGD,Coal,20
 2016,BGD,Coal,23
 2017,BGD,Coal,26
@@ -69,6 +76,7 @@ year,geo,disagg,value
 2022,BGD,Coal,13
 2023,BGD,Coal,11
 2024,BGD,Coal,8.9
+2025,BGD,Coal,6.9
 2015,BGR,Coal,0
 2016,BGR,Coal,0.053
 2017,BGR,Coal,0
@@ -79,6 +87,7 @@ year,geo,disagg,value
 2022,BGR,Coal,0
 2023,BGR,Coal,0
 2024,BGR,Coal,0
+2025,BGR,Coal,0
 2015,BIH,Coal,4.1
 2016,BIH,Coal,3.8
 2017,BIH,Coal,4.2
@@ -89,6 +98,7 @@ year,geo,disagg,value
 2022,BIH,Coal,2.2
 2023,BIH,Coal,1.4
 2024,BIH,Coal,1.1
+2025,BIH,Coal,1.1
 2015,BLR,Coal,0
 2016,BLR,Coal,0
 2017,BLR,Coal,0
@@ -99,6 +109,7 @@ year,geo,disagg,value
 2022,BLR,Coal,0
 2023,BLR,Coal,0
 2024,BLR,Coal,0
+2025,BLR,Coal,0
 2015,BRA,Coal,3.9
 2016,BRA,Coal,1.6
 2017,BRA,Coal,3
@@ -109,6 +120,7 @@ year,geo,disagg,value
 2022,BRA,Coal,1.7
 2023,BRA,Coal,1.3
 2024,BRA,Coal,0.6
+2025,BRA,Coal,0
 2015,BRN,Coal,0
 2016,BRN,Coal,0
 2017,BRN,Coal,0
@@ -119,6 +131,7 @@ year,geo,disagg,value
 2022,BRN,Coal,0
 2023,BRN,Coal,0
 2024,BRN,Coal,0
+2025,BRN,Coal,0
 2015,BWA,Coal,2.9
 2016,BWA,Coal,3.8
 2017,BWA,Coal,2.3
@@ -129,6 +142,7 @@ year,geo,disagg,value
 2022,BWA,Coal,1.1
 2023,BWA,Coal,0.6
 2024,BWA,Coal,0.6
+2025,BWA,Coal,1.3
 2015,CAN,Coal,1
 2016,CAN,Coal,0
 2017,CAN,Coal,0
@@ -139,6 +153,7 @@ year,geo,disagg,value
 2022,CAN,Coal,0
 2023,CAN,Coal,0
 2024,CAN,Coal,0
+2025,CAN,Coal,0
 2015,CHL,Coal,1.8
 2016,CHL,Coal,2.6
 2017,CHL,Coal,0.38
@@ -149,6 +164,7 @@ year,geo,disagg,value
 2022,CHL,Coal,0
 2023,CHL,Coal,0
 2024,CHL,Coal,0
+2025,CHL,Coal,0
 2015,CHN,Coal,730
 2016,CHN,Coal,340
 2017,CHN,Coal,230
@@ -159,6 +175,7 @@ year,geo,disagg,value
 2022,CHN,Coal,370
 2023,CHN,Coal,420
 2024,CHN,Coal,440
+2025,CHN,Coal,498
 2015,CIV,Coal,0
 2016,CIV,Coal,0
 2017,CIV,Coal,0.7
@@ -169,6 +186,7 @@ year,geo,disagg,value
 2022,CIV,Coal,0
 2023,CIV,Coal,0
 2024,CIV,Coal,0
+2025,CIV,Coal,0
 2015,COD,Coal,0.5
 2016,COD,Coal,0
 2017,COD,Coal,0
@@ -179,6 +197,7 @@ year,geo,disagg,value
 2022,COD,Coal,0
 2023,COD,Coal,0
 2024,COD,Coal,0
+2025,COD,Coal,0
 2015,COL,Coal,1
 2016,COL,Coal,0.87
 2017,COL,Coal,1.2
@@ -189,6 +208,7 @@ year,geo,disagg,value
 2022,COL,Coal,1.1
 2023,COL,Coal,0
 2024,COL,Coal,0
+2025,COL,Coal,0
 2015,CZE,Coal,1.4
 2016,CZE,Coal,0.66
 2017,CZE,Coal,0.66
@@ -199,6 +219,7 @@ year,geo,disagg,value
 2022,CZE,Coal,0
 2023,CZE,Coal,0
 2024,CZE,Coal,0
+2025,CZE,Coal,0
 2015,DEU,Coal,6.1
 2016,DEU,Coal,4.1
 2017,DEU,Coal,3.1
@@ -209,6 +230,7 @@ year,geo,disagg,value
 2022,DEU,Coal,0
 2023,DEU,Coal,0
 2024,DEU,Coal,0
+2025,DEU,Coal,0
 2015,DJI,Coal,0
 2016,DJI,Coal,0
 2017,DJI,Coal,0
@@ -219,6 +241,7 @@ year,geo,disagg,value
 2022,DJI,Coal,0
 2023,DJI,Coal,0
 2024,DJI,Coal,0
+2025,DJI,Coal,0
 2015,DNK,Coal,0
 2016,DNK,Coal,0
 2017,DNK,Coal,0
@@ -229,6 +252,7 @@ year,geo,disagg,value
 2022,DNK,Coal,0
 2023,DNK,Coal,0
 2024,DNK,Coal,0
+2025,DNK,Coal,0
 2015,DOM,Coal,1.3
 2016,DOM,Coal,1.1
 2017,DOM,Coal,0.75
@@ -239,6 +263,7 @@ year,geo,disagg,value
 2022,DOM,Coal,0
 2023,DOM,Coal,0
 2024,DOM,Coal,0
+2025,DOM,Coal,0
 2015,EGY,Coal,11
 2016,EGY,Coal,15
 2017,EGY,Coal,15
@@ -249,6 +274,7 @@ year,geo,disagg,value
 2022,EGY,Coal,0
 2023,EGY,Coal,0
 2024,EGY,Coal,0
+2025,EGY,Coal,0
 2015,ESP,Coal,0
 2016,ESP,Coal,0
 2017,ESP,Coal,0
@@ -259,6 +285,7 @@ year,geo,disagg,value
 2022,ESP,Coal,0
 2023,ESP,Coal,0
 2024,ESP,Coal,0
+2025,ESP,Coal,0
 2015,ETH,Coal,0.09
 2016,ETH,Coal,0.09
 2017,ETH,Coal,0.09
@@ -269,6 +296,7 @@ year,geo,disagg,value
 2022,ETH,Coal,0
 2023,ETH,Coal,0
 2024,ETH,Coal,0
+2025,ETH,Coal,0
 2015,EUU,Coal,21
 2016,EUU,Coal,16
 2017,EUU,Coal,15
@@ -289,6 +317,7 @@ year,geo,disagg,value
 2022,FIN,Coal,0
 2023,FIN,Coal,0
 2024,FIN,Coal,0
+2025,FIN,Coal,0
 2015,FRA,Coal,0
 2016,FRA,Coal,0
 2017,FRA,Coal,0
@@ -299,6 +328,7 @@ year,geo,disagg,value
 2022,FRA,Coal,0
 2023,FRA,Coal,0
 2024,FRA,Coal,0
+2025,FRA,Coal,0
 2015,GBR,Coal,1.5
 2016,GBR,Coal,0.57
 2017,GBR,Coal,0
@@ -309,6 +339,7 @@ year,geo,disagg,value
 2022,GBR,Coal,0
 2023,GBR,Coal,0
 2024,GBR,Coal,0
+2025,GBR,Coal,0
 2015,GEO,Coal,0.3
 2016,GEO,Coal,0.3
 2017,GEO,Coal,0.3
@@ -319,6 +350,7 @@ year,geo,disagg,value
 2022,GEO,Coal,0
 2023,GEO,Coal,0
 2024,GEO,Coal,0
+2025,GEO,Coal,0
 2015,GHA,Coal,2.1
 2016,GHA,Coal,0
 2017,GHA,Coal,0.7
@@ -329,6 +361,7 @@ year,geo,disagg,value
 2022,GHA,Coal,0
 2023,GHA,Coal,0
 2024,GHA,Coal,0
+2025,GHA,Coal,0
 2015,GIN,Coal,0
 2016,GIN,Coal,0
 2017,GIN,Coal,0
@@ -339,6 +372,7 @@ year,geo,disagg,value
 2022,GIN,Coal,0
 2023,GIN,Coal,0
 2024,GIN,Coal,0
+2025,GIN,Coal,0
 2015,GLP,Coal,0
 2016,GLP,Coal,0
 2017,GLP,Coal,0
@@ -359,6 +393,7 @@ year,geo,disagg,value
 2022,GRC,Coal,0.66
 2023,GRC,Coal,0
 2024,GRC,Coal,0
+2025,GRC,Coal,0
 2015,GTM,Coal,0.3
 2016,GTM,Coal,0
 2017,GTM,Coal,0
@@ -369,6 +404,7 @@ year,geo,disagg,value
 2022,GTM,Coal,0
 2023,GTM,Coal,0
 2024,GTM,Coal,0
+2025,GTM,Coal,0
 2015,HKG,Coal,0
 2016,HKG,Coal,0
 2017,HKG,Coal,0
@@ -379,6 +415,7 @@ year,geo,disagg,value
 2022,HKG,Coal,0
 2023,HKG,Coal,0
 2024,HKG,Coal,0
+2025,HKG,Coal,0
 2015,HND,Coal,0
 2016,HND,Coal,0
 2017,HND,Coal,0
@@ -389,6 +426,7 @@ year,geo,disagg,value
 2022,HND,Coal,0.1
 2023,HND,Coal,0.1
 2024,HND,Coal,0.1
+2025,HND,Coal,0
 2015,HRV,Coal,0.5
 2016,HRV,Coal,0
 2017,HRV,Coal,0
@@ -399,6 +437,7 @@ year,geo,disagg,value
 2022,HRV,Coal,0
 2023,HRV,Coal,0
 2024,HRV,Coal,0
+2025,HRV,Coal,0
 2015,HUN,Coal,0
 2016,HUN,Coal,0.5
 2017,HUN,Coal,0.5
@@ -409,6 +448,7 @@ year,geo,disagg,value
 2022,HUN,Coal,0
 2023,HUN,Coal,0
 2024,HUN,Coal,0
+2025,HUN,Coal,0
 2015,IDN,Coal,54
 2016,IDN,Coal,49
 2017,IDN,Coal,39
@@ -419,6 +459,7 @@ year,geo,disagg,value
 2022,IDN,Coal,21
 2023,IDN,Coal,15
 2024,IDN,Coal,14
+2025,IDN,Coal,18
 2015,IND,Coal,310
 2016,IND,Coal,180
 2017,IND,Coal,140
@@ -429,6 +470,7 @@ year,geo,disagg,value
 2022,IND,Coal,71
 2023,IND,Coal,77
 2024,IND,Coal,110
+2025,IND,Coal,133
 2015,IRL,Coal,0
 2016,IRL,Coal,0
 2017,IRL,Coal,0
@@ -439,6 +481,7 @@ year,geo,disagg,value
 2022,IRL,Coal,0
 2023,IRL,Coal,0
 2024,IRL,Coal,0
+2025,IRL,Coal,0
 2015,IRN,Coal,0.65
 2016,IRN,Coal,0.65
 2017,IRN,Coal,0.65
@@ -449,6 +492,7 @@ year,geo,disagg,value
 2022,IRN,Coal,0.65
 2023,IRN,Coal,0.65
 2024,IRN,Coal,0.65
+2025,IRN,Coal,0.7
 2015,ISR,Coal,1.3
 2016,ISR,Coal,0
 2017,ISR,Coal,0
@@ -459,6 +503,7 @@ year,geo,disagg,value
 2022,ISR,Coal,0
 2023,ISR,Coal,0
 2024,ISR,Coal,0
+2025,ISR,Coal,0
 2015,ITA,Coal,0.35
 2016,ITA,Coal,0
 2017,ITA,Coal,0
@@ -469,6 +514,7 @@ year,geo,disagg,value
 2022,ITA,Coal,0
 2023,ITA,Coal,0
 2024,ITA,Coal,0
+2025,ITA,Coal,0
 2015,JAM,Coal,0.09
 2016,JAM,Coal,1
 2017,JAM,Coal,0
@@ -479,6 +525,7 @@ year,geo,disagg,value
 2022,JAM,Coal,0
 2023,JAM,Coal,0
 2024,JAM,Coal,0
+2025,JAM,Coal,0
 2015,JPN,Coal,23
 2016,JPN,Coal,22
 2017,JPN,Coal,17
@@ -489,6 +536,7 @@ year,geo,disagg,value
 2022,JPN,Coal,3
 2023,JPN,Coal,0.5
 2024,JPN,Coal,0.5
+2025,JPN,Coal,0.5
 2015,KAZ,Coal,2.9
 2016,KAZ,Coal,1.5
 2017,KAZ,Coal,0.78
@@ -499,6 +547,7 @@ year,geo,disagg,value
 2022,KAZ,Coal,1.4
 2023,KAZ,Coal,5.9
 2024,KAZ,Coal,5.1
+2025,KAZ,Coal,6.9
 2015,KEN,Coal,1.2
 2016,KEN,Coal,1.2
 2017,KEN,Coal,1.1
@@ -509,6 +558,7 @@ year,geo,disagg,value
 2022,KEN,Coal,0.064
 2023,KEN,Coal,0.064
 2024,KEN,Coal,0
+2025,KEN,Coal,0
 2015,KGZ,Coal,0.9
 2016,KGZ,Coal,0.3
 2017,KGZ,Coal,0
@@ -519,6 +569,7 @@ year,geo,disagg,value
 2022,KGZ,Coal,0.6
 2023,KGZ,Coal,1.9
 2024,KGZ,Coal,1.9
+2025,KGZ,Coal,0.9
 2015,KHM,Coal,2.4
 2016,KHM,Coal,4.3
 2017,KHM,Coal,4.3
@@ -529,6 +580,7 @@ year,geo,disagg,value
 2022,KHM,Coal,0.97
 2023,KHM,Coal,0.27
 2024,KHM,Coal,0.27
+2025,KHM,Coal,0.3
 2015,KOR,Coal,22
 2016,KOR,Coal,15
 2017,KOR,Coal,7.5
@@ -539,16 +591,7 @@ year,geo,disagg,value
 2022,KOR,Coal,3.1
 2023,KOR,Coal,2.1
 2024,KOR,Coal,1.1
-2015,XKX,Coal,0.5
-2016,XKX,Coal,0.5
-2017,XKX,Coal,0.5
-2018,XKX,Coal,0.5
-2019,XKX,Coal,0.5
-2020,XKX,Coal,0
-2021,XKX,Coal,0
-2022,XKX,Coal,0
-2023,XKX,Coal,0
-2024,XKX,Coal,0
+2025,KOR,Coal,0
 2015,LAO,Coal,3.6
 2016,LAO,Coal,2.3
 2017,LAO,Coal,2.3
@@ -559,6 +602,7 @@ year,geo,disagg,value
 2022,LAO,Coal,7
 2023,LAO,Coal,7
 2024,LAO,Coal,4.1
+2025,LAO,Coal,3.4
 2015,LKA,Coal,2.3
 2016,LKA,Coal,1.2
 2017,LKA,Coal,0
@@ -569,6 +613,7 @@ year,geo,disagg,value
 2022,LKA,Coal,0
 2023,LKA,Coal,0
 2024,LKA,Coal,0
+2025,LKA,Coal,0
 2015,LVA,Coal,0
 2016,LVA,Coal,0
 2017,LVA,Coal,0
@@ -579,6 +624,7 @@ year,geo,disagg,value
 2022,LVA,Coal,0
 2023,LVA,Coal,0
 2024,LVA,Coal,0
+2025,LVA,Coal,0
 2015,MAR,Coal,2.1
 2016,MAR,Coal,2.1
 2017,MAR,Coal,1.7
@@ -589,6 +635,7 @@ year,geo,disagg,value
 2022,MAR,Coal,0
 2023,MAR,Coal,0
 2024,MAR,Coal,0
+2025,MAR,Coal,0
 2015,MDA,Coal,0
 2016,MDA,Coal,0
 2017,MDA,Coal,0
@@ -599,6 +646,7 @@ year,geo,disagg,value
 2022,MDA,Coal,0
 2023,MDA,Coal,0
 2024,MDA,Coal,0
+2025,MDA,Coal,0
 2015,MDG,Coal,0
 2016,MDG,Coal,0
 2017,MDG,Coal,0.03
@@ -609,6 +657,7 @@ year,geo,disagg,value
 2022,MDG,Coal,0.03
 2023,MDG,Coal,0.03
 2024,MDG,Coal,0.03
+2025,MDG,Coal,0
 2015,MEX,Coal,0
 2016,MEX,Coal,0
 2017,MEX,Coal,0
@@ -619,6 +668,7 @@ year,geo,disagg,value
 2022,MEX,Coal,0
 2023,MEX,Coal,0
 2024,MEX,Coal,0
+2025,MEX,Coal,0
 2015,MKD,Coal,0.43
 2016,MKD,Coal,0.43
 2017,MKD,Coal,0.43
@@ -629,6 +679,7 @@ year,geo,disagg,value
 2022,MKD,Coal,0
 2023,MKD,Coal,0
 2024,MKD,Coal,0
+2025,MKD,Coal,0
 2015,MMR,Coal,14
 2016,MMR,Coal,5.2
 2017,MMR,Coal,1.5
@@ -639,6 +690,7 @@ year,geo,disagg,value
 2022,MMR,Coal,0
 2023,MMR,Coal,0
 2024,MMR,Coal,0
+2025,MMR,Coal,0
 2015,MNE,Coal,0.25
 2016,MNE,Coal,0.25
 2017,MNE,Coal,0.25
@@ -649,6 +701,7 @@ year,geo,disagg,value
 2022,MNE,Coal,0
 2023,MNE,Coal,0
 2024,MNE,Coal,0
+2025,MNE,Coal,0
 2015,MNG,Coal,7.9
 2016,MNG,Coal,8.2
 2017,MNG,Coal,7.7
@@ -659,6 +712,7 @@ year,geo,disagg,value
 2022,MNG,Coal,7.4
 2023,MNG,Coal,2.2
 2024,MNG,Coal,3.5
+2025,MNG,Coal,4.4
 2015,MOZ,Coal,3
 2016,MOZ,Coal,1.4
 2017,MOZ,Coal,1.4
@@ -669,6 +723,7 @@ year,geo,disagg,value
 2022,MOZ,Coal,1.2
 2023,MOZ,Coal,1.2
 2024,MOZ,Coal,0.6
+2025,MOZ,Coal,0.3
 2015,MUS,Coal,0
 2016,MUS,Coal,0
 2017,MUS,Coal,0
@@ -679,6 +734,7 @@ year,geo,disagg,value
 2022,MUS,Coal,0
 2023,MUS,Coal,0
 2024,MUS,Coal,0
+2025,MUS,Coal,0
 2015,MWI,Coal,1.1
 2016,MWI,Coal,3.5
 2017,MWI,Coal,3.1
@@ -689,6 +745,7 @@ year,geo,disagg,value
 2022,MWI,Coal,0.9
 2023,MWI,Coal,0.9
 2024,MWI,Coal,0.9
+2025,MWI,Coal,0.6
 2015,MYS,Coal,4.6
 2016,MYS,Coal,3.6
 2017,MYS,Coal,2.6
@@ -699,6 +756,7 @@ year,geo,disagg,value
 2022,MYS,Coal,0
 2023,MYS,Coal,0
 2024,MYS,Coal,0
+2025,MYS,Coal,0
 2015,NAM,Coal,0.3
 2016,NAM,Coal,0
 2017,NAM,Coal,0
@@ -709,6 +767,7 @@ year,geo,disagg,value
 2022,NAM,Coal,0
 2023,NAM,Coal,0
 2024,NAM,Coal,0
+2025,NAM,Coal,0
 2015,NCL,Coal,0.18
 2016,NCL,Coal,0
 2017,NCL,Coal,0
@@ -719,6 +778,7 @@ year,geo,disagg,value
 2022,NCL,Coal,0
 2023,NCL,Coal,0
 2024,NCL,Coal,0
+2025,NCL,Coal,0
 2015,NER,Coal,0.6
 2016,NER,Coal,0.6
 2017,NER,Coal,0
@@ -729,6 +789,7 @@ year,geo,disagg,value
 2022,NER,Coal,0.2
 2023,NER,Coal,0.2
 2024,NER,Coal,0.2
+2025,NER,Coal,0.6
 2015,NGA,Coal,2.6
 2016,NGA,Coal,1.6
 2017,NGA,Coal,2.9
@@ -739,6 +800,7 @@ year,geo,disagg,value
 2022,NGA,Coal,0
 2023,NGA,Coal,0.6
 2024,NGA,Coal,0.7
+2025,NGA,Coal,1
 2015,NLD,Coal,1.1
 2016,NLD,Coal,0
 2017,NLD,Coal,0
@@ -749,6 +811,7 @@ year,geo,disagg,value
 2022,NLD,Coal,0
 2023,NLD,Coal,0
 2024,NLD,Coal,0
+2025,NLD,Coal,0
 2015,NZL,Coal,0
 2016,NZL,Coal,0
 2017,NZL,Coal,0
@@ -759,6 +822,7 @@ year,geo,disagg,value
 2022,NZL,Coal,0
 2023,NZL,Coal,0
 2024,NZL,Coal,0
+2025,NZL,Coal,0
 2015,OMN,Coal,0
 2016,OMN,Coal,0
 2017,OMN,Coal,1.2
@@ -769,6 +833,7 @@ year,geo,disagg,value
 2022,OMN,Coal,0
 2023,OMN,Coal,0
 2024,OMN,Coal,0
+2025,OMN,Coal,0
 2015,PAK,Coal,23
 2016,PAK,Coal,16
 2017,PAK,Coal,12
@@ -779,6 +844,7 @@ year,geo,disagg,value
 2022,PAK,Coal,6.3
 2023,PAK,Coal,4.7
 2024,PAK,Coal,2.7
+2025,PAK,Coal,2.1
 2015,PAN,Coal,0.31
 2016,PAN,Coal,0.31
 2017,PAN,Coal,0.31
@@ -789,6 +855,7 @@ year,geo,disagg,value
 2022,PAN,Coal,0
 2023,PAN,Coal,0
 2024,PAN,Coal,0
+2025,PAN,Coal,0
 2015,PER,Coal,0
 2016,PER,Coal,0
 2017,PER,Coal,0
@@ -799,6 +866,7 @@ year,geo,disagg,value
 2022,PER,Coal,0
 2023,PER,Coal,0
 2024,PER,Coal,0
+2025,PER,Coal,0
 2015,PHL,Coal,14
 2016,PHL,Coal,16
 2017,PHL,Coal,14
@@ -809,6 +877,7 @@ year,geo,disagg,value
 2022,PHL,Coal,2.4
 2023,PHL,Coal,3.3
 2024,PHL,Coal,3.6
+2025,PHL,Coal,3.4
 2015,PNG,Coal,0
 2016,PNG,Coal,0
 2017,PNG,Coal,0
@@ -819,6 +888,7 @@ year,geo,disagg,value
 2022,PNG,Coal,0
 2023,PNG,Coal,0
 2024,PNG,Coal,0
+2025,PNG,Coal,0
 2015,POL,Coal,10
 2016,POL,Coal,10
 2017,POL,Coal,9
@@ -829,6 +899,8 @@ year,geo,disagg,value
 2022,POL,Coal,0.1
 2023,POL,Coal,0.1
 2024,POL,Coal,0.1
+2025,POL,Coal,0.1
+2025,PRI,Coal,0
 2015,PRK,Coal,0.6
 2016,PRK,Coal,0.6
 2017,PRK,Coal,0.8
@@ -839,6 +911,7 @@ year,geo,disagg,value
 2022,PRK,Coal,0
 2023,PRK,Coal,0
 2024,PRK,Coal,0
+2025,PRK,Coal,0
 2015,PRT,Coal,0
 2016,PRT,Coal,0
 2017,PRT,Coal,0
@@ -849,6 +922,8 @@ year,geo,disagg,value
 2022,PRT,Coal,0
 2023,PRT,Coal,0
 2024,PRT,Coal,0
+2025,PRT,Coal,0
+2025,REU,Coal,0
 2015,ROU,Coal,0
 2016,ROU,Coal,0
 2017,ROU,Coal,0.6
@@ -859,6 +934,7 @@ year,geo,disagg,value
 2022,ROU,Coal,0
 2023,ROU,Coal,0
 2024,ROU,Coal,0
+2025,ROU,Coal,0
 2015,RUS,Coal,5.2
 2016,RUS,Coal,3.4
 2017,RUS,Coal,2.5
@@ -869,6 +945,7 @@ year,geo,disagg,value
 2022,RUS,Coal,3.7
 2023,RUS,Coal,7.7
 2024,RUS,Coal,8.4
+2025,RUS,Coal,6.7
 2015,SDN,Coal,0
 2016,SDN,Coal,0
 2017,SDN,Coal,0
@@ -879,6 +956,7 @@ year,geo,disagg,value
 2022,SDN,Coal,0
 2023,SDN,Coal,0
 2024,SDN,Coal,0
+2025,SDN,Coal,0
 2015,SEN,Coal,0.98
 2016,SEN,Coal,0.73
 2017,SEN,Coal,0.13
@@ -889,6 +967,7 @@ year,geo,disagg,value
 2022,SEN,Coal,0
 2023,SEN,Coal,0
 2024,SEN,Coal,0
+2025,SEN,Coal,0
 2015,SLV,Coal,0
 2016,SLV,Coal,0
 2017,SLV,Coal,0
@@ -899,6 +978,7 @@ year,geo,disagg,value
 2022,SLV,Coal,0
 2023,SLV,Coal,0
 2024,SLV,Coal,0
+2025,SLV,Coal,0
 2015,SRB,Coal,2.8
 2016,SRB,Coal,2.8
 2017,SRB,Coal,2.8
@@ -909,6 +989,7 @@ year,geo,disagg,value
 2022,SRB,Coal,1.7
 2023,SRB,Coal,0.35
 2024,SRB,Coal,0
+2025,SRB,Coal,0
 2015,SVK,Coal,0
 2016,SVK,Coal,0
 2017,SVK,Coal,0
@@ -919,6 +1000,7 @@ year,geo,disagg,value
 2022,SVK,Coal,0
 2023,SVK,Coal,0
 2024,SVK,Coal,0
+2025,SVK,Coal,0
 2015,SVN,Coal,0
 2016,SVN,Coal,0
 2017,SVN,Coal,0
@@ -929,6 +1011,7 @@ year,geo,disagg,value
 2022,SVN,Coal,0
 2023,SVN,Coal,0
 2024,SVN,Coal,0
+2025,SVN,Coal,0
 2015,SWE,Coal,0
 2016,SWE,Coal,0
 2017,SWE,Coal,0
@@ -939,6 +1022,7 @@ year,geo,disagg,value
 2022,SWE,Coal,0
 2023,SWE,Coal,0
 2024,SWE,Coal,0
+2025,SWE,Coal,0
 2015,SWZ,Coal,0
 2016,SWZ,Coal,0.2
 2017,SWZ,Coal,0
@@ -949,6 +1033,7 @@ year,geo,disagg,value
 2022,SWZ,Coal,0.3
 2023,SWZ,Coal,0.3
 2024,SWZ,Coal,0.3
+2025,SWZ,Coal,0.3
 2015,SYR,Coal,0
 2016,SYR,Coal,0
 2017,SYR,Coal,0
@@ -959,6 +1044,7 @@ year,geo,disagg,value
 2022,SYR,Coal,0
 2023,SYR,Coal,0
 2024,SYR,Coal,0
+2025,SYR,Coal,0
 2015,THA,Coal,6.9
 2016,THA,Coal,7.4
 2017,THA,Coal,3.5
@@ -969,6 +1055,7 @@ year,geo,disagg,value
 2022,THA,Coal,0.6
 2023,THA,Coal,0.6
 2024,THA,Coal,0.6
+2025,THA,Coal,0
 2015,TJK,Coal,0.9
 2016,TJK,Coal,0.9
 2017,TJK,Coal,0.9
@@ -979,6 +1066,7 @@ year,geo,disagg,value
 2022,TJK,Coal,0.6
 2023,TJK,Coal,0.6
 2024,TJK,Coal,0.6
+2025,TJK,Coal,0
 2015,TUR,Coal,60
 2016,TUR,Coal,55
 2017,TUR,Coal,37
@@ -989,6 +1077,7 @@ year,geo,disagg,value
 2022,TUR,Coal,11
 2023,TUR,Coal,5.5
 2024,TUR,Coal,0.69
+2025,TUR,Coal,0.7
 2015,TWN,Coal,11
 2016,TWN,Coal,4.4
 2017,TWN,Coal,3.6
@@ -999,6 +1088,7 @@ year,geo,disagg,value
 2022,TWN,Coal,0
 2023,TWN,Coal,0
 2024,TWN,Coal,0
+2025,TWN,Coal,0
 2015,TZA,Coal,1.4
 2016,TZA,Coal,1.5
 2017,TZA,Coal,1.9
@@ -1009,6 +1099,7 @@ year,geo,disagg,value
 2022,TZA,Coal,0.8
 2023,TZA,Coal,1.2
 2024,TZA,Coal,1.2
+2025,TZA,Coal,1.2
 2015,UKR,Coal,1.3
 2016,UKR,Coal,1.3
 2017,UKR,Coal,1.3
@@ -1019,6 +1110,7 @@ year,geo,disagg,value
 2022,UKR,Coal,0.66
 2023,UKR,Coal,0
 2024,UKR,Coal,0
+2025,UKR,Coal,0
 2015,USA,Coal,2.4
 2016,USA,Coal,1.9
 2017,USA,Coal,0
@@ -1029,6 +1121,7 @@ year,geo,disagg,value
 2022,USA,Coal,0.4
 2023,USA,Coal,0.8
 2024,USA,Coal,0.8
+2025,USA,Coal,2.7
 2015,UZB,Coal,0.45
 2016,UZB,Coal,0
 2017,UZB,Coal,0
@@ -1039,6 +1132,7 @@ year,geo,disagg,value
 2022,UZB,Coal,0.6
 2023,UZB,Coal,0.6
 2024,UZB,Coal,0.6
+2025,UZB,Coal,0.2
 2015,VEN,Coal,1.3
 2016,VEN,Coal,1
 2017,VEN,Coal,0
@@ -1049,6 +1143,7 @@ year,geo,disagg,value
 2022,VEN,Coal,0
 2023,VEN,Coal,0
 2024,VEN,Coal,0
+2025,VEN,Coal,0
 2015,VNM,Coal,56
 2016,VNM,Coal,47
 2017,VNM,Coal,47
@@ -1059,6 +1154,7 @@ year,geo,disagg,value
 2022,VNM,Coal,11
 2023,VNM,Coal,8.6
 2024,VNM,Coal,4.7
+2025,VNM,Coal,7.2
 2015,WLD,Coal,1500
 2016,WLD,Coal,900
 2017,WLD,Coal,690
@@ -1079,6 +1175,7 @@ year,geo,disagg,value
 2022,ZAF,Coal,4.6
 2023,ZAF,Coal,4.6
 2024,ZAF,Coal,2.3
+2025,ZAF,Coal,1.5
 2015,ZMB,Coal,0.94
 2016,ZMB,Coal,0.64
 2017,ZMB,Coal,0.64
@@ -1089,6 +1186,7 @@ year,geo,disagg,value
 2022,ZMB,Coal,0.3
 2023,ZMB,Coal,0.6
 2024,ZMB,Coal,1.2
+2025,ZMB,Coal,2.4
 2015,ZWE,Coal,8.4
 2016,ZWE,Coal,8.2
 2017,ZWE,Coal,8.2
@@ -1099,207 +1197,267 @@ year,geo,disagg,value
 2022,ZWE,Coal,6
 2023,ZWE,Coal,7.5
 2024,ZWE,Coal,8
+2025,ZWE,Coal,8.4
 2022,ABW,Oil and gas,0
 2023,ABW,Oil and gas,0
 2024,ABW,Oil and gas,0
 2022,AFG,Oil and gas,0
 2023,AFG,Oil and gas,0
 2024,AFG,Oil and gas,0
+2025,AFG,Oil and gas,4
 2022,AGO,Oil and gas,1.8
 2023,AGO,Oil and gas,1.8
 2024,AGO,Oil and gas,1.8
+2025,AGO,Oil and gas,2
 2022,ALB,Oil and gas,0.097
 2023,ALB,Oil and gas,0.17
 2024,ALB,Oil and gas,0.52
+2025,ALB,Oil and gas,1
 2022,ARE,Oil and gas,6.2
 2023,ARE,Oil and gas,4.1
 2024,ARE,Oil and gas,13
+2025,ARE,Oil and gas,10
 2022,ARG,Oil and gas,0.6
 2023,ARG,Oil and gas,1.4
 2024,ARG,Oil and gas,4.3
+2025,ARG,Oil and gas,0
 2022,ARM,Oil and gas,0
 2023,ARM,Oil and gas,0.18
 2024,ARM,Oil and gas,0.18
+2025,ARM,Oil and gas,0
 2022,ATG,Oil and gas,0
 2023,ATG,Oil and gas,0
 2024,ATG,Oil and gas,0
 2022,AUS,Oil and gas,4.2
 2023,AUS,Oil and gas,2.3
 2024,AUS,Oil and gas,5.6
+2025,AUS,Oil and gas,7
 2022,AUT,Oil and gas,0
 2023,AUT,Oil and gas,0
 2024,AUT,Oil and gas,0
+2025,AUT,Oil and gas,0
 2022,AZE,Oil and gas,0.92
 2023,AZE,Oil and gas,2.2
 2024,AZE,Oil and gas,1.8
+2025,AZE,Oil and gas,1
 2022,BEL,Oil and gas,4.7
 2023,BEL,Oil and gas,1.7
 2024,BEL,Oil and gas,2.6
+2025,BEL,Oil and gas,2
 2022,BEN,Oil and gas,0
 2023,BEN,Oil and gas,0.14
 2024,BEN,Oil and gas,0
+2025,BEN,Oil and gas,0
 2022,BFA,Oil and gas,0
 2023,BFA,Oil and gas,0
 2024,BFA,Oil and gas,0
+2025,BFA,Oil and gas,0
 2022,BGD,Oil and gas,41
 2023,BGD,Oil and gas,34
 2024,BGD,Oil and gas,26
+2025,BGD,Oil and gas,18
 2022,BGR,Oil and gas,1.5
 2023,BGR,Oil and gas,0.97
 2024,BGR,Oil and gas,0.56
+2025,BGR,Oil and gas,0
 2022,BHR,Oil and gas,0.68
 2023,BHR,Oil and gas,0.68
 2024,BHR,Oil and gas,2.5
+2025,BHR,Oil and gas,3
 2022,BHS,Oil and gas,0
 2023,BHS,Oil and gas,0
 2024,BHS,Oil and gas,0.18
+2025,BHS,Oil and gas,0
 2022,BIH,Oil and gas,1.3
 2023,BIH,Oil and gas,1.3
 2024,BIH,Oil and gas,0.1
+2025,BIH,Oil and gas,0
 2022,BLR,Oil and gas,0.8
 2023,BLR,Oil and gas,0.92
 2024,BLR,Oil and gas,0
+2025,BLR,Oil and gas,0
 2022,BMU,Oil and gas,0
 2023,BMU,Oil and gas,0
 2024,BMU,Oil and gas,0
 2022,BOL,Oil and gas,0.052
 2023,BOL,Oil and gas,0
 2024,BOL,Oil and gas,0.11
+2025,BOL,Oil and gas,0
 2022,BRA,Oil and gas,62
 2023,BRA,Oil and gas,46
 2024,BRA,Oil and gas,31
+2025,BRA,Oil and gas,45
 2022,BRB,Oil and gas,0
 2023,BRB,Oil and gas,0
 2024,BRB,Oil and gas,0
+2025,BRB,Oil and gas,0
 2022,BRN,Oil and gas,0
 2023,BRN,Oil and gas,0
 2024,BRN,Oil and gas,0.5
+2025,BRN,Oil and gas,1
 2022,BWA,Oil and gas,0
 2023,BWA,Oil and gas,0
 2024,BWA,Oil and gas,0
+2025,BWA,Oil and gas,0
 2022,CAF,Oil and gas,0
 2023,CAF,Oil and gas,0
 2024,CAF,Oil and gas,0
+2025,CAF,Oil and gas,0
 2022,CAN,Oil and gas,6.1
 2023,CAN,Oil and gas,6.4
 2024,CAN,Oil and gas,6.1
+2025,CAN,Oil and gas,17
 2022,CHE,Oil and gas,0
 2023,CHE,Oil and gas,0
 2024,CHE,Oil and gas,0
+2025,CHE,Oil and gas,0
 2022,CHL,Oil and gas,0.38
 2023,CHL,Oil and gas,0.77
 2024,CHL,Oil and gas,0.78
+2025,CHL,Oil and gas,1
 2022,CHN,Oil and gas,120
 2023,CHN,Oil and gas,150
 2024,CHN,Oil and gas,150
+2025,CHN,Oil and gas,153
+2022,CIV,Oil and gas,0.76
 2023,CIV,Oil and gas,0.76
 2024,CIV,Oil and gas,0.76
-2022,CIV,Oil and gas,0.76
+2025,CIV,Oil and gas,0
 2022,CMR,Oil and gas,0.35
 2023,CMR,Oil and gas,0.35
 2024,CMR,Oil and gas,0.35
+2025,CMR,Oil and gas,1
 2022,COD,Oil and gas,0.2
 2023,COD,Oil and gas,0.2
 2024,COD,Oil and gas,0.2
+2025,COD,Oil and gas,0
 2022,COG,Oil and gas,0.57
 2023,COG,Oil and gas,0.57
 2024,COG,Oil and gas,0.52
+2025,COG,Oil and gas,1
 2022,COL,Oil and gas,3.8
 2023,COL,Oil and gas,4
 2024,COL,Oil and gas,1.9
+2025,COL,Oil and gas,4
 2022,CRI,Oil and gas,0
 2023,CRI,Oil and gas,0
 2024,CRI,Oil and gas,0
+2025,CRI,Oil and gas,0
 2022,CUB,Oil and gas,0
 2023,CUB,Oil and gas,0
 2024,CUB,Oil and gas,0
+2025,CUB,Oil and gas,0
 2022,CYM,Oil and gas,0
 2023,CYM,Oil and gas,0.064
 2024,CYM,Oil and gas,0
 2022,CYP,Oil and gas,0.42
 2023,CYP,Oil and gas,0.53
 2024,CYP,Oil and gas,0.61
+2025,CYP,Oil and gas,1
 2022,CZE,Oil and gas,0.54
 2023,CZE,Oil and gas,0.89
 2024,CZE,Oil and gas,2.5
+2025,CZE,Oil and gas,3
 2022,DEU,Oil and gas,6.2
 2023,DEU,Oil and gas,8.1
 2024,DEU,Oil and gas,11
+2025,DEU,Oil and gas,15
 2022,DJI,Oil and gas,0
 2023,DJI,Oil and gas,0.05
 2024,DJI,Oil and gas,0.05
+2025,DJI,Oil and gas,0
 2022,DNK,Oil and gas,0.36
 2023,DNK,Oil and gas,0.36
 2024,DNK,Oil and gas,0
+2025,DNK,Oil and gas,0
 2022,DOM,Oil and gas,1.2
 2023,DOM,Oil and gas,1.3
 2024,DOM,Oil and gas,1.5
+2025,DOM,Oil and gas,2
 2022,DZA,Oil and gas,5.3
 2023,DZA,Oil and gas,4.7
 2024,DZA,Oil and gas,4.9
+2025,DZA,Oil and gas,4
 2022,ECU,Oil and gas,0.4
 2023,ECU,Oil and gas,0.59
 2024,ECU,Oil and gas,1.6
+2025,ECU,Oil and gas,1
 2022,EGY,Oil and gas,0.49
 2023,EGY,Oil and gas,2.7
 2024,EGY,Oil and gas,2.7
+2025,EGY,Oil and gas,2
 2022,ERI,Oil and gas,0
 2023,ERI,Oil and gas,0
 2024,ERI,Oil and gas,0
+2025,ERI,Oil and gas,0
 2022,ESH,Oil and gas,0
 2023,ESH,Oil and gas,0
 2024,ESH,Oil and gas,0
+2025,ESH,Oil and gas,0
 2022,ESP,Oil and gas,0
 2023,ESP,Oil and gas,0
 2024,ESP,Oil and gas,0.49
+2025,ESP,Oil and gas,0
 2022,EST,Oil and gas,0
 2023,EST,Oil and gas,0
 2024,EST,Oil and gas,0.3
+2025,EST,Oil and gas,0
 2022,ETH,Oil and gas,0
 2023,ETH,Oil and gas,0
 2024,ETH,Oil and gas,0
+2025,ETH,Oil and gas,0
 2022,EUU,Oil and gas,35
 2023,EUU,Oil and gas,36
 2024,EUU,Oil and gas,43
 2022,FIN,Oil and gas,0.03
 2023,FIN,Oil and gas,0
 2024,FIN,Oil and gas,0
+2025,FIN,Oil and gas,0
 2022,FRA,Oil and gas,0.02
 2023,FRA,Oil and gas,0.13
 2024,FRA,Oil and gas,0.65
+2025,FRA,Oil and gas,1
 2022,FSM,Oil and gas,0
 2023,FSM,Oil and gas,0
 2024,FSM,Oil and gas,0.18
 2022,GAB,Oil and gas,0
 2023,GAB,Oil and gas,0.12
 2024,GAB,Oil and gas,0
+2025,GAB,Oil and gas,0
 2022,GBR,Oil and gas,12
 2023,GBR,Oil and gas,8.4
 2024,GBR,Oil and gas,20
+2025,GBR,Oil and gas,17
 2022,GEO,Oil and gas,0.5
 2023,GEO,Oil and gas,0.65
 2024,GEO,Oil and gas,0.4
+2025,GEO,Oil and gas,0
 2022,GHA,Oil and gas,0.2
 2023,GHA,Oil and gas,0.2
 2024,GHA,Oil and gas,0.2
+2025,GHA,Oil and gas,0
 2022,GIB,Oil and gas,0
 2023,GIB,Oil and gas,0
 2024,GIB,Oil and gas,0
 2022,GIN,Oil and gas,0
 2023,GIN,Oil and gas,0.05
 2024,GIN,Oil and gas,0
+2025,GIN,Oil and gas,2
 2022,GLP,Oil and gas,0
 2023,GLP,Oil and gas,0
 2024,GLP,Oil and gas,0
 2022,GNQ,Oil and gas,0
 2023,GNQ,Oil and gas,0
 2024,GNQ,Oil and gas,0
+2025,GNQ,Oil and gas,0
 2022,GRC,Oil and gas,6.8
 2023,GRC,Oil and gas,4.2
 2024,GRC,Oil and gas,4.4
+2025,GRC,Oil and gas,4
 2022,GTM,Oil and gas,0
 2023,GTM,Oil and gas,0
 2024,GTM,Oil and gas,0
+2025,GTM,Oil and gas,0
 2022,GUF,Oil and gas,0
 2023,GUF,Oil and gas,0
 2024,GUF,Oil and gas,0
@@ -1309,318 +1467,1875 @@ year,geo,disagg,value
 2022,GUY,Oil and gas,0.3
 2023,GUY,Oil and gas,0.3
 2024,GUY,Oil and gas,0.55
+2025,GUY,Oil and gas,1
 2022,HKG,Oil and gas,0.93
 2023,HKG,Oil and gas,1.5
 2024,HKG,Oil and gas,0.9
+2025,HKG,Oil and gas,1
 2022,HND,Oil and gas,0
 2023,HND,Oil and gas,0
 2024,HND,Oil and gas,0
+2025,HND,Oil and gas,0
 2022,HRV,Oil and gas,1.2
 2023,HRV,Oil and gas,1.2
 2024,HRV,Oil and gas,0.98
+2025,HRV,Oil and gas,0
 2022,HUN,Oil and gas,0.5
 2023,HUN,Oil and gas,1.7
 2024,HUN,Oil and gas,1.7
+2025,HUN,Oil and gas,2
 2022,IDN,Oil and gas,11
 2023,IDN,Oil and gas,14
 2024,IDN,Oil and gas,12
+2025,IDN,Oil and gas,16
 2022,IMN,Oil and gas,0
 2023,IMN,Oil and gas,0
 2024,IMN,Oil and gas,0
 2022,IND,Oil and gas,5.4
 2023,IND,Oil and gas,2
 2024,IND,Oil and gas,1.3
+2025,IND,Oil and gas,1
 2022,IRL,Oil and gas,2.2
 2023,IRL,Oil and gas,3.6
 2024,IRL,Oil and gas,4.4
+2025,IRL,Oil and gas,6
 2022,IRN,Oil and gas,26
 2023,IRN,Oil and gas,24
 2024,IRN,Oil and gas,18
+2025,IRN,Oil and gas,16
 2022,IRQ,Oil and gas,15
 2023,IRQ,Oil and gas,28
 2024,IRQ,Oil and gas,27
+2025,IRQ,Oil and gas,50
 2022,ISR,Oil and gas,7.2
 2023,ISR,Oil and gas,9.9
 2024,ISR,Oil and gas,8.4
+2025,ISR,Oil and gas,10
 2022,ITA,Oil and gas,8
 2023,ITA,Oil and gas,4.3
 2024,ITA,Oil and gas,6.2
+2025,ITA,Oil and gas,6
 2022,JAM,Oil and gas,0.14
 2023,JAM,Oil and gas,0.14
 2024,JAM,Oil and gas,0
+2025,JAM,Oil and gas,0
 2022,JOR,Oil and gas,0
 2023,JOR,Oil and gas,0
 2024,JOR,Oil and gas,0
+2025,JOR,Oil and gas,1
 2022,JPN,Oil and gas,9.6
 2023,JPN,Oil and gas,8.6
 2024,JPN,Oil and gas,10
+2025,JPN,Oil and gas,18
 2022,KAZ,Oil and gas,4.8
 2023,KAZ,Oil and gas,6
 2024,KAZ,Oil and gas,8.9
+2025,KAZ,Oil and gas,10
 2022,KEN,Oil and gas,0.7
 2023,KEN,Oil and gas,0
 2024,KEN,Oil and gas,0
+2025,KEN,Oil and gas,0
 2022,KGZ,Oil and gas,0.91
 2023,KGZ,Oil and gas,0.91
 2024,KGZ,Oil and gas,2.1
+2025,KGZ,Oil and gas,2
 2022,KHM,Oil and gas,0
 2023,KHM,Oil and gas,0.8
 2024,KHM,Oil and gas,0.8
+2025,KHM,Oil and gas,1
 2022,KOR,Oil and gas,19
 2023,KOR,Oil and gas,20
 2024,KOR,Oil and gas,20
-2022,XKX,Oil and gas,0
-2023,XKX,Oil and gas,0
-2024,XKX,Oil and gas,0.5
+2025,KOR,Oil and gas,21
 2022,KWT,Oil and gas,20
 2023,KWT,Oil and gas,21
 2024,KWT,Oil and gas,18
+2025,KWT,Oil and gas,21
 2022,LBN,Oil and gas,1.4
 2023,LBN,Oil and gas,5
 2024,LBN,Oil and gas,0.19
+2025,LBN,Oil and gas,1
 2022,LBR,Oil and gas,0
 2023,LBR,Oil and gas,0
 2024,LBR,Oil and gas,0
+2025,LBR,Oil and gas,0
 2022,LBY,Oil and gas,7.3
 2023,LBY,Oil and gas,9.4
 2024,LBY,Oil and gas,10
+2025,LBY,Oil and gas,7
 2022,LKA,Oil and gas,1.4
 2023,LKA,Oil and gas,1.1
 2024,LKA,Oil and gas,0.48
+2025,LKA,Oil and gas,0
 2022,LTU,Oil and gas,0.15
 2023,LTU,Oil and gas,0
 2024,LTU,Oil and gas,0
+2025,LTU,Oil and gas,0
 2022,LVA,Oil and gas,0
 2023,LVA,Oil and gas,0
 2024,LVA,Oil and gas,0
+2025,LVA,Oil and gas,0
+2025,MAC,Oil and gas,0
 2022,MAR,Oil and gas,2.9
 2023,MAR,Oil and gas,4.2
 2024,MAR,Oil and gas,4.2
+2025,MAR,Oil and gas,7
 2022,MDA,Oil and gas,0
 2023,MDA,Oil and gas,0
 2024,MDA,Oil and gas,0
+2025,MDA,Oil and gas,0
 2022,MDG,Oil and gas,0
 2023,MDG,Oil and gas,0
 2024,MDG,Oil and gas,0
+2025,MDG,Oil and gas,0
 2022,MDV,Oil and gas,0
 2023,MDV,Oil and gas,0
 2024,MDV,Oil and gas,0
+2025,MDV,Oil and gas,0
 2022,MEX,Oil and gas,15
 2023,MEX,Oil and gas,10
 2024,MEX,Oil and gas,8.8
+2025,MEX,Oil and gas,15
 2022,MKD,Oil and gas,0.36
 2023,MKD,Oil and gas,0.4
 2024,MKD,Oil and gas,0.11
+2025,MKD,Oil and gas,1
 2022,MLI,Oil and gas,0
 2023,MLI,Oil and gas,0
 2024,MLI,Oil and gas,0
+2025,MLI,Oil and gas,0
 2022,MLT,Oil and gas,0
 2023,MLT,Oil and gas,0
 2024,MLT,Oil and gas,0
+2025,MLT,Oil and gas,0
 2022,MMR,Oil and gas,10
 2023,MMR,Oil and gas,3.6
 2024,MMR,Oil and gas,3
+2025,MMR,Oil and gas,2
 2022,MNE,Oil and gas,0.4
 2023,MNE,Oil and gas,0.79
 2024,MNE,Oil and gas,0.89
+2025,MNE,Oil and gas,0
 2022,MOZ,Oil and gas,3
 2023,MOZ,Oil and gas,3.3
 2024,MOZ,Oil and gas,3
+2025,MOZ,Oil and gas,3
 2022,MRT,Oil and gas,0.12
 2023,MRT,Oil and gas,0.12
 2024,MRT,Oil and gas,0.12
+2025,MRT,Oil and gas,0
 2022,MTQ,Oil and gas,0
 2023,MTQ,Oil and gas,0
 2024,MTQ,Oil and gas,0
 2022,MUS,Oil and gas,0
 2023,MUS,Oil and gas,0.1
 2024,MUS,Oil and gas,0
+2025,MUS,Oil and gas,0
 2022,MYS,Oil and gas,8.9
 2023,MYS,Oil and gas,6.1
 2024,MYS,Oil and gas,6.1
+2025,MYS,Oil and gas,12
 2022,NAM,Oil and gas,0.44
 2023,NAM,Oil and gas,0.49
 2024,NAM,Oil and gas,0.48
+2025,NAM,Oil and gas,0
 2022,NCL,Oil and gas,0
 2023,NCL,Oil and gas,0
 2024,NCL,Oil and gas,0
+2025,NCL,Oil and gas,0
 2022,NER,Oil and gas,0
 2023,NER,Oil and gas,0
 2024,NER,Oil and gas,0
+2025,NER,Oil and gas,0
 2022,NGA,Oil and gas,21
 2023,NGA,Oil and gas,21
 2024,NGA,Oil and gas,20
+2025,NGA,Oil and gas,15
 2022,NIC,Oil and gas,0.3
 2023,NIC,Oil and gas,0.3
 2024,NIC,Oil and gas,0.15
+2025,NIC,Oil and gas,0
 2022,NLD,Oil and gas,0
 2023,NLD,Oil and gas,0
 2024,NLD,Oil and gas,0.5
+2025,NLD,Oil and gas,1
 2022,NOR,Oil and gas,0
 2023,NOR,Oil and gas,0
 2024,NOR,Oil and gas,0
+2025,NOR,Oil and gas,0
 2022,NZL,Oil and gas,0
 2023,NZL,Oil and gas,0
 2024,NZL,Oil and gas,0.36
+2025,NZL,Oil and gas,0
 2022,OMN,Oil and gas,0.26
 2023,OMN,Oil and gas,0.13
 2024,OMN,Oil and gas,0.13
+2025,OMN,Oil and gas,2
 2022,PAK,Oil and gas,0.9
 2023,PAK,Oil and gas,1.3
 2024,PAK,Oil and gas,0
+2025,PAK,Oil and gas,0
 2022,PAN,Oil and gas,1.4
 2023,PAN,Oil and gas,0.96
 2024,PAN,Oil and gas,0.15
+2025,PAN,Oil and gas,0
 2022,PER,Oil and gas,0
 2023,PER,Oil and gas,0.1
 2024,PER,Oil and gas,0.59
+2025,PER,Oil and gas,1
 2022,PHL,Oil and gas,15
 2023,PHL,Oil and gas,25
 2024,PHL,Oil and gas,26
+2025,PHL,Oil and gas,20
 2022,PNG,Oil and gas,0
 2023,PNG,Oil and gas,0
 2024,PNG,Oil and gas,0
+2025,PNG,Oil and gas,0
 2022,POL,Oil and gas,7.6
 2023,POL,Oil and gas,7.8
 2024,POL,Oil and gas,6.2
+2025,POL,Oil and gas,10
 2022,PRI,Oil and gas,0
 2023,PRI,Oil and gas,0
 2024,PRI,Oil and gas,0
+2025,PRI,Oil and gas,1
 2022,PRT,Oil and gas,0
 2023,PRT,Oil and gas,0
 2024,PRT,Oil and gas,0
+2025,PRT,Oil and gas,0
 2022,PSE,Oil and gas,0.45
 2023,PSE,Oil and gas,0.62
 2024,PSE,Oil and gas,0.62
+2025,PSE,Oil and gas,1
 2022,QAT,Oil and gas,4.9
 2023,QAT,Oil and gas,5.2
 2024,QAT,Oil and gas,7.6
+2025,QAT,Oil and gas,6
 2022,REU,Oil and gas,0
 2023,REU,Oil and gas,0
 2024,REU,Oil and gas,0
+2025,REU,Oil and gas,0
 2022,ROU,Oil and gas,3.1
 2023,ROU,Oil and gas,5.1
 2024,ROU,Oil and gas,6
+2025,ROU,Oil and gas,5
 2022,RUS,Oil and gas,14
 2023,RUS,Oil and gas,11
 2024,RUS,Oil and gas,14
+2025,RUS,Oil and gas,19
 2022,RWA,Oil and gas,0
 2023,RWA,Oil and gas,0.072
 2024,RWA,Oil and gas,0.072
+2025,RWA,Oil and gas,0
 2022,SAU,Oil and gas,13
 2023,SAU,Oil and gas,10
 2024,SAU,Oil and gas,17
+2025,SAU,Oil and gas,31
 2022,SDN,Oil and gas,2
 2023,SDN,Oil and gas,2.8
 2024,SDN,Oil and gas,2.1
+2025,SDN,Oil and gas,2
 2022,SEN,Oil and gas,0.55
 2023,SEN,Oil and gas,0.43
 2024,SEN,Oil and gas,0.43
+2025,SEN,Oil and gas,0
 2022,SGP,Oil and gas,0.6
 2023,SGP,Oil and gas,1.3
 2024,SGP,Oil and gas,3.2
+2025,SGP,Oil and gas,2
 2022,SLE,Oil and gas,0.089
 2023,SLE,Oil and gas,0.089
 2024,SLE,Oil and gas,0.084
+2025,SLE,Oil and gas,0
 2022,SLV,Oil and gas,0
 2023,SLV,Oil and gas,0
 2024,SLV,Oil and gas,0
+2025,SLV,Oil and gas,0
 2022,SOM,Oil and gas,0
 2023,SOM,Oil and gas,0
 2024,SOM,Oil and gas,0
+2025,SOM,Oil and gas,0
 2022,SRB,Oil and gas,0.12
 2023,SRB,Oil and gas,0
 2024,SRB,Oil and gas,1.4
+2025,SRB,Oil and gas,1
 2022,SSD,Oil and gas,0
 2023,SSD,Oil and gas,0.067
 2024,SSD,Oil and gas,0.067
+2025,SSD,Oil and gas,0
 2022,SUR,Oil and gas,0
 2023,SUR,Oil and gas,0
 2024,SUR,Oil and gas,0
+2025,SUR,Oil and gas,0
 2022,SVK,Oil and gas,0
 2023,SVK,Oil and gas,0
 2024,SVK,Oil and gas,0
+2025,SVK,Oil and gas,0
 2022,SVN,Oil and gas,0.11
 2023,SVN,Oil and gas,0
 2024,SVN,Oil and gas,0
+2025,SVN,Oil and gas,0
 2022,SWE,Oil and gas,0
 2023,SWE,Oil and gas,0
 2024,SWE,Oil and gas,0
+2025,SWE,Oil and gas,0
 2022,SWZ,Oil and gas,0
 2023,SWZ,Oil and gas,0.25
 2024,SWZ,Oil and gas,0.25
+2025,SWZ,Oil and gas,0
 2022,SYC,Oil and gas,0
 2023,SYC,Oil and gas,0
 2024,SYC,Oil and gas,0
+2025,SYC,Oil and gas,0
 2022,SYR,Oil and gas,5
 2023,SYR,Oil and gas,7.3
 2024,SYR,Oil and gas,5.7
+2025,SYR,Oil and gas,11
 2022,TCD,Oil and gas,0
 2023,TCD,Oil and gas,0.09
 2024,TCD,Oil and gas,0.09
+2025,TCD,Oil and gas,0
 2022,TGO,Oil and gas,0
 2023,TGO,Oil and gas,0
 2024,TGO,Oil and gas,0
+2025,TGO,Oil and gas,0
 2022,THA,Oil and gas,14
 2023,THA,Oil and gas,11
 2024,THA,Oil and gas,6.9
+2025,THA,Oil and gas,5
 2022,TJK,Oil and gas,0
 2023,TJK,Oil and gas,0
 2024,TJK,Oil and gas,0
+2025,TJK,Oil and gas,0
 2022,TKM,Oil and gas,0
 2023,TKM,Oil and gas,1.6
 2024,TKM,Oil and gas,1.6
+2025,TKM,Oil and gas,2
 2022,TLS,Oil and gas,0
 2023,TLS,Oil and gas,0
 2024,TLS,Oil and gas,0
+2025,TLS,Oil and gas,0
 2022,TTO,Oil and gas,0
 2023,TTO,Oil and gas,0
 2024,TTO,Oil and gas,0
+2025,TTO,Oil and gas,0
 2022,TUN,Oil and gas,0.9
 2023,TUN,Oil and gas,0
 2024,TUN,Oil and gas,0.9
+2025,TUN,Oil and gas,0
 2022,TUR,Oil and gas,0
 2023,TUR,Oil and gas,0.92
 2024,TUR,Oil and gas,0.89
+2025,TUR,Oil and gas,1
 2022,TWN,Oil and gas,25
 2023,TWN,Oil and gas,27
 2024,TWN,Oil and gas,32
+2025,TWN,Oil and gas,25
 2022,TZA,Oil and gas,0.3
 2023,TZA,Oil and gas,0.65
 2024,TZA,Oil and gas,0.65
+2025,TZA,Oil and gas,1
 2022,UGA,Oil and gas,0
 2023,UGA,Oil and gas,0
 2024,UGA,Oil and gas,0
+2025,UGA,Oil and gas,0
 2022,UKR,Oil and gas,0.26
 2023,UKR,Oil and gas,0
 2024,UKR,Oil and gas,1.6
+2025,UKR,Oil and gas,3
 2022,URY,Oil and gas,0
 2023,URY,Oil and gas,0
 2024,URY,Oil and gas,0
+2025,URY,Oil and gas,0
 2022,USA,Oil and gas,39
 2023,USA,Oil and gas,37
 2024,USA,Oil and gas,85
+2025,USA,Oil and gas,252
 2022,UZB,Oil and gas,6.9
 2023,UZB,Oil and gas,9.4
 2024,UZB,Oil and gas,9.6
+2025,UZB,Oil and gas,7
 2022,VEN,Oil and gas,0
 2023,VEN,Oil and gas,0
 2024,VEN,Oil and gas,0
+2025,VEN,Oil and gas,0
 2022,VNM,Oil and gas,77
 2023,VNM,Oil and gas,44
 2024,VNM,Oil and gas,50
+2025,VNM,Oil and gas,54
 2022,WLD,Oil and gas,750
 2023,WLD,Oil and gas,730
 2024,WLD,Oil and gas,800
 2022,YEM,Oil and gas,0.99
 2023,YEM,Oil and gas,0.75
 2024,YEM,Oil and gas,0.75
+2025,YEM,Oil and gas,1
 2022,ZAF,Oil and gas,17
 2023,ZAF,Oil and gas,11
 2024,ZAF,Oil and gas,11
+2025,ZAF,Oil and gas,10
 2022,ZMB,Oil and gas,0
 2023,ZMB,Oil and gas,0
 2024,ZMB,Oil and gas,0
+2025,ZMB,Oil and gas,0
 2022,ZWE,Oil and gas,0.9
 2023,ZWE,Oil and gas,0.9
 2024,ZWE,Oil and gas,0.8
+2025,ZWE,Oil and gas,1
+2022,ABW,Total,0
+2023,ABW,Total,0
+2024,ABW,Total,0
+2022,AFG,Total,0
+2023,AFG,Total,0
+2024,AFG,Total,0
+2025,AFG,Total,4.41
+2022,AGO,Total,1.8
+2023,AGO,Total,1.8
+2024,AGO,Total,1.8
+2025,AGO,Total,1.8
+2015,ALB,Total,0
+2016,ALB,Total,0
+2017,ALB,Total,0
+2018,ALB,Total,0
+2019,ALB,Total,0
+2020,ALB,Total,0
+2021,ALB,Total,0
+2022,ALB,Total,0.097
+2023,ALB,Total,0.17
+2024,ALB,Total,0.52
+2025,ALB,Total,0.63
+2015,ARE,Total,2.7
+2016,ARE,Total,3.9
+2017,ARE,Total,5.4
+2018,ARE,Total,5.4
+2019,ARE,Total,2.4
+2020,ARE,Total,1.8
+2021,ARE,Total,1.2
+2022,ARE,Total,6.2
+2023,ARE,Total,4.1
+2024,ARE,Total,13
+2025,ARE,Total,10
+2015,ARG,Total,0.24
+2016,ARG,Total,0.24
+2017,ARG,Total,0.24
+2018,ARG,Total,0.24
+2019,ARG,Total,0.24
+2020,ARG,Total,0.24
+2021,ARG,Total,0.24
+2022,ARG,Total,0.72
+2023,ARG,Total,1.5
+2024,ARG,Total,4.4
+2025,ARG,Total,0.24
+2022,ARM,Total,0
+2023,ARM,Total,0.18
+2024,ARM,Total,0.18
+2025,ARM,Total,0.176
+2022,ATG,Total,0
+2023,ATG,Total,0
+2024,ATG,Total,0
+2015,AUS,Total,3.6
+2016,AUS,Total,1.4
+2017,AUS,Total,0
+2018,AUS,Total,0
+2019,AUS,Total,4.9
+2020,AUS,Total,2.9
+2021,AUS,Total,0.95
+2022,AUS,Total,5.1
+2023,AUS,Total,3.2
+2024,AUS,Total,6.6
+2025,AUS,Total,7.699
+2015,AUT,Total,0
+2016,AUT,Total,0
+2017,AUT,Total,0
+2018,AUT,Total,0
+2019,AUT,Total,0
+2020,AUT,Total,0
+2021,AUT,Total,0
+2022,AUT,Total,0
+2023,AUT,Total,0
+2024,AUT,Total,0
+2025,AUT,Total,0
+2022,AZE,Total,0.92
+2023,AZE,Total,2.2
+2024,AZE,Total,1.8
+2025,AZE,Total,0.5
+2015,BEL,Total,0
+2016,BEL,Total,0
+2017,BEL,Total,0
+2018,BEL,Total,0
+2019,BEL,Total,0
+2020,BEL,Total,0
+2021,BEL,Total,0
+2022,BEL,Total,4.7
+2023,BEL,Total,1.7
+2024,BEL,Total,2.6
+2025,BEL,Total,1.77
+2022,BEN,Total,0
+2023,BEN,Total,0.14
+2024,BEN,Total,0
+2025,BEN,Total,0.14
+2022,BFA,Total,0
+2023,BFA,Total,0
+2024,BFA,Total,0
+2025,BFA,Total,0
+2015,BGD,Total,20
+2016,BGD,Total,23
+2017,BGD,Total,26
+2018,BGD,Total,32
+2019,BGD,Total,30
+2020,BGD,Total,27
+2021,BGD,Total,19
+2022,BGD,Total,54
+2023,BGD,Total,45
+2024,BGD,Total,35
+2025,BGD,Total,24.91
+2015,BGR,Total,0
+2016,BGR,Total,0.053
+2017,BGR,Total,0
+2018,BGR,Total,0
+2019,BGR,Total,0
+2020,BGR,Total,0
+2021,BGR,Total,0
+2022,BGR,Total,1.5
+2023,BGR,Total,0.97
+2024,BGR,Total,0.56
+2025,BGR,Total,0.282
+2022,BHR,Total,0.68
+2023,BHR,Total,0.68
+2024,BHR,Total,2.5
+2025,BHR,Total,3
+2022,BHS,Total,0
+2023,BHS,Total,0
+2024,BHS,Total,0.18
+2025,BHS,Total,0.237
+2015,BIH,Total,4.1
+2016,BIH,Total,3.8
+2017,BIH,Total,4.2
+2018,BIH,Total,4.2
+2019,BIH,Total,3.6
+2020,BIH,Total,3.6
+2021,BIH,Total,3.6
+2022,BIH,Total,3.5
+2023,BIH,Total,2.7
+2024,BIH,Total,1.2
+2025,BIH,Total,1.337
+2015,BLR,Total,0
+2016,BLR,Total,0
+2017,BLR,Total,0
+2018,BLR,Total,0
+2019,BLR,Total,0
+2020,BLR,Total,0
+2021,BLR,Total,0
+2022,BLR,Total,0.8
+2023,BLR,Total,0.92
+2024,BLR,Total,0
+2025,BLR,Total,0
+2022,BMU,Total,0
+2023,BMU,Total,0
+2024,BMU,Total,0
+2022,BOL,Total,0.052
+2023,BOL,Total,0
+2024,BOL,Total,0.11
+2025,BOL,Total,0.14
+2015,BRA,Total,3.9
+2016,BRA,Total,1.6
+2017,BRA,Total,3
+2018,BRA,Total,3
+2019,BRA,Total,0.6
+2020,BRA,Total,1.3
+2021,BRA,Total,1.7
+2022,BRA,Total,63
+2023,BRA,Total,47
+2024,BRA,Total,32
+2025,BRA,Total,44.837
+2022,BRB,Total,0
+2023,BRB,Total,0
+2024,BRB,Total,0
+2025,BRB,Total,0
+2015,BRN,Total,0
+2016,BRN,Total,0
+2017,BRN,Total,0
+2018,BRN,Total,0.22
+2019,BRN,Total,0
+2020,BRN,Total,0
+2021,BRN,Total,0
+2022,BRN,Total,0
+2023,BRN,Total,0
+2024,BRN,Total,0.5
+2025,BRN,Total,0.5
+2015,BWA,Total,2.9
+2016,BWA,Total,3.8
+2017,BWA,Total,2.3
+2018,BWA,Total,2
+2019,BWA,Total,1.1
+2020,BWA,Total,1.7
+2021,BWA,Total,1.5
+2022,BWA,Total,1.1
+2023,BWA,Total,0.6
+2024,BWA,Total,0.6
+2025,BWA,Total,1.3
+2022,CAF,Total,0
+2023,CAF,Total,0
+2024,CAF,Total,0
+2025,CAF,Total,0
+2015,CAN,Total,1
+2016,CAN,Total,0
+2017,CAN,Total,0
+2018,CAN,Total,0
+2019,CAN,Total,0
+2020,CAN,Total,0
+2021,CAN,Total,0
+2022,CAN,Total,6.1
+2023,CAN,Total,6.4
+2024,CAN,Total,6.1
+2025,CAN,Total,16.899
+2022,CHE,Total,0
+2023,CHE,Total,0
+2024,CHE,Total,0
+2025,CHE,Total,0
+2015,CHL,Total,1.8
+2016,CHL,Total,2.6
+2017,CHL,Total,0.38
+2018,CHL,Total,0.38
+2019,CHL,Total,0
+2020,CHL,Total,0
+2021,CHL,Total,0
+2022,CHL,Total,0.38
+2023,CHL,Total,0.77
+2024,CHL,Total,0.78
+2025,CHL,Total,0.777
+2015,CHN,Total,730
+2016,CHN,Total,340
+2017,CHN,Total,230
+2018,CHN,Total,210
+2019,CHN,Total,210
+2020,CHN,Total,260
+2021,CHN,Total,260
+2022,CHN,Total,490
+2023,CHN,Total,570
+2024,CHN,Total,600
+2025,CHN,Total,651.506
+2015,CIV,Total,0
+2016,CIV,Total,0
+2017,CIV,Total,0.7
+2018,CIV,Total,0.7
+2019,CIV,Total,0.7
+2020,CIV,Total,0.7
+2021,CIV,Total,0
+2022,CIV,Total,0.76
+2023,CIV,Total,0.76
+2024,CIV,Total,0.76
+2025,CIV,Total,0.372
+2022,CMR,Total,0.35
+2023,CMR,Total,0.35
+2024,CMR,Total,0.35
+2025,CMR,Total,0.85
+2015,COD,Total,0.5
+2016,COD,Total,0
+2017,COD,Total,0
+2018,COD,Total,0.5
+2019,COD,Total,0
+2020,COD,Total,0
+2021,COD,Total,0
+2022,COD,Total,0.2
+2023,COD,Total,0.2
+2024,COD,Total,0.2
+2025,COD,Total,0.24
+2022,COG,Total,0.57
+2023,COG,Total,0.57
+2024,COG,Total,0.52
+2025,COG,Total,0.516
+2015,COL,Total,1
+2016,COL,Total,0.87
+2017,COL,Total,1.2
+2018,COL,Total,2
+2019,COL,Total,1.6
+2020,COL,Total,1.6
+2021,COL,Total,1.1
+2022,COL,Total,5
+2023,COL,Total,4
+2024,COL,Total,1.9
+2025,COL,Total,4.011
+2022,CRI,Total,0
+2023,CRI,Total,0
+2024,CRI,Total,0
+2025,CRI,Total,0
+2022,CUB,Total,0
+2023,CUB,Total,0
+2024,CUB,Total,0
+2025,CUB,Total,0.2
+2022,CYM,Total,0
+2023,CYM,Total,0.064
+2024,CYM,Total,0
+2022,CYP,Total,0.42
+2023,CYP,Total,0.53
+2024,CYP,Total,0.61
+2025,CYP,Total,0.605
+2015,CZE,Total,1.4
+2016,CZE,Total,0.66
+2017,CZE,Total,0.66
+2018,CZE,Total,0.84
+2019,CZE,Total,0.84
+2020,CZE,Total,0.07
+2021,CZE,Total,0
+2022,CZE,Total,0.54
+2023,CZE,Total,0.89
+2024,CZE,Total,2.5
+2025,CZE,Total,3.182
+2015,DEU,Total,6.1
+2016,DEU,Total,4.1
+2017,DEU,Total,3.1
+2018,DEU,Total,3.1
+2019,DEU,Total,2
+2020,DEU,Total,0
+2021,DEU,Total,0
+2022,DEU,Total,6.2
+2023,DEU,Total,8.1
+2024,DEU,Total,11
+2025,DEU,Total,15.081
+2015,DJI,Total,0
+2016,DJI,Total,0
+2017,DJI,Total,0
+2018,DJI,Total,0
+2019,DJI,Total,0.15
+2020,DJI,Total,0.15
+2021,DJI,Total,0
+2022,DJI,Total,0
+2023,DJI,Total,0.05
+2024,DJI,Total,0.05
+2025,DJI,Total,0.05
+2015,DNK,Total,0
+2016,DNK,Total,0
+2017,DNK,Total,0
+2018,DNK,Total,0
+2019,DNK,Total,0
+2020,DNK,Total,0
+2021,DNK,Total,0
+2022,DNK,Total,0.36
+2023,DNK,Total,0.36
+2024,DNK,Total,0
+2025,DNK,Total,0
+2015,DOM,Total,1.3
+2016,DOM,Total,1.1
+2017,DOM,Total,0.75
+2018,DOM,Total,0.75
+2019,DOM,Total,0.38
+2020,DOM,Total,0
+2021,DOM,Total,0
+2022,DOM,Total,1.2
+2023,DOM,Total,1.3
+2024,DOM,Total,1.5
+2025,DOM,Total,2.087
+2022,DZA,Total,5.3
+2023,DZA,Total,4.7
+2024,DZA,Total,4.9
+2025,DZA,Total,4.305
+2022,ECU,Total,0.4
+2023,ECU,Total,0.59
+2024,ECU,Total,1.6
+2025,ECU,Total,1.358
+2015,EGY,Total,11
+2016,EGY,Total,15
+2017,EGY,Total,15
+2018,EGY,Total,13
+2019,EGY,Total,6.6
+2020,EGY,Total,0
+2021,EGY,Total,0
+2022,EGY,Total,0.49
+2023,EGY,Total,2.7
+2024,EGY,Total,2.7
+2025,EGY,Total,2.375
+2022,ERI,Total,0
+2023,ERI,Total,0
+2024,ERI,Total,0
+2025,ERI,Total,0
+2022,ESH,Total,0
+2023,ESH,Total,0
+2024,ESH,Total,0
+2025,ESH,Total,0
+2015,ESP,Total,0
+2016,ESP,Total,0
+2017,ESP,Total,0
+2018,ESP,Total,0
+2019,ESP,Total,0
+2020,ESP,Total,0
+2021,ESP,Total,0
+2022,ESP,Total,0
+2023,ESP,Total,0
+2024,ESP,Total,0.49
+2025,ESP,Total,0
+2022,EST,Total,0
+2023,EST,Total,0
+2024,EST,Total,0.3
+2025,EST,Total,0.3
+2015,ETH,Total,0.09
+2016,ETH,Total,0.09
+2017,ETH,Total,0.09
+2018,ETH,Total,0.09
+2019,ETH,Total,0.09
+2020,ETH,Total,0.09
+2021,ETH,Total,0.09
+2022,ETH,Total,0
+2023,ETH,Total,0
+2024,ETH,Total,0
+2025,ETH,Total,0
+2015,EUU,Total,21
+2016,EUU,Total,16
+2017,EUU,Total,15
+2018,EUU,Total,16
+2019,EUU,Total,7.6
+2020,EUU,Total,1.8
+2021,EUU,Total,1.3
+2022,EUU,Total,36
+2023,EUU,Total,36
+2024,EUU,Total,43
+2015,FIN,Total,0
+2016,FIN,Total,0
+2017,FIN,Total,0
+2018,FIN,Total,0
+2019,FIN,Total,0
+2020,FIN,Total,0
+2021,FIN,Total,0
+2022,FIN,Total,0.03
+2023,FIN,Total,0
+2024,FIN,Total,0
+2025,FIN,Total,0
+2015,FRA,Total,0
+2016,FRA,Total,0
+2017,FRA,Total,0
+2018,FRA,Total,0
+2019,FRA,Total,0
+2020,FRA,Total,0
+2021,FRA,Total,0
+2022,FRA,Total,0.02
+2023,FRA,Total,0.13
+2024,FRA,Total,0.65
+2025,FRA,Total,0.647
+2022,FSM,Total,0
+2023,FSM,Total,0
+2024,FSM,Total,0.18
+2022,GAB,Total,0
+2023,GAB,Total,0.12
+2024,GAB,Total,0
+2025,GAB,Total,0.125
+2015,GBR,Total,1.5
+2016,GBR,Total,0.57
+2017,GBR,Total,0
+2018,GBR,Total,0
+2019,GBR,Total,0
+2020,GBR,Total,0
+2021,GBR,Total,0
+2022,GBR,Total,12
+2023,GBR,Total,8.4
+2024,GBR,Total,20
+2025,GBR,Total,17.286
+2015,GEO,Total,0.3
+2016,GEO,Total,0.3
+2017,GEO,Total,0.3
+2018,GEO,Total,0.3
+2019,GEO,Total,0
+2020,GEO,Total,0
+2021,GEO,Total,0
+2022,GEO,Total,0.5
+2023,GEO,Total,0.65
+2024,GEO,Total,0.4
+2025,GEO,Total,0.4
+2015,GHA,Total,2.1
+2016,GHA,Total,0
+2017,GHA,Total,0.7
+2018,GHA,Total,0.7
+2019,GHA,Total,0
+2020,GHA,Total,0
+2021,GHA,Total,0
+2022,GHA,Total,0.2
+2023,GHA,Total,0.2
+2024,GHA,Total,0.2
+2025,GHA,Total,0.33
+2022,GIB,Total,0
+2023,GIB,Total,0
+2024,GIB,Total,0
+2015,GIN,Total,0
+2016,GIN,Total,0
+2017,GIN,Total,0
+2018,GIN,Total,0.08
+2019,GIN,Total,0
+2020,GIN,Total,0
+2021,GIN,Total,0
+2022,GIN,Total,0
+2023,GIN,Total,0.05
+2024,GIN,Total,0
+2025,GIN,Total,1.8
+2015,GLP,Total,0
+2016,GLP,Total,0
+2017,GLP,Total,0
+2018,GLP,Total,0
+2019,GLP,Total,0
+2020,GLP,Total,0
+2021,GLP,Total,0
+2022,GLP,Total,0
+2023,GLP,Total,0
+2024,GLP,Total,0
+2022,GNQ,Total,0
+2023,GNQ,Total,0
+2024,GNQ,Total,0
+2025,GNQ,Total,0
+2015,GRC,Total,1.1
+2016,GRC,Total,1.1
+2017,GRC,Total,1.1
+2018,GRC,Total,1.1
+2019,GRC,Total,0.66
+2020,GRC,Total,0.66
+2021,GRC,Total,0.66
+2022,GRC,Total,7.5
+2023,GRC,Total,4.2
+2024,GRC,Total,4.4
+2025,GRC,Total,4.223
+2015,GTM,Total,0.3
+2016,GTM,Total,0
+2017,GTM,Total,0
+2018,GTM,Total,0
+2019,GTM,Total,0
+2020,GTM,Total,0
+2021,GTM,Total,0
+2022,GTM,Total,0
+2023,GTM,Total,0
+2024,GTM,Total,0
+2025,GTM,Total,0
+2022,GUF,Total,0
+2023,GUF,Total,0
+2024,GUF,Total,0
+2022,GUM,Total,0
+2023,GUM,Total,0
+2024,GUM,Total,0.18
+2022,GUY,Total,0.3
+2023,GUY,Total,0.3
+2024,GUY,Total,0.55
+2025,GUY,Total,0.6
+2015,HKG,Total,0
+2016,HKG,Total,0
+2017,HKG,Total,0
+2018,HKG,Total,0
+2019,HKG,Total,0
+2020,HKG,Total,0
+2021,HKG,Total,0
+2022,HKG,Total,0.93
+2023,HKG,Total,1.5
+2024,HKG,Total,0.9
+2025,HKG,Total,0.9
+2015,HND,Total,0
+2016,HND,Total,0
+2017,HND,Total,0
+2018,HND,Total,0
+2019,HND,Total,0
+2020,HND,Total,0
+2021,HND,Total,0
+2022,HND,Total,0.1
+2023,HND,Total,0.1
+2024,HND,Total,0.1
+2025,HND,Total,0.07
+2015,HRV,Total,0.5
+2016,HRV,Total,0
+2017,HRV,Total,0
+2018,HRV,Total,0
+2019,HRV,Total,0
+2020,HRV,Total,0
+2021,HRV,Total,0
+2022,HRV,Total,1.2
+2023,HRV,Total,1.2
+2024,HRV,Total,0.98
+2025,HRV,Total,0
+2015,HUN,Total,0
+2016,HUN,Total,0.5
+2017,HUN,Total,0.5
+2018,HUN,Total,0.5
+2019,HUN,Total,0.5
+2020,HUN,Total,0
+2021,HUN,Total,0
+2022,HUN,Total,0.5
+2023,HUN,Total,1.7
+2024,HUN,Total,1.7
+2025,HUN,Total,1.54
+2015,IDN,Total,54
+2016,IDN,Total,49
+2017,IDN,Total,39
+2018,IDN,Total,37
+2019,IDN,Total,36
+2020,IDN,Total,34
+2021,IDN,Total,28
+2022,IDN,Total,31
+2023,IDN,Total,29
+2024,IDN,Total,26
+2025,IDN,Total,34.802
+2022,IMN,Total,0
+2023,IMN,Total,0
+2024,IMN,Total,0
+2015,IND,Total,310
+2016,IND,Total,180
+2017,IND,Total,140
+2018,IND,Total,100
+2019,IND,Total,77
+2020,IND,Total,79
+2021,IND,Total,61
+2022,IND,Total,76
+2023,IND,Total,79
+2024,IND,Total,110
+2025,IND,Total,133.52
+2015,IRL,Total,0
+2016,IRL,Total,0
+2017,IRL,Total,0
+2018,IRL,Total,0
+2019,IRL,Total,0
+2020,IRL,Total,0
+2021,IRL,Total,0
+2022,IRL,Total,2.2
+2023,IRL,Total,3.6
+2024,IRL,Total,4.4
+2025,IRL,Total,5.635
+2015,IRN,Total,0.65
+2016,IRN,Total,0.65
+2017,IRN,Total,0.65
+2018,IRN,Total,0
+2019,IRN,Total,0
+2020,IRN,Total,0
+2021,IRN,Total,0.65
+2022,IRN,Total,27
+2023,IRN,Total,25
+2024,IRN,Total,18
+2025,IRN,Total,16.652
+2022,IRQ,Total,15
+2023,IRQ,Total,28
+2024,IRQ,Total,27
+2025,IRQ,Total,49.815
+2015,ISR,Total,1.3
+2016,ISR,Total,0
+2017,ISR,Total,0
+2018,ISR,Total,0
+2019,ISR,Total,0
+2020,ISR,Total,0
+2021,ISR,Total,0
+2022,ISR,Total,7.2
+2023,ISR,Total,9.9
+2024,ISR,Total,8.4
+2025,ISR,Total,10.266
+2015,ITA,Total,0.35
+2016,ITA,Total,0
+2017,ITA,Total,0
+2018,ITA,Total,0
+2019,ITA,Total,0
+2020,ITA,Total,0
+2021,ITA,Total,0
+2022,ITA,Total,8
+2023,ITA,Total,4.3
+2024,ITA,Total,6.2
+2025,ITA,Total,5.707
+2015,JAM,Total,0.09
+2016,JAM,Total,1
+2017,JAM,Total,0
+2018,JAM,Total,0
+2019,JAM,Total,0
+2020,JAM,Total,0
+2021,JAM,Total,0
+2022,JAM,Total,0.14
+2023,JAM,Total,0.14
+2024,JAM,Total,0
+2025,JAM,Total,0
+2022,JOR,Total,0
+2023,JOR,Total,0
+2024,JOR,Total,0
+2025,JOR,Total,1.3
+2015,JPN,Total,23
+2016,JPN,Total,22
+2017,JPN,Total,17
+2018,JPN,Total,15
+2019,JPN,Total,12
+2020,JPN,Total,9.8
+2021,JPN,Total,6
+2022,JPN,Total,13
+2023,JPN,Total,9.1
+2024,JPN,Total,11
+2025,JPN,Total,18.465
+2015,KAZ,Total,2.9
+2016,KAZ,Total,1.5
+2017,KAZ,Total,0.78
+2018,KAZ,Total,1
+2019,KAZ,Total,0.37
+2020,KAZ,Total,1.1
+2021,KAZ,Total,1.2
+2022,KAZ,Total,6.2
+2023,KAZ,Total,12
+2024,KAZ,Total,14
+2025,KAZ,Total,16.705
+2015,KEN,Total,1.2
+2016,KEN,Total,1.2
+2017,KEN,Total,1.1
+2018,KEN,Total,2.1
+2019,KEN,Total,2.1
+2020,KEN,Total,1.1
+2021,KEN,Total,1.1
+2022,KEN,Total,0.76
+2023,KEN,Total,0.064
+2024,KEN,Total,0
+2025,KEN,Total,0
+2015,KGZ,Total,0.9
+2016,KGZ,Total,0.3
+2017,KGZ,Total,0
+2018,KGZ,Total,0
+2019,KGZ,Total,0
+2020,KGZ,Total,0
+2021,KGZ,Total,0
+2022,KGZ,Total,1.5
+2023,KGZ,Total,2.8
+2024,KGZ,Total,4
+2025,KGZ,Total,2.789
+2015,KHM,Total,2.4
+2016,KHM,Total,4.3
+2017,KHM,Total,4.3
+2018,KHM,Total,4
+2019,KHM,Total,1.9
+2020,KHM,Total,1.8
+2021,KHM,Total,1.7
+2022,KHM,Total,0.97
+2023,KHM,Total,1.1
+2024,KHM,Total,1.1
+2025,KHM,Total,1.2
+2015,KOR,Total,22
+2016,KOR,Total,15
+2017,KOR,Total,7.5
+2018,KOR,Total,7.5
+2019,KOR,Total,7.3
+2020,KOR,Total,7.3
+2021,KOR,Total,4.2
+2022,KOR,Total,23
+2023,KOR,Total,22
+2024,KOR,Total,22
+2025,KOR,Total,20.784
+2022,KWT,Total,20
+2023,KWT,Total,21
+2024,KWT,Total,18
+2025,KWT,Total,21.25
+2015,LAO,Total,3.6
+2016,LAO,Total,2.3
+2017,LAO,Total,2.3
+2018,LAO,Total,2.3
+2019,LAO,Total,4.7
+2020,LAO,Total,6.4
+2021,LAO,Total,6.4
+2022,LAO,Total,7
+2023,LAO,Total,7
+2024,LAO,Total,4.1
+2025,LAO,Total,3.4
+2022,LBN,Total,1.4
+2023,LBN,Total,5
+2024,LBN,Total,0.19
+2025,LBN,Total,0.825
+2022,LBR,Total,0
+2023,LBR,Total,0
+2024,LBR,Total,0
+2025,LBR,Total,0.27
+2022,LBY,Total,7.3
+2023,LBY,Total,9.4
+2024,LBY,Total,10
+2025,LBY,Total,6.62
+2015,LKA,Total,2.3
+2016,LKA,Total,1.2
+2017,LKA,Total,0
+2018,LKA,Total,0
+2019,LKA,Total,2.4
+2020,LKA,Total,2.1
+2021,LKA,Total,0
+2022,LKA,Total,1.4
+2023,LKA,Total,1.1
+2024,LKA,Total,0.48
+2025,LKA,Total,0
+2022,LTU,Total,0.15
+2023,LTU,Total,0
+2024,LTU,Total,0
+2025,LTU,Total,0
+2015,LVA,Total,0
+2016,LVA,Total,0
+2017,LVA,Total,0
+2018,LVA,Total,0
+2019,LVA,Total,0
+2020,LVA,Total,0
+2021,LVA,Total,0
+2022,LVA,Total,0
+2023,LVA,Total,0
+2024,LVA,Total,0
+2025,LVA,Total,0
+2025,MAC,Total,0.45
+2015,MAR,Total,2.1
+2016,MAR,Total,2.1
+2017,MAR,Total,1.7
+2018,MAR,Total,0.35
+2019,MAR,Total,0.35
+2020,MAR,Total,0.35
+2021,MAR,Total,0
+2022,MAR,Total,2.9
+2023,MAR,Total,4.2
+2024,MAR,Total,4.2
+2025,MAR,Total,6.54
+2015,MDA,Total,0
+2016,MDA,Total,0
+2017,MDA,Total,0
+2018,MDA,Total,0
+2019,MDA,Total,0
+2020,MDA,Total,0
+2021,MDA,Total,0
+2022,MDA,Total,0
+2023,MDA,Total,0
+2024,MDA,Total,0
+2025,MDA,Total,0.305
+2015,MDG,Total,0
+2016,MDG,Total,0
+2017,MDG,Total,0.03
+2018,MDG,Total,0.03
+2019,MDG,Total,0.03
+2020,MDG,Total,0.03
+2021,MDG,Total,0.03
+2022,MDG,Total,0.03
+2023,MDG,Total,0.03
+2024,MDG,Total,0.03
+2025,MDG,Total,0
+2022,MDV,Total,0
+2023,MDV,Total,0
+2024,MDV,Total,0
+2025,MDV,Total,0
+2015,MEX,Total,0
+2016,MEX,Total,0
+2017,MEX,Total,0
+2018,MEX,Total,1.4
+2019,MEX,Total,1.4
+2020,MEX,Total,1.4
+2021,MEX,Total,0
+2022,MEX,Total,15
+2023,MEX,Total,10
+2024,MEX,Total,8.8
+2025,MEX,Total,14.668
+2015,MKD,Total,0.43
+2016,MKD,Total,0.43
+2017,MKD,Total,0.43
+2018,MKD,Total,0.43
+2019,MKD,Total,0
+2020,MKD,Total,0
+2021,MKD,Total,0
+2022,MKD,Total,0.36
+2023,MKD,Total,0.4
+2024,MKD,Total,0.11
+2025,MKD,Total,1.205
+2022,MLI,Total,0
+2023,MLI,Total,0
+2024,MLI,Total,0
+2025,MLI,Total,0
+2022,MLT,Total,0
+2023,MLT,Total,0
+2024,MLT,Total,0
+2025,MLT,Total,0
+2015,MMR,Total,14
+2016,MMR,Total,5.2
+2017,MMR,Total,1.5
+2018,MMR,Total,0
+2019,MMR,Total,0
+2020,MMR,Total,0
+2021,MMR,Total,0
+2022,MMR,Total,10
+2023,MMR,Total,3.6
+2024,MMR,Total,3
+2025,MMR,Total,2.316
+2015,MNE,Total,0.25
+2016,MNE,Total,0.25
+2017,MNE,Total,0.25
+2018,MNE,Total,0.25
+2019,MNE,Total,0
+2020,MNE,Total,0
+2021,MNE,Total,0
+2022,MNE,Total,0.4
+2023,MNE,Total,0.79
+2024,MNE,Total,0.89
+2025,MNE,Total,0
+2015,MNG,Total,7.9
+2016,MNG,Total,8.2
+2017,MNG,Total,7.7
+2018,MNG,Total,8.3
+2019,MNG,Total,7.5
+2020,MNG,Total,7.4
+2021,MNG,Total,7.5
+2022,MNG,Total,7.4
+2023,MNG,Total,2.2
+2024,MNG,Total,3.5
+2025,MNG,Total,4.4
+2015,MOZ,Total,3
+2016,MOZ,Total,1.4
+2017,MOZ,Total,1.4
+2018,MOZ,Total,0.95
+2019,MOZ,Total,2
+2020,MOZ,Total,1.5
+2021,MOZ,Total,1.4
+2022,MOZ,Total,4.2
+2023,MOZ,Total,4.5
+2024,MOZ,Total,3.6
+2025,MOZ,Total,3.399
+2022,MRT,Total,0.12
+2023,MRT,Total,0.12
+2024,MRT,Total,0.12
+2025,MRT,Total,0.3
+2022,MTQ,Total,0
+2023,MTQ,Total,0
+2024,MTQ,Total,0
+2015,MUS,Total,0
+2016,MUS,Total,0
+2017,MUS,Total,0
+2018,MUS,Total,0
+2019,MUS,Total,0
+2020,MUS,Total,0
+2021,MUS,Total,0
+2022,MUS,Total,0
+2023,MUS,Total,0.1
+2024,MUS,Total,0
+2025,MUS,Total,0
+2015,MWI,Total,1.1
+2016,MWI,Total,3.5
+2017,MWI,Total,3.1
+2018,MWI,Total,0.67
+2019,MWI,Total,0.67
+2020,MWI,Total,0.67
+2021,MWI,Total,0.45
+2022,MWI,Total,0.9
+2023,MWI,Total,0.9
+2024,MWI,Total,0.9
+2025,MWI,Total,0.6
+2015,MYS,Total,4.6
+2016,MYS,Total,3.6
+2017,MYS,Total,2.6
+2018,MYS,Total,2.6
+2019,MYS,Total,0
+2020,MYS,Total,0
+2021,MYS,Total,0
+2022,MYS,Total,8.9
+2023,MYS,Total,6.1
+2024,MYS,Total,6.1
+2025,MYS,Total,12.205
+2015,NAM,Total,0.3
+2016,NAM,Total,0
+2017,NAM,Total,0
+2018,NAM,Total,0
+2019,NAM,Total,0
+2020,NAM,Total,0
+2021,NAM,Total,0
+2022,NAM,Total,0.44
+2023,NAM,Total,0.49
+2024,NAM,Total,0.48
+2025,NAM,Total,0.475
+2015,NCL,Total,0.18
+2016,NCL,Total,0
+2017,NCL,Total,0
+2018,NCL,Total,0
+2019,NCL,Total,0
+2020,NCL,Total,0
+2021,NCL,Total,0
+2022,NCL,Total,0
+2023,NCL,Total,0
+2024,NCL,Total,0
+2025,NCL,Total,0
+2015,NER,Total,0.6
+2016,NER,Total,0.6
+2017,NER,Total,0
+2018,NER,Total,0.1
+2019,NER,Total,0.1
+2020,NER,Total,0
+2021,NER,Total,0.2
+2022,NER,Total,0.2
+2023,NER,Total,0.2
+2024,NER,Total,0.2
+2025,NER,Total,0.6
+2015,NGA,Total,2.6
+2016,NGA,Total,1.6
+2017,NGA,Total,2.9
+2018,NGA,Total,4.1
+2019,NGA,Total,2.4
+2020,NGA,Total,0
+2021,NGA,Total,0.06
+2022,NGA,Total,21
+2023,NGA,Total,22
+2024,NGA,Total,20
+2025,NGA,Total,16.163
+2022,NIC,Total,0.3
+2023,NIC,Total,0.3
+2024,NIC,Total,0.15
+2025,NIC,Total,0.15
+2015,NLD,Total,1.1
+2016,NLD,Total,0
+2017,NLD,Total,0
+2018,NLD,Total,0
+2019,NLD,Total,0
+2020,NLD,Total,0
+2021,NLD,Total,0
+2022,NLD,Total,0
+2023,NLD,Total,0
+2024,NLD,Total,0.5
+2025,NLD,Total,0.56
+2022,NOR,Total,0
+2023,NOR,Total,0
+2024,NOR,Total,0
+2025,NOR,Total,0
+2015,NZL,Total,0
+2016,NZL,Total,0
+2017,NZL,Total,0
+2018,NZL,Total,0
+2019,NZL,Total,0
+2020,NZL,Total,0
+2021,NZL,Total,0
+2022,NZL,Total,0
+2023,NZL,Total,0
+2024,NZL,Total,0.36
+2025,NZL,Total,0.36
+2015,OMN,Total,0
+2016,OMN,Total,0
+2017,OMN,Total,1.2
+2018,OMN,Total,1.2
+2019,OMN,Total,1.2
+2020,OMN,Total,0
+2021,OMN,Total,0
+2022,OMN,Total,0.26
+2023,OMN,Total,0.13
+2024,OMN,Total,0.13
+2025,OMN,Total,2.4
+2015,PAK,Total,23
+2016,PAK,Total,16
+2017,PAK,Total,12
+2018,PAK,Total,10
+2019,PAK,Total,8.2
+2020,PAK,Total,7.5
+2021,PAK,Total,7.3
+2022,PAK,Total,7.2
+2023,PAK,Total,5.9
+2024,PAK,Total,2.7
+2025,PAK,Total,2.304
+2015,PAN,Total,0.31
+2016,PAN,Total,0.31
+2017,PAN,Total,0.31
+2018,PAN,Total,0
+2019,PAN,Total,0
+2020,PAN,Total,0
+2021,PAN,Total,0
+2022,PAN,Total,1.4
+2023,PAN,Total,0.96
+2024,PAN,Total,0.15
+2025,PAN,Total,0.153
+2015,PER,Total,0
+2016,PER,Total,0
+2017,PER,Total,0
+2018,PER,Total,0
+2019,PER,Total,0
+2020,PER,Total,0
+2021,PER,Total,0
+2022,PER,Total,0
+2023,PER,Total,0.1
+2024,PER,Total,0.59
+2025,PER,Total,0.788
+2015,PHL,Total,14
+2016,PHL,Total,16
+2017,PHL,Total,14
+2018,PHL,Total,15
+2019,PHL,Total,12
+2020,PHL,Total,8.2
+2021,PHL,Total,5.1
+2022,PHL,Total,17
+2023,PHL,Total,29
+2024,PHL,Total,30
+2025,PHL,Total,23.24
+2015,PNG,Total,0
+2016,PNG,Total,0
+2017,PNG,Total,0
+2018,PNG,Total,0.052
+2019,PNG,Total,0.052
+2020,PNG,Total,0.052
+2021,PNG,Total,0
+2022,PNG,Total,0
+2023,PNG,Total,0
+2024,PNG,Total,0
+2025,PNG,Total,0.066
+2015,POL,Total,10
+2016,POL,Total,10
+2017,POL,Total,9
+2018,POL,Total,9.4
+2019,POL,Total,3
+2020,POL,Total,1.1
+2021,POL,Total,0.6
+2022,POL,Total,7.7
+2023,POL,Total,7.9
+2024,POL,Total,6.3
+2025,POL,Total,9.654
+2022,PRI,Total,0
+2023,PRI,Total,0
+2024,PRI,Total,0
+2025,PRI,Total,0.66
+2015,PRK,Total,0.6
+2016,PRK,Total,0.6
+2017,PRK,Total,0.8
+2018,PRK,Total,0
+2019,PRK,Total,0
+2020,PRK,Total,0
+2021,PRK,Total,0
+2022,PRK,Total,0
+2023,PRK,Total,0
+2024,PRK,Total,0
+2025,PRK,Total,0
+2015,PRT,Total,0
+2016,PRT,Total,0
+2017,PRT,Total,0
+2018,PRT,Total,0
+2019,PRT,Total,0
+2020,PRT,Total,0
+2021,PRT,Total,0
+2022,PRT,Total,0
+2023,PRT,Total,0
+2024,PRT,Total,0
+2025,PRT,Total,0
+2022,PSE,Total,0.45
+2023,PSE,Total,0.62
+2024,PSE,Total,0.62
+2025,PSE,Total,1.12
+2022,QAT,Total,4.9
+2023,QAT,Total,5.2
+2024,QAT,Total,7.6
+2025,QAT,Total,5.515
+2022,REU,Total,0
+2023,REU,Total,0
+2024,REU,Total,0
+2025,REU,Total,0
+2015,ROU,Total,0
+2016,ROU,Total,0
+2017,ROU,Total,0.6
+2018,ROU,Total,0.6
+2019,ROU,Total,0.6
+2020,ROU,Total,0
+2021,ROU,Total,0
+2022,ROU,Total,3.1
+2023,ROU,Total,5.1
+2024,ROU,Total,6
+2025,ROU,Total,5.333
+2015,RUS,Total,5.2
+2016,RUS,Total,3.4
+2017,RUS,Total,2.5
+2018,RUS,Total,3.7
+2019,RUS,Total,3.4
+2020,RUS,Total,3
+2021,RUS,Total,4.3
+2022,RUS,Total,18
+2023,RUS,Total,19
+2024,RUS,Total,22
+2025,RUS,Total,25.792
+2022,RWA,Total,0
+2023,RWA,Total,0.072
+2024,RWA,Total,0.072
+2025,RWA,Total,0.072
+2022,SAU,Total,13
+2023,SAU,Total,10
+2024,SAU,Total,17
+2025,SAU,Total,31.385
+2015,SDN,Total,0
+2016,SDN,Total,0
+2017,SDN,Total,0
+2018,SDN,Total,0
+2019,SDN,Total,0
+2020,SDN,Total,0
+2021,SDN,Total,0
+2022,SDN,Total,2
+2023,SDN,Total,2.8
+2024,SDN,Total,2.1
+2025,SDN,Total,1.575
+2015,SEN,Total,0.98
+2016,SEN,Total,0.73
+2017,SEN,Total,0.13
+2018,SEN,Total,0.13
+2019,SEN,Total,0
+2020,SEN,Total,0
+2021,SEN,Total,0
+2022,SEN,Total,0.55
+2023,SEN,Total,0.43
+2024,SEN,Total,0.43
+2025,SEN,Total,0.491
+2022,SGP,Total,0.6
+2023,SGP,Total,1.3
+2024,SGP,Total,3.2
+2025,SGP,Total,2.47
+2022,SLE,Total,0.089
+2023,SLE,Total,0.089
+2024,SLE,Total,0.084
+2025,SLE,Total,0.105
+2015,SLV,Total,0
+2016,SLV,Total,0
+2017,SLV,Total,0
+2018,SLV,Total,0
+2019,SLV,Total,0
+2020,SLV,Total,0
+2021,SLV,Total,0
+2022,SLV,Total,0
+2023,SLV,Total,0
+2024,SLV,Total,0
+2025,SLV,Total,0
+2022,SOM,Total,0
+2023,SOM,Total,0
+2024,SOM,Total,0
+2025,SOM,Total,0
+2015,SRB,Total,2.8
+2016,SRB,Total,2.8
+2017,SRB,Total,2.8
+2018,SRB,Total,2.1
+2019,SRB,Total,2.1
+2020,SRB,Total,1.7
+2021,SRB,Total,1.7
+2022,SRB,Total,1.8
+2023,SRB,Total,0.35
+2024,SRB,Total,1.4
+2025,SRB,Total,0.85
+2022,SSD,Total,0
+2023,SSD,Total,0.067
+2024,SSD,Total,0.067
+2025,SSD,Total,0
+2022,SUR,Total,0
+2023,SUR,Total,0
+2024,SUR,Total,0
+2025,SUR,Total,0
+2015,SVK,Total,0
+2016,SVK,Total,0
+2017,SVK,Total,0
+2018,SVK,Total,0
+2019,SVK,Total,0
+2020,SVK,Total,0
+2021,SVK,Total,0
+2022,SVK,Total,0
+2023,SVK,Total,0
+2024,SVK,Total,0
+2025,SVK,Total,0
+2015,SVN,Total,0
+2016,SVN,Total,0
+2017,SVN,Total,0
+2018,SVN,Total,0
+2019,SVN,Total,0
+2020,SVN,Total,0
+2021,SVN,Total,0
+2022,SVN,Total,0.11
+2023,SVN,Total,0
+2024,SVN,Total,0
+2025,SVN,Total,0
+2015,SWE,Total,0
+2016,SWE,Total,0
+2017,SWE,Total,0
+2018,SWE,Total,0
+2019,SWE,Total,0
+2020,SWE,Total,0
+2021,SWE,Total,0
+2022,SWE,Total,0
+2023,SWE,Total,0
+2024,SWE,Total,0
+2025,SWE,Total,0
+2015,SWZ,Total,0
+2016,SWZ,Total,0.2
+2017,SWZ,Total,0
+2018,SWZ,Total,0.8
+2019,SWZ,Total,0.8
+2020,SWZ,Total,0.3
+2021,SWZ,Total,0.3
+2022,SWZ,Total,0.3
+2023,SWZ,Total,0.55
+2024,SWZ,Total,0.55
+2025,SWZ,Total,0.3
+2022,SYC,Total,0
+2023,SYC,Total,0
+2024,SYC,Total,0
+2025,SYC,Total,0
+2015,SYR,Total,0
+2016,SYR,Total,0
+2017,SYR,Total,0
+2018,SYR,Total,0
+2019,SYR,Total,0
+2020,SYR,Total,0
+2021,SYR,Total,0
+2022,SYR,Total,5
+2023,SYR,Total,7.3
+2024,SYR,Total,5.7
+2025,SYR,Total,10.56
+2022,TCD,Total,0
+2023,TCD,Total,0.09
+2024,TCD,Total,0.09
+2025,TCD,Total,0.09
+2022,TGO,Total,0
+2023,TGO,Total,0
+2024,TGO,Total,0
+2025,TGO,Total,0
+2015,THA,Total,6.9
+2016,THA,Total,7.4
+2017,THA,Total,3.5
+2018,THA,Total,3.5
+2019,THA,Total,3.3
+2020,THA,Total,2.6
+2021,THA,Total,0.6
+2022,THA,Total,14
+2023,THA,Total,11
+2024,THA,Total,7.5
+2025,THA,Total,4.77
+2015,TJK,Total,0.9
+2016,TJK,Total,0.9
+2017,TJK,Total,0.9
+2018,TJK,Total,0.9
+2019,TJK,Total,0.9
+2020,TJK,Total,0.6
+2021,TJK,Total,0.6
+2022,TJK,Total,0.6
+2023,TJK,Total,0.6
+2024,TJK,Total,0.6
+2025,TJK,Total,0
+2022,TKM,Total,0
+2023,TKM,Total,1.6
+2024,TKM,Total,1.6
+2025,TKM,Total,2.074
+2022,TLS,Total,0
+2023,TLS,Total,0
+2024,TLS,Total,0
+2025,TLS,Total,0
+2022,TTO,Total,0
+2023,TTO,Total,0
+2024,TTO,Total,0
+2025,TTO,Total,0
+2022,TUN,Total,0.9
+2023,TUN,Total,0
+2024,TUN,Total,0.9
+2025,TUN,Total,0.45
+2015,TUR,Total,60
+2016,TUR,Total,55
+2017,TUR,Total,37
+2018,TUR,Total,34
+2019,TUR,Total,27
+2020,TUR,Total,20
+2021,TUR,Total,12
+2022,TUR,Total,11
+2023,TUR,Total,6.4
+2024,TUR,Total,1.6
+2025,TUR,Total,1.55
+2015,TWN,Total,11
+2016,TWN,Total,4.4
+2017,TWN,Total,3.6
+2018,TWN,Total,0.8
+2019,TWN,Total,0
+2020,TWN,Total,0
+2021,TWN,Total,0
+2022,TWN,Total,25
+2023,TWN,Total,27
+2024,TWN,Total,32
+2025,TWN,Total,25.239
+2015,TZA,Total,1.4
+2016,TZA,Total,1.5
+2017,TZA,Total,1.9
+2018,TZA,Total,1.7
+2019,TZA,Total,0.69
+2020,TZA,Total,0.3
+2021,TZA,Total,0.8
+2022,TZA,Total,1.1
+2023,TZA,Total,1.9
+2024,TZA,Total,1.9
+2025,TZA,Total,1.85
+2022,UGA,Total,0
+2023,UGA,Total,0
+2024,UGA,Total,0
+2025,UGA,Total,0
+2015,UKR,Total,1.3
+2016,UKR,Total,1.3
+2017,UKR,Total,1.3
+2018,UKR,Total,0.66
+2019,UKR,Total,0.66
+2020,UKR,Total,0.66
+2021,UKR,Total,0.66
+2022,UKR,Total,0.92
+2023,UKR,Total,0
+2024,UKR,Total,1.6
+2025,UKR,Total,3.408
+2022,URY,Total,0
+2023,URY,Total,0
+2024,URY,Total,0
+2025,URY,Total,0
+2015,USA,Total,2.4
+2016,USA,Total,1.9
+2017,USA,Total,0
+2018,USA,Total,0
+2019,USA,Total,0
+2020,USA,Total,0.4
+2021,USA,Total,0.4
+2022,USA,Total,39
+2023,USA,Total,38
+2024,USA,Total,86
+2025,USA,Total,254.437
+2015,UZB,Total,0.45
+2016,UZB,Total,0
+2017,UZB,Total,0
+2018,UZB,Total,0
+2019,UZB,Total,0.3
+2020,UZB,Total,0.3
+2021,UZB,Total,0
+2022,UZB,Total,7.5
+2023,UZB,Total,10
+2024,UZB,Total,10
+2025,UZB,Total,7.122
+2015,VEN,Total,1.3
+2016,VEN,Total,1
+2017,VEN,Total,0
+2018,VEN,Total,0
+2019,VEN,Total,0
+2020,VEN,Total,0
+2021,VEN,Total,0
+2022,VEN,Total,0
+2023,VEN,Total,0
+2024,VEN,Total,0
+2025,VEN,Total,0
+2015,VNM,Total,56
+2016,VNM,Total,47
+2017,VNM,Total,47
+2018,VNM,Total,43
+2019,VNM,Total,31
+2020,VNM,Total,29
+2021,VNM,Total,28
+2022,VNM,Total,88
+2023,VNM,Total,53
+2024,VNM,Total,55
+2025,VNM,Total,61.485
+2022,WLD,Total,10.104
+2023,WLD,Total,6.9
+2024,WLD,Total,41.3
+2025,WLD,Total,1762
+2022,YEM,Total,0.99
+2023,YEM,Total,0.75
+2024,YEM,Total,0.75
+2025,YEM,Total,0.796
+2015,ZAF,Total,17
+2016,ZAF,Total,16
+2017,ZAF,Total,13
+2018,ZAF,Total,14
+2019,ZAF,Total,11
+2020,ZAF,Total,9.2
+2021,ZAF,Total,5.4
+2022,ZAF,Total,21
+2023,ZAF,Total,15
+2024,ZAF,Total,13
+2025,ZAF,Total,11.55
+2015,ZMB,Total,0.94
+2016,ZMB,Total,0.64
+2017,ZMB,Total,0.64
+2018,ZMB,Total,1.2
+2019,ZMB,Total,0.9
+2020,ZMB,Total,0
+2021,ZMB,Total,0.3
+2022,ZMB,Total,0.3
+2023,ZMB,Total,0.6
+2024,ZMB,Total,1.2
+2025,ZMB,Total,2.4
+2015,ZWE,Total,8.4
+2016,ZWE,Total,8.2
+2017,ZWE,Total,8.2
+2018,ZWE,Total,7
+2019,ZWE,Total,5.4
+2020,ZWE,Total,6.7
+2021,ZWE,Total,6
+2022,ZWE,Total,6.9
+2023,ZWE,Total,8.4
+2024,ZWE,Total,8.8
+2025,ZWE,Total,9.2

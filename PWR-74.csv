@@ -1,63 +1,12 @@
-year,geo,disagg,value
-2025,WLD,Total,77
-2025,WLD,Power generation sector,26
-2025,WLD,Fossil fuels sector,51
-2025,ARE,Total,1
-2025,AUS,Total,5
-2025,AUT,Total,2
-2025,BRA,Total,2
-2025,CAN,Total,7
-2025,CHN,Total,1
-2025,COL,Total,1
-2025,DNK,Total,1
-2025,ESP,Total,3
-2025,FRA,Total,3
-2025,GBR,Total,4
-2025,HKG,Total,2
-2025,HUN,Total,1
-2025,IND,Total,2
-2025,ITA,Total,3
-2025,JPN,Total,4
-2025,KOR,Total,3
-2025,MYS,Total,1
-2025,NOR,Total,1
-2025,PRT,Total,2
-2025,SAU,Total,2
-2025,SGP,Total,1
-2025,THA,Total,2
-2025,USA,Total,23
-2025,ARE,Power generation sector,1
-2025,AUT,Power generation sector,1
-2025,BRA,Power generation sector,1
-2025,CAN,Power generation sector,3
-2025,DNK,Power generation sector,1
-2025,ESP,Power generation sector,1
-2025,FRA,Power generation sector,1
-2025,GBR,Power generation sector,1
-2025,HKG,Power generation sector,2
-2025,JPN,Power generation sector,1
-2025,MYS,Power generation sector,1
-2025,PRT,Power generation sector,1
-2025,SAU,Power generation sector,1
-2025,THA,Power generation sector,1
-2025,USA,Power generation sector,9
-2025,AUS,Fossil fuels sector,5
-2025,AUT,Fossil fuels sector,1
-2025,BRA,Fossil fuels sector,1
-2025,CAN,Fossil fuels sector,4
-2025,CHN,Fossil fuels sector,1
-2025,COL,Fossil fuels sector,1
-2025,ESP,Fossil fuels sector,2
-2025,FRA,Fossil fuels sector,2
-2025,GBR,Fossil fuels sector,3
-2025,HUN,Fossil fuels sector,1
-2025,IND,Fossil fuels sector,2
-2025,ITA,Fossil fuels sector,3
-2025,JPN,Fossil fuels sector,3
-2025,KOR,Fossil fuels sector,3
-2025,NOR,Fossil fuels sector,1
-2025,PRT,Fossil fuels sector,1
-2025,SAU,Fossil fuels sector,1
-2025,SGP,Fossil fuels sector,1
-2025,THA,Fossil fuels sector,1
-2025,USA,Fossil fuels sector,14
+year,geo,value
+2015,WLD,156
+2016,WLD,192
+2017,WLD,247
+2018,WLD,452
+2019,WLD,992
+2020,WLD,3567
+2021,WLD,6003
+2022,WLD,10189
+2023,WLD,11036
+2024,WLD,12044
+2025,WLD,12988
