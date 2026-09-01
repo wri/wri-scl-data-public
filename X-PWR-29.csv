@@ -1188,8 +1188,6 @@
 2020,KOR,Wind Energy,0.0000015
 2023,KOR,Wind Energy,0.0021
 2024,KOR,Wind energy,0.0021
-2023,KOS,Total,0.00027
-2023,KOS,Wind Energy,0.00023
 2024,LBN,Hydropower,0.00019
 2020,LBN,Solar Heating / Cooling,0.00000051
 2023,LBN,Solar Heating / Cooling,0.0014
@@ -2143,11 +2141,9 @@
 2020,VNM,Wind Energy,0.0000035
 2023,VNM,Wind Energy,0.013
 2024,VNM,Wind energy,0.006
-2023,VNZ,Hydropower,0.012
-2023,VNZ,Total,0.012
 2012,WLD,Bioenergy,2.4
 2013,WLD,Bioenergy,2.5
-2014,WLD,Bioenergy,3.0
+2014,WLD,Bioenergy,3
 2015,WLD,Bioenergy,2.9
 2016,WLD,Bioenergy,2.7
 2017,WLD,Bioenergy,3.1
@@ -2160,12 +2156,12 @@
 2024,WLD,Bioenergy,3.7
 2012,WLD,Hydropower,1.7
 2013,WLD,Hydropower,2.2
-2014,WLD,Hydropower,2.0
+2014,WLD,Hydropower,2
 2015,WLD,Hydropower,2.2
 2016,WLD,Hydropower,2.1
-2017,WLD,Hydropower,2.0
+2017,WLD,Hydropower,2
 2018,WLD,Hydropower,2.1
-2019,WLD,Hydropower,2.0
+2019,WLD,Hydropower,2
 2020,WLD,Hydropower,2.2
 2021,WLD,Hydropower,2.4
 2022,WLD,Hydropower,2.5
@@ -2205,7 +2201,7 @@
 2017,WLD,Solar PV,3.4
 2018,WLD,Solar PV,3.7
 2019,WLD,Solar PV,3.8
-2020,WLD,Solar PV,4.0
+2020,WLD,Solar PV,4
 2021,WLD,Solar PV,4.3
 2022,WLD,Solar PV,4.9
 2023,WLD,Solar PV,7.1
@@ -2213,19 +2209,19 @@
 2012,WLD,Total,7.3
 2013,WLD,Total,8.5
 2014,WLD,Total,9.5
-2015,WLD,Total,10.0
+2015,WLD,Total,10
 2016,WLD,Total,10.1
 2017,WLD,Total,10.5
 2018,WLD,Total,11.1
 2019,WLD,Total,11.5
-2020,WLD,Total,12.0
+2020,WLD,Total,12
 2021,WLD,Total,12.7
 2022,WLD,Total,13.7
 2023,WLD,Total,16.2
 2024,WLD,Total,16.6
 2012,WLD,Wind,0.8
 2013,WLD,Wind,0.8
-2014,WLD,Wind,1.0
+2014,WLD,Wind,1
 2015,WLD,Wind,1.1
 2016,WLD,Wind,1.2
 2017,WLD,Wind,1.2
