@@ -16,7 +16,8 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2021,WLD,Total,1910,,,,
 2022,WLD,Total,1920,,,,
 2023,WLD,Total,1920,,,,
-2028,WLD,Total,,2025,,,
+2024,WLD,Total,1920,,,,
+2029,WLD,Total,,,,,
 2030,WLD,Total,,,1340,1345,1350
 2050,WLD,Total,,,0,65,130
 2021,WLD,BF-BOF,2330,,,,
@@ -25,6 +26,9 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,BF-BOF,2330,,,,
 2022,WLD,Scrap-EAF,670,,,,
 2022,WLD,DRI-EAF,1360,,,,
-2023,WLD,BF-BOF,2320,,,,
-2023,WLD,Scrap-EAF,700,,,,
+2023,WLD,BF-BOF,2330,,,,
+2023,WLD,Scrap-EAF,690,,,,
 2023,WLD,DRI-EAF,1430,,,,
+2024,WLD,BF-BOF,2340,,,,
+2024,WLD,Scrap-EAF,690,,,,
+2024,WLD,DRI-EAF,1470,,,,
