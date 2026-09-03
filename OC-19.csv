@@ -1,36 +1,36 @@
 ﻿year,geo,disagg,value
-2015,WLD,Total,0.56
-2016,WLD,Total,0.57
-2017,WLD,Total,0.58
-2018,WLD,Total,0.62
-2019,WLD,Total,0.69
-2020,WLD,Total,0.66
-2021,WLD,Total,1.09
-2022,WLD,Total,0.84
-2023,WLD,Total,1.04
-2024,WLD,Total,1.47
-2010,WLD,ODA disbursement,0.21
-2011,WLD,ODA disbursement,0.24
-2012,WLD,ODA disbursement,0.34
-2013,WLD,ODA disbursement,0.3
-2014,WLD,ODA disbursement,0.36
-2015,WLD,ODA disbursement,0.41
-2016,WLD,ODA disbursement,0.46
-2017,WLD,ODA disbursement,0.48
-2018,WLD,ODA disbursement,0.48
-2019,WLD,ODA disbursement,0.54
-2020,WLD,ODA disbursement,0.47
-2021,WLD,ODA disbursement,0.88
-2022,WLD,ODA disbursement,0.55
-2023,WLD,ODA disbursement,0.69
-2024,WLD,ODA disbursement,1.13
-2015,WLD,Philantrophic funding,0.15
-2016,WLD,Philantrophic funding,0.1
-2017,WLD,Philantrophic funding,0.1
-2018,WLD,Philantrophic funding,0.14
-2019,WLD,Philantrophic funding,0.15
-2020,WLD,Philantrophic funding,0.19
-2021,WLD,Philantrophic funding,0.21
-2022,WLD,Philantrophic funding,0.29
-2023,WLD,Philantrophic funding,0.35
-2024,WLD,Philantrophic funding,0.34
+2015,WLD,Total,605
+2016,WLD,Total,597
+2017,WLD,Total,609
+2018,WLD,Total,654
+2019,WLD,Total,727
+2020,WLD,Total,699
+2021,WLD,Total,1123
+2022,WLD,Total,865
+2023,WLD,Total,1050
+2024,WLD,Total,1473
+2010,WLD,ODA disbursement,212
+2011,WLD,ODA disbursement,241
+2012,WLD,ODA disbursement,343
+2013,WLD,ODA disbursement,304
+2014,WLD,ODA disbursement,355
+2015,WLD,ODA disbursement,408
+2016,WLD,ODA disbursement,464
+2017,WLD,ODA disbursement,478
+2018,WLD,ODA disbursement,477
+2019,WLD,ODA disbursement,542
+2020,WLD,ODA disbursement,474
+2021,WLD,ODA disbursement,878
+2022,WLD,ODA disbursement,551
+2023,WLD,ODA disbursement,688
+2024,WLD,ODA disbursement,1129
+2015,WLD,Philantrophic funding,197
+2016,WLD,Philantrophic funding,133
+2017,WLD,Philantrophic funding,131
+2018,WLD,Philantrophic funding,177
+2019,WLD,Philantrophic funding,185
+2020,WLD,Philantrophic funding,225
+2021,WLD,Philantrophic funding,245
+2022,WLD,Philantrophic funding,314
+2023,WLD,Philantrophic funding,362
+2024,WLD,Philantrophic funding,344
