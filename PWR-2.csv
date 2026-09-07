@@ -1,4 +1,15 @@
-﻿year,geo,disagg,value
+year,geo,disagg,value
+2015,WLD,Total,712
+2016,WLD,Total,721
+2017,WLD,Total,692
+2018,WLD,Total,677
+2019,WLD,Total,720
+2020,WLD,Total,745
+2021,WLD,Total,787
+2022,WLD,Total,928
+2023,WLD,Total,1103
+2024,WLD,Total,1237
+2025,WLD,Total,1300
 2015,WLD,Nuclear,47
 2016,WLD,Nuclear,44
 2017,WLD,Nuclear,38
@@ -30,14 +41,14 @@
 2021,WLD,Other clean power,0
 2022,WLD,Other clean power,0
 2023,WLD,Other clean power,0
-2024,WLD,Other clean power,0
-2025,WLD,Other clean power,2
-2015,WLD,Battery storage,1
-2016,WLD,Battery storage,1
-2017,WLD,Battery storage,2
-2018,WLD,Battery storage,3
-2019,WLD,Battery storage,3
-2020,WLD,Battery storage,5
+2024,WLD,Other clean power,0.0000092
+2025,WLD,Other clean power,1.5
+2015,WLD,Battery storage,1.3
+2016,WLD,Battery storage,1.2
+2017,WLD,Battery storage,1.8
+2018,WLD,Battery storage,3.1
+2019,WLD,Battery storage,3.3
+2020,WLD,Battery storage,4.7
 2021,WLD,Battery storage,11
 2022,WLD,Battery storage,28
 2023,WLD,Battery storage,46
@@ -54,14 +65,3 @@
 2023,WLD,Electricity networks,353
 2024,WLD,Electricity networks,403
 2025,WLD,Electricity networks,448
-2015,WLD,Total,712
-2016,WLD,Total,721
-2017,WLD,Total,692
-2018,WLD,Total,677
-2019,WLD,Total,720
-2020,WLD,Total,745
-2021,WLD,Total,787
-2022,WLD,Total,928
-2023,WLD,Total,1103
-2024,WLD,Total,1237
-2025,WLD,Total,1300
