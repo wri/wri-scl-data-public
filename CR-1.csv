@@ -8,8 +8,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2023,WLD,Total,1.4,,,,
 2024,WLD,Total,1.8,,,,
 2025,WLD,Total,2.0,,,,
-2030,WLD,Total,,1.8,,,
-2030,WLD,Total,,,30,360,690
+2030,WLD,Total,,1.8,30,360,690
 2035,WLD,Total,,,150,925,1700
 2040,WLD,Total,,,290,1695,3100
 2050,WLD,Total,,,740,3120,5500
@@ -25,8 +24,8 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2021,WLD,Biochar soil amendment,0.21,,,,
 2022,WLD,Biochar soil amendment,0.50,,,,
 2023,WLD,Biochar soil amendment,0.79,,,,
-2024,WLD,Biochar soil amendment,1.13,,,,
-2025,WLD,Biochar soil amendment,1.46,,,,
+2024,WLD,Biochar soil amendment,1.1,,,,
+2025,WLD,Biochar soil amendment,1.5,,,,
 2017,WLD,Bioenergy with carbon capture and storage,0.51,,,,
 2018,WLD,Bioenergy with carbon capture and storage,0.53,,,,
 2019,WLD,Bioenergy with carbon capture and storage,0.52,,,,
