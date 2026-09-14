@@ -5,7 +5,7 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,0.1,,,,
 2023,WLD,0.2,,,,
 2024,WLD,0.3,,,,
-2025,WLD,0.5,,,,
+2025,WLD,0.6,,,,
 2026,WLD,,0.8,1.4,1.5,1.6
 2027,WLD,,1.4,3.6,3.9,4.2
 2028,WLD,,2.4,6.6,7.1,7.7
