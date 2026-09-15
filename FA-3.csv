@@ -1,97 +1,349 @@
 year,geo,disagg,value
-2000,WLD,Total,10
-2001,WLD,Total,13
-2002,WLD,Total,20
-2003,WLD,Total,21
-2004,WLD,Total,22
-2005,WLD,Total,23
-2006,WLD,Total,23
-2007,WLD,Total,26
-2008,WLD,Total,25
-2009,WLD,Total,29
-2010,WLD,Total,29
-2011,WLD,Total,33
-2012,WLD,Total,36
-2013,WLD,Total,41
-2014,WLD,Total,76
-2015,WLD,Total,94
-2016,WLD,Total,95
-2017,WLD,Total,98
-2018,WLD,Total,171
-2019,WLD,Total,277
-2020,WLD,Total,1088
-2021,WLD,Total,1443
-2022,WLD,Total,1576
-2023,WLD,Total,1702
-2024,WLD,Total,1838
-2000,WLD,Transboundary Breed,4
-2001,WLD,Transboundary Breed,5
-2002,WLD,Transboundary Breed,6
-2003,WLD,Transboundary Breed,6
-2004,WLD,Transboundary Breed,6
-2005,WLD,Transboundary Breed,6
-2006,WLD,Transboundary Breed,8
-2007,WLD,Transboundary Breed,7
-2008,WLD,Transboundary Breed,8
-2009,WLD,Transboundary Breed,8
-2010,WLD,Transboundary Breed,10
-2011,WLD,Transboundary Breed,11
-2012,WLD,Transboundary Breed,14
-2013,WLD,Transboundary Breed,41
-2014,WLD,Transboundary Breed,57
-2015,WLD,Transboundary Breed,58
-2016,WLD,Transboundary Breed,58
-2017,WLD,Transboundary Breed,114
-2018,WLD,Transboundary Breed,140
-2019,WLD,Transboundary Breed,630
-2020,WLD,Transboundary Breed,859
-2021,WLD,Transboundary Breed,917
-2022,WLD,Transboundary Breed,981
-2023,WLD,Transboundary Breed,1063
-2024,WLD,Transboundary breed,1922
-2000,WLD,Local Breed,9
-2001,WLD,Local Breed,9
-2002,WLD,Local Breed,15
-2003,WLD,Local Breed,15
-2004,WLD,Local Breed,16
-2005,WLD,Local Breed,17
-2006,WLD,Local Breed,17
-2007,WLD,Local Breed,18
-2008,WLD,Local Breed,18
-2009,WLD,Local Breed,21
-2010,WLD,Local Breed,21
-2011,WLD,Local Breed,23
-2012,WLD,Local Breed,25
-2013,WLD,Local Breed,27
-2014,WLD,Local Breed,35
-2015,WLD,Local Breed,37
-2016,WLD,Local Breed,37
-2017,WLD,Local Breed,40
-2018,WLD,Local Breed,57
-2019,WLD,Local Breed,137
-2020,WLD,Local Breed,458
-2021,WLD,Local Breed,584
-2022,WLD,Local Breed,659
-2023,WLD,Local Breed,721
-2024,WLD,Local Breed,775
-2000,ARG,Total,0
-2001,ARG,Total,0
-2002,ARG,Total,0
-2003,ARG,Total,0
-2004,ARG,Total,0
-2005,ARG,Total,0
-2006,ARG,Total,0
-2007,ARG,Total,0
-2008,ARG,Total,0
-2009,ARG,Total,0
-2010,ARG,Total,0
-2011,ARG,Total,0
-2012,ARG,Total,0
-2013,ARG,Total,0
-2014,ARG,Total,0
-2015,ARG,Total,0
-2016,ARG,Total,0
-2017,ARG,Total,0
+2020,WLD,Total,427
+2021,WLD,Total,506
+2022,WLD,Total,557
+2023,WLD,Total,621
+2024,WLD,Total,673
+2025,WLD,Total,674
+2020,WLD,Local breeds,296
+2021,WLD,Local breeds,366
+2022,WLD,Local breeds,398
+2023,WLD,Local breeds,442
+2024,WLD,Local breeds,479
+2025,WLD,Local breeds,483
+2020,WLD,Transboundary breeds,131
+2021,WLD,Transboundary breeds,140
+2022,WLD,Transboundary breeds,159
+2023,WLD,Transboundary breeds,179
+2024,WLD,Transboundary breeds,194
+2025,WLD,Transboundary breeds,191
+2020,005,Total,2
+2021,005,Total,2
+2022,005,Total,2
+2023,005,Total,6
+2024,005,Total,7
+2025,005,Total,7
+2020,011,Total,0
+2021,011,Total,0
+2022,011,Total,0
+2023,011,Total,0
+2024,011,Total,0
+2025,011,Total,0
+2020,013,Total,4
+2021,013,Total,3
+2022,013,Total,3
+2023,013,Total,3
+2024,013,Total,3
+2025,013,Total,3
+2020,014,Total,13
+2021,014,Total,13
+2022,014,Total,13
+2023,014,Total,13
+2024,014,Total,13
+2025,014,Total,13
+2020,015,Total,5
+2021,015,Total,5
+2022,015,Total,6
+2023,015,Total,6
+2024,015,Total,6
+2025,015,Total,6
+2020,018,Total,38
+2021,018,Total,38
+2022,018,Total,38
+2023,018,Total,38
+2024,018,Total,39
+2025,018,Total,22
+2018,021,Total,1
+2019,021,Total,42
+2020,021,Total,49
+2021,021,Total,50
+2022,021,Total,76
+2023,021,Total,76
+2024,021,Total,99
+2025,021,Total,99
+2020,030,Total,136
+2021,030,Total,136
+2022,030,Total,136
+2023,030,Total,138
+2024,030,Total,146
+2025,030,Total,147
+2025,034,Total,101
+2020,035,Total,26
+2021,035,Total,25
+2022,035,Total,25
+2023,035,Total,25
+2024,035,Total,25
+2025,035,Total,25
+2010,039,Total,0
+2011,039,Total,0
+2012,039,Total,0
+2013,039,Total,1
+2014,039,Total,22
+2015,039,Total,31
+2016,039,Total,32
+2017,039,Total,25
+2018,039,Total,35
+2019,039,Total,34
+2020,039,Total,69
+2021,039,Total,119
+2022,039,Total,126
+2023,039,Total,130
+2024,039,Total,138
+2025,039,Total,137
+2020,145,Total,2
+2021,145,Total,2
+2022,145,Total,2
+2023,145,Total,2
+2024,145,Total,8
+2025,145,Total,16
+2020,151,Total,18
+2021,151,Total,15
+2022,151,Total,15
+2023,151,Total,15
+2024,151,Total,19
+2025,151,Total,19
+2009,154,Total,0
+2010,154,Total,0
+2011,154,Total,0
+2012,154,Total,1
+2013,154,Total,1
+2014,154,Total,1
+2015,154,Total,1
+2016,154,Total,4
+2017,154,Total,4
+2018,154,Total,4
+2019,154,Total,4
+2020,154,Total,37
+2021,154,Total,37
+2022,154,Total,39
+2023,154,Total,39
+2024,154,Total,38
+2025,154,Total,38
+2007,155,Total,7
+2008,155,Total,7
+2009,155,Total,8
+2010,155,Total,8
+2011,155,Total,8
+2012,155,Total,9
+2013,155,Total,11
+2014,155,Total,14
+2015,155,Total,20
+2016,155,Total,17
+2017,155,Total,22
+2018,155,Total,71
+2019,155,Total,71
+2020,155,Total,75
+2021,155,Total,77
+2022,155,Total,77
+2023,155,Total,97
+2024,155,Total,109
+2025,155,Total,109
+2020,005,Local breeds,2
+2021,005,Local breeds,2
+2022,005,Local breeds,2
+2023,005,Local breeds,3
+2024,005,Local breeds,4
+2025,005,Local breeds,4
+2020,011,Local breeds,0
+2021,011,Local breeds,0
+2022,011,Local breeds,0
+2023,011,Local breeds,0
+2024,011,Local breeds,0
+2025,011,Local breeds,0
+2020,013,Local breeds,0
+2021,013,Local breeds,0
+2022,013,Local breeds,0
+2023,013,Local breeds,0
+2024,013,Local breeds,0
+2025,013,Local breeds,0
+2020,014,Local breeds,6
+2021,014,Local breeds,6
+2022,014,Local breeds,6
+2023,014,Local breeds,6
+2024,014,Local breeds,6
+2025,014,Local breeds,6
+2020,015,Local breeds,2
+2021,015,Local breeds,2
+2022,015,Local breeds,3
+2023,015,Local breeds,3
+2024,015,Local breeds,3
+2025,015,Local breeds,3
+2020,018,Local breeds,7
+2021,018,Local breeds,7
+2022,018,Local breeds,7
+2023,018,Local breeds,7
+2024,018,Local breeds,10
+2025,018,Local breeds,5
+2019,021,Local breeds,3
+2020,021,Local breeds,10
+2021,021,Local breeds,10
+2022,021,Local breeds,14
+2023,021,Local breeds,14
+2024,021,Local breeds,16
+2025,021,Local breeds,16
+2020,030,Local breeds,111
+2021,030,Local breeds,111
+2022,030,Local breeds,111
+2023,030,Local breeds,113
+2024,030,Local breeds,121
+2025,030,Local breeds,122
+2025,034,Local breeds,75
+2020,035,Local breeds,19
+2021,035,Local breeds,19
+2022,035,Local breeds,18
+2023,035,Local breeds,18
+2024,035,Local breeds,18
+2025,035,Local breeds,18
+2010,039,Local breeds,0
+2011,039,Local breeds,0
+2012,039,Local breeds,0
+2013,039,Local breeds,1
+2014,039,Local breeds,22
+2015,039,Local breeds,31
+2016,039,Local breeds,32
+2017,039,Local breeds,25
+2018,039,Local breeds,35
+2019,039,Local breeds,34
+2020,039,Local breeds,51
+2021,039,Local breeds,100
+2022,039,Local breeds,107
+2023,039,Local breeds,111
+2024,039,Local breeds,118
+2025,039,Local breeds,118
+2020,145,Local breeds,2
+2021,145,Local breeds,2
+2022,145,Local breeds,2
+2023,145,Local breeds,2
+2024,145,Local breeds,7
+2025,145,Local breeds,15
+2020,151,Local breeds,12
+2021,151,Local breeds,10
+2022,151,Local breeds,10
+2023,151,Local breeds,10
+2024,151,Local breeds,10
+2025,151,Local breeds,10
+2009,154,Local breeds,0
+2010,154,Local breeds,0
+2011,154,Local breeds,0
+2012,154,Local breeds,1
+2013,154,Local breeds,1
+2014,154,Local breeds,1
+2015,154,Local breeds,1
+2016,154,Local breeds,4
+2017,154,Local breeds,4
+2018,154,Local breeds,4
+2019,154,Local breeds,4
+2020,154,Local breeds,27
+2021,154,Local breeds,27
+2022,154,Local breeds,27
+2023,154,Local breeds,27
+2024,154,Local breeds,27
+2025,154,Local breeds,27
+2007,155,Local breeds,7
+2008,155,Local breeds,7
+2009,155,Local breeds,8
+2010,155,Local breeds,8
+2011,155,Local breeds,8
+2012,155,Local breeds,9
+2013,155,Local breeds,11
+2014,155,Local breeds,14
+2015,155,Local breeds,20
+2016,155,Local breeds,17
+2017,155,Local breeds,22
+2018,155,Local breeds,34
+2019,155,Local breeds,34
+2020,155,Local breeds,37
+2021,155,Local breeds,39
+2022,155,Local breeds,38
+2023,155,Local breeds,45
+2024,155,Local breeds,56
+2025,155,Local breeds,56
+2020,005,Transboundary breeds,0
+2021,005,Transboundary breeds,0
+2022,005,Transboundary breeds,0
+2023,005,Transboundary breeds,3
+2024,005,Transboundary breeds,3
+2025,005,Transboundary breeds,3
+2020,011,Transboundary breeds,0
+2021,011,Transboundary breeds,0
+2022,011,Transboundary breeds,0
+2023,011,Transboundary breeds,0
+2024,011,Transboundary breeds,0
+2025,011,Transboundary breeds,0
+2020,013,Transboundary breeds,4
+2021,013,Transboundary breeds,3
+2022,013,Transboundary breeds,3
+2023,013,Transboundary breeds,3
+2024,013,Transboundary breeds,3
+2025,013,Transboundary breeds,3
+2020,014,Transboundary breeds,7
+2021,014,Transboundary breeds,7
+2022,014,Transboundary breeds,7
+2023,014,Transboundary breeds,7
+2024,014,Transboundary breeds,7
+2025,014,Transboundary breeds,7
+2020,015,Transboundary breeds,3
+2021,015,Transboundary breeds,3
+2022,015,Transboundary breeds,3
+2023,015,Transboundary breeds,3
+2024,015,Transboundary breeds,3
+2025,015,Transboundary breeds,3
+2020,018,Transboundary breeds,31
+2021,018,Transboundary breeds,31
+2022,018,Transboundary breeds,31
+2023,018,Transboundary breeds,31
+2024,018,Transboundary breeds,29
+2025,018,Transboundary breeds,17
+2018,021,Transboundary breeds,1
+2019,021,Transboundary breeds,39
+2020,021,Transboundary breeds,39
+2021,021,Transboundary breeds,40
+2022,021,Transboundary breeds,62
+2023,021,Transboundary breeds,62
+2024,021,Transboundary breeds,83
+2025,021,Transboundary breeds,83
+2020,030,Transboundary breeds,25
+2021,030,Transboundary breeds,25
+2022,030,Transboundary breeds,25
+2023,030,Transboundary breeds,25
+2024,030,Transboundary breeds,25
+2025,030,Transboundary breeds,25
+2025,034,Transboundary breeds,26
+2020,035,Transboundary breeds,7
+2021,035,Transboundary breeds,6
+2022,035,Transboundary breeds,7
+2023,035,Transboundary breeds,7
+2024,035,Transboundary breeds,7
+2025,035,Transboundary breeds,7
+2020,039,Transboundary breeds,18
+2021,039,Transboundary breeds,19
+2022,039,Transboundary breeds,19
+2023,039,Transboundary breeds,19
+2024,039,Transboundary breeds,20
+2025,039,Transboundary breeds,19
+2024,145,Transboundary breeds,1
+2025,145,Transboundary breeds,1
+2020,151,Transboundary breeds,6
+2021,151,Transboundary breeds,5
+2022,151,Transboundary breeds,5
+2023,151,Transboundary breeds,5
+2024,151,Transboundary breeds,9
+2025,151,Transboundary breeds,9
+2020,154,Transboundary breeds,10
+2021,154,Transboundary breeds,10
+2022,154,Transboundary breeds,12
+2023,154,Transboundary breeds,12
+2024,154,Transboundary breeds,11
+2025,154,Transboundary breeds,11
+2018,155,Transboundary breeds,37
+2019,155,Transboundary breeds,37
+2020,155,Transboundary breeds,38
+2021,155,Transboundary breeds,38
+2022,155,Transboundary breeds,39
+2023,155,Transboundary breeds,52
+2024,155,Transboundary breeds,53
+2025,155,Transboundary breeds,53
+2025,ARE,Total,8
 2018,ARG,Total,0
 2019,ARG,Total,0
 2020,ARG,Total,0
@@ -99,6 +351,7 @@ year,geo,disagg,value
 2022,ARG,Total,0
 2023,ARG,Total,0
 2024,ARG,Total,0
+2025,ARG,Total,0
 2000,AUT,Total,3
 2001,AUT,Total,6
 2002,AUT,Total,7
@@ -124,16 +377,19 @@ year,geo,disagg,value
 2022,AUT,Total,14
 2023,AUT,Total,14
 2024,AUT,Total,13
+2025,AUT,Total,13
 2020,AZE,Total,0
 2021,AZE,Total,0
 2022,AZE,Total,0
 2023,AZE,Total,0
 2024,AZE,Total,0
+2025,AZE,Total,0
 2020,BDI,Total,0
 2021,BDI,Total,0
 2022,BDI,Total,0
 2023,BDI,Total,0
 2024,BDI,Total,0
+2025,BDI,Total,0
 2007,BEL,Total,0
 2008,BEL,Total,0
 2009,BEL,Total,0
@@ -152,6 +408,7 @@ year,geo,disagg,value
 2022,BEL,Total,3
 2023,BEL,Total,3
 2024,BEL,Total,3
+2025,BEL,Total,3
 2018,BEN,Total,0
 2019,BEN,Total,0
 2020,BEN,Total,0
@@ -159,6 +416,7 @@ year,geo,disagg,value
 2022,BEN,Total,0
 2023,BEN,Total,0
 2024,BEN,Total,0
+2025,BEN,Total,0
 2017,BFA,Total,0
 2018,BFA,Total,0
 2019,BFA,Total,0
@@ -167,6 +425,7 @@ year,geo,disagg,value
 2022,BFA,Total,0
 2023,BFA,Total,0
 2024,BFA,Total,0
+2025,BFA,Total,0
 2017,BGR,Total,3
 2018,BGR,Total,3
 2019,BGR,Total,3
@@ -175,6 +434,7 @@ year,geo,disagg,value
 2022,BGR,Total,3
 2023,BGR,Total,3
 2024,BGR,Total,3
+2025,BGR,Total,3
 2017,BRA,Total,0
 2018,BRA,Total,0
 2019,BRA,Total,1
@@ -183,11 +443,13 @@ year,geo,disagg,value
 2022,BRA,Total,1
 2023,BRA,Total,5
 2024,BRA,Total,5
+2025,BRA,Total,5
 2020,BRB,Total,0
 2021,BRB,Total,0
 2022,BRB,Total,0
 2023,BRB,Total,0
 2024,BRB,Total,0
+2025,BRB,Total,0
 2010,BTN,Total,0
 2011,BTN,Total,0
 2012,BTN,Total,0
@@ -203,15 +465,18 @@ year,geo,disagg,value
 2022,BTN,Total,5
 2023,BTN,Total,5
 2024,BTN,Total,5
+2025,BTN,Total,5
 2020,BWA,Total,12
 2021,BWA,Total,12
 2022,BWA,Total,12
 2023,BWA,Total,12
 2024,BWA,Total,12
+2025,BWA,Total,12
 2021,CAN,Total,8
 2022,CAN,Total,9
 2023,CAN,Total,9
 2024,CAN,Total,9
+2025,CAN,Total,9
 2003,CHE,Total,0
 2004,CHE,Total,0
 2005,CHE,Total,0
@@ -233,12 +498,37 @@ year,geo,disagg,value
 2021,CHE,Total,6
 2022,CHE,Total,6
 2023,CHE,Total,11
-2024,CHE,Total,11
+2024,CHE,Total,10
+2025,CHE,Total,10
 2020,CHL,Total,0
 2021,CHL,Total,0
 2022,CHL,Total,0
 2023,CHL,Total,0
 2024,CHL,Total,0
+2025,CHL,Total,0
+2003,CHN,Total,0
+2004,CHN,Total,0
+2005,CHN,Total,0
+2006,CHN,Total,61
+2007,CHN,Total,61
+2008,CHN,Total,65
+2009,CHN,Total,65
+2010,CHN,Total,65
+2011,CHN,Total,65
+2012,CHN,Total,66
+2013,CHN,Total,66
+2014,CHN,Total,67
+2015,CHN,Total,67
+2016,CHN,Total,67
+2017,CHN,Total,67
+2018,CHN,Total,67
+2019,CHN,Total,67
+2020,CHN,Total,88
+2021,CHN,Total,88
+2022,CHN,Total,88
+2023,CHN,Total,90
+2024,CHN,Total,98
+2025,CHN,Total,99
 2017,CIV,Total,0
 2018,CIV,Total,0
 2019,CIV,Total,0
@@ -247,37 +537,45 @@ year,geo,disagg,value
 2022,CIV,Total,0
 2023,CIV,Total,0
 2024,CIV,Total,0
+2025,CIV,Total,0
 2020,COD,Total,0
 2021,COD,Total,0
 2022,COD,Total,0
 2023,COD,Total,0
 2024,COD,Total,0
+2025,COD,Total,0
 2020,COG,Total,0
 2021,COG,Total,0
 2022,COG,Total,0
 2023,COG,Total,0
 2024,COG,Total,0
+2025,COG,Total,0
 2020,COK,Total,0
 2021,COK,Total,0
 2022,COK,Total,0
 2023,COK,Total,0
 2024,COK,Total,0
+2025,COK,Total,0
 2020,COM,Total,0
 2021,COM,Total,0
 2022,COM,Total,0
 2023,COM,Total,0
 2024,COM,Total,0
+2025,COM,Total,0
 2020,CPV,Total,0
 2021,CPV,Total,0
 2022,CPV,Total,0
 2023,CPV,Total,0
 2024,CPV,Total,0
+2025,CPV,Total,0
 2020,CRI,Total,0
 2021,CRI,Total,0
 2022,CRI,Total,0
 2023,CRI,Total,0
 2024,CRI,Total,0
+2025,CRI,Total,0
 2024,CUB,Total,0
+2025,CUB,Total,0
 2000,CZE,Total,0
 2001,CZE,Total,0
 2002,CZE,Total,0
@@ -292,27 +590,30 @@ year,geo,disagg,value
 2011,CZE,Total,1
 2012,CZE,Total,1
 2013,CZE,Total,1
-2014,CZE,Total,2
-2015,CZE,Total,2
-2016,CZE,Total,2
-2017,CZE,Total,2
-2018,CZE,Total,2
-2019,CZE,Total,10
-2020,CZE,Total,10
-2021,CZE,Total,10
-2022,CZE,Total,10
-2023,CZE,Total,10
-2024,CZE,Total,10
+2014,CZE,Total,1
+2015,CZE,Total,1
+2016,CZE,Total,1
+2017,CZE,Total,1
+2018,CZE,Total,1
+2019,CZE,Total,4
+2020,CZE,Total,4
+2021,CZE,Total,4
+2022,CZE,Total,4
+2023,CZE,Total,4
+2024,CZE,Total,2
+2025,CZE,Total,2
 2020,DEU,Total,0
 2021,DEU,Total,0
 2022,DEU,Total,0
 2023,DEU,Total,0
 2024,DEU,Total,0
+2025,DEU,Total,0
 2020,DJI,Total,0
 2021,DJI,Total,0
 2022,DJI,Total,0
 2023,DJI,Total,0
 2024,DJI,Total,0
+2025,DJI,Total,0
 2006,DNK,Total,0
 2007,DNK,Total,0
 2008,DNK,Total,0
@@ -332,13 +633,17 @@ year,geo,disagg,value
 2022,DNK,Total,0
 2023,DNK,Total,0
 2024,DNK,Total,0
+2025,DNK,Total,0
 2022,DOM,Total,0
 2023,DOM,Total,0
 2024,DOM,Total,0
+2025,DOM,Total,0
 2021,DZA,Total,0
 2022,DZA,Total,0
 2023,DZA,Total,0
 2024,DZA,Total,0
+2025,DZA,Total,0
+2025,ECU,Total,0
 2009,ESP,Total,0
 2010,ESP,Total,0
 2011,ESP,Total,0
@@ -354,12 +659,14 @@ year,geo,disagg,value
 2021,ESP,Total,55
 2022,ESP,Total,58
 2023,ESP,Total,59
-2024,ESP,Total,59
+2024,ESP,Total,65
+2025,ESP,Total,65
 2020,ETH,Total,5
 2021,ETH,Total,5
 2022,ETH,Total,5
 2023,ETH,Total,5
 2024,ETH,Total,5
+2025,ETH,Total,5
 2009,FIN,Total,0
 2010,FIN,Total,0
 2011,FIN,Total,0
@@ -376,6 +683,7 @@ year,geo,disagg,value
 2022,FIN,Total,3
 2023,FIN,Total,2
 2024,FIN,Total,1
+2025,FIN,Total,1
 2018,FRA,Total,24
 2019,FRA,Total,25
 2020,FRA,Total,25
@@ -383,11 +691,13 @@ year,geo,disagg,value
 2022,FRA,Total,25
 2023,FRA,Total,41
 2024,FRA,Total,54
+2025,FRA,Total,54
 2020,GAB,Total,0
 2021,GAB,Total,0
 2022,GAB,Total,0
 2023,GAB,Total,0
 2024,GAB,Total,0
+2025,GAB,Total,0
 2008,GBR,Total,0
 2009,GBR,Total,0
 2010,GBR,Total,0
@@ -405,31 +715,37 @@ year,geo,disagg,value
 2022,GBR,Total,0
 2023,GBR,Total,0
 2024,GBR,Total,0
+2025,GBR,Total,0
 2020,GEO,Total,0
 2021,GEO,Total,0
 2022,GEO,Total,0
 2023,GEO,Total,0
 2024,GEO,Total,0
+2025,GEO,Total,0
 2020,GHA,Total,0
 2021,GHA,Total,0
 2022,GHA,Total,0
 2023,GHA,Total,0
 2024,GHA,Total,0
+2025,GHA,Total,0
 2020,GIN,Total,0
 2021,GIN,Total,0
 2022,GIN,Total,0
 2023,GIN,Total,0
 2024,GIN,Total,0
+2025,GIN,Total,0
 2020,GMB,Total,0
 2021,GMB,Total,0
 2022,GMB,Total,0
 2023,GMB,Total,0
 2024,GMB,Total,0
+2025,GMB,Total,0
 2020,GNB,Total,0
 2021,GNB,Total,0
 2022,GNB,Total,0
 2023,GNB,Total,0
 2024,GNB,Total,0
+2025,GNB,Total,0
 2009,GRC,Total,0
 2010,GRC,Total,0
 2011,GRC,Total,0
@@ -446,9 +762,11 @@ year,geo,disagg,value
 2022,GRC,Total,0
 2023,GRC,Total,0
 2024,GRC,Total,0
+2025,GRC,Total,0
 2022,GUM,Total,1
 2023,GUM,Total,1
 2024,GUM,Total,1
+2025,GUM,Total,1
 2006,HRV,Total,0
 2007,HRV,Total,0
 2008,HRV,Total,0
@@ -468,39 +786,47 @@ year,geo,disagg,value
 2022,HRV,Total,2
 2023,HRV,Total,2
 2024,HRV,Total,2
+2025,HRV,Total,2
 2020,HUN,Total,0
 2021,HUN,Total,0
 2022,HUN,Total,0
 2023,HUN,Total,0
 2024,HUN,Total,0
+2025,HUN,Total,0
 2019,IDN,Total,15
 2020,IDN,Total,15
 2021,IDN,Total,15
 2022,IDN,Total,15
 2023,IDN,Total,15
 2024,IDN,Total,15
+2025,IDN,Total,15
 2020,IND,Total,9
 2021,IND,Total,41
 2022,IND,Total,56
 2023,IND,Total,57
 2024,IND,Total,57
+2025,IND,Total,57
 2020,IRL,Total,0
 2021,IRL,Total,0
 2022,IRL,Total,0
 2023,IRL,Total,0
 2024,IRL,Total,0
+2025,IRL,Total,0
 2023,IRN,Total,38
 2024,IRN,Total,38
+2025,IRN,Total,38
 2020,IRQ,Total,0
 2021,IRQ,Total,0
 2022,IRQ,Total,0
 2023,IRQ,Total,0
 2024,IRQ,Total,0
+2025,IRQ,Total,0
 2020,ISL,Total,4
 2021,ISL,Total,4
 2022,ISL,Total,4
 2023,ISL,Total,4
 2024,ISL,Total,4
+2025,ISL,Total,4
 2001,ITA,Total,0
 2002,ITA,Total,0
 2003,ITA,Total,0
@@ -520,31 +846,37 @@ year,geo,disagg,value
 2017,ITA,Total,6
 2018,ITA,Total,6
 2019,ITA,Total,6
-2020,ITA,Total,9
-2021,ITA,Total,9
-2022,ITA,Total,9
-2023,ITA,Total,9
-2024,ITA,Total,9
+2020,ITA,Total,18
+2021,ITA,Total,28
+2022,ITA,Total,27
+2023,ITA,Total,31
+2024,ITA,Total,31
+2025,ITA,Total,31
 2023,JOR,Total,0
 2024,JOR,Total,0
+2025,JOR,Total,0
 2020,JPN,Total,2
 2021,JPN,Total,2
 2022,JPN,Total,2
 2023,JPN,Total,2
 2024,JPN,Total,2
+2025,JPN,Total,2
 2022,KAZ,Total,14
 2023,KAZ,Total,14
 2024,KAZ,Total,14
+2025,KAZ,Total,14
 2020,KEN,Total,0
 2021,KEN,Total,0
 2022,KEN,Total,0
 2023,KEN,Total,0
 2024,KEN,Total,0
+2025,KEN,Total,0
 2020,KGZ,Total,0
 2021,KGZ,Total,0
 2022,KGZ,Total,0
 2023,KGZ,Total,0
 2024,KGZ,Total,0
+2025,KGZ,Total,0
 2014,KOR,Total,1
 2015,KOR,Total,1
 2016,KOR,Total,1
@@ -556,57 +888,72 @@ year,geo,disagg,value
 2022,KOR,Total,46
 2023,KOR,Total,46
 2024,KOR,Total,46
+2025,KOR,Total,46
 2020,LBN,Total,0
 2021,LBN,Total,0
 2022,LBN,Total,0
 2023,LBN,Total,0
 2024,LBN,Total,0
+2025,LBN,Total,0
 2022,LBY,Total,0
 2023,LBY,Total,0
 2024,LBY,Total,0
+2025,LBY,Total,0
 2020,LCA,Total,0
 2021,LCA,Total,0
 2022,LCA,Total,0
 2023,LCA,Total,0
 2024,LCA,Total,0
+2025,LCA,Total,0
+2025,LKA,Total,3
 2020,LTU,Total,1
 2021,LTU,Total,1
 2022,LTU,Total,1
 2023,LTU,Total,1
 2024,LTU,Total,1
+2025,LTU,Total,1
 2020,LUX,Total,0
 2021,LUX,Total,0
 2022,LUX,Total,0
 2023,LUX,Total,0
 2024,LUX,Total,0
+2025,LUX,Total,0
 2019,MAR,Total,6
 2020,MAR,Total,5
 2021,MAR,Total,5
 2022,MAR,Total,6
 2023,MAR,Total,6
 2024,MAR,Total,6
+2025,MAR,Total,6
+2024,MDA,Total,7
+2025,MDA,Total,7
 2020,MDG,Total,0
 2021,MDG,Total,0
 2022,MDG,Total,0
 2023,MDG,Total,0
 2024,MDG,Total,0
+2025,MDG,Total,0
 2020,MEX,Total,3
 2021,MEX,Total,3
 2022,MEX,Total,3
 2023,MEX,Total,3
 2024,MEX,Total,3
+2025,MEX,Total,3
 2020,MLI,Total,0
 2021,MLI,Total,0
 2022,MLI,Total,0
 2023,MLI,Total,0
 2024,MLI,Total,0
+2025,MLI,Total,0
 2023,MLT,Total,0
 2024,MLT,Total,0
+2025,MLT,Total,0
 2020,MMR,Total,0
 2021,MMR,Total,0
 2022,MMR,Total,0
 2023,MMR,Total,0
 2024,MMR,Total,0
+2025,MMR,Total,0
 2010,MNE,Total,0
 2011,MNE,Total,0
 2012,MNE,Total,0
@@ -622,29 +969,35 @@ year,geo,disagg,value
 2022,MNE,Total,0
 2023,MNE,Total,0
 2024,MNE,Total,0
+2025,MNE,Total,0
 2020,MNG,Total,3
 2021,MNG,Total,3
 2022,MNG,Total,3
 2023,MNG,Total,3
 2024,MNG,Total,3
+2025,MNG,Total,3
 2022,MNP,Total,10
 2023,MNP,Total,10
 2024,MNP,Total,10
+2025,MNP,Total,10
 2020,MOZ,Total,4
 2021,MOZ,Total,4
 2022,MOZ,Total,4
 2023,MOZ,Total,4
 2024,MOZ,Total,4
+2025,MOZ,Total,4
 2020,MUS,Total,0
 2021,MUS,Total,0
 2022,MUS,Total,0
 2023,MUS,Total,0
 2024,MUS,Total,0
+2025,MUS,Total,0
 2020,MWI,Total,0
 2021,MWI,Total,0
 2022,MWI,Total,0
 2023,MWI,Total,0
 2024,MWI,Total,0
+2025,MWI,Total,0
 2000,MYS,Total,0
 2001,MYS,Total,0
 2002,MYS,Total,0
@@ -670,11 +1023,14 @@ year,geo,disagg,value
 2022,MYS,Total,0
 2023,MYS,Total,0
 2024,MYS,Total,0
+2025,MYS,Total,0
 2020,NAM,Total,0
 2021,NAM,Total,0
 2022,NAM,Total,0
 2023,NAM,Total,0
 2024,NAM,Total,0
+2025,NAM,Total,0
+2025,NGA,Total,0
 2017,NIC,Total,0
 2018,NIC,Total,0
 2019,NIC,Total,0
@@ -682,7 +1038,6 @@ year,geo,disagg,value
 2021,NIC,Total,0
 2022,NIC,Total,0
 2023,NIC,Total,0
-2024,NIC,Total,0
 2000,NLD,Total,7
 2001,NLD,Total,7
 2002,NLD,Total,13
@@ -707,7 +1062,8 @@ year,geo,disagg,value
 2021,NLD,Total,31
 2022,NLD,Total,32
 2023,NLD,Total,32
-2024,NLD,Total,32
+2024,NLD,Total,33
+2025,NLD,Total,33
 2005,NOR,Total,0
 2006,NOR,Total,0
 2007,NOR,Total,0
@@ -728,6 +1084,7 @@ year,geo,disagg,value
 2022,NOR,Total,29
 2023,NOR,Total,29
 2024,NOR,Total,29
+2025,NOR,Total,29
 2015,OMN,Total,1
 2016,OMN,Total,1
 2017,OMN,Total,1
@@ -738,14 +1095,18 @@ year,geo,disagg,value
 2022,OMN,Total,2
 2023,OMN,Total,2
 2024,OMN,Total,2
+2025,OMN,Total,2
 2020,PAN,Total,1
 2021,PAN,Total,0
 2022,PAN,Total,0
 2023,PAN,Total,0
 2024,PAN,Total,0
+2025,PAN,Total,0
+2021,PER,Total,0
 2022,PER,Total,0
 2023,PER,Total,0
 2024,PER,Total,0
+2025,PER,Total,0
 2012,PHL,Total,0
 2013,PHL,Total,0
 2014,PHL,Total,1
@@ -759,11 +1120,13 @@ year,geo,disagg,value
 2022,PHL,Total,1
 2023,PHL,Total,1
 2024,PHL,Total,1
+2025,PHL,Total,1
 2020,PLW,Total,0
 2021,PLW,Total,0
 2022,PLW,Total,0
 2023,PLW,Total,0
 2024,PLW,Total,0
+2025,PLW,Total,0
 2009,POL,Total,0
 2010,POL,Total,0
 2011,POL,Total,0
@@ -780,55 +1143,70 @@ year,geo,disagg,value
 2022,POL,Total,0
 2023,POL,Total,0
 2024,POL,Total,0
+2025,POL,Total,0
 2022,PRI,Total,0
 2023,PRI,Total,0
 2024,PRI,Total,0
+2025,PRI,Total,0
 2021,PRT,Total,40
 2022,PRT,Total,40
 2023,PRT,Total,40
 2024,PRT,Total,40
+2025,PRT,Total,40
 2020,PRY,Total,0
 2021,PRY,Total,0
 2022,PRY,Total,0
 2023,PRY,Total,0
 2024,PRY,Total,0
+2025,PRY,Total,0
 2024,PSE,Total,0
+2025,PSE,Total,0
 2024,QAT,Total,0
+2025,QAT,Total,0
 2020,ROU,Total,8
 2021,ROU,Total,8
 2022,ROU,Total,8
 2023,ROU,Total,8
 2024,ROU,Total,8
+2025,ROU,Total,8
+2025,RUS,Total,0
 2024,RWA,Total,0
+2025,RWA,Total,0
 2020,SDN,Total,0
 2021,SDN,Total,0
 2022,SDN,Total,0
 2023,SDN,Total,0
 2024,SDN,Total,0
+2025,SDN,Total,0
 2020,SEN,Total,0
 2021,SEN,Total,0
 2022,SEN,Total,0
 2023,SEN,Total,0
 2024,SEN,Total,0
+2025,SEN,Total,0
 2020,SLV,Total,0
 2021,SLV,Total,0
 2022,SLV,Total,0
 2023,SLV,Total,0
 2024,SLV,Total,0
+2025,SLV,Total,0
 2020,SRB,Total,0
 2021,SRB,Total,0
 2022,SRB,Total,0
 2023,SRB,Total,0
 2024,SRB,Total,0
+2025,SRB,Total,0
 2020,SUR,Total,0
 2021,SUR,Total,0
 2022,SUR,Total,0
 2023,SUR,Total,0
 2024,SUR,Total,0
+2025,SUR,Total,0
 2021,SVK,Total,0
 2022,SVK,Total,0
 2023,SVK,Total,0
 2024,SVK,Total,0
+2025,SVK,Total,0
 2000,SVN,Total,0
 2001,SVN,Total,0
 2002,SVN,Total,0
@@ -853,7 +1231,8 @@ year,geo,disagg,value
 2021,SVN,Total,1
 2022,SVN,Total,6
 2023,SVN,Total,6
-2024,SVN,Total,6
+2024,SVN,Total,7
+2025,SVN,Total,7
 2005,SWE,Total,0
 2006,SWE,Total,0
 2007,SWE,Total,0
@@ -874,36 +1253,43 @@ year,geo,disagg,value
 2022,SWE,Total,3
 2023,SWE,Total,3
 2024,SWE,Total,3
+2025,SWE,Total,3
 2020,SWZ,Total,0
 2021,SWZ,Total,0
 2022,SWZ,Total,0
 2023,SWZ,Total,0
 2024,SWZ,Total,0
+2025,SWZ,Total,0
 2020,SYC,Total,0
 2021,SYC,Total,0
 2022,SYC,Total,0
 2023,SYC,Total,0
 2024,SYC,Total,0
+2025,SYC,Total,0
 2020,TGO,Total,0
 2021,TGO,Total,0
 2022,TGO,Total,0
 2023,TGO,Total,0
 2024,TGO,Total,0
+2025,TGO,Total,0
 2020,THA,Total,4
 2021,THA,Total,4
 2022,THA,Total,4
 2023,THA,Total,4
 2024,THA,Total,4
+2025,THA,Total,4
 2020,TON,Total,0
 2021,TON,Total,0
 2022,TON,Total,0
 2023,TON,Total,0
 2024,TON,Total,0
+2025,TON,Total,0
 2020,TUN,Total,0
 2021,TUN,Total,0
 2022,TUN,Total,0
 2023,TUN,Total,0
 2024,TUN,Total,0
+2025,TUN,Total,0
 2010,TUR,Total,0
 2011,TUR,Total,1
 2012,TUR,Total,0
@@ -919,6 +1305,7 @@ year,geo,disagg,value
 2022,TUR,Total,0
 2023,TUR,Total,0
 2024,TUR,Total,6
+2025,TUR,Total,6
 2010,TZA,Total,0
 2011,TZA,Total,0
 2012,TZA,Total,0
@@ -934,11 +1321,13 @@ year,geo,disagg,value
 2022,TZA,Total,0
 2023,TZA,Total,0
 2024,TZA,Total,0
-2020,UGA,Total,5
-2021,UGA,Total,5
-2022,UGA,Total,5
-2023,UGA,Total,5
-2024,UGA,Total,5
+2025,TZA,Total,0
+2020,UGA,Total,3
+2021,UGA,Total,3
+2022,UGA,Total,3
+2023,UGA,Total,3
+2024,UGA,Total,3
+2025,UGA,Total,3
 2003,UKR,Total,0
 2004,UKR,Total,0
 2005,UKR,Total,0
@@ -961,11 +1350,29 @@ year,geo,disagg,value
 2022,UKR,Total,0
 2023,UKR,Total,0
 2024,UKR,Total,0
+2025,UKR,Total,0
+2010,UNKNOWN,Total,8
+2011,UNKNOWN,Total,9
+2012,UNKNOWN,Total,11
+2013,UNKNOWN,Total,14
+2014,UNKNOWN,Total,38
+2015,UNKNOWN,Total,53
+2016,UNKNOWN,Total,54
+2017,UNKNOWN,Total,108
+2018,UNKNOWN,Total,152
+2019,UNKNOWN,Total,159
+2020,UNKNOWN,Total,880
+2021,UNKNOWN,Total,1075
+2022,UNKNOWN,Total,1187
+2023,UNKNOWN,Total,1285
+2024,UNKNOWN,Total,1400
+2025,UNKNOWN,Total,1503
 2020,URY,Total,1
 2021,URY,Total,1
 2022,URY,Total,1
 2023,URY,Total,1
 2024,URY,Total,2
+2025,URY,Total,2
 2018,USA,Total,1
 2019,USA,Total,42
 2020,USA,Total,49
@@ -973,9 +1380,11 @@ year,geo,disagg,value
 2022,USA,Total,75
 2023,USA,Total,75
 2024,USA,Total,98
+2025,USA,Total,98
 2022,VIR,Total,2
 2023,VIR,Total,2
 2024,VIR,Total,2
+2025,VIR,Total,2
 2000,VNM,Total,0
 2001,VNM,Total,0
 2002,VNM,Total,0
@@ -1001,17 +1410,21 @@ year,geo,disagg,value
 2022,VNM,Total,5
 2023,VNM,Total,5
 2024,VNM,Total,5
+2025,VNM,Total,5
 2020,YEM,Total,0
 2021,YEM,Total,0
 2022,YEM,Total,0
 2023,YEM,Total,0
 2024,YEM,Total,0
+2025,YEM,Total,0
 2019,ZAF,Total,30
 2020,ZAF,Total,31
 2021,ZAF,Total,31
 2022,ZAF,Total,31
 2023,ZAF,Total,31
 2024,ZAF,Total,33
+2025,ZAF,Total,11
+2025,ZMB,Total,0
 2018,ZWE,Total,1
 2019,ZWE,Total,1
 2020,ZWE,Total,1
@@ -1019,1653 +1432,1936 @@ year,geo,disagg,value
 2022,ZWE,Total,1
 2023,ZWE,Total,1
 2024,ZWE,Total,1
-2000,ARG,Transboundary Breed,0
-2001,ARG,Transboundary Breed,0
-2002,ARG,Transboundary Breed,0
-2003,ARG,Transboundary Breed,0
-2004,ARG,Transboundary Breed,0
-2005,ARG,Transboundary Breed,0
-2006,ARG,Transboundary Breed,0
-2007,ARG,Transboundary Breed,0
-2008,ARG,Transboundary Breed,0
-2009,ARG,Transboundary Breed,0
-2010,ARG,Transboundary Breed,0
-2011,ARG,Transboundary Breed,0
-2012,ARG,Transboundary Breed,0
-2013,ARG,Transboundary Breed,0
-2014,ARG,Transboundary Breed,0
-2015,ARG,Transboundary Breed,0
-2016,ARG,Transboundary Breed,0
-2017,ARG,Transboundary Breed,0
-2018,ARG,Transboundary Breed,0
-2019,ARG,Transboundary Breed,0
-2020,ARG,Transboundary Breed,0
-2021,ARG,Transboundary Breed,0
-2022,ARG,Transboundary Breed,0
-2023,ARG,Transboundary Breed,0
-2024,ARG,Transboundary Breed,0
-2000,AUT,Transboundary Breed,0
-2001,AUT,Transboundary Breed,3
-2002,AUT,Transboundary Breed,3
-2003,AUT,Transboundary Breed,3
-2004,AUT,Transboundary Breed,3
-2005,AUT,Transboundary Breed,3
-2006,AUT,Transboundary Breed,3
-2007,AUT,Transboundary Breed,3
-2008,AUT,Transboundary Breed,3
-2009,AUT,Transboundary Breed,3
-2010,AUT,Transboundary Breed,3
-2011,AUT,Transboundary Breed,3
-2012,AUT,Transboundary Breed,4
-2013,AUT,Transboundary Breed,5
-2014,AUT,Transboundary Breed,5
-2015,AUT,Transboundary Breed,5
-2016,AUT,Transboundary Breed,5
-2017,AUT,Transboundary Breed,5
-2018,AUT,Transboundary Breed,5
-2019,AUT,Transboundary Breed,5
-2020,AUT,Transboundary Breed,9
-2021,AUT,Transboundary Breed,9
-2022,AUT,Transboundary Breed,8
-2023,AUT,Transboundary Breed,8
-2024,AUT,Transboundary Breed,7
-2020,AZE,Transboundary Breed,0
-2021,AZE,Transboundary Breed,0
-2022,AZE,Transboundary Breed,0
-2023,AZE,Transboundary Breed,0
-2024,AZE,Transboundary Breed,0
-2020,BDI,Transboundary Breed,0
-2021,BDI,Transboundary Breed,0
-2022,BDI,Transboundary Breed,0
-2023,BDI,Transboundary Breed,0
-2024,BDI,Transboundary Breed,0
-2007,BEL,Transboundary Breed,0
-2008,BEL,Transboundary Breed,0
-2009,BEL,Transboundary Breed,0
-2010,BEL,Transboundary Breed,0
-2011,BEL,Transboundary Breed,0
-2012,BEL,Transboundary Breed,0
-2013,BEL,Transboundary Breed,0
-2014,BEL,Transboundary Breed,3
-2015,BEL,Transboundary Breed,3
-2016,BEL,Transboundary Breed,3
-2017,BEL,Transboundary Breed,3
-2018,BEL,Transboundary Breed,3
-2019,BEL,Transboundary Breed,3
-2020,BEL,Transboundary Breed,3
-2021,BEL,Transboundary Breed,3
-2022,BEL,Transboundary Breed,3
-2023,BEL,Transboundary Breed,3
-2024,BEL,Transboundary Breed,3
-2020,BEN,Transboundary Breed,0
-2021,BEN,Transboundary Breed,0
-2022,BEN,Transboundary Breed,0
-2023,BEN,Transboundary Breed,0
-2024,BEN,Transboundary Breed,0
-2021,BFA,Transboundary Breed,0
-2022,BFA,Transboundary Breed,0
-2023,BFA,Transboundary Breed,0
-2024,BFA,Transboundary Breed,0
-2017,BGR,Transboundary Breed,2
-2018,BGR,Transboundary Breed,2
-2019,BGR,Transboundary Breed,2
-2020,BGR,Transboundary Breed,2
-2021,BGR,Transboundary Breed,2
-2022,BGR,Transboundary Breed,2
-2023,BGR,Transboundary Breed,2
-2024,BGR,Transboundary Breed,2
-2019,BRA,Transboundary Breed,1
-2020,BRA,Transboundary Breed,1
-2021,BRA,Transboundary Breed,1
-2022,BRA,Transboundary Breed,1
-2023,BRA,Transboundary Breed,2
-2024,BRA,Transboundary Breed,2
-2020,BRB,Transboundary Breed,0
-2021,BRB,Transboundary Breed,0
-2022,BRB,Transboundary Breed,0
-2023,BRB,Transboundary Breed,0
-2024,BRB,Transboundary Breed,0
-2010,BTN,Transboundary Breed,0
-2011,BTN,Transboundary Breed,0
-2012,BTN,Transboundary Breed,0
-2013,BTN,Transboundary Breed,0
-2014,BTN,Transboundary Breed,0
-2015,BTN,Transboundary Breed,0
-2016,BTN,Transboundary Breed,0
-2017,BTN,Transboundary Breed,0
-2018,BTN,Transboundary Breed,0
-2019,BTN,Transboundary Breed,0
-2020,BTN,Transboundary Breed,1
-2021,BTN,Transboundary Breed,1
-2022,BTN,Transboundary Breed,1
-2023,BTN,Transboundary Breed,1
-2024,BTN,Transboundary Breed,1
-2020,BWA,Transboundary Breed,1
-2021,BWA,Transboundary Breed,1
-2022,BWA,Transboundary Breed,1
-2023,BWA,Transboundary Breed,1
-2024,BWA,Transboundary Breed,1
-2021,CAN,Transboundary Breed,0
-2022,CAN,Transboundary Breed,0
-2023,CAN,Transboundary Breed,0
-2024,CAN,Transboundary Breed,0
-2003,CHE,Transboundary Breed,0
-2004,CHE,Transboundary Breed,0
-2005,CHE,Transboundary Breed,0
-2006,CHE,Transboundary Breed,0
-2007,CHE,Transboundary Breed,0
-2008,CHE,Transboundary Breed,0
-2009,CHE,Transboundary Breed,0
-2010,CHE,Transboundary Breed,0
-2011,CHE,Transboundary Breed,0
-2012,CHE,Transboundary Breed,0
-2013,CHE,Transboundary Breed,0
-2014,CHE,Transboundary Breed,0
-2015,CHE,Transboundary Breed,4
-2016,CHE,Transboundary Breed,4
-2017,CHE,Transboundary Breed,4
-2018,CHE,Transboundary Breed,4
-2019,CHE,Transboundary Breed,4
-2020,CHE,Transboundary Breed,5
-2021,CHE,Transboundary Breed,5
-2022,CHE,Transboundary Breed,5
-2023,CHE,Transboundary Breed,8
-2024,CHE,Transboundary Breed,8
-2020,CHL,Transboundary Breed,0
-2021,CHL,Transboundary Breed,0
-2022,CHL,Transboundary Breed,0
-2023,CHL,Transboundary Breed,0
-2024,CHL,Transboundary Breed,0
-2020,CIV,Transboundary Breed,0
-2021,CIV,Transboundary Breed,0
-2022,CIV,Transboundary Breed,0
-2023,CIV,Transboundary Breed,0
-2024,CIV,Transboundary Breed,0
-2020,COD,Transboundary Breed,0
-2021,COD,Transboundary Breed,0
-2022,COD,Transboundary Breed,0
-2023,COD,Transboundary Breed,0
-2024,COD,Transboundary Breed,0
-2020,COG,Transboundary Breed,0
-2021,COG,Transboundary Breed,0
-2022,COG,Transboundary Breed,0
-2023,COG,Transboundary Breed,0
-2024,COG,Transboundary Breed,0
-2020,COK,Transboundary Breed,0
-2021,COK,Transboundary Breed,0
-2022,COK,Transboundary Breed,0
-2023,COK,Transboundary Breed,0
-2024,COK,Transboundary Breed,0
-2020,COM,Transboundary Breed,0
-2021,COM,Transboundary Breed,0
-2022,COM,Transboundary Breed,0
-2023,COM,Transboundary Breed,0
-2024,COM,Transboundary Breed,0
-2020,CRI,Transboundary Breed,0
-2021,CRI,Transboundary Breed,0
-2022,CRI,Transboundary Breed,0
-2023,CRI,Transboundary Breed,0
-2024,CRI,Transboundary Breed,0
-2024,CUB,Transboundary Breed,0
-2000,CZE,Transboundary Breed,0
-2001,CZE,Transboundary Breed,0
-2002,CZE,Transboundary Breed,0
-2003,CZE,Transboundary Breed,0
-2004,CZE,Transboundary Breed,0
-2005,CZE,Transboundary Breed,0
-2006,CZE,Transboundary Breed,0
-2007,CZE,Transboundary Breed,0
-2008,CZE,Transboundary Breed,0
-2009,CZE,Transboundary Breed,0
-2010,CZE,Transboundary Breed,0
-2011,CZE,Transboundary Breed,1
-2012,CZE,Transboundary Breed,1
-2013,CZE,Transboundary Breed,1
-2014,CZE,Transboundary Breed,2
-2015,CZE,Transboundary Breed,2
-2016,CZE,Transboundary Breed,2
-2017,CZE,Transboundary Breed,2
-2018,CZE,Transboundary Breed,2
-2019,CZE,Transboundary Breed,5
-2020,CZE,Transboundary Breed,5
-2021,CZE,Transboundary Breed,5
-2022,CZE,Transboundary Breed,5
-2023,CZE,Transboundary Breed,5
-2024,CZE,Transboundary Breed,5
-2020,DEU,Transboundary Breed,0
-2021,DEU,Transboundary Breed,0
-2022,DEU,Transboundary Breed,0
-2023,DEU,Transboundary Breed,0
-2024,DEU,Transboundary Breed,0
-2020,DJI,Transboundary Breed,0
-2021,DJI,Transboundary Breed,0
-2022,DJI,Transboundary Breed,0
-2023,DJI,Transboundary Breed,0
-2024,DJI,Transboundary Breed,0
-2006,DNK,Transboundary Breed,0
-2007,DNK,Transboundary Breed,0
-2008,DNK,Transboundary Breed,0
-2009,DNK,Transboundary Breed,0
-2010,DNK,Transboundary Breed,0
-2011,DNK,Transboundary Breed,0
-2012,DNK,Transboundary Breed,0
-2013,DNK,Transboundary Breed,0
-2014,DNK,Transboundary Breed,0
-2015,DNK,Transboundary Breed,0
-2016,DNK,Transboundary Breed,0
-2017,DNK,Transboundary Breed,0
-2018,DNK,Transboundary Breed,0
-2019,DNK,Transboundary Breed,0
-2020,DNK,Transboundary Breed,0
-2021,DNK,Transboundary Breed,0
-2022,DNK,Transboundary Breed,0
-2023,DNK,Transboundary Breed,0
-2024,DNK,Transboundary Breed,0
-2022,DOM,Transboundary Breed,0
-2023,DOM,Transboundary Breed,0
-2024,DOM,Transboundary Breed,0
-2021,DZA,Transboundary Breed,0
-2022,DZA,Transboundary Breed,0
-2023,DZA,Transboundary Breed,0
-2024,DZA,Transboundary Breed,0
-2009,ESP,Transboundary Breed,0
-2010,ESP,Transboundary Breed,0
-2011,ESP,Transboundary Breed,0
-2012,ESP,Transboundary Breed,0
-2013,ESP,Transboundary Breed,1
-2014,ESP,Transboundary Breed,21
-2015,ESP,Transboundary Breed,26
-2016,ESP,Transboundary Breed,27
-2017,ESP,Transboundary Breed,20
-2018,ESP,Transboundary Breed,29
-2019,ESP,Transboundary Breed,27
-2020,ESP,Transboundary Breed,37
-2021,ESP,Transboundary Breed,43
-2022,ESP,Transboundary Breed,46
-2023,ESP,Transboundary Breed,46
-2024,ESP,Transboundary Breed,46
-2020,ETH,Transboundary Breed,5
-2021,ETH,Transboundary Breed,5
-2022,ETH,Transboundary Breed,5
-2023,ETH,Transboundary Breed,5
-2024,ETH,Transboundary Breed,5
-2009,FIN,Transboundary Breed,0
-2010,FIN,Transboundary Breed,0
-2011,FIN,Transboundary Breed,0
-2012,FIN,Transboundary Breed,0
-2013,FIN,Transboundary Breed,0
-2014,FIN,Transboundary Breed,0
-2015,FIN,Transboundary Breed,0
-2016,FIN,Transboundary Breed,0
-2017,FIN,Transboundary Breed,0
-2018,FIN,Transboundary Breed,0
-2019,FIN,Transboundary Breed,0
-2020,FIN,Transboundary Breed,1
-2021,FIN,Transboundary Breed,1
-2022,FIN,Transboundary Breed,1
-2023,FIN,Transboundary Breed,1
-2024,FIN,Transboundary Breed,1
-2018,FRA,Transboundary Breed,12
-2019,FRA,Transboundary Breed,12
-2020,FRA,Transboundary Breed,12
-2021,FRA,Transboundary Breed,12
-2022,FRA,Transboundary Breed,12
-2023,FRA,Transboundary Breed,16
-2024,FRA,Transboundary Breed,29
-2020,GAB,Transboundary Breed,0
-2021,GAB,Transboundary Breed,0
-2022,GAB,Transboundary Breed,0
-2023,GAB,Transboundary Breed,0
-2024,GAB,Transboundary Breed,0
-2008,GBR,Transboundary Breed,0
-2009,GBR,Transboundary Breed,0
-2010,GBR,Transboundary Breed,0
-2011,GBR,Transboundary Breed,0
-2012,GBR,Transboundary Breed,0
-2013,GBR,Transboundary Breed,0
-2014,GBR,Transboundary Breed,0
-2015,GBR,Transboundary Breed,0
-2016,GBR,Transboundary Breed,0
-2017,GBR,Transboundary Breed,0
-2018,GBR,Transboundary Breed,0
-2019,GBR,Transboundary Breed,0
-2020,GBR,Transboundary Breed,0
-2021,GBR,Transboundary Breed,0
-2022,GBR,Transboundary Breed,0
-2023,GBR,Transboundary Breed,0
-2024,GBR,Transboundary Breed,0
-2020,GEO,Transboundary Breed,0
-2021,GEO,Transboundary Breed,0
-2022,GEO,Transboundary Breed,0
-2023,GEO,Transboundary Breed,0
-2024,GEO,Transboundary Breed,0
-2020,GHA,Transboundary Breed,0
-2021,GHA,Transboundary Breed,0
-2022,GHA,Transboundary Breed,0
-2023,GHA,Transboundary Breed,0
-2024,GHA,Transboundary Breed,0
-2020,GIN,Transboundary Breed,0
-2021,GIN,Transboundary Breed,0
-2022,GIN,Transboundary Breed,0
-2023,GIN,Transboundary Breed,0
-2024,GIN,Transboundary Breed,0
-2020,GMB,Transboundary Breed,0
-2021,GMB,Transboundary Breed,0
-2022,GMB,Transboundary Breed,0
-2023,GMB,Transboundary Breed,0
-2024,GMB,Transboundary Breed,0
-2020,GNB,Transboundary Breed,0
-2021,GNB,Transboundary Breed,0
-2022,GNB,Transboundary Breed,0
-2023,GNB,Transboundary Breed,0
-2024,GNB,Transboundary Breed,0
-2009,GRC,Transboundary Breed,0
-2010,GRC,Transboundary Breed,0
-2011,GRC,Transboundary Breed,0
-2012,GRC,Transboundary Breed,0
-2013,GRC,Transboundary Breed,0
-2014,GRC,Transboundary Breed,0
-2015,GRC,Transboundary Breed,0
-2016,GRC,Transboundary Breed,0
-2017,GRC,Transboundary Breed,0
-2018,GRC,Transboundary Breed,0
-2019,GRC,Transboundary Breed,0
-2020,GRC,Transboundary Breed,0
-2021,GRC,Transboundary Breed,0
-2022,GRC,Transboundary Breed,0
-2023,GRC,Transboundary Breed,0
-2024,GRC,Transboundary Breed,0
-2022,GUM,Transboundary Breed,0
-2023,GUM,Transboundary Breed,0
-2024,GUM,Transboundary Breed,0
-2006,HRV,Transboundary Breed,0
-2007,HRV,Transboundary Breed,0
-2008,HRV,Transboundary Breed,0
-2009,HRV,Transboundary Breed,0
-2010,HRV,Transboundary Breed,0
-2011,HRV,Transboundary Breed,0
-2012,HRV,Transboundary Breed,0
-2013,HRV,Transboundary Breed,0
-2014,HRV,Transboundary Breed,0
-2015,HRV,Transboundary Breed,0
-2016,HRV,Transboundary Breed,0
-2017,HRV,Transboundary Breed,0
-2018,HRV,Transboundary Breed,0
-2019,HRV,Transboundary Breed,0
-2020,HRV,Transboundary Breed,0
-2021,HRV,Transboundary Breed,0
-2022,HRV,Transboundary Breed,0
-2023,HRV,Transboundary Breed,0
-2024,HRV,Transboundary Breed,0
-2020,HUN,Transboundary Breed,0
-2021,HUN,Transboundary Breed,0
-2022,HUN,Transboundary Breed,0
-2023,HUN,Transboundary Breed,0
-2024,HUN,Transboundary Breed,0
-2019,IDN,Transboundary Breed,9
-2020,IDN,Transboundary Breed,9
-2021,IDN,Transboundary Breed,9
-2022,IDN,Transboundary Breed,9
-2023,IDN,Transboundary Breed,9
-2024,IDN,Transboundary Breed,9
-2020,IND,Transboundary Breed,9
-2021,IND,Transboundary Breed,30
-2022,IND,Transboundary Breed,44
-2023,IND,Transboundary Breed,44
-2024,IND,Transboundary Breed,44
-2020,IRL,Transboundary Breed,0
-2021,IRL,Transboundary Breed,0
-2022,IRL,Transboundary Breed,0
-2023,IRL,Transboundary Breed,0
-2024,IRL,Transboundary Breed,0
-2023,IRN,Transboundary Breed,30
-2024,IRN,Transboundary Breed,30
-2020,IRQ,Transboundary Breed,0
-2021,IRQ,Transboundary Breed,0
-2022,IRQ,Transboundary Breed,0
-2023,IRQ,Transboundary Breed,0
-2024,IRQ,Transboundary Breed,0
-2020,ISL,Transboundary Breed,4
-2021,ISL,Transboundary Breed,4
-2022,ISL,Transboundary Breed,4
-2023,ISL,Transboundary Breed,4
-2024,ISL,Transboundary Breed,4
-2001,ITA,Transboundary Breed,0
-2002,ITA,Transboundary Breed,0
-2003,ITA,Transboundary Breed,0
-2004,ITA,Transboundary Breed,0
-2005,ITA,Transboundary Breed,0
-2006,ITA,Transboundary Breed,0
-2007,ITA,Transboundary Breed,0
-2008,ITA,Transboundary Breed,0
-2009,ITA,Transboundary Breed,0
-2010,ITA,Transboundary Breed,0
-2011,ITA,Transboundary Breed,0
-2012,ITA,Transboundary Breed,0
-2013,ITA,Transboundary Breed,0
-2014,ITA,Transboundary Breed,1
-2015,ITA,Transboundary Breed,5
-2016,ITA,Transboundary Breed,5
-2017,ITA,Transboundary Breed,5
-2018,ITA,Transboundary Breed,5
-2019,ITA,Transboundary Breed,5
-2020,ITA,Transboundary Breed,8
-2021,ITA,Transboundary Breed,8
-2022,ITA,Transboundary Breed,8
-2023,ITA,Transboundary Breed,8
-2024,ITA,Transboundary Breed,8
-2023,JOR,Transboundary Breed,0
-2024,JOR,Transboundary Breed,0
-2020,JPN,Transboundary Breed,0
-2021,JPN,Transboundary Breed,0
-2022,JPN,Transboundary Breed,0
-2023,JPN,Transboundary Breed,0
-2024,JPN,Transboundary Breed,0
-2022,KAZ,Transboundary Breed,7
-2023,KAZ,Transboundary Breed,7
-2024,KAZ,Transboundary Breed,7
-2020,KEN,Transboundary Breed,0
-2021,KEN,Transboundary Breed,0
-2022,KEN,Transboundary Breed,0
-2023,KEN,Transboundary Breed,0
-2024,KEN,Transboundary Breed,0
-2020,KGZ,Transboundary Breed,0
-2021,KGZ,Transboundary Breed,0
-2022,KGZ,Transboundary Breed,0
-2023,KGZ,Transboundary Breed,0
-2024,KGZ,Transboundary Breed,0
-2014,KOR,Transboundary Breed,1
-2015,KOR,Transboundary Breed,1
-2016,KOR,Transboundary Breed,1
-2017,KOR,Transboundary Breed,1
-2018,KOR,Transboundary Breed,1
-2019,KOR,Transboundary Breed,1
-2020,KOR,Transboundary Breed,26
-2021,KOR,Transboundary Breed,26
-2022,KOR,Transboundary Breed,26
-2023,KOR,Transboundary Breed,26
-2024,KOR,Transboundary Breed,26
-2020,LBN,Transboundary Breed,0
-2021,LBN,Transboundary Breed,0
-2022,LBN,Transboundary Breed,0
-2023,LBN,Transboundary Breed,0
-2024,LBN,Transboundary Breed,0
-2022,LBY,Transboundary Breed,0
-2023,LBY,Transboundary Breed,0
-2024,LBY,Transboundary Breed,0
-2020,LCA,Transboundary Breed,0
-2021,LCA,Transboundary Breed,0
-2022,LCA,Transboundary Breed,0
-2023,LCA,Transboundary Breed,0
-2024,LCA,Transboundary Breed,0
-2020,LTU,Transboundary Breed,0
-2021,LTU,Transboundary Breed,0
-2022,LTU,Transboundary Breed,0
-2023,LTU,Transboundary Breed,0
-2024,LTU,Transboundary Breed,0
-2020,LUX,Transboundary Breed,0
-2021,LUX,Transboundary Breed,0
-2022,LUX,Transboundary Breed,0
-2023,LUX,Transboundary Breed,0
-2024,LUX,Transboundary Breed,0
-2019,MAR,Transboundary Breed,3
-2020,MAR,Transboundary Breed,2
-2021,MAR,Transboundary Breed,2
-2022,MAR,Transboundary Breed,3
-2023,MAR,Transboundary Breed,3
-2024,MAR,Transboundary Breed,3
-2020,MDG,Transboundary Breed,0
-2021,MDG,Transboundary Breed,0
-2022,MDG,Transboundary Breed,0
-2023,MDG,Transboundary Breed,0
-2024,MDG,Transboundary Breed,0
-2020,MEX,Transboundary Breed,0
-2021,MEX,Transboundary Breed,0
-2022,MEX,Transboundary Breed,0
-2023,MEX,Transboundary Breed,0
-2024,MEX,Transboundary Breed,0
-2020,MLI,Transboundary Breed,0
-2021,MLI,Transboundary Breed,0
-2022,MLI,Transboundary Breed,0
-2023,MLI,Transboundary Breed,0
-2024,MLI,Transboundary Breed,0
-2023,MLT,Transboundary Breed,0
-2024,MLT,Transboundary Breed,0
-2020,MMR,Transboundary Breed,0
-2021,MMR,Transboundary Breed,0
-2022,MMR,Transboundary Breed,0
-2023,MMR,Transboundary Breed,0
-2024,MMR,Transboundary Breed,0
-2010,MNE,Transboundary Breed,0
-2011,MNE,Transboundary Breed,0
-2012,MNE,Transboundary Breed,0
-2013,MNE,Transboundary Breed,0
-2014,MNE,Transboundary Breed,0
-2015,MNE,Transboundary Breed,0
-2016,MNE,Transboundary Breed,0
-2017,MNE,Transboundary Breed,0
-2018,MNE,Transboundary Breed,0
-2019,MNE,Transboundary Breed,0
-2020,MNE,Transboundary Breed,0
-2021,MNE,Transboundary Breed,0
-2022,MNE,Transboundary Breed,0
-2023,MNE,Transboundary Breed,0
-2024,MNE,Transboundary Breed,0
-2020,MNG,Transboundary Breed,0
-2021,MNG,Transboundary Breed,0
-2022,MNG,Transboundary Breed,0
-2023,MNG,Transboundary Breed,0
-2024,MNG,Transboundary Breed,0
-2022,MNP,Transboundary Breed,0
-2023,MNP,Transboundary Breed,0
-2024,MNP,Transboundary Breed,0
-2020,MUS,Transboundary Breed,0
-2021,MUS,Transboundary Breed,0
-2022,MUS,Transboundary Breed,0
-2023,MUS,Transboundary Breed,0
-2024,MUS,Transboundary Breed,0
-2020,MWI,Transboundary Breed,0
-2021,MWI,Transboundary Breed,0
-2022,MWI,Transboundary Breed,0
-2023,MWI,Transboundary Breed,0
-2024,MWI,Transboundary Breed,0
-2020,MYS,Transboundary Breed,0
-2021,MYS,Transboundary Breed,0
-2022,MYS,Transboundary Breed,0
-2023,MYS,Transboundary Breed,0
-2024,MYS,Transboundary Breed,0
-2020,NAM,Transboundary Breed,0
-2021,NAM,Transboundary Breed,0
-2022,NAM,Transboundary Breed,0
-2023,NAM,Transboundary Breed,0
-2024,NAM,Transboundary Breed,0
-2021,NIC,Transboundary Breed,0
-2022,NIC,Transboundary Breed,0
-2023,NIC,Transboundary Breed,0
-2024,NIC,Transboundary Breed,0
-2000,NLD,Transboundary Breed,1
-2001,NLD,Transboundary Breed,1
-2002,NLD,Transboundary Breed,2
-2003,NLD,Transboundary Breed,3
-2004,NLD,Transboundary Breed,3
-2005,NLD,Transboundary Breed,3
-2006,NLD,Transboundary Breed,3
-2007,NLD,Transboundary Breed,4
-2008,NLD,Transboundary Breed,4
-2009,NLD,Transboundary Breed,5
-2010,NLD,Transboundary Breed,5
-2011,NLD,Transboundary Breed,5
-2012,NLD,Transboundary Breed,5
-2013,NLD,Transboundary Breed,6
-2014,NLD,Transboundary Breed,6
-2015,NLD,Transboundary Breed,8
-2016,NLD,Transboundary Breed,5
-2017,NLD,Transboundary Breed,10
-2018,NLD,Transboundary Breed,10
-2019,NLD,Transboundary Breed,10
-2020,NLD,Transboundary Breed,8
-2021,NLD,Transboundary Breed,10
-2022,NLD,Transboundary Breed,10
-2023,NLD,Transboundary Breed,10
-2024,NLD,Transboundary Breed,10
-2005,NOR,Transboundary Breed,0
-2006,NOR,Transboundary Breed,0
-2007,NOR,Transboundary Breed,0
-2008,NOR,Transboundary Breed,0
-2009,NOR,Transboundary Breed,0
-2010,NOR,Transboundary Breed,0
-2011,NOR,Transboundary Breed,0
-2012,NOR,Transboundary Breed,1
-2013,NOR,Transboundary Breed,1
-2014,NOR,Transboundary Breed,1
-2015,NOR,Transboundary Breed,1
-2016,NOR,Transboundary Breed,1
-2017,NOR,Transboundary Breed,1
-2018,NOR,Transboundary Breed,1
-2019,NOR,Transboundary Breed,1
-2020,NOR,Transboundary Breed,19
-2021,NOR,Transboundary Breed,19
-2022,NOR,Transboundary Breed,19
-2023,NOR,Transboundary Breed,19
-2024,NOR,Transboundary Breed,19
-2015,OMN,Transboundary Breed,1
-2016,OMN,Transboundary Breed,1
-2017,OMN,Transboundary Breed,1
-2018,OMN,Transboundary Breed,1
-2019,OMN,Transboundary Breed,2
-2020,OMN,Transboundary Breed,2
-2021,OMN,Transboundary Breed,2
-2022,OMN,Transboundary Breed,2
-2023,OMN,Transboundary Breed,2
-2024,OMN,Transboundary Breed,2
-2020,PAN,Transboundary Breed,0
-2021,PAN,Transboundary Breed,0
-2022,PAN,Transboundary Breed,0
-2023,PAN,Transboundary Breed,0
-2024,PAN,Transboundary Breed,0
-2024,PER,Transboundary Breed,0
-2014,PHL,Transboundary Breed,1
-2015,PHL,Transboundary Breed,1
-2016,PHL,Transboundary Breed,1
-2017,PHL,Transboundary Breed,1
-2018,PHL,Transboundary Breed,1
-2019,PHL,Transboundary Breed,1
-2020,PHL,Transboundary Breed,1
-2021,PHL,Transboundary Breed,1
-2022,PHL,Transboundary Breed,0
-2023,PHL,Transboundary Breed,0
-2024,PHL,Transboundary Breed,0
-2009,POL,Transboundary Breed,0
-2010,POL,Transboundary Breed,0
-2011,POL,Transboundary Breed,0
-2012,POL,Transboundary Breed,0
-2013,POL,Transboundary Breed,0
-2014,POL,Transboundary Breed,0
-2015,POL,Transboundary Breed,0
-2016,POL,Transboundary Breed,0
-2017,POL,Transboundary Breed,0
-2018,POL,Transboundary Breed,0
-2019,POL,Transboundary Breed,1
-2020,POL,Transboundary Breed,2
-2021,POL,Transboundary Breed,0
-2022,POL,Transboundary Breed,0
-2023,POL,Transboundary Breed,0
-2024,POL,Transboundary Breed,0
-2021,PRT,Transboundary Breed,34
-2022,PRT,Transboundary Breed,34
-2023,PRT,Transboundary Breed,34
-2024,PRT,Transboundary Breed,34
-2020,PRY,Transboundary Breed,0
-2021,PRY,Transboundary Breed,0
-2022,PRY,Transboundary Breed,0
-2023,PRY,Transboundary Breed,0
-2024,PRY,Transboundary Breed,0
-2024,PSE,Transboundary Breed,0
-2024,QAT,Transboundary Breed,0
-2020,ROU,Transboundary Breed,5
-2021,ROU,Transboundary Breed,5
-2022,ROU,Transboundary Breed,5
-2023,ROU,Transboundary Breed,5
-2024,ROU,Transboundary Breed,5
-2024,RWA,Transboundary Breed,0
-2020,SDN,Transboundary Breed,0
-2021,SDN,Transboundary Breed,0
-2022,SDN,Transboundary Breed,0
-2023,SDN,Transboundary Breed,0
-2024,SDN,Transboundary Breed,0
-2020,SEN,Transboundary Breed,0
-2021,SEN,Transboundary Breed,0
-2022,SEN,Transboundary Breed,0
-2023,SEN,Transboundary Breed,0
-2024,SEN,Transboundary Breed,0
-2020,SLV,Transboundary Breed,0
-2021,SLV,Transboundary Breed,0
-2022,SLV,Transboundary Breed,0
-2023,SLV,Transboundary Breed,0
-2024,SLV,Transboundary Breed,0
-2020,SRB,Transboundary Breed,0
-2021,SRB,Transboundary Breed,0
-2022,SRB,Transboundary Breed,0
-2023,SRB,Transboundary Breed,0
-2024,SRB,Transboundary Breed,0
-2020,SUR,Transboundary Breed,0
-2021,SUR,Transboundary Breed,0
-2022,SUR,Transboundary Breed,0
-2023,SUR,Transboundary Breed,0
-2024,SUR,Transboundary Breed,0
-2021,SVK,Transboundary Breed,0
-2022,SVK,Transboundary Breed,0
-2023,SVK,Transboundary Breed,0
-2024,SVK,Transboundary Breed,0
-2000,SVN,Transboundary Breed,0
-2001,SVN,Transboundary Breed,0
-2002,SVN,Transboundary Breed,0
-2003,SVN,Transboundary Breed,0
-2004,SVN,Transboundary Breed,0
-2005,SVN,Transboundary Breed,0
-2006,SVN,Transboundary Breed,0
-2007,SVN,Transboundary Breed,1
-2008,SVN,Transboundary Breed,0
-2009,SVN,Transboundary Breed,0
-2010,SVN,Transboundary Breed,0
-2011,SVN,Transboundary Breed,0
-2012,SVN,Transboundary Breed,0
-2013,SVN,Transboundary Breed,0
-2014,SVN,Transboundary Breed,0
-2015,SVN,Transboundary Breed,0
-2016,SVN,Transboundary Breed,0
-2017,SVN,Transboundary Breed,0
-2018,SVN,Transboundary Breed,1
-2019,SVN,Transboundary Breed,2
-2020,SVN,Transboundary Breed,1
-2021,SVN,Transboundary Breed,1
-2022,SVN,Transboundary Breed,6
-2023,SVN,Transboundary Breed,6
-2024,SVN,Transboundary Breed,6
-2005,SWE,Transboundary Breed,0
-2006,SWE,Transboundary Breed,0
-2007,SWE,Transboundary Breed,0
-2008,SWE,Transboundary Breed,0
-2009,SWE,Transboundary Breed,0
-2010,SWE,Transboundary Breed,0
-2011,SWE,Transboundary Breed,0
-2012,SWE,Transboundary Breed,0
-2013,SWE,Transboundary Breed,0
-2014,SWE,Transboundary Breed,0
-2015,SWE,Transboundary Breed,0
-2016,SWE,Transboundary Breed,3
-2017,SWE,Transboundary Breed,3
-2018,SWE,Transboundary Breed,3
-2019,SWE,Transboundary Breed,3
-2020,SWE,Transboundary Breed,3
-2021,SWE,Transboundary Breed,3
-2022,SWE,Transboundary Breed,3
-2023,SWE,Transboundary Breed,3
-2024,SWE,Transboundary Breed,3
-2020,SWZ,Transboundary Breed,0
-2021,SWZ,Transboundary Breed,0
-2022,SWZ,Transboundary Breed,0
-2023,SWZ,Transboundary Breed,0
-2024,SWZ,Transboundary Breed,0
-2020,SYC,Transboundary Breed,0
-2021,SYC,Transboundary Breed,0
-2022,SYC,Transboundary Breed,0
-2023,SYC,Transboundary Breed,0
-2024,SYC,Transboundary Breed,0
-2020,TGO,Transboundary Breed,0
-2021,TGO,Transboundary Breed,0
-2022,TGO,Transboundary Breed,0
-2023,TGO,Transboundary Breed,0
-2024,TGO,Transboundary Breed,0
-2020,THA,Transboundary Breed,4
-2021,THA,Transboundary Breed,4
-2022,THA,Transboundary Breed,4
-2023,THA,Transboundary Breed,4
-2024,THA,Transboundary Breed,4
-2020,TON,Transboundary Breed,0
-2021,TON,Transboundary Breed,0
-2022,TON,Transboundary Breed,0
-2023,TON,Transboundary Breed,0
-2024,TON,Transboundary Breed,0
-2020,TUN,Transboundary Breed,0
-2021,TUN,Transboundary Breed,0
-2022,TUN,Transboundary Breed,0
-2023,TUN,Transboundary Breed,0
-2024,TUN,Transboundary Breed,0
-2011,TUR,Transboundary Breed,1
-2012,TUR,Transboundary Breed,0
-2013,TUR,Transboundary Breed,0
-2014,TUR,Transboundary Breed,0
-2015,TUR,Transboundary Breed,0
-2016,TUR,Transboundary Breed,0
-2017,TUR,Transboundary Breed,0
-2018,TUR,Transboundary Breed,0
-2019,TUR,Transboundary Breed,0
-2020,TUR,Transboundary Breed,0
-2021,TUR,Transboundary Breed,0
-2022,TUR,Transboundary Breed,0
-2023,TUR,Transboundary Breed,0
-2024,TUR,Transboundary Breed,5
-2010,TZA,Transboundary Breed,0
-2011,TZA,Transboundary Breed,0
-2012,TZA,Transboundary Breed,0
-2013,TZA,Transboundary Breed,0
-2014,TZA,Transboundary Breed,0
-2015,TZA,Transboundary Breed,0
-2016,TZA,Transboundary Breed,0
-2017,TZA,Transboundary Breed,0
-2018,TZA,Transboundary Breed,0
-2019,TZA,Transboundary Breed,0
-2020,TZA,Transboundary Breed,0
-2021,TZA,Transboundary Breed,0
-2022,TZA,Transboundary Breed,0
-2023,TZA,Transboundary Breed,0
-2024,TZA,Transboundary Breed,0
-2020,UGA,Transboundary Breed,3
-2021,UGA,Transboundary Breed,3
-2022,UGA,Transboundary Breed,3
-2023,UGA,Transboundary Breed,3
-2024,UGA,Transboundary Breed,3
-2003,UKR,Transboundary Breed,0
-2004,UKR,Transboundary Breed,0
-2005,UKR,Transboundary Breed,0
-2006,UKR,Transboundary Breed,0
-2007,UKR,Transboundary Breed,0
-2008,UKR,Transboundary Breed,0
-2009,UKR,Transboundary Breed,0
-2010,UKR,Transboundary Breed,0
-2011,UKR,Transboundary Breed,0
-2012,UKR,Transboundary Breed,0
-2013,UKR,Transboundary Breed,0
-2014,UKR,Transboundary Breed,0
-2015,UKR,Transboundary Breed,0
-2016,UKR,Transboundary Breed,0
-2017,UKR,Transboundary Breed,0
-2018,UKR,Transboundary Breed,0
-2019,UKR,Transboundary Breed,0
-2020,UKR,Transboundary Breed,0
-2021,UKR,Transboundary Breed,0
-2022,UKR,Transboundary Breed,0
-2023,UKR,Transboundary Breed,0
-2024,UKR,Transboundary Breed,0
-2020,URY,Transboundary Breed,1
-2021,URY,Transboundary Breed,1
-2022,URY,Transboundary Breed,1
-2023,URY,Transboundary Breed,1
-2024,URY,Transboundary Breed,2
-2019,USA,Transboundary Breed,3
-2020,USA,Transboundary Breed,10
-2021,USA,Transboundary Breed,10
-2022,USA,Transboundary Breed,14
-2023,USA,Transboundary Breed,14
-2024,USA,Transboundary Breed,16
-2022,VIR,Transboundary Breed,1
-2023,VIR,Transboundary Breed,1
-2024,VIR,Transboundary Breed,1
-2000,VNM,Transboundary Breed,0
-2001,VNM,Transboundary Breed,0
-2002,VNM,Transboundary Breed,0
-2003,VNM,Transboundary Breed,0
-2004,VNM,Transboundary Breed,0
-2005,VNM,Transboundary Breed,0
-2006,VNM,Transboundary Breed,0
-2007,VNM,Transboundary Breed,0
-2008,VNM,Transboundary Breed,0
-2009,VNM,Transboundary Breed,0
-2010,VNM,Transboundary Breed,0
-2011,VNM,Transboundary Breed,0
-2012,VNM,Transboundary Breed,0
-2013,VNM,Transboundary Breed,0
-2014,VNM,Transboundary Breed,0
-2015,VNM,Transboundary Breed,0
-2016,VNM,Transboundary Breed,0
-2017,VNM,Transboundary Breed,0
-2018,VNM,Transboundary Breed,0
-2019,VNM,Transboundary Breed,0
-2020,VNM,Transboundary Breed,5
-2021,VNM,Transboundary Breed,5
-2022,VNM,Transboundary Breed,5
-2023,VNM,Transboundary Breed,5
-2024,VNM,Transboundary Breed,5
-2020,YEM,Transboundary Breed,0
-2021,YEM,Transboundary Breed,0
-2022,YEM,Transboundary Breed,0
-2023,YEM,Transboundary Breed,0
-2024,YEM,Transboundary Breed,0
-2019,ZAF,Transboundary Breed,6
-2020,ZAF,Transboundary Breed,6
-2021,ZAF,Transboundary Breed,6
-2022,ZAF,Transboundary Breed,6
-2023,ZAF,Transboundary Breed,6
-2024,ZAF,Transboundary Breed,9
-2020,ARG,Local Breed,0
-2021,ARG,Local Breed,0
-2022,ARG,Local Breed,0
-2023,ARG,Local Breed,0
-2024,ARG,Local Breed,0
-2000,AUT,Local Breed,3
-2001,AUT,Local Breed,3
-2002,AUT,Local Breed,4
-2003,AUT,Local Breed,4
-2004,AUT,Local Breed,4
-2005,AUT,Local Breed,5
-2006,AUT,Local Breed,5
-2007,AUT,Local Breed,6
-2008,AUT,Local Breed,6
-2009,AUT,Local Breed,6
-2010,AUT,Local Breed,6
-2011,AUT,Local Breed,7
-2012,AUT,Local Breed,7
-2013,AUT,Local Breed,7
-2014,AUT,Local Breed,7
-2015,AUT,Local Breed,7
-2016,AUT,Local Breed,7
-2017,AUT,Local Breed,7
-2018,AUT,Local Breed,7
-2019,AUT,Local Breed,7
-2020,AUT,Local Breed,7
-2021,AUT,Local Breed,6
-2022,AUT,Local Breed,6
-2023,AUT,Local Breed,6
-2024,AUT,Local Breed,6
-2020,AZE,Local Breed,0
-2021,AZE,Local Breed,0
-2022,AZE,Local Breed,0
-2023,AZE,Local Breed,0
-2024,AZE,Local Breed,0
-2020,BDI,Local Breed,0
-2021,BDI,Local Breed,0
-2022,BDI,Local Breed,0
-2023,BDI,Local Breed,0
-2024,BDI,Local Breed,0
-2018,BEN,Local Breed,0
-2019,BEN,Local Breed,0
-2020,BEN,Local Breed,0
-2021,BEN,Local Breed,0
-2022,BEN,Local Breed,0
-2023,BEN,Local Breed,0
-2024,BEN,Local Breed,0
-2017,BFA,Local Breed,0
-2018,BFA,Local Breed,0
-2019,BFA,Local Breed,0
-2020,BFA,Local Breed,0
-2021,BFA,Local Breed,0
-2022,BFA,Local Breed,0
-2023,BFA,Local Breed,0
-2024,BFA,Local Breed,0
-2017,BGR,Local Breed,1
-2018,BGR,Local Breed,1
-2019,BGR,Local Breed,1
-2020,BGR,Local Breed,1
-2021,BGR,Local Breed,1
-2022,BGR,Local Breed,1
-2023,BGR,Local Breed,1
-2024,BGR,Local Breed,1
-2017,BRA,Local Breed,0
-2018,BRA,Local Breed,0
-2019,BRA,Local Breed,0
-2020,BRA,Local Breed,0
-2021,BRA,Local Breed,0
-2022,BRA,Local Breed,0
-2023,BRA,Local Breed,3
-2024,BRA,Local Breed,3
-2020,BRB,Local Breed,0
-2021,BRB,Local Breed,0
-2022,BRB,Local Breed,0
-2023,BRB,Local Breed,0
-2024,BRB,Local Breed,0
-2019,BTN,Local Breed,2
-2020,BTN,Local Breed,4
-2021,BTN,Local Breed,4
-2022,BTN,Local Breed,4
-2023,BTN,Local Breed,4
-2024,BTN,Local Breed,4
-2020,BWA,Local Breed,11
-2021,BWA,Local Breed,11
-2022,BWA,Local Breed,11
-2023,BWA,Local Breed,11
-2024,BWA,Local Breed,11
-2021,CAN,Local Breed,8
-2022,CAN,Local Breed,9
-2023,CAN,Local Breed,9
-2024,CAN,Local Breed,9
-2012,CHE,Local Breed,0
-2013,CHE,Local Breed,0
-2014,CHE,Local Breed,0
-2015,CHE,Local Breed,0
-2016,CHE,Local Breed,0
-2017,CHE,Local Breed,0
-2018,CHE,Local Breed,0
-2019,CHE,Local Breed,0
-2020,CHE,Local Breed,1
-2021,CHE,Local Breed,1
-2022,CHE,Local Breed,1
-2023,CHE,Local Breed,3
-2024,CHE,Local Breed,3
-2020,CHL,Local Breed,0
-2021,CHL,Local Breed,0
-2022,CHL,Local Breed,0
-2023,CHL,Local Breed,0
-2024,CHL,Local Breed,0
-2017,CIV,Local Breed,0
-2018,CIV,Local Breed,0
-2019,CIV,Local Breed,0
-2020,CIV,Local Breed,0
-2021,CIV,Local Breed,0
-2022,CIV,Local Breed,0
-2023,CIV,Local Breed,0
-2024,CIV,Local Breed,0
-2020,COD,Local Breed,0
-2021,COD,Local Breed,0
-2022,COD,Local Breed,0
-2023,COD,Local Breed,0
-2024,COD,Local Breed,0
-2020,COG,Local Breed,0
-2021,COG,Local Breed,0
-2022,COG,Local Breed,0
-2023,COG,Local Breed,0
-2024,COG,Local Breed,0
-2020,COK,Local Breed,0
-2021,COK,Local Breed,0
-2022,COK,Local Breed,0
-2023,COK,Local Breed,0
-2024,COK,Local Breed,0
-2020,COM,Local Breed,0
-2021,COM,Local Breed,0
-2022,COM,Local Breed,0
-2023,COM,Local Breed,0
-2024,COM,Local Breed,0
-2020,CPV,Local Breed,0
-2021,CPV,Local Breed,0
-2022,CPV,Local Breed,0
-2023,CPV,Local Breed,0
-2024,CPV,Local Breed,0
-2020,CRI,Local Breed,0
-2021,CRI,Local Breed,0
-2022,CRI,Local Breed,0
-2023,CRI,Local Breed,0
-2024,CRI,Local Breed,0
-2001,CZE,Local Breed,0
-2002,CZE,Local Breed,0
-2003,CZE,Local Breed,0
-2004,CZE,Local Breed,0
-2005,CZE,Local Breed,0
-2006,CZE,Local Breed,0
-2007,CZE,Local Breed,0
-2008,CZE,Local Breed,0
-2009,CZE,Local Breed,0
-2010,CZE,Local Breed,0
-2011,CZE,Local Breed,0
-2012,CZE,Local Breed,0
-2013,CZE,Local Breed,0
-2014,CZE,Local Breed,0
-2015,CZE,Local Breed,0
-2016,CZE,Local Breed,0
-2017,CZE,Local Breed,0
-2018,CZE,Local Breed,0
-2019,CZE,Local Breed,5
-2020,CZE,Local Breed,5
-2021,CZE,Local Breed,5
-2022,CZE,Local Breed,5
-2023,CZE,Local Breed,5
-2024,CZE,Local Breed,5
-2020,DEU,Local Breed,0
-2021,DEU,Local Breed,0
-2022,DEU,Local Breed,0
-2023,DEU,Local Breed,0
-2024,DEU,Local Breed,0
-2020,DJI,Local Breed,0
-2021,DJI,Local Breed,0
-2022,DJI,Local Breed,0
-2023,DJI,Local Breed,0
-2024,DJI,Local Breed,0
-2006,DNK,Local Breed,0
-2007,DNK,Local Breed,0
-2008,DNK,Local Breed,0
-2009,DNK,Local Breed,0
-2010,DNK,Local Breed,0
-2011,DNK,Local Breed,0
-2012,DNK,Local Breed,0
-2013,DNK,Local Breed,0
-2014,DNK,Local Breed,0
-2015,DNK,Local Breed,0
-2016,DNK,Local Breed,0
-2017,DNK,Local Breed,0
-2018,DNK,Local Breed,0
-2019,DNK,Local Breed,0
-2020,DNK,Local Breed,0
-2021,DNK,Local Breed,0
-2022,DNK,Local Breed,0
-2023,DNK,Local Breed,0
-2024,DNK,Local Breed,0
-2022,DOM,Local Breed,0
-2023,DOM,Local Breed,0
-2024,DOM,Local Breed,0
-2021,DZA,Local Breed,0
-2022,DZA,Local Breed,0
-2023,DZA,Local Breed,0
-2024,DZA,Local Breed,0
-2012,ESP,Local Breed,0
-2013,ESP,Local Breed,1
-2014,ESP,Local Breed,9
-2015,ESP,Local Breed,9
-2016,ESP,Local Breed,10
-2017,ESP,Local Breed,9
-2018,ESP,Local Breed,11
-2019,ESP,Local Breed,12
-2020,ESP,Local Breed,13
-2021,ESP,Local Breed,12
-2022,ESP,Local Breed,12
-2023,ESP,Local Breed,13
-2024,ESP,Local Breed,13
-2020,ETH,Local Breed,0
-2021,ETH,Local Breed,0
-2022,ETH,Local Breed,0
-2023,ETH,Local Breed,0
-2024,ETH,Local Breed,0
-2020,FIN,Local Breed,2
-2021,FIN,Local Breed,2
-2022,FIN,Local Breed,2
-2023,FIN,Local Breed,1
-2024,FIN,Local Breed,0
-2018,FRA,Local Breed,12
-2019,FRA,Local Breed,13
-2020,FRA,Local Breed,13
-2021,FRA,Local Breed,13
-2022,FRA,Local Breed,13
-2023,FRA,Local Breed,25
-2024,FRA,Local Breed,25
-2020,GAB,Local Breed,0
-2021,GAB,Local Breed,0
-2022,GAB,Local Breed,0
-2023,GAB,Local Breed,0
-2024,GAB,Local Breed,0
-2020,GBR,Local Breed,0
-2021,GBR,Local Breed,0
-2022,GBR,Local Breed,0
-2023,GBR,Local Breed,0
-2024,GBR,Local Breed,0
-2020,GEO,Local Breed,0
-2021,GEO,Local Breed,0
-2022,GEO,Local Breed,0
-2023,GEO,Local Breed,0
-2024,GEO,Local Breed,0
-2020,GHA,Local Breed,0
-2021,GHA,Local Breed,0
-2022,GHA,Local Breed,0
-2023,GHA,Local Breed,0
-2024,GHA,Local Breed,0
-2020,GIN,Local Breed,0
-2021,GIN,Local Breed,0
-2022,GIN,Local Breed,0
-2023,GIN,Local Breed,0
-2024,GIN,Local Breed,0
-2020,GMB,Local Breed,0
-2021,GMB,Local Breed,0
-2022,GMB,Local Breed,0
-2023,GMB,Local Breed,0
-2024,GMB,Local Breed,0
-2020,GNB,Local Breed,0
-2021,GNB,Local Breed,0
-2022,GNB,Local Breed,0
-2023,GNB,Local Breed,0
-2024,GNB,Local Breed,0
-2020,GRC,Local Breed,0
-2021,GRC,Local Breed,0
-2022,GRC,Local Breed,0
-2023,GRC,Local Breed,0
-2024,GRC,Local Breed,0
-2022,GUM,Local Breed,1
-2023,GUM,Local Breed,1
-2024,GUM,Local Breed,1
-2020,HRV,Local Breed,2
-2021,HRV,Local Breed,2
-2022,HRV,Local Breed,2
-2023,HRV,Local Breed,2
-2024,HRV,Local Breed,2
-2020,HUN,Local Breed,0
-2021,HUN,Local Breed,0
-2022,HUN,Local Breed,0
-2023,HUN,Local Breed,0
-2024,HUN,Local Breed,0
-2019,IDN,Local Breed,6
-2020,IDN,Local Breed,6
-2021,IDN,Local Breed,6
-2022,IDN,Local Breed,6
-2023,IDN,Local Breed,6
-2024,IDN,Local Breed,6
-2020,IND,Local Breed,0
-2021,IND,Local Breed,11
-2022,IND,Local Breed,12
-2023,IND,Local Breed,13
-2024,IND,Local Breed,13
-2020,IRL,Local Breed,0
-2021,IRL,Local Breed,0
-2022,IRL,Local Breed,0
-2023,IRL,Local Breed,0
-2024,IRL,Local Breed,0
-2023,IRN,Local Breed,8
-2024,IRN,Local Breed,8
-2020,IRQ,Local Breed,0
-2021,IRQ,Local Breed,0
-2022,IRQ,Local Breed,0
-2023,IRQ,Local Breed,0
-2024,IRQ,Local Breed,0
-2020,ISL,Local Breed,0
-2021,ISL,Local Breed,0
-2022,ISL,Local Breed,0
-2023,ISL,Local Breed,0
-2024,ISL,Local Breed,0
-2015,ITA,Local Breed,1
-2016,ITA,Local Breed,1
-2017,ITA,Local Breed,1
-2018,ITA,Local Breed,1
-2019,ITA,Local Breed,1
-2020,ITA,Local Breed,1
-2021,ITA,Local Breed,1
-2022,ITA,Local Breed,1
-2023,ITA,Local Breed,1
-2024,ITA,Local Breed,1
-2020,JPN,Local Breed,2
-2021,JPN,Local Breed,2
-2022,JPN,Local Breed,2
-2023,JPN,Local Breed,2
-2024,JPN,Local Breed,2
-2022,KAZ,Local Breed,7
-2023,KAZ,Local Breed,7
-2024,KAZ,Local Breed,7
-2020,KEN,Local Breed,0
-2021,KEN,Local Breed,0
-2022,KEN,Local Breed,0
-2023,KEN,Local Breed,0
-2024,KEN,Local Breed,0
-2020,KGZ,Local Breed,0
-2021,KGZ,Local Breed,0
-2022,KGZ,Local Breed,0
-2023,KGZ,Local Breed,0
-2024,KGZ,Local Breed,0
-2015,KOR,Local Breed,0
-2016,KOR,Local Breed,0
-2017,KOR,Local Breed,0
-2018,KOR,Local Breed,0
-2019,KOR,Local Breed,0
-2020,KOR,Local Breed,20
-2021,KOR,Local Breed,20
-2022,KOR,Local Breed,20
-2023,KOR,Local Breed,20
-2024,KOR,Local Breed,20
-2020,LBN,Local Breed,0
-2021,LBN,Local Breed,0
-2022,LBN,Local Breed,0
-2023,LBN,Local Breed,0
-2024,LBN,Local Breed,0
-2022,LBY,Local Breed,0
-2023,LBY,Local Breed,0
-2024,LBY,Local Breed,0
-2020,LCA,Local Breed,0
-2021,LCA,Local Breed,0
-2022,LCA,Local Breed,0
-2023,LCA,Local Breed,0
-2024,LCA,Local Breed,0
-2020,LTU,Local Breed,1
-2021,LTU,Local Breed,1
-2022,LTU,Local Breed,1
-2023,LTU,Local Breed,1
-2024,LTU,Local Breed,1
-2020,LUX,Local Breed,0
-2021,LUX,Local Breed,0
-2022,LUX,Local Breed,0
-2023,LUX,Local Breed,0
-2024,LUX,Local Breed,0
-2019,MAR,Local Breed,3
-2020,MAR,Local Breed,3
-2021,MAR,Local Breed,3
-2022,MAR,Local Breed,3
-2023,MAR,Local Breed,3
-2024,MAR,Local Breed,3
-2020,MDG,Local Breed,0
-2021,MDG,Local Breed,0
-2022,MDG,Local Breed,0
-2023,MDG,Local Breed,0
-2024,MDG,Local Breed,0
-2020,MEX,Local Breed,3
-2021,MEX,Local Breed,3
-2022,MEX,Local Breed,3
-2023,MEX,Local Breed,3
-2024,MEX,Local Breed,3
-2020,MLI,Local Breed,0
-2021,MLI,Local Breed,0
-2022,MLI,Local Breed,0
-2023,MLI,Local Breed,0
-2024,MLI,Local Breed,0
-2020,MMR,Local Breed,0
-2021,MMR,Local Breed,0
-2022,MMR,Local Breed,0
-2023,MMR,Local Breed,0
-2024,MMR,Local Breed,0
-2020,MNE,Local Breed,0
-2021,MNE,Local Breed,0
-2022,MNE,Local Breed,0
-2023,MNE,Local Breed,0
-2024,MNE,Local Breed,0
-2020,MNG,Local Breed,3
-2021,MNG,Local Breed,3
-2022,MNG,Local Breed,3
-2023,MNG,Local Breed,3
-2024,MNG,Local Breed,3
-2022,MNP,Local Breed,10
-2023,MNP,Local Breed,10
-2024,MNP,Local Breed,10
-2020,MOZ,Local Breed,4
-2021,MOZ,Local Breed,4
-2022,MOZ,Local Breed,4
-2023,MOZ,Local Breed,4
-2024,MOZ,Local Breed,4
-2020,MUS,Local Breed,0
-2021,MUS,Local Breed,0
-2022,MUS,Local Breed,0
-2023,MUS,Local Breed,0
-2024,MUS,Local Breed,0
-2020,MWI,Local Breed,0
-2021,MWI,Local Breed,0
-2022,MWI,Local Breed,0
-2023,MWI,Local Breed,0
-2024,MWI,Local Breed,0
-2000,MYS,Local Breed,0
-2001,MYS,Local Breed,0
-2002,MYS,Local Breed,0
-2003,MYS,Local Breed,0
-2004,MYS,Local Breed,0
-2005,MYS,Local Breed,0
-2006,MYS,Local Breed,0
-2007,MYS,Local Breed,0
-2008,MYS,Local Breed,0
-2009,MYS,Local Breed,0
-2010,MYS,Local Breed,0
-2011,MYS,Local Breed,0
-2012,MYS,Local Breed,0
-2013,MYS,Local Breed,0
-2014,MYS,Local Breed,0
-2015,MYS,Local Breed,0
-2016,MYS,Local Breed,0
-2017,MYS,Local Breed,0
-2018,MYS,Local Breed,0
-2019,MYS,Local Breed,0
-2020,MYS,Local Breed,0
-2021,MYS,Local Breed,0
-2022,MYS,Local Breed,0
-2023,MYS,Local Breed,0
-2024,MYS,Local Breed,0
-2020,NAM,Local Breed,0
-2021,NAM,Local Breed,0
-2022,NAM,Local Breed,0
-2023,NAM,Local Breed,0
-2024,NAM,Local Breed,0
-2017,NIC,Local Breed,0
-2018,NIC,Local Breed,0
-2019,NIC,Local Breed,0
-2020,NIC,Local Breed,0
-2021,NIC,Local Breed,0
-2022,NIC,Local Breed,0
-2023,NIC,Local Breed,0
-2024,NIC,Local Breed,0
-2000,NLD,Local Breed,6
-2001,NLD,Local Breed,6
-2002,NLD,Local Breed,11
-2003,NLD,Local Breed,11
-2004,NLD,Local Breed,12
-2005,NLD,Local Breed,12
-2006,NLD,Local Breed,12
-2007,NLD,Local Breed,12
-2008,NLD,Local Breed,12
-2009,NLD,Local Breed,15
-2010,NLD,Local Breed,15
-2011,NLD,Local Breed,16
-2012,NLD,Local Breed,18
-2013,NLD,Local Breed,19
-2014,NLD,Local Breed,19
-2015,NLD,Local Breed,20
-2016,NLD,Local Breed,19
-2017,NLD,Local Breed,21
-2018,NLD,Local Breed,21
-2019,NLD,Local Breed,21
-2020,NLD,Local Breed,21
-2021,NLD,Local Breed,21
-2022,NLD,Local Breed,22
-2023,NLD,Local Breed,22
-2024,NLD,Local Breed,22
-2011,NOR,Local Breed,0
-2012,NOR,Local Breed,0
-2013,NOR,Local Breed,0
-2014,NOR,Local Breed,0
-2015,NOR,Local Breed,0
-2016,NOR,Local Breed,0
-2017,NOR,Local Breed,0
-2018,NOR,Local Breed,1
-2019,NOR,Local Breed,1
-2020,NOR,Local Breed,8
-2021,NOR,Local Breed,8
-2022,NOR,Local Breed,10
-2023,NOR,Local Breed,10
-2024,NOR,Local Breed,10
-2020,PAN,Local Breed,1
-2021,PAN,Local Breed,0
-2022,PAN,Local Breed,0
-2023,PAN,Local Breed,0
-2024,PAN,Local Breed,0
-2022,PER,Local Breed,0
-2023,PER,Local Breed,0
-2024,PER,Local Breed,0
-2012,PHL,Local Breed,0
-2013,PHL,Local Breed,0
-2014,PHL,Local Breed,0
-2015,PHL,Local Breed,0
-2016,PHL,Local Breed,0
-2017,PHL,Local Breed,0
-2018,PHL,Local Breed,0
-2019,PHL,Local Breed,0
-2020,PHL,Local Breed,0
-2021,PHL,Local Breed,0
-2022,PHL,Local Breed,1
-2023,PHL,Local Breed,1
-2024,PHL,Local Breed,1
-2020,PLW,Local Breed,0
-2021,PLW,Local Breed,0
-2022,PLW,Local Breed,0
-2023,PLW,Local Breed,0
-2024,PLW,Local Breed,0
-2014,POL,Local Breed,0
-2015,POL,Local Breed,0
-2016,POL,Local Breed,0
-2017,POL,Local Breed,1
-2018,POL,Local Breed,1
-2019,POL,Local Breed,1
-2020,POL,Local Breed,1
-2021,POL,Local Breed,0
-2022,POL,Local Breed,0
-2023,POL,Local Breed,0
-2024,POL,Local Breed,0
-2022,PRI,Local Breed,0
-2023,PRI,Local Breed,0
-2024,PRI,Local Breed,0
-2021,PRT,Local Breed,6
-2022,PRT,Local Breed,6
-2023,PRT,Local Breed,6
-2024,PRT,Local Breed,6
-2020,PRY,Local Breed,0
-2021,PRY,Local Breed,0
-2022,PRY,Local Breed,0
-2023,PRY,Local Breed,0
-2024,PRY,Local Breed,0
-2024,PSE,Local Breed,0
-2024,QAT,Local Breed,0
-2020,ROU,Local Breed,3
-2021,ROU,Local Breed,3
-2022,ROU,Local Breed,3
-2023,ROU,Local Breed,3
-2024,ROU,Local Breed,3
-2024,RWA,Local Breed,0
-2020,SDN,Local Breed,0
-2021,SDN,Local Breed,0
-2022,SDN,Local Breed,0
-2023,SDN,Local Breed,0
-2024,SDN,Local Breed,0
-2020,SEN,Local Breed,0
-2021,SEN,Local Breed,0
-2022,SEN,Local Breed,0
-2023,SEN,Local Breed,0
-2024,SEN,Local Breed,0
-2020,SLV,Local Breed,0
-2021,SLV,Local Breed,0
-2022,SLV,Local Breed,0
-2023,SLV,Local Breed,0
-2024,SLV,Local Breed,0
-2020,SRB,Local Breed,0
-2021,SRB,Local Breed,0
-2022,SRB,Local Breed,0
-2023,SRB,Local Breed,0
-2024,SRB,Local Breed,0
-2020,SUR,Local Breed,0
-2021,SUR,Local Breed,0
-2022,SUR,Local Breed,0
-2023,SUR,Local Breed,0
-2024,SUR,Local Breed,0
-2021,SVK,Local Breed,0
-2022,SVK,Local Breed,0
-2023,SVK,Local Breed,0
-2024,SVK,Local Breed,0
-2001,SVN,Local Breed,0
-2002,SVN,Local Breed,0
-2003,SVN,Local Breed,0
-2004,SVN,Local Breed,0
-2005,SVN,Local Breed,0
-2006,SVN,Local Breed,0
-2007,SVN,Local Breed,0
-2008,SVN,Local Breed,0
-2009,SVN,Local Breed,0
-2010,SVN,Local Breed,0
-2011,SVN,Local Breed,0
-2012,SVN,Local Breed,0
-2013,SVN,Local Breed,0
-2014,SVN,Local Breed,0
-2015,SVN,Local Breed,0
-2016,SVN,Local Breed,0
-2017,SVN,Local Breed,0
-2018,SVN,Local Breed,0
-2019,SVN,Local Breed,0
-2020,SVN,Local Breed,0
-2021,SVN,Local Breed,0
-2022,SVN,Local Breed,0
-2023,SVN,Local Breed,0
-2024,SVN,Local Breed,0
-2007,SWE,Local Breed,0
-2008,SWE,Local Breed,0
-2009,SWE,Local Breed,0
-2010,SWE,Local Breed,0
-2011,SWE,Local Breed,0
-2012,SWE,Local Breed,0
-2013,SWE,Local Breed,0
-2014,SWE,Local Breed,0
-2015,SWE,Local Breed,0
-2016,SWE,Local Breed,0
-2017,SWE,Local Breed,0
-2018,SWE,Local Breed,0
-2019,SWE,Local Breed,0
-2020,SWE,Local Breed,0
-2021,SWE,Local Breed,0
-2022,SWE,Local Breed,0
-2023,SWE,Local Breed,0
-2024,SWE,Local Breed,0
-2020,SWZ,Local Breed,0
-2021,SWZ,Local Breed,0
-2022,SWZ,Local Breed,0
-2023,SWZ,Local Breed,0
-2024,SWZ,Local Breed,0
-2020,SYC,Local Breed,0
-2021,SYC,Local Breed,0
-2022,SYC,Local Breed,0
-2023,SYC,Local Breed,0
-2024,SYC,Local Breed,0
-2020,TGO,Local Breed,0
-2021,TGO,Local Breed,0
-2022,TGO,Local Breed,0
-2023,TGO,Local Breed,0
-2024,TGO,Local Breed,0
-2020,THA,Local Breed,0
-2021,THA,Local Breed,0
-2022,THA,Local Breed,0
-2023,THA,Local Breed,0
-2024,THA,Local Breed,0
-2020,TON,Local Breed,0
-2021,TON,Local Breed,0
-2022,TON,Local Breed,0
-2023,TON,Local Breed,0
-2024,TON,Local Breed,0
-2020,TUN,Local Breed,0
-2021,TUN,Local Breed,0
-2022,TUN,Local Breed,0
-2023,TUN,Local Breed,0
-2024,TUN,Local Breed,0
-2010,TUR,Local Breed,0
-2011,TUR,Local Breed,0
-2012,TUR,Local Breed,0
-2013,TUR,Local Breed,0
-2014,TUR,Local Breed,0
-2015,TUR,Local Breed,0
-2016,TUR,Local Breed,0
-2017,TUR,Local Breed,0
-2018,TUR,Local Breed,0
-2019,TUR,Local Breed,0
-2020,TUR,Local Breed,0
-2021,TUR,Local Breed,0
-2022,TUR,Local Breed,0
-2023,TUR,Local Breed,0
-2024,TUR,Local Breed,1
-2020,TZA,Local Breed,0
-2021,TZA,Local Breed,0
-2022,TZA,Local Breed,0
-2023,TZA,Local Breed,0
-2024,TZA,Local Breed,0
-2020,UGA,Local Breed,2
-2021,UGA,Local Breed,2
-2022,UGA,Local Breed,2
-2023,UGA,Local Breed,2
-2024,UGA,Local Breed,2
-2003,UKR,Local Breed,0
-2004,UKR,Local Breed,0
-2005,UKR,Local Breed,0
-2006,UKR,Local Breed,0
-2007,UKR,Local Breed,0
-2008,UKR,Local Breed,0
-2009,UKR,Local Breed,0
-2010,UKR,Local Breed,0
-2011,UKR,Local Breed,0
-2012,UKR,Local Breed,0
-2013,UKR,Local Breed,0
-2014,UKR,Local Breed,0
-2015,UKR,Local Breed,0
-2016,UKR,Local Breed,0
-2017,UKR,Local Breed,0
-2018,UKR,Local Breed,0
-2019,UKR,Local Breed,0
-2020,UKR,Local Breed,0
-2021,UKR,Local Breed,0
-2022,UKR,Local Breed,0
-2023,UKR,Local Breed,0
-2024,UKR,Local Breed,0
-2020,URY,Local Breed,0
-2021,URY,Local Breed,0
-2022,URY,Local Breed,0
-2023,URY,Local Breed,0
-2024,URY,Local Breed,0
-2018,USA,Local Breed,1
-2019,USA,Local Breed,39
-2020,USA,Local Breed,39
-2021,USA,Local Breed,39
-2022,USA,Local Breed,61
-2023,USA,Local Breed,61
-2024,USA,Local Breed,82
-2022,VIR,Local Breed,1
-2023,VIR,Local Breed,1
-2024,VIR,Local Breed,1
-2002,VNM,Local Breed,0
-2003,VNM,Local Breed,0
-2004,VNM,Local Breed,0
-2005,VNM,Local Breed,0
-2006,VNM,Local Breed,0
-2007,VNM,Local Breed,0
-2008,VNM,Local Breed,0
-2009,VNM,Local Breed,0
-2010,VNM,Local Breed,0
-2011,VNM,Local Breed,0
-2012,VNM,Local Breed,0
-2013,VNM,Local Breed,0
-2014,VNM,Local Breed,0
-2015,VNM,Local Breed,0
-2016,VNM,Local Breed,0
-2017,VNM,Local Breed,0
-2018,VNM,Local Breed,0
-2019,VNM,Local Breed,0
-2020,VNM,Local Breed,0
-2021,VNM,Local Breed,0
-2022,VNM,Local Breed,0
-2023,VNM,Local Breed,0
-2024,VNM,Local Breed,0
-2020,YEM,Local Breed,0
-2021,YEM,Local Breed,0
-2022,YEM,Local Breed,0
-2023,YEM,Local Breed,0
-2024,YEM,Local Breed,0
-2019,ZAF,Local Breed,24
-2020,ZAF,Local Breed,25
-2021,ZAF,Local Breed,25
-2022,ZAF,Local Breed,25
-2023,ZAF,Local Breed,25
-2024,ZAF,Local Breed,24
-2018,ZWE,Local Breed,1
-2019,ZWE,Local Breed,1
-2020,ZWE,Local Breed,1
-2021,ZWE,Local Breed,1
-2022,ZWE,Local Breed,1
-2023,ZWE,Local Breed,1
-2024,ZWE,Local Breed,1
+2025,ZWE,Total,1
+2025,ARE,Local breeds,8
+2018,ARG,Local breeds,0
+2019,ARG,Local breeds,0
+2020,ARG,Local breeds,0
+2021,ARG,Local breeds,0
+2022,ARG,Local breeds,0
+2023,ARG,Local breeds,0
+2024,ARG,Local breeds,0
+2025,ARG,Local breeds,0
+2000,AUT,Local breeds,0
+2001,AUT,Local breeds,3
+2002,AUT,Local breeds,3
+2003,AUT,Local breeds,3
+2004,AUT,Local breeds,3
+2005,AUT,Local breeds,3
+2006,AUT,Local breeds,3
+2007,AUT,Local breeds,3
+2008,AUT,Local breeds,3
+2009,AUT,Local breeds,3
+2010,AUT,Local breeds,3
+2011,AUT,Local breeds,3
+2012,AUT,Local breeds,4
+2013,AUT,Local breeds,5
+2014,AUT,Local breeds,5
+2015,AUT,Local breeds,5
+2016,AUT,Local breeds,5
+2017,AUT,Local breeds,5
+2018,AUT,Local breeds,5
+2019,AUT,Local breeds,5
+2020,AUT,Local breeds,9
+2021,AUT,Local breeds,9
+2022,AUT,Local breeds,8
+2023,AUT,Local breeds,8
+2024,AUT,Local breeds,7
+2025,AUT,Local breeds,7
+2020,AZE,Local breeds,0
+2021,AZE,Local breeds,0
+2022,AZE,Local breeds,0
+2023,AZE,Local breeds,0
+2024,AZE,Local breeds,0
+2025,AZE,Local breeds,0
+2020,BDI,Local breeds,0
+2021,BDI,Local breeds,0
+2022,BDI,Local breeds,0
+2023,BDI,Local breeds,0
+2024,BDI,Local breeds,0
+2025,BDI,Local breeds,0
+2007,BEL,Local breeds,0
+2008,BEL,Local breeds,0
+2009,BEL,Local breeds,0
+2010,BEL,Local breeds,0
+2011,BEL,Local breeds,0
+2012,BEL,Local breeds,0
+2013,BEL,Local breeds,0
+2014,BEL,Local breeds,3
+2015,BEL,Local breeds,3
+2016,BEL,Local breeds,3
+2017,BEL,Local breeds,3
+2018,BEL,Local breeds,3
+2019,BEL,Local breeds,3
+2020,BEL,Local breeds,3
+2021,BEL,Local breeds,3
+2022,BEL,Local breeds,3
+2023,BEL,Local breeds,3
+2024,BEL,Local breeds,3
+2025,BEL,Local breeds,3
+2020,BEN,Local breeds,0
+2021,BEN,Local breeds,0
+2022,BEN,Local breeds,0
+2023,BEN,Local breeds,0
+2024,BEN,Local breeds,0
+2025,BEN,Local breeds,0
+2021,BFA,Local breeds,0
+2022,BFA,Local breeds,0
+2023,BFA,Local breeds,0
+2024,BFA,Local breeds,0
+2025,BFA,Local breeds,0
+2017,BGR,Local breeds,2
+2018,BGR,Local breeds,2
+2019,BGR,Local breeds,2
+2020,BGR,Local breeds,2
+2021,BGR,Local breeds,2
+2022,BGR,Local breeds,2
+2023,BGR,Local breeds,2
+2024,BGR,Local breeds,2
+2025,BGR,Local breeds,2
+2019,BRA,Local breeds,1
+2020,BRA,Local breeds,1
+2021,BRA,Local breeds,1
+2022,BRA,Local breeds,1
+2023,BRA,Local breeds,2
+2024,BRA,Local breeds,2
+2025,BRA,Local breeds,2
+2020,BRB,Local breeds,0
+2021,BRB,Local breeds,0
+2022,BRB,Local breeds,0
+2023,BRB,Local breeds,0
+2024,BRB,Local breeds,0
+2025,BRB,Local breeds,0
+2010,BTN,Local breeds,0
+2011,BTN,Local breeds,0
+2012,BTN,Local breeds,0
+2013,BTN,Local breeds,0
+2014,BTN,Local breeds,0
+2015,BTN,Local breeds,0
+2016,BTN,Local breeds,0
+2017,BTN,Local breeds,0
+2018,BTN,Local breeds,0
+2019,BTN,Local breeds,0
+2020,BTN,Local breeds,1
+2021,BTN,Local breeds,1
+2022,BTN,Local breeds,1
+2023,BTN,Local breeds,1
+2024,BTN,Local breeds,1
+2025,BTN,Local breeds,1
+2020,BWA,Local breeds,1
+2021,BWA,Local breeds,1
+2022,BWA,Local breeds,1
+2023,BWA,Local breeds,1
+2024,BWA,Local breeds,1
+2025,BWA,Local breeds,1
+2021,CAN,Local breeds,0
+2022,CAN,Local breeds,0
+2023,CAN,Local breeds,0
+2024,CAN,Local breeds,0
+2025,CAN,Local breeds,0
+2003,CHE,Local breeds,0
+2004,CHE,Local breeds,0
+2005,CHE,Local breeds,0
+2006,CHE,Local breeds,0
+2007,CHE,Local breeds,0
+2008,CHE,Local breeds,0
+2009,CHE,Local breeds,0
+2010,CHE,Local breeds,0
+2011,CHE,Local breeds,0
+2012,CHE,Local breeds,0
+2013,CHE,Local breeds,0
+2014,CHE,Local breeds,0
+2015,CHE,Local breeds,4
+2016,CHE,Local breeds,4
+2017,CHE,Local breeds,4
+2018,CHE,Local breeds,4
+2019,CHE,Local breeds,4
+2020,CHE,Local breeds,5
+2021,CHE,Local breeds,5
+2022,CHE,Local breeds,5
+2023,CHE,Local breeds,8
+2024,CHE,Local breeds,7
+2025,CHE,Local breeds,7
+2020,CHL,Local breeds,0
+2021,CHL,Local breeds,0
+2022,CHL,Local breeds,0
+2023,CHL,Local breeds,0
+2024,CHL,Local breeds,0
+2025,CHL,Local breeds,0
+2003,CHN,Local breeds,0
+2004,CHN,Local breeds,0
+2005,CHN,Local breeds,0
+2006,CHN,Local breeds,60
+2007,CHN,Local breeds,60
+2008,CHN,Local breeds,64
+2009,CHN,Local breeds,64
+2010,CHN,Local breeds,64
+2011,CHN,Local breeds,64
+2012,CHN,Local breeds,64
+2013,CHN,Local breeds,64
+2014,CHN,Local breeds,65
+2015,CHN,Local breeds,65
+2016,CHN,Local breeds,65
+2017,CHN,Local breeds,65
+2018,CHN,Local breeds,65
+2019,CHN,Local breeds,65
+2020,CHN,Local breeds,85
+2021,CHN,Local breeds,85
+2022,CHN,Local breeds,85
+2023,CHN,Local breeds,87
+2024,CHN,Local breeds,95
+2025,CHN,Local breeds,96
+2020,CIV,Local breeds,0
+2021,CIV,Local breeds,0
+2022,CIV,Local breeds,0
+2023,CIV,Local breeds,0
+2024,CIV,Local breeds,0
+2025,CIV,Local breeds,0
+2020,COD,Local breeds,0
+2021,COD,Local breeds,0
+2022,COD,Local breeds,0
+2023,COD,Local breeds,0
+2024,COD,Local breeds,0
+2025,COD,Local breeds,0
+2020,COG,Local breeds,0
+2021,COG,Local breeds,0
+2022,COG,Local breeds,0
+2023,COG,Local breeds,0
+2024,COG,Local breeds,0
+2025,COG,Local breeds,0
+2020,COK,Local breeds,0
+2021,COK,Local breeds,0
+2022,COK,Local breeds,0
+2023,COK,Local breeds,0
+2024,COK,Local breeds,0
+2025,COK,Local breeds,0
+2020,COM,Local breeds,0
+2021,COM,Local breeds,0
+2022,COM,Local breeds,0
+2023,COM,Local breeds,0
+2024,COM,Local breeds,0
+2025,COM,Local breeds,0
+2020,CRI,Local breeds,0
+2021,CRI,Local breeds,0
+2022,CRI,Local breeds,0
+2023,CRI,Local breeds,0
+2024,CRI,Local breeds,0
+2025,CRI,Local breeds,0
+2024,CUB,Local breeds,0
+2025,CUB,Local breeds,0
+2000,CZE,Local breeds,0
+2001,CZE,Local breeds,0
+2002,CZE,Local breeds,0
+2003,CZE,Local breeds,0
+2004,CZE,Local breeds,0
+2005,CZE,Local breeds,0
+2006,CZE,Local breeds,0
+2007,CZE,Local breeds,0
+2008,CZE,Local breeds,0
+2009,CZE,Local breeds,0
+2010,CZE,Local breeds,0
+2011,CZE,Local breeds,1
+2012,CZE,Local breeds,1
+2013,CZE,Local breeds,1
+2014,CZE,Local breeds,1
+2015,CZE,Local breeds,1
+2016,CZE,Local breeds,1
+2017,CZE,Local breeds,1
+2018,CZE,Local breeds,1
+2019,CZE,Local breeds,3
+2020,CZE,Local breeds,3
+2021,CZE,Local breeds,3
+2022,CZE,Local breeds,3
+2023,CZE,Local breeds,3
+2024,CZE,Local breeds,2
+2025,CZE,Local breeds,2
+2020,DEU,Local breeds,0
+2021,DEU,Local breeds,0
+2022,DEU,Local breeds,0
+2023,DEU,Local breeds,0
+2024,DEU,Local breeds,0
+2025,DEU,Local breeds,0
+2020,DJI,Local breeds,0
+2021,DJI,Local breeds,0
+2022,DJI,Local breeds,0
+2023,DJI,Local breeds,0
+2024,DJI,Local breeds,0
+2025,DJI,Local breeds,0
+2006,DNK,Local breeds,0
+2007,DNK,Local breeds,0
+2008,DNK,Local breeds,0
+2009,DNK,Local breeds,0
+2010,DNK,Local breeds,0
+2011,DNK,Local breeds,0
+2012,DNK,Local breeds,0
+2013,DNK,Local breeds,0
+2014,DNK,Local breeds,0
+2015,DNK,Local breeds,0
+2016,DNK,Local breeds,0
+2017,DNK,Local breeds,0
+2018,DNK,Local breeds,0
+2019,DNK,Local breeds,0
+2020,DNK,Local breeds,0
+2021,DNK,Local breeds,0
+2022,DNK,Local breeds,0
+2023,DNK,Local breeds,0
+2024,DNK,Local breeds,0
+2025,DNK,Local breeds,0
+2022,DOM,Local breeds,0
+2023,DOM,Local breeds,0
+2024,DOM,Local breeds,0
+2025,DOM,Local breeds,0
+2021,DZA,Local breeds,0
+2022,DZA,Local breeds,0
+2023,DZA,Local breeds,0
+2024,DZA,Local breeds,0
+2025,DZA,Local breeds,0
+2025,ECU,Local breeds,0
+2009,ESP,Local breeds,0
+2010,ESP,Local breeds,0
+2011,ESP,Local breeds,0
+2012,ESP,Local breeds,0
+2013,ESP,Local breeds,1
+2014,ESP,Local breeds,21
+2015,ESP,Local breeds,26
+2016,ESP,Local breeds,27
+2017,ESP,Local breeds,20
+2018,ESP,Local breeds,29
+2019,ESP,Local breeds,27
+2020,ESP,Local breeds,37
+2021,ESP,Local breeds,43
+2022,ESP,Local breeds,46
+2023,ESP,Local breeds,46
+2024,ESP,Local breeds,52
+2025,ESP,Local breeds,52
+2020,ETH,Local breeds,5
+2021,ETH,Local breeds,5
+2022,ETH,Local breeds,5
+2023,ETH,Local breeds,5
+2024,ETH,Local breeds,5
+2025,ETH,Local breeds,5
+2009,FIN,Local breeds,0
+2010,FIN,Local breeds,0
+2011,FIN,Local breeds,0
+2012,FIN,Local breeds,0
+2013,FIN,Local breeds,0
+2014,FIN,Local breeds,0
+2015,FIN,Local breeds,0
+2016,FIN,Local breeds,0
+2017,FIN,Local breeds,0
+2018,FIN,Local breeds,0
+2019,FIN,Local breeds,0
+2020,FIN,Local breeds,1
+2021,FIN,Local breeds,1
+2022,FIN,Local breeds,1
+2023,FIN,Local breeds,1
+2024,FIN,Local breeds,1
+2025,FIN,Local breeds,1
+2018,FRA,Local breeds,12
+2019,FRA,Local breeds,12
+2020,FRA,Local breeds,12
+2021,FRA,Local breeds,12
+2022,FRA,Local breeds,12
+2023,FRA,Local breeds,16
+2024,FRA,Local breeds,29
+2025,FRA,Local breeds,29
+2020,GAB,Local breeds,0
+2021,GAB,Local breeds,0
+2022,GAB,Local breeds,0
+2023,GAB,Local breeds,0
+2024,GAB,Local breeds,0
+2025,GAB,Local breeds,0
+2008,GBR,Local breeds,0
+2009,GBR,Local breeds,0
+2010,GBR,Local breeds,0
+2011,GBR,Local breeds,0
+2012,GBR,Local breeds,0
+2013,GBR,Local breeds,0
+2014,GBR,Local breeds,0
+2015,GBR,Local breeds,0
+2016,GBR,Local breeds,0
+2017,GBR,Local breeds,0
+2018,GBR,Local breeds,0
+2019,GBR,Local breeds,0
+2020,GBR,Local breeds,0
+2021,GBR,Local breeds,0
+2022,GBR,Local breeds,0
+2023,GBR,Local breeds,0
+2024,GBR,Local breeds,0
+2025,GBR,Local breeds,0
+2020,GEO,Local breeds,0
+2021,GEO,Local breeds,0
+2022,GEO,Local breeds,0
+2023,GEO,Local breeds,0
+2024,GEO,Local breeds,0
+2025,GEO,Local breeds,0
+2020,GHA,Local breeds,0
+2021,GHA,Local breeds,0
+2022,GHA,Local breeds,0
+2023,GHA,Local breeds,0
+2024,GHA,Local breeds,0
+2025,GHA,Local breeds,0
+2020,GIN,Local breeds,0
+2021,GIN,Local breeds,0
+2022,GIN,Local breeds,0
+2023,GIN,Local breeds,0
+2024,GIN,Local breeds,0
+2025,GIN,Local breeds,0
+2020,GMB,Local breeds,0
+2021,GMB,Local breeds,0
+2022,GMB,Local breeds,0
+2023,GMB,Local breeds,0
+2024,GMB,Local breeds,0
+2025,GMB,Local breeds,0
+2020,GNB,Local breeds,0
+2021,GNB,Local breeds,0
+2022,GNB,Local breeds,0
+2023,GNB,Local breeds,0
+2024,GNB,Local breeds,0
+2025,GNB,Local breeds,0
+2009,GRC,Local breeds,0
+2010,GRC,Local breeds,0
+2011,GRC,Local breeds,0
+2012,GRC,Local breeds,0
+2013,GRC,Local breeds,0
+2014,GRC,Local breeds,0
+2015,GRC,Local breeds,0
+2016,GRC,Local breeds,0
+2017,GRC,Local breeds,0
+2018,GRC,Local breeds,0
+2019,GRC,Local breeds,0
+2020,GRC,Local breeds,0
+2021,GRC,Local breeds,0
+2022,GRC,Local breeds,0
+2023,GRC,Local breeds,0
+2024,GRC,Local breeds,0
+2025,GRC,Local breeds,0
+2022,GUM,Local breeds,0
+2023,GUM,Local breeds,0
+2024,GUM,Local breeds,0
+2025,GUM,Local breeds,0
+2006,HRV,Local breeds,0
+2007,HRV,Local breeds,0
+2008,HRV,Local breeds,0
+2009,HRV,Local breeds,0
+2010,HRV,Local breeds,0
+2011,HRV,Local breeds,0
+2012,HRV,Local breeds,0
+2013,HRV,Local breeds,0
+2014,HRV,Local breeds,0
+2015,HRV,Local breeds,0
+2016,HRV,Local breeds,0
+2017,HRV,Local breeds,0
+2018,HRV,Local breeds,0
+2019,HRV,Local breeds,0
+2020,HRV,Local breeds,0
+2021,HRV,Local breeds,0
+2022,HRV,Local breeds,0
+2023,HRV,Local breeds,0
+2024,HRV,Local breeds,0
+2025,HRV,Local breeds,0
+2020,HUN,Local breeds,0
+2021,HUN,Local breeds,0
+2022,HUN,Local breeds,0
+2023,HUN,Local breeds,0
+2024,HUN,Local breeds,0
+2025,HUN,Local breeds,0
+2019,IDN,Local breeds,9
+2020,IDN,Local breeds,9
+2021,IDN,Local breeds,9
+2022,IDN,Local breeds,9
+2023,IDN,Local breeds,9
+2024,IDN,Local breeds,9
+2025,IDN,Local breeds,9
+2020,IND,Local breeds,9
+2021,IND,Local breeds,30
+2022,IND,Local breeds,44
+2023,IND,Local breeds,44
+2024,IND,Local breeds,44
+2025,IND,Local breeds,44
+2020,IRL,Local breeds,0
+2021,IRL,Local breeds,0
+2022,IRL,Local breeds,0
+2023,IRL,Local breeds,0
+2024,IRL,Local breeds,0
+2025,IRL,Local breeds,0
+2023,IRN,Local breeds,30
+2024,IRN,Local breeds,30
+2025,IRN,Local breeds,30
+2020,IRQ,Local breeds,0
+2021,IRQ,Local breeds,0
+2022,IRQ,Local breeds,0
+2023,IRQ,Local breeds,0
+2024,IRQ,Local breeds,0
+2025,IRQ,Local breeds,0
+2020,ISL,Local breeds,4
+2021,ISL,Local breeds,4
+2022,ISL,Local breeds,4
+2023,ISL,Local breeds,4
+2024,ISL,Local breeds,4
+2025,ISL,Local breeds,4
+2001,ITA,Local breeds,0
+2002,ITA,Local breeds,0
+2003,ITA,Local breeds,0
+2004,ITA,Local breeds,0
+2005,ITA,Local breeds,0
+2006,ITA,Local breeds,0
+2007,ITA,Local breeds,0
+2008,ITA,Local breeds,0
+2009,ITA,Local breeds,0
+2010,ITA,Local breeds,0
+2011,ITA,Local breeds,0
+2012,ITA,Local breeds,0
+2013,ITA,Local breeds,0
+2014,ITA,Local breeds,1
+2015,ITA,Local breeds,5
+2016,ITA,Local breeds,5
+2017,ITA,Local breeds,5
+2018,ITA,Local breeds,5
+2019,ITA,Local breeds,5
+2020,ITA,Local breeds,13
+2021,ITA,Local breeds,22
+2022,ITA,Local breeds,21
+2023,ITA,Local breeds,25
+2024,ITA,Local breeds,25
+2025,ITA,Local breeds,25
+2023,JOR,Local breeds,0
+2024,JOR,Local breeds,0
+2025,JOR,Local breeds,0
+2020,JPN,Local breeds,0
+2021,JPN,Local breeds,0
+2022,JPN,Local breeds,0
+2023,JPN,Local breeds,0
+2024,JPN,Local breeds,0
+2025,JPN,Local breeds,0
+2022,KAZ,Local breeds,7
+2023,KAZ,Local breeds,7
+2024,KAZ,Local breeds,7
+2025,KAZ,Local breeds,7
+2020,KEN,Local breeds,0
+2021,KEN,Local breeds,0
+2022,KEN,Local breeds,0
+2023,KEN,Local breeds,0
+2024,KEN,Local breeds,0
+2025,KEN,Local breeds,0
+2020,KGZ,Local breeds,0
+2021,KGZ,Local breeds,0
+2022,KGZ,Local breeds,0
+2023,KGZ,Local breeds,0
+2024,KGZ,Local breeds,0
+2025,KGZ,Local breeds,0
+2014,KOR,Local breeds,1
+2015,KOR,Local breeds,1
+2016,KOR,Local breeds,1
+2017,KOR,Local breeds,1
+2018,KOR,Local breeds,1
+2019,KOR,Local breeds,1
+2020,KOR,Local breeds,26
+2021,KOR,Local breeds,26
+2022,KOR,Local breeds,26
+2023,KOR,Local breeds,26
+2024,KOR,Local breeds,26
+2025,KOR,Local breeds,26
+2020,LBN,Local breeds,0
+2021,LBN,Local breeds,0
+2022,LBN,Local breeds,0
+2023,LBN,Local breeds,0
+2024,LBN,Local breeds,0
+2025,LBN,Local breeds,0
+2022,LBY,Local breeds,0
+2023,LBY,Local breeds,0
+2024,LBY,Local breeds,0
+2025,LBY,Local breeds,0
+2020,LCA,Local breeds,0
+2021,LCA,Local breeds,0
+2022,LCA,Local breeds,0
+2023,LCA,Local breeds,0
+2024,LCA,Local breeds,0
+2025,LCA,Local breeds,0
+2025,LKA,Local breeds,0
+2020,LTU,Local breeds,0
+2021,LTU,Local breeds,0
+2022,LTU,Local breeds,0
+2023,LTU,Local breeds,0
+2024,LTU,Local breeds,0
+2025,LTU,Local breeds,0
+2020,LUX,Local breeds,0
+2021,LUX,Local breeds,0
+2022,LUX,Local breeds,0
+2023,LUX,Local breeds,0
+2024,LUX,Local breeds,0
+2025,LUX,Local breeds,0
+2019,MAR,Local breeds,3
+2020,MAR,Local breeds,2
+2021,MAR,Local breeds,2
+2022,MAR,Local breeds,3
+2023,MAR,Local breeds,3
+2024,MAR,Local breeds,3
+2025,MAR,Local breeds,3
+2024,MDA,Local breeds,1
+2025,MDA,Local breeds,1
+2020,MDG,Local breeds,0
+2021,MDG,Local breeds,0
+2022,MDG,Local breeds,0
+2023,MDG,Local breeds,0
+2024,MDG,Local breeds,0
+2025,MDG,Local breeds,0
+2020,MEX,Local breeds,0
+2021,MEX,Local breeds,0
+2022,MEX,Local breeds,0
+2023,MEX,Local breeds,0
+2024,MEX,Local breeds,0
+2025,MEX,Local breeds,0
+2020,MLI,Local breeds,0
+2021,MLI,Local breeds,0
+2022,MLI,Local breeds,0
+2023,MLI,Local breeds,0
+2024,MLI,Local breeds,0
+2025,MLI,Local breeds,0
+2023,MLT,Local breeds,0
+2024,MLT,Local breeds,0
+2025,MLT,Local breeds,0
+2020,MMR,Local breeds,0
+2021,MMR,Local breeds,0
+2022,MMR,Local breeds,0
+2023,MMR,Local breeds,0
+2024,MMR,Local breeds,0
+2025,MMR,Local breeds,0
+2010,MNE,Local breeds,0
+2011,MNE,Local breeds,0
+2012,MNE,Local breeds,0
+2013,MNE,Local breeds,0
+2014,MNE,Local breeds,0
+2015,MNE,Local breeds,0
+2016,MNE,Local breeds,0
+2017,MNE,Local breeds,0
+2018,MNE,Local breeds,0
+2019,MNE,Local breeds,0
+2020,MNE,Local breeds,0
+2021,MNE,Local breeds,0
+2022,MNE,Local breeds,0
+2023,MNE,Local breeds,0
+2024,MNE,Local breeds,0
+2025,MNE,Local breeds,0
+2020,MNG,Local breeds,0
+2021,MNG,Local breeds,0
+2022,MNG,Local breeds,0
+2023,MNG,Local breeds,0
+2024,MNG,Local breeds,0
+2025,MNG,Local breeds,0
+2022,MNP,Local breeds,0
+2023,MNP,Local breeds,0
+2024,MNP,Local breeds,0
+2025,MNP,Local breeds,0
+2020,MUS,Local breeds,0
+2021,MUS,Local breeds,0
+2022,MUS,Local breeds,0
+2023,MUS,Local breeds,0
+2024,MUS,Local breeds,0
+2025,MUS,Local breeds,0
+2020,MWI,Local breeds,0
+2021,MWI,Local breeds,0
+2022,MWI,Local breeds,0
+2023,MWI,Local breeds,0
+2024,MWI,Local breeds,0
+2025,MWI,Local breeds,0
+2020,MYS,Local breeds,0
+2021,MYS,Local breeds,0
+2022,MYS,Local breeds,0
+2023,MYS,Local breeds,0
+2024,MYS,Local breeds,0
+2025,MYS,Local breeds,0
+2020,NAM,Local breeds,0
+2021,NAM,Local breeds,0
+2022,NAM,Local breeds,0
+2023,NAM,Local breeds,0
+2024,NAM,Local breeds,0
+2025,NAM,Local breeds,0
+2025,NGA,Local breeds,0
+2021,NIC,Local breeds,0
+2022,NIC,Local breeds,0
+2023,NIC,Local breeds,0
+2000,NLD,Local breeds,1
+2001,NLD,Local breeds,1
+2002,NLD,Local breeds,2
+2003,NLD,Local breeds,3
+2004,NLD,Local breeds,3
+2005,NLD,Local breeds,3
+2006,NLD,Local breeds,3
+2007,NLD,Local breeds,4
+2008,NLD,Local breeds,4
+2009,NLD,Local breeds,5
+2010,NLD,Local breeds,5
+2011,NLD,Local breeds,5
+2012,NLD,Local breeds,5
+2013,NLD,Local breeds,6
+2014,NLD,Local breeds,6
+2015,NLD,Local breeds,8
+2016,NLD,Local breeds,5
+2017,NLD,Local breeds,10
+2018,NLD,Local breeds,10
+2019,NLD,Local breeds,10
+2020,NLD,Local breeds,8
+2021,NLD,Local breeds,10
+2022,NLD,Local breeds,10
+2023,NLD,Local breeds,10
+2024,NLD,Local breeds,10
+2025,NLD,Local breeds,10
+2005,NOR,Local breeds,0
+2006,NOR,Local breeds,0
+2007,NOR,Local breeds,0
+2008,NOR,Local breeds,0
+2009,NOR,Local breeds,0
+2010,NOR,Local breeds,0
+2011,NOR,Local breeds,0
+2012,NOR,Local breeds,1
+2013,NOR,Local breeds,1
+2014,NOR,Local breeds,1
+2015,NOR,Local breeds,1
+2016,NOR,Local breeds,1
+2017,NOR,Local breeds,1
+2018,NOR,Local breeds,1
+2019,NOR,Local breeds,1
+2020,NOR,Local breeds,19
+2021,NOR,Local breeds,19
+2022,NOR,Local breeds,19
+2023,NOR,Local breeds,19
+2024,NOR,Local breeds,19
+2025,NOR,Local breeds,19
+2015,OMN,Local breeds,1
+2016,OMN,Local breeds,1
+2017,OMN,Local breeds,1
+2018,OMN,Local breeds,1
+2019,OMN,Local breeds,2
+2020,OMN,Local breeds,2
+2021,OMN,Local breeds,2
+2022,OMN,Local breeds,2
+2023,OMN,Local breeds,2
+2024,OMN,Local breeds,2
+2025,OMN,Local breeds,2
+2020,PAN,Local breeds,0
+2021,PAN,Local breeds,0
+2022,PAN,Local breeds,0
+2023,PAN,Local breeds,0
+2024,PAN,Local breeds,0
+2025,PAN,Local breeds,0
+2024,PER,Local breeds,0
+2025,PER,Local breeds,0
+2014,PHL,Local breeds,1
+2015,PHL,Local breeds,1
+2016,PHL,Local breeds,1
+2017,PHL,Local breeds,1
+2018,PHL,Local breeds,1
+2019,PHL,Local breeds,1
+2020,PHL,Local breeds,1
+2021,PHL,Local breeds,1
+2022,PHL,Local breeds,0
+2023,PHL,Local breeds,0
+2024,PHL,Local breeds,0
+2025,PHL,Local breeds,0
+2009,POL,Local breeds,0
+2010,POL,Local breeds,0
+2011,POL,Local breeds,0
+2012,POL,Local breeds,0
+2013,POL,Local breeds,0
+2014,POL,Local breeds,0
+2015,POL,Local breeds,0
+2016,POL,Local breeds,0
+2017,POL,Local breeds,0
+2018,POL,Local breeds,0
+2019,POL,Local breeds,1
+2020,POL,Local breeds,2
+2021,POL,Local breeds,0
+2022,POL,Local breeds,0
+2023,POL,Local breeds,0
+2024,POL,Local breeds,0
+2025,POL,Local breeds,0
+2021,PRT,Local breeds,34
+2022,PRT,Local breeds,34
+2023,PRT,Local breeds,34
+2024,PRT,Local breeds,34
+2025,PRT,Local breeds,34
+2020,PRY,Local breeds,0
+2021,PRY,Local breeds,0
+2022,PRY,Local breeds,0
+2023,PRY,Local breeds,0
+2024,PRY,Local breeds,0
+2025,PRY,Local breeds,0
+2024,PSE,Local breeds,0
+2025,PSE,Local breeds,0
+2024,QAT,Local breeds,0
+2025,QAT,Local breeds,0
+2020,ROU,Local breeds,5
+2021,ROU,Local breeds,5
+2022,ROU,Local breeds,5
+2023,ROU,Local breeds,5
+2024,ROU,Local breeds,5
+2025,ROU,Local breeds,5
+2025,RUS,Local breeds,0
+2024,RWA,Local breeds,0
+2025,RWA,Local breeds,0
+2020,SDN,Local breeds,0
+2021,SDN,Local breeds,0
+2022,SDN,Local breeds,0
+2023,SDN,Local breeds,0
+2024,SDN,Local breeds,0
+2025,SDN,Local breeds,0
+2020,SEN,Local breeds,0
+2021,SEN,Local breeds,0
+2022,SEN,Local breeds,0
+2023,SEN,Local breeds,0
+2024,SEN,Local breeds,0
+2025,SEN,Local breeds,0
+2020,SLV,Local breeds,0
+2021,SLV,Local breeds,0
+2022,SLV,Local breeds,0
+2023,SLV,Local breeds,0
+2024,SLV,Local breeds,0
+2025,SLV,Local breeds,0
+2020,SRB,Local breeds,0
+2021,SRB,Local breeds,0
+2022,SRB,Local breeds,0
+2023,SRB,Local breeds,0
+2024,SRB,Local breeds,0
+2025,SRB,Local breeds,0
+2020,SUR,Local breeds,0
+2021,SUR,Local breeds,0
+2022,SUR,Local breeds,0
+2023,SUR,Local breeds,0
+2024,SUR,Local breeds,0
+2025,SUR,Local breeds,0
+2021,SVK,Local breeds,0
+2022,SVK,Local breeds,0
+2023,SVK,Local breeds,0
+2024,SVK,Local breeds,0
+2025,SVK,Local breeds,0
+2000,SVN,Local breeds,0
+2001,SVN,Local breeds,0
+2002,SVN,Local breeds,0
+2003,SVN,Local breeds,0
+2004,SVN,Local breeds,0
+2005,SVN,Local breeds,0
+2006,SVN,Local breeds,0
+2007,SVN,Local breeds,1
+2008,SVN,Local breeds,0
+2009,SVN,Local breeds,0
+2010,SVN,Local breeds,0
+2011,SVN,Local breeds,0
+2012,SVN,Local breeds,0
+2013,SVN,Local breeds,0
+2014,SVN,Local breeds,0
+2015,SVN,Local breeds,0
+2016,SVN,Local breeds,0
+2017,SVN,Local breeds,0
+2018,SVN,Local breeds,1
+2019,SVN,Local breeds,2
+2020,SVN,Local breeds,1
+2021,SVN,Local breeds,1
+2022,SVN,Local breeds,6
+2023,SVN,Local breeds,6
+2024,SVN,Local breeds,7
+2025,SVN,Local breeds,7
+2005,SWE,Local breeds,0
+2006,SWE,Local breeds,0
+2007,SWE,Local breeds,0
+2008,SWE,Local breeds,0
+2009,SWE,Local breeds,0
+2010,SWE,Local breeds,0
+2011,SWE,Local breeds,0
+2012,SWE,Local breeds,0
+2013,SWE,Local breeds,0
+2014,SWE,Local breeds,0
+2015,SWE,Local breeds,0
+2016,SWE,Local breeds,3
+2017,SWE,Local breeds,3
+2018,SWE,Local breeds,3
+2019,SWE,Local breeds,3
+2020,SWE,Local breeds,3
+2021,SWE,Local breeds,3
+2022,SWE,Local breeds,3
+2023,SWE,Local breeds,3
+2024,SWE,Local breeds,3
+2025,SWE,Local breeds,3
+2020,SWZ,Local breeds,0
+2021,SWZ,Local breeds,0
+2022,SWZ,Local breeds,0
+2023,SWZ,Local breeds,0
+2024,SWZ,Local breeds,0
+2025,SWZ,Local breeds,0
+2020,SYC,Local breeds,0
+2021,SYC,Local breeds,0
+2022,SYC,Local breeds,0
+2023,SYC,Local breeds,0
+2024,SYC,Local breeds,0
+2025,SYC,Local breeds,0
+2020,TGO,Local breeds,0
+2021,TGO,Local breeds,0
+2022,TGO,Local breeds,0
+2023,TGO,Local breeds,0
+2024,TGO,Local breeds,0
+2025,TGO,Local breeds,0
+2020,THA,Local breeds,4
+2021,THA,Local breeds,4
+2022,THA,Local breeds,4
+2023,THA,Local breeds,4
+2024,THA,Local breeds,4
+2025,THA,Local breeds,4
+2020,TON,Local breeds,0
+2021,TON,Local breeds,0
+2022,TON,Local breeds,0
+2023,TON,Local breeds,0
+2024,TON,Local breeds,0
+2025,TON,Local breeds,0
+2020,TUN,Local breeds,0
+2021,TUN,Local breeds,0
+2022,TUN,Local breeds,0
+2023,TUN,Local breeds,0
+2024,TUN,Local breeds,0
+2025,TUN,Local breeds,0
+2011,TUR,Local breeds,1
+2012,TUR,Local breeds,0
+2013,TUR,Local breeds,0
+2014,TUR,Local breeds,0
+2015,TUR,Local breeds,0
+2016,TUR,Local breeds,0
+2017,TUR,Local breeds,0
+2018,TUR,Local breeds,0
+2019,TUR,Local breeds,0
+2020,TUR,Local breeds,0
+2021,TUR,Local breeds,0
+2022,TUR,Local breeds,0
+2023,TUR,Local breeds,0
+2024,TUR,Local breeds,5
+2025,TUR,Local breeds,5
+2010,TZA,Local breeds,0
+2011,TZA,Local breeds,0
+2012,TZA,Local breeds,0
+2013,TZA,Local breeds,0
+2014,TZA,Local breeds,0
+2015,TZA,Local breeds,0
+2016,TZA,Local breeds,0
+2017,TZA,Local breeds,0
+2018,TZA,Local breeds,0
+2019,TZA,Local breeds,0
+2020,TZA,Local breeds,0
+2021,TZA,Local breeds,0
+2022,TZA,Local breeds,0
+2023,TZA,Local breeds,0
+2024,TZA,Local breeds,0
+2025,TZA,Local breeds,0
+2020,UGA,Local breeds,1
+2021,UGA,Local breeds,1
+2022,UGA,Local breeds,1
+2023,UGA,Local breeds,1
+2024,UGA,Local breeds,1
+2025,UGA,Local breeds,1
+2003,UKR,Local breeds,0
+2004,UKR,Local breeds,0
+2005,UKR,Local breeds,0
+2006,UKR,Local breeds,0
+2007,UKR,Local breeds,0
+2008,UKR,Local breeds,0
+2009,UKR,Local breeds,0
+2010,UKR,Local breeds,0
+2011,UKR,Local breeds,0
+2012,UKR,Local breeds,0
+2013,UKR,Local breeds,0
+2014,UKR,Local breeds,0
+2015,UKR,Local breeds,0
+2016,UKR,Local breeds,0
+2017,UKR,Local breeds,0
+2018,UKR,Local breeds,0
+2019,UKR,Local breeds,0
+2020,UKR,Local breeds,0
+2021,UKR,Local breeds,0
+2022,UKR,Local breeds,0
+2023,UKR,Local breeds,0
+2024,UKR,Local breeds,0
+2025,UKR,Local breeds,0
+2010,UNKNOWN,Local breeds,8
+2011,UNKNOWN,Local breeds,9
+2012,UNKNOWN,Local breeds,11
+2013,UNKNOWN,Local breeds,14
+2014,UNKNOWN,Local breeds,38
+2015,UNKNOWN,Local breeds,53
+2016,UNKNOWN,Local breeds,54
+2017,UNKNOWN,Local breeds,108
+2018,UNKNOWN,Local breeds,152
+2019,UNKNOWN,Local breeds,159
+2020,UNKNOWN,Local breeds,574
+2021,UNKNOWN,Local breeds,713
+2022,UNKNOWN,Local breeds,765
+2023,UNKNOWN,Local breeds,823
+2024,UNKNOWN,Local breeds,898
+2025,UNKNOWN,Local breeds,988
+2020,URY,Local breeds,1
+2021,URY,Local breeds,1
+2022,URY,Local breeds,1
+2023,URY,Local breeds,1
+2024,URY,Local breeds,2
+2025,URY,Local breeds,2
+2019,USA,Local breeds,3
+2020,USA,Local breeds,10
+2021,USA,Local breeds,10
+2022,USA,Local breeds,14
+2023,USA,Local breeds,14
+2024,USA,Local breeds,16
+2025,USA,Local breeds,16
+2022,VIR,Local breeds,1
+2023,VIR,Local breeds,1
+2024,VIR,Local breeds,1
+2025,VIR,Local breeds,1
+2000,VNM,Local breeds,0
+2001,VNM,Local breeds,0
+2002,VNM,Local breeds,0
+2003,VNM,Local breeds,0
+2004,VNM,Local breeds,0
+2005,VNM,Local breeds,0
+2006,VNM,Local breeds,0
+2007,VNM,Local breeds,0
+2008,VNM,Local breeds,0
+2009,VNM,Local breeds,0
+2010,VNM,Local breeds,0
+2011,VNM,Local breeds,0
+2012,VNM,Local breeds,0
+2013,VNM,Local breeds,0
+2014,VNM,Local breeds,0
+2015,VNM,Local breeds,0
+2016,VNM,Local breeds,0
+2017,VNM,Local breeds,0
+2018,VNM,Local breeds,0
+2019,VNM,Local breeds,0
+2020,VNM,Local breeds,5
+2021,VNM,Local breeds,5
+2022,VNM,Local breeds,5
+2023,VNM,Local breeds,5
+2024,VNM,Local breeds,5
+2025,VNM,Local breeds,5
+2020,YEM,Local breeds,0
+2021,YEM,Local breeds,0
+2022,YEM,Local breeds,0
+2023,YEM,Local breeds,0
+2024,YEM,Local breeds,0
+2025,YEM,Local breeds,0
+2019,ZAF,Local breeds,6
+2020,ZAF,Local breeds,6
+2021,ZAF,Local breeds,6
+2022,ZAF,Local breeds,6
+2023,ZAF,Local breeds,6
+2024,ZAF,Local breeds,9
+2025,ZAF,Local breeds,4
+2025,ZMB,Local breeds,0
+2020,ARG,Transboundary breeds,0
+2021,ARG,Transboundary breeds,0
+2022,ARG,Transboundary breeds,0
+2023,ARG,Transboundary breeds,0
+2024,ARG,Transboundary breeds,0
+2025,ARG,Transboundary breeds,0
+2000,AUT,Transboundary breeds,3
+2001,AUT,Transboundary breeds,3
+2002,AUT,Transboundary breeds,4
+2003,AUT,Transboundary breeds,4
+2004,AUT,Transboundary breeds,4
+2005,AUT,Transboundary breeds,5
+2006,AUT,Transboundary breeds,5
+2007,AUT,Transboundary breeds,6
+2008,AUT,Transboundary breeds,6
+2009,AUT,Transboundary breeds,6
+2010,AUT,Transboundary breeds,6
+2011,AUT,Transboundary breeds,7
+2012,AUT,Transboundary breeds,7
+2013,AUT,Transboundary breeds,7
+2014,AUT,Transboundary breeds,7
+2015,AUT,Transboundary breeds,7
+2016,AUT,Transboundary breeds,7
+2017,AUT,Transboundary breeds,7
+2018,AUT,Transboundary breeds,7
+2019,AUT,Transboundary breeds,7
+2020,AUT,Transboundary breeds,7
+2021,AUT,Transboundary breeds,6
+2022,AUT,Transboundary breeds,6
+2023,AUT,Transboundary breeds,6
+2024,AUT,Transboundary breeds,6
+2025,AUT,Transboundary breeds,6
+2020,AZE,Transboundary breeds,0
+2021,AZE,Transboundary breeds,0
+2022,AZE,Transboundary breeds,0
+2023,AZE,Transboundary breeds,0
+2024,AZE,Transboundary breeds,0
+2025,AZE,Transboundary breeds,0
+2020,BDI,Transboundary breeds,0
+2021,BDI,Transboundary breeds,0
+2022,BDI,Transboundary breeds,0
+2023,BDI,Transboundary breeds,0
+2024,BDI,Transboundary breeds,0
+2025,BDI,Transboundary breeds,0
+2018,BEN,Transboundary breeds,0
+2019,BEN,Transboundary breeds,0
+2020,BEN,Transboundary breeds,0
+2021,BEN,Transboundary breeds,0
+2022,BEN,Transboundary breeds,0
+2023,BEN,Transboundary breeds,0
+2024,BEN,Transboundary breeds,0
+2025,BEN,Transboundary breeds,0
+2017,BFA,Transboundary breeds,0
+2018,BFA,Transboundary breeds,0
+2019,BFA,Transboundary breeds,0
+2020,BFA,Transboundary breeds,0
+2021,BFA,Transboundary breeds,0
+2022,BFA,Transboundary breeds,0
+2023,BFA,Transboundary breeds,0
+2024,BFA,Transboundary breeds,0
+2025,BFA,Transboundary breeds,0
+2017,BGR,Transboundary breeds,1
+2018,BGR,Transboundary breeds,1
+2019,BGR,Transboundary breeds,1
+2020,BGR,Transboundary breeds,1
+2021,BGR,Transboundary breeds,1
+2022,BGR,Transboundary breeds,1
+2023,BGR,Transboundary breeds,1
+2024,BGR,Transboundary breeds,1
+2025,BGR,Transboundary breeds,1
+2017,BRA,Transboundary breeds,0
+2018,BRA,Transboundary breeds,0
+2019,BRA,Transboundary breeds,0
+2020,BRA,Transboundary breeds,0
+2021,BRA,Transboundary breeds,0
+2022,BRA,Transboundary breeds,0
+2023,BRA,Transboundary breeds,3
+2024,BRA,Transboundary breeds,3
+2025,BRA,Transboundary breeds,3
+2020,BRB,Transboundary breeds,0
+2021,BRB,Transboundary breeds,0
+2022,BRB,Transboundary breeds,0
+2023,BRB,Transboundary breeds,0
+2024,BRB,Transboundary breeds,0
+2025,BRB,Transboundary breeds,0
+2019,BTN,Transboundary breeds,2
+2020,BTN,Transboundary breeds,4
+2021,BTN,Transboundary breeds,4
+2022,BTN,Transboundary breeds,4
+2023,BTN,Transboundary breeds,4
+2024,BTN,Transboundary breeds,4
+2025,BTN,Transboundary breeds,4
+2020,BWA,Transboundary breeds,11
+2021,BWA,Transboundary breeds,11
+2022,BWA,Transboundary breeds,11
+2023,BWA,Transboundary breeds,11
+2024,BWA,Transboundary breeds,11
+2025,BWA,Transboundary breeds,11
+2021,CAN,Transboundary breeds,8
+2022,CAN,Transboundary breeds,9
+2023,CAN,Transboundary breeds,9
+2024,CAN,Transboundary breeds,9
+2025,CAN,Transboundary breeds,9
+2012,CHE,Transboundary breeds,0
+2013,CHE,Transboundary breeds,0
+2014,CHE,Transboundary breeds,0
+2015,CHE,Transboundary breeds,0
+2016,CHE,Transboundary breeds,0
+2017,CHE,Transboundary breeds,0
+2018,CHE,Transboundary breeds,0
+2019,CHE,Transboundary breeds,0
+2020,CHE,Transboundary breeds,1
+2021,CHE,Transboundary breeds,1
+2022,CHE,Transboundary breeds,1
+2023,CHE,Transboundary breeds,3
+2024,CHE,Transboundary breeds,3
+2025,CHE,Transboundary breeds,3
+2020,CHL,Transboundary breeds,0
+2021,CHL,Transboundary breeds,0
+2022,CHL,Transboundary breeds,0
+2023,CHL,Transboundary breeds,0
+2024,CHL,Transboundary breeds,0
+2025,CHL,Transboundary breeds,0
+2006,CHN,Transboundary breeds,1
+2007,CHN,Transboundary breeds,1
+2008,CHN,Transboundary breeds,1
+2009,CHN,Transboundary breeds,1
+2010,CHN,Transboundary breeds,1
+2011,CHN,Transboundary breeds,1
+2012,CHN,Transboundary breeds,2
+2013,CHN,Transboundary breeds,2
+2014,CHN,Transboundary breeds,2
+2015,CHN,Transboundary breeds,2
+2016,CHN,Transboundary breeds,2
+2017,CHN,Transboundary breeds,2
+2018,CHN,Transboundary breeds,2
+2019,CHN,Transboundary breeds,2
+2020,CHN,Transboundary breeds,3
+2021,CHN,Transboundary breeds,3
+2022,CHN,Transboundary breeds,3
+2023,CHN,Transboundary breeds,3
+2024,CHN,Transboundary breeds,3
+2025,CHN,Transboundary breeds,3
+2017,CIV,Transboundary breeds,0
+2018,CIV,Transboundary breeds,0
+2019,CIV,Transboundary breeds,0
+2020,CIV,Transboundary breeds,0
+2021,CIV,Transboundary breeds,0
+2022,CIV,Transboundary breeds,0
+2023,CIV,Transboundary breeds,0
+2024,CIV,Transboundary breeds,0
+2025,CIV,Transboundary breeds,0
+2020,COD,Transboundary breeds,0
+2021,COD,Transboundary breeds,0
+2022,COD,Transboundary breeds,0
+2023,COD,Transboundary breeds,0
+2024,COD,Transboundary breeds,0
+2025,COD,Transboundary breeds,0
+2020,COG,Transboundary breeds,0
+2021,COG,Transboundary breeds,0
+2022,COG,Transboundary breeds,0
+2023,COG,Transboundary breeds,0
+2024,COG,Transboundary breeds,0
+2025,COG,Transboundary breeds,0
+2020,COK,Transboundary breeds,0
+2021,COK,Transboundary breeds,0
+2022,COK,Transboundary breeds,0
+2023,COK,Transboundary breeds,0
+2024,COK,Transboundary breeds,0
+2025,COK,Transboundary breeds,0
+2020,COM,Transboundary breeds,0
+2021,COM,Transboundary breeds,0
+2022,COM,Transboundary breeds,0
+2023,COM,Transboundary breeds,0
+2024,COM,Transboundary breeds,0
+2025,COM,Transboundary breeds,0
+2020,CPV,Transboundary breeds,0
+2021,CPV,Transboundary breeds,0
+2022,CPV,Transboundary breeds,0
+2023,CPV,Transboundary breeds,0
+2024,CPV,Transboundary breeds,0
+2025,CPV,Transboundary breeds,0
+2020,CRI,Transboundary breeds,0
+2021,CRI,Transboundary breeds,0
+2022,CRI,Transboundary breeds,0
+2023,CRI,Transboundary breeds,0
+2024,CRI,Transboundary breeds,0
+2025,CRI,Transboundary breeds,0
+2001,CZE,Transboundary breeds,0
+2002,CZE,Transboundary breeds,0
+2003,CZE,Transboundary breeds,0
+2004,CZE,Transboundary breeds,0
+2005,CZE,Transboundary breeds,0
+2006,CZE,Transboundary breeds,0
+2007,CZE,Transboundary breeds,0
+2008,CZE,Transboundary breeds,0
+2009,CZE,Transboundary breeds,0
+2010,CZE,Transboundary breeds,0
+2011,CZE,Transboundary breeds,0
+2012,CZE,Transboundary breeds,0
+2013,CZE,Transboundary breeds,0
+2014,CZE,Transboundary breeds,0
+2015,CZE,Transboundary breeds,0
+2016,CZE,Transboundary breeds,0
+2017,CZE,Transboundary breeds,0
+2018,CZE,Transboundary breeds,0
+2019,CZE,Transboundary breeds,1
+2020,CZE,Transboundary breeds,1
+2021,CZE,Transboundary breeds,1
+2022,CZE,Transboundary breeds,1
+2023,CZE,Transboundary breeds,1
+2024,CZE,Transboundary breeds,0
+2025,CZE,Transboundary breeds,0
+2020,DEU,Transboundary breeds,0
+2021,DEU,Transboundary breeds,0
+2022,DEU,Transboundary breeds,0
+2023,DEU,Transboundary breeds,0
+2024,DEU,Transboundary breeds,0
+2025,DEU,Transboundary breeds,0
+2020,DJI,Transboundary breeds,0
+2021,DJI,Transboundary breeds,0
+2022,DJI,Transboundary breeds,0
+2023,DJI,Transboundary breeds,0
+2024,DJI,Transboundary breeds,0
+2025,DJI,Transboundary breeds,0
+2006,DNK,Transboundary breeds,0
+2007,DNK,Transboundary breeds,0
+2008,DNK,Transboundary breeds,0
+2009,DNK,Transboundary breeds,0
+2010,DNK,Transboundary breeds,0
+2011,DNK,Transboundary breeds,0
+2012,DNK,Transboundary breeds,0
+2013,DNK,Transboundary breeds,0
+2014,DNK,Transboundary breeds,0
+2015,DNK,Transboundary breeds,0
+2016,DNK,Transboundary breeds,0
+2017,DNK,Transboundary breeds,0
+2018,DNK,Transboundary breeds,0
+2019,DNK,Transboundary breeds,0
+2020,DNK,Transboundary breeds,0
+2021,DNK,Transboundary breeds,0
+2022,DNK,Transboundary breeds,0
+2023,DNK,Transboundary breeds,0
+2024,DNK,Transboundary breeds,0
+2025,DNK,Transboundary breeds,0
+2022,DOM,Transboundary breeds,0
+2023,DOM,Transboundary breeds,0
+2024,DOM,Transboundary breeds,0
+2025,DOM,Transboundary breeds,0
+2021,DZA,Transboundary breeds,0
+2022,DZA,Transboundary breeds,0
+2023,DZA,Transboundary breeds,0
+2024,DZA,Transboundary breeds,0
+2025,DZA,Transboundary breeds,0
+2025,ECU,Transboundary breeds,0
+2012,ESP,Transboundary breeds,0
+2013,ESP,Transboundary breeds,1
+2014,ESP,Transboundary breeds,9
+2015,ESP,Transboundary breeds,9
+2016,ESP,Transboundary breeds,10
+2017,ESP,Transboundary breeds,9
+2018,ESP,Transboundary breeds,11
+2019,ESP,Transboundary breeds,12
+2020,ESP,Transboundary breeds,13
+2021,ESP,Transboundary breeds,12
+2022,ESP,Transboundary breeds,12
+2023,ESP,Transboundary breeds,13
+2024,ESP,Transboundary breeds,13
+2025,ESP,Transboundary breeds,13
+2020,ETH,Transboundary breeds,0
+2021,ETH,Transboundary breeds,0
+2022,ETH,Transboundary breeds,0
+2023,ETH,Transboundary breeds,0
+2024,ETH,Transboundary breeds,0
+2025,ETH,Transboundary breeds,0
+2020,FIN,Transboundary breeds,2
+2021,FIN,Transboundary breeds,2
+2022,FIN,Transboundary breeds,2
+2023,FIN,Transboundary breeds,1
+2024,FIN,Transboundary breeds,0
+2025,FIN,Transboundary breeds,0
+2018,FRA,Transboundary breeds,12
+2019,FRA,Transboundary breeds,13
+2020,FRA,Transboundary breeds,13
+2021,FRA,Transboundary breeds,13
+2022,FRA,Transboundary breeds,13
+2023,FRA,Transboundary breeds,25
+2024,FRA,Transboundary breeds,25
+2025,FRA,Transboundary breeds,25
+2020,GAB,Transboundary breeds,0
+2021,GAB,Transboundary breeds,0
+2022,GAB,Transboundary breeds,0
+2023,GAB,Transboundary breeds,0
+2024,GAB,Transboundary breeds,0
+2025,GAB,Transboundary breeds,0
+2020,GBR,Transboundary breeds,0
+2021,GBR,Transboundary breeds,0
+2022,GBR,Transboundary breeds,0
+2023,GBR,Transboundary breeds,0
+2024,GBR,Transboundary breeds,0
+2025,GBR,Transboundary breeds,0
+2020,GEO,Transboundary breeds,0
+2021,GEO,Transboundary breeds,0
+2022,GEO,Transboundary breeds,0
+2023,GEO,Transboundary breeds,0
+2024,GEO,Transboundary breeds,0
+2025,GEO,Transboundary breeds,0
+2020,GHA,Transboundary breeds,0
+2021,GHA,Transboundary breeds,0
+2022,GHA,Transboundary breeds,0
+2023,GHA,Transboundary breeds,0
+2024,GHA,Transboundary breeds,0
+2025,GHA,Transboundary breeds,0
+2020,GIN,Transboundary breeds,0
+2021,GIN,Transboundary breeds,0
+2022,GIN,Transboundary breeds,0
+2023,GIN,Transboundary breeds,0
+2024,GIN,Transboundary breeds,0
+2025,GIN,Transboundary breeds,0
+2020,GMB,Transboundary breeds,0
+2021,GMB,Transboundary breeds,0
+2022,GMB,Transboundary breeds,0
+2023,GMB,Transboundary breeds,0
+2024,GMB,Transboundary breeds,0
+2025,GMB,Transboundary breeds,0
+2020,GNB,Transboundary breeds,0
+2021,GNB,Transboundary breeds,0
+2022,GNB,Transboundary breeds,0
+2023,GNB,Transboundary breeds,0
+2024,GNB,Transboundary breeds,0
+2025,GNB,Transboundary breeds,0
+2020,GRC,Transboundary breeds,0
+2021,GRC,Transboundary breeds,0
+2022,GRC,Transboundary breeds,0
+2023,GRC,Transboundary breeds,0
+2024,GRC,Transboundary breeds,0
+2025,GRC,Transboundary breeds,0
+2022,GUM,Transboundary breeds,1
+2023,GUM,Transboundary breeds,1
+2024,GUM,Transboundary breeds,1
+2025,GUM,Transboundary breeds,1
+2020,HRV,Transboundary breeds,2
+2021,HRV,Transboundary breeds,2
+2022,HRV,Transboundary breeds,2
+2023,HRV,Transboundary breeds,2
+2024,HRV,Transboundary breeds,2
+2025,HRV,Transboundary breeds,2
+2020,HUN,Transboundary breeds,0
+2021,HUN,Transboundary breeds,0
+2022,HUN,Transboundary breeds,0
+2023,HUN,Transboundary breeds,0
+2024,HUN,Transboundary breeds,0
+2025,HUN,Transboundary breeds,0
+2019,IDN,Transboundary breeds,6
+2020,IDN,Transboundary breeds,6
+2021,IDN,Transboundary breeds,6
+2022,IDN,Transboundary breeds,6
+2023,IDN,Transboundary breeds,6
+2024,IDN,Transboundary breeds,6
+2025,IDN,Transboundary breeds,6
+2020,IND,Transboundary breeds,0
+2021,IND,Transboundary breeds,11
+2022,IND,Transboundary breeds,12
+2023,IND,Transboundary breeds,13
+2024,IND,Transboundary breeds,13
+2025,IND,Transboundary breeds,13
+2020,IRL,Transboundary breeds,0
+2021,IRL,Transboundary breeds,0
+2022,IRL,Transboundary breeds,0
+2023,IRL,Transboundary breeds,0
+2024,IRL,Transboundary breeds,0
+2025,IRL,Transboundary breeds,0
+2023,IRN,Transboundary breeds,8
+2024,IRN,Transboundary breeds,8
+2025,IRN,Transboundary breeds,8
+2020,IRQ,Transboundary breeds,0
+2021,IRQ,Transboundary breeds,0
+2022,IRQ,Transboundary breeds,0
+2023,IRQ,Transboundary breeds,0
+2024,IRQ,Transboundary breeds,0
+2025,IRQ,Transboundary breeds,0
+2020,ISL,Transboundary breeds,0
+2021,ISL,Transboundary breeds,0
+2022,ISL,Transboundary breeds,0
+2023,ISL,Transboundary breeds,0
+2024,ISL,Transboundary breeds,0
+2025,ISL,Transboundary breeds,0
+2015,ITA,Transboundary breeds,1
+2016,ITA,Transboundary breeds,1
+2017,ITA,Transboundary breeds,1
+2018,ITA,Transboundary breeds,1
+2019,ITA,Transboundary breeds,1
+2020,ITA,Transboundary breeds,5
+2021,ITA,Transboundary breeds,6
+2022,ITA,Transboundary breeds,6
+2023,ITA,Transboundary breeds,6
+2024,ITA,Transboundary breeds,6
+2025,ITA,Transboundary breeds,6
+2020,JPN,Transboundary breeds,2
+2021,JPN,Transboundary breeds,2
+2022,JPN,Transboundary breeds,2
+2023,JPN,Transboundary breeds,2
+2024,JPN,Transboundary breeds,2
+2025,JPN,Transboundary breeds,2
+2022,KAZ,Transboundary breeds,7
+2023,KAZ,Transboundary breeds,7
+2024,KAZ,Transboundary breeds,7
+2025,KAZ,Transboundary breeds,7
+2020,KEN,Transboundary breeds,0
+2021,KEN,Transboundary breeds,0
+2022,KEN,Transboundary breeds,0
+2023,KEN,Transboundary breeds,0
+2024,KEN,Transboundary breeds,0
+2025,KEN,Transboundary breeds,0
+2020,KGZ,Transboundary breeds,0
+2021,KGZ,Transboundary breeds,0
+2022,KGZ,Transboundary breeds,0
+2023,KGZ,Transboundary breeds,0
+2024,KGZ,Transboundary breeds,0
+2025,KGZ,Transboundary breeds,0
+2015,KOR,Transboundary breeds,0
+2016,KOR,Transboundary breeds,0
+2017,KOR,Transboundary breeds,0
+2018,KOR,Transboundary breeds,0
+2019,KOR,Transboundary breeds,0
+2020,KOR,Transboundary breeds,20
+2021,KOR,Transboundary breeds,20
+2022,KOR,Transboundary breeds,20
+2023,KOR,Transboundary breeds,20
+2024,KOR,Transboundary breeds,20
+2025,KOR,Transboundary breeds,20
+2020,LBN,Transboundary breeds,0
+2021,LBN,Transboundary breeds,0
+2022,LBN,Transboundary breeds,0
+2023,LBN,Transboundary breeds,0
+2024,LBN,Transboundary breeds,0
+2025,LBN,Transboundary breeds,0
+2022,LBY,Transboundary breeds,0
+2023,LBY,Transboundary breeds,0
+2024,LBY,Transboundary breeds,0
+2025,LBY,Transboundary breeds,0
+2020,LCA,Transboundary breeds,0
+2021,LCA,Transboundary breeds,0
+2022,LCA,Transboundary breeds,0
+2023,LCA,Transboundary breeds,0
+2024,LCA,Transboundary breeds,0
+2025,LCA,Transboundary breeds,0
+2025,LKA,Transboundary breeds,3
+2020,LTU,Transboundary breeds,1
+2021,LTU,Transboundary breeds,1
+2022,LTU,Transboundary breeds,1
+2023,LTU,Transboundary breeds,1
+2024,LTU,Transboundary breeds,1
+2025,LTU,Transboundary breeds,1
+2020,LUX,Transboundary breeds,0
+2021,LUX,Transboundary breeds,0
+2022,LUX,Transboundary breeds,0
+2023,LUX,Transboundary breeds,0
+2024,LUX,Transboundary breeds,0
+2025,LUX,Transboundary breeds,0
+2019,MAR,Transboundary breeds,3
+2020,MAR,Transboundary breeds,3
+2021,MAR,Transboundary breeds,3
+2022,MAR,Transboundary breeds,3
+2023,MAR,Transboundary breeds,3
+2024,MAR,Transboundary breeds,3
+2025,MAR,Transboundary breeds,3
+2024,MDA,Transboundary breeds,6
+2025,MDA,Transboundary breeds,6
+2020,MDG,Transboundary breeds,0
+2021,MDG,Transboundary breeds,0
+2022,MDG,Transboundary breeds,0
+2023,MDG,Transboundary breeds,0
+2024,MDG,Transboundary breeds,0
+2025,MDG,Transboundary breeds,0
+2020,MEX,Transboundary breeds,3
+2021,MEX,Transboundary breeds,3
+2022,MEX,Transboundary breeds,3
+2023,MEX,Transboundary breeds,3
+2024,MEX,Transboundary breeds,3
+2025,MEX,Transboundary breeds,3
+2020,MLI,Transboundary breeds,0
+2021,MLI,Transboundary breeds,0
+2022,MLI,Transboundary breeds,0
+2023,MLI,Transboundary breeds,0
+2024,MLI,Transboundary breeds,0
+2025,MLI,Transboundary breeds,0
+2020,MMR,Transboundary breeds,0
+2021,MMR,Transboundary breeds,0
+2022,MMR,Transboundary breeds,0
+2023,MMR,Transboundary breeds,0
+2024,MMR,Transboundary breeds,0
+2025,MMR,Transboundary breeds,0
+2020,MNE,Transboundary breeds,0
+2021,MNE,Transboundary breeds,0
+2022,MNE,Transboundary breeds,0
+2023,MNE,Transboundary breeds,0
+2024,MNE,Transboundary breeds,0
+2025,MNE,Transboundary breeds,0
+2020,MNG,Transboundary breeds,3
+2021,MNG,Transboundary breeds,3
+2022,MNG,Transboundary breeds,3
+2023,MNG,Transboundary breeds,3
+2024,MNG,Transboundary breeds,3
+2025,MNG,Transboundary breeds,3
+2022,MNP,Transboundary breeds,10
+2023,MNP,Transboundary breeds,10
+2024,MNP,Transboundary breeds,10
+2025,MNP,Transboundary breeds,10
+2020,MOZ,Transboundary breeds,4
+2021,MOZ,Transboundary breeds,4
+2022,MOZ,Transboundary breeds,4
+2023,MOZ,Transboundary breeds,4
+2024,MOZ,Transboundary breeds,4
+2025,MOZ,Transboundary breeds,4
+2020,MUS,Transboundary breeds,0
+2021,MUS,Transboundary breeds,0
+2022,MUS,Transboundary breeds,0
+2023,MUS,Transboundary breeds,0
+2024,MUS,Transboundary breeds,0
+2025,MUS,Transboundary breeds,0
+2020,MWI,Transboundary breeds,0
+2021,MWI,Transboundary breeds,0
+2022,MWI,Transboundary breeds,0
+2023,MWI,Transboundary breeds,0
+2024,MWI,Transboundary breeds,0
+2025,MWI,Transboundary breeds,0
+2000,MYS,Transboundary breeds,0
+2001,MYS,Transboundary breeds,0
+2002,MYS,Transboundary breeds,0
+2003,MYS,Transboundary breeds,0
+2004,MYS,Transboundary breeds,0
+2005,MYS,Transboundary breeds,0
+2006,MYS,Transboundary breeds,0
+2007,MYS,Transboundary breeds,0
+2008,MYS,Transboundary breeds,0
+2009,MYS,Transboundary breeds,0
+2010,MYS,Transboundary breeds,0
+2011,MYS,Transboundary breeds,0
+2012,MYS,Transboundary breeds,0
+2013,MYS,Transboundary breeds,0
+2014,MYS,Transboundary breeds,0
+2015,MYS,Transboundary breeds,0
+2016,MYS,Transboundary breeds,0
+2017,MYS,Transboundary breeds,0
+2018,MYS,Transboundary breeds,0
+2019,MYS,Transboundary breeds,0
+2020,MYS,Transboundary breeds,0
+2021,MYS,Transboundary breeds,0
+2022,MYS,Transboundary breeds,0
+2023,MYS,Transboundary breeds,0
+2024,MYS,Transboundary breeds,0
+2025,MYS,Transboundary breeds,0
+2020,NAM,Transboundary breeds,0
+2021,NAM,Transboundary breeds,0
+2022,NAM,Transboundary breeds,0
+2023,NAM,Transboundary breeds,0
+2024,NAM,Transboundary breeds,0
+2025,NAM,Transboundary breeds,0
+2025,NGA,Transboundary breeds,0
+2017,NIC,Transboundary breeds,0
+2018,NIC,Transboundary breeds,0
+2019,NIC,Transboundary breeds,0
+2020,NIC,Transboundary breeds,0
+2021,NIC,Transboundary breeds,0
+2022,NIC,Transboundary breeds,0
+2023,NIC,Transboundary breeds,0
+2000,NLD,Transboundary breeds,6
+2001,NLD,Transboundary breeds,6
+2002,NLD,Transboundary breeds,11
+2003,NLD,Transboundary breeds,11
+2004,NLD,Transboundary breeds,12
+2005,NLD,Transboundary breeds,12
+2006,NLD,Transboundary breeds,12
+2007,NLD,Transboundary breeds,12
+2008,NLD,Transboundary breeds,12
+2009,NLD,Transboundary breeds,15
+2010,NLD,Transboundary breeds,15
+2011,NLD,Transboundary breeds,16
+2012,NLD,Transboundary breeds,18
+2013,NLD,Transboundary breeds,19
+2014,NLD,Transboundary breeds,19
+2015,NLD,Transboundary breeds,20
+2016,NLD,Transboundary breeds,19
+2017,NLD,Transboundary breeds,21
+2018,NLD,Transboundary breeds,21
+2019,NLD,Transboundary breeds,21
+2020,NLD,Transboundary breeds,21
+2021,NLD,Transboundary breeds,21
+2022,NLD,Transboundary breeds,22
+2023,NLD,Transboundary breeds,22
+2024,NLD,Transboundary breeds,23
+2025,NLD,Transboundary breeds,23
+2011,NOR,Transboundary breeds,0
+2012,NOR,Transboundary breeds,0
+2013,NOR,Transboundary breeds,0
+2014,NOR,Transboundary breeds,0
+2015,NOR,Transboundary breeds,0
+2016,NOR,Transboundary breeds,0
+2017,NOR,Transboundary breeds,0
+2018,NOR,Transboundary breeds,1
+2019,NOR,Transboundary breeds,1
+2020,NOR,Transboundary breeds,8
+2021,NOR,Transboundary breeds,8
+2022,NOR,Transboundary breeds,10
+2023,NOR,Transboundary breeds,10
+2024,NOR,Transboundary breeds,10
+2025,NOR,Transboundary breeds,10
+2020,PAN,Transboundary breeds,1
+2021,PAN,Transboundary breeds,0
+2022,PAN,Transboundary breeds,0
+2023,PAN,Transboundary breeds,0
+2024,PAN,Transboundary breeds,0
+2025,PAN,Transboundary breeds,0
+2021,PER,Transboundary breeds,0
+2022,PER,Transboundary breeds,0
+2023,PER,Transboundary breeds,0
+2024,PER,Transboundary breeds,0
+2025,PER,Transboundary breeds,0
+2012,PHL,Transboundary breeds,0
+2013,PHL,Transboundary breeds,0
+2014,PHL,Transboundary breeds,0
+2015,PHL,Transboundary breeds,0
+2016,PHL,Transboundary breeds,0
+2017,PHL,Transboundary breeds,0
+2018,PHL,Transboundary breeds,0
+2019,PHL,Transboundary breeds,0
+2020,PHL,Transboundary breeds,0
+2021,PHL,Transboundary breeds,0
+2022,PHL,Transboundary breeds,1
+2023,PHL,Transboundary breeds,1
+2024,PHL,Transboundary breeds,1
+2025,PHL,Transboundary breeds,1
+2020,PLW,Transboundary breeds,0
+2021,PLW,Transboundary breeds,0
+2022,PLW,Transboundary breeds,0
+2023,PLW,Transboundary breeds,0
+2024,PLW,Transboundary breeds,0
+2025,PLW,Transboundary breeds,0
+2014,POL,Transboundary breeds,0
+2015,POL,Transboundary breeds,0
+2016,POL,Transboundary breeds,0
+2017,POL,Transboundary breeds,1
+2018,POL,Transboundary breeds,1
+2019,POL,Transboundary breeds,1
+2020,POL,Transboundary breeds,1
+2021,POL,Transboundary breeds,0
+2022,POL,Transboundary breeds,0
+2023,POL,Transboundary breeds,0
+2024,POL,Transboundary breeds,0
+2025,POL,Transboundary breeds,0
+2022,PRI,Transboundary breeds,0
+2023,PRI,Transboundary breeds,0
+2024,PRI,Transboundary breeds,0
+2025,PRI,Transboundary breeds,0
+2021,PRT,Transboundary breeds,6
+2022,PRT,Transboundary breeds,6
+2023,PRT,Transboundary breeds,6
+2024,PRT,Transboundary breeds,6
+2025,PRT,Transboundary breeds,6
+2020,PRY,Transboundary breeds,0
+2021,PRY,Transboundary breeds,0
+2022,PRY,Transboundary breeds,0
+2023,PRY,Transboundary breeds,0
+2024,PRY,Transboundary breeds,0
+2025,PRY,Transboundary breeds,0
+2024,PSE,Transboundary breeds,0
+2025,PSE,Transboundary breeds,0
+2024,QAT,Transboundary breeds,0
+2025,QAT,Transboundary breeds,0
+2020,ROU,Transboundary breeds,3
+2021,ROU,Transboundary breeds,3
+2022,ROU,Transboundary breeds,3
+2023,ROU,Transboundary breeds,3
+2024,ROU,Transboundary breeds,3
+2025,ROU,Transboundary breeds,3
+2024,RWA,Transboundary breeds,0
+2025,RWA,Transboundary breeds,0
+2020,SDN,Transboundary breeds,0
+2021,SDN,Transboundary breeds,0
+2022,SDN,Transboundary breeds,0
+2023,SDN,Transboundary breeds,0
+2024,SDN,Transboundary breeds,0
+2025,SDN,Transboundary breeds,0
+2020,SEN,Transboundary breeds,0
+2021,SEN,Transboundary breeds,0
+2022,SEN,Transboundary breeds,0
+2023,SEN,Transboundary breeds,0
+2024,SEN,Transboundary breeds,0
+2025,SEN,Transboundary breeds,0
+2020,SLV,Transboundary breeds,0
+2021,SLV,Transboundary breeds,0
+2022,SLV,Transboundary breeds,0
+2023,SLV,Transboundary breeds,0
+2024,SLV,Transboundary breeds,0
+2025,SLV,Transboundary breeds,0
+2020,SRB,Transboundary breeds,0
+2021,SRB,Transboundary breeds,0
+2022,SRB,Transboundary breeds,0
+2023,SRB,Transboundary breeds,0
+2024,SRB,Transboundary breeds,0
+2025,SRB,Transboundary breeds,0
+2020,SUR,Transboundary breeds,0
+2021,SUR,Transboundary breeds,0
+2022,SUR,Transboundary breeds,0
+2023,SUR,Transboundary breeds,0
+2024,SUR,Transboundary breeds,0
+2025,SUR,Transboundary breeds,0
+2021,SVK,Transboundary breeds,0
+2022,SVK,Transboundary breeds,0
+2023,SVK,Transboundary breeds,0
+2024,SVK,Transboundary breeds,0
+2025,SVK,Transboundary breeds,0
+2001,SVN,Transboundary breeds,0
+2002,SVN,Transboundary breeds,0
+2003,SVN,Transboundary breeds,0
+2004,SVN,Transboundary breeds,0
+2005,SVN,Transboundary breeds,0
+2006,SVN,Transboundary breeds,0
+2007,SVN,Transboundary breeds,0
+2008,SVN,Transboundary breeds,0
+2009,SVN,Transboundary breeds,0
+2010,SVN,Transboundary breeds,0
+2011,SVN,Transboundary breeds,0
+2012,SVN,Transboundary breeds,0
+2013,SVN,Transboundary breeds,0
+2014,SVN,Transboundary breeds,0
+2015,SVN,Transboundary breeds,0
+2016,SVN,Transboundary breeds,0
+2017,SVN,Transboundary breeds,0
+2018,SVN,Transboundary breeds,0
+2019,SVN,Transboundary breeds,0
+2020,SVN,Transboundary breeds,0
+2021,SVN,Transboundary breeds,0
+2022,SVN,Transboundary breeds,0
+2023,SVN,Transboundary breeds,0
+2024,SVN,Transboundary breeds,0
+2025,SVN,Transboundary breeds,0
+2007,SWE,Transboundary breeds,0
+2008,SWE,Transboundary breeds,0
+2009,SWE,Transboundary breeds,0
+2010,SWE,Transboundary breeds,0
+2011,SWE,Transboundary breeds,0
+2012,SWE,Transboundary breeds,0
+2013,SWE,Transboundary breeds,0
+2014,SWE,Transboundary breeds,0
+2015,SWE,Transboundary breeds,0
+2016,SWE,Transboundary breeds,0
+2017,SWE,Transboundary breeds,0
+2018,SWE,Transboundary breeds,0
+2019,SWE,Transboundary breeds,0
+2020,SWE,Transboundary breeds,0
+2021,SWE,Transboundary breeds,0
+2022,SWE,Transboundary breeds,0
+2023,SWE,Transboundary breeds,0
+2024,SWE,Transboundary breeds,0
+2025,SWE,Transboundary breeds,0
+2020,SWZ,Transboundary breeds,0
+2021,SWZ,Transboundary breeds,0
+2022,SWZ,Transboundary breeds,0
+2023,SWZ,Transboundary breeds,0
+2024,SWZ,Transboundary breeds,0
+2025,SWZ,Transboundary breeds,0
+2020,SYC,Transboundary breeds,0
+2021,SYC,Transboundary breeds,0
+2022,SYC,Transboundary breeds,0
+2023,SYC,Transboundary breeds,0
+2024,SYC,Transboundary breeds,0
+2025,SYC,Transboundary breeds,0
+2020,TGO,Transboundary breeds,0
+2021,TGO,Transboundary breeds,0
+2022,TGO,Transboundary breeds,0
+2023,TGO,Transboundary breeds,0
+2024,TGO,Transboundary breeds,0
+2025,TGO,Transboundary breeds,0
+2020,THA,Transboundary breeds,0
+2021,THA,Transboundary breeds,0
+2022,THA,Transboundary breeds,0
+2023,THA,Transboundary breeds,0
+2024,THA,Transboundary breeds,0
+2025,THA,Transboundary breeds,0
+2020,TON,Transboundary breeds,0
+2021,TON,Transboundary breeds,0
+2022,TON,Transboundary breeds,0
+2023,TON,Transboundary breeds,0
+2024,TON,Transboundary breeds,0
+2025,TON,Transboundary breeds,0
+2020,TUN,Transboundary breeds,0
+2021,TUN,Transboundary breeds,0
+2022,TUN,Transboundary breeds,0
+2023,TUN,Transboundary breeds,0
+2024,TUN,Transboundary breeds,0
+2025,TUN,Transboundary breeds,0
+2010,TUR,Transboundary breeds,0
+2011,TUR,Transboundary breeds,0
+2012,TUR,Transboundary breeds,0
+2013,TUR,Transboundary breeds,0
+2014,TUR,Transboundary breeds,0
+2015,TUR,Transboundary breeds,0
+2016,TUR,Transboundary breeds,0
+2017,TUR,Transboundary breeds,0
+2018,TUR,Transboundary breeds,0
+2019,TUR,Transboundary breeds,0
+2020,TUR,Transboundary breeds,0
+2021,TUR,Transboundary breeds,0
+2022,TUR,Transboundary breeds,0
+2023,TUR,Transboundary breeds,0
+2024,TUR,Transboundary breeds,1
+2025,TUR,Transboundary breeds,1
+2020,TZA,Transboundary breeds,0
+2021,TZA,Transboundary breeds,0
+2022,TZA,Transboundary breeds,0
+2023,TZA,Transboundary breeds,0
+2024,TZA,Transboundary breeds,0
+2025,TZA,Transboundary breeds,0
+2020,UGA,Transboundary breeds,2
+2021,UGA,Transboundary breeds,2
+2022,UGA,Transboundary breeds,2
+2023,UGA,Transboundary breeds,2
+2024,UGA,Transboundary breeds,2
+2025,UGA,Transboundary breeds,2
+2003,UKR,Transboundary breeds,0
+2004,UKR,Transboundary breeds,0
+2005,UKR,Transboundary breeds,0
+2006,UKR,Transboundary breeds,0
+2007,UKR,Transboundary breeds,0
+2008,UKR,Transboundary breeds,0
+2009,UKR,Transboundary breeds,0
+2010,UKR,Transboundary breeds,0
+2011,UKR,Transboundary breeds,0
+2012,UKR,Transboundary breeds,0
+2013,UKR,Transboundary breeds,0
+2014,UKR,Transboundary breeds,0
+2015,UKR,Transboundary breeds,0
+2016,UKR,Transboundary breeds,0
+2017,UKR,Transboundary breeds,0
+2018,UKR,Transboundary breeds,0
+2019,UKR,Transboundary breeds,0
+2020,UKR,Transboundary breeds,0
+2021,UKR,Transboundary breeds,0
+2022,UKR,Transboundary breeds,0
+2023,UKR,Transboundary breeds,0
+2024,UKR,Transboundary breeds,0
+2025,UKR,Transboundary breeds,0
+2020,UNKNOWN,Transboundary breeds,306
+2021,UNKNOWN,Transboundary breeds,362
+2022,UNKNOWN,Transboundary breeds,422
+2023,UNKNOWN,Transboundary breeds,462
+2024,UNKNOWN,Transboundary breeds,502
+2025,UNKNOWN,Transboundary breeds,515
+2020,URY,Transboundary breeds,0
+2021,URY,Transboundary breeds,0
+2022,URY,Transboundary breeds,0
+2023,URY,Transboundary breeds,0
+2024,URY,Transboundary breeds,0
+2025,URY,Transboundary breeds,0
+2018,USA,Transboundary breeds,1
+2019,USA,Transboundary breeds,39
+2020,USA,Transboundary breeds,39
+2021,USA,Transboundary breeds,39
+2022,USA,Transboundary breeds,61
+2023,USA,Transboundary breeds,61
+2024,USA,Transboundary breeds,82
+2025,USA,Transboundary breeds,82
+2022,VIR,Transboundary breeds,1
+2023,VIR,Transboundary breeds,1
+2024,VIR,Transboundary breeds,1
+2025,VIR,Transboundary breeds,1
+2002,VNM,Transboundary breeds,0
+2003,VNM,Transboundary breeds,0
+2004,VNM,Transboundary breeds,0
+2005,VNM,Transboundary breeds,0
+2006,VNM,Transboundary breeds,0
+2007,VNM,Transboundary breeds,0
+2008,VNM,Transboundary breeds,0
+2009,VNM,Transboundary breeds,0
+2010,VNM,Transboundary breeds,0
+2011,VNM,Transboundary breeds,0
+2012,VNM,Transboundary breeds,0
+2013,VNM,Transboundary breeds,0
+2014,VNM,Transboundary breeds,0
+2015,VNM,Transboundary breeds,0
+2016,VNM,Transboundary breeds,0
+2017,VNM,Transboundary breeds,0
+2018,VNM,Transboundary breeds,0
+2019,VNM,Transboundary breeds,0
+2020,VNM,Transboundary breeds,0
+2021,VNM,Transboundary breeds,0
+2022,VNM,Transboundary breeds,0
+2023,VNM,Transboundary breeds,0
+2024,VNM,Transboundary breeds,0
+2025,VNM,Transboundary breeds,0
+2020,YEM,Transboundary breeds,0
+2021,YEM,Transboundary breeds,0
+2022,YEM,Transboundary breeds,0
+2023,YEM,Transboundary breeds,0
+2024,YEM,Transboundary breeds,0
+2025,YEM,Transboundary breeds,0
+2019,ZAF,Transboundary breeds,24
+2020,ZAF,Transboundary breeds,25
+2021,ZAF,Transboundary breeds,25
+2022,ZAF,Transboundary breeds,25
+2023,ZAF,Transboundary breeds,25
+2024,ZAF,Transboundary breeds,24
+2025,ZAF,Transboundary breeds,7
+2025,ZMB,Transboundary breeds,0
+2018,ZWE,Transboundary breeds,1
+2019,ZWE,Transboundary breeds,1
+2020,ZWE,Transboundary breeds,1
+2021,ZWE,Transboundary breeds,1
+2022,ZWE,Transboundary breeds,1
+2023,ZWE,Transboundary breeds,1
+2024,ZWE,Transboundary breeds,1
+2025,ZWE,Transboundary breeds,1
