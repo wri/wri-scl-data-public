@@ -1351,22 +1351,6 @@ year,geo,disagg,value
 2023,UKR,Total,0
 2024,UKR,Total,0
 2025,UKR,Total,0
-2010,UNKNOWN,Total,8
-2011,UNKNOWN,Total,9
-2012,UNKNOWN,Total,11
-2013,UNKNOWN,Total,14
-2014,UNKNOWN,Total,38
-2015,UNKNOWN,Total,53
-2016,UNKNOWN,Total,54
-2017,UNKNOWN,Total,108
-2018,UNKNOWN,Total,152
-2019,UNKNOWN,Total,159
-2020,UNKNOWN,Total,880
-2021,UNKNOWN,Total,1075
-2022,UNKNOWN,Total,1187
-2023,UNKNOWN,Total,1285
-2024,UNKNOWN,Total,1400
-2025,UNKNOWN,Total,1503
 2020,URY,Total,1
 2021,URY,Total,1
 2022,URY,Total,1
@@ -2378,22 +2362,6 @@ year,geo,disagg,value
 2023,UKR,Local breeds,0
 2024,UKR,Local breeds,0
 2025,UKR,Local breeds,0
-2010,UNKNOWN,Local breeds,8
-2011,UNKNOWN,Local breeds,9
-2012,UNKNOWN,Local breeds,11
-2013,UNKNOWN,Local breeds,14
-2014,UNKNOWN,Local breeds,38
-2015,UNKNOWN,Local breeds,53
-2016,UNKNOWN,Local breeds,54
-2017,UNKNOWN,Local breeds,108
-2018,UNKNOWN,Local breeds,152
-2019,UNKNOWN,Local breeds,159
-2020,UNKNOWN,Local breeds,574
-2021,UNKNOWN,Local breeds,713
-2022,UNKNOWN,Local breeds,765
-2023,UNKNOWN,Local breeds,823
-2024,UNKNOWN,Local breeds,898
-2025,UNKNOWN,Local breeds,988
 2020,URY,Local breeds,1
 2021,URY,Local breeds,1
 2022,URY,Local breeds,1
@@ -3295,12 +3263,6 @@ year,geo,disagg,value
 2023,UKR,Transboundary breeds,0
 2024,UKR,Transboundary breeds,0
 2025,UKR,Transboundary breeds,0
-2020,UNKNOWN,Transboundary breeds,306
-2021,UNKNOWN,Transboundary breeds,362
-2022,UNKNOWN,Transboundary breeds,422
-2023,UNKNOWN,Transboundary breeds,462
-2024,UNKNOWN,Transboundary breeds,502
-2025,UNKNOWN,Transboundary breeds,515
 2020,URY,Transboundary breeds,0
 2021,URY,Transboundary breeds,0
 2022,URY,Transboundary breeds,0
