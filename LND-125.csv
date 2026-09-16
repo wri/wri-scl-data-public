@@ -1,32 +1,60 @@
 year,geo,disagg,value
-1990,WLD,Total,386
-1991,WLD,Total,414
-1992,WLD,Total,480
-1993,WLD,Total,590
-1994,WLD,Total,549
-1995,WLD,Total,634
-1996,WLD,Total,635
-1997,WLD,Total,542
-1998,WLD,Total,660
-1999,WLD,Total,698
-2000,WLD,Total,769
-2001,WLD,Total,766
-2002,WLD,Total,875
-2003,WLD,Total,863
-2004,WLD,Total,810
-2005,WLD,Total,892
-2006,WLD,Total,1019
-2007,WLD,Total,1165
-2008,WLD,Total,1280
-2009,WLD,Total,1278
-2010,WLD,Total,1480
-2011,WLD,Total,1586
-2012,WLD,Total,1699
-2013,WLD,Total,1880
-2014,WLD,Total,1757
-2015,WLD,Total,1686
-2016,WLD,Total,1767
-2017,WLD,Total,1613
+1990,WLD,Total,618
+1991,WLD,Total,664
+1992,WLD,Total,747
+1993,WLD,Total,862
+1994,WLD,Total,816
+1995,WLD,Total,925
+1996,WLD,Total,944
+1997,WLD,Total,832
+1998,WLD,Total,1018
+1999,WLD,Total,1066
+2000,WLD,Total,1166
+2001,WLD,Total,1126
+2002,WLD,Total,1270
+2003,WLD,Total,1255
+2004,WLD,Total,1197
+2005,WLD,Total,1336
+2006,WLD,Total,1502
+2007,WLD,Total,1752
+2008,WLD,Total,1875
+2009,WLD,Total,1897
+2010,WLD,Total,2160
+2011,WLD,Total,2306
+2012,WLD,Total,2583
+2013,WLD,Total,2839
+2014,WLD,Total,2617
+2015,WLD,Total,2592
+2016,WLD,Total,2669
+2017,WLD,Total,2491
+1990,WLD,Prevention and recycling,231
+1991,WLD,Prevention and recycling,250
+1992,WLD,Prevention and recycling,267
+1993,WLD,Prevention and recycling,271
+1994,WLD,Prevention and recycling,267
+1995,WLD,Prevention and recycling,290
+1996,WLD,Prevention and recycling,309
+1997,WLD,Prevention and recycling,290
+1998,WLD,Prevention and recycling,357
+1999,WLD,Prevention and recycling,369
+2000,WLD,Prevention and recycling,397
+2001,WLD,Prevention and recycling,359
+2002,WLD,Prevention and recycling,395
+2003,WLD,Prevention and recycling,392
+2004,WLD,Prevention and recycling,387
+2005,WLD,Prevention and recycling,444
+2006,WLD,Prevention and recycling,484
+2007,WLD,Prevention and recycling,586
+2008,WLD,Prevention and recycling,595
+2009,WLD,Prevention and recycling,619
+2010,WLD,Prevention and recycling,680
+2011,WLD,Prevention and recycling,720
+2012,WLD,Prevention and recycling,884
+2013,WLD,Prevention and recycling,959
+2014,WLD,Prevention and recycling,860
+2015,WLD,Prevention and recycling,906
+2016,WLD,Prevention and recycling,902
+2017,WLD,Prevention and recycling,879
 1990,WLD,"Waste prevention (reuse, repair, reduction, durability)",169
 1991,WLD,"Waste prevention (reuse, repair, reduction, durability)",146
 1992,WLD,"Waste prevention (reuse, repair, reduction, durability)",168

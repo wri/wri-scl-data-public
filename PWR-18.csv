@@ -25,33 +25,33 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2023,WLD,Total,39,,,,
 2024,WLD,Total,41,,,,
 2025,WLD,Total,43,,,,
-2026,WLD,Total,,43.6,51.2,51.4,51.6
-2027,WLD,Total,,44.2,61.9,62.6,63.3
-2028,WLD,Total,,44.8,73.1,74.3,75.4
-2029,WLD,Total,,,82.5,84,85.5
-2030,WLD,Total,,,88,89.5,91
-2031,WLD,Total,,,90.5,91.6,92.8
-2032,WLD,Total,,,92.3,93.1,93.8
-2033,WLD,Total,,,93.7,94.1,94.5
-2034,WLD,Total,,,94.9,95,95.1
-2035,WLD,Total,,,96,96,96
-2036,WLD,Total,,,97,97.1,97.1
-2037,WLD,Total,,,97.8,97.9,98
-2038,WLD,Total,,,98.4,98.5,98.6
-2039,WLD,Total,,,98.7,98.9,99.1
-2040,WLD,Total,,,98.9,99.1,99.4
-2041,WLD,Total,,,98.9,99.3,99.6
-2042,WLD,Total,,,98.9,99.3,99.7
-2043,WLD,Total,,,98.7,99.3,99.8
-2044,WLD,Total,,,98.6,99.2,99.8
-2045,WLD,Total,,,98.5,99.1,99.7
-2046,WLD,Total,,,98.4,99,99.7
-2047,WLD,Total,,,98.3,99,99.6
-2048,WLD,Total,,,98.4,99.1,99.7
-2049,WLD,Total,,,98.6,99.2,99.8
-2050,WLD,Total,,,99,99.5,100
+2026,WLD,Total,,,59.9,61.3,62.9
+2027,WLD,Total,,,69.0,70.7,72.5
+2028,WLD,Total,,,76.9,78.6,80.3
+2029,WLD,Total,,,83.2,84.8,86.4
+2030,WLD,Total,,,88.0,89.5,91.0
+2031,WLD,Total,,,90.3,91.5,92.7
+2032,WLD,Total,,,92.4,93.3,94.2
+2033,WLD,Total,,,93.9,94.5,95.1
+2034,WLD,Total,,,95.2,95.5,95.8
+2035,WLD,Total,,,96.0,96.0,96.0
+2036,WLD,Total,,,96.4,96.5,96.6
+2037,WLD,Total,,,96.9,97.0,97.1
+2038,WLD,Total,,,97.3,97.4,97.5
+2039,WLD,Total,,,97.6,97.8,98.0
+2040,WLD,Total,,,97.9,98.1,98.3
+2041,WLD,Total,,,98.2,98.4,98.6
+2042,WLD,Total,,,98.3,98.6,98.9
+2043,WLD,Total,,,98.5,98.8,99.1
+2044,WLD,Total,,,98.6,99.0,99.3
+2045,WLD,Total,,,98.7,99.1,99.5
+2046,WLD,Total,,,98.8,99.2,99.6
+2047,WLD,Total,,,98.8,99.3,99.7
+2048,WLD,Total,,,98.9,99.4,99.9
+2049,WLD,Total,,,99.0,99.5,100.0
+2050,WLD,Total,,,99.0,99.5,100.0
 2000,WLD,Solar,0.007,,,,
-2000,WLD,Wind,0.2,,,,
+2000,WLD,Wind,0.20,,,,
 2000,WLD,Hydro,17,,,,
 2000,WLD,Other renewables,0.29,,,,
 2000,WLD,Nuclear,17,,,,
@@ -106,7 +106,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2010,WLD,Other renewables,0.28,,,,
 2010,WLD,Nuclear,13,,,,
 2011,WLD,Solar,0.29,,,,
-2011,WLD,Wind,2,,,,
+2011,WLD,Wind,2.0,,,,
 2011,WLD,Hydro,16,,,,
 2011,WLD,Other renewables,0.28,,,,
 2011,WLD,Nuclear,12,,,,
@@ -121,14 +121,14 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2013,WLD,Other renewables,0.28,,,,
 2013,WLD,Nuclear,11,,,,
 2014,WLD,Solar,0.83,,,,
-2014,WLD,Wind,3,,,,
+2014,WLD,Wind,3.0,,,,
 2014,WLD,Hydro,16,,,,
 2014,WLD,Other renewables,0.29,,,,
 2014,WLD,Nuclear,11,,,,
 2015,WLD,Solar,1.1,,,,
 2015,WLD,Wind,3.5,,,,
 2015,WLD,Hydro,16,,,,
-2015,WLD,Other renewables,0.3,,,,
+2015,WLD,Other renewables,0.30,,,,
 2015,WLD,Nuclear,11,,,,
 2016,WLD,Solar,1.3,,,,
 2016,WLD,Wind,3.9,,,,
@@ -151,7 +151,7 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2019,WLD,Other renewables,0.31,,,,
 2019,WLD,Nuclear,10,,,,
 2020,WLD,Solar,3.2,,,,
-2020,WLD,Wind,6,,,,
+2020,WLD,Wind,6.0,,,,
 2020,WLD,Hydro,16,,,,
 2020,WLD,Other renewables,0.32,,,,
 2020,WLD,Nuclear,9.9,,,,
@@ -163,18 +163,18 @@ year,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,WLD,Solar,4.6,,,,
 2022,WLD,Wind,7.3,,,,
 2022,WLD,Hydro,15,,,,
-2022,WLD,Other renewables,0.3,,,,
+2022,WLD,Other renewables,0.30,,,,
 2022,WLD,Nuclear,9.1,,,,
 2023,WLD,Solar,5.6,,,,
 2023,WLD,Wind,7.8,,,,
 2023,WLD,Hydro,14,,,,
-2023,WLD,Other renewables,0.3,,,,
+2023,WLD,Other renewables,0.30,,,,
 2023,WLD,Nuclear,9.1,,,,
 2024,WLD,Solar,6.9,,,,
 2024,WLD,Wind,8.1,,,,
 2024,WLD,Hydro,14,,,,
 2024,WLD,Other renewables,0.29,,,,
-2024,WLD,Nuclear,9,,,,
+2024,WLD,Nuclear,9.0,,,,
 2025,WLD,Solar,8.8,,,,
 2025,WLD,Wind,8.5,,,,
 2025,WLD,Hydro,14,,,,
