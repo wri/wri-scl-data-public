@@ -1,4 +1,4 @@
-year,geo,disagg,disagg_type,value
+year,geo,disagg_type,disagg,value
 2020,WLD,Total,All,19
 2024,WLD,Total,All,23
 2020,WLD,Gender,Male,19
