@@ -1,374 +1,580 @@
-year,geo,disagg_type,disagg,value
-1990,WLD,All,Total,11530200215
-1991,WLD,All,Total,143995053572
-1992,WLD,All,Total,5337199176
-1993,WLD,All,Total,75456015339
-1994,WLD,All,Total,13725318447
-1995,WLD,All,Total,12227727536
-1996,WLD,All,Total,6597236956
-1997,WLD,All,Total,1804167300
-1998,WLD,All,Total,12888961193
-1999,WLD,All,Total,294791063938
-2000,WLD,All,Total,398782375330
-2001,WLD,All,Total,353025461118
-2002,WLD,All,Total,868201812104
-2003,WLD,All,Total,702626340608
-2004,WLD,All,Total,572807135667
-2005,WLD,All,Total,736554178887
-2006,WLD,All,Total,53365640014
-2007,WLD,All,Total,98358872839
-2008,WLD,All,Total,9336126933
-2009,WLD,All,Total,53949989679
-2010,WLD,All,Total,71224812640
-2011,WLD,All,Total,223403077100
-2012,WLD,All,Total,137387470210
-2013,WLD,All,Total,260699015534
-2014,WLD,All,Total,136767193204
-2015,WLD,All,Total,9363346473
-2016,WLD,All,Total,29451170606
-2017,WLD,All,Total,81809934039
-2018,WLD,All,Total,19129270671
-2019,WLD,All,Total,11140327106
-2020,WLD,All,Total,721608474
-1990,WLD,Management Type,Knowledge funding,6372575
-1990,WLD,Management Type,Mixed,693721
-1990,WLD,Management Type,NA,10709597406
-1990,WLD,Management Type,Post-invasion management,813536512
-1991,WLD,Management Type,Knowledge funding,3819281
-1991,WLD,Management Type,Mixed,421997416
-1991,WLD,Management Type,NA,143476468281
-1991,WLD,Management Type,Post-invasion management,67625201
-1991,WLD,Management Type,Pre-invasion management,25143393
-1992,WLD,Management Type,Knowledge funding,20165661
-1992,WLD,Management Type,Mixed,2241458
-1992,WLD,Management Type,NA,2824938524
-1992,WLD,Management Type,Post-invasion management,2246155085
-1992,WLD,Management Type,Pre-invasion management,243698449
-1993,WLD,Management Type,Knowledge funding,71248338
-1993,WLD,Management Type,Mixed,12606514
-1993,WLD,Management Type,NA,68046328220
-1993,WLD,Management Type,Post-invasion management,7324539293
-1993,WLD,Management Type,Pre-invasion management,1292976
-1994,WLD,Management Type,Mixed,19296
-1994,WLD,Management Type,NA,13703801334
-1994,WLD,Management Type,Post-invasion management,21497817
-1995,WLD,Management Type,Knowledge funding,10214
-1995,WLD,Management Type,Mixed,61286598
-1995,WLD,Management Type,NA,10770060004
-1995,WLD,Management Type,Post-invasion management,1396370719
-1996,WLD,Management Type,Knowledge funding,793884
-1996,WLD,Management Type,NA,5484016441
-1996,WLD,Management Type,Post-invasion management,1112116629
-1996,WLD,Management Type,Unspecified,310001
-1997,WLD,Management Type,Knowledge funding,6981747
-1997,WLD,Management Type,Mixed,27479
-1997,WLD,Management Type,NA,147364784
-1997,WLD,Management Type,Post-invasion management,1649793290
-1998,WLD,Management Type,Knowledge funding,6912331
-1998,WLD,Management Type,Mixed,16981
-1998,WLD,Management Type,NA,12415304902
-1998,WLD,Management Type,Post-invasion management,441536447
-1998,WLD,Management Type,Pre-invasion management,25190532
-1999,WLD,Management Type,Knowledge funding,665119831
-1999,WLD,Management Type,Mixed,36929354
-1999,WLD,Management Type,NA,293190886671
-1999,WLD,Management Type,Post-invasion management,377644381
-1999,WLD,Management Type,Pre-invasion management,520284802
-1999,WLD,Management Type,Unspecified,198900
-2000,WLD,Management Type,Knowledge funding,306855046
-2000,WLD,Management Type,Mixed,22741940
-2000,WLD,Management Type,NA,357006215817
-2000,WLD,Management Type,Post-invasion management,6387064997
-2000,WLD,Management Type,Pre-invasion management,584097761
-2000,WLD,Management Type,Unspecified,34475399770
-2001,WLD,Management Type,Knowledge funding,1041680434
-2001,WLD,Management Type,Mixed,148557
-2001,WLD,Management Type,NA,351849946025
-2001,WLD,Management Type,Post-invasion management,131751219
-2001,WLD,Management Type,Unspecified,1934883
-2002,WLD,Management Type,Knowledge funding,52602044
-2002,WLD,Management Type,Mixed,502927425
-2002,WLD,Management Type,NA,831522959255
-2002,WLD,Management Type,Post-invasion management,34889567235
-2002,WLD,Management Type,Pre-invasion management,1232900784
-2002,WLD,Management Type,Unspecified,855361
-2003,WLD,Management Type,Knowledge funding,38324481
-2003,WLD,Management Type,Mixed,35025
-2003,WLD,Management Type,NA,700882049070
-2003,WLD,Management Type,Post-invasion management,1430619619
-2003,WLD,Management Type,Pre-invasion management,1147286
-2003,WLD,Management Type,Unspecified,274165128
-2004,WLD,Management Type,Knowledge funding,211223833
-2004,WLD,Management Type,Mixed,28025
-2004,WLD,Management Type,NA,569840118182
-2004,WLD,Management Type,Post-invasion management,1607593241
-2004,WLD,Management Type,Pre-invasion management,1148172386
-2005,WLD,Management Type,Knowledge funding,214715093
-2005,WLD,Management Type,Mixed,32334932
-2005,WLD,Management Type,NA,695353090871
-2005,WLD,Management Type,Post-invasion management,9085811073
-2005,WLD,Management Type,Pre-invasion management,564574466
-2005,WLD,Management Type,Unspecified,31303652451
-2006,WLD,Management Type,Knowledge funding,19288027
-2006,WLD,Management Type,Mixed,1948690547
-2006,WLD,Management Type,NA,50353927274
-2006,WLD,Management Type,Post-invasion management,1043734165
-2007,WLD,Management Type,Knowledge funding,5544054
-2007,WLD,Management Type,Mixed,3706136
-2007,WLD,Management Type,NA,90683538144
-2007,WLD,Management Type,Post-invasion management,7655948841
-2007,WLD,Management Type,Pre-invasion management,7205538
-2007,WLD,Management Type,Unspecified,2930126
-2008,WLD,Management Type,Knowledge funding,18595291
-2008,WLD,Management Type,Mixed,61770143
-2008,WLD,Management Type,NA,8385176526
-2008,WLD,Management Type,Post-invasion management,757821306
-2008,WLD,Management Type,Pre-invasion management,109383473
-2008,WLD,Management Type,Unspecified,3380196
-2009,WLD,Management Type,Knowledge funding,19801885
-2009,WLD,Management Type,Mixed,316410991
-2009,WLD,Management Type,NA,44455305670
-2009,WLD,Management Type,Post-invasion management,9149034244
-2009,WLD,Management Type,Pre-invasion management,2422682
-2009,WLD,Management Type,Unspecified,7014209
-2010,WLD,Management Type,Knowledge funding,69875862
-2010,WLD,Management Type,Mixed,85162716
-2010,WLD,Management Type,NA,64345617903
-2010,WLD,Management Type,Post-invasion management,4953131252
-2010,WLD,Management Type,Pre-invasion management,1703334129
-2010,WLD,Management Type,Unspecified,67690777
-2011,WLD,Management Type,Knowledge funding,4071453
-2011,WLD,Management Type,Mixed,585617200
-2011,WLD,Management Type,NA,221552036974
-2011,WLD,Management Type,Post-invasion management,774525224
-2011,WLD,Management Type,Pre-invasion management,464680050
-2011,WLD,Management Type,Unspecified,22146198
-2012,WLD,Management Type,Knowledge funding,1393957
-2012,WLD,Management Type,Mixed,13559377
-2012,WLD,Management Type,NA,126467372581
-2012,WLD,Management Type,Post-invasion management,10853119265
-2012,WLD,Management Type,Pre-invasion management,50869560
-2012,WLD,Management Type,Unspecified,1155470
-2013,WLD,Management Type,Knowledge funding,29608617
-2013,WLD,Management Type,Mixed,31100361
-2013,WLD,Management Type,NA,257207565153
-2013,WLD,Management Type,Post-invasion management,3387982738
-2013,WLD,Management Type,Pre-invasion management,42758664
-2014,WLD,Management Type,Knowledge funding,3888113
-2014,WLD,Management Type,Mixed,8616915
-2014,WLD,Management Type,NA,131314164187
-2014,WLD,Management Type,Post-invasion management,5427806599
-2014,WLD,Management Type,Pre-invasion management,12717390
-2015,WLD,Management Type,Knowledge funding,1999324
-2015,WLD,Management Type,Mixed,92714012
-2015,WLD,Management Type,NA,6254169935
-2015,WLD,Management Type,Post-invasion management,2946365722
-2015,WLD,Management Type,Pre-invasion management,15798991
-2015,WLD,Management Type,Unspecified,52298489
-2016,WLD,Management Type,Knowledge funding,8282779
-2016,WLD,Management Type,Mixed,378022
-2016,WLD,Management Type,NA,28187560625
-2016,WLD,Management Type,Post-invasion management,1242102775
-2016,WLD,Management Type,Pre-invasion management,12846404
-2017,WLD,Management Type,Knowledge funding,22526769
-2017,WLD,Management Type,Mixed,456709689
-2017,WLD,Management Type,NA,49842905777
-2017,WLD,Management Type,Post-invasion management,30844285654
-2017,WLD,Management Type,Pre-invasion management,640795244
-2017,WLD,Management Type,Unspecified,2710906
-2018,WLD,Management Type,Knowledge funding,14260133
-2018,WLD,Management Type,Mixed,2265418
-2018,WLD,Management Type,NA,11907637885
-2018,WLD,Management Type,Post-invasion management,7163117858
-2018,WLD,Management Type,Pre-invasion management,10169528
-2018,WLD,Management Type,Unspecified,31819848
-2019,WLD,Management Type,Knowledge funding,2760375
-2019,WLD,Management Type,Mixed,2466313
-2019,WLD,Management Type,NA,9190621567
-2019,WLD,Management Type,Post-invasion management,1704399179
-2019,WLD,Management Type,Pre-invasion management,6766250
-2019,WLD,Management Type,Unspecified,233313422
-2020,WLD,Management Type,Knowledge funding,2430497
-2020,WLD,Management Type,Mixed,945327
-2020,WLD,Management Type,NA,448129093
-2020,WLD,Management Type,Post-invasion management,261068488
-2020,WLD,Management Type,Pre-invasion management,9035068
-1990,WLD,Kingdom,Animalia,10404070078
-1990,WLD,Kingdom,Diverse/Unspecified,4765128
-1990,WLD,Kingdom,Plantae,1121365008
-1991,WLD,Kingdom,Animalia,143293386822
-1991,WLD,Kingdom,Diverse/Unspecified,10602042
-1991,WLD,Kingdom,Plantae,691064708
-1992,WLD,Kingdom,Animalia,5050685066
-1992,WLD,Kingdom,Animalia/Plantae,243112747
-1992,WLD,Kingdom,Diverse/Unspecified,585702
-1992,WLD,Kingdom,Plantae,42815661
-1993,WLD,Kingdom,Animalia,6684822376
-1993,WLD,Kingdom,Bacteria,1908678
-1993,WLD,Kingdom,Chromista,25856029
-1993,WLD,Kingdom,Diverse/Unspecified,448153475
-1993,WLD,Kingdom,Fungi,215495959
-1993,WLD,Kingdom,Plantae,68079778821
-1994,WLD,Kingdom,Animalia,601278033
-1994,WLD,Kingdom,Diverse/Unspecified,12601188902
-1994,WLD,Kingdom,Plantae,522851513
-1995,WLD,Kingdom,Animalia,12187830057
-1995,WLD,Kingdom,Plantae,39887264
-1995,WLD,Kingdom,Unspecified,10214
-1996,WLD,Kingdom,Animalia,5178212150
-1996,WLD,Kingdom,Diverse/Unspecified,357247923
-1996,WLD,Kingdom,Fungi,194873763
-1996,WLD,Kingdom,Plantae,729733094
-1996,WLD,Kingdom,Viruses,137170026
-1997,WLD,Kingdom,Animalia,1566249160
-1997,WLD,Kingdom,Diverse/Unspecified,81841588
-1997,WLD,Kingdom,Plantae,121006873
-1997,WLD,Kingdom,Viruses,35069679
-1998,WLD,Kingdom,Animalia,9118303034
-1998,WLD,Kingdom,Diverse/Unspecified,948
-1998,WLD,Kingdom,Plantae,3122487615
-1998,WLD,Kingdom,Viruses,75250657
-1998,WLD,Kingdom,Unspecified,572918938
-1999,WLD,Kingdom,Animalia,3055959044
-1999,WLD,Kingdom,Bacteria,131908892
-1999,WLD,Kingdom,Diverse/Unspecified,284089331127
-1999,WLD,Kingdom,Plantae,7513864875
-2000,WLD,Kingdom,Animalia,112159823874
-2000,WLD,Kingdom,Bacteria,113361210
-2000,WLD,Kingdom,Chromista,15641137
-2000,WLD,Kingdom,Diverse/Unspecified,267500177691
-2000,WLD,Kingdom,Fungi,19656199
-2000,WLD,Kingdom,Plantae,18955089263
-2000,WLD,Kingdom,Viruses,3046288
-2000,WLD,Kingdom,Unspecified,15579669
-2001,WLD,Kingdom,Animalia,88212117463
-2001,WLD,Kingdom,Animalia/Plantae,242618551440
-2001,WLD,Kingdom,Bacteria,8351001
-2001,WLD,Kingdom,Diverse/Unspecified,4798694311
-2001,WLD,Kingdom,Fungi,10047038728
-2001,WLD,Kingdom,Plantae,5260904164
-2001,WLD,Kingdom,Viruses,2079367765
-2001,WLD,Kingdom,Unspecified,436245
-2002,WLD,Kingdom,Animalia,48736333988
-2002,WLD,Kingdom,Bacteria,22498537
-2002,WLD,Kingdom,Diverse/Unspecified,809083460255
-2002,WLD,Kingdom,Fungi,8280505
-2002,WLD,Kingdom,Plantae,10351156440
-2002,WLD,Kingdom,Unspecified,82379
-2003,WLD,Kingdom,Animalia,3061900015
-2003,WLD,Kingdom,Bacteria,85035120
-2003,WLD,Kingdom,Diverse/Unspecified,697908806865
-2003,WLD,Kingdom,Fungi,6219131
-2003,WLD,Kingdom,Plantae,1291121293
-2003,WLD,Kingdom,Viruses,272738766
-2003,WLD,Kingdom,Unspecified,519417
-2004,WLD,Kingdom,Animalia,49650145388
-2004,WLD,Kingdom,Animalia/Plantae,33865
-2004,WLD,Kingdom,Diverse/Unspecified,495118389631
-2004,WLD,Kingdom,Orthornavirae,274686200
-2004,WLD,Kingdom,Plantae,1393534946
-2004,WLD,Kingdom,Viruses,26369875232
-2004,WLD,Kingdom,Unspecified,470406
-2005,WLD,Kingdom,Animalia,250881295323
-2005,WLD,Kingdom,Animalia/Plantae,23114187840
-2005,WLD,Kingdom,Bacteria,19434617
-2005,WLD,Kingdom,Chromista,153
-2005,WLD,Kingdom,Diverse/Unspecified,78703855256
-2005,WLD,Kingdom,Plantae,65027595560
-2005,WLD,Kingdom,Unspecified,318807810137
-2006,WLD,Kingdom,Animalia,23465141621
-2006,WLD,Kingdom,Animalia/Plantae,79305652
-2006,WLD,Kingdom,Bacteria,1210287283
-2006,WLD,Kingdom,Chromista,88589153
-2006,WLD,Kingdom,Diverse/Unspecified,2365965941
-2006,WLD,Kingdom,Fungi,3370806616
-2006,WLD,Kingdom,Plantae,18901848637
-2006,WLD,Kingdom,Viruses,3727862021
-2006,WLD,Kingdom,Unspecified,155833091
-2007,WLD,Kingdom,Animalia,89971324964
-2007,WLD,Kingdom,Bacteria,20781985
-2007,WLD,Kingdom,Diverse/Unspecified,7056533904
-2007,WLD,Kingdom,Plantae,1309443812
-2007,WLD,Kingdom,Unspecified,788174
-2008,WLD,Kingdom,Animalia,3489676725
-2008,WLD,Kingdom,Chromista,309852375
-2008,WLD,Kingdom,Diverse/Unspecified,20187557
-2008,WLD,Kingdom,Fungi,4707005769
-2008,WLD,Kingdom,Plantae,737940873
-2008,WLD,Kingdom,Viruses,70874525
-2008,WLD,Kingdom,Unspecified,589110
-2009,WLD,Kingdom,Animalia,40647508324
-2009,WLD,Kingdom,Animalia/Plantae,71042
-2009,WLD,Kingdom,Bacteria,47925621
-2009,WLD,Kingdom,Diverse/Unspecified,19381665
-2009,WLD,Kingdom,Fungi,7752527
-2009,WLD,Kingdom,Plantae,13208286506
-2009,WLD,Kingdom,Viruses,18278784
-2009,WLD,Kingdom,Unspecified,785210
-2010,WLD,Kingdom,Animalia,37819130461
-2010,WLD,Kingdom,Animalia/Plantae,8817023
-2010,WLD,Kingdom,Bacteria,12
-2010,WLD,Kingdom,Chromista,18781489
-2010,WLD,Kingdom,Diverse/Unspecified,16947642262
-2010,WLD,Kingdom,Fungi,262487001
-2010,WLD,Kingdom,Plantae,11167885967
-2010,WLD,Kingdom,Viruses,4285915043
-2010,WLD,Kingdom,Unspecified,714153382
-2011,WLD,Kingdom,Animalia,163642961258
-2011,WLD,Kingdom,Animalia/Plantae,337116
-2011,WLD,Kingdom,Chromista,250429413
-2011,WLD,Kingdom,Diverse/Unspecified,29907231128
-2011,WLD,Kingdom,Fungi,1235734135
-2011,WLD,Kingdom,Ortharnavirae,11131536
-2011,WLD,Kingdom,Plantae,28216742120
-2011,WLD,Kingdom,Viruses,29058
-2011,WLD,Kingdom,Unspecified,138481335
-2012,WLD,Kingdom,Animalia,101030759809
-2012,WLD,Kingdom,Animalia/Plantae,455733943
-2012,WLD,Kingdom,Diverse/Unspecified,29329599985
-2012,WLD,Kingdom,Fungi,41197400
-2012,WLD,Kingdom,Plantae,6530125116
-2012,WLD,Kingdom,Viruses,26277
-2012,WLD,Kingdom,Unspecified,27680
-2013,WLD,Kingdom,Animalia,18643710210
-2013,WLD,Kingdom,Animalia/Fungi,7436
-2013,WLD,Kingdom,Animalia/Plantae,1581287421
-2013,WLD,Kingdom,Bacteria,432790167
-2013,WLD,Kingdom,Diverse/Unspecified,240025759998
-2013,WLD,Kingdom,Fungi,217725
-2013,WLD,Kingdom,Plantae,15206951
-2013,WLD,Kingdom,Viruses,26771
-2013,WLD,Kingdom,Unspecified,8854
-2014,WLD,Kingdom,Animalia,107819899644
-2014,WLD,Kingdom,Bacteria,137283271
-2014,WLD,Kingdom,Diverse/Unspecified,23289056637
-2014,WLD,Kingdom,Plantae,5362890610
-2014,WLD,Kingdom,Unspecified,158063043
-2015,WLD,Kingdom,Animalia,6382607291
-2015,WLD,Kingdom,Animalia/Plantae,4722
-2015,WLD,Kingdom,Diverse/Unspecified,2610928101
-2015,WLD,Kingdom,Plantae,369806359
-2016,WLD,Kingdom,Animalia,23103297513
-2016,WLD,Kingdom,Diverse/Unspecified,18866119
-2016,WLD,Kingdom,Fungi,12921
-2016,WLD,Kingdom,Plantae,5873288506
-2016,WLD,Kingdom,Viruses,454982398
-2016,WLD,Kingdom,Unspecified,723148
-2017,WLD,Kingdom,Animalia,78507818086
-2017,WLD,Kingdom,Bacteria,6095488
-2017,WLD,Kingdom,Diverse/Unspecified,1635817493
-2017,WLD,Kingdom,Fungi,4308530
-2017,WLD,Kingdom,Plantae,1655894442
-2018,WLD,Kingdom,Animalia,13928120373
-2018,WLD,Kingdom,Bacteria,512361165
-2018,WLD,Kingdom,Diverse/Unspecified,13886866
-2018,WLD,Kingdom,Plantae,4674793771
-2018,WLD,Kingdom,Unspecified,108496
-2019,WLD,Kingdom,Animalia,6268224277
-2019,WLD,Kingdom,Diverse/Unspecified,1242033209
-2019,WLD,Kingdom,Fungi,2681416524
-2019,WLD,Kingdom,Plantae,948653097
-2020,WLD,Kingdom,Animalia,491854286
-2020,WLD,Kingdom,Diverse/Unspecified,18696506
-2020,WLD,Kingdom,Plantae,6181388
-2020,WLD,Kingdom,Unspecified,204876294
+year,geo,disagg,value
+2017,ARG,Aquatic,67
+1976,AUS,Aquatic,0.0044
+1979,AUS,Aquatic,0.018
+1996,AUS,Aquatic,43
+1999,BEN,Aquatic,18
+2010,BRA,Aquatic,0.77
+1980,CAN,Aquatic,350
+2000,CAN,Aquatic,55
+2002,CAN,Aquatic,14
+2006,CAN,Aquatic,46
+2009,CAN,Aquatic,1.4
+2011,CHL,Aquatic,0.011
+1993,CHN,Aquatic,0.59
+2000,CHN,Aquatic,150
+2002,CHN,Aquatic,120
+2003,CHN,Aquatic,3400
+2005,CHN,Aquatic,110
+2008,CHN,Aquatic,0.33
+2009,CHN,Aquatic,130
+2012,CHN,Aquatic,1400
+2019,CHN,Aquatic,20
+2010,COL,Aquatic,16
+2001,ESP,Aquatic,0.012
+2002,ESP,Aquatic,0.47
+2003,ESP,Aquatic,0.79
+2004,ESP,Aquatic,0.88
+2005,ESP,Aquatic,0.68
+2009,ESP,Aquatic,0.76
+2012,ESP,Aquatic,3.2
+2015,ESP,Aquatic,0.00017
+2016,ESP,Aquatic,0.00017
+2017,ESP,Aquatic,0.00017
+2018,ESP,Aquatic,0.00017
+2005,FRA,Aquatic,0.00039
+2009,FRA,Aquatic,4.4
+2010,FRA,Aquatic,0.75
+2011,FRA,Aquatic,0.84
+2012,FRA,Aquatic,5.6
+2013,FRA,Aquatic,0.33
+2018,FRA,Aquatic,0.3
+2005,GBR,Aquatic,1.9
+2008,GBR,Aquatic,49
+2010,GBR,Aquatic,31
+1984,IND,Aquatic,57
+1988,IND,Aquatic,11
+1994,IND,Aquatic,83
+1998,IND,Aquatic,180
+2007,ISR,Aquatic,0.059
+2002,ITA,Aquatic,2.3
+2010,ITA,Aquatic,0.03
+2014,ITA,Aquatic,0.9
+2020,JAM,Aquatic,0.29
+2003,JPN,Aquatic,0.000036
+2005,JPN,Aquatic,0.000088
+2014,JPN,Aquatic,1.5
+1987,LKA,Aquatic,0.044
+1998,MEX,Aquatic,580
+2007,MEX,Aquatic,4.7
+2009,MEX,Aquatic,6.8
+2014,MEX,Aquatic,3.9
+2020,NLD,Aquatic,0.53
+2007,NOR,Aquatic,73
+2008,NZL,Aquatic,8
+2017,NZL,Aquatic,1.7
+1990,PHL,Aquatic,210
+2010,PRT,Aquatic,0.3
+2016,PRT,Aquatic,1.2
+1999,RUS,Aquatic,0.025
+2006,SWE,Aquatic,0.33
+2018,TUN,Aquatic,0.00037
+2011,TUR,Aquatic,3.1
+2015,TUR,Aquatic,2.4
+2006,URY,Aquatic,0.027
+1980,USA,Aquatic,13
+1984,USA,Aquatic,260
+1986,USA,Aquatic,2200
+1991,USA,Aquatic,35
+1993,USA,Aquatic,3500
+1997,USA,Aquatic,30
+2000,USA,Aquatic,1600
+2001,USA,Aquatic,530
+2002,USA,Aquatic,1400
+2003,USA,Aquatic,0.072
+2004,USA,Aquatic,7.6
+2005,USA,Aquatic,8200
+2006,USA,Aquatic,0.8
+2008,USA,Aquatic,1400
+2011,USA,Aquatic,70
+2012,USA,Aquatic,150
+2013,USA,Aquatic,1.7
+2000,ZAF,Aquatic,0.011
+2008,ZMB,Aquatic,0.54
+2018,ARG,Aquatic/Terrestrial,21
+2004,BRA,Aquatic/Terrestrial,55000
+2003,CAN,Aquatic/Terrestrial,7100
+2016,CHL,Aquatic/Terrestrial,0.21
+2000,CHN,Aquatic/Terrestrial,21000
+2002,CHN,Aquatic/Terrestrial,94000
+2003,CHN,Aquatic/Terrestrial,9300
+2004,CHN,Aquatic/Terrestrial,38000
+2005,CHN,Aquatic/Terrestrial,18000
+2012,CHN,Aquatic/Terrestrial,21000
+1996,DEU,Aquatic/Terrestrial,2.1
+2018,ECU,Aquatic/Terrestrial,3
+2015,ESP,Aquatic/Terrestrial,0.0075
+2016,ESP,Aquatic/Terrestrial,0.014
+2017,ESP,Aquatic/Terrestrial,0.011
+2018,ESP,Aquatic/Terrestrial,0.012
+2009,FRA,Aquatic/Terrestrial,0.46
+2010,FRA,Aquatic/Terrestrial,0.51
+2011,FRA,Aquatic/Terrestrial,0.51
+2012,FRA,Aquatic/Terrestrial,1.7
+2013,FRA,Aquatic/Terrestrial,14
+2010,GBR,Aquatic/Terrestrial,4.9
+2012,GBR,Aquatic/Terrestrial,80
+2004,IND,Aquatic/Terrestrial,120000
+2012,IRL,Aquatic/Terrestrial,280
+2004,ITA,Aquatic/Terrestrial,0.36
+2009,MEX,Aquatic/Terrestrial,0.5
+2002,NZL,Aquatic/Terrestrial,1400
+2013,NZL,Aquatic/Terrestrial,2800
+2005,SYC,Aquatic/Terrestrial,0.29
+2010,SYC,Aquatic/Terrestrial,2.3
+1994,USA,Aquatic/Terrestrial,9900
+1996,USA,Aquatic/Terrestrial,360
+1997,USA,Aquatic/Terrestrial,64
+2000,USA,Aquatic/Terrestrial,180000
+2001,USA,Aquatic/Terrestrial,190000
+2002,USA,Aquatic/Terrestrial,99000
+2004,USA,Aquatic/Terrestrial,180000
+2013,USA,Aquatic/Terrestrial,150000
+2014,USA,Aquatic/Terrestrial,14
+2010,ZAF,Aquatic/Terrestrial,1000
+2006,AUS,Diverse/Unspecified,110000
+2012,AUS,Diverse/Unspecified,28000
+2019,AUS,Diverse/Unspecified,2700
+2019,BEL,Diverse/Unspecified,0.12
+2006,CAN,Diverse/Unspecified,250
+2011,CAN,Diverse/Unspecified,33000
+2006,CUB,Diverse/Unspecified,3.7
+1998,ECU,Diverse/Unspecified,13
+2017,ESP,Diverse/Unspecified,0.0097
+2010,FIN,Diverse/Unspecified,59
+2014,FJI,Diverse/Unspecified,6.3
+2009,FRA,Diverse/Unspecified,0.86
+2010,FRA,Diverse/Unspecified,0.94
+2011,FRA,Diverse/Unspecified,0.92
+2012,FRA,Diverse/Unspecified,0.87
+2013,FRA,Diverse/Unspecified,1.2
+2010,GBR,Diverse/Unspecified,6.3
+2018,IDN,Diverse/Unspecified,14
+2001,IND,Diverse/Unspecified,130000
+2006,LKA,Diverse/Unspecified,1.3
+2006,NZL,Diverse/Unspecified,1900
+2018,SLB,Diverse/Unspecified,5.4
+2006,SYC,Diverse/Unspecified,1.7
+1991,USA,Diverse/Unspecified,50
+1995,USA,Diverse/Unspecified,1000
+1996,USA,Diverse/Unspecified,3600
+2001,USA,Diverse/Unspecified,57000
+2004,USA,Diverse/Unspecified,130
+2007,USA,Diverse/Unspecified,83000
+2008,USA,Diverse/Unspecified,200000
+2014,USA,Diverse/Unspecified,30
+2017,USA,Diverse/Unspecified,140000
+1986,CHN,Semi-aquatic,71
+2000,CHN,Semi-aquatic,94
+2004,CHN,Semi-aquatic,6.1
+2005,CHN,Semi-aquatic,46
+2007,CHN,Semi-aquatic,170
+2002,DEU,Semi-aquatic,150
+1994,FRA,Semi-aquatic,0.0045
+2010,GBR,Semi-aquatic,4.6
+2007,ITA,Semi-aquatic,3.1
+2010,ITA,Semi-aquatic,0.11
+2011,PAK,Semi-aquatic,270
+1992,USA,Semi-aquatic,3.5
+1996,USA,Semi-aquatic,70
+2000,USA,Semi-aquatic,64
+2005,USA,Semi-aquatic,56
+2008,USA,Semi-aquatic,57
+2012,USA,Semi-aquatic,0.034
+2017,AGO,Terrestrial,1.8
+2011,ALB,Terrestrial,11
+2004,ARG,Terrestrial,120
+2005,ARG,Terrestrial,34
+2009,ARG,Terrestrial,8.6
+2011,ARG,Terrestrial,17
+2016,ARG,Terrestrial,4200
+2017,ARG,Terrestrial,2300
+1970,AUS,Terrestrial,120
+1975,AUS,Terrestrial,110
+1978,AUS,Terrestrial,52
+1979,AUS,Terrestrial,45
+1980,AUS,Terrestrial,68
+1981,AUS,Terrestrial,50
+1984,AUS,Terrestrial,18
+1985,AUS,Terrestrial,12
+1986,AUS,Terrestrial,7.5
+1988,AUS,Terrestrial,220
+1989,AUS,Terrestrial,57
+1990,AUS,Terrestrial,220
+1991,AUS,Terrestrial,34
+1992,AUS,Terrestrial,1.5
+1993,AUS,Terrestrial,270
+1994,AUS,Terrestrial,450
+1995,AUS,Terrestrial,160
+1996,AUS,Terrestrial,760
+1998,AUS,Terrestrial,220
+2000,AUS,Terrestrial,820
+2001,AUS,Terrestrial,320
+2002,AUS,Terrestrial,34
+2003,AUS,Terrestrial,590
+2004,AUS,Terrestrial,500
+2005,AUS,Terrestrial,170
+2006,AUS,Terrestrial,3700
+2007,AUS,Terrestrial,5900
+2008,AUS,Terrestrial,0.0044
+2009,AUS,Terrestrial,590
+2012,AUS,Terrestrial,5.5
+2013,AUS,Terrestrial,25
+2014,AUS,Terrestrial,740
+2015,AUS,Terrestrial,120
+2016,AUS,Terrestrial,270
+2017,AUS,Terrestrial,650
+2018,AUS,Terrestrial,4100
+2019,AUS,Terrestrial,4200
+2011,AUT,Terrestrial,130
+2018,BEN,Terrestrial,160
+2011,BGR,Terrestrial,310
+2011,BIH,Terrestrial,130
+2011,BLR,Terrestrial,1.8
+2011,BLZ,Terrestrial,0.81
+2011,BOL,Terrestrial,44
+2001,BRA,Terrestrial,4000
+2010,BRA,Terrestrial,10
+2011,BRA,Terrestrial,960
+2014,BRA,Terrestrial,18000
+2015,BRA,Terrestrial,490
+2016,BRA,Terrestrial,240
+2017,BRA,Terrestrial,710
+2013,BRN,Terrestrial,0.67
+2013,BTN,Terrestrial,0.31
+1979,CAN,Terrestrial,1
+1995,CAN,Terrestrial,180
+1996,CAN,Terrestrial,0.54
+1999,CAN,Terrestrial,5700
+2000,CAN,Terrestrial,690
+2001,CAN,Terrestrial,7900
+2002,CAN,Terrestrial,15000
+2005,CAN,Terrestrial,520
+2006,CAN,Terrestrial,41
+2009,CAN,Terrestrial,34
+2011,CAN,Terrestrial,0.69
+2011,CHE,Terrestrial,7.4
+2011,CHL,Terrestrial,7.1
+2016,CHL,Terrestrial,97
+1985,CHN,Terrestrial,31
+1986,CHN,Terrestrial,45
+1987,CHN,Terrestrial,1.2
+1989,CHN,Terrestrial,43
+1991,CHN,Terrestrial,200
+1992,CHN,Terrestrial,30
+1996,CHN,Terrestrial,11
+1997,CHN,Terrestrial,22
+2000,CHN,Terrestrial,3100
+2001,CHN,Terrestrial,1600
+2002,CHN,Terrestrial,110
+2004,CHN,Terrestrial,26000
+2005,CHN,Terrestrial,0.35
+2006,CHN,Terrestrial,1000
+2007,CHN,Terrestrial,3900
+2008,CHN,Terrestrial,2.1
+2009,CHN,Terrestrial,93
+2011,CHN,Terrestrial,1.9
+2014,CHN,Terrestrial,15
+2015,CHN,Terrestrial,56
+2016,CHN,Terrestrial,0.49
+2017,CHN,Terrestrial,1.3
+2018,CMR,Terrestrial,180
+2018,COD,Terrestrial,90
+2009,COL,Terrestrial,3200
+2010,COL,Terrestrial,12000
+2011,COL,Terrestrial,230
+2012,COL,Terrestrial,1100
+2014,COL,Terrestrial,200
+2011,CRI,Terrestrial,12
+1981,CUB,Terrestrial,160
+2006,CUB,Terrestrial,4.5
+2011,CZE,Terrestrial,6.2
+1978,DEU,Terrestrial,23
+2002,DEU,Terrestrial,60
+2003,DEU,Terrestrial,14
+2007,DEU,Terrestrial,57
+2009,DEU,Terrestrial,0.24
+2011,DEU,Terrestrial,100
+2012,DEU,Terrestrial,19
+2007,DNK,Terrestrial,33
+2011,DNK,Terrestrial,0.15
+2012,DNK,Terrestrial,34
+1977,DOM,Terrestrial,28
+2011,DOM,Terrestrial,3.1
+2011,ECU,Terrestrial,66
+2013,ECU,Terrestrial,0.11
+1999,EGY,Terrestrial,150
+2015,EGY,Terrestrial,0.004
+2006,ESP,Terrestrial,5.3
+2011,ESP,Terrestrial,14
+2017,ESP,Terrestrial,0.87
+2018,ESP,Terrestrial,0.0022
+2016,ETH,Terrestrial,280
+2018,ETH,Terrestrial,350
+2008,FIN,Terrestrial,0.23
+2011,FIN,Terrestrial,0.46
+2013,FIN,Terrestrial,0.096
+2010,FJI,Terrestrial,1.2
+2012,FJI,Terrestrial,0.00023
+2017,FJI,Terrestrial,0.14
+2018,FJI,Terrestrial,0.42
+2000,FRA,Terrestrial,6.6
+2008,FRA,Terrestrial,14
+2009,FRA,Terrestrial,19
+2010,FRA,Terrestrial,110
+2011,FRA,Terrestrial,470
+2012,FRA,Terrestrial,40
+2013,FRA,Terrestrial,0.65
+2014,FRA,Terrestrial,15
+2015,FRA,Terrestrial,66
+2017,FRA,Terrestrial,46
+2018,FRA,Terrestrial,14
+2020,FRA,Terrestrial,9.3
+1986,GBR,Terrestrial,490
+1989,GBR,Terrestrial,6.5
+1990,GBR,Terrestrial,150
+1996,GBR,Terrestrial,28
+2001,GBR,Terrestrial,2000
+2004,GBR,Terrestrial,21000
+2005,GBR,Terrestrial,0.44
+2007,GBR,Terrestrial,0.15
+2010,GBR,Terrestrial,1600
+2011,GBR,Terrestrial,17
+2018,GHA,Terrestrial,170
+2010,GRC,Terrestrial,1.4
+2011,GRC,Terrestrial,27
+2012,GRC,Terrestrial,0.097
+2013,GRC,Terrestrial,0.11
+2016,GRC,Terrestrial,0.0024
+1996,GRD,Terrestrial,5.5
+1999,GRD,Terrestrial,6.7
+2003,GRD,Terrestrial,24
+2011,GTM,Terrestrial,38
+2011,HND,Terrestrial,20
+2011,HRV,Terrestrial,190
+2011,HUN,Terrestrial,920
+2012,HUN,Terrestrial,0.0000045
+2011,IDN,Terrestrial,5
+2013,IDN,Terrestrial,340
+1962,IND,Terrestrial,2.1
+2000,IND,Terrestrial,3.8
+2001,IND,Terrestrial,58000
+2002,IND,Terrestrial,550
+2004,IND,Terrestrial,64
+2006,IND,Terrestrial,3.3
+2007,IND,Terrestrial,17
+2008,IND,Terrestrial,130
+2009,IND,Terrestrial,0.00021
+2010,IND,Terrestrial,68
+2012,IND,Terrestrial,1300
+2014,IND,Terrestrial,1100
+2017,IND,Terrestrial,0.051
+2019,IND,Terrestrial,46
+2020,IND,Terrestrial,3.3
+1993,IRL,Terrestrial,20
+2018,IRN,Terrestrial,34
+2008,ITA,Terrestrial,5
+2011,ITA,Terrestrial,350
+2012,ITA,Terrestrial,2.7
+2013,ITA,Terrestrial,7.6
+2016,ITA,Terrestrial,1100
+2017,ITA,Terrestrial,16
+2018,ITA,Terrestrial,0.35
+1965,JPN,Terrestrial,0.97
+1985,JPN,Terrestrial,0.16
+1994,JPN,Terrestrial,0.5
+1995,JPN,Terrestrial,0.054
+1996,JPN,Terrestrial,0.2
+1997,JPN,Terrestrial,0.39
+1998,JPN,Terrestrial,0.15
+1999,JPN,Terrestrial,0.22
+2000,JPN,Terrestrial,2.3
+2001,JPN,Terrestrial,2.3
+2002,JPN,Terrestrial,2.5
+2003,JPN,Terrestrial,3.8
+2004,JPN,Terrestrial,4.8
+2005,JPN,Terrestrial,5
+2006,JPN,Terrestrial,15
+2007,JPN,Terrestrial,6
+2008,JPN,Terrestrial,7.1
+2009,JPN,Terrestrial,8.8
+2010,JPN,Terrestrial,11
+2011,JPN,Terrestrial,12
+2012,JPN,Terrestrial,12
+2013,JPN,Terrestrial,120
+2014,JPN,Terrestrial,8.6
+2015,JPN,Terrestrial,7.6
+2016,JPN,Terrestrial,8
+2017,JPN,Terrestrial,7.5
+2014,KEN,Terrestrial,0.0026
+2016,KEN,Terrestrial,300
+2018,KEN,Terrestrial,62
+2001,KHM,Terrestrial,0.43
+2010,KHM,Terrestrial,8.3
+2013,KHM,Terrestrial,17
+1999,KNA,Terrestrial,0.15
+2013,LAO,Terrestrial,5.4
+2011,MDA,Terrestrial,230
+2015,MDV,Terrestrial,2.5
+1992,MEX,Terrestrial,29
+2011,MEX,Terrestrial,320
+2012,MEX,Terrestrial,24
+2017,MEX,Terrestrial,4.8
+2018,MEX,Terrestrial,230
+2011,MKD,Terrestrial,4.2
+2018,MLI,Terrestrial,11
+2013,MMR,Terrestrial,15
+2011,MNE,Terrestrial,2
+2018,MOZ,Terrestrial,140
+2016,MWI,Terrestrial,120
+2018,MWI,Terrestrial,250
+2010,MYS,Terrestrial,150
+2012,MYS,Terrestrial,60
+2013,MYS,Terrestrial,130
+2017,NAM,Terrestrial,210
+2018,NER,Terrestrial,37
+2018,NGA,Terrestrial,1300
+2011,NIC,Terrestrial,16
+2012,NIC,Terrestrial,14
+2007,NLD,Terrestrial,160
+2009,NLD,Terrestrial,16
+2010,NLD,Terrestrial,1.3
+2014,NLD,Terrestrial,0.00041
+2006,NOR,Terrestrial,98
+2011,NOR,Terrestrial,0.15
+2020,NPL,Terrestrial,20
+1970,NZL,Terrestrial,0.2
+1984,NZL,Terrestrial,450
+1988,NZL,Terrestrial,11
+1989,NZL,Terrestrial,12
+1991,NZL,Terrestrial,210
+1999,NZL,Terrestrial,48
+2002,NZL,Terrestrial,0.13
+2004,NZL,Terrestrial,360
+2005,NZL,Terrestrial,0.00055
+2006,NZL,Terrestrial,79
+2012,NZL,Terrestrial,1700
+2014,NZL,Terrestrial,220
+2015,NZL,Terrestrial,170
+2016,NZL,Terrestrial,490
+2017,NZL,Terrestrial,8.7
+1978,PAK,Terrestrial,56
+1981,PAK,Terrestrial,4.4
+1983,PAK,Terrestrial,4.8
+1990,PAK,Terrestrial,9.9
+2019,PAK,Terrestrial,0.002
+2005,PAN,Terrestrial,15
+2011,PAN,Terrestrial,9.7
+2011,PER,Terrestrial,140
+2012,PER,Terrestrial,0.23
+2012,PHL,Terrestrial,6.4
+2013,PHL,Terrestrial,85
+2015,PHL,Terrestrial,71
+2016,PHL,Terrestrial,2.3
+2011,POL,Terrestrial,25
+2011,PRT,Terrestrial,1.5
+2018,PRT,Terrestrial,36
+2007,PRY,Terrestrial,3
+2011,PRY,Terrestrial,2.5
+2011,ROU,Terrestrial,1200
+2011,RUS,Terrestrial,400
+2014,RUS,Terrestrial,2
+2016,RUS,Terrestrial,260
+2016,RWA,Terrestrial,3
+2018,RWA,Terrestrial,20
+2018,SEN,Terrestrial,12
+2007,SGP,Terrestrial,16
+2011,SGP,Terrestrial,42
+2013,SGP,Terrestrial,71
+2011,SLV,Terrestrial,18
+2005,SRB,Terrestrial,5
+2011,SRB,Terrestrial,580
+2011,SUR,Terrestrial,1.5
+2011,SVK,Terrestrial,150
+2011,SVN,Terrestrial,27
+1978,SWE,Terrestrial,69
+2006,SWE,Terrestrial,180
+2007,SWE,Terrestrial,98
+2011,SWE,Terrestrial,1.7
+1980,THA,Terrestrial,19
+1994,THA,Terrestrial,13
+2007,THA,Terrestrial,0.0013
+2010,THA,Terrestrial,280
+2013,THA,Terrestrial,310
+2013,TLS,Terrestrial,0.38
+1999,TTO,Terrestrial,1100
+2011,TUR,Terrestrial,98
+2016,TZA,Terrestrial,140
+2018,TZA,Terrestrial,420
+2016,UGA,Terrestrial,180
+2018,UGA,Terrestrial,190
+2004,UKR,Terrestrial,0.3
+2011,UKR,Terrestrial,1500
+2011,URY,Terrestrial,1.5
+1962,USA,Terrestrial,1200
+1966,USA,Terrestrial,23
+1967,USA,Terrestrial,730
+1968,USA,Terrestrial,3500
+1974,USA,Terrestrial,17000
+1977,USA,Terrestrial,39
+1978,USA,Terrestrial,61000
+1979,USA,Terrestrial,2300
+1980,USA,Terrestrial,0.006
+1981,USA,Terrestrial,6000
+1982,USA,Terrestrial,320
+1985,USA,Terrestrial,1300
+1986,USA,Terrestrial,2500
+1988,USA,Terrestrial,360
+1989,USA,Terrestrial,1000
+1990,USA,Terrestrial,2100
+1991,USA,Terrestrial,93000
+1992,USA,Terrestrial,570
+1993,USA,Terrestrial,15000
+1994,USA,Terrestrial,400
+1995,USA,Terrestrial,4900
+1996,USA,Terrestrial,3100
+1997,USA,Terrestrial,250
+1998,USA,Terrestrial,8400
+1999,USA,Terrestrial,1800
+2000,USA,Terrestrial,86000
+2001,USA,Terrestrial,64000
+2002,USA,Terrestrial,12000
+2003,USA,Terrestrial,1400
+2004,USA,Terrestrial,8900
+2005,USA,Terrestrial,430000
+2006,USA,Terrestrial,140
+2007,USA,Terrestrial,7500
+2008,USA,Terrestrial,510
+2009,USA,Terrestrial,65
+2010,USA,Terrestrial,710
+2011,USA,Terrestrial,71000
+2012,USA,Terrestrial,1300
+2013,USA,Terrestrial,9000
+2014,USA,Terrestrial,260
+2015,USA,Terrestrial,3100
+2016,USA,Terrestrial,270
+2017,USA,Terrestrial,17000
+2019,USA,Terrestrial,1.7
+2020,USA,Terrestrial,2.2
+1999,VCT,Terrestrial,1.7
+1997,VEN,Terrestrial,6.5
+1998,VEN,Terrestrial,0.25
+1999,VEN,Terrestrial,0.42
+2000,VEN,Terrestrial,0.19
+2001,VEN,Terrestrial,0.45
+2002,VEN,Terrestrial,0.38
+2003,VEN,Terrestrial,0.064
+2006,VEN,Terrestrial,0.23
+2011,VEN,Terrestrial,130
+2011,VNM,Terrestrial,5.5
+2012,VNM,Terrestrial,67
+2013,VNM,Terrestrial,25
+2016,VNM,Terrestrial,41
+1998,ZAF,Terrestrial,2100
+2001,ZAF,Terrestrial,2800
+2002,ZAF,Terrestrial,74
+2017,ZAF,Terrestrial,23
+2017,ZMB,Terrestrial,3
+2018,ZMB,Terrestrial,160
+2017,ZWE,Terrestrial,0.0079
+2018,ZWE,Terrestrial,81
