@@ -1,16 +1,31 @@
-﻿year,geo,disagg,value
-2025,WLD,Total,25
-2025,WLD,Caribbean,50
-2025,WLD,Central America,0
-2025,WLD,Central Asia,0
-2025,WLD,Europe,8
-2025,WLD,Landlocked developing countries (LLDCs),60
-2025,WLD,Least Developed Countries (LDCs),100
-2025,WLD,Northern America,0
-2025,WLD,Oceania (exc. Australia and New Zealand),100
-2025,WLD,Small island developing States (SIDS),83
-2025,WLD,South America,43
-2025,WLD,South-Eastern Asia,50
-2025,WLD,Southern Asia,100
-2025,WLD,Sub-Saharan Africa,67
-2025,WLD,Western Asia,29
+﻿year,geo,disagg_type,disagg,value
+2025,WLD,Global funding access,Total,25
+2025,WLD,Global funding access,Caribbean,50
+2025,WLD,Global funding access,Central America,0
+2025,WLD,Global funding access,Central Asia,0
+2025,WLD,Global funding access,Europe,8
+2025,WLD,Global funding access,Landlocked developing countries (LLDCs),60
+2025,WLD,Global funding access,Least Developed Countries (LDCs),100
+2025,WLD,Global funding access,Northern America,0
+2025,WLD,Global funding access,Oceania (exc. Australia and New Zealand),100
+2025,WLD,Global funding access,Small island developing States (SIDS),83
+2025,WLD,Global funding access,South America,43
+2025,WLD,Global funding access,South-Eastern Asia,50
+2025,WLD,Global funding access,Southern Asia,100
+2025,WLD,Global funding access,Sub-Saharan Africa,67
+2025,WLD,Global funding access,Western Asia,29
+2025,WLD,National budget allocation,Total,67
+2025,WLD,National budget allocation,Caribbean,100
+2025,WLD,National budget allocation,Central America,0
+2025,WLD,National budget allocation,Central Asia,0
+2025,WLD,National budget allocation,Europe,73
+2025,WLD,National budget allocation,Landlocked developing countries (LLDCs),60
+2025,WLD,National budget allocation,Least Developed Countries (LDCs),50
+2025,WLD,National budget allocation,Northern America,100
+2025,WLD,National budget allocation,Oceania (exc. Australia and New Zealand),0
+2025,WLD,National budget allocation,Small island developing States (SIDS),50
+2025,WLD,National budget allocation,South America,71
+2025,WLD,National budget allocation,South-Eastern Asia,0
+2025,WLD,National budget allocation,Southern Asia,100
+2025,WLD,National budget allocation,Sub-Saharan Africa,67
+2025,WLD,National budget allocation,Western Asia,71
