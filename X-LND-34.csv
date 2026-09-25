@@ -1,7 +1,7 @@
 year,geo,disagg_type,disagg,value
 2013,WLD,All,Total,8.8
-2014,WLD,All,Total,11.1
-2015,WLD,All,Total,10.7
+2014,WLD,All,Total,11
+2015,WLD,All,Total,11
 2016,WLD,All,Total,12
 2017,WLD,All,Total,22
 2018,WLD,All,Total,19
@@ -13,9 +13,9 @@ year,geo,disagg_type,disagg,value
 2013,WLD,Investment,Private,0.018
 2013,WLD,Investment,Public,8.8
 2014,WLD,Investment,Private,0.006
-2014,WLD,Investment,Public,11.1
+2014,WLD,Investment,Public,11
 2015,WLD,Investment,Private,0.079
-2015,WLD,Investment,Public,10.6
+2015,WLD,Investment,Public,11
 2016,WLD,Investment,Private,0.021
 2016,WLD,Investment,Public,12
 2017,WLD,Investment,Private,0.14
@@ -42,20 +42,20 @@ year,geo,disagg_type,disagg,value
 2015,WLD,Uses,Mitigation,3.1
 2015,WLD,Uses,Dual benefits,2.3
 2016,WLD,Uses,Adaptation,6.1
-2016,WLD,Uses,Mitigation,3.0
-2016,WLD,Uses,Dual benefits,3.0
+2016,WLD,Uses,Mitigation,3
+2016,WLD,Uses,Dual benefits,3
 2017,WLD,Uses,Adaptation,7.2
 2017,WLD,Uses,Mitigation,4.7
 2017,WLD,Uses,Dual benefits,10
 2018,WLD,Uses,Adaptation,6.7
 2018,WLD,Uses,Mitigation,4.3
 2018,WLD,Uses,Dual benefits,7.6
-2019,WLD,Uses,Adaptation,4.0
-2019,WLD,Uses,Mitigation,7.0
-2019,WLD,Uses,Dual benefits,2.0
-2020,WLD,Uses,Adaptation,6.0
-2020,WLD,Uses,Mitigation,9.0
-2020,WLD,Uses,Dual benefits,2.0
+2019,WLD,Uses,Adaptation,4
+2019,WLD,Uses,Mitigation,7
+2019,WLD,Uses,Dual benefits,2
+2020,WLD,Uses,Adaptation,6
+2020,WLD,Uses,Mitigation,9
+2020,WLD,Uses,Dual benefits,2
 2021,WLD,Uses,Adaptation,7.3
 2021,WLD,Uses,Mitigation,6.3
 2021,WLD,Uses,Dual benefits,31
