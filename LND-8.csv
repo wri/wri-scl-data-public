@@ -1,4 +1,4 @@
-year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
+﻿year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2016,WLD,12,,,,
 2017,WLD,14,,,,
 2018,WLD,15,,,,
@@ -2115,6 +2115,15 @@ year,geo,value,projections,benchmark_low,benchmark_mid,benchmark_high
 2022,VEN,0.33,,,,
 2023,VEN,0.37,,,,
 2024,VEN,0.43,,,,
+2016,VIR,0.0000039,,,,
+2017,VIR,0.0000023,,,,
+2018,VIR,0.0000043,,,,
+2019,VIR,0.000004,,,,
+2020,VIR,0.000004,,,,
+2021,VIR,0.0000098,,,,
+2022,VIR,0.000021,,,,
+2023,VIR,0.000018,,,,
+2024,VIR,0.0000047,,,,
 2016,VGB,0.0000026,,,,
 2017,VGB,0.0000018,,,,
 2018,VGB,0.0000031,,,,
