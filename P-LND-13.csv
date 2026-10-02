@@ -1,72 +1,4 @@
 ﻿year,geo,disagg,value
-2019,WLD,Beef,22
-2020,WLD,Beef,26
-2021,WLD,Beef,25
-2022,WLD,Beef,24
-2023,WLD,Beef,31
-2024,WLD,Beef,38
-2025,WLD,Beef,33
-2015,WLD,Beef and leather,22
-2016,WLD,Beef and leather,23
-2017,WLD,Beef and leather,27
-2018,WLD,Beef and leather,19
-2024,WLD,Cocoa,35
-2025,WLD,Cocoa,42
-2024,WLD,Coffee,43
-2025,WLD,Coffee,33
-2019,WLD,Leather,22
-2020,WLD,Leather,23
-2021,WLD,Leather,22
-2022,WLD,Leather,22
-2023,WLD,Leather,24
-2024,WLD,Leather,30
-2025,WLD,Leather,31
-2015,WLD,Palm oil,29
-2016,WLD,Palm oil,32
-2017,WLD,Palm oil,37
-2018,WLD,Palm oil,30
-2019,WLD,Palm oil,33
-2020,WLD,Palm oil,39
-2021,WLD,Palm oil,36
-2022,WLD,Palm oil,35
-2023,WLD,Palm oil,37
-2024,WLD,Palm oil,50
-2025,WLD,Palm oil,59
-2025,WLD,Pulp and Paper,38
-2015,WLD,Pulp and paper,28
-2016,WLD,Pulp and paper,30
-2017,WLD,Pulp and paper,34
-2018,WLD,Pulp and paper,26
-2019,WLD,Pulp and paper,45
-2020,WLD,Pulp and paper,37
-2021,WLD,Pulp and paper,35
-2022,WLD,Pulp and paper,34
-2023,WLD,Pulp and paper,37
-2024,WLD,Pulp and paper,48
-2024,WLD,Rubber,33
-2025,WLD,Rubber,29
-2015,WLD,Soy,24
-2016,WLD,Soy,27
-2017,WLD,Soy,32
-2018,WLD,Soy,24
-2019,WLD,Soy,28
-2020,WLD,Soy,31
-2021,WLD,Soy,29
-2022,WLD,Soy,29
-2023,WLD,Soy,31
-2024,WLD,Soy,39
-2025,WLD,Soy,39
-2015,WLD,Timber,30
-2016,WLD,Timber,30
-2017,WLD,Timber,35
-2018,WLD,Timber,27
-2019,WLD,Timber,28
-2020,WLD,Timber,30
-2021,WLD,Timber,26
-2022,WLD,Timber,28
-2023,WLD,Timber,31
-2024,WLD,Timber,35
-2025,WLD,Timber,51
 2015,WLD,Total,28
 2016,WLD,Total,30
 2017,WLD,Total,34
@@ -78,3 +10,71 @@
 2023,WLD,Total,31
 2024,WLD,Total,35
 2025,WLD,Total,37
+2019,WLD,Beef,23
+2020,WLD,Beef,28
+2021,WLD,Beef,27
+2022,WLD,Beef,27
+2023,WLD,Beef,29
+2024,WLD,Beef,38
+2025,WLD,Beef,40
+2015,WLD,Beef and leather,22
+2016,WLD,Beef and leather,23
+2017,WLD,Beef and leather,27
+2018,WLD,Beef and leather,19
+2024,WLD,Cocoa,45
+2025,WLD,Cocoa,48
+2024,WLD,Coffee,43
+2025,WLD,Coffee,45
+2019,WLD,Leather,21
+2020,WLD,Leather,24
+2021,WLD,Leather,23
+2022,WLD,Leather,25
+2023,WLD,Leather,27
+2024,WLD,Leather,34
+2025,WLD,Leather,34
+2015,WLD,Palm oil,29
+2016,WLD,Palm oil,32
+2017,WLD,Palm oil,37
+2018,WLD,Palm oil,30
+2019,WLD,Palm oil,33
+2020,WLD,Palm oil,38
+2021,WLD,Palm oil,35
+2022,WLD,Palm oil,34
+2023,WLD,Palm oil,36
+2024,WLD,Palm oil,44
+2025,WLD,Palm oil,46
+2015,WLD,Pulp and paper,28
+2016,WLD,Pulp and paper,30
+2017,WLD,Pulp and paper,34
+2018,WLD,Pulp and paper,26
+2019,WLD,Pulp and paper,30
+2020,WLD,Pulp and paper,33
+2021,WLD,Pulp and paper,31
+2022,WLD,Pulp and paper,30
+2023,WLD,Pulp and paper,32
+2024,WLD,Pulp and paper,41
+2025,WLD,Pulp and paper,43
+2024,WLD,Rubber,39
+2025,WLD,Rubber,40
+2015,WLD,Soy,24
+2016,WLD,Soy,27
+2017,WLD,Soy,32
+2018,WLD,Soy,24
+2019,WLD,Soy,27
+2020,WLD,Soy,33
+2021,WLD,Soy,31
+2022,WLD,Soy,31
+2023,WLD,Soy,33
+2024,WLD,Soy,39
+2025,WLD,Soy,41
+2015,WLD,Timber,30
+2016,WLD,Timber,30
+2017,WLD,Timber,35
+2018,WLD,Timber,27
+2019,WLD,Timber,30
+2020,WLD,Timber,33
+2021,WLD,Timber,30
+2022,WLD,Timber,31
+2023,WLD,Timber,34
+2024,WLD,Timber,44
+2025,WLD,Timber,46
