@@ -1,5 +1,5 @@
 ﻿year,geo,disagg_type,disagg,value
-2025,WLD,Global funding access,Total,25
+2025,WLD,All,Global funding access,25
 2025,WLD,Global funding access,Caribbean,50
 2025,WLD,Global funding access,Central America,0
 2025,WLD,Global funding access,Central Asia,0
@@ -14,7 +14,7 @@
 2025,WLD,Global funding access,Southern Asia,100
 2025,WLD,Global funding access,Sub-Saharan Africa,67
 2025,WLD,Global funding access,Western Asia,29
-2025,WLD,National budget allocation,Total,67
+2025,WLD,All,National budget allocation,67
 2025,WLD,National budget allocation,Caribbean,100
 2025,WLD,National budget allocation,Central America,0
 2025,WLD,National budget allocation,Central Asia,0

@@ -1,2 +1,5 @@
-﻿year,geo,value
-2025,WLD,155
+﻿year,geo,disagg,value
+2025,WLD,Total,591
+2025,WLD,EICAT,548
+2025,WLD,SEICAT,10
+2025,WLD,Both EICAT and SEICAT,33
