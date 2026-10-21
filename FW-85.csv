@@ -1,4 +1,7 @@
 year,geo,disagg_type,disagg,value
+2020,WLD,Wastewater,Safely treated domestic wastewater flows,56
+2022,WLD,Wastewater,Safely treated domestic wastewater flows,58
+2024,WLD,Wastewater,Safely treated domestic wastewater flows,56
 2024,AFG,Wastewater,Safely treated domestic wastewater flows,6.1
 2020,ALB,Wastewater,Safely treated domestic wastewater flows,13
 2022,ALB,Wastewater,Safely treated domestic wastewater flows,19
@@ -66,6 +69,8 @@ year,geo,disagg_type,disagg,value
 2020,TCD,Wastewater,Safely treated domestic wastewater flows,2.3
 2022,TCD,Wastewater,Safely treated domestic wastewater flows,2.3
 2024,TCD,Wastewater,Safely treated domestic wastewater flows,2.3
+2020,CHI,Wastewater,Safely treated domestic wastewater flows,91
+2022,CHI,Wastewater,Safely treated domestic wastewater flows,94
 2020,CHL,Wastewater,Safely treated domestic wastewater flows,91
 2022,CHL,Wastewater,Safely treated domestic wastewater flows,89
 2024,CHL,Wastewater,Safely treated domestic wastewater flows,88
