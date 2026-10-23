@@ -1,5 +1,5 @@
 year,year_max,geo,disagg,value,projections,benchmark_low,benchmark_mid,benchmark_high
-2010,2019,WLD,Total,1267717,,,,
+2010,2019,WLD,Total,1.58,,,,
 2030,,WLD,Total,,,,0,
 2023,2025,WLD,Offshore infrastructure,0.28,,,,
 2023,2025,WLD,Vessels,1.3,,,,
