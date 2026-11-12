@@ -1,0 +1,42 @@
+# =============================================================================
+# File Type Check — runs on every PR.
+# Fails if the PR adds or changes any data file that is not a .csv
+# (e.g. .xlsx). The CSV Quality Check only triggers on .csv paths, so
+# without this a PR adding only an .xlsx would merge unchecked.
+#
+# Allowed non-CSV paths: .github/**, .gitignore
+# =============================================================================
+
+name: File Type Check
+
+on:
+  pull_request:
+
+jobs:
+  file-types:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Check out this repo (PR branch)
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Reject non-CSV data files
+        run: |
+          BAD=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD \
+            | grep -vE '\.csv$' \
+            | grep -vE '^\.github/' \
+            | grep -vxF '.gitignore' \
+            || true)
+
+          if [ -n "$BAD" ]; then
+            echo "Only .csv data files are allowed. Convert these to CSV or remove them:"
+            echo "$BAD" | while read -r f; do
+              echo "::error file=$f::Non-CSV file in PR: $f — only .csv data files are allowed."
+            done
+            exit 1
+          fi
+          echo "All changed data files are .csv."
