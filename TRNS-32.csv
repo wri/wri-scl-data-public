@@ -1,37 +1,189 @@
-year,geo,value
-2024,WLD,35
-2024,AUT,1
-2024,BEL,1
-2024,CAN,1
-2024,CHL,1
-2024,CPV,1
-2024,CRI,1
-2024,CYP,1
-2024,CZE,1
-2024,DEU,1
-2024,DNK,1
-2024,ESP,1
-2024,EST,1
-2024,FIN,1
-2024,FRA,1
-2024,GBR,1
-2024,GRC,1
-2024,HRV,1
-2024,HUN,1
-2024,IRL,1
-2024,ISL,1
-2024,ITA,1
-2024,LIE,1
-2024,LTU,1
-2024,LUX,1
-2024,LVA,1
-2024,MLT,1
-2024,NLD,1
-2024,NOR,1
-2024,POL,1
-2024,PRT,1
-2024,ROU,1
-2024,SGP,1
-2024,SVK,1
-2024,SVN,1
-2024,SWE,1
+year,geo,disagg,value
+2024,WLD,Total,35
+2025,WLD,Total,39
+2024,WLD,Cars & vans/light trucks,35
+2025,WLD,Cars & vans/light trucks,36
+2025,WLD,Medium- & heavy-duty trucks,5
+2025,WLD,Medium- & heavy-duty buses,32
+2024,AUT,Total,1
+2024,BEL,Total,1
+2024,CAN,Total,1
+2024,CHL,Total,1
+2024,CPV,Total,1
+2024,CRI,Total,1
+2024,CYP,Total,1
+2024,CZE,Total,1
+2024,DEU,Total,1
+2024,DNK,Total,1
+2024,ESP,Total,1
+2024,EST,Total,1
+2024,FIN,Total,1
+2024,FRA,Total,1
+2024,GBR,Total,1
+2024,GRC,Total,1
+2024,HRV,Total,1
+2024,HUN,Total,1
+2024,IRL,Total,1
+2024,ISL,Total,1
+2024,ITA,Total,1
+2024,LIE,Total,1
+2024,LTU,Total,1
+2024,LUX,Total,1
+2024,LVA,Total,1
+2024,MLT,Total,1
+2024,NLD,Total,1
+2024,NOR,Total,1
+2024,POL,Total,1
+2024,PRT,Total,1
+2024,ROU,Total,1
+2024,SGP,Total,1
+2024,SVK,Total,1
+2024,SVN,Total,1
+2024,SWE,Total,1
+2025,AUT,Total,1
+2025,BEL,Total,1
+2025,BGR,Total,1
+2025,CAN,Total,1
+2025,CHL,Total,1
+2025,COL,Total,1
+2025,CPV,Total,1
+2025,CRI,Total,1
+2025,CYP,Total,1
+2025,CZE,Total,1
+2025,DEU,Total,1
+2025,DNK,Total,1
+2025,ESP,Total,1
+2025,EST,Total,1
+2025,ETH,Total,1
+2025,FIN,Total,1
+2025,FRA,Total,1
+2025,GBR,Total,1
+2025,GRC,Total,1
+2025,HRV,Total,1
+2025,HUN,Total,1
+2025,IRL,Total,1
+2025,ISL,Total,1
+2025,ISR,Total,1
+2025,ITA,Total,1
+2025,LTU,Total,1
+2025,LUX,Total,1
+2025,LVA,Total,1
+2025,MLT,Total,1
+2025,NLD,Total,1
+2025,NOR,Total,1
+2025,NZL,Total,1
+2025,POL,Total,1
+2025,PRT,Total,1
+2025,ROU,Total,1
+2025,SGP,Total,1
+2025,SVK,Total,1
+2025,SVN,Total,1
+2025,SWE,Total,1
+2024,AUT,Cars & vans/light trucks,1
+2024,BEL,Cars & vans/light trucks,1
+2024,CAN,Cars & vans/light trucks,1
+2024,CHL,Cars & vans/light trucks,1
+2024,CPV,Cars & vans/light trucks,1
+2024,CRI,Cars & vans/light trucks,1
+2024,CYP,Cars & vans/light trucks,1
+2024,CZE,Cars & vans/light trucks,1
+2024,DEU,Cars & vans/light trucks,1
+2024,DNK,Cars & vans/light trucks,1
+2024,ESP,Cars & vans/light trucks,1
+2024,EST,Cars & vans/light trucks,1
+2024,FIN,Cars & vans/light trucks,1
+2024,FRA,Cars & vans/light trucks,1
+2024,GBR,Cars & vans/light trucks,1
+2024,GRC,Cars & vans/light trucks,1
+2024,HRV,Cars & vans/light trucks,1
+2024,HUN,Cars & vans/light trucks,1
+2024,IRL,Cars & vans/light trucks,1
+2024,ISL,Cars & vans/light trucks,1
+2024,ITA,Cars & vans/light trucks,1
+2024,LIE,Cars & vans/light trucks,1
+2024,LTU,Cars & vans/light trucks,1
+2024,LUX,Cars & vans/light trucks,1
+2024,LVA,Cars & vans/light trucks,1
+2024,MLT,Cars & vans/light trucks,1
+2024,NLD,Cars & vans/light trucks,1
+2024,NOR,Cars & vans/light trucks,1
+2024,POL,Cars & vans/light trucks,1
+2024,PRT,Cars & vans/light trucks,1
+2024,ROU,Cars & vans/light trucks,1
+2024,SGP,Cars & vans/light trucks,1
+2024,SVK,Cars & vans/light trucks,1
+2024,SVN,Cars & vans/light trucks,1
+2024,SWE,Cars & vans/light trucks,1
+2025,AUT,Cars & vans/light trucks,1
+2025,BEL,Cars & vans/light trucks,1
+2025,BGR,Cars & vans/light trucks,1
+2025,CAN,Cars & vans/light trucks,1
+2025,CHL,Cars & vans/light trucks,1
+2025,CPV,Cars & vans/light trucks,1
+2025,CRI,Cars & vans/light trucks,1
+2025,CYP,Cars & vans/light trucks,1
+2025,CZE,Cars & vans/light trucks,1
+2025,DEU,Cars & vans/light trucks,1
+2025,DNK,Cars & vans/light trucks,1
+2025,ESP,Cars & vans/light trucks,1
+2025,EST,Cars & vans/light trucks,1
+2025,ETH,Cars & vans/light trucks,1
+2025,FIN,Cars & vans/light trucks,1
+2025,FRA,Cars & vans/light trucks,1
+2025,GBR,Cars & vans/light trucks,1
+2025,GRC,Cars & vans/light trucks,1
+2025,HRV,Cars & vans/light trucks,1
+2025,HUN,Cars & vans/light trucks,1
+2025,IRL,Cars & vans/light trucks,1
+2025,ISL,Cars & vans/light trucks,1
+2025,ITA,Cars & vans/light trucks,1
+2025,LTU,Cars & vans/light trucks,1
+2025,LUX,Cars & vans/light trucks,1
+2025,LVA,Cars & vans/light trucks,1
+2025,MLT,Cars & vans/light trucks,1
+2025,NLD,Cars & vans/light trucks,1
+2025,NOR,Cars & vans/light trucks,1
+2025,POL,Cars & vans/light trucks,1
+2025,PRT,Cars & vans/light trucks,1
+2025,ROU,Cars & vans/light trucks,1
+2025,SGP,Cars & vans/light trucks,1
+2025,SVK,Cars & vans/light trucks,1
+2025,SVN,Cars & vans/light trucks,1
+2025,SWE,Cars & vans/light trucks,1
+2025,AUT,Medium- & heavy-duty trucks,1
+2025,CHL,Medium- & heavy-duty trucks,1
+2025,CPV,Medium- & heavy-duty trucks,1
+2025,GBR,Medium- & heavy-duty trucks,1
+2025,NOR,Medium- & heavy-duty trucks,1
+2025,AUT,Medium- & heavy-duty buses,1
+2025,BEL,Medium- & heavy-duty buses,1
+2025,BGR,Medium- & heavy-duty buses,1
+2025,CHL,Medium- & heavy-duty buses,1
+2025,COL,Medium- & heavy-duty buses,1
+2025,CRI,Medium- & heavy-duty buses,1
+2025,CYP,Medium- & heavy-duty buses,1
+2025,CZE,Medium- & heavy-duty buses,1
+2025,DEU,Medium- & heavy-duty buses,1
+2025,DNK,Medium- & heavy-duty buses,1
+2025,ESP,Medium- & heavy-duty buses,1
+2025,EST,Medium- & heavy-duty buses,1
+2025,FIN,Medium- & heavy-duty buses,1
+2025,FRA,Medium- & heavy-duty buses,1
+2025,GRC,Medium- & heavy-duty buses,1
+2025,HRV,Medium- & heavy-duty buses,1
+2025,HUN,Medium- & heavy-duty buses,1
+2025,IRL,Medium- & heavy-duty buses,1
+2025,ISR,Medium- & heavy-duty buses,1
+2025,ITA,Medium- & heavy-duty buses,1
+2025,LTU,Medium- & heavy-duty buses,1
+2025,LUX,Medium- & heavy-duty buses,1
+2025,LVA,Medium- & heavy-duty buses,1
+2025,MLT,Medium- & heavy-duty buses,1
+2025,NLD,Medium- & heavy-duty buses,1
+2025,NZL,Medium- & heavy-duty buses,1
+2025,POL,Medium- & heavy-duty buses,1
+2025,PRT,Medium- & heavy-duty buses,1
+2025,ROU,Medium- & heavy-duty buses,1
+2025,SVK,Medium- & heavy-duty buses,1
+2025,SVN,Medium- & heavy-duty buses,1
+2025,SWE,Medium- & heavy-duty buses,1
