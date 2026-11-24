@@ -9,82 +9,39 @@ year,geo,disagg_type,disagg,value
 2007,WLD,All,Total,2.6
 2008,WLD,All,Total,2.6
 2009,WLD,All,Total,2.7
-2010,WLD,All,Total,3.0
-2011,WLD,All,Total,3.0
+2010,WLD,All,Total,3
+2011,WLD,All,Total,3
 2012,WLD,All,Total,3.4
 2013,WLD,All,Total,3.5
 2014,WLD,All,Total,3.9
 2015,WLD,All,Total,4.1
 2016,WLD,All,Total,4.7
-2017,WLD,All,Total,6.0
+2017,WLD,All,Total,6
 2018,WLD,All,Total,7.2
 2019,WLD,All,Total,7.5
-2020,WLD,All,Total,8.0
-2021,WLD,All,Total,8.0
+2020,WLD,All,Total,8
+2021,WLD,All,Total,8
 2022,WLD,All,Total,8.3
 2023,WLD,All,Total,8.4
 2024,WLD,All,Total,8.5
-2025,WLD,All,Total,9.6
-2015,ALB,All,Total,1
-2016,ALB,All,Total,2.7
-2017,ALB,All,Total,2.7
-2018,ALB,All,Total,2.7
-2019,ALB,All,Total,2.8
-2020,ALB,All,Total,2.8
-2021,ALB,All,Total,2.8
-2022,ALB,All,Total,2.8
-2023,ALB,All,Total,2.8
-2024,ALB,All,Total,3.4
-2015,DZA,All,Total,0.1
-2016,DZA,All,Total,0.1
-2017,DZA,All,Total,0.1
-2018,DZA,All,Total,0.1
-2019,DZA,All,Total,0.1
-2020,DZA,All,Total,0.1
-2021,DZA,All,Total,0.1
-2022,DZA,All,Total,0.1
-2023,DZA,All,Total,0.1
-2024,DZA,All,Total,0.1
-2015,ASM,All,Total,8.7
-2016,ASM,All,Total,8.7
-2017,ASM,All,Total,8.7
-2018,ASM,All,Total,8.7
-2019,ASM,All,Total,8.7
-2020,ASM,All,Total,0
-2021,ASM,All,Total,8.7
-2022,ASM,All,Total,8.7
-2023,ASM,All,Total,8.7
-2024,ASM,All,Total,8.7
-2015,AGO,All,Total,0
-2016,AGO,All,Total,0
-2017,AGO,All,Total,0
-2018,AGO,All,Total,0
-2019,AGO,All,Total,0
-2020,AGO,All,Total,0
-2021,AGO,All,Total,0
-2022,AGO,All,Total,0
-2023,AGO,All,Total,0
-2024,AGO,All,Total,0
-2015,ATG,All,Total,0.2
-2016,ATG,All,Total,0.2
-2017,ATG,All,Total,0.2
-2018,ATG,All,Total,0.2
-2019,ATG,All,Total,0.2
-2020,ATG,All,Total,0.3
-2021,ATG,All,Total,0.3
-2022,ATG,All,Total,0.3
-2023,ATG,All,Total,0.3
-2024,ATG,All,Total,0.7
-2015,ARG,All,Total,4
-2016,ARG,All,Total,4
-2017,ARG,All,Total,4
-2018,ARG,All,Total,3.8
-2019,ARG,All,Total,12
-2020,ARG,All,Total,12
-2021,ARG,All,Total,12
-2022,ARG,All,Total,12
-2023,ARG,All,Total,12
-2024,ARG,All,Total,12
+2025,WLD,All,Total,9.9
+2026,WLD,All,Total,10
+2024,WLD,Area type,Marine protected areas,8.3
+2025,WLD,Area type,Marine protected areas,9.6
+2026,WLD,Area type,Marine protected areas,9.7
+2024,WLD,Area type,OECM,0.11
+2025,WLD,Area type,OECM,0.24
+2026,WLD,Area type,OECM,0.28
+2024,WLD,Habitat,Cold water corals,29
+2025,WLD,Habitat,Cold water corals,33
+2024,WLD,Habitat,Mangroves,42
+2025,WLD,Habitat,Mangroves,45
+2024,WLD,Habitat,Saltmarshes,50
+2025,WLD,Habitat,Saltmarshes,51
+2024,WLD,Habitat,Seagrasses,24
+2025,WLD,Habitat,Seagrasses,29
+2024,WLD,Habitat,Warm water corals,42
+2025,WLD,Habitat,Warm water corals,42
 2015,ABW,All,Total,0
 2016,ABW,All,Total,0
 2017,ABW,All,Total,0
@@ -95,1553 +52,63 @@ year,geo,disagg_type,disagg,value
 2022,ABW,All,Total,0
 2023,ABW,All,Total,0
 2024,ABW,All,Total,0
-2015,AUS,All,Total,43
-2016,AUS,All,Total,41
-2017,AUS,All,Total,41
-2018,AUS,All,Total,41
-2019,AUS,All,Total,41
-2020,AUS,All,Total,41
-2021,AUS,All,Total,44
-2022,AUS,All,Total,44
-2023,AUS,All,Total,44
-2024,AUS,All,Total,45
-2015,AZE,All,Total,0.4
-2016,AZE,All,Total,0.4
-2017,AZE,All,Total,0.4
-2018,AZE,All,Total,0.4
-2019,AZE,All,Total,0.4
-2020,AZE,All,Total,0.4
-2021,AZE,All,Total,0.4
-2022,AZE,All,Total,0.4
-2023,AZE,All,Total,0.4
-2024,AZE,All,Total,1
-2015,BHS,All,Total,0.6
-2016,BHS,All,Total,0.6
-2017,BHS,All,Total,7.9
-2018,BHS,All,Total,7.9
-2019,BHS,All,Total,7.9
-2020,BHS,All,Total,7.9
-2021,BHS,All,Total,7.9
-2022,BHS,All,Total,7.9
-2023,BHS,All,Total,7.9
-2024,BHS,All,Total,7.7
-2015,BHR,All,Total,1.2
-2016,BHR,All,Total,1.2
-2017,BHR,All,Total,1.2
-2018,BHR,All,Total,1.2
-2019,BHR,All,Total,1.2
-2020,BHR,All,Total,1.2
-2021,BHR,All,Total,1.2
-2022,BHR,All,Total,21
-2023,BHR,All,Total,21
-2024,BHR,All,Total,21
-2015,BGD,All,Total,5.4
-2016,BGD,All,Total,5.4
-2017,BGD,All,Total,5.4
-2018,BGD,All,Total,5.4
-2019,BGD,All,Total,5.4
-2020,BGD,All,Total,5.4
-2021,BGD,All,Total,5.4
-2022,BGD,All,Total,5.4
-2023,BGD,All,Total,8
-2024,BGD,All,Total,8
-2015,BRB,All,Total,0
-2016,BRB,All,Total,0
-2017,BRB,All,Total,0
-2018,BRB,All,Total,0
-2019,BRB,All,Total,0
-2020,BRB,All,Total,0
-2021,BRB,All,Total,0
-2022,BRB,All,Total,0
-2023,BRB,All,Total,0
-2024,BRB,All,Total,0
-2015,BEL,All,Total,37
-2016,BEL,All,Total,37
-2017,BEL,All,Total,37
-2018,BEL,All,Total,37
-2019,BEL,All,Total,37
-2020,BEL,All,Total,37
-2021,BEL,All,Total,38
-2022,BEL,All,Total,38
-2023,BEL,All,Total,38
-2024,BEL,All,Total,38
-2015,BLZ,All,Total,10
-2016,BLZ,All,Total,10
-2017,BLZ,All,Total,10
-2018,BLZ,All,Total,10
-2019,BLZ,All,Total,10
-2020,BLZ,All,Total,11
-2021,BLZ,All,Total,11
-2022,BLZ,All,Total,11
-2023,BLZ,All,Total,11
-2024,BLZ,All,Total,20
-2015,BEN,All,Total,0
-2016,BEN,All,Total,0
-2017,BEN,All,Total,0
-2018,BEN,All,Total,0
-2019,BEN,All,Total,0
-2020,BEN,All,Total,0
-2021,BEN,All,Total,0
-2022,BEN,All,Total,0
-2023,BEN,All,Total,0
-2024,BEN,All,Total,0
-2015,BMU,All,Total,0
-2016,BMU,All,Total,0
-2017,BMU,All,Total,0
-2018,BMU,All,Total,0
-2019,BMU,All,Total,0
-2020,BMU,All,Total,0
-2021,BMU,All,Total,0
-2022,BMU,All,Total,0
-2023,BMU,All,Total,0
-2024,BMU,All,Total,0
-2015,BIH,All,Total,0
-2016,BIH,All,Total,0
-2017,BIH,All,Total,0
-2018,BIH,All,Total,0
-2019,BIH,All,Total,0
-2020,BIH,All,Total,0
-2021,BIH,All,Total,0
-2022,BIH,All,Total,0
-2023,BIH,All,Total,0
-2024,BIH,All,Total,0
-2015,BRA,All,Total,1.6
-2016,BRA,All,Total,1.7
-2017,BRA,All,Total,1.7
-2018,BRA,All,Total,27
-2019,BRA,All,Total,27
-2020,BRA,All,Total,27
-2021,BRA,All,Total,27
-2022,BRA,All,Total,27
-2023,BRA,All,Total,27
-2024,BRA,All,Total,27
-2015,VGB,All,Total,0.1
-2016,VGB,All,Total,0.1
-2017,VGB,All,Total,0
-2018,VGB,All,Total,0
-2019,VGB,All,Total,0
-2020,VGB,All,Total,0
-2021,VGB,All,Total,0
-2022,VGB,All,Total,0
-2023,VGB,All,Total,0
-2024,VGB,All,Total,0
-2015,BRN,All,Total,0.2
-2016,BRN,All,Total,0.2
-2017,BRN,All,Total,0.2
-2018,BRN,All,Total,0.2
-2019,BRN,All,Total,0.2
-2020,BRN,All,Total,0.2
-2021,BRN,All,Total,0.2
-2022,BRN,All,Total,0.2
-2023,BRN,All,Total,0.2
-2024,BRN,All,Total,0
-2015,BGR,All,Total,8.1
-2016,BGR,All,Total,8.1
-2017,BGR,All,Total,8.1
-2018,BGR,All,Total,8.1
-2019,BGR,All,Total,8.1
-2020,BGR,All,Total,8.1
-2021,BGR,All,Total,8.1
-2022,BGR,All,Total,8.1
-2023,BGR,All,Total,8.1
-2024,BGR,All,Total,8.2
-2015,CPV,All,Total,0
-2016,CPV,All,Total,0
-2017,CPV,All,Total,0
-2018,CPV,All,Total,0
-2019,CPV,All,Total,0
-2020,CPV,All,Total,0
-2021,CPV,All,Total,0
-2022,CPV,All,Total,0
-2023,CPV,All,Total,0
-2024,CPV,All,Total,0.1
-2015,KHM,All,Total,0.2
-2016,KHM,All,Total,0.2
-2017,KHM,All,Total,0.2
-2018,KHM,All,Total,0.2
-2019,KHM,All,Total,0.2
-2020,KHM,All,Total,1.4
-2021,KHM,All,Total,1.4
-2022,KHM,All,Total,1.4
-2023,KHM,All,Total,1.4
-2024,KHM,All,Total,1.5
-2015,CMR,All,Total,3.9
-2016,CMR,All,Total,3.4
-2017,CMR,All,Total,3.4
-2018,CMR,All,Total,3.4
-2019,CMR,All,Total,12
-2020,CMR,All,Total,11
-2021,CMR,All,Total,11
-2022,CMR,All,Total,11
-2023,CMR,All,Total,11
-2024,CMR,All,Total,11
-2015,CAN,All,Total,0.9
-2016,CAN,All,Total,0.9
-2017,CAN,All,Total,0.9
-2018,CAN,All,Total,2.9
-2019,CAN,All,Total,3.1
-2020,CAN,All,Total,8.8
-2021,CAN,All,Total,8.9
-2022,CAN,All,Total,9.1
-2023,CAN,All,Total,9.1
-2024,CAN,All,Total,9.2
-2015,CYM,All,Total,0.1
-2016,CYM,All,Total,0.1
-2017,CYM,All,Total,0.1
-2018,CYM,All,Total,0.1
-2019,CYM,All,Total,0.1
-2020,CYM,All,Total,0.1
-2021,CYM,All,Total,0.1
-2022,CYM,All,Total,0.1
-2023,CYM,All,Total,0.1
-2024,CYM,All,Total,0.1
-2015,CHL,All,Total,4.4
-2016,CHL,All,Total,13
-2017,CHL,All,Total,13
-2018,CHL,All,Total,29
-2019,CHL,All,Total,41
-2020,CHL,All,Total,41
-2021,CHL,All,Total,41
-2022,CHL,All,Total,41
-2023,CHL,All,Total,41
-2024,CHL,All,Total,41
-2015,CHN,All,Total,3.7
-2016,CHN,All,Total,3.8
-2017,CHN,All,Total,3.8
-2018,CHN,All,Total,5.4
-2019,CHN,All,Total,5.4
-2020,CHN,All,Total,5.5
-2021,CHN,All,Total,5.5
-2022,CHN,All,Total,5.5
-2023,CHN,All,Total,5.5
-2024,CHN,All,Total,4.8
-2015,COL,All,Total,2.1
-2016,COL,All,Total,2.1
-2017,COL,All,Total,10
-2018,COL,All,Total,17
-2019,COL,All,Total,17
-2020,COL,All,Total,17
-2021,COL,All,Total,17
-2022,COL,All,Total,17
-2023,COL,All,Total,17
-2024,COL,All,Total,41
-2015,COM,All,Total,0
-2016,COM,All,Total,0
-2017,COM,All,Total,0
-2018,COM,All,Total,0
-2019,COM,All,Total,0
-2020,COM,All,Total,0.4
-2021,COM,All,Total,0.4
-2022,COM,All,Total,0.4
-2023,COM,All,Total,0.4
-2024,COM,All,Total,0.4
-2015,COD,All,Total,0.2
-2016,COD,All,Total,0.2
-2017,COD,All,Total,0.2
-2018,COD,All,Total,0.2
-2019,COD,All,Total,0.2
-2020,COD,All,Total,0.2
-2021,COD,All,Total,0.2
-2022,COD,All,Total,0.2
-2023,COD,All,Total,0.2
-2024,COD,All,Total,0.5
-2015,COG,All,Total,3.2
-2016,COG,All,Total,3.2
-2017,COG,All,Total,3.2
-2018,COG,All,Total,3.2
-2019,COG,All,Total,3.2
-2020,COG,All,Total,3
-2021,COG,All,Total,3
-2022,COG,All,Total,3
-2023,COG,All,Total,3
-2024,COG,All,Total,3.5
-2015,CRI,All,Total,0.8
-2016,CRI,All,Total,0.8
-2017,CRI,All,Total,0.8
-2018,CRI,All,Total,0.8
-2019,CRI,All,Total,2.6
-2020,CRI,All,Total,2.7
-2021,CRI,All,Total,2.7
-2022,CRI,All,Total,29
-2023,CRI,All,Total,29
-2024,CRI,All,Total,28
-2015,CIV,All,Total,0.1
-2016,CIV,All,Total,0.1
-2017,CIV,All,Total,0.1
-2018,CIV,All,Total,0.1
-2019,CIV,All,Total,0.1
-2020,CIV,All,Total,0.1
-2021,CIV,All,Total,0.1
-2022,CIV,All,Total,0.1
-2023,CIV,All,Total,0.1
-2024,CIV,All,Total,0.1
-2015,HRV,All,Total,9.1
-2016,HRV,All,Total,8.5
-2017,HRV,All,Total,8.5
-2018,HRV,All,Total,8.5
-2019,HRV,All,Total,8.5
-2020,HRV,All,Total,9
-2021,HRV,All,Total,9
-2022,HRV,All,Total,9
-2023,HRV,All,Total,9
-2024,HRV,All,Total,9.3
-2015,CUB,All,Total,2.6
-2016,CUB,All,Total,4.3
-2017,CUB,All,Total,4.3
-2018,CUB,All,Total,4.3
-2019,CUB,All,Total,3.9
-2020,CUB,All,Total,3.9
-2021,CUB,All,Total,3.9
-2022,CUB,All,Total,3.9
-2023,CUB,All,Total,3.9
-2024,CUB,All,Total,4.2
-2015,CUW,All,Total,0
-2016,CUW,All,Total,0
-2017,CUW,All,Total,0
-2018,CUW,All,Total,0
-2019,CUW,All,Total,0
-2020,CUW,All,Total,0
-2021,CUW,All,Total,0
-2022,CUW,All,Total,0
-2023,CUW,All,Total,0
-2024,CUW,All,Total,0
-2015,CYP,All,Total,0.1
-2016,CYP,All,Total,0.1
-2017,CYP,All,Total,0.1
-2018,CYP,All,Total,0.1
-2019,CYP,All,Total,0.1
-2020,CYP,All,Total,8.6
-2021,CYP,All,Total,8.6
-2022,CYP,All,Total,8.6
-2023,CYP,All,Total,8.6
-2024,CYP,All,Total,8.6
-2015,DNK,All,Total,18
-2016,DNK,All,Total,18
-2017,DNK,All,Total,18
-2018,DNK,All,Total,18
-2019,DNK,All,Total,18
-2020,DNK,All,Total,18
-2021,DNK,All,Total,18
-2022,DNK,All,Total,18
-2023,DNK,All,Total,18
-2024,DNK,All,Total,19
-2015,DJI,All,Total,0.2
-2016,DJI,All,Total,0.2
-2017,DJI,All,Total,0.2
-2018,DJI,All,Total,0.2
-2019,DJI,All,Total,0.2
-2020,DJI,All,Total,0.2
-2021,DJI,All,Total,0.2
-2022,DJI,All,Total,0.2
-2023,DJI,All,Total,0.2
-2024,DJI,All,Total,0.2
-2015,DMA,All,Total,0
-2016,DMA,All,Total,0.1
-2017,DMA,All,Total,0.1
-2018,DMA,All,Total,0.1
-2019,DMA,All,Total,0
-2020,DMA,All,Total,0
-2021,DMA,All,Total,0
-2022,DMA,All,Total,0
-2023,DMA,All,Total,0
-2024,DMA,All,Total,0.1
-2015,DOM,All,Total,9.1
-2016,DOM,All,Total,9.1
-2017,DOM,All,Total,9.1
-2018,DOM,All,Total,18
-2019,DOM,All,Total,18
-2020,DOM,All,Total,18
-2021,DOM,All,Total,18
-2022,DOM,All,Total,17
-2023,DOM,All,Total,17
-2024,DOM,All,Total,13
-2015,ECU,All,Total,13
-2016,ECU,All,Total,13
-2017,ECU,All,Total,13
-2018,ECU,All,Total,13
-2019,ECU,All,Total,13
-2020,ECU,All,Total,13
-2021,ECU,All,Total,13
-2022,ECU,All,Total,19
-2023,ECU,All,Total,19
-2024,ECU,All,Total,19
-2015,EGY,All,Total,5
-2016,EGY,All,Total,5
-2017,EGY,All,Total,5
-2018,EGY,All,Total,5
-2019,EGY,All,Total,5
-2020,EGY,All,Total,5
-2021,EGY,All,Total,5
-2022,EGY,All,Total,5
-2023,EGY,All,Total,5
-2024,EGY,All,Total,4.6
-2015,SLV,All,Total,0.7
-2016,SLV,All,Total,0.7
-2017,SLV,All,Total,0.7
-2018,SLV,All,Total,0.7
-2019,SLV,All,Total,0.7
-2020,SLV,All,Total,0.7
-2021,SLV,All,Total,0.7
-2022,SLV,All,Total,0.7
-2023,SLV,All,Total,0.7
-2024,SLV,All,Total,0.8
-2015,GNQ,All,Total,0.2
-2016,GNQ,All,Total,0.2
-2017,GNQ,All,Total,0.2
-2018,GNQ,All,Total,0.2
-2019,GNQ,All,Total,0.2
-2020,GNQ,All,Total,0.2
-2021,GNQ,All,Total,0.2
-2022,GNQ,All,Total,0.2
-2023,GNQ,All,Total,0.2
-2024,GNQ,All,Total,0.3
-2015,ERI,All,Total,0
-2016,ERI,All,Total,0
-2017,ERI,All,Total,0
-2018,ERI,All,Total,0
-2019,ERI,All,Total,0
-2020,ERI,All,Total,0
-2021,ERI,All,Total,0
-2022,ERI,All,Total,0
-2023,ERI,All,Total,0
-2024,ERI,All,Total,0
-2015,EST,All,Total,19
-2016,EST,All,Total,19
-2017,EST,All,Total,19
-2018,EST,All,Total,19
-2019,EST,All,Total,19
-2020,EST,All,Total,19
-2021,EST,All,Total,19
-2022,EST,All,Total,19
-2023,EST,All,Total,19
-2024,EST,All,Total,19
-2015,FRO,All,Total,0
-2016,FRO,All,Total,0
-2017,FRO,All,Total,0
-2018,FRO,All,Total,0
-2019,FRO,All,Total,0
-2020,FRO,All,Total,0
-2021,FRO,All,Total,0
-2022,FRO,All,Total,0
-2023,FRO,All,Total,0
-2024,FRO,All,Total,0
-2015,FJI,All,Total,0.9
-2016,FJI,All,Total,0.9
-2017,FJI,All,Total,0.9
-2018,FJI,All,Total,0.9
-2019,FJI,All,Total,0.9
-2020,FJI,All,Total,0.9
-2021,FJI,All,Total,0.9
-2022,FJI,All,Total,0.9
-2023,FJI,All,Total,0.9
-2024,FJI,All,Total,0.9
-2015,FIN,All,Total,11
-2016,FIN,All,Total,11
-2017,FIN,All,Total,11
-2018,FIN,All,Total,11
-2019,FIN,All,Total,12
-2020,FIN,All,Total,12
-2021,FIN,All,Total,12
-2022,FIN,All,Total,12
-2023,FIN,All,Total,12
-2024,FIN,All,Total,12
-2015,FRA,All,Total,19
-2016,FRA,All,Total,26
-2017,FRA,All,Total,31
-2018,FRA,All,Total,45
-2019,FRA,All,Total,49
-2020,FRA,All,Total,50
-2021,FRA,All,Total,50
-2022,FRA,All,Total,50
-2023,FRA,All,Total,50
-2024,FRA,All,Total,50
-2015,PYF,All,Total,0
-2016,PYF,All,Total,0
-2017,PYF,All,Total,0
-2018,PYF,All,Total,0
-2019,PYF,All,Total,0
-2020,PYF,All,Total,0
-2021,PYF,All,Total,0
-2022,PYF,All,Total,0
-2023,PYF,All,Total,0
-2024,PYF,All,Total,0
-2015,GAB,All,Total,1
-2016,GAB,All,Total,1
-2017,GAB,All,Total,29
-2018,GAB,All,Total,29
-2019,GAB,All,Total,29
-2020,GAB,All,Total,29
-2021,GAB,All,Total,29
-2022,GAB,All,Total,29
-2023,GAB,All,Total,29
-2024,GAB,All,Total,27
-2015,GMB,All,Total,0.1
-2016,GMB,All,Total,0.1
-2017,GMB,All,Total,0.1
-2018,GMB,All,Total,0.1
-2019,GMB,All,Total,0.1
-2020,GMB,All,Total,0.6
-2021,GMB,All,Total,0.6
-2022,GMB,All,Total,0.6
-2023,GMB,All,Total,0.6
-2024,GMB,All,Total,0.6
-2015,GEO,All,Total,0.7
-2016,GEO,All,Total,0.7
-2017,GEO,All,Total,0.7
-2018,GEO,All,Total,0.7
-2019,GEO,All,Total,0.7
-2020,GEO,All,Total,0.7
-2021,GEO,All,Total,0.7
-2022,GEO,All,Total,0.7
-2023,GEO,All,Total,0.7
-2024,GEO,All,Total,0.8
-2015,DEU,All,Total,45
-2016,DEU,All,Total,45
-2017,DEU,All,Total,45
-2018,DEU,All,Total,45
-2019,DEU,All,Total,45
-2020,DEU,All,Total,45
-2021,DEU,All,Total,46
-2022,DEU,All,Total,46
-2023,DEU,All,Total,46
-2024,DEU,All,Total,45
-2015,GHA,All,Total,0.1
-2016,GHA,All,Total,0.1
-2017,GHA,All,Total,0.1
-2018,GHA,All,Total,0.1
-2019,GHA,All,Total,0.1
-2020,GHA,All,Total,0.1
-2021,GHA,All,Total,0.1
-2022,GHA,All,Total,0.1
-2023,GHA,All,Total,0.1
-2024,GHA,All,Total,0.1
-2015,GIB,All,Total,13
-2016,GIB,All,Total,13
-2017,GIB,All,Total,13
-2018,GIB,All,Total,13
-2019,GIB,All,Total,13
-2020,GIB,All,Total,0
-2021,GIB,All,Total,0
-2022,GIB,All,Total,0
-2023,GIB,All,Total,0
-2024,GIB,All,Total,0
-2015,GRC,All,Total,1.5
-2016,GRC,All,Total,1.5
-2017,GRC,All,Total,1.5
-2018,GRC,All,Total,4.5
-2019,GRC,All,Total,4.5
-2020,GRC,All,Total,4.5
-2021,GRC,All,Total,4.5
-2022,GRC,All,Total,4.5
-2023,GRC,All,Total,4.5
-2024,GRC,All,Total,4.7
-2015,GRL,All,Total,4.5
-2016,GRL,All,Total,4.5
-2017,GRL,All,Total,4.5
-2018,GRL,All,Total,4.5
-2019,GRL,All,Total,4.5
-2020,GRL,All,Total,4.5
-2021,GRL,All,Total,4.5
-2022,GRL,All,Total,4.5
-2023,GRL,All,Total,4.5
-2024,GRL,All,Total,4.2
-2015,GRD,All,Total,0
-2016,GRD,All,Total,0
-2017,GRD,All,Total,0
-2018,GRD,All,Total,0.1
-2019,GRD,All,Total,0.1
-2020,GRD,All,Total,0.1
-2021,GRD,All,Total,0.1
-2022,GRD,All,Total,0.1
-2023,GRD,All,Total,0.1
-2024,GRD,All,Total,0.1
-2015,GUM,All,Total,0
-2016,GUM,All,Total,0
-2017,GUM,All,Total,0
-2018,GUM,All,Total,0
-2019,GUM,All,Total,0
-2020,GUM,All,Total,0
-2021,GUM,All,Total,0
-2022,GUM,All,Total,0
-2023,GUM,All,Total,0
-2024,GUM,All,Total,0
-2015,GTM,All,Total,0.8
-2016,GTM,All,Total,0.8
-2017,GTM,All,Total,0.8
-2018,GTM,All,Total,0.9
-2019,GTM,All,Total,0.9
-2020,GTM,All,Total,0.8
-2021,GTM,All,Total,0.8
-2022,GTM,All,Total,0.8
-2023,GTM,All,Total,0.8
-2024,GTM,All,Total,0.9
-2015,GIN,All,Total,0.5
-2016,GIN,All,Total,0.5
-2017,GIN,All,Total,0.5
-2018,GIN,All,Total,0.5
-2019,GIN,All,Total,0.5
-2020,GIN,All,Total,0.5
-2021,GIN,All,Total,0.5
-2022,GIN,All,Total,0.5
-2023,GIN,All,Total,0.5
-2024,GIN,All,Total,0.6
-2015,GNB,All,Total,10
-2016,GNB,All,Total,10
-2017,GNB,All,Total,10
-2018,GNB,All,Total,10
-2019,GNB,All,Total,10
-2020,GNB,All,Total,9
-2021,GNB,All,Total,9
-2022,GNB,All,Total,9
-2023,GNB,All,Total,9
-2024,GNB,All,Total,9.1
-2015,GUY,All,Total,0
-2016,GUY,All,Total,0
-2017,GUY,All,Total,0
-2018,GUY,All,Total,0
-2019,GUY,All,Total,0
-2020,GUY,All,Total,0
-2021,GUY,All,Total,0
-2022,GUY,All,Total,0
-2023,GUY,All,Total,0
-2024,GUY,All,Total,0.1
-2015,HTI,All,Total,0
-2016,HTI,All,Total,0
-2017,HTI,All,Total,0
-2018,HTI,All,Total,0
-2019,HTI,All,Total,1.5
-2020,HTI,All,Total,1.5
-2021,HTI,All,Total,1.5
-2022,HTI,All,Total,1.5
-2023,HTI,All,Total,1.5
-2024,HTI,All,Total,1.8
-2015,HND,All,Total,4.1
-2016,HND,All,Total,4.2
-2017,HND,All,Total,4.2
-2018,HND,All,Total,4.2
-2019,HND,All,Total,4.2
-2020,HND,All,Total,4.6
-2021,HND,All,Total,4.6
-2022,HND,All,Total,4.6
-2023,HND,All,Total,4.6
-2024,HND,All,Total,4.9
-2018,HKG,All,Total,0
-2019,HKG,All,Total,0
-2020,HKG,All,Total,0
-2024,HKG,All,Total,0
-2015,ISL,All,Total,0.4
-2016,ISL,All,Total,0.4
-2017,ISL,All,Total,0.4
-2018,ISL,All,Total,0.4
-2019,ISL,All,Total,0.4
-2020,ISL,All,Total,0.4
-2021,ISL,All,Total,0.4
-2022,ISL,All,Total,0.4
-2023,ISL,All,Total,0.4
-2024,ISL,All,Total,0.5
-2015,IND,All,Total,0.2
-2016,IND,All,Total,0.2
-2017,IND,All,Total,0.2
-2018,IND,All,Total,0.2
-2019,IND,All,Total,0.2
-2020,IND,All,Total,0.2
-2021,IND,All,Total,0.2
-2022,IND,All,Total,0.2
-2023,IND,All,Total,0.2
-2024,IND,All,Total,0.3
-2015,IDN,All,Total,2.9
-2016,IDN,All,Total,2.9
-2017,IDN,All,Total,2.9
-2018,IDN,All,Total,3.1
-2019,IDN,All,Total,3.1
-2020,IDN,All,Total,3.1
-2021,IDN,All,Total,3.1
-2022,IDN,All,Total,3.1
-2023,IDN,All,Total,3.1
-2024,IDN,All,Total,3
-2015,IRN,All,Total,1
-2016,IRN,All,Total,0.8
-2017,IRN,All,Total,0.8
-2018,IRN,All,Total,0.8
-2019,IRN,All,Total,0.8
-2020,IRN,All,Total,0.8
-2021,IRN,All,Total,0.8
-2022,IRN,All,Total,0.8
-2023,IRN,All,Total,0.8
-2024,IRN,All,Total,0.9
-2015,IRQ,All,Total,0
-2016,IRQ,All,Total,0
-2017,IRQ,All,Total,0
-2018,IRQ,All,Total,0
-2019,IRQ,All,Total,0
-2020,IRQ,All,Total,0
-2021,IRQ,All,Total,0
-2022,IRQ,All,Total,0
-2023,IRQ,All,Total,0
-2024,IRQ,All,Total,0.3
-2015,IRL,All,Total,2.3
-2016,IRL,All,Total,2.3
-2017,IRL,All,Total,2.3
-2018,IRL,All,Total,2.3
-2019,IRL,All,Total,2.3
-2020,IRL,All,Total,2.3
-2021,IRL,All,Total,2.3
-2022,IRL,All,Total,2.3
-2023,IRL,All,Total,2.3
-2024,IRL,All,Total,2.4
-2018,IMN,All,Total,0
-2019,IMN,All,Total,0
-2020,IMN,All,Total,0
-2024,IMN,All,Total,11
-2015,ISR,All,Total,0
-2016,ISR,All,Total,0
-2017,ISR,All,Total,0
-2018,ISR,All,Total,0
-2019,ISR,All,Total,0
-2020,ISR,All,Total,0
-2021,ISR,All,Total,0
-2022,ISR,All,Total,0
-2023,ISR,All,Total,0
-2024,ISR,All,Total,0.6
-2015,ITA,All,Total,5.6
-2016,ITA,All,Total,8.8
-2017,ITA,All,Total,8.8
-2018,ITA,All,Total,8.8
-2019,ITA,All,Total,8.8
-2020,ITA,All,Total,9.7
-2021,ITA,All,Total,11
-2022,ITA,All,Total,11
-2023,ITA,All,Total,11
-2024,ITA,All,Total,11
-2015,JAM,All,Total,0.8
-2016,JAM,All,Total,0.8
-2017,JAM,All,Total,0.8
-2018,JAM,All,Total,0.8
-2019,JAM,All,Total,0.8
-2020,JAM,All,Total,0.8
-2021,JAM,All,Total,0.8
-2022,JAM,All,Total,0.8
-2023,JAM,All,Total,0.8
-2024,JAM,All,Total,0.7
-2015,JPN,All,Total,0.5
-2016,JPN,All,Total,8.2
-2017,JPN,All,Total,8.2
-2018,JPN,All,Total,8.2
-2019,JPN,All,Total,8.2
-2020,JPN,All,Total,8.2
-2021,JPN,All,Total,14
-2022,JPN,All,Total,14
-2023,JPN,All,Total,14
-2024,JPN,All,Total,14
-2015,JOR,All,Total,36
-2016,JOR,All,Total,36
-2017,JOR,All,Total,36
-2018,JOR,All,Total,36
-2019,JOR,All,Total,36
-2020,JOR,All,Total,1
-2021,JOR,All,Total,1
-2022,JOR,All,Total,1
-2023,JOR,All,Total,1
-2024,JOR,All,Total,2.8
-2015,KAZ,All,Total,1
-2016,KAZ,All,Total,1
-2017,KAZ,All,Total,1
-2018,KAZ,All,Total,1
-2019,KAZ,All,Total,1
-2020,KAZ,All,Total,51
-2021,KAZ,All,Total,51
-2022,KAZ,All,Total,51
-2023,KAZ,All,Total,51
-2024,KAZ,All,Total,53
-2015,KEN,All,Total,0.6
-2016,KEN,All,Total,0.8
-2017,KEN,All,Total,0.8
-2018,KEN,All,Total,0.8
-2019,KEN,All,Total,0.8
-2020,KEN,All,Total,0.8
-2021,KEN,All,Total,0.8
-2022,KEN,All,Total,0.7
-2023,KEN,All,Total,0.7
-2024,KEN,All,Total,0.6
-2015,KIR,All,Total,12
-2016,KIR,All,Total,12
-2017,KIR,All,Total,12
-2018,KIR,All,Total,12
-2019,KIR,All,Total,12
-2020,KIR,All,Total,12
-2021,KIR,All,Total,12
-2022,KIR,All,Total,12
-2023,KIR,All,Total,12
-2024,KIR,All,Total,12
-2015,PRK,All,Total,0
-2016,PRK,All,Total,0
-2017,PRK,All,Total,0
-2018,PRK,All,Total,0
-2019,PRK,All,Total,0
-2020,PRK,All,Total,0
-2021,PRK,All,Total,0
-2022,PRK,All,Total,0
-2023,PRK,All,Total,0
-2024,PRK,All,Total,0
-2015,KOR,All,Total,1
-2016,KOR,All,Total,1.6
-2017,KOR,All,Total,1.6
-2018,KOR,All,Total,1.6
-2019,KOR,All,Total,2.4
-2020,KOR,All,Total,2.5
-2021,KOR,All,Total,2.5
-2022,KOR,All,Total,2.5
-2023,KOR,All,Total,2.5
-2024,KOR,All,Total,2.2
-2015,KWT,All,Total,0.1
-2016,KWT,All,Total,1.5
-2017,KWT,All,Total,1.5
-2018,KWT,All,Total,1.5
-2019,KWT,All,Total,1.4
-2020,KWT,All,Total,1.4
-2021,KWT,All,Total,1.4
-2022,KWT,All,Total,1.4
-2023,KWT,All,Total,3.2
-2024,KWT,All,Total,3.2
-2015,LVA,All,Total,17
-2016,LVA,All,Total,16
-2017,LVA,All,Total,16
-2018,LVA,All,Total,16
-2019,LVA,All,Total,16
-2020,LVA,All,Total,16
-2021,LVA,All,Total,16
-2022,LVA,All,Total,16
-2023,LVA,All,Total,16
-2024,LVA,All,Total,16
-2015,LBN,All,Total,0
-2016,LBN,All,Total,0.2
-2017,LBN,All,Total,0.2
-2018,LBN,All,Total,0.2
-2019,LBN,All,Total,0.2
-2020,LBN,All,Total,0.2
-2021,LBN,All,Total,0.2
-2022,LBN,All,Total,0.2
-2023,LBN,All,Total,0.2
-2024,LBN,All,Total,0.2
-2015,LBR,All,Total,0.1
-2016,LBR,All,Total,0.1
-2017,LBR,All,Total,0.1
-2018,LBR,All,Total,0.1
-2019,LBR,All,Total,0.1
-2020,LBR,All,Total,0.1
-2021,LBR,All,Total,0.1
-2022,LBR,All,Total,0.1
-2023,LBR,All,Total,0.1
-2024,LBR,All,Total,0.1
-2015,LBY,All,Total,0.6
-2016,LBY,All,Total,0.6
-2017,LBY,All,Total,0.6
-2018,LBY,All,Total,0.6
-2019,LBY,All,Total,0.6
-2020,LBY,All,Total,0.6
-2021,LBY,All,Total,0.6
-2022,LBY,All,Total,0.6
-2023,LBY,All,Total,0.6
-2024,LBY,All,Total,0.6
-2015,LTU,All,Total,16
-2016,LTU,All,Total,22
-2017,LTU,All,Total,26
-2018,LTU,All,Total,26
-2019,LTU,All,Total,26
-2020,LTU,All,Total,26
-2021,LTU,All,Total,26
-2022,LTU,All,Total,26
-2023,LTU,All,Total,26
-2024,LTU,All,Total,23
-2015,MDG,All,Total,0.4
-2016,MDG,All,Total,0.4
-2017,MDG,All,Total,0.8
-2018,MDG,All,Total,0.7
-2019,MDG,All,Total,0.7
-2020,MDG,All,Total,0.9
-2021,MDG,All,Total,0.9
-2022,MDG,All,Total,0.9
-2023,MDG,All,Total,0.9
-2024,MDG,All,Total,1.3
-2015,MYS,All,Total,1.4
-2016,MYS,All,Total,1.4
-2017,MYS,All,Total,1.4
-2018,MYS,All,Total,1.5
-2019,MYS,All,Total,1.5
-2020,MYS,All,Total,3.3
-2021,MYS,All,Total,5.6
-2022,MYS,All,Total,5.6
-2023,MYS,All,Total,5.6
-2024,MYS,All,Total,4.8
-2015,MDV,All,Total,0
-2016,MDV,All,Total,0
-2017,MDV,All,Total,0
-2018,MDV,All,Total,0.1
-2019,MDV,All,Total,0.1
-2020,MDV,All,Total,0.1
-2021,MDV,All,Total,0.1
-2022,MDV,All,Total,0.1
-2023,MDV,All,Total,0.1
-2024,MDV,All,Total,0.1
-2015,MLT,All,Total,0.3
-2016,MLT,All,Total,6.3
-2017,MLT,All,Total,6.3
-2018,MLT,All,Total,6.3
-2019,MLT,All,Total,7.4
-2020,MLT,All,Total,7.4
-2021,MLT,All,Total,7.4
-2022,MLT,All,Total,7.4
-2023,MLT,All,Total,7.4
-2024,MLT,All,Total,7.8
-2015,MHL,All,Total,0.3
-2016,MHL,All,Total,0.3
-2017,MHL,All,Total,0.3
-2018,MHL,All,Total,0.3
-2019,MHL,All,Total,0.3
-2020,MHL,All,Total,0.3
-2021,MHL,All,Total,0.3
-2022,MHL,All,Total,0.3
-2023,MHL,All,Total,0.3
-2024,MHL,All,Total,0.3
-2015,MRT,All,Total,4.2
-2016,MRT,All,Total,4.2
-2017,MRT,All,Total,4.2
-2018,MRT,All,Total,4.2
-2019,MRT,All,Total,4.2
-2020,MRT,All,Total,4.2
-2021,MRT,All,Total,4.2
-2022,MRT,All,Total,4.2
-2023,MRT,All,Total,4.2
-2024,MRT,All,Total,3.7
-2015,MUS,All,Total,0
-2016,MUS,All,Total,0
-2017,MUS,All,Total,0
-2018,MUS,All,Total,0
-2019,MUS,All,Total,0
-2020,MUS,All,Total,0
-2021,MUS,All,Total,0
-2022,MUS,All,Total,0
-2023,MUS,All,Total,0
-2024,MUS,All,Total,0
-2015,MEX,All,Total,1.9
-2016,MEX,All,Total,22
-2017,MEX,All,Total,22
-2018,MEX,All,Total,22
-2019,MEX,All,Total,22
-2020,MEX,All,Total,22
-2021,MEX,All,Total,22
-2022,MEX,All,Total,22
-2023,MEX,All,Total,22
-2024,MEX,All,Total,23
-2015,FSM,All,Total,0
-2016,FSM,All,Total,0
-2017,FSM,All,Total,0
-2018,FSM,All,Total,0
-2019,FSM,All,Total,0
-2020,FSM,All,Total,0
-2021,FSM,All,Total,0
-2022,FSM,All,Total,0
-2023,FSM,All,Total,0
-2024,FSM,All,Total,0
-2015,MCO,All,Total,0.1
-2016,MCO,All,Total,100
-2017,MCO,All,Total,100
-2018,MCO,All,Total,100
-2019,MCO,All,Total,100
-2020,MCO,All,Total,100
-2021,MCO,All,Total,100
-2022,MCO,All,Total,100
-2023,MCO,All,Total,100
-2024,MCO,All,Total,100
-2015,MNE,All,Total,0
-2016,MNE,All,Total,0
-2017,MNE,All,Total,0
-2018,MNE,All,Total,0
-2019,MNE,All,Total,0.1
-2020,MNE,All,Total,0.1
-2021,MNE,All,Total,0.1
-2022,MNE,All,Total,0.6
-2023,MNE,All,Total,0.6
-2024,MNE,All,Total,5.6
-2015,MAR,All,Total,0.3
-2016,MAR,All,Total,0.4
-2017,MAR,All,Total,0.3
-2018,MAR,All,Total,0.3
-2019,MAR,All,Total,0.3
-2020,MAR,All,Total,0.7
-2021,MAR,All,Total,0.7
-2022,MAR,All,Total,0.7
-2023,MAR,All,Total,0.7
-2024,MAR,All,Total,0.3
-2015,MOZ,All,Total,2.2
-2016,MOZ,All,Total,2.2
-2017,MOZ,All,Total,2.2
-2018,MOZ,All,Total,2.2
-2019,MOZ,All,Total,2.2
-2020,MOZ,All,Total,2.1
-2021,MOZ,All,Total,2.1
-2022,MOZ,All,Total,2.1
-2023,MOZ,All,Total,2.1
-2024,MOZ,All,Total,2.2
-2015,MMR,All,Total,0.1
-2016,MMR,All,Total,0.1
-2017,MMR,All,Total,0.2
-2018,MMR,All,Total,2.3
-2019,MMR,All,Total,0.5
-2020,MMR,All,Total,0.5
-2021,MMR,All,Total,0.5
-2022,MMR,All,Total,0.5
-2023,MMR,All,Total,0.5
-2024,MMR,All,Total,0.5
-2015,NAM,All,Total,1.7
-2016,NAM,All,Total,1.7
-2017,NAM,All,Total,1.7
-2018,NAM,All,Total,1.7
-2019,NAM,All,Total,1.7
-2020,NAM,All,Total,1.7
-2021,NAM,All,Total,1.7
-2022,NAM,All,Total,1.7
-2023,NAM,All,Total,1.7
-2024,NAM,All,Total,1.7
-2021,NRU,All,Total,0
-2022,NRU,All,Total,0
-2023,NRU,All,Total,0
-2024,NRU,All,Total,0
-2015,NLD,All,Total,22
-2016,NLD,All,Total,22
-2017,NLD,All,Total,27
-2018,NLD,All,Total,27
-2019,NLD,All,Total,27
-2020,NLD,All,Total,27
-2021,NLD,All,Total,27
-2022,NLD,All,Total,27
-2023,NLD,All,Total,27
-2024,NLD,All,Total,34
-2015,NCL,All,Total,96
-2016,NCL,All,Total,97
-2017,NCL,All,Total,96
-2018,NCL,All,Total,97
-2019,NCL,All,Total,96
-2020,NCL,All,Total,96
-2021,NCL,All,Total,96
-2022,NCL,All,Total,96
-2023,NCL,All,Total,96
-2024,NCL,All,Total,100
-2015,NZL,All,Total,30
-2016,NZL,All,Total,30
-2017,NZL,All,Total,30
-2018,NZL,All,Total,30
-2019,NZL,All,Total,30
-2020,NZL,All,Total,30
-2021,NZL,All,Total,30
-2022,NZL,All,Total,30
-2023,NZL,All,Total,30
-2024,NZL,All,Total,30
-2015,NIC,All,Total,2.9
-2016,NIC,All,Total,3
-2017,NIC,All,Total,3
-2018,NIC,All,Total,3
-2019,NIC,All,Total,3
-2020,NIC,All,Total,3.4
-2021,NIC,All,Total,3.4
-2022,NIC,All,Total,3.4
-2023,NIC,All,Total,3.4
-2024,NIC,All,Total,3.6
-2015,NGA,All,Total,0
-2016,NGA,All,Total,0
-2017,NGA,All,Total,0
-2018,NGA,All,Total,0
-2019,NGA,All,Total,0
-2020,NGA,All,Total,0
-2021,NGA,All,Total,0
-2022,NGA,All,Total,0
-2023,NGA,All,Total,0
-2024,NGA,All,Total,0
-2015,MNP,All,Total,33
-2016,MNP,All,Total,33
-2017,MNP,All,Total,33
-2018,MNP,All,Total,33
-2019,MNP,All,Total,33
-2020,MNP,All,Total,32
-2021,MNP,All,Total,33
-2022,MNP,All,Total,33
-2023,MNP,All,Total,32
-2024,MNP,All,Total,32
-2015,NOR,All,Total,0.5
-2016,NOR,All,Total,0.7
-2017,NOR,All,Total,0.8
-2018,NOR,All,Total,0.8
-2019,NOR,All,Total,0.8
-2020,NOR,All,Total,1.5
-2021,NOR,All,Total,9.9
-2022,NOR,All,Total,9.8
-2023,NOR,All,Total,1.4
-2024,NOR,All,Total,1
-2015,OMN,All,Total,0.1
-2016,OMN,All,Total,0.1
-2017,OMN,All,Total,0.1
-2018,OMN,All,Total,0.1
-2019,OMN,All,Total,0.1
-2020,OMN,All,Total,0.1
-2021,OMN,All,Total,0.3
-2022,OMN,All,Total,0.3
-2023,OMN,All,Total,0.4
-2024,OMN,All,Total,16
-2015,PAK,All,Total,0.8
-2016,PAK,All,Total,0.8
-2017,PAK,All,Total,0.8
-2018,PAK,All,Total,0.8
-2019,PAK,All,Total,0.8
-2020,PAK,All,Total,0.8
-2021,PAK,All,Total,0.8
-2022,PAK,All,Total,0.8
-2023,PAK,All,Total,0.8
-2024,PAK,All,Total,1.2
-2015,PLW,All,Total,0.3
-2016,PLW,All,Total,83
-2017,PLW,All,Total,83
-2018,PLW,All,Total,83
-2019,PLW,All,Total,100
-2020,PLW,All,Total,100
-2021,PLW,All,Total,100
-2022,PLW,All,Total,100
-2023,PLW,All,Total,100
-2024,PLW,All,Total,98
-2015,PAN,All,Total,1.7
-2016,PAN,All,Total,1.7
-2017,PAN,All,Total,1.7
-2018,PAN,All,Total,1.7
-2019,PAN,All,Total,1.7
-2020,PAN,All,Total,12
-2021,PAN,All,Total,27
-2022,PAN,All,Total,27
-2023,PAN,All,Total,27
-2024,PAN,All,Total,26
-2015,PNG,All,Total,0.2
-2016,PNG,All,Total,0.2
-2017,PNG,All,Total,0.2
-2018,PNG,All,Total,0.2
-2019,PNG,All,Total,0.1
-2020,PNG,All,Total,0.1
-2021,PNG,All,Total,0.1
-2022,PNG,All,Total,0.1
-2023,PNG,All,Total,0.1
-2024,PNG,All,Total,0.1
-2015,PER,All,Total,0.6
-2016,PER,All,Total,0.5
-2017,PER,All,Total,0.5
-2018,PER,All,Total,0.5
-2019,PER,All,Total,0.5
-2020,PER,All,Total,0.5
-2021,PER,All,Total,0.5
-2022,PER,All,Total,8
-2023,PER,All,Total,8
-2024,PER,All,Total,7.9
-2015,PHL,All,Total,1.1
-2016,PHL,All,Total,1.2
-2017,PHL,All,Total,1.2
-2018,PHL,All,Total,1.2
-2019,PHL,All,Total,1.2
-2020,PHL,All,Total,1.2
-2021,PHL,All,Total,1.7
-2022,PHL,All,Total,1.7
-2023,PHL,All,Total,1.7
-2024,PHL,All,Total,1.6
-2015,POL,All,Total,23
-2016,POL,All,Total,23
-2017,POL,All,Total,23
-2018,POL,All,Total,23
-2019,POL,All,Total,23
-2020,POL,All,Total,23
-2021,POL,All,Total,23
-2022,POL,All,Total,23
-2023,POL,All,Total,23
-2024,POL,All,Total,24
-2015,PRT,All,Total,6.7
-2016,PRT,All,Total,8.4
-2017,PRT,All,Total,16
-2018,PRT,All,Total,17
-2019,PRT,All,Total,17
-2020,PRT,All,Total,17
-2021,PRT,All,Total,17
-2022,PRT,All,Total,17
-2023,PRT,All,Total,17
-2024,PRT,All,Total,17
-2015,PRI,All,Total,1.7
-2016,PRI,All,Total,1.7
-2017,PRI,All,Total,1.8
-2018,PRI,All,Total,1.7
-2019,PRI,All,Total,1.7
-2020,PRI,All,Total,1.8
-2021,PRI,All,Total,1.8
-2022,PRI,All,Total,1.8
-2023,PRI,All,Total,1.8
-2024,PRI,All,Total,1.9
-2015,QAT,All,Total,0.2
-2016,QAT,All,Total,0.2
-2017,QAT,All,Total,1.7
-2018,QAT,All,Total,1.7
-2019,QAT,All,Total,1.7
-2020,QAT,All,Total,2.3
-2021,QAT,All,Total,2.3
-2022,QAT,All,Total,2.3
-2023,QAT,All,Total,2.3
-2024,QAT,All,Total,2.3
-2015,ROU,All,Total,8.4
-2016,ROU,All,Total,8.5
-2017,ROU,All,Total,23
-2018,ROU,All,Total,23
-2019,ROU,All,Total,23
-2020,ROU,All,Total,23
-2021,ROU,All,Total,23
-2022,ROU,All,Total,23
-2023,ROU,All,Total,23
-2024,ROU,All,Total,22
-2015,RUS,All,Total,3
-2016,RUS,All,Total,3
-2017,RUS,All,Total,3
-2018,RUS,All,Total,3
-2019,RUS,All,Total,3
-2020,RUS,All,Total,2.2
-2021,RUS,All,Total,2.2
-2022,RUS,All,Total,2.2
-2023,RUS,All,Total,2.2
-2024,RUS,All,Total,2.2
-2015,WSM,All,Total,0.1
-2016,WSM,All,Total,0.1
-2017,WSM,All,Total,0.1
-2018,WSM,All,Total,0.1
-2019,WSM,All,Total,0.1
-2020,WSM,All,Total,0.1
-2021,WSM,All,Total,0.1
-2022,WSM,All,Total,0.1
-2023,WSM,All,Total,0.1
-2024,WSM,All,Total,0.2
-2015,STP,All,Total,0
-2016,STP,All,Total,0
-2017,STP,All,Total,0
-2018,STP,All,Total,0
-2019,STP,All,Total,0
-2020,STP,All,Total,0
-2021,STP,All,Total,0
-2022,STP,All,Total,0
-2023,STP,All,Total,0
-2024,STP,All,Total,0
-2015,SAU,All,Total,1.6
-2016,SAU,All,Total,1.5
-2017,SAU,All,Total,2.5
-2018,SAU,All,Total,2.5
-2019,SAU,All,Total,2.5
-2020,SAU,All,Total,2.5
-2021,SAU,All,Total,2.5
-2022,SAU,All,Total,2.5
-2023,SAU,All,Total,2.5
-2024,SAU,All,Total,3.5
-2015,SEN,All,Total,1.1
-2016,SEN,All,Total,1.1
-2017,SEN,All,Total,1.1
-2018,SEN,All,Total,1.1
-2019,SEN,All,Total,1.1
-2020,SEN,All,Total,1.1
-2021,SEN,All,Total,1.9
-2022,SEN,All,Total,1.9
-2023,SEN,All,Total,1.9
-2024,SEN,All,Total,2.2
-2015,SYC,All,Total,0
-2016,SYC,All,Total,0
-2017,SYC,All,Total,0
-2018,SYC,All,Total,0
-2019,SYC,All,Total,16
-2020,SYC,All,Total,33
-2021,SYC,All,Total,33
-2022,SYC,All,Total,33
-2023,SYC,All,Total,33
-2024,SYC,All,Total,33
-2015,SLE,All,Total,0.5
-2016,SLE,All,Total,0.5
-2017,SLE,All,Total,0.5
-2018,SLE,All,Total,0.5
-2019,SLE,All,Total,0.5
-2020,SLE,All,Total,0.5
-2021,SLE,All,Total,1.6
-2022,SLE,All,Total,1.6
-2023,SLE,All,Total,1.6
-2024,SLE,All,Total,1.7
-2015,SGP,All,Total,0
-2016,SGP,All,Total,0
-2017,SGP,All,Total,0
-2018,SGP,All,Total,0
-2019,SGP,All,Total,0
-2020,SGP,All,Total,0
-2021,SGP,All,Total,0
-2022,SGP,All,Total,0
-2023,SGP,All,Total,0
-2024,SGP,All,Total,0
-2016,SXM,All,Total,5.3
-2017,SXM,All,Total,8.7
-2018,SXM,All,Total,8.7
-2019,SXM,All,Total,8.7
-2020,SXM,All,Total,8.7
-2021,SXM,All,Total,8.7
-2022,SXM,All,Total,8.7
-2023,SXM,All,Total,8.7
-2024,SXM,All,Total,5.1
-2015,SVN,All,Total,100
-2016,SVN,All,Total,100
-2017,SVN,All,Total,100
-2018,SVN,All,Total,100
-2019,SVN,All,Total,100
-2020,SVN,All,Total,2.3
-2021,SVN,All,Total,2.3
-2022,SVN,All,Total,2.3
-2023,SVN,All,Total,2.3
-2024,SVN,All,Total,2.9
-2015,SLB,All,Total,0.1
-2016,SLB,All,Total,0.1
-2017,SLB,All,Total,0.1
-2018,SLB,All,Total,0.1
-2019,SLB,All,Total,0.1
-2020,SLB,All,Total,0.1
-2021,SLB,All,Total,0.1
-2022,SLB,All,Total,0.1
-2023,SLB,All,Total,0.1
-2024,SLB,All,Total,0.1
-2019,SOM,All,Total,0
-2020,SOM,All,Total,0
-2021,SOM,All,Total,0
-2022,SOM,All,Total,0
-2023,SOM,All,Total,0
-2024,SOM,All,Total,0
-2015,ZAF,All,Total,12
-2016,ZAF,All,Total,12
-2017,ZAF,All,Total,12
-2018,ZAF,All,Total,12
-2019,ZAF,All,Total,15
-2020,ZAF,All,Total,16
-2021,ZAF,All,Total,16
-2022,ZAF,All,Total,16
-2023,ZAF,All,Total,16
-2024,ZAF,All,Total,15
-2015,ESP,All,Total,7.1
-2016,ESP,All,Total,8.4
-2017,ESP,All,Total,8.4
-2018,ESP,All,Total,8.4
-2019,ESP,All,Total,13
-2020,ESP,All,Total,13
-2021,ESP,All,Total,13
-2022,ESP,All,Total,13
-2023,ESP,All,Total,13
-2024,ESP,All,Total,13
-2015,LKA,All,Total,0.1
-2016,LKA,All,Total,0.1
-2017,LKA,All,Total,0.1
-2018,LKA,All,Total,0.1
-2019,LKA,All,Total,0.1
-2020,LKA,All,Total,0.1
-2021,LKA,All,Total,0.1
-2022,LKA,All,Total,0.1
-2023,LKA,All,Total,0.1
-2024,LKA,All,Total,0.1
-2015,KNA,All,Total,0.2
-2016,KNA,All,Total,0.2
-2017,KNA,All,Total,0.2
-2018,KNA,All,Total,0.2
-2019,KNA,All,Total,4
-2020,KNA,All,Total,4
-2021,KNA,All,Total,4
-2022,KNA,All,Total,4
-2023,KNA,All,Total,4
-2024,KNA,All,Total,4.5
-2015,LCA,All,Total,0.2
-2016,LCA,All,Total,0.2
-2017,LCA,All,Total,0.2
-2018,LCA,All,Total,0.2
-2019,LCA,All,Total,0.2
-2020,LCA,All,Total,0.2
-2021,LCA,All,Total,0.2
-2022,LCA,All,Total,0.2
-2023,LCA,All,Total,0.2
-2024,LCA,All,Total,0.3
-2015,MAF,All,Total,2.8
-2016,MAF,All,Total,97
-2017,MAF,All,Total,96
-2018,MAF,All,Total,96
-2019,MAF,All,Total,96
-2020,MAF,All,Total,96
-2021,MAF,All,Total,96
-2022,MAF,All,Total,96
-2023,MAF,All,Total,96
-2024,MAF,All,Total,97
-2015,VCT,All,Total,0.2
-2016,VCT,All,Total,0.2
-2017,VCT,All,Total,0.2
-2018,VCT,All,Total,0.2
-2019,VCT,All,Total,0.2
-2020,VCT,All,Total,0.2
-2021,VCT,All,Total,0.2
-2022,VCT,All,Total,0.2
-2023,VCT,All,Total,0.2
-2024,VCT,All,Total,0.2
-2015,SDN,All,Total,0
-2016,SDN,All,Total,16
-2017,SDN,All,Total,16
-2018,SDN,All,Total,16
-2019,SDN,All,Total,16
-2020,SDN,All,Total,16
-2021,SDN,All,Total,16
-2022,SDN,All,Total,16
-2023,SDN,All,Total,16
-2024,SDN,All,Total,17
-2015,SUR,All,Total,1.5
-2016,SUR,All,Total,1.5
-2017,SUR,All,Total,1.5
-2018,SUR,All,Total,1.5
-2019,SUR,All,Total,1.5
-2020,SUR,All,Total,1.5
-2021,SUR,All,Total,1.5
-2022,SUR,All,Total,1.5
-2023,SUR,All,Total,1.5
-2024,SUR,All,Total,1.5
-2015,SWE,All,Total,8
-2016,SWE,All,Total,8.2
-2017,SWE,All,Total,15
-2018,SWE,All,Total,15
-2019,SWE,All,Total,15
-2020,SWE,All,Total,15
-2021,SWE,All,Total,16
-2022,SWE,All,Total,16
-2023,SWE,All,Total,16
-2024,SWE,All,Total,16
-2015,SYR,All,Total,0.2
-2016,SYR,All,Total,0.2
-2017,SYR,All,Total,0.2
-2018,SYR,All,Total,0.2
-2019,SYR,All,Total,0.2
-2020,SYR,All,Total,0.2
-2021,SYR,All,Total,0.2
-2022,SYR,All,Total,0.2
-2023,SYR,All,Total,0.2
-2024,SYR,All,Total,0.2
-2015,TZA,All,Total,3
-2016,TZA,All,Total,2.5
-2017,TZA,All,Total,3
-2018,TZA,All,Total,3
-2019,TZA,All,Total,3
-2020,TZA,All,Total,3
-2021,TZA,All,Total,3
-2022,TZA,All,Total,3
-2023,TZA,All,Total,3
-2024,TZA,All,Total,2.3
-2015,THA,All,Total,1.9
-2016,THA,All,Total,1.9
-2017,THA,All,Total,1.9
-2018,THA,All,Total,1.9
-2019,THA,All,Total,1.9
-2020,THA,All,Total,4.4
-2021,THA,All,Total,4.4
-2022,THA,All,Total,4.4
-2023,THA,All,Total,4.8
-2024,THA,All,Total,5
-2015,TLS,All,Total,1.4
-2016,TLS,All,Total,1.4
-2017,TLS,All,Total,1.4
-2018,TLS,All,Total,1.4
-2019,TLS,All,Total,1.4
-2020,TLS,All,Total,1.4
-2021,TLS,All,Total,1.4
-2022,TLS,All,Total,1.4
-2023,TLS,All,Total,1.4
-2024,TLS,All,Total,0.7
-2015,TGO,All,Total,0.2
-2016,TGO,All,Total,0.2
-2017,TGO,All,Total,0.2
-2018,TGO,All,Total,0.2
-2019,TGO,All,Total,0.2
-2020,TGO,All,Total,0.2
-2021,TGO,All,Total,0.2
-2022,TGO,All,Total,0.2
-2023,TGO,All,Total,0.2
-2024,TGO,All,Total,0.7
-2015,TON,All,Total,1.5
-2016,TON,All,Total,1.5
-2017,TON,All,Total,1.5
-2018,TON,All,Total,1.5
-2019,TON,All,Total,0.1
-2020,TON,All,Total,0.1
-2021,TON,All,Total,0.1
-2022,TON,All,Total,0.1
-2023,TON,All,Total,0.1
-2024,TON,All,Total,0.1
-2015,TTO,All,Total,0
-2016,TTO,All,Total,0
-2017,TTO,All,Total,0
-2018,TTO,All,Total,0
-2019,TTO,All,Total,0
-2020,TTO,All,Total,0
-2021,TTO,All,Total,0
-2022,TTO,All,Total,0
-2023,TTO,All,Total,0
-2024,TTO,All,Total,0.1
-2015,TUN,All,Total,1.1
-2016,TUN,All,Total,1
-2017,TUN,All,Total,1
-2018,TUN,All,Total,1
-2019,TUN,All,Total,1
-2020,TUN,All,Total,1
-2021,TUN,All,Total,1
-2022,TUN,All,Total,1
-2023,TUN,All,Total,1
-2024,TUN,All,Total,1.1
-2015,TUR,All,Total,0.1
-2016,TUR,All,Total,0.1
-2017,TUR,All,Total,0.1
-2018,TUR,All,Total,0.1
-2019,TUR,All,Total,0.1
-2020,TUR,All,Total,0.1
-2021,TUR,All,Total,1.8
-2022,TUR,All,Total,1.8
-2023,TUR,All,Total,1.8
-2024,TUR,All,Total,1.7
-2015,TKM,All,Total,3
-2016,TKM,All,Total,3
-2017,TKM,All,Total,3
-2018,TKM,All,Total,3
-2019,TKM,All,Total,3
-2020,TKM,All,Total,3
-2021,TKM,All,Total,3
-2022,TKM,All,Total,3
-2023,TKM,All,Total,3
-2024,TKM,All,Total,4.2
-2015,TCA,All,Total,0.1
-2016,TCA,All,Total,0.1
-2017,TCA,All,Total,0.1
-2018,TCA,All,Total,0.1
-2019,TCA,All,Total,0.1
-2020,TCA,All,Total,0.1
-2021,TCA,All,Total,0.1
-2022,TCA,All,Total,0.1
-2023,TCA,All,Total,0.1
-2024,TCA,All,Total,0.2
-2015,TUV,All,Total,0
-2016,TUV,All,Total,0
-2017,TUV,All,Total,0
-2018,TUV,All,Total,0
-2019,TUV,All,Total,0
-2020,TUV,All,Total,0
-2021,TUV,All,Total,0
-2022,TUV,All,Total,0
-2023,TUV,All,Total,0
-2024,TUV,All,Total,0
-2015,UKR,All,Total,3.4
-2016,UKR,All,Total,3.4
-2017,UKR,All,Total,3.4
-2018,UKR,All,Total,3.4
-2019,UKR,All,Total,3.4
-2020,UKR,All,Total,3.4
-2021,UKR,All,Total,9.2
-2022,UKR,All,Total,9.2
-2023,UKR,All,Total,9.2
-2024,UKR,All,Total,22
+2025,ABW,All,Total,0.4
+2024,ABW,Habitat,Cold water corals,0
+2025,ABW,Habitat,Cold water corals,0
+2024,ABW,Habitat,Mangroves,2
+2025,ABW,Habitat,Mangroves,96
+2024,ABW,Habitat,Seagrasses,0
+2025,ABW,Habitat,Seagrasses,44
+2024,ABW,Habitat,Warm water corals,0.74
+2025,ABW,Habitat,Warm water corals,70
+2015,AGO,All,Total,0
+2016,AGO,All,Total,0
+2017,AGO,All,Total,0
+2018,AGO,All,Total,0
+2019,AGO,All,Total,0
+2020,AGO,All,Total,0
+2021,AGO,All,Total,0
+2022,AGO,All,Total,0
+2023,AGO,All,Total,0
+2024,AGO,All,Total,0
+2025,AGO,All,Total,0
+2024,AGO,Habitat,Cold water corals,0
+2025,AGO,Habitat,Cold water corals,0
+2024,AGO,Habitat,Mangroves,0.45
+2025,AGO,Habitat,Mangroves,4.5
+2024,AGO,Habitat,Saltmarshes,24
+2025,AGO,Habitat,Saltmarshes,0
+2024,AGO,Habitat,Seagrasses,0
+2025,AGO,Habitat,Seagrasses,0.045
+2024,AIA,Habitat,Cold water corals,0
+2025,AIA,Habitat,Cold water corals,0
+2024,AIA,Habitat,Mangroves,0
+2025,AIA,Habitat,Mangroves,0
+2024,AIA,Habitat,Seagrasses,7.2
+2025,AIA,Habitat,Seagrasses,22
+2024,AIA,Habitat,Warm water corals,45
+2025,AIA,Habitat,Warm water corals,45
+2024,ALA,Habitat,Saltmarshes,2.9
+2025,ALA,Habitat,Saltmarshes,1
+2024,ALA,Habitat,Seagrasses,0
+2025,ALA,Habitat,Seagrasses,0
+2015,ALB,All,Total,1
+2016,ALB,All,Total,2.7
+2017,ALB,All,Total,2.7
+2018,ALB,All,Total,2.7
+2019,ALB,All,Total,2.8
+2020,ALB,All,Total,2.8
+2021,ALB,All,Total,2.8
+2022,ALB,All,Total,2.8
+2023,ALB,All,Total,2.8
+2024,ALB,All,Total,3.4
+2025,ALB,All,Total,3.4
+2024,ALB,Habitat,Cold water corals,0
+2025,ALB,Habitat,Cold water corals,0
+2024,ALB,Habitat,Saltmarshes,85
+2025,ALB,Habitat,Saltmarshes,89
+2024,ALB,Habitat,Seagrasses,6.7
+2025,ALB,Habitat,Seagrasses,13
 2015,ARE,All,Total,12
 2016,ARE,All,Total,4.3
 2017,ARE,All,Total,4.3
@@ -1652,93 +119,800 @@ year,geo,disagg_type,disagg,value
 2022,ARE,All,Total,12
 2023,ARE,All,Total,12
 2024,ARE,All,Total,12
-2015,GBR,All,Total,13
-2016,GBR,All,Total,22
-2017,GBR,All,Total,29
-2018,GBR,All,Total,29
-2019,GBR,All,Total,29
-2020,GBR,All,Total,44
-2021,GBR,All,Total,44
-2022,GBR,All,Total,44
-2023,GBR,All,Total,44
-2024,GBR,All,Total,47
-2015,USA,All,Total,28
-2016,USA,All,Total,41
-2017,USA,All,Total,41
-2018,USA,All,Total,41
-2019,USA,All,Total,41
-2020,USA,All,Total,37
-2021,USA,All,Total,19
-2022,USA,All,Total,19
-2023,USA,All,Total,19
-2024,USA,All,Total,19
-2015,URY,All,Total,0.3
-2016,URY,All,Total,0.7
-2017,URY,All,Total,0.7
-2018,URY,All,Total,0.7
-2019,URY,All,Total,0.8
-2020,URY,All,Total,0.8
-2021,URY,All,Total,0.8
-2022,URY,All,Total,0.8
-2023,URY,All,Total,0.8
-2024,URY,All,Total,1.5
-2015,VUT,All,Total,0
-2016,VUT,All,Total,0
-2017,VUT,All,Total,0
-2018,VUT,All,Total,0
-2019,VUT,All,Total,0
-2020,VUT,All,Total,0
-2021,VUT,All,Total,0
-2022,VUT,All,Total,0
-2023,VUT,All,Total,0
-2024,VUT,All,Total,0
-2015,VEN,All,Total,3.5
-2016,VEN,All,Total,3.5
-2017,VEN,All,Total,3.5
-2018,VEN,All,Total,3.5
-2019,VEN,All,Total,3.5
-2020,VEN,All,Total,4.3
-2021,VEN,All,Total,4.3
-2022,VEN,All,Total,4.4
-2023,VEN,All,Total,4.3
-2024,VEN,All,Total,4.4
-2015,VNM,All,Total,0.6
-2016,VNM,All,Total,0.6
-2017,VNM,All,Total,0.6
-2018,VNM,All,Total,0.6
-2019,VNM,All,Total,0.6
-2020,VNM,All,Total,0.6
-2021,VNM,All,Total,0.6
-2022,VNM,All,Total,0.6
-2023,VNM,All,Total,0.6
-2024,VNM,All,Total,0.5
-2015,VIR,All,Total,0.8
-2016,VIR,All,Total,0.9
-2017,VIR,All,Total,0.8
-2018,VIR,All,Total,0.9
-2019,VIR,All,Total,0.9
-2020,VIR,All,Total,0.5
-2021,VIR,All,Total,0.9
-2022,VIR,All,Total,0.9
-2023,VIR,All,Total,0.9
-2024,VIR,All,Total,0.8
-2018,PSE,All,Total,0
-2019,PSE,All,Total,0
-2020,PSE,All,Total,0
-2021,PSE,All,Total,0
-2022,PSE,All,Total,0
-2023,PSE,All,Total,0
-2024,PSE,All,Total,0
-2015,YEM,All,Total,0.5
-2016,YEM,All,Total,0.5
-2017,YEM,All,Total,0.5
-2018,YEM,All,Total,0.5
-2019,YEM,All,Total,0.5
-2020,YEM,All,Total,0.5
-2021,YEM,All,Total,0.5
-2022,YEM,All,Total,0.5
-2023,YEM,All,Total,0.5
-2024,YEM,All,Total,0.4
+2025,ARE,All,Total,12
+2024,ARE,Habitat,Mangroves,15
+2025,ARE,Habitat,Mangroves,18
+2024,ARE,Habitat,Saltmarshes,19
+2025,ARE,Habitat,Saltmarshes,19
+2024,ARE,Habitat,Seagrasses,43
+2025,ARE,Habitat,Seagrasses,44
+2024,ARE,Habitat,Warm water corals,47
+2025,ARE,Habitat,Warm water corals,47
+2015,ARG,All,Total,4
+2016,ARG,All,Total,4
+2017,ARG,All,Total,4
+2018,ARG,All,Total,3.8
+2019,ARG,All,Total,12
+2020,ARG,All,Total,12
+2021,ARG,All,Total,12
+2022,ARG,All,Total,12
+2023,ARG,All,Total,12
+2024,ARG,All,Total,12
+2025,ARG,All,Total,12
+2024,ARG,Habitat,Cold water corals,11
+2025,ARG,Habitat,Cold water corals,11
+2024,ARG,Habitat,Saltmarshes,42
+2025,ARG,Habitat,Saltmarshes,45
+2015,ASM,All,Total,8.7
+2016,ASM,All,Total,8.7
+2017,ASM,All,Total,8.7
+2018,ASM,All,Total,8.7
+2019,ASM,All,Total,8.7
+2020,ASM,All,Total,0
+2021,ASM,All,Total,8.7
+2022,ASM,All,Total,8.7
+2023,ASM,All,Total,8.7
+2024,ASM,All,Total,8.7
+2025,ASM,All,Total,8.7
+2024,ASM,Habitat,Cold water corals,0
+2025,ASM,Habitat,Cold water corals,0
+2024,ASM,Habitat,Mangroves,0
+2025,ASM,Habitat,Mangroves,69
+2024,ASM,Habitat,Saltmarshes,21
+2025,ASM,Habitat,Saltmarshes,21
+2024,ASM,Habitat,Seagrasses,3.8
+2025,ASM,Habitat,Seagrasses,3.8
+2024,ASM,Habitat,Warm water corals,28
+2025,ASM,Habitat,Warm water corals,29
+2024,ATA,Habitat,Cold water corals,29
+2025,ATA,Habitat,Cold water corals,30
+2024,ATF,Habitat,Cold water corals,100
+2025,ATF,Habitat,Cold water corals,100
+2025,ATF,Habitat,Mangroves,100
+2024,ATF,Habitat,Seagrasses,0
+2025,ATF,Habitat,Seagrasses,0
+2024,ATF,Habitat,Warm water corals,32
+2025,ATF,Habitat,Warm water corals,16
+2015,ATG,All,Total,0.2
+2016,ATG,All,Total,0.2
+2017,ATG,All,Total,0.2
+2018,ATG,All,Total,0.2
+2019,ATG,All,Total,0.2
+2020,ATG,All,Total,0.3
+2021,ATG,All,Total,0.3
+2022,ATG,All,Total,0.3
+2023,ATG,All,Total,0.3
+2024,ATG,All,Total,0.7
+2025,ATG,All,Total,0.7
+2024,ATG,Habitat,Cold water corals,0
+2025,ATG,Habitat,Cold water corals,0
+2024,ATG,Habitat,Mangroves,50
+2025,ATG,Habitat,Mangroves,47
+2024,ATG,Habitat,Saltmarshes,88
+2025,ATG,Habitat,Saltmarshes,88
+2024,ATG,Habitat,Seagrasses,21
+2025,ATG,Habitat,Seagrasses,22
+2024,ATG,Habitat,Warm water corals,62
+2025,ATG,Habitat,Warm water corals,62
+2015,AUS,All,Total,43
+2016,AUS,All,Total,41
+2017,AUS,All,Total,41
+2018,AUS,All,Total,41
+2019,AUS,All,Total,41
+2020,AUS,All,Total,41
+2021,AUS,All,Total,44
+2022,AUS,All,Total,44
+2023,AUS,All,Total,44
+2024,AUS,All,Total,45
+2025,AUS,All,Total,45
+2024,AUS,Habitat,Cold water corals,37
+2025,AUS,Habitat,Cold water corals,46
+2024,AUS,Habitat,Mangroves,49
+2025,AUS,Habitat,Mangroves,50
+2024,AUS,Habitat,Saltmarshes,32
+2025,AUS,Habitat,Saltmarshes,32
+2024,AUS,Habitat,Seagrasses,40
+2025,AUS,Habitat,Seagrasses,41
+2024,AUS,Habitat,Warm water corals,87
+2025,AUS,Habitat,Warm water corals,86
+2015,AZE,All,Total,0.4
+2016,AZE,All,Total,0.4
+2017,AZE,All,Total,0.4
+2018,AZE,All,Total,0.4
+2019,AZE,All,Total,0.4
+2020,AZE,All,Total,0.4
+2021,AZE,All,Total,0.4
+2022,AZE,All,Total,0.4
+2023,AZE,All,Total,0.4
+2024,AZE,All,Total,1
+2025,AZE,All,Total,1
+2024,AZE,Habitat,Saltmarshes,0
+2025,AZE,Habitat,Saltmarshes,0
+2024,AZE,Habitat,Seagrasses,0
+2025,AZE,Habitat,Seagrasses,30
+2015,BEL,All,Total,37
+2016,BEL,All,Total,37
+2017,BEL,All,Total,37
+2018,BEL,All,Total,37
+2019,BEL,All,Total,37
+2020,BEL,All,Total,37
+2021,BEL,All,Total,38
+2022,BEL,All,Total,38
+2023,BEL,All,Total,38
+2024,BEL,All,Total,38
+2025,BEL,All,Total,38
+2024,BEL,Habitat,Saltmarshes,83
+2025,BEL,Habitat,Saltmarshes,84
+2015,BEN,All,Total,0
+2016,BEN,All,Total,0
+2017,BEN,All,Total,0
+2018,BEN,All,Total,0
+2019,BEN,All,Total,0
+2020,BEN,All,Total,0
+2021,BEN,All,Total,0
+2022,BEN,All,Total,0
+2023,BEN,All,Total,0
+2024,BEN,All,Total,0
+2025,BEN,All,Total,0.8
+2024,BEN,Habitat,Cold water corals,0
+2025,BEN,Habitat,Cold water corals,0
+2024,BEN,Habitat,Mangroves,0
+2025,BEN,Habitat,Mangroves,100
+2024,BEN,Habitat,Seagrasses,0
+2025,BEN,Habitat,Seagrasses,9.5
+2024,BES,Habitat,Cold water corals,100
+2025,BES,Habitat,Cold water corals,100
+2024,BES,Habitat,Mangroves,100
+2025,BES,Habitat,Mangroves,72
+2024,BES,Habitat,Seagrasses,100
+2025,BES,Habitat,Seagrasses,88
+2024,BES,Habitat,Warm water corals,99
+2025,BES,Habitat,Warm water corals,99
+2015,BGD,All,Total,5.4
+2016,BGD,All,Total,5.4
+2017,BGD,All,Total,5.4
+2018,BGD,All,Total,5.4
+2019,BGD,All,Total,5.4
+2020,BGD,All,Total,5.4
+2021,BGD,All,Total,5.4
+2022,BGD,All,Total,5.4
+2023,BGD,All,Total,8
+2024,BGD,All,Total,8
+2025,BGD,All,Total,8.6
+2024,BGD,Habitat,Mangroves,92
+2025,BGD,Habitat,Mangroves,90
+2024,BGD,Habitat,Seagrasses,0
+2025,BGD,Habitat,Seagrasses,100
+2024,BGD,Habitat,Warm water corals,0
+2025,BGD,Habitat,Warm water corals,100
+2015,BGR,All,Total,8.1
+2016,BGR,All,Total,8.1
+2017,BGR,All,Total,8.1
+2018,BGR,All,Total,8.1
+2019,BGR,All,Total,8.1
+2020,BGR,All,Total,8.1
+2021,BGR,All,Total,8.1
+2022,BGR,All,Total,8.1
+2023,BGR,All,Total,8.1
+2024,BGR,All,Total,8.2
+2025,BGR,All,Total,8.2
+2024,BGR,Habitat,Saltmarshes,24
+2025,BGR,Habitat,Saltmarshes,24
+2015,BHR,All,Total,1.2
+2016,BHR,All,Total,1.2
+2017,BHR,All,Total,1.2
+2018,BHR,All,Total,1.2
+2019,BHR,All,Total,1.2
+2020,BHR,All,Total,1.2
+2021,BHR,All,Total,1.2
+2022,BHR,All,Total,21
+2023,BHR,All,Total,21
+2024,BHR,All,Total,21
+2025,BHR,All,Total,21
+2024,BHR,Habitat,Mangroves,0
+2025,BHR,Habitat,Mangroves,36
+2024,BHR,Habitat,Saltmarshes,0
+2025,BHR,Habitat,Saltmarshes,52
+2024,BHR,Habitat,Seagrasses,0
+2025,BHR,Habitat,Seagrasses,23
+2024,BHR,Habitat,Warm water corals,0
+2025,BHR,Habitat,Warm water corals,61
+2015,BHS,All,Total,0.6
+2016,BHS,All,Total,0.6
+2017,BHS,All,Total,7.9
+2018,BHS,All,Total,7.9
+2019,BHS,All,Total,7.9
+2020,BHS,All,Total,7.9
+2021,BHS,All,Total,7.9
+2022,BHS,All,Total,7.9
+2023,BHS,All,Total,7.9
+2024,BHS,All,Total,7.7
+2025,BHS,All,Total,7.7
+2024,BHS,Habitat,Cold water corals,7.9
+2025,BHS,Habitat,Cold water corals,7.9
+2024,BHS,Habitat,Mangroves,65
+2025,BHS,Habitat,Mangroves,65
+2024,BHS,Habitat,Saltmarshes,89
+2025,BHS,Habitat,Saltmarshes,89
+2024,BHS,Habitat,Seagrasses,3.1
+2025,BHS,Habitat,Seagrasses,3.1
+2024,BHS,Habitat,Warm water corals,16
+2025,BHS,Habitat,Warm water corals,16
+2015,BIH,All,Total,0
+2016,BIH,All,Total,0
+2017,BIH,All,Total,0
+2018,BIH,All,Total,0
+2019,BIH,All,Total,0
+2020,BIH,All,Total,0
+2021,BIH,All,Total,0
+2022,BIH,All,Total,0
+2023,BIH,All,Total,0
+2024,BIH,All,Total,0
+2025,BIH,All,Total,0
+2024,BIH,Habitat,Saltmarshes,11
+2025,BIH,Habitat,Saltmarshes,0.39
+2024,BLM,Habitat,Cold water corals,100
+2025,BLM,Habitat,Cold water corals,100
+2024,BLM,Habitat,Seagrasses,97
+2025,BLM,Habitat,Seagrasses,97
+2024,BLM,Habitat,Warm water corals,99
+2025,BLM,Habitat,Warm water corals,99
+2015,BLZ,All,Total,10
+2016,BLZ,All,Total,10
+2017,BLZ,All,Total,10
+2018,BLZ,All,Total,10
+2019,BLZ,All,Total,10
+2020,BLZ,All,Total,11
+2021,BLZ,All,Total,11
+2022,BLZ,All,Total,11
+2023,BLZ,All,Total,11
+2024,BLZ,All,Total,20
+2025,BLZ,All,Total,20
+2024,BLZ,Habitat,Cold water corals,67
+2025,BLZ,Habitat,Cold water corals,67
+2024,BLZ,Habitat,Mangroves,33
+2025,BLZ,Habitat,Mangroves,30
+2024,BLZ,Habitat,Seagrasses,43
+2025,BLZ,Habitat,Seagrasses,44
+2024,BLZ,Habitat,Warm water corals,41
+2025,BLZ,Habitat,Warm water corals,43
+2015,BMU,All,Total,0
+2016,BMU,All,Total,0
+2017,BMU,All,Total,0
+2018,BMU,All,Total,0
+2019,BMU,All,Total,0
+2020,BMU,All,Total,0
+2021,BMU,All,Total,0
+2022,BMU,All,Total,0
+2023,BMU,All,Total,0
+2024,BMU,All,Total,0
+2025,BMU,All,Total,0
+2024,BMU,Habitat,Cold water corals,0
+2025,BMU,Habitat,Cold water corals,0
+2025,BMU,Habitat,Mangroves,63
+2024,BMU,Habitat,Seagrasses,0
+2025,BMU,Habitat,Seagrasses,0
+2024,BMU,Habitat,Warm water corals,0.01
+2025,BMU,Habitat,Warm water corals,0.024
+2015,BRA,All,Total,1.6
+2016,BRA,All,Total,1.7
+2017,BRA,All,Total,1.7
+2018,BRA,All,Total,27
+2019,BRA,All,Total,27
+2020,BRA,All,Total,27
+2021,BRA,All,Total,27
+2022,BRA,All,Total,27
+2023,BRA,All,Total,27
+2024,BRA,All,Total,27
+2025,BRA,All,Total,27
+2024,BRA,Habitat,Cold water corals,0.86
+2025,BRA,Habitat,Cold water corals,0.86
+2024,BRA,Habitat,Mangroves,86
+2025,BRA,Habitat,Mangroves,87
+2024,BRA,Habitat,Saltmarshes,33
+2025,BRA,Habitat,Saltmarshes,34
+2024,BRA,Habitat,Seagrasses,0.23
+2025,BRA,Habitat,Seagrasses,12
+2024,BRA,Habitat,Warm water corals,82
+2025,BRA,Habitat,Warm water corals,94
+2015,BRB,All,Total,0
+2016,BRB,All,Total,0
+2017,BRB,All,Total,0
+2018,BRB,All,Total,0
+2019,BRB,All,Total,0
+2020,BRB,All,Total,0
+2021,BRB,All,Total,0
+2022,BRB,All,Total,0
+2023,BRB,All,Total,0
+2024,BRB,All,Total,0
+2025,BRB,All,Total,0
+2024,BRB,Habitat,Cold water corals,0
+2025,BRB,Habitat,Cold water corals,0
+2024,BRB,Habitat,Mangroves,0
+2025,BRB,Habitat,Mangroves,0
+2024,BRB,Habitat,Seagrasses,0
+2025,BRB,Habitat,Seagrasses,0.19
+2024,BRB,Habitat,Warm water corals,0.91
+2025,BRB,Habitat,Warm water corals,0.91
+2015,BRN,All,Total,0.2
+2016,BRN,All,Total,0.2
+2017,BRN,All,Total,0.2
+2018,BRN,All,Total,0.2
+2019,BRN,All,Total,0.2
+2020,BRN,All,Total,0.2
+2021,BRN,All,Total,0.2
+2022,BRN,All,Total,0.2
+2023,BRN,All,Total,0.2
+2024,BRN,All,Total,0
+2025,BRN,All,Total,0
+2024,BRN,Habitat,Mangroves,59
+2025,BRN,Habitat,Mangroves,61
+2024,BRN,Habitat,Warm water corals,0
+2025,BRN,Habitat,Warm water corals,0
+2015,CAN,All,Total,0.9
+2016,CAN,All,Total,0.9
+2017,CAN,All,Total,0.9
+2018,CAN,All,Total,2.9
+2019,CAN,All,Total,3.1
+2020,CAN,All,Total,8.8
+2021,CAN,All,Total,8.9
+2022,CAN,All,Total,9.1
+2023,CAN,All,Total,9.1
+2024,CAN,All,Total,9.2
+2025,CAN,All,Total,9.2
+2024,CAN,Habitat,Cold water corals,11
+2025,CAN,Habitat,Cold water corals,14
+2024,CAN,Habitat,Saltmarshes,75
+2025,CAN,Habitat,Saltmarshes,75
+2024,CAN,Habitat,Seagrasses,23
+2025,CAN,Habitat,Seagrasses,24
+2024,CCK,Habitat,Seagrasses,0
+2025,CCK,Habitat,Seagrasses,78
+2024,CCK,Habitat,Warm water corals,6.2
+2025,CCK,Habitat,Warm water corals,79
+2015,CHL,All,Total,4.4
+2016,CHL,All,Total,13
+2017,CHL,All,Total,13
+2018,CHL,All,Total,29
+2019,CHL,All,Total,41
+2020,CHL,All,Total,41
+2021,CHL,All,Total,41
+2022,CHL,All,Total,41
+2023,CHL,All,Total,41
+2024,CHL,All,Total,41
+2025,CHL,All,Total,41
+2024,CHL,Habitat,Cold water corals,53
+2025,CHL,Habitat,Cold water corals,53
+2024,CHL,Habitat,Saltmarshes,58
+2025,CHL,Habitat,Saltmarshes,58
+2024,CHL,Habitat,Seagrasses,0
+2025,CHL,Habitat,Seagrasses,0
+2015,CHN,All,Total,3.7
+2016,CHN,All,Total,3.8
+2017,CHN,All,Total,3.8
+2018,CHN,All,Total,5.4
+2019,CHN,All,Total,5.4
+2020,CHN,All,Total,5.5
+2021,CHN,All,Total,5.5
+2022,CHN,All,Total,5.5
+2023,CHN,All,Total,5.5
+2024,CHN,All,Total,4.8
+2025,CHN,All,Total,4.8
+2024,CHN,Habitat,Cold water corals,0
+2025,CHN,Habitat,Cold water corals,0
+2024,CHN,Habitat,Mangroves,6.7
+2025,CHN,Habitat,Mangroves,15
+2024,CHN,Habitat,Saltmarshes,4.5
+2025,CHN,Habitat,Saltmarshes,4.7
+2024,CHN,Habitat,Seagrasses,0
+2025,CHN,Habitat,Seagrasses,0.15
+2024,CHN,Habitat,Warm water corals,0
+2025,CHN,Habitat,Warm water corals,1.6
+2015,CIV,All,Total,0.1
+2016,CIV,All,Total,0.1
+2017,CIV,All,Total,0.1
+2018,CIV,All,Total,0.1
+2019,CIV,All,Total,0.1
+2020,CIV,All,Total,0.1
+2021,CIV,All,Total,0.1
+2022,CIV,All,Total,0.1
+2023,CIV,All,Total,0.1
+2024,CIV,All,Total,0.1
+2025,CIV,All,Total,0.2
+2024,CIV,Habitat,Cold water corals,0
+2025,CIV,Habitat,Cold water corals,0
+2024,CIV,Habitat,Mangroves,7.5
+2025,CIV,Habitat,Mangroves,50
+2015,CMR,All,Total,3.9
+2016,CMR,All,Total,3.4
+2017,CMR,All,Total,3.4
+2018,CMR,All,Total,3.4
+2019,CMR,All,Total,12
+2020,CMR,All,Total,11
+2021,CMR,All,Total,11
+2022,CMR,All,Total,11
+2023,CMR,All,Total,11
+2024,CMR,All,Total,11
+2025,CMR,All,Total,11
+2024,CMR,Habitat,Mangroves,75
+2025,CMR,Habitat,Mangroves,76
+2015,COD,All,Total,0.2
+2016,COD,All,Total,0.2
+2017,COD,All,Total,0.2
+2018,COD,All,Total,0.2
+2019,COD,All,Total,0.2
+2020,COD,All,Total,0.2
+2021,COD,All,Total,0.2
+2022,COD,All,Total,0.2
+2023,COD,All,Total,0.2
+2024,COD,All,Total,0.5
+2025,COD,All,Total,0.5
+2024,COD,Habitat,Mangroves,98
+2025,COD,Habitat,Mangroves,99
+2015,COG,All,Total,3.2
+2016,COG,All,Total,3.2
+2017,COG,All,Total,3.2
+2018,COG,All,Total,3.2
+2019,COG,All,Total,3.2
+2020,COG,All,Total,3
+2021,COG,All,Total,3
+2022,COG,All,Total,3
+2023,COG,All,Total,3
+2024,COG,All,Total,3.5
+2025,COG,All,Total,14
+2025,COG,Habitat,Mangroves,83
+2024,COK,Habitat,Cold water corals,100
+2025,COK,Habitat,Cold water corals,100
+2025,COK,Habitat,Mangroves,0
+2024,COK,Habitat,Saltmarshes,5.1
+2025,COK,Habitat,Saltmarshes,5.1
+2024,COK,Habitat,Warm water corals,44
+2025,COK,Habitat,Warm water corals,44
+2015,COL,All,Total,2.1
+2016,COL,All,Total,2.1
+2017,COL,All,Total,10
+2018,COL,All,Total,17
+2019,COL,All,Total,17
+2020,COL,All,Total,17
+2021,COL,All,Total,17
+2022,COL,All,Total,17
+2023,COL,All,Total,17
+2024,COL,All,Total,41
+2025,COL,All,Total,41
+2024,COL,Habitat,Cold water corals,19
+2025,COL,Habitat,Cold water corals,23
+2024,COL,Habitat,Mangroves,47
+2025,COL,Habitat,Mangroves,77
+2024,COL,Habitat,Seagrasses,44
+2025,COL,Habitat,Seagrasses,52
+2024,COL,Habitat,Warm water corals,89
+2025,COL,Habitat,Warm water corals,93
+2015,COM,All,Total,0
+2016,COM,All,Total,0
+2017,COM,All,Total,0
+2018,COM,All,Total,0
+2019,COM,All,Total,0
+2020,COM,All,Total,0.4
+2021,COM,All,Total,0.4
+2022,COM,All,Total,0.4
+2023,COM,All,Total,0.4
+2024,COM,All,Total,0.4
+2025,COM,All,Total,0.4
+2024,COM,Habitat,Mangroves,92
+2025,COM,Habitat,Mangroves,91
+2024,COM,Habitat,Seagrasses,4.5
+2025,COM,Habitat,Seagrasses,4.5
+2024,COM,Habitat,Warm water corals,59
+2025,COM,Habitat,Warm water corals,60
+2015,CPV,All,Total,0
+2016,CPV,All,Total,0
+2017,CPV,All,Total,0
+2018,CPV,All,Total,0
+2019,CPV,All,Total,0
+2020,CPV,All,Total,0
+2021,CPV,All,Total,0
+2022,CPV,All,Total,0
+2023,CPV,All,Total,0
+2024,CPV,All,Total,0.1
+2025,CPV,All,Total,0.1
+2024,CPV,Habitat,Cold water corals,0
+2025,CPV,Habitat,Cold water corals,8.2
+2015,CRI,All,Total,0.8
+2016,CRI,All,Total,0.8
+2017,CRI,All,Total,0.8
+2018,CRI,All,Total,0.8
+2019,CRI,All,Total,2.6
+2020,CRI,All,Total,2.7
+2021,CRI,All,Total,2.7
+2022,CRI,All,Total,29
+2023,CRI,All,Total,29
+2024,CRI,All,Total,28
+2025,CRI,All,Total,28
+2024,CRI,Habitat,Cold water corals,33
+2025,CRI,Habitat,Cold water corals,33
+2024,CRI,Habitat,Mangroves,49
+2025,CRI,Habitat,Mangroves,54
+2024,CRI,Habitat,Saltmarshes,73
+2025,CRI,Habitat,Saltmarshes,63
+2024,CRI,Habitat,Seagrasses,83
+2025,CRI,Habitat,Seagrasses,73
+2024,CRI,Habitat,Warm water corals,35
+2025,CRI,Habitat,Warm water corals,44
+2015,CUB,All,Total,2.6
+2016,CUB,All,Total,4.3
+2017,CUB,All,Total,4.3
+2018,CUB,All,Total,4.3
+2019,CUB,All,Total,3.9
+2020,CUB,All,Total,3.9
+2021,CUB,All,Total,3.9
+2022,CUB,All,Total,3.9
+2023,CUB,All,Total,3.9
+2024,CUB,All,Total,4.2
+2025,CUB,All,Total,4.2
+2024,CUB,Habitat,Cold water corals,0
+2025,CUB,Habitat,Cold water corals,0
+2024,CUB,Habitat,Mangroves,51
+2025,CUB,Habitat,Mangroves,52
+2024,CUB,Habitat,Saltmarshes,89
+2025,CUB,Habitat,Saltmarshes,89
+2024,CUB,Habitat,Seagrasses,43
+2025,CUB,Habitat,Seagrasses,43
+2024,CUB,Habitat,Warm water corals,28
+2025,CUB,Habitat,Warm water corals,28
+2015,CUW,All,Total,0
+2016,CUW,All,Total,0
+2017,CUW,All,Total,0
+2018,CUW,All,Total,0
+2019,CUW,All,Total,0
+2020,CUW,All,Total,0
+2021,CUW,All,Total,0
+2022,CUW,All,Total,0
+2023,CUW,All,Total,0
+2024,CUW,All,Total,0
+2025,CUW,All,Total,0
+2024,CUW,Habitat,Cold water corals,0
+2025,CUW,Habitat,Cold water corals,0
+2024,CUW,Habitat,Mangroves,42
+2025,CUW,Habitat,Mangroves,7.1
+2024,CUW,Habitat,Seagrasses,23
+2025,CUW,Habitat,Seagrasses,23
+2024,CUW,Habitat,Warm water corals,14
+2025,CUW,Habitat,Warm water corals,14
+2025,CXR,Habitat,Seagrasses,94
+2025,CXR,Habitat,Warm water corals,63
+2015,CYM,All,Total,0.1
+2016,CYM,All,Total,0.1
+2017,CYM,All,Total,0.1
+2018,CYM,All,Total,0.1
+2019,CYM,All,Total,0.1
+2020,CYM,All,Total,0.1
+2021,CYM,All,Total,0.1
+2022,CYM,All,Total,0.1
+2023,CYM,All,Total,0.1
+2024,CYM,All,Total,0.1
+2025,CYM,All,Total,0.1
+2024,CYM,Habitat,Cold water corals,0
+2025,CYM,Habitat,Cold water corals,0
+2024,CYM,Habitat,Mangroves,22
+2025,CYM,Habitat,Mangroves,21
+2024,CYM,Habitat,Seagrasses,6.8
+2025,CYM,Habitat,Seagrasses,13
+2024,CYM,Habitat,Warm water corals,38
+2025,CYM,Habitat,Warm water corals,38
+2015,CYP,All,Total,0.1
+2016,CYP,All,Total,0.1
+2017,CYP,All,Total,0.1
+2018,CYP,All,Total,0.1
+2019,CYP,All,Total,0.1
+2020,CYP,All,Total,8.6
+2021,CYP,All,Total,8.6
+2022,CYP,All,Total,8.6
+2023,CYP,All,Total,8.6
+2024,CYP,All,Total,8.6
+2025,CYP,All,Total,8.6
+2024,CYP,Habitat,Cold water corals,0
+2025,CYP,Habitat,Cold water corals,0
+2024,CYP,Habitat,Saltmarshes,94
+2025,CYP,Habitat,Saltmarshes,88
+2024,CYP,Habitat,Seagrasses,65
+2025,CYP,Habitat,Seagrasses,56
+2015,DEU,All,Total,45
+2016,DEU,All,Total,45
+2017,DEU,All,Total,45
+2018,DEU,All,Total,45
+2019,DEU,All,Total,45
+2020,DEU,All,Total,45
+2021,DEU,All,Total,46
+2022,DEU,All,Total,46
+2023,DEU,All,Total,46
+2024,DEU,All,Total,45
+2025,DEU,All,Total,45
+2024,DEU,Habitat,Saltmarshes,98
+2025,DEU,Habitat,Saltmarshes,99
+2024,DEU,Habitat,Seagrasses,100
+2025,DEU,Habitat,Seagrasses,95
+2015,DJI,All,Total,0.2
+2016,DJI,All,Total,0.2
+2017,DJI,All,Total,0.2
+2018,DJI,All,Total,0.2
+2019,DJI,All,Total,0.2
+2020,DJI,All,Total,0.2
+2021,DJI,All,Total,0.2
+2022,DJI,All,Total,0.2
+2023,DJI,All,Total,0.2
+2024,DJI,All,Total,0.2
+2025,DJI,All,Total,0.2
+2024,DJI,Habitat,Mangroves,0
+2025,DJI,Habitat,Mangroves,9.7
+2024,DJI,Habitat,Saltmarshes,0
+2025,DJI,Habitat,Saltmarshes,0
+2024,DJI,Habitat,Warm water corals,0
+2025,DJI,Habitat,Warm water corals,3.4
+2015,DMA,All,Total,0
+2016,DMA,All,Total,0.1
+2017,DMA,All,Total,0.1
+2018,DMA,All,Total,0.1
+2019,DMA,All,Total,0
+2020,DMA,All,Total,0
+2021,DMA,All,Total,0
+2022,DMA,All,Total,0
+2023,DMA,All,Total,0
+2024,DMA,All,Total,0.1
+2025,DMA,All,Total,0.1
+2024,DMA,Habitat,Cold water corals,0
+2025,DMA,Habitat,Cold water corals,0
+2024,DMA,Habitat,Mangroves,100
+2025,DMA,Habitat,Mangroves,100
+2024,DMA,Habitat,Seagrasses,1.3
+2025,DMA,Habitat,Seagrasses,1.3
+2024,DMA,Habitat,Warm water corals,4.4
+2025,DMA,Habitat,Warm water corals,4.4
+2015,DNK,All,Total,18
+2016,DNK,All,Total,18
+2017,DNK,All,Total,18
+2018,DNK,All,Total,18
+2019,DNK,All,Total,18
+2020,DNK,All,Total,18
+2021,DNK,All,Total,18
+2022,DNK,All,Total,18
+2023,DNK,All,Total,18
+2024,DNK,All,Total,19
+2025,DNK,All,Total,27
+2024,DNK,Habitat,Cold water corals,0
+2025,DNK,Habitat,Cold water corals,0
+2024,DNK,Habitat,Saltmarshes,96
+2025,DNK,Habitat,Saltmarshes,97
+2024,DNK,Habitat,Seagrasses,53
+2025,DNK,Habitat,Seagrasses,54
+2015,DOM,All,Total,9.1
+2016,DOM,All,Total,9.1
+2017,DOM,All,Total,9.1
+2018,DOM,All,Total,18
+2019,DOM,All,Total,18
+2020,DOM,All,Total,18
+2021,DOM,All,Total,18
+2022,DOM,All,Total,17
+2023,DOM,All,Total,17
+2024,DOM,All,Total,13
+2025,DOM,All,Total,13
+2024,DOM,Habitat,Cold water corals,87
+2025,DOM,Habitat,Cold water corals,87
+2024,DOM,Habitat,Mangroves,82
+2025,DOM,Habitat,Mangroves,91
+2024,DOM,Habitat,Seagrasses,25
+2025,DOM,Habitat,Seagrasses,25
+2024,DOM,Habitat,Warm water corals,65
+2025,DOM,Habitat,Warm water corals,65
+2015,DZA,All,Total,0.1
+2016,DZA,All,Total,0.1
+2017,DZA,All,Total,0.1
+2018,DZA,All,Total,0.1
+2019,DZA,All,Total,0.1
+2020,DZA,All,Total,0.1
+2021,DZA,All,Total,0.1
+2022,DZA,All,Total,0.1
+2023,DZA,All,Total,0.1
+2024,DZA,All,Total,0.1
+2025,DZA,All,Total,0.1
+2024,DZA,Habitat,Cold water corals,0
+2025,DZA,Habitat,Cold water corals,0
+2024,DZA,Habitat,Saltmarshes,100
+2025,DZA,Habitat,Saltmarshes,100
+2024,DZA,Habitat,Seagrasses,0.06
+2025,DZA,Habitat,Seagrasses,0.06
+2015,ECU,All,Total,13
+2016,ECU,All,Total,13
+2017,ECU,All,Total,13
+2018,ECU,All,Total,13
+2019,ECU,All,Total,13
+2020,ECU,All,Total,13
+2021,ECU,All,Total,13
+2022,ECU,All,Total,19
+2023,ECU,All,Total,19
+2024,ECU,All,Total,19
+2025,ECU,All,Total,19
+2024,ECU,Habitat,Cold water corals,96
+2025,ECU,Habitat,Cold water corals,94
+2024,ECU,Habitat,Mangroves,49
+2025,ECU,Habitat,Mangroves,53
+2024,ECU,Habitat,Saltmarshes,44
+2025,ECU,Habitat,Saltmarshes,47
+2024,ECU,Habitat,Warm water corals,100
+2025,ECU,Habitat,Warm water corals,100
+2015,EGY,All,Total,5
+2016,EGY,All,Total,5
+2017,EGY,All,Total,5
+2018,EGY,All,Total,5
+2019,EGY,All,Total,5
+2020,EGY,All,Total,5
+2021,EGY,All,Total,5
+2022,EGY,All,Total,5
+2023,EGY,All,Total,5
+2024,EGY,All,Total,4.6
+2025,EGY,All,Total,5.1
+2024,EGY,Habitat,Mangroves,49
+2025,EGY,Habitat,Mangroves,41
+2024,EGY,Habitat,Saltmarshes,39
+2025,EGY,Habitat,Saltmarshes,39
+2024,EGY,Habitat,Seagrasses,19
+2025,EGY,Habitat,Seagrasses,20
+2024,EGY,Habitat,Warm water corals,52
+2025,EGY,Habitat,Warm water corals,53
+2015,ERI,All,Total,0
+2016,ERI,All,Total,0
+2017,ERI,All,Total,0
+2018,ERI,All,Total,0
+2019,ERI,All,Total,0
+2020,ERI,All,Total,0
+2021,ERI,All,Total,0
+2022,ERI,All,Total,0
+2023,ERI,All,Total,0
+2024,ERI,All,Total,0
+2025,ERI,All,Total,0
+2024,ERI,Habitat,Cold water corals,0
+2025,ERI,Habitat,Cold water corals,0
+2024,ERI,Habitat,Mangroves,0
+2025,ERI,Habitat,Mangroves,0
+2024,ERI,Habitat,Seagrasses,0
+2025,ERI,Habitat,Seagrasses,0
+2024,ERI,Habitat,Warm water corals,0
+2025,ERI,Habitat,Warm water corals,0
+2024,ESH,Habitat,Saltmarshes,0
+2025,ESH,Habitat,Saltmarshes,0
+2024,ESH,Habitat,Seagrasses,0
+2025,ESH,Habitat,Seagrasses,0
+2015,ESP,All,Total,7.1
+2016,ESP,All,Total,8.4
+2017,ESP,All,Total,8.4
+2018,ESP,All,Total,8.4
+2019,ESP,All,Total,13
+2020,ESP,All,Total,13
+2021,ESP,All,Total,13
+2022,ESP,All,Total,13
+2023,ESP,All,Total,13
+2024,ESP,All,Total,13
+2025,ESP,All,Total,19
+2024,ESP,Habitat,Cold water corals,86
+2025,ESP,Habitat,Cold water corals,90
+2024,ESP,Habitat,Saltmarshes,96
+2025,ESP,Habitat,Saltmarshes,96
+2024,ESP,Habitat,Seagrasses,66
+2025,ESP,Habitat,Seagrasses,66
+2015,EST,All,Total,19
+2016,EST,All,Total,19
+2017,EST,All,Total,19
+2018,EST,All,Total,19
+2019,EST,All,Total,19
+2020,EST,All,Total,19
+2021,EST,All,Total,19
+2022,EST,All,Total,19
+2023,EST,All,Total,19
+2024,EST,All,Total,19
+2025,EST,All,Total,19
+2024,EST,Habitat,Saltmarshes,93
+2025,EST,Habitat,Saltmarshes,93
+2024,EST,Habitat,Seagrasses,80
+2025,EST,Habitat,Seagrasses,75
 2015,EUU,All,Total,7.7
 2016,EUU,All,Total,9.3
 2017,EUU,All,Total,12
@@ -1749,638 +923,2268 @@ year,geo,disagg_type,disagg,value
 2022,EUU,All,Total,15
 2023,EUU,All,Total,15
 2024,EUU,All,Total,15
-2024,WLD,Area type,Marine Protected Areas,8.3
-2024,WLD,Area type,OECM,0.1
-2024,WLD,Habitat,Saltmarsh,50
-2024,WLD,Habitat,Seagrasses,24
-2024,WLD,Habitat,Warm water corals,42
-2024,WLD,Habitat,Mangroves,42
-2024,WLD,Habitat,Cold water corals,29
-2024,ABW,Habitat,Mangroves,2
-2024,AGO,Habitat,Mangroves,0.45
-2024,AIA,Habitat,Mangroves,0
-2024,ARE,Habitat,Mangroves,15
-2024,ASM,Habitat,Mangroves,0
-2024,ATG,Habitat,Mangroves,50
-2024,AUS,Habitat,Mangroves,49
-2024,BEN,Habitat,Mangroves,0
-2024,BES,Habitat,Mangroves,100
-2024,BGD,Habitat,Mangroves,92
-2024,BHR,Habitat,Mangroves,0
-2024,BHS,Habitat,Mangroves,65
-2024,BLZ,Habitat,Mangroves,33
-2024,BRA,Habitat,Mangroves,86
-2024,BRB,Habitat,Mangroves,0
-2024,BRN,Habitat,Mangroves,59
-2024,CHN,Habitat,Mangroves,6.7
-2024,CIV,Habitat,Mangroves,7.5
-2024,CMR,Habitat,Mangroves,75
-2024,COD,Habitat,Mangroves,98
-2024,COL,Habitat,Mangroves,47
-2024,COM,Habitat,Mangroves,92
-2024,CRI,Habitat,Mangroves,49
-2024,CUB,Habitat,Mangroves,51
-2024,CUW,Habitat,Mangroves,42
-2024,CYM,Habitat,Mangroves,22
-2024,DJI,Habitat,Mangroves,0
-2024,DMA,Habitat,Mangroves,100
-2024,DOM,Habitat,Mangroves,82
-2024,DPT,Habitat,Mangroves,11
-2024,ECU,Habitat,Mangroves,49
-2024,EGY,Habitat,Mangroves,49
-2024,ERI,Habitat,Mangroves,0
-2024,FJI,Habitat,Mangroves,33
-2024,FSM,Habitat,Mangroves,0
-2024,GAB,Habitat,Mangroves,52
-2024,GHA,Habitat,Mangroves,49
-2024,GIN,Habitat,Mangroves,25
-2024,GLP,Habitat,Mangroves,97
-2024,GMB,Habitat,Mangroves,45
-2024,GNB,Habitat,Mangroves,37
-2024,GNQ,Habitat,Mangroves,80
-2024,GRD,Habitat,Mangroves,29
-2024,GTM,Habitat,Mangroves,46
-2024,GUF,Habitat,Mangroves,71
-2024,GUY,Habitat,Mangroves,52
-2024,HKG,Habitat,Mangroves,58
-2024,HND,Habitat,Mangroves,66
-2024,HTI,Habitat,Mangroves,46
-2024,IDN,Habitat,Mangroves,24
-2024,IND,Habitat,Mangroves,21
-2024,IRN,Habitat,Mangroves,98
-2024,JAM,Habitat,Mangroves,57
-2024,JPN,Habitat,Mangroves,75
-2024,KEN,Habitat,Mangroves,16
-2024,KHM,Habitat,Mangroves,67
-2024,KNA,Habitat,Mangroves,0.4
-2024,LBR,Habitat,Mangroves,12
-2024,LCA,Habitat,Mangroves,65
-2024,LKA,Habitat,Mangroves,4.8
-2024,MAF,Habitat,Mangroves,98
-2024,MDG,Habitat,Mangroves,18
-2024,MEX,Habitat,Mangroves,75
-2024,MMR,Habitat,Mangroves,3
-2024,MOZ,Habitat,Mangroves,55
-2024,MRT,Habitat,Mangroves,49
-2024,MTQ,Habitat,Mangroves,99
-2024,MUS,Habitat,Mangroves,9.1
-2024,MYS,Habitat,Mangroves,14
-2024,MYT,Habitat,Mangroves,96
-2024,NCL,Habitat,Mangroves,31
-2024,NGA,Habitat,Mangroves,5.4
-2024,NIC,Habitat,Mangroves,79
-2024,NZL,Habitat,Mangroves,7.6
-2024,OMN,Habitat,Mangroves,47
-2024,PAK,Habitat,Mangroves,36
-2024,PAN,Habitat,Mangroves,41
-2024,PER,Habitat,Mangroves,40
-2024,PHL,Habitat,Mangroves,40
-2024,PLW,Habitat,Mangroves,83
-2024,PNG,Habitat,Mangroves,4.5
-2024,PRI,Habitat,Mangroves,50
-2024,QAT,Habitat,Mangroves,90
-2024,SAU,Habitat,Mangroves,12
-2024,SDN,Habitat,Mangroves,3.1
-2024,SEN,Habitat,Mangroves,58
-2024,SGP,Habitat,Mangroves,9.1
-2024,SLB,Habitat,Mangroves,10
-2024,SLE,Habitat,Mangroves,0
-2024,SLV,Habitat,Mangroves,77
-2024,SOM,Habitat,Mangroves,0
-2024,STP,Habitat,Mangroves,0
-2024,SUR,Habitat,Mangroves,69
-2024,SYC,Habitat,Mangroves,36
-2024,TCA,Habitat,Mangroves,78
-2024,THA,Habitat,Mangroves,6.9
-2024,TLS,Habitat,Mangroves,56
-2024,TON,Habitat,Mangroves,22
-2024,TTO,Habitat,Mangroves,33
-2024,TWN,Habitat,Mangroves,77
-2024,TZA,Habitat,Mangroves,84
-2024,USA,Habitat,Mangroves,90
-2024,VCT,Habitat,Mangroves,46
-2024,VEN,Habitat,Mangroves,67
-2024,VGB,Habitat,Mangroves,0
-2024,VIR,Habitat,Mangroves,64
-2024,VNM,Habitat,Mangroves,7.2
-2024,VUT,Habitat,Mangroves,0
-2024,WSM,Habitat,Mangroves,20
-2024,XHT,Habitat,Mangroves,100
-2024,YEM,Habitat,Mangroves,15
-2024,ZAF,Habitat,Mangroves,35
-2024,ABW,Habitat,Seagrasses,0
-2024,AGO,Habitat,Seagrasses,0
-2024,AIA,Habitat,Seagrasses,7.2
-2024,ALA,Habitat,Seagrasses,0
-2024,ALB,Habitat,Seagrasses,6.7
-2024,ARE,Habitat,Seagrasses,43
-2024,ASM,Habitat,Seagrasses,3.8
-2024,ATF,Habitat,Seagrasses,0
-2024,ATG,Habitat,Seagrasses,21
-2024,AUS,Habitat,Seagrasses,40
-2024,AZE,Habitat,Seagrasses,0
-2024,BEN,Habitat,Seagrasses,0
-2024,BES,Habitat,Seagrasses,100
-2024,BGD,Habitat,Seagrasses,0
-2024,BHR,Habitat,Seagrasses,0
-2024,BHS,Habitat,Seagrasses,3.1
-2024,BLM,Habitat,Seagrasses,97
-2024,BLZ,Habitat,Seagrasses,43
-2024,BMU,Habitat,Seagrasses,0
-2024,BRA,Habitat,Seagrasses,0.23
-2024,BRB,Habitat,Seagrasses,0
-2024,CAN,Habitat,Seagrasses,23
-2024,CCK,Habitat,Seagrasses,0
-2024,CHL,Habitat,Seagrasses,0
-2024,CHN,Habitat,Seagrasses,0
-2024,COL,Habitat,Seagrasses,44
-2024,COM,Habitat,Seagrasses,4.5
-2024,CRI,Habitat,Seagrasses,83
-2024,CUB,Habitat,Seagrasses,43
-2024,CUW,Habitat,Seagrasses,23
-2024,CYM,Habitat,Seagrasses,6.8
-2024,CYP,Habitat,Seagrasses,65
-2024,DEU,Habitat,Seagrasses,100
-2024,DMA,Habitat,Seagrasses,1.3
-2024,DNK,Habitat,Seagrasses,53
-2024,DOM,Habitat,Seagrasses,25
-2024,DPT,Habitat,Seagrasses,45
-2024,DZA,Habitat,Seagrasses,0.06
-2024,EGY,Habitat,Seagrasses,19
-2024,ERI,Habitat,Seagrasses,0
-2024,ESH,Habitat,Seagrasses,0
-2024,ESP,Habitat,Seagrasses,66
-2024,EST,Habitat,Seagrasses,80
-2024,FIN,Habitat,Seagrasses,26
-2024,FJI,Habitat,Seagrasses,17
-2024,FRA,Habitat,Seagrasses,97
-2024,FSM,Habitat,Seagrasses,0
-2024,GBR,Habitat,Seagrasses,82
-2024,GGY,Habitat,Seagrasses,0
-2024,GHA,Habitat,Seagrasses,0
-2024,GIN,Habitat,Seagrasses,4.2
-2024,GLP,Habitat,Seagrasses,98
-2024,GNB,Habitat,Seagrasses,15
-2024,GRC,Habitat,Seagrasses,91
-2024,GRD,Habitat,Seagrasses,7
-2024,GRL,Habitat,Seagrasses,0
-2024,GTM,Habitat,Seagrasses,71
-2024,GUM,Habitat,Seagrasses,8.3
-2024,HKG,Habitat,Seagrasses,13
-2024,HND,Habitat,Seagrasses,27
-2024,HRV,Habitat,Seagrasses,57
-2024,HTI,Habitat,Seagrasses,1.5
-2024,IDN,Habitat,Seagrasses,20
-2024,IMN,Habitat,Seagrasses,100
-2024,IND,Habitat,Seagrasses,0
-2024,IRL,Habitat,Seagrasses,100
-2024,IRN,Habitat,Seagrasses,11
-2024,IRQ,Habitat,Seagrasses,0
-2024,ISL,Habitat,Seagrasses,41
-2024,ISR,Habitat,Seagrasses,11
-2024,ITA,Habitat,Seagrasses,49
-2024,JAM,Habitat,Seagrasses,17
-2024,JEY,Habitat,Seagrasses,100
-2024,JOR,Habitat,Seagrasses,0
-2024,JPN,Habitat,Seagrasses,86
-2024,KAZ,Habitat,Seagrasses,42
-2024,KEN,Habitat,Seagrasses,63
-2024,KHM,Habitat,Seagrasses,33
-2024,KIR,Habitat,Seagrasses,0
-2024,KNA,Habitat,Seagrasses,87
-2024,KOR,Habitat,Seagrasses,29
-2024,KWT,Habitat,Seagrasses,12
-2024,LBN,Habitat,Seagrasses,0
-2024,LBY,Habitat,Seagrasses,0
-2024,LCA,Habitat,Seagrasses,65
-2024,LKA,Habitat,Seagrasses,0.14
-2024,LTU,Habitat,Seagrasses,50
-2024,MAF,Habitat,Seagrasses,97
-2024,MAR,Habitat,Seagrasses,50
-2024,MCO,Habitat,Seagrasses,100
-2024,MDG,Habitat,Seagrasses,21
-2024,MDV,Habitat,Seagrasses,1.1
-2024,MEX,Habitat,Seagrasses,61
-2024,MHL,Habitat,Seagrasses,0.38
-2024,MLT,Habitat,Seagrasses,91
-2024,MMR,Habitat,Seagrasses,0.33
-2024,MNE,Habitat,Seagrasses,0
-2024,MNP,Habitat,Seagrasses,25
-2024,MOZ,Habitat,Seagrasses,94
-2024,MRT,Habitat,Seagrasses,83
-2024,MSR,Habitat,Seagrasses,0
-2024,MTQ,Habitat,Seagrasses,99
-2024,MUS,Habitat,Seagrasses,0
-2024,MYS,Habitat,Seagrasses,18
-2024,MYT,Habitat,Seagrasses,92
-2024,NCL,Habitat,Seagrasses,80
-2024,NFK,Habitat,Seagrasses,0
-2024,NGA,Habitat,Seagrasses,0.01
-2024,NIC,Habitat,Seagrasses,17
-2024,NLD,Habitat,Seagrasses,100
-2024,NOR,Habitat,Seagrasses,19
-2024,NZL,Habitat,Seagrasses,14
-2024,OMN,Habitat,Seagrasses,13
-2024,PAN,Habitat,Seagrasses,5.1
-2024,PHL,Habitat,Seagrasses,29
-2024,PLW,Habitat,Seagrasses,99
-2024,PNG,Habitat,Seagrasses,12
-2024,POL,Habitat,Seagrasses,100
-2024,PRI,Habitat,Seagrasses,21
-2024,PRK,Habitat,Seagrasses,0
-2024,PRT,Habitat,Seagrasses,4.5
-2024,PYF,Habitat,Seagrasses,0
-2024,QAT,Habitat,Seagrasses,7.6
-2024,REU,Habitat,Seagrasses,0
-2024,ROU,Habitat,Seagrasses,80
-2024,RUS,Habitat,Seagrasses,2.3
-2024,SAU,Habitat,Seagrasses,1.6
-2024,SDN,Habitat,Seagrasses,0
-2024,SEN,Habitat,Seagrasses,33
-2024,SGP,Habitat,Seagrasses,0
-2024,SLB,Habitat,Seagrasses,13
-2024,SLE,Habitat,Seagrasses,0.03
-2024,SOM,Habitat,Seagrasses,0
-2024,STP,Habitat,Seagrasses,0
-2024,SUR,Habitat,Seagrasses,50
-2024,SVN,Habitat,Seagrasses,0.05
-2024,SWE,Habitat,Seagrasses,56
-2024,SXM,Habitat,Seagrasses,3
-2024,SYC,Habitat,Seagrasses,33
-2024,SYR,Habitat,Seagrasses,0
-2024,TCA,Habitat,Seagrasses,7
-2024,TGO,Habitat,Seagrasses,0
-2024,THA,Habitat,Seagrasses,77
-2024,TKM,Habitat,Seagrasses,13
-2024,TLS,Habitat,Seagrasses,1.2
-2024,TON,Habitat,Seagrasses,5
-2024,TTO,Habitat,Seagrasses,52
-2024,TUN,Habitat,Seagrasses,2.5
-2024,TUR,Habitat,Seagrasses,0
-2024,TWN,Habitat,Seagrasses,11
-2024,TZA,Habitat,Seagrasses,3.5
-2024,UKR,Habitat,Seagrasses,60
-2024,USA,Habitat,Seagrasses,61
-2024,VCT,Habitat,Seagrasses,13
-2024,VEN,Habitat,Seagrasses,7.7
-2024,VGB,Habitat,Seagrasses,0.27
-2024,VIR,Habitat,Seagrasses,31
-2024,VNM,Habitat,Seagrasses,9.8
-2024,VUT,Habitat,Seagrasses,0.26
-2024,WSM,Habitat,Seagrasses,4.8
-2024,XKI,Habitat,Seagrasses,100
-2024,YEM,Habitat,Seagrasses,0
-2024,ZAF,Habitat,Seagrasses,100
-2024,ABW,Habitat,Warm water corals,0.74
-2024,AIA,Habitat,Warm water corals,45
-2024,ARE,Habitat,Warm water corals,47
-2024,ASM,Habitat,Warm water corals,28
-2024,ATF,Habitat,Warm water corals,32
-2024,ATG,Habitat,Warm water corals,62
-2024,AUS,Habitat,Warm water corals,87
-2024,BES,Habitat,Warm water corals,99
-2024,BGD,Habitat,Warm water corals,0
-2024,BHR,Habitat,Warm water corals,0
-2024,BHS,Habitat,Warm water corals,16
-2024,BLM,Habitat,Warm water corals,99
-2024,BLZ,Habitat,Warm water corals,41
-2024,BMU,Habitat,Warm water corals,0.01
-2024,BRA,Habitat,Warm water corals,82
-2024,BRB,Habitat,Warm water corals,0.91
-2024,BRN,Habitat,Warm water corals,0
-2024,CCK,Habitat,Warm water corals,6.2
-2024,CHN,Habitat,Warm water corals,0
-2024,COK,Habitat,Warm water corals,44
-2024,COL,Habitat,Warm water corals,89
-2024,COM,Habitat,Warm water corals,59
-2024,CPT,Habitat,Warm water corals,50
-2024,CRI,Habitat,Warm water corals,35
-2024,CUB,Habitat,Warm water corals,28
-2024,CUW,Habitat,Warm water corals,14
-2024,CYM,Habitat,Warm water corals,38
-2024,DJI,Habitat,Warm water corals,0
-2024,DMA,Habitat,Warm water corals,4.4
-2024,DOM,Habitat,Warm water corals,65
-2024,DPT,Habitat,Warm water corals,59
-2024,ECU,Habitat,Warm water corals,100
-2024,EGY,Habitat,Warm water corals,52
-2024,ERI,Habitat,Warm water corals,0
-2024,FJI,Habitat,Warm water corals,35
-2024,FSM,Habitat,Warm water corals,1.8
-2024,GLP,Habitat,Warm water corals,99
-2024,GRD,Habitat,Warm water corals,6.6
-2024,GTM,Habitat,Warm water corals,72
-2024,GUM,Habitat,Warm water corals,6.9
-2024,HND,Habitat,Warm water corals,34
-2024,HTI,Habitat,Warm water corals,35
-2024,IDN,Habitat,Warm water corals,34
-2024,IND,Habitat,Warm water corals,0
-2024,IRN,Habitat,Warm water corals,1.5
-2024,ISR,Habitat,Warm water corals,76
-2024,JAM,Habitat,Warm water corals,18
-2024,JOR,Habitat,Warm water corals,11
-2024,JPN,Habitat,Warm water corals,72
-2024,KEN,Habitat,Warm water corals,30
-2024,KHM,Habitat,Warm water corals,17
-2024,KIR,Habitat,Warm water corals,3.7
-2024,KNA,Habitat,Warm water corals,98
-2024,KWT,Habitat,Warm water corals,0
-2024,LCA,Habitat,Warm water corals,13
-2024,LKA,Habitat,Warm water corals,0.91
-2024,MAF,Habitat,Warm water corals,100
-2024,MDG,Habitat,Warm water corals,34
-2024,MDV,Habitat,Warm water corals,4.4
-2024,MEX,Habitat,Warm water corals,70
-2024,MHL,Habitat,Warm water corals,18
-2024,MMR,Habitat,Warm water corals,6.3
-2024,MNP,Habitat,Warm water corals,14
-2024,MOZ,Habitat,Warm water corals,9.7
-2024,MSR,Habitat,Warm water corals,0
-2024,MTQ,Habitat,Warm water corals,100
-2024,MUS,Habitat,Warm water corals,72
-2024,MYS,Habitat,Warm water corals,31
-2024,MYT,Habitat,Warm water corals,99
-2024,NCL,Habitat,Warm water corals,79
-2024,NIC,Habitat,Warm water corals,61
-2024,NIU,Habitat,Warm water corals,2.5
-2024,NRU,Habitat,Warm water corals,0
-2024,OMN,Habitat,Warm water corals,17
-2024,PAN,Habitat,Warm water corals,11
-2024,PCN,Habitat,Warm water corals,90
-2024,PHL,Habitat,Warm water corals,16
-2024,PLW,Habitat,Warm water corals,100
-2024,PNG,Habitat,Warm water corals,4.1
-2024,PRI,Habitat,Warm water corals,21
-2024,PYF,Habitat,Warm water corals,0.01
-2024,QAT,Habitat,Warm water corals,0.37
-2024,REU,Habitat,Warm water corals,84
-2024,SAU,Habitat,Warm water corals,13
-2024,SDN,Habitat,Warm water corals,20
-2024,SGP,Habitat,Warm water corals,0
-2024,SLB,Habitat,Warm water corals,5.2
-2024,SOM,Habitat,Warm water corals,0
-2024,SXM,Habitat,Warm water corals,1.1
-2024,SYC,Habitat,Warm water corals,94
-2024,TCA,Habitat,Warm water corals,8.8
-2024,THA,Habitat,Warm water corals,63
-2024,TKL,Habitat,Warm water corals,0
-2024,TLS,Habitat,Warm water corals,27
-2024,TON,Habitat,Warm water corals,17
-2024,TTO,Habitat,Warm water corals,16
-2024,TUV,Habitat,Warm water corals,7.5
-2024,TWN,Habitat,Warm water corals,52
-2024,TZA,Habitat,Warm water corals,46
-2024,UMI,Habitat,Warm water corals,100
-2024,USA,Habitat,Warm water corals,87
-2024,VCT,Habitat,Warm water corals,48
-2024,VEN,Habitat,Warm water corals,54
-2024,VGB,Habitat,Warm water corals,0.42
-2024,VIR,Habitat,Warm water corals,35
-2024,VNM,Habitat,Warm water corals,22
-2024,VUT,Habitat,Warm water corals,0.34
-2024,WLF,Habitat,Warm water corals,0
-2024,WSM,Habitat,Warm water corals,10
-2024,XHT,Habitat,Warm water corals,100
-2024,XPI,Habitat,Warm water corals,0
-2024,XSI,Habitat,Warm water corals,0
-2024,XSK,Habitat,Warm water corals,0
-2024,YEM,Habitat,Warm water corals,0.25
-2024,ZAF,Habitat,Warm water corals,100
-2024,ABW,Habitat,Cold water corals,0
-2024,AGO,Habitat,Cold water corals,0
-2024,AIA,Habitat,Cold water corals,0
-2024,ALB,Habitat,Cold water corals,0
-2024,ARG,Habitat,Cold water corals,11
-2024,ASM,Habitat,Cold water corals,0
-2024,ATA,Habitat,Cold water corals,29
-2024,ATF,Habitat,Cold water corals,100
-2024,ATG,Habitat,Cold water corals,0
-2024,AUS,Habitat,Cold water corals,37
-2024,BEN,Habitat,Cold water corals,0
-2024,BES,Habitat,Cold water corals,100
-2024,BHS,Habitat,Cold water corals,7.9
-2024,BLM,Habitat,Cold water corals,100
-2024,BLZ,Habitat,Cold water corals,67
-2024,BMU,Habitat,Cold water corals,0
-2024,BRA,Habitat,Cold water corals,0.86
-2024,BRB,Habitat,Cold water corals,0
-2024,CAN,Habitat,Cold water corals,11
-2024,CHL,Habitat,Cold water corals,53
-2024,CHN,Habitat,Cold water corals,0
-2024,CIV,Habitat,Cold water corals,0
-2024,COK,Habitat,Cold water corals,100
-2024,COL,Habitat,Cold water corals,19
-2024,CPV,Habitat,Cold water corals,0
-2024,CRI,Habitat,Cold water corals,33
-2024,CUB,Habitat,Cold water corals,0
-2024,CUW,Habitat,Cold water corals,0
-2024,CYM,Habitat,Cold water corals,0
-2024,CYP,Habitat,Cold water corals,0
-2024,DMA,Habitat,Cold water corals,0
-2024,DNK,Habitat,Cold water corals,0
-2024,DOM,Habitat,Cold water corals,87
-2024,DPT,Habitat,Cold water corals,81
-2024,DZA,Habitat,Cold water corals,0
-2024,ECU,Habitat,Cold water corals,96
-2024,ERI,Habitat,Cold water corals,0
-2024,ESP,Habitat,Cold water corals,86
-2024,FJI,Habitat,Cold water corals,0
-2024,FRA,Habitat,Cold water corals,75
-2024,FRO,Habitat,Cold water corals,0
-2024,FSM,Habitat,Cold water corals,0
-2024,GBR,Habitat,Cold water corals,57
-2024,GHA,Habitat,Cold water corals,0
-2024,GIN,Habitat,Cold water corals,100
-2024,GLP,Habitat,Cold water corals,100
-2024,GNB,Habitat,Cold water corals,0
-2024,GNQ,Habitat,Cold water corals,74
-2024,GRC,Habitat,Cold water corals,5.8
-2024,GRD,Habitat,Cold water corals,1.9
-2024,GRL,Habitat,Cold water corals,0
-2024,GTM,Habitat,Cold water corals,0
-2024,GUF,Habitat,Cold water corals,0
-2024,GUY,Habitat,Cold water corals,0
-2024,HMD,Habitat,Cold water corals,50
-2024,HND,Habitat,Cold water corals,8.1
-2024,HRV,Habitat,Cold water corals,1.4
-2024,HTI,Habitat,Cold water corals,0
-2024,IDN,Habitat,Cold water corals,2.8
-2024,IND,Habitat,Cold water corals,0
-2024,IRL,Habitat,Cold water corals,40
-2024,ISL,Habitat,Cold water corals,60
-2024,ITA,Habitat,Cold water corals,27
-2024,JAM,Habitat,Cold water corals,5.1
-2024,JPN,Habitat,Cold water corals,10
-2024,KEN,Habitat,Cold water corals,0
-2024,KIR,Habitat,Cold water corals,0
-2024,KNA,Habitat,Cold water corals,0
-2024,LBR,Habitat,Cold water corals,0
-2024,LCA,Habitat,Cold water corals,14
-2024,LKA,Habitat,Cold water corals,0
-2024,MAR,Habitat,Cold water corals,0
-2024,MDG,Habitat,Cold water corals,11
-2024,MEX,Habitat,Cold water corals,39
-2024,MHL,Habitat,Cold water corals,0
-2024,MLT,Habitat,Cold water corals,77
-2024,MMR,Habitat,Cold water corals,0
-2024,MNE,Habitat,Cold water corals,0
-2024,MOZ,Habitat,Cold water corals,0
-2024,MRT,Habitat,Cold water corals,0
-2024,MSR,Habitat,Cold water corals,0
-2024,MTQ,Habitat,Cold water corals,100
-2024,MUS,Habitat,Cold water corals,0
-2024,MYS,Habitat,Cold water corals,1.4
-2024,NAM,Habitat,Cold water corals,0
-2024,NCL,Habitat,Cold water corals,89
-2024,NFK,Habitat,Cold water corals,100
-2024,NGA,Habitat,Cold water corals,0
-2024,NIC,Habitat,Cold water corals,7.7
-2024,NOR,Habitat,Cold water corals,7.8
-2024,NZL,Habitat,Cold water corals,28
-2024,OMN,Habitat,Cold water corals,0
-2024,PAN,Habitat,Cold water corals,0.37
-2024,PER,Habitat,Cold water corals,11
-2024,PHL,Habitat,Cold water corals,4.1
-2024,PLW,Habitat,Cold water corals,100
-2024,PNG,Habitat,Cold water corals,0
-2024,PRI,Habitat,Cold water corals,19
-2024,PRT,Habitat,Cold water corals,29
-2024,RUS,Habitat,Cold water corals,0
-2024,SAU,Habitat,Cold water corals,0
-2024,SEN,Habitat,Cold water corals,0
-2024,SGS,Habitat,Cold water corals,13
-2024,SHN,Habitat,Cold water corals,58
-2024,SJM,Habitat,Cold water corals,0
-2024,SOM,Habitat,Cold water corals,0
-2024,SPM,Habitat,Cold water corals,0
-2024,STP,Habitat,Cold water corals,0
-2024,SUR,Habitat,Cold water corals,0
-2024,SWE,Habitat,Cold water corals,62
-2024,SYC,Habitat,Cold water corals,0
-2024,TCA,Habitat,Cold water corals,0
-2024,THA,Habitat,Cold water corals,0
-2024,TLS,Habitat,Cold water corals,0
-2024,TON,Habitat,Cold water corals,0
-2024,TTO,Habitat,Cold water corals,0
-2024,TUN,Habitat,Cold water corals,0
-2024,TUV,Habitat,Cold water corals,0
-2024,TWN,Habitat,Cold water corals,0
-2024,UMI,Habitat,Cold water corals,100
-2024,URY,Habitat,Cold water corals,0
-2024,USA,Habitat,Cold water corals,19
-2024,VCT,Habitat,Cold water corals,0
-2024,VEN,Habitat,Cold water corals,2.9
-2024,VGB,Habitat,Cold water corals,0
-2024,VIR,Habitat,Cold water corals,0.53
-2024,VNM,Habitat,Cold water corals,0
-2024,VUT,Habitat,Cold water corals,0
-2024,WLF,Habitat,Cold water corals,0
-2024,WSM,Habitat,Cold water corals,0
-2024,YEM,Habitat,Cold water corals,0
-2024,ZAF,Habitat,Cold water corals,54
-2024,AGO,Habitat,Saltmarshes,24
-2024,ALA,Habitat,Saltmarshes,2.9
-2024,ALB,Habitat,Saltmarshes,85
-2024,ARE,Habitat,Saltmarshes,19
-2024,ARG,Habitat,Saltmarshes,42
-2024,ASM,Habitat,Saltmarshes,21
-2024,ATG,Habitat,Saltmarshes,88
-2024,AUS,Habitat,Saltmarshes,32
-2024,AZE,Habitat,Saltmarshes,0
-2024,BEL,Habitat,Saltmarshes,83
-2024,BGR,Habitat,Saltmarshes,24
-2024,BHR,Habitat,Saltmarshes,0
-2024,BHS,Habitat,Saltmarshes,89
-2024,BIH,Habitat,Saltmarshes,11
-2024,BRA,Habitat,Saltmarshes,33
-2024,CAN,Habitat,Saltmarshes,75
-2024,CHL,Habitat,Saltmarshes,58
-2024,CHN,Habitat,Saltmarshes,4.5
-2024,COK,Habitat,Saltmarshes,5.1
-2024,CRI,Habitat,Saltmarshes,73
-2024,CUB,Habitat,Saltmarshes,89
-2024,CYP,Habitat,Saltmarshes,94
-2024,DEU,Habitat,Saltmarshes,98
-2024,DJI,Habitat,Saltmarshes,0
-2024,DNK,Habitat,Saltmarshes,96
-2024,DPT,Habitat,Saltmarshes,71
-2024,DZA,Habitat,Saltmarshes,100
-2024,ECU,Habitat,Saltmarshes,44
-2024,EGY,Habitat,Saltmarshes,39
-2024,ESH,Habitat,Saltmarshes,0
-2024,ESP,Habitat,Saltmarshes,96
-2024,EST,Habitat,Saltmarshes,93
+2025,EUU,All,Total,17
+2015,FIN,All,Total,11
+2016,FIN,All,Total,11
+2017,FIN,All,Total,11
+2018,FIN,All,Total,11
+2019,FIN,All,Total,12
+2020,FIN,All,Total,12
+2021,FIN,All,Total,12
+2022,FIN,All,Total,12
+2023,FIN,All,Total,12
+2024,FIN,All,Total,12
+2025,FIN,All,Total,12
 2024,FIN,Habitat,Saltmarshes,66
+2025,FIN,Habitat,Saltmarshes,63
+2024,FIN,Habitat,Seagrasses,26
+2025,FIN,Habitat,Seagrasses,23
+2015,FJI,All,Total,0.9
+2016,FJI,All,Total,0.9
+2017,FJI,All,Total,0.9
+2018,FJI,All,Total,0.9
+2019,FJI,All,Total,0.9
+2020,FJI,All,Total,0.9
+2021,FJI,All,Total,0.9
+2022,FJI,All,Total,0.9
+2023,FJI,All,Total,0.9
+2024,FJI,All,Total,0.9
+2025,FJI,All,Total,0.9
+2024,FJI,Habitat,Cold water corals,0
+2025,FJI,Habitat,Cold water corals,0
+2024,FJI,Habitat,Mangroves,33
+2025,FJI,Habitat,Mangroves,37
 2024,FJI,Habitat,Saltmarshes,12
+2025,FJI,Habitat,Saltmarshes,12
+2024,FJI,Habitat,Seagrasses,17
+2025,FJI,Habitat,Seagrasses,17
+2024,FJI,Habitat,Warm water corals,35
+2025,FJI,Habitat,Warm water corals,35
+2015,FRA,All,Total,19
+2016,FRA,All,Total,26
+2017,FRA,All,Total,31
+2018,FRA,All,Total,45
+2019,FRA,All,Total,49
+2020,FRA,All,Total,50
+2021,FRA,All,Total,50
+2022,FRA,All,Total,50
+2023,FRA,All,Total,50
+2024,FRA,All,Total,50
+2025,FRA,All,Total,49
+2024,FRA,Habitat,Cold water corals,75
+2025,FRA,Habitat,Cold water corals,75
 2024,FRA,Habitat,Saltmarshes,96
+2025,FRA,Habitat,Saltmarshes,96
+2024,FRA,Habitat,Seagrasses,97
+2025,FRA,Habitat,Seagrasses,93
+2015,FRO,All,Total,0
+2016,FRO,All,Total,0
+2017,FRO,All,Total,0
+2018,FRO,All,Total,0
+2019,FRO,All,Total,0
+2020,FRO,All,Total,0
+2021,FRO,All,Total,0
+2022,FRO,All,Total,0
+2023,FRO,All,Total,0
+2024,FRO,All,Total,0
+2025,FRO,All,Total,0
+2024,FRO,Habitat,Cold water corals,0
+2025,FRO,Habitat,Cold water corals,0
+2015,FSM,All,Total,0
+2016,FSM,All,Total,0
+2017,FSM,All,Total,0
+2018,FSM,All,Total,0
+2019,FSM,All,Total,0
+2020,FSM,All,Total,0
+2021,FSM,All,Total,0
+2022,FSM,All,Total,0
+2023,FSM,All,Total,0
+2024,FSM,All,Total,0
+2025,FSM,All,Total,0
+2024,FSM,Habitat,Cold water corals,0
+2025,FSM,Habitat,Cold water corals,0
+2024,FSM,Habitat,Mangroves,0
+2025,FSM,Habitat,Mangroves,0
+2024,FSM,Habitat,Seagrasses,0
+2025,FSM,Habitat,Seagrasses,0
+2024,FSM,Habitat,Warm water corals,1.8
+2025,FSM,Habitat,Warm water corals,0
+2015,GAB,All,Total,1
+2016,GAB,All,Total,1
+2017,GAB,All,Total,29
+2018,GAB,All,Total,29
+2019,GAB,All,Total,29
+2020,GAB,All,Total,29
+2021,GAB,All,Total,29
+2022,GAB,All,Total,29
+2023,GAB,All,Total,29
+2024,GAB,All,Total,27
+2025,GAB,All,Total,27
+2024,GAB,Habitat,Mangroves,52
+2025,GAB,Habitat,Mangroves,52
+2015,GBR,All,Total,13
+2016,GBR,All,Total,22
+2017,GBR,All,Total,29
+2018,GBR,All,Total,29
+2019,GBR,All,Total,29
+2020,GBR,All,Total,44
+2021,GBR,All,Total,44
+2022,GBR,All,Total,44
+2023,GBR,All,Total,44
+2024,GBR,All,Total,47
+2025,GBR,All,Total,47
+2024,GBR,Habitat,Cold water corals,57
+2025,GBR,Habitat,Cold water corals,58
 2024,GBR,Habitat,Saltmarshes,93
+2025,GBR,Habitat,Saltmarshes,92
+2024,GBR,Habitat,Seagrasses,82
+2025,GBR,Habitat,Seagrasses,78
+2015,GEO,All,Total,0.7
+2016,GEO,All,Total,0.7
+2017,GEO,All,Total,0.7
+2018,GEO,All,Total,0.7
+2019,GEO,All,Total,0.7
+2020,GEO,All,Total,0.7
+2021,GEO,All,Total,0.7
+2022,GEO,All,Total,0.7
+2023,GEO,All,Total,0.7
+2024,GEO,All,Total,0.8
+2025,GEO,All,Total,0.8
 2024,GEO,Habitat,Saltmarshes,17
+2025,GEO,Habitat,Saltmarshes,17
+2024,GGY,Habitat,Seagrasses,0
+2025,GGY,Habitat,Seagrasses,3.2
+2015,GHA,All,Total,0.1
+2016,GHA,All,Total,0.1
+2017,GHA,All,Total,0.1
+2018,GHA,All,Total,0.1
+2019,GHA,All,Total,0.1
+2020,GHA,All,Total,0.1
+2021,GHA,All,Total,0.1
+2022,GHA,All,Total,0.1
+2023,GHA,All,Total,0.1
+2024,GHA,All,Total,0.1
+2025,GHA,All,Total,0
+2024,GHA,Habitat,Cold water corals,0
+2025,GHA,Habitat,Cold water corals,0
+2024,GHA,Habitat,Mangroves,49
+2025,GHA,Habitat,Mangroves,75
 2024,GHA,Habitat,Saltmarshes,0
+2025,GHA,Habitat,Saltmarshes,0
+2024,GHA,Habitat,Seagrasses,0
+2025,GHA,Habitat,Seagrasses,0.0002
+2015,GIB,All,Total,13
+2016,GIB,All,Total,13
+2017,GIB,All,Total,13
+2018,GIB,All,Total,13
+2019,GIB,All,Total,13
+2020,GIB,All,Total,0
+2021,GIB,All,Total,0
+2022,GIB,All,Total,0
+2023,GIB,All,Total,0
+2024,GIB,All,Total,0
+2025,GIB,All,Total,14
+2015,GIN,All,Total,0.5
+2016,GIN,All,Total,0.5
+2017,GIN,All,Total,0.5
+2018,GIN,All,Total,0.5
+2019,GIN,All,Total,0.5
+2020,GIN,All,Total,0.5
+2021,GIN,All,Total,0.5
+2022,GIN,All,Total,0.5
+2023,GIN,All,Total,0.5
+2024,GIN,All,Total,0.6
+2025,GIN,All,Total,0.6
+2024,GIN,Habitat,Cold water corals,100
+2025,GIN,Habitat,Cold water corals,100
+2024,GIN,Habitat,Mangroves,25
+2025,GIN,Habitat,Mangroves,41
+2024,GIN,Habitat,Seagrasses,4.2
+2025,GIN,Habitat,Seagrasses,3.4
+2024,GLP,Habitat,Cold water corals,100
+2025,GLP,Habitat,Cold water corals,100
+2024,GLP,Habitat,Mangroves,97
+2025,GLP,Habitat,Mangroves,96
+2024,GLP,Habitat,Seagrasses,98
+2025,GLP,Habitat,Seagrasses,98
+2024,GLP,Habitat,Warm water corals,99
+2025,GLP,Habitat,Warm water corals,99
+2015,GMB,All,Total,0.1
+2016,GMB,All,Total,0.1
+2017,GMB,All,Total,0.1
+2018,GMB,All,Total,0.1
+2019,GMB,All,Total,0.1
+2020,GMB,All,Total,0.6
+2021,GMB,All,Total,0.6
+2022,GMB,All,Total,0.6
+2023,GMB,All,Total,0.6
+2024,GMB,All,Total,0.6
+2025,GMB,All,Total,0.7
+2024,GMB,Habitat,Mangroves,45
+2025,GMB,Habitat,Mangroves,44
 2024,GMB,Habitat,Saltmarshes,71
+2025,GMB,Habitat,Saltmarshes,71
+2015,GNB,All,Total,10
+2016,GNB,All,Total,10
+2017,GNB,All,Total,10
+2018,GNB,All,Total,10
+2019,GNB,All,Total,10
+2020,GNB,All,Total,9
+2021,GNB,All,Total,9
+2022,GNB,All,Total,9
+2023,GNB,All,Total,9
+2024,GNB,All,Total,9.1
+2025,GNB,All,Total,9.1
+2024,GNB,Habitat,Cold water corals,0
+2025,GNB,Habitat,Cold water corals,0
+2024,GNB,Habitat,Mangroves,37
+2025,GNB,Habitat,Mangroves,42
+2024,GNB,Habitat,Seagrasses,15
+2025,GNB,Habitat,Seagrasses,54
+2015,GNQ,All,Total,0.2
+2016,GNQ,All,Total,0.2
+2017,GNQ,All,Total,0.2
+2018,GNQ,All,Total,0.2
+2019,GNQ,All,Total,0.2
+2020,GNQ,All,Total,0.2
+2021,GNQ,All,Total,0.2
+2022,GNQ,All,Total,0.2
+2023,GNQ,All,Total,0.2
+2024,GNQ,All,Total,0.3
+2025,GNQ,All,Total,0.3
+2024,GNQ,Habitat,Cold water corals,74
+2025,GNQ,Habitat,Cold water corals,74
+2024,GNQ,Habitat,Mangroves,80
+2025,GNQ,Habitat,Mangroves,79
+2015,GRC,All,Total,1.5
+2016,GRC,All,Total,1.5
+2017,GRC,All,Total,1.5
+2018,GRC,All,Total,4.5
+2019,GRC,All,Total,4.5
+2020,GRC,All,Total,4.5
+2021,GRC,All,Total,4.5
+2022,GRC,All,Total,4.5
+2023,GRC,All,Total,4.5
+2024,GRC,All,Total,4.7
+2025,GRC,All,Total,4.7
+2024,GRC,Habitat,Cold water corals,5.8
+2025,GRC,Habitat,Cold water corals,5.8
 2024,GRC,Habitat,Saltmarshes,80
+2025,GRC,Habitat,Saltmarshes,80
+2024,GRC,Habitat,Seagrasses,91
+2025,GRC,Habitat,Seagrasses,85
+2015,GRD,All,Total,0
+2016,GRD,All,Total,0
+2017,GRD,All,Total,0
+2018,GRD,All,Total,0.1
+2019,GRD,All,Total,0.1
+2020,GRD,All,Total,0.1
+2021,GRD,All,Total,0.1
+2022,GRD,All,Total,0.1
+2023,GRD,All,Total,0.1
+2024,GRD,All,Total,0.1
+2025,GRD,All,Total,0.1
+2024,GRD,Habitat,Cold water corals,1.9
+2025,GRD,Habitat,Cold water corals,1.9
+2024,GRD,Habitat,Mangroves,29
+2025,GRD,Habitat,Mangroves,33
+2024,GRD,Habitat,Seagrasses,7
+2025,GRD,Habitat,Seagrasses,6.5
+2024,GRD,Habitat,Warm water corals,6.6
+2025,GRD,Habitat,Warm water corals,6.5
+2015,GRL,All,Total,4.5
+2016,GRL,All,Total,4.5
+2017,GRL,All,Total,4.5
+2018,GRL,All,Total,4.5
+2019,GRL,All,Total,4.5
+2020,GRL,All,Total,4.5
+2021,GRL,All,Total,4.5
+2022,GRL,All,Total,4.5
+2023,GRL,All,Total,4.5
+2024,GRL,All,Total,4.2
+2025,GRL,All,Total,4.2
+2024,GRL,Habitat,Cold water corals,0
+2025,GRL,Habitat,Cold water corals,0
 2024,GRL,Habitat,Saltmarshes,92
+2025,GRL,Habitat,Saltmarshes,93
+2024,GRL,Habitat,Seagrasses,0
+2025,GRL,Habitat,Seagrasses,0
+2015,GTM,All,Total,0.8
+2016,GTM,All,Total,0.8
+2017,GTM,All,Total,0.8
+2018,GTM,All,Total,0.9
+2019,GTM,All,Total,0.9
+2020,GTM,All,Total,0.8
+2021,GTM,All,Total,0.8
+2022,GTM,All,Total,0.8
+2023,GTM,All,Total,0.8
+2024,GTM,All,Total,0.9
+2025,GTM,All,Total,0.9
+2024,GTM,Habitat,Cold water corals,0
+2025,GTM,Habitat,Cold water corals,0
+2024,GTM,Habitat,Mangroves,46
+2025,GTM,Habitat,Mangroves,51
+2024,GTM,Habitat,Seagrasses,71
+2025,GTM,Habitat,Seagrasses,41
+2024,GTM,Habitat,Warm water corals,72
+2025,GTM,Habitat,Warm water corals,81
+2024,GUF,Habitat,Cold water corals,0
+2025,GUF,Habitat,Cold water corals,0
+2024,GUF,Habitat,Mangroves,71
+2025,GUF,Habitat,Mangroves,69
+2015,GUM,All,Total,0
+2016,GUM,All,Total,0
+2017,GUM,All,Total,0
+2018,GUM,All,Total,0
+2019,GUM,All,Total,0
+2020,GUM,All,Total,0
+2021,GUM,All,Total,0
+2022,GUM,All,Total,0
+2023,GUM,All,Total,0
+2024,GUM,All,Total,0
+2025,GUM,All,Total,0
+2025,GUM,Habitat,Mangroves,74
 2024,GUM,Habitat,Saltmarshes,9
+2025,GUM,Habitat,Saltmarshes,9
+2024,GUM,Habitat,Seagrasses,8.3
+2025,GUM,Habitat,Seagrasses,8.3
+2024,GUM,Habitat,Warm water corals,6.9
+2025,GUM,Habitat,Warm water corals,6.9
+2015,GUY,All,Total,0
+2016,GUY,All,Total,0
+2017,GUY,All,Total,0
+2018,GUY,All,Total,0
+2019,GUY,All,Total,0
+2020,GUY,All,Total,0
+2021,GUY,All,Total,0
+2022,GUY,All,Total,0
+2023,GUY,All,Total,0
+2024,GUY,All,Total,0.1
+2025,GUY,All,Total,0
+2024,GUY,Habitat,Cold water corals,0
+2025,GUY,Habitat,Cold water corals,0
+2024,GUY,Habitat,Mangroves,52
+2025,GUY,Habitat,Mangroves,51
+2018,HKG,All,Total,0
+2019,HKG,All,Total,0
+2020,HKG,All,Total,0
+2024,HKG,All,Total,0
+2025,HKG,All,Total,0
+2024,HKG,Habitat,Mangroves,58
+2025,HKG,Habitat,Mangroves,98
 2024,HKG,Habitat,Saltmarshes,0
+2025,HKG,Habitat,Saltmarshes,0.59
+2024,HKG,Habitat,Seagrasses,13
+2025,HKG,Habitat,Seagrasses,21
+2024,HMD,Habitat,Cold water corals,50
+2025,HMD,Habitat,Cold water corals,50
+2015,HND,All,Total,4.1
+2016,HND,All,Total,4.2
+2017,HND,All,Total,4.2
+2018,HND,All,Total,4.2
+2019,HND,All,Total,4.2
+2020,HND,All,Total,4.6
+2021,HND,All,Total,4.6
+2022,HND,All,Total,4.6
+2023,HND,All,Total,4.6
+2024,HND,All,Total,4.9
+2025,HND,All,Total,4.9
+2024,HND,Habitat,Cold water corals,8.1
+2025,HND,Habitat,Cold water corals,8.1
+2024,HND,Habitat,Mangroves,66
+2025,HND,Habitat,Mangroves,66
 2024,HND,Habitat,Saltmarshes,70
+2025,HND,Habitat,Saltmarshes,68
+2024,HND,Habitat,Seagrasses,27
+2025,HND,Habitat,Seagrasses,27
+2024,HND,Habitat,Warm water corals,34
+2025,HND,Habitat,Warm water corals,34
+2015,HRV,All,Total,9.1
+2016,HRV,All,Total,8.5
+2017,HRV,All,Total,8.5
+2018,HRV,All,Total,8.5
+2019,HRV,All,Total,8.5
+2020,HRV,All,Total,9
+2021,HRV,All,Total,9
+2022,HRV,All,Total,9
+2023,HRV,All,Total,9
+2024,HRV,All,Total,9.3
+2025,HRV,All,Total,9.3
+2024,HRV,Habitat,Cold water corals,1.4
+2025,HRV,Habitat,Cold water corals,1.4
 2024,HRV,Habitat,Saltmarshes,96
+2025,HRV,Habitat,Saltmarshes,96
+2024,HRV,Habitat,Seagrasses,57
+2025,HRV,Habitat,Seagrasses,57
+2015,HTI,All,Total,0
+2016,HTI,All,Total,0
+2017,HTI,All,Total,0
+2018,HTI,All,Total,0
+2019,HTI,All,Total,1.5
+2020,HTI,All,Total,1.5
+2021,HTI,All,Total,1.5
+2022,HTI,All,Total,1.5
+2023,HTI,All,Total,1.5
+2024,HTI,All,Total,1.8
+2025,HTI,All,Total,1.8
+2024,HTI,Habitat,Cold water corals,0
+2025,HTI,Habitat,Cold water corals,0
+2024,HTI,Habitat,Mangroves,46
+2025,HTI,Habitat,Mangroves,44
+2024,HTI,Habitat,Seagrasses,1.5
+2025,HTI,Habitat,Seagrasses,1.4
+2024,HTI,Habitat,Warm water corals,35
+2025,HTI,Habitat,Warm water corals,35
+2015,IDN,All,Total,2.9
+2016,IDN,All,Total,2.9
+2017,IDN,All,Total,2.9
+2018,IDN,All,Total,3.1
+2019,IDN,All,Total,3.1
+2020,IDN,All,Total,3.1
+2021,IDN,All,Total,3.1
+2022,IDN,All,Total,3.1
+2023,IDN,All,Total,3.1
+2024,IDN,All,Total,3
+2025,IDN,All,Total,3
+2024,IDN,Habitat,Cold water corals,2.8
+2025,IDN,Habitat,Cold water corals,2.8
+2024,IDN,Habitat,Mangroves,24
+2025,IDN,Habitat,Mangroves,26
+2024,IDN,Habitat,Seagrasses,20
+2025,IDN,Habitat,Seagrasses,20
+2024,IDN,Habitat,Warm water corals,34
+2025,IDN,Habitat,Warm water corals,34
+2018,IMN,All,Total,0
+2019,IMN,All,Total,0
+2020,IMN,All,Total,0
+2024,IMN,All,Total,11
+2025,IMN,All,Total,11
+2024,IMN,Habitat,Seagrasses,100
+2025,IMN,Habitat,Seagrasses,33
+2015,IND,All,Total,0.2
+2016,IND,All,Total,0.2
+2017,IND,All,Total,0.2
+2018,IND,All,Total,0.2
+2019,IND,All,Total,0.2
+2020,IND,All,Total,0.2
+2021,IND,All,Total,0.2
+2022,IND,All,Total,0.2
+2023,IND,All,Total,0.2
+2024,IND,All,Total,0.3
+2025,IND,All,Total,0.3
+2024,IND,Habitat,Cold water corals,0
+2025,IND,Habitat,Cold water corals,0
+2024,IND,Habitat,Mangroves,21
+2025,IND,Habitat,Mangroves,51
 2024,IND,Habitat,Saltmarshes,0.25
+2025,IND,Habitat,Saltmarshes,100
+2024,IND,Habitat,Seagrasses,0
+2025,IND,Habitat,Seagrasses,3.9
+2024,IND,Habitat,Warm water corals,0
+2025,IND,Habitat,Warm water corals,3
+2015,IRL,All,Total,2.3
+2016,IRL,All,Total,2.3
+2017,IRL,All,Total,2.3
+2018,IRL,All,Total,2.3
+2019,IRL,All,Total,2.3
+2020,IRL,All,Total,2.3
+2021,IRL,All,Total,2.3
+2022,IRL,All,Total,2.3
+2023,IRL,All,Total,2.3
+2024,IRL,All,Total,2.4
+2025,IRL,All,Total,2.4
+2024,IRL,Habitat,Cold water corals,40
+2025,IRL,Habitat,Cold water corals,40
 2024,IRL,Habitat,Saltmarshes,89
+2025,IRL,Habitat,Saltmarshes,88
+2024,IRL,Habitat,Seagrasses,100
+2025,IRL,Habitat,Seagrasses,62
+2015,IRN,All,Total,1
+2016,IRN,All,Total,0.8
+2017,IRN,All,Total,0.8
+2018,IRN,All,Total,0.8
+2019,IRN,All,Total,0.8
+2020,IRN,All,Total,0.8
+2021,IRN,All,Total,0.8
+2022,IRN,All,Total,0.8
+2023,IRN,All,Total,0.8
+2024,IRN,All,Total,0.9
+2025,IRN,All,Total,0.9
+2024,IRN,Habitat,Mangroves,98
+2025,IRN,Habitat,Mangroves,100
 2024,IRN,Habitat,Saltmarshes,20
+2025,IRN,Habitat,Saltmarshes,20
+2024,IRN,Habitat,Seagrasses,11
+2025,IRN,Habitat,Seagrasses,11
+2024,IRN,Habitat,Warm water corals,1.5
+2025,IRN,Habitat,Warm water corals,1.5
+2015,IRQ,All,Total,0
+2016,IRQ,All,Total,0
+2017,IRQ,All,Total,0
+2018,IRQ,All,Total,0
+2019,IRQ,All,Total,0
+2020,IRQ,All,Total,0
+2021,IRQ,All,Total,0
+2022,IRQ,All,Total,0
+2023,IRQ,All,Total,0
+2024,IRQ,All,Total,0.3
+2025,IRQ,All,Total,0
 2024,IRQ,Habitat,Saltmarshes,1.4
+2025,IRQ,Habitat,Saltmarshes,0.31
+2024,IRQ,Habitat,Seagrasses,0
+2025,IRQ,Habitat,Seagrasses,0
+2015,ISL,All,Total,0.4
+2016,ISL,All,Total,0.4
+2017,ISL,All,Total,0.4
+2018,ISL,All,Total,0.4
+2019,ISL,All,Total,0.4
+2020,ISL,All,Total,0.4
+2021,ISL,All,Total,0.4
+2022,ISL,All,Total,0.4
+2023,ISL,All,Total,0.4
+2024,ISL,All,Total,0.5
+2025,ISL,All,Total,0.5
+2024,ISL,Habitat,Cold water corals,60
+2025,ISL,Habitat,Cold water corals,60
 2024,ISL,Habitat,Saltmarshes,26
+2025,ISL,Habitat,Saltmarshes,27
+2024,ISL,Habitat,Seagrasses,41
+2025,ISL,Habitat,Seagrasses,39
+2015,ISR,All,Total,0
+2016,ISR,All,Total,0
+2017,ISR,All,Total,0
+2018,ISR,All,Total,0
+2019,ISR,All,Total,0
+2020,ISR,All,Total,0
+2021,ISR,All,Total,0
+2022,ISR,All,Total,0
+2023,ISR,All,Total,0
+2024,ISR,All,Total,0.6
+2025,ISR,All,Total,0.6
+2024,ISR,Habitat,Seagrasses,11
+2025,ISR,Habitat,Seagrasses,9.7
+2024,ISR,Habitat,Warm water corals,76
+2025,ISR,Habitat,Warm water corals,67
+2015,ITA,All,Total,5.6
+2016,ITA,All,Total,8.8
+2017,ITA,All,Total,8.8
+2018,ITA,All,Total,8.8
+2019,ITA,All,Total,8.8
+2020,ITA,All,Total,9.7
+2021,ITA,All,Total,11
+2022,ITA,All,Total,11
+2023,ITA,All,Total,11
+2024,ITA,All,Total,11
+2025,ITA,All,Total,11
+2024,ITA,Habitat,Cold water corals,27
+2025,ITA,Habitat,Cold water corals,30
 2024,ITA,Habitat,Saltmarshes,95
+2025,ITA,Habitat,Saltmarshes,95
+2024,ITA,Habitat,Seagrasses,49
+2025,ITA,Habitat,Seagrasses,51
+2015,JAM,All,Total,0.8
+2016,JAM,All,Total,0.8
+2017,JAM,All,Total,0.8
+2018,JAM,All,Total,0.8
+2019,JAM,All,Total,0.8
+2020,JAM,All,Total,0.8
+2021,JAM,All,Total,0.8
+2022,JAM,All,Total,0.8
+2023,JAM,All,Total,0.8
+2024,JAM,All,Total,0.7
+2025,JAM,All,Total,0.7
+2024,JAM,Habitat,Cold water corals,5.1
+2025,JAM,Habitat,Cold water corals,4.8
+2024,JAM,Habitat,Mangroves,57
+2025,JAM,Habitat,Mangroves,75
+2024,JAM,Habitat,Seagrasses,17
+2025,JAM,Habitat,Seagrasses,19
+2024,JAM,Habitat,Warm water corals,18
+2025,JAM,Habitat,Warm water corals,18
+2024,JEY,Habitat,Seagrasses,100
+2025,JEY,Habitat,Seagrasses,82
+2015,JOR,All,Total,36
+2016,JOR,All,Total,36
+2017,JOR,All,Total,36
+2018,JOR,All,Total,36
+2019,JOR,All,Total,36
+2020,JOR,All,Total,1
+2021,JOR,All,Total,1
+2022,JOR,All,Total,1
+2023,JOR,All,Total,1
+2024,JOR,All,Total,2.8
+2025,JOR,All,Total,2.8
+2024,JOR,Habitat,Seagrasses,0
+2025,JOR,Habitat,Seagrasses,0
+2024,JOR,Habitat,Warm water corals,11
+2025,JOR,Habitat,Warm water corals,11
+2015,JPN,All,Total,0.5
+2016,JPN,All,Total,8.2
+2017,JPN,All,Total,8.2
+2018,JPN,All,Total,8.2
+2019,JPN,All,Total,8.2
+2020,JPN,All,Total,8.2
+2021,JPN,All,Total,14
+2022,JPN,All,Total,14
+2023,JPN,All,Total,14
+2024,JPN,All,Total,14
+2025,JPN,All,Total,14
+2024,JPN,Habitat,Cold water corals,10
+2025,JPN,Habitat,Cold water corals,37
+2024,JPN,Habitat,Mangroves,75
+2025,JPN,Habitat,Mangroves,95
 2024,JPN,Habitat,Saltmarshes,64
+2025,JPN,Habitat,Saltmarshes,65
+2024,JPN,Habitat,Seagrasses,86
+2025,JPN,Habitat,Seagrasses,86
+2024,JPN,Habitat,Warm water corals,72
+2025,JPN,Habitat,Warm water corals,74
+2015,KAZ,All,Total,1
+2016,KAZ,All,Total,1
+2017,KAZ,All,Total,1
+2018,KAZ,All,Total,1
+2019,KAZ,All,Total,1
+2020,KAZ,All,Total,51
+2021,KAZ,All,Total,51
+2022,KAZ,All,Total,51
+2023,KAZ,All,Total,51
+2024,KAZ,All,Total,53
+2025,KAZ,All,Total,53
+2024,KAZ,Habitat,Seagrasses,42
+2025,KAZ,Habitat,Seagrasses,50
+2015,KEN,All,Total,0.6
+2016,KEN,All,Total,0.8
+2017,KEN,All,Total,0.8
+2018,KEN,All,Total,0.8
+2019,KEN,All,Total,0.8
+2020,KEN,All,Total,0.8
+2021,KEN,All,Total,0.8
+2022,KEN,All,Total,0.7
+2023,KEN,All,Total,0.7
+2024,KEN,All,Total,0.6
+2025,KEN,All,Total,0.7
+2024,KEN,Habitat,Cold water corals,0
+2025,KEN,Habitat,Cold water corals,0
+2024,KEN,Habitat,Mangroves,16
+2025,KEN,Habitat,Mangroves,22
 2024,KEN,Habitat,Saltmarshes,0
+2025,KEN,Habitat,Saltmarshes,0
+2024,KEN,Habitat,Seagrasses,63
+2025,KEN,Habitat,Seagrasses,44
+2024,KEN,Habitat,Warm water corals,30
+2025,KEN,Habitat,Warm water corals,30
+2015,KHM,All,Total,0.2
+2016,KHM,All,Total,0.2
+2017,KHM,All,Total,0.2
+2018,KHM,All,Total,0.2
+2019,KHM,All,Total,0.2
+2020,KHM,All,Total,1.4
+2021,KHM,All,Total,1.4
+2022,KHM,All,Total,1.4
+2023,KHM,All,Total,1.4
+2024,KHM,All,Total,1.5
+2025,KHM,All,Total,1.5
+2024,KHM,Habitat,Mangroves,67
+2025,KHM,Habitat,Mangroves,65
 2024,KHM,Habitat,Saltmarshes,0
+2025,KHM,Habitat,Saltmarshes,0
+2024,KHM,Habitat,Seagrasses,33
+2025,KHM,Habitat,Seagrasses,33
+2024,KHM,Habitat,Warm water corals,17
+2025,KHM,Habitat,Warm water corals,17
+2015,KIR,All,Total,12
+2016,KIR,All,Total,12
+2017,KIR,All,Total,12
+2018,KIR,All,Total,12
+2019,KIR,All,Total,12
+2020,KIR,All,Total,12
+2021,KIR,All,Total,12
+2022,KIR,All,Total,12
+2023,KIR,All,Total,12
+2024,KIR,All,Total,12
+2025,KIR,All,Total,12
+2024,KIR,Habitat,Cold water corals,0
+2025,KIR,Habitat,Cold water corals,0
+2025,KIR,Habitat,Mangroves,10
+2024,KIR,Habitat,Seagrasses,0
+2025,KIR,Habitat,Seagrasses,0
+2024,KIR,Habitat,Warm water corals,3.7
+2025,KIR,Habitat,Warm water corals,4.9
+2015,KNA,All,Total,0.2
+2016,KNA,All,Total,0.2
+2017,KNA,All,Total,0.2
+2018,KNA,All,Total,0.2
+2019,KNA,All,Total,4
+2020,KNA,All,Total,4
+2021,KNA,All,Total,4
+2022,KNA,All,Total,4
+2023,KNA,All,Total,4
+2024,KNA,All,Total,4.5
+2025,KNA,All,Total,4.5
+2024,KNA,Habitat,Cold water corals,0
+2025,KNA,Habitat,Cold water corals,0
+2024,KNA,Habitat,Mangroves,0.4
+2025,KNA,Habitat,Mangroves,6.3
+2024,KNA,Habitat,Seagrasses,87
+2025,KNA,Habitat,Seagrasses,87
+2024,KNA,Habitat,Warm water corals,98
+2025,KNA,Habitat,Warm water corals,98
+2015,KOR,All,Total,1
+2016,KOR,All,Total,1.6
+2017,KOR,All,Total,1.6
+2018,KOR,All,Total,1.6
+2019,KOR,All,Total,2.4
+2020,KOR,All,Total,2.5
+2021,KOR,All,Total,2.5
+2022,KOR,All,Total,2.5
+2023,KOR,All,Total,2.5
+2024,KOR,All,Total,2.2
+2025,KOR,All,Total,2.3
 2024,KOR,Habitat,Saltmarshes,15
+2025,KOR,Habitat,Saltmarshes,16
+2024,KOR,Habitat,Seagrasses,29
+2025,KOR,Habitat,Seagrasses,35
+2015,KWT,All,Total,0.1
+2016,KWT,All,Total,1.5
+2017,KWT,All,Total,1.5
+2018,KWT,All,Total,1.5
+2019,KWT,All,Total,1.4
+2020,KWT,All,Total,1.4
+2021,KWT,All,Total,1.4
+2022,KWT,All,Total,1.4
+2023,KWT,All,Total,3.2
+2024,KWT,All,Total,3.2
+2025,KWT,All,Total,3.2
 2024,KWT,Habitat,Saltmarshes,11
+2025,KWT,Habitat,Saltmarshes,12
+2024,KWT,Habitat,Seagrasses,12
+2025,KWT,Habitat,Seagrasses,12
+2024,KWT,Habitat,Warm water corals,0
+2025,KWT,Habitat,Warm water corals,4.9
+2015,LBN,All,Total,0
+2016,LBN,All,Total,0.2
+2017,LBN,All,Total,0.2
+2018,LBN,All,Total,0.2
+2019,LBN,All,Total,0.2
+2020,LBN,All,Total,0.2
+2021,LBN,All,Total,0.2
+2022,LBN,All,Total,0.2
+2023,LBN,All,Total,0.2
+2024,LBN,All,Total,0.2
+2025,LBN,All,Total,0.2
+2024,LBN,Habitat,Seagrasses,0
+2025,LBN,Habitat,Seagrasses,0
+2015,LBR,All,Total,0.1
+2016,LBR,All,Total,0.1
+2017,LBR,All,Total,0.1
+2018,LBR,All,Total,0.1
+2019,LBR,All,Total,0.1
+2020,LBR,All,Total,0.1
+2021,LBR,All,Total,0.1
+2022,LBR,All,Total,0.1
+2023,LBR,All,Total,0.1
+2024,LBR,All,Total,0.1
+2025,LBR,All,Total,0.1
+2024,LBR,Habitat,Cold water corals,0
+2025,LBR,Habitat,Cold water corals,0
+2024,LBR,Habitat,Mangroves,12
+2025,LBR,Habitat,Mangroves,30
+2015,LBY,All,Total,0.6
+2016,LBY,All,Total,0.6
+2017,LBY,All,Total,0.6
+2018,LBY,All,Total,0.6
+2019,LBY,All,Total,0.6
+2020,LBY,All,Total,0.6
+2021,LBY,All,Total,0.6
+2022,LBY,All,Total,0.6
+2023,LBY,All,Total,0.6
+2024,LBY,All,Total,0.6
+2025,LBY,All,Total,0.6
 2024,LBY,Habitat,Saltmarshes,0
+2025,LBY,Habitat,Saltmarshes,41
+2024,LBY,Habitat,Seagrasses,0
+2025,LBY,Habitat,Seagrasses,0
+2015,LCA,All,Total,0.2
+2016,LCA,All,Total,0.2
+2017,LCA,All,Total,0.2
+2018,LCA,All,Total,0.2
+2019,LCA,All,Total,0.2
+2020,LCA,All,Total,0.2
+2021,LCA,All,Total,0.2
+2022,LCA,All,Total,0.2
+2023,LCA,All,Total,0.2
+2024,LCA,All,Total,0.3
+2025,LCA,All,Total,0.3
+2024,LCA,Habitat,Cold water corals,14
+2025,LCA,Habitat,Cold water corals,14
+2024,LCA,Habitat,Mangroves,65
+2025,LCA,Habitat,Mangroves,64
+2024,LCA,Habitat,Seagrasses,65
+2025,LCA,Habitat,Seagrasses,51
+2024,LCA,Habitat,Warm water corals,13
+2025,LCA,Habitat,Warm water corals,13
+2015,LKA,All,Total,0.1
+2016,LKA,All,Total,0.1
+2017,LKA,All,Total,0.1
+2018,LKA,All,Total,0.1
+2019,LKA,All,Total,0.1
+2020,LKA,All,Total,0.1
+2021,LKA,All,Total,0.1
+2022,LKA,All,Total,0.1
+2023,LKA,All,Total,0.1
+2024,LKA,All,Total,0.1
+2025,LKA,All,Total,0.3
+2024,LKA,Habitat,Cold water corals,0
+2025,LKA,Habitat,Cold water corals,0
+2024,LKA,Habitat,Mangroves,4.8
+2025,LKA,Habitat,Mangroves,30
 2024,LKA,Habitat,Saltmarshes,36
+2025,LKA,Habitat,Saltmarshes,50
+2024,LKA,Habitat,Seagrasses,0.14
+2025,LKA,Habitat,Seagrasses,12
+2024,LKA,Habitat,Warm water corals,0.91
+2025,LKA,Habitat,Warm water corals,26
+2015,LTU,All,Total,16
+2016,LTU,All,Total,22
+2017,LTU,All,Total,26
+2018,LTU,All,Total,26
+2019,LTU,All,Total,26
+2020,LTU,All,Total,26
+2021,LTU,All,Total,26
+2022,LTU,All,Total,26
+2023,LTU,All,Total,26
+2024,LTU,All,Total,23
+2025,LTU,All,Total,23
 2024,LTU,Habitat,Saltmarshes,100
+2025,LTU,Habitat,Saltmarshes,100
+2024,LTU,Habitat,Seagrasses,50
+2025,LTU,Habitat,Seagrasses,64
+2015,LVA,All,Total,17
+2016,LVA,All,Total,16
+2017,LVA,All,Total,16
+2018,LVA,All,Total,16
+2019,LVA,All,Total,16
+2020,LVA,All,Total,16
+2021,LVA,All,Total,16
+2022,LVA,All,Total,16
+2023,LVA,All,Total,16
+2024,LVA,All,Total,16
+2025,LVA,All,Total,16
 2024,LVA,Habitat,Saltmarshes,89
+2025,LVA,Habitat,Saltmarshes,89
 2024,MAC,Habitat,Saltmarshes,0
+2025,MAC,Habitat,Saltmarshes,0
+2015,MAF,All,Total,2.8
+2016,MAF,All,Total,97
+2017,MAF,All,Total,96
+2018,MAF,All,Total,96
+2019,MAF,All,Total,96
+2020,MAF,All,Total,96
+2021,MAF,All,Total,96
+2022,MAF,All,Total,96
+2023,MAF,All,Total,96
+2024,MAF,All,Total,97
+2025,MAF,All,Total,97
+2024,MAF,Habitat,Mangroves,98
+2025,MAF,Habitat,Mangroves,100
+2024,MAF,Habitat,Seagrasses,97
+2025,MAF,Habitat,Seagrasses,97
+2024,MAF,Habitat,Warm water corals,100
+2025,MAF,Habitat,Warm water corals,100
+2015,MAR,All,Total,0.3
+2016,MAR,All,Total,0.4
+2017,MAR,All,Total,0.3
+2018,MAR,All,Total,0.3
+2019,MAR,All,Total,0.3
+2020,MAR,All,Total,0.7
+2021,MAR,All,Total,0.7
+2022,MAR,All,Total,0.7
+2023,MAR,All,Total,0.7
+2024,MAR,All,Total,0.3
+2025,MAR,All,Total,0.3
+2024,MAR,Habitat,Cold water corals,0
+2025,MAR,Habitat,Cold water corals,1
 2024,MAR,Habitat,Saltmarshes,100
+2025,MAR,Habitat,Saltmarshes,100
+2024,MAR,Habitat,Seagrasses,50
+2025,MAR,Habitat,Seagrasses,78
+2015,MCO,All,Total,0.1
+2016,MCO,All,Total,100
+2017,MCO,All,Total,100
+2018,MCO,All,Total,100
+2019,MCO,All,Total,100
+2020,MCO,All,Total,100
+2021,MCO,All,Total,100
+2022,MCO,All,Total,100
+2023,MCO,All,Total,100
+2024,MCO,All,Total,100
+2025,MCO,All,Total,100
+2024,MCO,Habitat,Seagrasses,100
+2025,MCO,Habitat,Seagrasses,39
+2015,MDG,All,Total,0.4
+2016,MDG,All,Total,0.4
+2017,MDG,All,Total,0.8
+2018,MDG,All,Total,0.7
+2019,MDG,All,Total,0.7
+2020,MDG,All,Total,0.9
+2021,MDG,All,Total,0.9
+2022,MDG,All,Total,0.9
+2023,MDG,All,Total,0.9
+2024,MDG,All,Total,1.3
+2025,MDG,All,Total,1.4
+2024,MDG,Habitat,Cold water corals,11
+2025,MDG,Habitat,Cold water corals,11
+2024,MDG,Habitat,Mangroves,18
+2025,MDG,Habitat,Mangroves,47
 2024,MDG,Habitat,Saltmarshes,63
+2025,MDG,Habitat,Saltmarshes,81
+2024,MDG,Habitat,Seagrasses,21
+2025,MDG,Habitat,Seagrasses,19
+2024,MDG,Habitat,Warm water corals,34
+2025,MDG,Habitat,Warm water corals,42
+2015,MDV,All,Total,0
+2016,MDV,All,Total,0
+2017,MDV,All,Total,0
+2018,MDV,All,Total,0.1
+2019,MDV,All,Total,0.1
+2020,MDV,All,Total,0.1
+2021,MDV,All,Total,0.1
+2022,MDV,All,Total,0.1
+2023,MDV,All,Total,0.1
+2024,MDV,All,Total,0.1
+2025,MDV,All,Total,0.1
+2025,MDV,Habitat,Mangroves,16
+2024,MDV,Habitat,Seagrasses,1.1
+2025,MDV,Habitat,Seagrasses,1.3
+2024,MDV,Habitat,Warm water corals,4.4
+2025,MDV,Habitat,Warm water corals,4.4
+2015,MEX,All,Total,1.9
+2016,MEX,All,Total,22
+2017,MEX,All,Total,22
+2018,MEX,All,Total,22
+2019,MEX,All,Total,22
+2020,MEX,All,Total,22
+2021,MEX,All,Total,22
+2022,MEX,All,Total,22
+2023,MEX,All,Total,22
+2024,MEX,All,Total,23
+2025,MEX,All,Total,23
+2024,MEX,Habitat,Cold water corals,39
+2025,MEX,Habitat,Cold water corals,40
+2024,MEX,Habitat,Mangroves,75
+2025,MEX,Habitat,Mangroves,76
 2024,MEX,Habitat,Saltmarshes,75
+2025,MEX,Habitat,Saltmarshes,75
+2024,MEX,Habitat,Seagrasses,61
+2025,MEX,Habitat,Seagrasses,61
+2024,MEX,Habitat,Warm water corals,70
+2025,MEX,Habitat,Warm water corals,70
+2015,MHL,All,Total,0.3
+2016,MHL,All,Total,0.3
+2017,MHL,All,Total,0.3
+2018,MHL,All,Total,0.3
+2019,MHL,All,Total,0.3
+2020,MHL,All,Total,0.3
+2021,MHL,All,Total,0.3
+2022,MHL,All,Total,0.3
+2023,MHL,All,Total,0.3
+2024,MHL,All,Total,0.3
+2025,MHL,All,Total,0.3
+2024,MHL,Habitat,Cold water corals,0
+2025,MHL,Habitat,Cold water corals,0
+2025,MHL,Habitat,Mangroves,81
+2024,MHL,Habitat,Seagrasses,0.38
+2025,MHL,Habitat,Seagrasses,0.38
+2024,MHL,Habitat,Warm water corals,18
+2025,MHL,Habitat,Warm water corals,19
+2015,MLT,All,Total,0.3
+2016,MLT,All,Total,6.3
+2017,MLT,All,Total,6.3
+2018,MLT,All,Total,6.3
+2019,MLT,All,Total,7.4
+2020,MLT,All,Total,7.4
+2021,MLT,All,Total,7.4
+2022,MLT,All,Total,7.4
+2023,MLT,All,Total,7.4
+2024,MLT,All,Total,7.8
+2025,MLT,All,Total,7.8
+2024,MLT,Habitat,Cold water corals,77
+2025,MLT,Habitat,Cold water corals,77
 2024,MLT,Habitat,Saltmarshes,64
+2025,MLT,Habitat,Saltmarshes,64
+2024,MLT,Habitat,Seagrasses,91
+2025,MLT,Habitat,Seagrasses,91
+2015,MMR,All,Total,0.1
+2016,MMR,All,Total,0.1
+2017,MMR,All,Total,0.2
+2018,MMR,All,Total,2.3
+2019,MMR,All,Total,0.5
+2020,MMR,All,Total,0.5
+2021,MMR,All,Total,0.5
+2022,MMR,All,Total,0.5
+2023,MMR,All,Total,0.5
+2024,MMR,All,Total,0.5
+2025,MMR,All,Total,0.6
+2024,MMR,Habitat,Cold water corals,0
+2025,MMR,Habitat,Cold water corals,0
+2024,MMR,Habitat,Mangroves,3
+2025,MMR,Habitat,Mangroves,2.9
+2024,MMR,Habitat,Seagrasses,0.33
+2025,MMR,Habitat,Seagrasses,1
+2024,MMR,Habitat,Warm water corals,6.3
+2025,MMR,Habitat,Warm water corals,6.3
+2015,MNE,All,Total,0
+2016,MNE,All,Total,0
+2017,MNE,All,Total,0
+2018,MNE,All,Total,0
+2019,MNE,All,Total,0.1
+2020,MNE,All,Total,0.1
+2021,MNE,All,Total,0.1
+2022,MNE,All,Total,0.6
+2023,MNE,All,Total,0.6
+2024,MNE,All,Total,5.6
+2025,MNE,All,Total,5.3
+2024,MNE,Habitat,Cold water corals,0
+2025,MNE,Habitat,Cold water corals,0
 2024,MNE,Habitat,Saltmarshes,96
+2025,MNE,Habitat,Saltmarshes,97
+2024,MNE,Habitat,Seagrasses,0
+2025,MNE,Habitat,Seagrasses,0
+2015,MNP,All,Total,33
+2016,MNP,All,Total,33
+2017,MNP,All,Total,33
+2018,MNP,All,Total,33
+2019,MNP,All,Total,33
+2020,MNP,All,Total,32
+2021,MNP,All,Total,33
+2022,MNP,All,Total,33
+2023,MNP,All,Total,32
+2024,MNP,All,Total,32
+2025,MNP,All,Total,32
 2024,MNP,Habitat,Saltmarshes,60
+2025,MNP,Habitat,Saltmarshes,0.12
+2024,MNP,Habitat,Seagrasses,25
+2025,MNP,Habitat,Seagrasses,25
+2024,MNP,Habitat,Warm water corals,14
+2025,MNP,Habitat,Warm water corals,8.3
+2015,MOZ,All,Total,2.2
+2016,MOZ,All,Total,2.2
+2017,MOZ,All,Total,2.2
+2018,MOZ,All,Total,2.2
+2019,MOZ,All,Total,2.2
+2020,MOZ,All,Total,2.1
+2021,MOZ,All,Total,2.1
+2022,MOZ,All,Total,2.1
+2023,MOZ,All,Total,2.1
+2024,MOZ,All,Total,2.2
+2025,MOZ,All,Total,2.1
+2024,MOZ,Habitat,Cold water corals,0
+2025,MOZ,Habitat,Cold water corals,0
+2024,MOZ,Habitat,Mangroves,55
+2025,MOZ,Habitat,Mangroves,55
+2024,MOZ,Habitat,Seagrasses,94
+2025,MOZ,Habitat,Seagrasses,91
+2024,MOZ,Habitat,Warm water corals,9.7
+2025,MOZ,Habitat,Warm water corals,9.7
+2015,MRT,All,Total,4.2
+2016,MRT,All,Total,4.2
+2017,MRT,All,Total,4.2
+2018,MRT,All,Total,4.2
+2019,MRT,All,Total,4.2
+2020,MRT,All,Total,4.2
+2021,MRT,All,Total,4.2
+2022,MRT,All,Total,4.2
+2023,MRT,All,Total,4.2
+2024,MRT,All,Total,3.7
+2025,MRT,All,Total,3.7
+2024,MRT,Habitat,Cold water corals,0
+2025,MRT,Habitat,Cold water corals,0
+2024,MRT,Habitat,Mangroves,49
+2025,MRT,Habitat,Mangroves,1.2
 2024,MRT,Habitat,Saltmarshes,20
+2025,MRT,Habitat,Saltmarshes,22
+2024,MRT,Habitat,Seagrasses,83
+2025,MRT,Habitat,Seagrasses,65
+2024,MSR,Habitat,Cold water corals,0
+2025,MSR,Habitat,Cold water corals,0
+2024,MSR,Habitat,Seagrasses,0
+2025,MSR,Habitat,Seagrasses,0
+2024,MSR,Habitat,Warm water corals,0
+2025,MSR,Habitat,Warm water corals,0
+2024,MTQ,Habitat,Cold water corals,100
+2025,MTQ,Habitat,Cold water corals,100
+2024,MTQ,Habitat,Mangroves,99
+2025,MTQ,Habitat,Mangroves,98
+2024,MTQ,Habitat,Seagrasses,99
+2025,MTQ,Habitat,Seagrasses,99
+2024,MTQ,Habitat,Warm water corals,100
+2025,MTQ,Habitat,Warm water corals,100
+2015,MUS,All,Total,0
+2016,MUS,All,Total,0
+2017,MUS,All,Total,0
+2018,MUS,All,Total,0
+2019,MUS,All,Total,0
+2020,MUS,All,Total,0
+2021,MUS,All,Total,0
+2022,MUS,All,Total,0
+2023,MUS,All,Total,0
+2024,MUS,All,Total,0
+2025,MUS,All,Total,0
+2024,MUS,Habitat,Cold water corals,0
+2025,MUS,Habitat,Cold water corals,0
+2024,MUS,Habitat,Mangroves,9.1
+2025,MUS,Habitat,Mangroves,45
+2024,MUS,Habitat,Seagrasses,0
+2025,MUS,Habitat,Seagrasses,2.3
+2024,MUS,Habitat,Warm water corals,72
+2025,MUS,Habitat,Warm water corals,1.3
+2015,MYS,All,Total,1.4
+2016,MYS,All,Total,1.4
+2017,MYS,All,Total,1.4
+2018,MYS,All,Total,1.5
+2019,MYS,All,Total,1.5
+2020,MYS,All,Total,3.3
+2021,MYS,All,Total,5.6
+2022,MYS,All,Total,5.6
+2023,MYS,All,Total,5.6
+2024,MYS,All,Total,4.8
+2025,MYS,All,Total,4.8
+2024,MYS,Habitat,Cold water corals,1.4
+2025,MYS,Habitat,Cold water corals,1.4
+2024,MYS,Habitat,Mangroves,14
+2025,MYS,Habitat,Mangroves,17
+2024,MYS,Habitat,Seagrasses,18
+2025,MYS,Habitat,Seagrasses,21
+2024,MYS,Habitat,Warm water corals,31
+2025,MYS,Habitat,Warm water corals,31
+2024,MYT,Habitat,Mangroves,96
+2025,MYT,Habitat,Mangroves,95
+2024,MYT,Habitat,Seagrasses,92
+2025,MYT,Habitat,Seagrasses,48
+2024,MYT,Habitat,Warm water corals,99
+2025,MYT,Habitat,Warm water corals,85
+2015,NAM,All,Total,1.7
+2016,NAM,All,Total,1.7
+2017,NAM,All,Total,1.7
+2018,NAM,All,Total,1.7
+2019,NAM,All,Total,1.7
+2020,NAM,All,Total,1.7
+2021,NAM,All,Total,1.7
+2022,NAM,All,Total,1.7
+2023,NAM,All,Total,1.7
+2024,NAM,All,Total,1.7
+2025,NAM,All,Total,1.7
+2024,NAM,Habitat,Cold water corals,0
+2025,NAM,Habitat,Cold water corals,0
 2024,NAM,Habitat,Saltmarshes,68
+2025,NAM,Habitat,Saltmarshes,68
+2015,NCL,All,Total,96
+2016,NCL,All,Total,97
+2017,NCL,All,Total,96
+2018,NCL,All,Total,97
+2019,NCL,All,Total,96
+2020,NCL,All,Total,96
+2021,NCL,All,Total,96
+2022,NCL,All,Total,96
+2023,NCL,All,Total,96
+2024,NCL,All,Total,100
+2025,NCL,All,Total,97
+2024,NCL,Habitat,Cold water corals,89
+2025,NCL,Habitat,Cold water corals,89
+2024,NCL,Habitat,Mangroves,31
+2025,NCL,Habitat,Mangroves,51
 2024,NCL,Habitat,Saltmarshes,0
+2025,NCL,Habitat,Saltmarshes,0
+2024,NCL,Habitat,Seagrasses,80
+2025,NCL,Habitat,Seagrasses,82
+2024,NCL,Habitat,Warm water corals,79
+2025,NCL,Habitat,Warm water corals,83
+2024,NFK,Habitat,Cold water corals,100
+2025,NFK,Habitat,Cold water corals,100
+2024,NFK,Habitat,Seagrasses,0
+2025,NFK,Habitat,Seagrasses,0
+2015,NGA,All,Total,0
+2016,NGA,All,Total,0
+2017,NGA,All,Total,0
+2018,NGA,All,Total,0
+2019,NGA,All,Total,0
+2020,NGA,All,Total,0
+2021,NGA,All,Total,0
+2022,NGA,All,Total,0
+2023,NGA,All,Total,0
+2024,NGA,All,Total,0
+2025,NGA,All,Total,0
+2024,NGA,Habitat,Cold water corals,0
+2025,NGA,Habitat,Cold water corals,0
+2024,NGA,Habitat,Mangroves,5.4
+2025,NGA,Habitat,Mangroves,5.6
+2024,NGA,Habitat,Seagrasses,0.01
+2025,NGA,Habitat,Seagrasses,0.015
+2015,NIC,All,Total,2.9
+2016,NIC,All,Total,3
+2017,NIC,All,Total,3
+2018,NIC,All,Total,3
+2019,NIC,All,Total,3
+2020,NIC,All,Total,3.4
+2021,NIC,All,Total,3.4
+2022,NIC,All,Total,3.4
+2023,NIC,All,Total,3.4
+2024,NIC,All,Total,3.6
+2025,NIC,All,Total,3.6
+2024,NIC,Habitat,Cold water corals,7.7
+2025,NIC,Habitat,Cold water corals,7.7
+2024,NIC,Habitat,Mangroves,79
+2025,NIC,Habitat,Mangroves,79
 2024,NIC,Habitat,Saltmarshes,63
+2025,NIC,Habitat,Saltmarshes,64
+2024,NIC,Habitat,Seagrasses,17
+2025,NIC,Habitat,Seagrasses,17
+2024,NIC,Habitat,Warm water corals,61
+2025,NIC,Habitat,Warm water corals,61
+2024,NIU,Habitat,Warm water corals,2.5
+2025,NIU,Habitat,Warm water corals,2.5
+2015,NLD,All,Total,22
+2016,NLD,All,Total,22
+2017,NLD,All,Total,27
+2018,NLD,All,Total,27
+2019,NLD,All,Total,27
+2020,NLD,All,Total,27
+2021,NLD,All,Total,27
+2022,NLD,All,Total,27
+2023,NLD,All,Total,27
+2024,NLD,All,Total,34
+2025,NLD,All,Total,34
 2024,NLD,Habitat,Saltmarshes,97
+2025,NLD,Habitat,Saltmarshes,97
+2024,NLD,Habitat,Seagrasses,100
+2025,NLD,Habitat,Seagrasses,79
+2015,NOR,All,Total,0.5
+2016,NOR,All,Total,0.7
+2017,NOR,All,Total,0.8
+2018,NOR,All,Total,0.8
+2019,NOR,All,Total,0.8
+2020,NOR,All,Total,1.5
+2021,NOR,All,Total,9.9
+2022,NOR,All,Total,9.8
+2023,NOR,All,Total,1.4
+2024,NOR,All,Total,1
+2025,NOR,All,Total,1
+2024,NOR,Habitat,Cold water corals,7.8
+2025,NOR,Habitat,Cold water corals,9
 2024,NOR,Habitat,Saltmarshes,43
+2025,NOR,Habitat,Saltmarshes,43
+2024,NOR,Habitat,Seagrasses,19
+2025,NOR,Habitat,Seagrasses,21
+2021,NRU,All,Total,0
+2022,NRU,All,Total,0
+2023,NRU,All,Total,0
+2024,NRU,All,Total,0
+2025,NRU,All,Total,0
+2024,NRU,Habitat,Warm water corals,0
+2025,NRU,Habitat,Warm water corals,0
+2015,NZL,All,Total,30
+2016,NZL,All,Total,30
+2017,NZL,All,Total,30
+2018,NZL,All,Total,30
+2019,NZL,All,Total,30
+2020,NZL,All,Total,30
+2021,NZL,All,Total,30
+2022,NZL,All,Total,30
+2023,NZL,All,Total,30
+2024,NZL,All,Total,30
+2025,NZL,All,Total,30
+2024,NZL,Habitat,Cold water corals,28
+2025,NZL,Habitat,Cold water corals,28
+2024,NZL,Habitat,Mangroves,7.6
+2025,NZL,Habitat,Mangroves,9.8
 2024,NZL,Habitat,Saltmarshes,24
+2025,NZL,Habitat,Saltmarshes,25
+2024,NZL,Habitat,Seagrasses,14
+2025,NZL,Habitat,Seagrasses,15
+2015,OMN,All,Total,0.1
+2016,OMN,All,Total,0.1
+2017,OMN,All,Total,0.1
+2018,OMN,All,Total,0.1
+2019,OMN,All,Total,0.1
+2020,OMN,All,Total,0.1
+2021,OMN,All,Total,0.3
+2022,OMN,All,Total,0.3
+2023,OMN,All,Total,0.4
+2024,OMN,All,Total,16
+2025,OMN,All,Total,16
+2024,OMN,Habitat,Cold water corals,0
+2025,OMN,Habitat,Cold water corals,78
+2024,OMN,Habitat,Mangroves,47
+2025,OMN,Habitat,Mangroves,43
 2024,OMN,Habitat,Saltmarshes,82
+2025,OMN,Habitat,Saltmarshes,83
+2024,OMN,Habitat,Seagrasses,13
+2025,OMN,Habitat,Seagrasses,56
+2024,OMN,Habitat,Warm water corals,17
+2025,OMN,Habitat,Warm water corals,88
+2015,PAK,All,Total,0.8
+2016,PAK,All,Total,0.8
+2017,PAK,All,Total,0.8
+2018,PAK,All,Total,0.8
+2019,PAK,All,Total,0.8
+2020,PAK,All,Total,0.8
+2021,PAK,All,Total,0.8
+2022,PAK,All,Total,0.8
+2023,PAK,All,Total,0.8
+2024,PAK,All,Total,1.2
+2025,PAK,All,Total,1.2
+2024,PAK,Habitat,Mangroves,36
+2025,PAK,Habitat,Mangroves,54
 2024,PAK,Habitat,Saltmarshes,91
+2025,PAK,Habitat,Saltmarshes,100
+2015,PAN,All,Total,1.7
+2016,PAN,All,Total,1.7
+2017,PAN,All,Total,1.7
+2018,PAN,All,Total,1.7
+2019,PAN,All,Total,1.7
+2020,PAN,All,Total,12
+2021,PAN,All,Total,27
+2022,PAN,All,Total,27
+2023,PAN,All,Total,27
+2024,PAN,All,Total,26
+2025,PAN,All,Total,26
+2024,PAN,Habitat,Cold water corals,0.37
+2025,PAN,Habitat,Cold water corals,0.37
+2024,PAN,Habitat,Mangroves,41
+2025,PAN,Habitat,Mangroves,42
 2024,PAN,Habitat,Saltmarshes,40
+2025,PAN,Habitat,Saltmarshes,40
+2024,PAN,Habitat,Seagrasses,5.1
+2025,PAN,Habitat,Seagrasses,5.1
+2024,PAN,Habitat,Warm water corals,11
+2025,PAN,Habitat,Warm water corals,11
+2024,PCN,Habitat,Warm water corals,90
+2025,PCN,Habitat,Warm water corals,90
+2015,PER,All,Total,0.6
+2016,PER,All,Total,0.5
+2017,PER,All,Total,0.5
+2018,PER,All,Total,0.5
+2019,PER,All,Total,0.5
+2020,PER,All,Total,0.5
+2021,PER,All,Total,0.5
+2022,PER,All,Total,8
+2023,PER,All,Total,8
+2024,PER,All,Total,7.9
+2025,PER,All,Total,7.9
+2024,PER,Habitat,Cold water corals,11
+2025,PER,Habitat,Cold water corals,11
+2024,PER,Habitat,Mangroves,40
+2025,PER,Habitat,Mangroves,34
 2024,PER,Habitat,Saltmarshes,16
+2025,PER,Habitat,Saltmarshes,28
+2015,PHL,All,Total,1.1
+2016,PHL,All,Total,1.2
+2017,PHL,All,Total,1.2
+2018,PHL,All,Total,1.2
+2019,PHL,All,Total,1.2
+2020,PHL,All,Total,1.2
+2021,PHL,All,Total,1.7
+2022,PHL,All,Total,1.7
+2023,PHL,All,Total,1.7
+2024,PHL,All,Total,1.6
+2025,PHL,All,Total,1.6
+2024,PHL,Habitat,Cold water corals,4.1
+2025,PHL,Habitat,Cold water corals,4.1
+2024,PHL,Habitat,Mangroves,40
+2025,PHL,Habitat,Mangroves,39
 2024,PHL,Habitat,Saltmarshes,0
+2025,PHL,Habitat,Saltmarshes,0
+2024,PHL,Habitat,Seagrasses,29
+2025,PHL,Habitat,Seagrasses,29
+2024,PHL,Habitat,Warm water corals,16
+2025,PHL,Habitat,Warm water corals,16
+2015,PLW,All,Total,0.3
+2016,PLW,All,Total,83
+2017,PLW,All,Total,83
+2018,PLW,All,Total,83
+2019,PLW,All,Total,100
+2020,PLW,All,Total,100
+2021,PLW,All,Total,100
+2022,PLW,All,Total,100
+2023,PLW,All,Total,100
+2024,PLW,All,Total,98
+2025,PLW,All,Total,98
+2024,PLW,Habitat,Cold water corals,100
+2025,PLW,Habitat,Cold water corals,100
+2024,PLW,Habitat,Mangroves,83
+2025,PLW,Habitat,Mangroves,82
+2024,PLW,Habitat,Seagrasses,99
+2025,PLW,Habitat,Seagrasses,99
+2024,PLW,Habitat,Warm water corals,100
+2025,PLW,Habitat,Warm water corals,100
+2015,PNG,All,Total,0.2
+2016,PNG,All,Total,0.2
+2017,PNG,All,Total,0.2
+2018,PNG,All,Total,0.2
+2019,PNG,All,Total,0.1
+2020,PNG,All,Total,0.1
+2021,PNG,All,Total,0.1
+2022,PNG,All,Total,0.1
+2023,PNG,All,Total,0.1
+2024,PNG,All,Total,0.1
+2025,PNG,All,Total,0.1
+2024,PNG,Habitat,Cold water corals,0
+2025,PNG,Habitat,Cold water corals,0
+2024,PNG,Habitat,Mangroves,4.5
+2025,PNG,Habitat,Mangroves,4.7
+2024,PNG,Habitat,Seagrasses,12
+2025,PNG,Habitat,Seagrasses,12
+2024,PNG,Habitat,Warm water corals,4.1
+2025,PNG,Habitat,Warm water corals,4.1
+2015,POL,All,Total,23
+2016,POL,All,Total,23
+2017,POL,All,Total,23
+2018,POL,All,Total,23
+2019,POL,All,Total,23
+2020,POL,All,Total,23
+2021,POL,All,Total,23
+2022,POL,All,Total,23
+2023,POL,All,Total,23
+2024,POL,All,Total,24
+2025,POL,All,Total,24
 2024,POL,Habitat,Saltmarshes,85
+2025,POL,Habitat,Saltmarshes,86
+2024,POL,Habitat,Seagrasses,100
+2025,POL,Habitat,Seagrasses,67
+2015,PRI,All,Total,1.7
+2016,PRI,All,Total,1.7
+2017,PRI,All,Total,1.8
+2018,PRI,All,Total,1.7
+2019,PRI,All,Total,1.7
+2020,PRI,All,Total,1.8
+2021,PRI,All,Total,1.8
+2022,PRI,All,Total,1.8
+2023,PRI,All,Total,1.8
+2024,PRI,All,Total,1.9
+2025,PRI,All,Total,2.1
+2024,PRI,Habitat,Cold water corals,19
+2025,PRI,Habitat,Cold water corals,19
+2024,PRI,Habitat,Mangroves,50
+2025,PRI,Habitat,Mangroves,49
 2024,PRI,Habitat,Saltmarshes,22
+2025,PRI,Habitat,Saltmarshes,22
+2024,PRI,Habitat,Seagrasses,21
+2025,PRI,Habitat,Seagrasses,21
+2024,PRI,Habitat,Warm water corals,21
+2025,PRI,Habitat,Warm water corals,21
+2015,PRK,All,Total,0
+2016,PRK,All,Total,0
+2017,PRK,All,Total,0
+2018,PRK,All,Total,0
+2019,PRK,All,Total,0
+2020,PRK,All,Total,0
+2021,PRK,All,Total,0
+2022,PRK,All,Total,0
+2023,PRK,All,Total,0
+2024,PRK,All,Total,0
+2025,PRK,All,Total,0
 2024,PRK,Habitat,Saltmarshes,0
+2025,PRK,Habitat,Saltmarshes,0
+2024,PRK,Habitat,Seagrasses,0
+2025,PRK,Habitat,Seagrasses,0
+2015,PRT,All,Total,6.7
+2016,PRT,All,Total,8.4
+2017,PRT,All,Total,16
+2018,PRT,All,Total,17
+2019,PRT,All,Total,17
+2020,PRT,All,Total,17
+2021,PRT,All,Total,17
+2022,PRT,All,Total,17
+2023,PRT,All,Total,17
+2024,PRT,All,Total,17
+2025,PRT,All,Total,17
+2024,PRT,Habitat,Cold water corals,29
+2025,PRT,Habitat,Cold water corals,29
 2024,PRT,Habitat,Saltmarshes,93
+2025,PRT,Habitat,Saltmarshes,93
+2024,PRT,Habitat,Seagrasses,4.5
+2025,PRT,Habitat,Seagrasses,8.5
+2018,PSE,All,Total,0
+2019,PSE,All,Total,0
+2020,PSE,All,Total,0
+2021,PSE,All,Total,0
+2022,PSE,All,Total,0
+2023,PSE,All,Total,0
+2024,PSE,All,Total,0
+2025,PSE,All,Total,0
+2015,PYF,All,Total,0
+2016,PYF,All,Total,0
+2017,PYF,All,Total,0
+2018,PYF,All,Total,0
+2019,PYF,All,Total,0
+2020,PYF,All,Total,0
+2021,PYF,All,Total,0
+2022,PYF,All,Total,0
+2023,PYF,All,Total,0
+2024,PYF,All,Total,0
+2025,PYF,All,Total,87
+2025,PYF,Habitat,Mangroves,8.4
+2024,PYF,Habitat,Seagrasses,0
+2025,PYF,Habitat,Seagrasses,5.4
+2024,PYF,Habitat,Warm water corals,0.01
+2025,PYF,Habitat,Warm water corals,12
+2015,QAT,All,Total,0.2
+2016,QAT,All,Total,0.2
+2017,QAT,All,Total,1.7
+2018,QAT,All,Total,1.7
+2019,QAT,All,Total,1.7
+2020,QAT,All,Total,2.3
+2021,QAT,All,Total,2.3
+2022,QAT,All,Total,2.3
+2023,QAT,All,Total,2.3
+2024,QAT,All,Total,2.3
+2025,QAT,All,Total,2.3
+2024,QAT,Habitat,Mangroves,90
+2025,QAT,Habitat,Mangroves,89
 2024,QAT,Habitat,Saltmarshes,32
+2025,QAT,Habitat,Saltmarshes,37
+2024,QAT,Habitat,Seagrasses,7.6
+2025,QAT,Habitat,Seagrasses,11
+2024,QAT,Habitat,Warm water corals,0.37
+2025,QAT,Habitat,Warm water corals,1.5
+2024,REU,Habitat,Seagrasses,0
+2025,REU,Habitat,Seagrasses,0
+2024,REU,Habitat,Warm water corals,84
+2025,REU,Habitat,Warm water corals,84
+2015,ROU,All,Total,8.4
+2016,ROU,All,Total,8.5
+2017,ROU,All,Total,23
+2018,ROU,All,Total,23
+2019,ROU,All,Total,23
+2020,ROU,All,Total,23
+2021,ROU,All,Total,23
+2022,ROU,All,Total,23
+2023,ROU,All,Total,23
+2024,ROU,All,Total,22
+2025,ROU,All,Total,22
 2024,ROU,Habitat,Saltmarshes,100
+2025,ROU,Habitat,Saltmarshes,100
+2024,ROU,Habitat,Seagrasses,80
+2025,ROU,Habitat,Seagrasses,76
+2015,RUS,All,Total,3
+2016,RUS,All,Total,3
+2017,RUS,All,Total,3
+2018,RUS,All,Total,3
+2019,RUS,All,Total,3
+2020,RUS,All,Total,2.2
+2021,RUS,All,Total,2.2
+2022,RUS,All,Total,2.2
+2023,RUS,All,Total,2.2
+2024,RUS,All,Total,2.2
+2025,RUS,All,Total,2.2
+2024,RUS,Habitat,Cold water corals,0
+2025,RUS,Habitat,Cold water corals,0
 2024,RUS,Habitat,Saltmarshes,35
+2025,RUS,Habitat,Saltmarshes,36
+2024,RUS,Habitat,Seagrasses,2.3
+2025,RUS,Habitat,Seagrasses,4.5
+2015,SAU,All,Total,1.6
+2016,SAU,All,Total,1.5
+2017,SAU,All,Total,2.5
+2018,SAU,All,Total,2.5
+2019,SAU,All,Total,2.5
+2020,SAU,All,Total,2.5
+2021,SAU,All,Total,2.5
+2022,SAU,All,Total,2.5
+2023,SAU,All,Total,2.5
+2024,SAU,All,Total,3.5
+2025,SAU,All,Total,3.5
+2024,SAU,Habitat,Cold water corals,0
+2025,SAU,Habitat,Cold water corals,0
+2024,SAU,Habitat,Mangroves,12
+2025,SAU,Habitat,Mangroves,26
 2024,SAU,Habitat,Saltmarshes,0
+2025,SAU,Habitat,Saltmarshes,0.7
+2024,SAU,Habitat,Seagrasses,1.6
+2025,SAU,Habitat,Seagrasses,15
+2024,SAU,Habitat,Warm water corals,13
+2025,SAU,Habitat,Warm water corals,11
+2015,SDN,All,Total,0
+2016,SDN,All,Total,16
+2017,SDN,All,Total,16
+2018,SDN,All,Total,16
+2019,SDN,All,Total,16
+2020,SDN,All,Total,16
+2021,SDN,All,Total,16
+2022,SDN,All,Total,16
+2023,SDN,All,Total,16
+2024,SDN,All,Total,17
+2025,SDN,All,Total,17
+2024,SDN,Habitat,Mangroves,3.1
+2025,SDN,Habitat,Mangroves,18
 2024,SDN,Habitat,Saltmarshes,0
+2025,SDN,Habitat,Saltmarshes,0
+2024,SDN,Habitat,Seagrasses,0
+2025,SDN,Habitat,Seagrasses,63
+2024,SDN,Habitat,Warm water corals,20
+2025,SDN,Habitat,Warm water corals,46
+2015,SEN,All,Total,1.1
+2016,SEN,All,Total,1.1
+2017,SEN,All,Total,1.1
+2018,SEN,All,Total,1.1
+2019,SEN,All,Total,1.1
+2020,SEN,All,Total,1.1
+2021,SEN,All,Total,1.9
+2022,SEN,All,Total,1.9
+2023,SEN,All,Total,1.9
+2024,SEN,All,Total,2.2
+2025,SEN,All,Total,3.1
+2024,SEN,Habitat,Cold water corals,0
+2025,SEN,Habitat,Cold water corals,0
+2024,SEN,Habitat,Mangroves,58
+2025,SEN,Habitat,Mangroves,80
+2024,SEN,Habitat,Seagrasses,33
+2025,SEN,Habitat,Seagrasses,33
+2015,SGP,All,Total,0
+2016,SGP,All,Total,0
+2017,SGP,All,Total,0
+2018,SGP,All,Total,0
+2019,SGP,All,Total,0
+2020,SGP,All,Total,0
+2021,SGP,All,Total,0
+2022,SGP,All,Total,0
+2023,SGP,All,Total,0
+2024,SGP,All,Total,0
+2025,SGP,All,Total,0
+2024,SGP,Habitat,Mangroves,9.1
+2025,SGP,Habitat,Mangroves,6.3
+2024,SGP,Habitat,Seagrasses,0
+2025,SGP,Habitat,Seagrasses,0
+2024,SGP,Habitat,Warm water corals,0
+2025,SGP,Habitat,Warm water corals,0
+2024,SGS,Habitat,Cold water corals,13
+2025,SGS,Habitat,Cold water corals,10
+2024,SHN,Habitat,Cold water corals,58
+2025,SHN,Habitat,Cold water corals,58
+2024,SJM,Habitat,Cold water corals,0
+2025,SJM,Habitat,Cold water corals,0
+2015,SLB,All,Total,0.1
+2016,SLB,All,Total,0.1
+2017,SLB,All,Total,0.1
+2018,SLB,All,Total,0.1
+2019,SLB,All,Total,0.1
+2020,SLB,All,Total,0.1
+2021,SLB,All,Total,0.1
+2022,SLB,All,Total,0.1
+2023,SLB,All,Total,0.1
+2024,SLB,All,Total,0.1
+2025,SLB,All,Total,0.1
+2024,SLB,Habitat,Mangroves,10
+2025,SLB,Habitat,Mangroves,10
+2024,SLB,Habitat,Seagrasses,13
+2025,SLB,Habitat,Seagrasses,5.7
+2024,SLB,Habitat,Warm water corals,5.2
+2025,SLB,Habitat,Warm water corals,5.9
+2015,SLE,All,Total,0.5
+2016,SLE,All,Total,0.5
+2017,SLE,All,Total,0.5
+2018,SLE,All,Total,0.5
+2019,SLE,All,Total,0.5
+2020,SLE,All,Total,0.5
+2021,SLE,All,Total,1.6
+2022,SLE,All,Total,1.6
+2023,SLE,All,Total,1.6
+2024,SLE,All,Total,1.7
+2025,SLE,All,Total,1.7
+2024,SLE,Habitat,Mangroves,0
+2025,SLE,Habitat,Mangroves,41
+2024,SLE,Habitat,Seagrasses,0.03
+2025,SLE,Habitat,Seagrasses,39
+2015,SLV,All,Total,0.7
+2016,SLV,All,Total,0.7
+2017,SLV,All,Total,0.7
+2018,SLV,All,Total,0.7
+2019,SLV,All,Total,0.7
+2020,SLV,All,Total,0.7
+2021,SLV,All,Total,0.7
+2022,SLV,All,Total,0.7
+2023,SLV,All,Total,0.7
+2024,SLV,All,Total,0.8
+2025,SLV,All,Total,0.8
+2024,SLV,Habitat,Mangroves,77
+2025,SLV,Habitat,Mangroves,77
+2019,SOM,All,Total,0
+2020,SOM,All,Total,0
+2021,SOM,All,Total,0
+2022,SOM,All,Total,0
+2023,SOM,All,Total,0
+2024,SOM,All,Total,0
+2025,SOM,All,Total,0
+2024,SOM,Habitat,Cold water corals,0
+2025,SOM,Habitat,Cold water corals,0
+2024,SOM,Habitat,Mangroves,0
+2025,SOM,Habitat,Mangroves,0
 2024,SOM,Habitat,Saltmarshes,0
+2025,SOM,Habitat,Saltmarshes,0
+2024,SOM,Habitat,Seagrasses,0
+2025,SOM,Habitat,Seagrasses,0
+2024,SOM,Habitat,Warm water corals,0
+2025,SOM,Habitat,Warm water corals,0
+2024,SPM,Habitat,Cold water corals,0
+2025,SPM,Habitat,Cold water corals,0
+2015,STP,All,Total,0
+2016,STP,All,Total,0
+2017,STP,All,Total,0
+2018,STP,All,Total,0
+2019,STP,All,Total,0
+2020,STP,All,Total,0
+2021,STP,All,Total,0
+2022,STP,All,Total,0
+2023,STP,All,Total,0
+2024,STP,All,Total,0
+2025,STP,All,Total,0
+2024,STP,Habitat,Cold water corals,0
+2025,STP,Habitat,Cold water corals,0
+2024,STP,Habitat,Mangroves,0
+2025,STP,Habitat,Mangroves,80
+2024,STP,Habitat,Seagrasses,0
+2025,STP,Habitat,Seagrasses,0
+2015,SUR,All,Total,1.5
+2016,SUR,All,Total,1.5
+2017,SUR,All,Total,1.5
+2018,SUR,All,Total,1.5
+2019,SUR,All,Total,1.5
+2020,SUR,All,Total,1.5
+2021,SUR,All,Total,1.5
+2022,SUR,All,Total,1.5
+2023,SUR,All,Total,1.5
+2024,SUR,All,Total,1.5
+2025,SUR,All,Total,1.5
+2024,SUR,Habitat,Cold water corals,0
+2025,SUR,Habitat,Cold water corals,0
+2024,SUR,Habitat,Mangroves,69
+2025,SUR,Habitat,Mangroves,71
 2024,SUR,Habitat,Saltmarshes,100
+2025,SUR,Habitat,Saltmarshes,100
+2024,SUR,Habitat,Seagrasses,50
+2025,SUR,Habitat,Seagrasses,37
+2015,SVN,All,Total,100
+2016,SVN,All,Total,100
+2017,SVN,All,Total,100
+2018,SVN,All,Total,100
+2019,SVN,All,Total,100
+2020,SVN,All,Total,2.3
+2021,SVN,All,Total,2.3
+2022,SVN,All,Total,2.3
+2023,SVN,All,Total,2.3
+2024,SVN,All,Total,2.9
+2025,SVN,All,Total,2.9
 2024,SVN,Habitat,Saltmarshes,33
+2025,SVN,Habitat,Saltmarshes,33
+2024,SVN,Habitat,Seagrasses,0.05
+2025,SVN,Habitat,Seagrasses,35
+2015,SWE,All,Total,8
+2016,SWE,All,Total,8.2
+2017,SWE,All,Total,15
+2018,SWE,All,Total,15
+2019,SWE,All,Total,15
+2020,SWE,All,Total,15
+2021,SWE,All,Total,16
+2022,SWE,All,Total,16
+2023,SWE,All,Total,16
+2024,SWE,All,Total,16
+2025,SWE,All,Total,16
+2024,SWE,Habitat,Cold water corals,62
+2025,SWE,Habitat,Cold water corals,62
 2024,SWE,Habitat,Saltmarshes,56
+2025,SWE,Habitat,Saltmarshes,72
+2024,SWE,Habitat,Seagrasses,56
+2025,SWE,Habitat,Seagrasses,39
+2016,SXM,All,Total,5.3
+2017,SXM,All,Total,8.7
+2018,SXM,All,Total,8.7
+2019,SXM,All,Total,8.7
+2020,SXM,All,Total,8.7
+2021,SXM,All,Total,8.7
+2022,SXM,All,Total,8.7
+2023,SXM,All,Total,8.7
+2024,SXM,All,Total,5.1
+2025,SXM,All,Total,5.1
+2025,SXM,Habitat,Mangroves,6.9
+2024,SXM,Habitat,Seagrasses,3
+2025,SXM,Habitat,Seagrasses,2.9
+2024,SXM,Habitat,Warm water corals,1.1
+2025,SXM,Habitat,Warm water corals,0.85
+2015,SYC,All,Total,0
+2016,SYC,All,Total,0
+2017,SYC,All,Total,0
+2018,SYC,All,Total,0
+2019,SYC,All,Total,16
+2020,SYC,All,Total,33
+2021,SYC,All,Total,33
+2022,SYC,All,Total,33
+2023,SYC,All,Total,33
+2024,SYC,All,Total,33
+2025,SYC,All,Total,33
+2024,SYC,Habitat,Cold water corals,0
+2025,SYC,Habitat,Cold water corals,0
+2024,SYC,Habitat,Mangroves,36
+2025,SYC,Habitat,Mangroves,91
+2024,SYC,Habitat,Seagrasses,33
+2025,SYC,Habitat,Seagrasses,33
+2024,SYC,Habitat,Warm water corals,94
+2025,SYC,Habitat,Warm water corals,94
+2015,SYR,All,Total,0.2
+2016,SYR,All,Total,0.2
+2017,SYR,All,Total,0.2
+2018,SYR,All,Total,0.2
+2019,SYR,All,Total,0.2
+2020,SYR,All,Total,0.2
+2021,SYR,All,Total,0.2
+2022,SYR,All,Total,0.2
+2023,SYR,All,Total,0.2
+2024,SYR,All,Total,0.2
+2025,SYR,All,Total,0.2
+2024,SYR,Habitat,Seagrasses,0
+2025,SYR,Habitat,Seagrasses,4
+2015,TCA,All,Total,0.1
+2016,TCA,All,Total,0.1
+2017,TCA,All,Total,0.1
+2018,TCA,All,Total,0.1
+2019,TCA,All,Total,0.1
+2020,TCA,All,Total,0.1
+2021,TCA,All,Total,0.1
+2022,TCA,All,Total,0.1
+2023,TCA,All,Total,0.1
+2024,TCA,All,Total,0.2
+2025,TCA,All,Total,0.2
+2024,TCA,Habitat,Cold water corals,0
+2025,TCA,Habitat,Cold water corals,0
+2024,TCA,Habitat,Mangroves,78
+2025,TCA,Habitat,Mangroves,75
+2024,TCA,Habitat,Seagrasses,7
+2025,TCA,Habitat,Seagrasses,7
+2024,TCA,Habitat,Warm water corals,8.8
+2025,TCA,Habitat,Warm water corals,8.8
+2015,TGO,All,Total,0.2
+2016,TGO,All,Total,0.2
+2017,TGO,All,Total,0.2
+2018,TGO,All,Total,0.2
+2019,TGO,All,Total,0.2
+2020,TGO,All,Total,0.2
+2021,TGO,All,Total,0.2
+2022,TGO,All,Total,0.2
+2023,TGO,All,Total,0.2
+2024,TGO,All,Total,0.7
+2025,TGO,All,Total,0.7
+2025,TGO,Habitat,Mangroves,67
+2024,TGO,Habitat,Seagrasses,0
+2025,TGO,Habitat,Seagrasses,5.2
+2015,THA,All,Total,1.9
+2016,THA,All,Total,1.9
+2017,THA,All,Total,1.9
+2018,THA,All,Total,1.9
+2019,THA,All,Total,1.9
+2020,THA,All,Total,4.4
+2021,THA,All,Total,4.4
+2022,THA,All,Total,4.4
+2023,THA,All,Total,4.8
+2024,THA,All,Total,5
+2025,THA,All,Total,5
+2024,THA,Habitat,Cold water corals,0
+2025,THA,Habitat,Cold water corals,0
+2024,THA,Habitat,Mangroves,6.9
+2025,THA,Habitat,Mangroves,6.4
+2024,THA,Habitat,Seagrasses,77
+2025,THA,Habitat,Seagrasses,76
+2024,THA,Habitat,Warm water corals,63
+2025,THA,Habitat,Warm water corals,63
+2024,TKL,Habitat,Warm water corals,0
+2025,TKL,Habitat,Warm water corals,3.4
+2015,TKM,All,Total,3
+2016,TKM,All,Total,3
+2017,TKM,All,Total,3
+2018,TKM,All,Total,3
+2019,TKM,All,Total,3
+2020,TKM,All,Total,3
+2021,TKM,All,Total,3
+2022,TKM,All,Total,3
+2023,TKM,All,Total,3
+2024,TKM,All,Total,4.2
+2025,TKM,All,Total,4.2
+2024,TKM,Habitat,Seagrasses,13
+2025,TKM,Habitat,Seagrasses,13
+2015,TLS,All,Total,1.4
+2016,TLS,All,Total,1.4
+2017,TLS,All,Total,1.4
+2018,TLS,All,Total,1.4
+2019,TLS,All,Total,1.4
+2020,TLS,All,Total,1.4
+2021,TLS,All,Total,1.4
+2022,TLS,All,Total,1.4
+2023,TLS,All,Total,1.4
+2024,TLS,All,Total,0.7
+2025,TLS,All,Total,0.7
+2024,TLS,Habitat,Cold water corals,0
+2025,TLS,Habitat,Cold water corals,0
+2024,TLS,Habitat,Mangroves,56
+2025,TLS,Habitat,Mangroves,50
+2024,TLS,Habitat,Seagrasses,1.2
+2025,TLS,Habitat,Seagrasses,1.2
+2024,TLS,Habitat,Warm water corals,27
+2025,TLS,Habitat,Warm water corals,27
+2015,TON,All,Total,1.5
+2016,TON,All,Total,1.5
+2017,TON,All,Total,1.5
+2018,TON,All,Total,1.5
+2019,TON,All,Total,0.1
+2020,TON,All,Total,0.1
+2021,TON,All,Total,0.1
+2022,TON,All,Total,0.1
+2023,TON,All,Total,0.1
+2024,TON,All,Total,0.1
+2025,TON,All,Total,0.1
+2024,TON,Habitat,Cold water corals,0
+2025,TON,Habitat,Cold water corals,0
+2024,TON,Habitat,Mangroves,22
+2025,TON,Habitat,Mangroves,18
 2024,TON,Habitat,Saltmarshes,3.1
+2025,TON,Habitat,Saltmarshes,3.1
+2024,TON,Habitat,Seagrasses,5
+2025,TON,Habitat,Seagrasses,5
+2024,TON,Habitat,Warm water corals,17
+2025,TON,Habitat,Warm water corals,17
+2015,TTO,All,Total,0
+2016,TTO,All,Total,0
+2017,TTO,All,Total,0
+2018,TTO,All,Total,0
+2019,TTO,All,Total,0
+2020,TTO,All,Total,0
+2021,TTO,All,Total,0
+2022,TTO,All,Total,0
+2023,TTO,All,Total,0
+2024,TTO,All,Total,0.1
+2025,TTO,All,Total,0.1
+2024,TTO,Habitat,Cold water corals,0
+2025,TTO,Habitat,Cold water corals,0
+2024,TTO,Habitat,Mangroves,33
+2025,TTO,Habitat,Mangroves,47
+2024,TTO,Habitat,Seagrasses,52
+2025,TTO,Habitat,Seagrasses,8.9
+2024,TTO,Habitat,Warm water corals,16
+2025,TTO,Habitat,Warm water corals,16
+2015,TUN,All,Total,1.1
+2016,TUN,All,Total,1
+2017,TUN,All,Total,1
+2018,TUN,All,Total,1
+2019,TUN,All,Total,1
+2020,TUN,All,Total,1
+2021,TUN,All,Total,1
+2022,TUN,All,Total,1
+2023,TUN,All,Total,1
+2024,TUN,All,Total,1.1
+2025,TUN,All,Total,1.1
+2024,TUN,Habitat,Cold water corals,0
+2025,TUN,Habitat,Cold water corals,0
 2024,TUN,Habitat,Saltmarshes,50
+2025,TUN,Habitat,Saltmarshes,50
+2024,TUN,Habitat,Seagrasses,2.5
+2025,TUN,Habitat,Seagrasses,2.8
+2015,TUR,All,Total,0.1
+2016,TUR,All,Total,0.1
+2017,TUR,All,Total,0.1
+2018,TUR,All,Total,0.1
+2019,TUR,All,Total,0.1
+2020,TUR,All,Total,0.1
+2021,TUR,All,Total,1.8
+2022,TUR,All,Total,1.8
+2023,TUR,All,Total,1.8
+2024,TUR,All,Total,1.7
+2025,TUR,All,Total,1.7
 2024,TUR,Habitat,Saltmarshes,56
+2025,TUR,Habitat,Saltmarshes,56
+2024,TUR,Habitat,Seagrasses,0
+2025,TUR,Habitat,Seagrasses,5.9
+2015,TUV,All,Total,0
+2016,TUV,All,Total,0
+2017,TUV,All,Total,0
+2018,TUV,All,Total,0
+2019,TUV,All,Total,0
+2020,TUV,All,Total,0
+2021,TUV,All,Total,0
+2022,TUV,All,Total,0
+2023,TUV,All,Total,0
+2024,TUV,All,Total,0
+2025,TUV,All,Total,0
+2024,TUV,Habitat,Cold water corals,0
+2025,TUV,Habitat,Cold water corals,0
+2025,TUV,Habitat,Mangroves,49
+2024,TUV,Habitat,Warm water corals,7.5
+2025,TUV,Habitat,Warm water corals,7.5
+2024,TWN,Habitat,Cold water corals,0
+2025,TWN,Habitat,Cold water corals,0
+2024,TWN,Habitat,Mangroves,77
+2025,TWN,Habitat,Mangroves,55
 2024,TWN,Habitat,Saltmarshes,1.8
+2025,TWN,Habitat,Saltmarshes,1.8
+2024,TWN,Habitat,Seagrasses,11
+2025,TWN,Habitat,Seagrasses,11
+2024,TWN,Habitat,Warm water corals,52
+2025,TWN,Habitat,Warm water corals,52
+2015,TZA,All,Total,3
+2016,TZA,All,Total,2.5
+2017,TZA,All,Total,3
+2018,TZA,All,Total,3
+2019,TZA,All,Total,3
+2020,TZA,All,Total,3
+2021,TZA,All,Total,3
+2022,TZA,All,Total,3
+2023,TZA,All,Total,3
+2024,TZA,All,Total,2.3
+2025,TZA,All,Total,2.3
+2024,TZA,Habitat,Mangroves,84
+2025,TZA,Habitat,Mangroves,82
 2024,TZA,Habitat,Saltmarshes,60
+2025,TZA,Habitat,Saltmarshes,60
+2024,TZA,Habitat,Seagrasses,3.5
+2025,TZA,Habitat,Seagrasses,17
+2024,TZA,Habitat,Warm water corals,46
+2025,TZA,Habitat,Warm water corals,46
+2015,UKR,All,Total,3.4
+2016,UKR,All,Total,3.4
+2017,UKR,All,Total,3.4
+2018,UKR,All,Total,3.4
+2019,UKR,All,Total,3.4
+2020,UKR,All,Total,3.4
+2021,UKR,All,Total,9.2
+2022,UKR,All,Total,9.2
+2023,UKR,All,Total,9.2
+2024,UKR,All,Total,22
+2025,UKR,All,Total,22
 2024,UKR,Habitat,Saltmarshes,32
+2025,UKR,Habitat,Saltmarshes,31
+2024,UKR,Habitat,Seagrasses,60
+2025,UKR,Habitat,Seagrasses,63
+2024,UMI,Habitat,Cold water corals,100
+2025,UMI,Habitat,Cold water corals,100
+2024,UMI,Habitat,Warm water corals,100
+2025,UMI,Habitat,Warm water corals,100
+2015,URY,All,Total,0.3
+2016,URY,All,Total,0.7
+2017,URY,All,Total,0.7
+2018,URY,All,Total,0.7
+2019,URY,All,Total,0.8
+2020,URY,All,Total,0.8
+2021,URY,All,Total,0.8
+2022,URY,All,Total,0.8
+2023,URY,All,Total,0.8
+2024,URY,All,Total,1.5
+2025,URY,All,Total,1.5
+2024,URY,Habitat,Cold water corals,0
+2025,URY,Habitat,Cold water corals,0
 2024,URY,Habitat,Saltmarshes,65
+2025,URY,Habitat,Saltmarshes,65
+2015,USA,All,Total,28
+2016,USA,All,Total,41
+2017,USA,All,Total,41
+2018,USA,All,Total,41
+2019,USA,All,Total,41
+2020,USA,All,Total,37
+2021,USA,All,Total,19
+2022,USA,All,Total,19
+2023,USA,All,Total,19
+2024,USA,All,Total,19
+2025,USA,All,Total,19
+2024,USA,Habitat,Cold water corals,19
+2025,USA,Habitat,Cold water corals,19
+2024,USA,Habitat,Mangroves,90
+2025,USA,Habitat,Mangroves,89
 2024,USA,Habitat,Saltmarshes,32
+2025,USA,Habitat,Saltmarshes,33
+2024,USA,Habitat,Seagrasses,61
+2025,USA,Habitat,Seagrasses,62
+2024,USA,Habitat,Warm water corals,87
+2025,USA,Habitat,Warm water corals,87
+2015,VCT,All,Total,0.2
+2016,VCT,All,Total,0.2
+2017,VCT,All,Total,0.2
+2018,VCT,All,Total,0.2
+2019,VCT,All,Total,0.2
+2020,VCT,All,Total,0.2
+2021,VCT,All,Total,0.2
+2022,VCT,All,Total,0.2
+2023,VCT,All,Total,0.2
+2024,VCT,All,Total,0.2
+2025,VCT,All,Total,0.2
+2024,VCT,Habitat,Cold water corals,0
+2025,VCT,Habitat,Cold water corals,0
+2024,VCT,Habitat,Mangroves,46
+2025,VCT,Habitat,Mangroves,65
+2024,VCT,Habitat,Seagrasses,13
+2025,VCT,Habitat,Seagrasses,0
+2024,VCT,Habitat,Warm water corals,48
+2025,VCT,Habitat,Warm water corals,49
+2015,VEN,All,Total,3.5
+2016,VEN,All,Total,3.5
+2017,VEN,All,Total,3.5
+2018,VEN,All,Total,3.5
+2019,VEN,All,Total,3.5
+2020,VEN,All,Total,4.3
+2021,VEN,All,Total,4.3
+2022,VEN,All,Total,4.4
+2023,VEN,All,Total,4.3
+2024,VEN,All,Total,4.4
+2025,VEN,All,Total,4.4
+2024,VEN,Habitat,Cold water corals,2.9
+2025,VEN,Habitat,Cold water corals,2.9
+2024,VEN,Habitat,Mangroves,67
+2025,VEN,Habitat,Mangroves,66
 2024,VEN,Habitat,Saltmarshes,15
+2025,VEN,Habitat,Saltmarshes,15
+2024,VEN,Habitat,Seagrasses,7.7
+2025,VEN,Habitat,Seagrasses,8.4
+2024,VEN,Habitat,Warm water corals,54
+2025,VEN,Habitat,Warm water corals,54
+2015,VGB,All,Total,0.1
+2016,VGB,All,Total,0.1
+2017,VGB,All,Total,0
+2018,VGB,All,Total,0
+2019,VGB,All,Total,0
+2020,VGB,All,Total,0
+2021,VGB,All,Total,0
+2022,VGB,All,Total,0
+2023,VGB,All,Total,0
+2024,VGB,All,Total,0
+2025,VGB,All,Total,0
+2024,VGB,Habitat,Cold water corals,0
+2025,VGB,Habitat,Cold water corals,0
+2024,VGB,Habitat,Mangroves,0
+2025,VGB,Habitat,Mangroves,0
+2024,VGB,Habitat,Seagrasses,0.27
+2025,VGB,Habitat,Seagrasses,1.9
+2024,VGB,Habitat,Warm water corals,0.42
+2025,VGB,Habitat,Warm water corals,0.45
+2015,VIR,All,Total,0.8
+2016,VIR,All,Total,0.9
+2017,VIR,All,Total,0.8
+2018,VIR,All,Total,0.9
+2019,VIR,All,Total,0.9
+2020,VIR,All,Total,0.5
+2021,VIR,All,Total,0.9
+2022,VIR,All,Total,0.9
+2023,VIR,All,Total,0.9
+2024,VIR,All,Total,0.8
+2025,VIR,All,Total,0.8
+2024,VIR,Habitat,Cold water corals,0.53
+2025,VIR,Habitat,Cold water corals,0.53
+2024,VIR,Habitat,Mangroves,64
+2025,VIR,Habitat,Mangroves,53
 2024,VIR,Habitat,Saltmarshes,33
+2025,VIR,Habitat,Saltmarshes,33
+2024,VIR,Habitat,Seagrasses,31
+2025,VIR,Habitat,Seagrasses,30
+2024,VIR,Habitat,Warm water corals,35
+2025,VIR,Habitat,Warm water corals,35
+2015,VNM,All,Total,0.6
+2016,VNM,All,Total,0.6
+2017,VNM,All,Total,0.6
+2018,VNM,All,Total,0.6
+2019,VNM,All,Total,0.6
+2020,VNM,All,Total,0.6
+2021,VNM,All,Total,0.6
+2022,VNM,All,Total,0.6
+2023,VNM,All,Total,0.6
+2024,VNM,All,Total,0.5
+2025,VNM,All,Total,0.5
+2024,VNM,Habitat,Cold water corals,0
+2025,VNM,Habitat,Cold water corals,0
+2024,VNM,Habitat,Mangroves,7.2
+2025,VNM,Habitat,Mangroves,13
 2024,VNM,Habitat,Saltmarshes,0.33
+2025,VNM,Habitat,Saltmarshes,0.33
+2024,VNM,Habitat,Seagrasses,9.8
+2025,VNM,Habitat,Seagrasses,9.4
+2024,VNM,Habitat,Warm water corals,22
+2025,VNM,Habitat,Warm water corals,22
+2015,VUT,All,Total,0
+2016,VUT,All,Total,0
+2017,VUT,All,Total,0
+2018,VUT,All,Total,0
+2019,VUT,All,Total,0
+2020,VUT,All,Total,0
+2021,VUT,All,Total,0
+2022,VUT,All,Total,0
+2023,VUT,All,Total,0
+2024,VUT,All,Total,0
+2025,VUT,All,Total,0
+2024,VUT,Habitat,Cold water corals,0
+2025,VUT,Habitat,Cold water corals,0
+2024,VUT,Habitat,Mangroves,0
+2025,VUT,Habitat,Mangroves,4.5
 2024,VUT,Habitat,Saltmarshes,0
+2025,VUT,Habitat,Saltmarshes,0
+2024,VUT,Habitat,Seagrasses,0.26
+2025,VUT,Habitat,Seagrasses,2.6
+2024,VUT,Habitat,Warm water corals,0.34
+2025,VUT,Habitat,Warm water corals,1.9
+2024,WLF,Habitat,Cold water corals,0
+2025,WLF,Habitat,Cold water corals,0
+2025,WLF,Habitat,Mangroves,0
+2024,WLF,Habitat,Warm water corals,0
+2025,WLF,Habitat,Warm water corals,0
+2015,WSM,All,Total,0.1
+2016,WSM,All,Total,0.1
+2017,WSM,All,Total,0.1
+2018,WSM,All,Total,0.1
+2019,WSM,All,Total,0.1
+2020,WSM,All,Total,0.1
+2021,WSM,All,Total,0.1
+2022,WSM,All,Total,0.1
+2023,WSM,All,Total,0.1
+2024,WSM,All,Total,0.2
+2025,WSM,All,Total,0.2
+2024,WSM,Habitat,Cold water corals,0
+2025,WSM,Habitat,Cold water corals,0
+2024,WSM,Habitat,Mangroves,20
+2025,WSM,Habitat,Mangroves,33
+2024,WSM,Habitat,Seagrasses,4.8
+2025,WSM,Habitat,Seagrasses,6.5
+2024,WSM,Habitat,Warm water corals,10
+2025,WSM,Habitat,Warm water corals,20
+2015,YEM,All,Total,0.5
+2016,YEM,All,Total,0.5
+2017,YEM,All,Total,0.5
+2018,YEM,All,Total,0.5
+2019,YEM,All,Total,0.5
+2020,YEM,All,Total,0.5
+2021,YEM,All,Total,0.5
+2022,YEM,All,Total,0.5
+2023,YEM,All,Total,0.5
+2024,YEM,All,Total,0.4
+2025,YEM,All,Total,0.4
+2024,YEM,Habitat,Cold water corals,0
+2025,YEM,Habitat,Cold water corals,0
+2024,YEM,Habitat,Mangroves,15
+2025,YEM,Habitat,Mangroves,20
 2024,YEM,Habitat,Saltmarshes,0
+2025,YEM,Habitat,Saltmarshes,0
+2024,YEM,Habitat,Seagrasses,0
+2025,YEM,Habitat,Seagrasses,0.79
+2024,YEM,Habitat,Warm water corals,0.25
+2025,YEM,Habitat,Warm water corals,1.6
+2015,ZAF,All,Total,12
+2016,ZAF,All,Total,12
+2017,ZAF,All,Total,12
+2018,ZAF,All,Total,12
+2019,ZAF,All,Total,15
+2020,ZAF,All,Total,16
+2021,ZAF,All,Total,16
+2022,ZAF,All,Total,16
+2023,ZAF,All,Total,16
+2024,ZAF,All,Total,15
+2025,ZAF,All,Total,15
+2024,ZAF,Habitat,Cold water corals,54
+2025,ZAF,Habitat,Cold water corals,57
+2024,ZAF,Habitat,Mangroves,35
+2025,ZAF,Habitat,Mangroves,38
 2024,ZAF,Habitat,Saltmarshes,21
+2025,ZAF,Habitat,Saltmarshes,22
+2024,ZAF,Habitat,Seagrasses,100
+2025,ZAF,Habitat,Seagrasses,97
+2024,ZAF,Habitat,Warm water corals,100
+2025,ZAF,Habitat,Warm water corals,100
