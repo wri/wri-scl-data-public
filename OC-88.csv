@@ -21,7 +21,6 @@ year,geo,disagg,value
 2019,WLD,Total,4.8
 2020,WLD,Total,6.1
 2021,WLD,Total,4.5
-2022,WLD,Total,2.6
 2000,WLD,Direct fisher income support,0.02
 2001,WLD,Direct fisher income support,0.057
 2002,WLD,Direct fisher income support,0.053
@@ -44,7 +43,6 @@ year,geo,disagg,value
 2019,WLD,Direct fisher income support,2.2
 2020,WLD,Direct fisher income support,2.7
 2021,WLD,Direct fisher income support,2.8
-2022,WLD,Direct fisher income support,1.5
 2000,WLD,Buyback of vessel and license,0.00037
 2001,WLD,Buyback of vessel and license,0.002
 2002,WLD,Buyback of vessel and license,0.034
@@ -67,7 +65,6 @@ year,geo,disagg,value
 2019,WLD,Buyback of vessel and license,0.98
 2020,WLD,Buyback of vessel and license,2.1
 2021,WLD,Buyback of vessel and license,0.35
-2022,WLD,Buyback of vessel and license,0.099
 2000,WLD,Support for education and training,0.0067
 2001,WLD,Support for education and training,0.0082
 2002,WLD,Support for education and training,0.0073
@@ -90,7 +87,6 @@ year,geo,disagg,value
 2019,WLD,Support for education and training,0.13
 2020,WLD,Support for education and training,0.11
 2021,WLD,Support for education and training,0.1
-2022,WLD,Support for education and training,0.068
 2000,WLD,Port and community infrastructure,0.013
 2001,WLD,Port and community infrastructure,0.029
 2002,WLD,Port and community infrastructure,0.027
@@ -113,7 +109,6 @@ year,geo,disagg,value
 2019,WLD,Port and community infrastructure,1.5
 2020,WLD,Port and community infrastructure,1.2
 2021,WLD,Port and community infrastructure,1.3
-2022,WLD,Port and community infrastructure,0.87
 2000,ARG,Total,0
 2001,ARG,Total,0
 2002,ARG,Total,0
@@ -136,7 +131,6 @@ year,geo,disagg,value
 2019,ARG,Total,0
 2020,ARG,Total,0
 2021,ARG,Total,0
-2022,ARG,Total,0
 2000,ARG,Direct fisher income support,0
 2001,ARG,Direct fisher income support,0
 2002,ARG,Direct fisher income support,0
@@ -159,7 +153,6 @@ year,geo,disagg,value
 2019,ARG,Direct fisher income support,0
 2020,ARG,Direct fisher income support,0
 2021,ARG,Direct fisher income support,0
-2022,ARG,Direct fisher income support,0
 2000,ARG,Support for education and training,0
 2001,ARG,Support for education and training,0
 2002,ARG,Support for education and training,0
@@ -182,7 +175,6 @@ year,geo,disagg,value
 2019,ARG,Support for education and training,0
 2020,ARG,Support for education and training,0
 2021,ARG,Support for education and training,0
-2022,ARG,Support for education and training,0
 2000,AUS,Total,0
 2001,AUS,Total,0
 2002,AUS,Total,0
@@ -205,7 +197,6 @@ year,geo,disagg,value
 2019,AUS,Total,2.1
 2020,AUS,Total,1.5
 2021,AUS,Total,10
-2022,AUS,Total,2.7
 2000,AUS,Direct fisher income support,0
 2001,AUS,Direct fisher income support,0
 2002,AUS,Direct fisher income support,0
@@ -228,7 +219,6 @@ year,geo,disagg,value
 2019,AUS,Direct fisher income support,1.9
 2020,AUS,Direct fisher income support,1.2
 2021,AUS,Direct fisher income support,0
-2022,AUS,Direct fisher income support,0.6
 2000,AUS,Buyback of vessel and license,0
 2001,AUS,Buyback of vessel and license,0
 2002,AUS,Buyback of vessel and license,0
@@ -251,7 +241,6 @@ year,geo,disagg,value
 2019,AUS,Buyback of vessel and license,0.22
 2020,AUS,Buyback of vessel and license,0.3
 2021,AUS,Buyback of vessel and license,10
-2022,AUS,Buyback of vessel and license,1.9
 2000,AUS,Support for education and training,0
 2001,AUS,Support for education and training,0
 2002,AUS,Support for education and training,0
@@ -274,7 +263,6 @@ year,geo,disagg,value
 2019,AUS,Support for education and training,0
 2020,AUS,Support for education and training,0
 2021,AUS,Support for education and training,0.27
-2022,AUS,Support for education and training,0.25
 2000,AUS,Port and community infrastructure,0
 2001,AUS,Port and community infrastructure,0
 2002,AUS,Port and community infrastructure,0
@@ -297,7 +285,6 @@ year,geo,disagg,value
 2019,AUS,Port and community infrastructure,0
 2020,AUS,Port and community infrastructure,0
 2021,AUS,Port and community infrastructure,0
-2022,AUS,Port and community infrastructure,0
 2000,BEL,Total,0
 2001,BEL,Total,0
 2002,BEL,Total,0
@@ -320,7 +307,6 @@ year,geo,disagg,value
 2019,BEL,Total,0
 2020,BEL,Total,0.056
 2021,BEL,Total,0.24
-2022,BEL,Total,0
 2000,BEL,Buyback of vessel and license,0
 2001,BEL,Buyback of vessel and license,0
 2002,BEL,Buyback of vessel and license,0
@@ -343,7 +329,6 @@ year,geo,disagg,value
 2019,BEL,Buyback of vessel and license,0
 2020,BEL,Buyback of vessel and license,0
 2021,BEL,Buyback of vessel and license,0
-2022,BEL,Buyback of vessel and license,0
 2000,BEL,Support for education and training,0
 2001,BEL,Support for education and training,0
 2002,BEL,Support for education and training,0
@@ -366,7 +351,6 @@ year,geo,disagg,value
 2019,BEL,Support for education and training,0
 2020,BEL,Support for education and training,0
 2021,BEL,Support for education and training,0
-2022,BEL,Support for education and training,0
 2000,BEL,Port and community infrastructure,0
 2001,BEL,Port and community infrastructure,0
 2002,BEL,Port and community infrastructure,0
@@ -389,7 +373,6 @@ year,geo,disagg,value
 2019,BEL,Port and community infrastructure,0
 2020,BEL,Port and community infrastructure,0.056
 2021,BEL,Port and community infrastructure,0.24
-2022,BEL,Port and community infrastructure,0
 2000,BGR,Total,0
 2001,BGR,Total,0
 2002,BGR,Total,0
@@ -412,7 +395,6 @@ year,geo,disagg,value
 2019,BGR,Total,12
 2020,BGR,Total,1.1
 2021,BGR,Total,0
-2022,BGR,Total,5.6
 2000,BGR,Buyback of vessel and license,0
 2001,BGR,Buyback of vessel and license,0
 2002,BGR,Buyback of vessel and license,0
@@ -435,7 +417,6 @@ year,geo,disagg,value
 2019,BGR,Buyback of vessel and license,0
 2020,BGR,Buyback of vessel and license,0
 2021,BGR,Buyback of vessel and license,0
-2022,BGR,Buyback of vessel and license,0
 2000,BGR,Support for education and training,0
 2001,BGR,Support for education and training,0
 2002,BGR,Support for education and training,0
@@ -458,7 +439,6 @@ year,geo,disagg,value
 2019,BGR,Support for education and training,3.8
 2020,BGR,Support for education and training,0
 2021,BGR,Support for education and training,0
-2022,BGR,Support for education and training,4.4
 2000,BGR,Port and community infrastructure,0
 2001,BGR,Port and community infrastructure,0
 2002,BGR,Port and community infrastructure,0
@@ -481,7 +461,6 @@ year,geo,disagg,value
 2019,BGR,Port and community infrastructure,8.7
 2020,BGR,Port and community infrastructure,1.1
 2021,BGR,Port and community infrastructure,0
-2022,BGR,Port and community infrastructure,1.2
 2000,BRA,Total,0
 2001,BRA,Total,0
 2002,BRA,Total,0
@@ -504,7 +483,6 @@ year,geo,disagg,value
 2019,BRA,Total,577
 2020,BRA,Total,648
 2021,BRA,Total,674
-2022,BRA,Total,731
 2000,BRA,Direct fisher income support,0
 2001,BRA,Direct fisher income support,0
 2002,BRA,Direct fisher income support,0
@@ -527,7 +505,6 @@ year,geo,disagg,value
 2019,BRA,Direct fisher income support,573
 2020,BRA,Direct fisher income support,648
 2021,BRA,Direct fisher income support,668
-2022,BRA,Direct fisher income support,730
 2000,BRA,Support for education and training,0
 2001,BRA,Support for education and training,0
 2002,BRA,Support for education and training,0
@@ -550,7 +527,6 @@ year,geo,disagg,value
 2019,BRA,Support for education and training,0.25
 2020,BRA,Support for education and training,0
 2021,BRA,Support for education and training,0
-2022,BRA,Support for education and training,0
 2000,BRA,Port and community infrastructure,0
 2001,BRA,Port and community infrastructure,0
 2002,BRA,Port and community infrastructure,0
@@ -573,7 +549,6 @@ year,geo,disagg,value
 2019,BRA,Port and community infrastructure,4
 2020,BRA,Port and community infrastructure,0
 2021,BRA,Port and community infrastructure,6.3
-2022,BRA,Port and community infrastructure,1.8
 2000,CAN,Total,0
 2001,CAN,Total,0
 2002,CAN,Total,0
@@ -596,7 +571,6 @@ year,geo,disagg,value
 2019,CAN,Total,404
 2020,CAN,Total,460
 2021,CAN,Total,429
-2022,CAN,Total,482
 2000,CAN,Direct fisher income support,0
 2001,CAN,Direct fisher income support,0
 2002,CAN,Direct fisher income support,0
@@ -619,7 +593,6 @@ year,geo,disagg,value
 2019,CAN,Direct fisher income support,229
 2020,CAN,Direct fisher income support,338
 2021,CAN,Direct fisher income support,309
-2022,CAN,Direct fisher income support,296
 2000,CAN,Port and community infrastructure,0
 2001,CAN,Port and community infrastructure,0
 2002,CAN,Port and community infrastructure,0
@@ -642,7 +615,6 @@ year,geo,disagg,value
 2019,CAN,Port and community infrastructure,175
 2020,CAN,Port and community infrastructure,122
 2021,CAN,Port and community infrastructure,120
-2022,CAN,Port and community infrastructure,187
 2000,CHL,Total,0
 2001,CHL,Total,0
 2002,CHL,Total,0
@@ -665,7 +637,6 @@ year,geo,disagg,value
 2019,CHL,Total,5
 2020,CHL,Total,2
 2021,CHL,Total,3.4
-2022,CHL,Total,2.2
 2000,CHL,Support for education and training,0
 2001,CHL,Support for education and training,0
 2002,CHL,Support for education and training,0
@@ -688,7 +659,6 @@ year,geo,disagg,value
 2019,CHL,Support for education and training,2.6
 2020,CHL,Support for education and training,0
 2021,CHL,Support for education and training,0
-2022,CHL,Support for education and training,0
 2000,CHL,Port and community infrastructure,0
 2001,CHL,Port and community infrastructure,0
 2002,CHL,Port and community infrastructure,0
@@ -711,7 +681,6 @@ year,geo,disagg,value
 2019,CHL,Port and community infrastructure,2.4
 2020,CHL,Port and community infrastructure,2
 2021,CHL,Port and community infrastructure,3.4
-2022,CHL,Port and community infrastructure,2.2
 2000,CHN,Total,0
 2001,CHN,Total,0
 2002,CHN,Total,0
@@ -734,7 +703,6 @@ year,geo,disagg,value
 2019,CHN,Total,2165
 2020,CHN,Total,3143
 2021,CHN,Total,1584
-2022,CHN,Total,0
 2000,CHN,Direct fisher income support,0
 2001,CHN,Direct fisher income support,0
 2002,CHN,Direct fisher income support,0
@@ -757,7 +725,6 @@ year,geo,disagg,value
 2019,CHN,Direct fisher income support,972
 2020,CHN,Direct fisher income support,1007
 2021,CHN,Direct fisher income support,1090
-2022,CHN,Direct fisher income support,0
 2000,CHN,Buyback of vessel and license,0
 2001,CHN,Buyback of vessel and license,0
 2002,CHN,Buyback of vessel and license,0
@@ -780,7 +747,6 @@ year,geo,disagg,value
 2019,CHN,Buyback of vessel and license,944
 2020,CHN,Buyback of vessel and license,1989
 2021,CHN,Buyback of vessel and license,231
-2022,CHN,Buyback of vessel and license,0
 2000,CHN,Port and community infrastructure,0
 2001,CHN,Port and community infrastructure,0
 2002,CHN,Port and community infrastructure,0
@@ -803,7 +769,6 @@ year,geo,disagg,value
 2019,CHN,Port and community infrastructure,249
 2020,CHN,Port and community infrastructure,148
 2021,CHN,Port and community infrastructure,263
-2022,CHN,Port and community infrastructure,0
 2000,COL,Total,2.2
 2001,COL,Total,0.61
 2002,COL,Total,0.25
@@ -826,7 +791,6 @@ year,geo,disagg,value
 2019,COL,Total,3.9
 2020,COL,Total,4.7
 2021,COL,Total,2.8
-2022,COL,Total,2.5
 2000,COL,Support for education and training,2.2
 2001,COL,Support for education and training,0.61
 2002,COL,Support for education and training,0.25
@@ -849,7 +813,6 @@ year,geo,disagg,value
 2019,COL,Support for education and training,2.6
 2020,COL,Support for education and training,4.6
 2021,COL,Support for education and training,2.8
-2022,COL,Support for education and training,2.5
 2000,COL,Port and community infrastructure,0
 2001,COL,Port and community infrastructure,0
 2002,COL,Port and community infrastructure,0
@@ -872,7 +835,6 @@ year,geo,disagg,value
 2019,COL,Port and community infrastructure,1.3
 2020,COL,Port and community infrastructure,0.12
 2021,COL,Port and community infrastructure,0
-2022,COL,Port and community infrastructure,0
 2000,CRI,Total,0
 2001,CRI,Total,0
 2002,CRI,Total,0
@@ -895,7 +857,6 @@ year,geo,disagg,value
 2019,CRI,Total,3.9
 2020,CRI,Total,3.1
 2021,CRI,Total,2.2
-2022,CRI,Total,2.5
 2000,CRI,Direct fisher income support,0
 2001,CRI,Direct fisher income support,0
 2002,CRI,Direct fisher income support,0
@@ -918,7 +879,6 @@ year,geo,disagg,value
 2019,CRI,Direct fisher income support,1.8
 2020,CRI,Direct fisher income support,1.6
 2021,CRI,Direct fisher income support,2
-2022,CRI,Direct fisher income support,2.3
 2000,CRI,Support for education and training,0
 2001,CRI,Support for education and training,0
 2002,CRI,Support for education and training,0
@@ -941,7 +901,6 @@ year,geo,disagg,value
 2019,CRI,Support for education and training,2.1
 2020,CRI,Support for education and training,1.5
 2021,CRI,Support for education and training,0.14
-2022,CRI,Support for education and training,0.14
 2000,CRI,Port and community infrastructure,0
 2001,CRI,Port and community infrastructure,0
 2002,CRI,Port and community infrastructure,0
@@ -964,7 +923,6 @@ year,geo,disagg,value
 2019,CRI,Port and community infrastructure,0
 2020,CRI,Port and community infrastructure,0
 2021,CRI,Port and community infrastructure,0
-2022,CRI,Port and community infrastructure,0
 2000,DEU,Total,0
 2001,DEU,Total,0
 2002,DEU,Total,0
@@ -987,7 +945,6 @@ year,geo,disagg,value
 2019,DEU,Total,5.1
 2020,DEU,Total,7.8
 2021,DEU,Total,11
-2022,DEU,Total,14
 2000,DEU,Direct fisher income support,0
 2001,DEU,Direct fisher income support,0
 2002,DEU,Direct fisher income support,0
@@ -1010,7 +967,6 @@ year,geo,disagg,value
 2019,DEU,Direct fisher income support,3.2
 2020,DEU,Direct fisher income support,4.4
 2021,DEU,Direct fisher income support,6.3
-2022,DEU,Direct fisher income support,6.6
 2000,DEU,Buyback of vessel and license,0
 2001,DEU,Buyback of vessel and license,0
 2002,DEU,Buyback of vessel and license,0
@@ -1033,7 +989,6 @@ year,geo,disagg,value
 2019,DEU,Buyback of vessel and license,0.3
 2020,DEU,Buyback of vessel and license,0.31
 2021,DEU,Buyback of vessel and license,0.32
-2022,DEU,Buyback of vessel and license,2.8
 2000,DEU,Support for education and training,0
 2001,DEU,Support for education and training,0
 2002,DEU,Support for education and training,0
@@ -1056,7 +1011,6 @@ year,geo,disagg,value
 2019,DEU,Support for education and training,0.12
 2020,DEU,Support for education and training,0.19
 2021,DEU,Support for education and training,0.34
-2022,DEU,Support for education and training,0.52
 2000,DEU,Port and community infrastructure,0
 2001,DEU,Port and community infrastructure,0
 2002,DEU,Port and community infrastructure,0
@@ -1079,7 +1033,6 @@ year,geo,disagg,value
 2019,DEU,Port and community infrastructure,1.4
 2020,DEU,Port and community infrastructure,2.9
 2021,DEU,Port and community infrastructure,4.2
-2022,DEU,Port and community infrastructure,4.1
 2000,DNK,Total,0
 2001,DNK,Total,0
 2002,DNK,Total,0
@@ -1102,7 +1055,6 @@ year,geo,disagg,value
 2019,DNK,Total,2.5
 2020,DNK,Total,5.3
 2021,DNK,Total,0
-2022,DNK,Total,0
 2000,DNK,Direct fisher income support,0
 2001,DNK,Direct fisher income support,0
 2002,DNK,Direct fisher income support,0
@@ -1125,7 +1077,6 @@ year,geo,disagg,value
 2019,DNK,Direct fisher income support,0.45
 2020,DNK,Direct fisher income support,1.3
 2021,DNK,Direct fisher income support,0
-2022,DNK,Direct fisher income support,0
 2000,DNK,Buyback of vessel and license,0
 2001,DNK,Buyback of vessel and license,0
 2002,DNK,Buyback of vessel and license,0
@@ -1148,7 +1099,6 @@ year,geo,disagg,value
 2019,DNK,Buyback of vessel and license,0
 2020,DNK,Buyback of vessel and license,0
 2021,DNK,Buyback of vessel and license,0
-2022,DNK,Buyback of vessel and license,0
 2000,DNK,Support for education and training,0
 2001,DNK,Support for education and training,0
 2002,DNK,Support for education and training,0
@@ -1171,7 +1121,6 @@ year,geo,disagg,value
 2019,DNK,Support for education and training,2.1
 2020,DNK,Support for education and training,3.8
 2021,DNK,Support for education and training,0
-2022,DNK,Support for education and training,0
 2000,DNK,Port and community infrastructure,0
 2001,DNK,Port and community infrastructure,0
 2002,DNK,Port and community infrastructure,0
@@ -1194,7 +1143,6 @@ year,geo,disagg,value
 2019,DNK,Port and community infrastructure,0.0084
 2020,DNK,Port and community infrastructure,0.14
 2021,DNK,Port and community infrastructure,0
-2022,DNK,Port and community infrastructure,0
 2000,ESP,Total,0
 2001,ESP,Total,0
 2002,ESP,Total,0
@@ -1217,7 +1165,6 @@ year,geo,disagg,value
 2019,ESP,Total,31
 2020,ESP,Total,33
 2021,ESP,Total,36
-2022,ESP,Total,16
 2000,ESP,Direct fisher income support,0
 2001,ESP,Direct fisher income support,0
 2002,ESP,Direct fisher income support,0
@@ -1240,7 +1187,6 @@ year,geo,disagg,value
 2019,ESP,Direct fisher income support,4.3
 2020,ESP,Direct fisher income support,7.2
 2021,ESP,Direct fisher income support,12
-2022,ESP,Direct fisher income support,5.8
 2000,ESP,Buyback of vessel and license,0
 2001,ESP,Buyback of vessel and license,0
 2002,ESP,Buyback of vessel and license,0
@@ -1263,7 +1209,6 @@ year,geo,disagg,value
 2019,ESP,Buyback of vessel and license,3.2
 2020,ESP,Buyback of vessel and license,0
 2021,ESP,Buyback of vessel and license,0
-2022,ESP,Buyback of vessel and license,0
 2000,ESP,Support for education and training,0
 2001,ESP,Support for education and training,0
 2002,ESP,Support for education and training,0
@@ -1286,7 +1231,6 @@ year,geo,disagg,value
 2019,ESP,Support for education and training,17
 2020,ESP,Support for education and training,18
 2021,ESP,Support for education and training,16
-2022,ESP,Support for education and training,4.9
 2000,ESP,Port and community infrastructure,0
 2001,ESP,Port and community infrastructure,0
 2002,ESP,Port and community infrastructure,0
@@ -1309,7 +1253,6 @@ year,geo,disagg,value
 2019,ESP,Port and community infrastructure,6.8
 2020,ESP,Port and community infrastructure,8.5
 2021,ESP,Port and community infrastructure,8.3
-2022,ESP,Port and community infrastructure,4.8
 2000,EST,Total,0
 2001,EST,Total,0
 2002,EST,Total,0
@@ -1332,7 +1275,6 @@ year,geo,disagg,value
 2019,EST,Total,6
 2020,EST,Total,4.7
 2021,EST,Total,6
-2022,EST,Total,4.7
 2000,EST,Direct fisher income support,0
 2001,EST,Direct fisher income support,0
 2002,EST,Direct fisher income support,0
@@ -1355,7 +1297,6 @@ year,geo,disagg,value
 2019,EST,Direct fisher income support,0
 2020,EST,Direct fisher income support,0
 2021,EST,Direct fisher income support,0
-2022,EST,Direct fisher income support,0
 2000,EST,Buyback of vessel and license,0
 2001,EST,Buyback of vessel and license,0
 2002,EST,Buyback of vessel and license,0
@@ -1378,7 +1319,6 @@ year,geo,disagg,value
 2019,EST,Buyback of vessel and license,0
 2020,EST,Buyback of vessel and license,0
 2021,EST,Buyback of vessel and license,0
-2022,EST,Buyback of vessel and license,0
 2000,EST,Support for education and training,0
 2001,EST,Support for education and training,0
 2002,EST,Support for education and training,0
@@ -1401,7 +1341,6 @@ year,geo,disagg,value
 2019,EST,Support for education and training,5.7
 2020,EST,Support for education and training,4.7
 2021,EST,Support for education and training,4.8
-2022,EST,Support for education and training,4.7
 2000,EST,Port and community infrastructure,0
 2001,EST,Port and community infrastructure,0
 2002,EST,Port and community infrastructure,0
@@ -1424,7 +1363,6 @@ year,geo,disagg,value
 2019,EST,Port and community infrastructure,0.21
 2020,EST,Port and community infrastructure,0
 2021,EST,Port and community infrastructure,1.2
-2022,EST,Port and community infrastructure,0
 2000,FRA,Total,0
 2001,FRA,Total,0
 2002,FRA,Total,0
@@ -1447,7 +1385,6 @@ year,geo,disagg,value
 2019,FRA,Total,0.16
 2020,FRA,Total,13
 2021,FRA,Total,18
-2022,FRA,Total,4.6
 2000,FRA,Direct fisher income support,0
 2001,FRA,Direct fisher income support,0
 2002,FRA,Direct fisher income support,0
@@ -1470,7 +1407,6 @@ year,geo,disagg,value
 2019,FRA,Direct fisher income support,0
 2020,FRA,Direct fisher income support,13
 2021,FRA,Direct fisher income support,18
-2022,FRA,Direct fisher income support,4.6
 2000,FRA,Buyback of vessel and license,0
 2001,FRA,Buyback of vessel and license,0
 2002,FRA,Buyback of vessel and license,0
@@ -1493,7 +1429,6 @@ year,geo,disagg,value
 2019,FRA,Buyback of vessel and license,0.16
 2020,FRA,Buyback of vessel and license,0
 2021,FRA,Buyback of vessel and license,0
-2022,FRA,Buyback of vessel and license,0
 2000,FRA,Support for education and training,0
 2001,FRA,Support for education and training,0
 2002,FRA,Support for education and training,0
@@ -1516,7 +1451,6 @@ year,geo,disagg,value
 2019,FRA,Support for education and training,0
 2020,FRA,Support for education and training,0
 2021,FRA,Support for education and training,0
-2022,FRA,Support for education and training,0
 2000,FRA,Port and community infrastructure,0
 2001,FRA,Port and community infrastructure,0
 2002,FRA,Port and community infrastructure,0
@@ -1539,7 +1473,6 @@ year,geo,disagg,value
 2019,FRA,Port and community infrastructure,0
 2020,FRA,Port and community infrastructure,0
 2021,FRA,Port and community infrastructure,0
-2022,FRA,Port and community infrastructure,0
 2000,GBR,Total,0
 2001,GBR,Total,0
 2002,GBR,Total,0
@@ -1562,7 +1495,6 @@ year,geo,disagg,value
 2019,GBR,Total,20
 2020,GBR,Total,42
 2021,GBR,Total,38
-2022,GBR,Total,18
 2000,GBR,Direct fisher income support,0
 2001,GBR,Direct fisher income support,0
 2002,GBR,Direct fisher income support,0
@@ -1585,7 +1517,6 @@ year,geo,disagg,value
 2019,GBR,Direct fisher income support,0
 2020,GBR,Direct fisher income support,30
 2021,GBR,Direct fisher income support,30
-2022,GBR,Direct fisher income support,0
 2000,GBR,Buyback of vessel and license,0
 2001,GBR,Buyback of vessel and license,0
 2002,GBR,Buyback of vessel and license,0
@@ -1608,7 +1539,6 @@ year,geo,disagg,value
 2019,GBR,Buyback of vessel and license,0
 2020,GBR,Buyback of vessel and license,0
 2021,GBR,Buyback of vessel and license,0
-2022,GBR,Buyback of vessel and license,0
 2000,GBR,Support for education and training,0
 2001,GBR,Support for education and training,0
 2002,GBR,Support for education and training,0
@@ -1631,7 +1561,6 @@ year,geo,disagg,value
 2019,GBR,Support for education and training,7.2
 2020,GBR,Support for education and training,6.5
 2021,GBR,Support for education and training,3.8
-2022,GBR,Support for education and training,3
 2000,GBR,Port and community infrastructure,0
 2001,GBR,Port and community infrastructure,0
 2002,GBR,Port and community infrastructure,0
@@ -1654,7 +1583,6 @@ year,geo,disagg,value
 2019,GBR,Port and community infrastructure,13
 2020,GBR,Port and community infrastructure,5.6
 2021,GBR,Port and community infrastructure,3.7
-2022,GBR,Port and community infrastructure,15
 2000,GRC,Total,0
 2001,GRC,Total,0
 2002,GRC,Total,0
@@ -1677,7 +1605,6 @@ year,geo,disagg,value
 2019,GRC,Total,6.8
 2020,GRC,Total,11
 2021,GRC,Total,29
-2022,GRC,Total,34
 2000,GRC,Direct fisher income support,0
 2001,GRC,Direct fisher income support,0
 2002,GRC,Direct fisher income support,0
@@ -1700,7 +1627,6 @@ year,geo,disagg,value
 2019,GRC,Direct fisher income support,0
 2020,GRC,Direct fisher income support,3.2
 2021,GRC,Direct fisher income support,19
-2022,GRC,Direct fisher income support,22
 2000,GRC,Buyback of vessel and license,0
 2001,GRC,Buyback of vessel and license,0
 2002,GRC,Buyback of vessel and license,0
@@ -1723,7 +1649,6 @@ year,geo,disagg,value
 2019,GRC,Buyback of vessel and license,1.7
 2020,GRC,Buyback of vessel and license,0
 2021,GRC,Buyback of vessel and license,0
-2022,GRC,Buyback of vessel and license,0
 2000,GRC,Support for education and training,0
 2001,GRC,Support for education and training,0
 2002,GRC,Support for education and training,0
@@ -1746,7 +1671,6 @@ year,geo,disagg,value
 2019,GRC,Support for education and training,2.9
 2020,GRC,Support for education and training,2.2
 2021,GRC,Support for education and training,2.1
-2022,GRC,Support for education and training,3.8
 2000,GRC,Port and community infrastructure,0
 2001,GRC,Port and community infrastructure,0
 2002,GRC,Port and community infrastructure,0
@@ -1769,7 +1693,6 @@ year,geo,disagg,value
 2019,GRC,Port and community infrastructure,2.2
 2020,GRC,Port and community infrastructure,5.8
 2021,GRC,Port and community infrastructure,8
-2022,GRC,Port and community infrastructure,7.4
 2000,HRV,Total,0
 2001,HRV,Total,0
 2002,HRV,Total,0
@@ -1792,7 +1715,6 @@ year,geo,disagg,value
 2019,HRV,Total,9.4
 2020,HRV,Total,19
 2021,HRV,Total,17
-2022,HRV,Total,6.2
 2000,HRV,Direct fisher income support,0
 2001,HRV,Direct fisher income support,0
 2002,HRV,Direct fisher income support,0
@@ -1815,7 +1737,6 @@ year,geo,disagg,value
 2019,HRV,Direct fisher income support,9.4
 2020,HRV,Direct fisher income support,11
 2021,HRV,Direct fisher income support,12
-2022,HRV,Direct fisher income support,2.5
 2000,HRV,Buyback of vessel and license,0
 2001,HRV,Buyback of vessel and license,0
 2002,HRV,Buyback of vessel and license,0
@@ -1838,7 +1759,6 @@ year,geo,disagg,value
 2019,HRV,Buyback of vessel and license,0
 2020,HRV,Buyback of vessel and license,0
 2021,HRV,Buyback of vessel and license,0
-2022,HRV,Buyback of vessel and license,0
 2000,HRV,Support for education and training,0
 2001,HRV,Support for education and training,0
 2002,HRV,Support for education and training,0
@@ -1861,7 +1781,6 @@ year,geo,disagg,value
 2019,HRV,Support for education and training,0.00088
 2020,HRV,Support for education and training,0.019
 2021,HRV,Support for education and training,0.067
-2022,HRV,Support for education and training,0.031
 2000,HRV,Port and community infrastructure,0
 2001,HRV,Port and community infrastructure,0
 2002,HRV,Port and community infrastructure,0
@@ -1884,7 +1803,6 @@ year,geo,disagg,value
 2019,HRV,Port and community infrastructure,0
 2020,HRV,Port and community infrastructure,7.9
 2021,HRV,Port and community infrastructure,5.4
-2022,HRV,Port and community infrastructure,3.7
 2000,IDN,Total,0
 2001,IDN,Total,0
 2002,IDN,Total,0
@@ -1907,7 +1825,6 @@ year,geo,disagg,value
 2019,IDN,Total,0
 2020,IDN,Total,0
 2021,IDN,Total,0
-2022,IDN,Total,0
 2000,IDN,Support for education and training,0
 2001,IDN,Support for education and training,0
 2002,IDN,Support for education and training,0
@@ -1930,7 +1847,6 @@ year,geo,disagg,value
 2019,IDN,Support for education and training,0
 2020,IDN,Support for education and training,0
 2021,IDN,Support for education and training,0
-2022,IDN,Support for education and training,0
 2000,IND,Total,0
 2001,IND,Total,0
 2002,IND,Total,0
@@ -1953,7 +1869,6 @@ year,geo,disagg,value
 2019,IND,Total,137
 2020,IND,Total,155
 2021,IND,Total,157
-2022,IND,Total,0
 2000,IND,Direct fisher income support,0
 2001,IND,Direct fisher income support,0
 2002,IND,Direct fisher income support,0
@@ -1976,7 +1891,6 @@ year,geo,disagg,value
 2019,IND,Direct fisher income support,58
 2020,IND,Direct fisher income support,60
 2021,IND,Direct fisher income support,68
-2022,IND,Direct fisher income support,0
 2000,IND,Support for education and training,0
 2001,IND,Support for education and training,0
 2002,IND,Support for education and training,0
@@ -1999,7 +1913,6 @@ year,geo,disagg,value
 2019,IND,Support for education and training,7.5
 2020,IND,Support for education and training,9
 2021,IND,Support for education and training,10
-2022,IND,Support for education and training,0
 2000,IND,Port and community infrastructure,0
 2001,IND,Port and community infrastructure,0
 2002,IND,Port and community infrastructure,0
@@ -2022,7 +1935,6 @@ year,geo,disagg,value
 2019,IND,Port and community infrastructure,71
 2020,IND,Port and community infrastructure,87
 2021,IND,Port and community infrastructure,79
-2022,IND,Port and community infrastructure,0
 2000,IRL,Total,0
 2001,IRL,Total,0
 2002,IRL,Total,0
@@ -2045,7 +1957,6 @@ year,geo,disagg,value
 2019,IRL,Total,0
 2020,IRL,Total,0
 2021,IRL,Total,0
-2022,IRL,Total,0
 2000,IRL,Direct fisher income support,0
 2001,IRL,Direct fisher income support,0
 2002,IRL,Direct fisher income support,0
@@ -2068,7 +1979,6 @@ year,geo,disagg,value
 2019,IRL,Direct fisher income support,0
 2020,IRL,Direct fisher income support,0
 2021,IRL,Direct fisher income support,0
-2022,IRL,Direct fisher income support,0
 2000,IRL,Support for education and training,0
 2001,IRL,Support for education and training,0
 2002,IRL,Support for education and training,0
@@ -2091,7 +2001,6 @@ year,geo,disagg,value
 2019,IRL,Support for education and training,0
 2020,IRL,Support for education and training,0
 2021,IRL,Support for education and training,0
-2022,IRL,Support for education and training,0
 2000,IRL,Port and community infrastructure,0
 2001,IRL,Port and community infrastructure,0
 2002,IRL,Port and community infrastructure,0
@@ -2114,7 +2023,6 @@ year,geo,disagg,value
 2019,IRL,Port and community infrastructure,0
 2020,IRL,Port and community infrastructure,0
 2021,IRL,Port and community infrastructure,0
-2022,IRL,Port and community infrastructure,0
 2000,ISL,Total,15
 2001,ISL,Total,13
 2002,ISL,Total,13
@@ -2137,7 +2045,6 @@ year,geo,disagg,value
 2019,ISL,Total,0
 2020,ISL,Total,0
 2021,ISL,Total,0
-2022,ISL,Total,0
 2000,ISL,Direct fisher income support,15
 2001,ISL,Direct fisher income support,13
 2002,ISL,Direct fisher income support,13
@@ -2160,7 +2067,6 @@ year,geo,disagg,value
 2019,ISL,Direct fisher income support,0
 2020,ISL,Direct fisher income support,0
 2021,ISL,Direct fisher income support,0
-2022,ISL,Direct fisher income support,0
 2000,ISL,Port and community infrastructure,0
 2001,ISL,Port and community infrastructure,0
 2002,ISL,Port and community infrastructure,0
@@ -2183,7 +2089,6 @@ year,geo,disagg,value
 2019,ISL,Port and community infrastructure,0
 2020,ISL,Port and community infrastructure,0
 2021,ISL,Port and community infrastructure,0
-2022,ISL,Port and community infrastructure,0
 2000,ITA,Total,0
 2001,ITA,Total,0
 2002,ITA,Total,0
@@ -2206,7 +2111,6 @@ year,geo,disagg,value
 2019,ITA,Total,43
 2020,ITA,Total,67
 2021,ITA,Total,50
-2022,ITA,Total,53
 2000,ITA,Direct fisher income support,0
 2001,ITA,Direct fisher income support,0
 2002,ITA,Direct fisher income support,0
@@ -2229,7 +2133,6 @@ year,geo,disagg,value
 2019,ITA,Direct fisher income support,21
 2020,ITA,Direct fisher income support,48
 2021,ITA,Direct fisher income support,28
-2022,ITA,Direct fisher income support,29
 2000,ITA,Buyback of vessel and license,0
 2001,ITA,Buyback of vessel and license,0
 2002,ITA,Buyback of vessel and license,0
@@ -2252,7 +2155,6 @@ year,geo,disagg,value
 2019,ITA,Buyback of vessel and license,0.29
 2020,ITA,Buyback of vessel and license,0.32
 2021,ITA,Buyback of vessel and license,0
-2022,ITA,Buyback of vessel and license,0
 2000,ITA,Support for education and training,0
 2001,ITA,Support for education and training,0
 2002,ITA,Support for education and training,0
@@ -2275,7 +2177,6 @@ year,geo,disagg,value
 2019,ITA,Support for education and training,13
 2020,ITA,Support for education and training,9.9
 2021,ITA,Support for education and training,14
-2022,ITA,Support for education and training,17
 2000,ITA,Port and community infrastructure,0
 2001,ITA,Port and community infrastructure,0
 2002,ITA,Port and community infrastructure,0
@@ -2298,7 +2199,6 @@ year,geo,disagg,value
 2019,ITA,Port and community infrastructure,9
 2020,ITA,Port and community infrastructure,8.9
 2021,ITA,Port and community infrastructure,8.6
-2022,ITA,Port and community infrastructure,7.4
 2000,JPN,Total,0
 2001,JPN,Total,0
 2002,JPN,Total,0
@@ -2321,7 +2221,6 @@ year,geo,disagg,value
 2019,JPN,Total,847
 2020,JPN,Total,755
 2021,JPN,Total,692
-2022,JPN,Total,587
 2000,JPN,Buyback of vessel and license,0
 2001,JPN,Buyback of vessel and license,0
 2002,JPN,Buyback of vessel and license,0
@@ -2344,7 +2243,6 @@ year,geo,disagg,value
 2019,JPN,Buyback of vessel and license,0
 2020,JPN,Buyback of vessel and license,0
 2021,JPN,Buyback of vessel and license,0
-2022,JPN,Buyback of vessel and license,0
 2000,JPN,Support for education and training,0
 2001,JPN,Support for education and training,0
 2002,JPN,Support for education and training,0
@@ -2367,7 +2265,6 @@ year,geo,disagg,value
 2019,JPN,Support for education and training,9.4
 2020,JPN,Support for education and training,8.4
 2021,JPN,Support for education and training,8.3
-2022,JPN,Support for education and training,6.4
 2000,JPN,Port and community infrastructure,0
 2001,JPN,Port and community infrastructure,0
 2002,JPN,Port and community infrastructure,0
@@ -2390,7 +2287,6 @@ year,geo,disagg,value
 2019,JPN,Port and community infrastructure,837
 2020,JPN,Port and community infrastructure,746
 2021,JPN,Port and community infrastructure,683
-2022,JPN,Port and community infrastructure,581
 2000,KOR,Total,0
 2001,KOR,Total,0
 2002,KOR,Total,0
@@ -2413,7 +2309,6 @@ year,geo,disagg,value
 2019,KOR,Total,83
 2020,KOR,Total,113
 2021,KOR,Total,162
-2022,KOR,Total,147
 2000,KOR,Direct fisher income support,0
 2001,KOR,Direct fisher income support,0
 2002,KOR,Direct fisher income support,0
@@ -2436,7 +2331,6 @@ year,geo,disagg,value
 2019,KOR,Direct fisher income support,54
 2020,KOR,Direct fisher income support,50
 2021,KOR,Direct fisher income support,53
-2022,KOR,Direct fisher income support,54
 2000,KOR,Buyback of vessel and license,0
 2001,KOR,Buyback of vessel and license,0
 2002,KOR,Buyback of vessel and license,0
@@ -2459,7 +2353,6 @@ year,geo,disagg,value
 2019,KOR,Buyback of vessel and license,28
 2020,KOR,Buyback of vessel and license,63
 2021,KOR,Buyback of vessel and license,110
-2022,KOR,Buyback of vessel and license,93
 2000,LTU,Total,0
 2001,LTU,Total,0
 2002,LTU,Total,0
@@ -2482,7 +2375,6 @@ year,geo,disagg,value
 2019,LTU,Total,3.2
 2020,LTU,Total,1.6
 2021,LTU,Total,2.1
-2022,LTU,Total,3.5
 2000,LTU,Direct fisher income support,0
 2001,LTU,Direct fisher income support,0
 2002,LTU,Direct fisher income support,0
@@ -2505,7 +2397,6 @@ year,geo,disagg,value
 2019,LTU,Direct fisher income support,1
 2020,LTU,Direct fisher income support,1.4
 2021,LTU,Direct fisher income support,0.5
-2022,LTU,Direct fisher income support,0.14
 2000,LTU,Buyback of vessel and license,0
 2001,LTU,Buyback of vessel and license,0
 2002,LTU,Buyback of vessel and license,0
@@ -2528,7 +2419,6 @@ year,geo,disagg,value
 2019,LTU,Buyback of vessel and license,0
 2020,LTU,Buyback of vessel and license,0
 2021,LTU,Buyback of vessel and license,0
-2022,LTU,Buyback of vessel and license,1.3
 2000,LTU,Support for education and training,0
 2001,LTU,Support for education and training,0
 2002,LTU,Support for education and training,0
@@ -2551,7 +2441,6 @@ year,geo,disagg,value
 2019,LTU,Support for education and training,0
 2020,LTU,Support for education and training,0.17
 2021,LTU,Support for education and training,1.6
-2022,LTU,Support for education and training,1.8
 2000,LTU,Port and community infrastructure,0
 2001,LTU,Port and community infrastructure,0
 2002,LTU,Port and community infrastructure,0
@@ -2574,7 +2463,6 @@ year,geo,disagg,value
 2019,LTU,Port and community infrastructure,2.1
 2020,LTU,Port and community infrastructure,0
 2021,LTU,Port and community infrastructure,0.028
-2022,LTU,Port and community infrastructure,0.3
 2000,LVA,Total,0
 2001,LVA,Total,0
 2002,LVA,Total,0
@@ -2597,7 +2485,6 @@ year,geo,disagg,value
 2019,LVA,Total,6.9
 2020,LVA,Total,3.8
 2021,LVA,Total,4.1
-2022,LVA,Total,3
 2000,LVA,Direct fisher income support,0
 2001,LVA,Direct fisher income support,0
 2002,LVA,Direct fisher income support,0
@@ -2620,7 +2507,6 @@ year,geo,disagg,value
 2019,LVA,Direct fisher income support,1.3
 2020,LVA,Direct fisher income support,3.4
 2021,LVA,Direct fisher income support,0.21
-2022,LVA,Direct fisher income support,0.36
 2000,LVA,Buyback of vessel and license,0
 2001,LVA,Buyback of vessel and license,0
 2002,LVA,Buyback of vessel and license,0
@@ -2643,7 +2529,6 @@ year,geo,disagg,value
 2019,LVA,Buyback of vessel and license,0
 2020,LVA,Buyback of vessel and license,0
 2021,LVA,Buyback of vessel and license,2
-2022,LVA,Buyback of vessel and license,0
 2000,LVA,Port and community infrastructure,0
 2001,LVA,Port and community infrastructure,0
 2002,LVA,Port and community infrastructure,0
@@ -2666,7 +2551,6 @@ year,geo,disagg,value
 2019,LVA,Port and community infrastructure,5.6
 2020,LVA,Port and community infrastructure,0.39
 2021,LVA,Port and community infrastructure,1.9
-2022,LVA,Port and community infrastructure,2.7
 2000,MEX,Total,0
 2001,MEX,Total,0
 2002,MEX,Total,0
@@ -2689,7 +2573,6 @@ year,geo,disagg,value
 2019,MEX,Total,23
 2020,MEX,Total,65
 2021,MEX,Total,71
-2022,MEX,Total,69
 2000,MEX,Direct fisher income support,0
 2001,MEX,Direct fisher income support,0
 2002,MEX,Direct fisher income support,0
@@ -2712,7 +2595,6 @@ year,geo,disagg,value
 2019,MEX,Direct fisher income support,19
 2020,MEX,Direct fisher income support,65
 2021,MEX,Direct fisher income support,71
-2022,MEX,Direct fisher income support,69
 2000,MEX,Buyback of vessel and license,0
 2001,MEX,Buyback of vessel and license,0
 2002,MEX,Buyback of vessel and license,0
@@ -2735,7 +2617,6 @@ year,geo,disagg,value
 2019,MEX,Buyback of vessel and license,0
 2020,MEX,Buyback of vessel and license,0
 2021,MEX,Buyback of vessel and license,0
-2022,MEX,Buyback of vessel and license,0
 2000,MEX,Support for education and training,0
 2001,MEX,Support for education and training,0
 2002,MEX,Support for education and training,0
@@ -2758,7 +2639,6 @@ year,geo,disagg,value
 2019,MEX,Support for education and training,0.2
 2020,MEX,Support for education and training,0
 2021,MEX,Support for education and training,0
-2022,MEX,Support for education and training,0
 2000,MEX,Port and community infrastructure,0
 2001,MEX,Port and community infrastructure,0
 2002,MEX,Port and community infrastructure,0
@@ -2781,7 +2661,6 @@ year,geo,disagg,value
 2019,MEX,Port and community infrastructure,4.2
 2020,MEX,Port and community infrastructure,0
 2021,MEX,Port and community infrastructure,0
-2022,MEX,Port and community infrastructure,0
 2000,MYS,Total,0
 2001,MYS,Total,0
 2002,MYS,Total,0
@@ -2804,7 +2683,6 @@ year,geo,disagg,value
 2019,MYS,Total,0
 2020,MYS,Total,0
 2021,MYS,Total,0
-2022,MYS,Total,0
 2000,MYS,Direct fisher income support,0
 2001,MYS,Direct fisher income support,0
 2002,MYS,Direct fisher income support,0
@@ -2827,7 +2705,6 @@ year,geo,disagg,value
 2019,MYS,Direct fisher income support,0
 2020,MYS,Direct fisher income support,0
 2021,MYS,Direct fisher income support,0
-2022,MYS,Direct fisher income support,0
 2000,MYS,Support for education and training,0
 2001,MYS,Support for education and training,0
 2002,MYS,Support for education and training,0
@@ -2850,7 +2727,6 @@ year,geo,disagg,value
 2019,MYS,Support for education and training,0
 2020,MYS,Support for education and training,0
 2021,MYS,Support for education and training,0
-2022,MYS,Support for education and training,0
 2000,MYS,Port and community infrastructure,0
 2001,MYS,Port and community infrastructure,0
 2002,MYS,Port and community infrastructure,0
@@ -2873,7 +2749,6 @@ year,geo,disagg,value
 2019,MYS,Port and community infrastructure,0
 2020,MYS,Port and community infrastructure,0
 2021,MYS,Port and community infrastructure,0
-2022,MYS,Port and community infrastructure,0
 2000,NLD,Total,0
 2001,NLD,Total,0
 2002,NLD,Total,0
@@ -2896,7 +2771,6 @@ year,geo,disagg,value
 2019,NLD,Total,0
 2020,NLD,Total,4.2
 2021,NLD,Total,0.58
-2022,NLD,Total,0.051
 2000,NLD,Direct fisher income support,0
 2001,NLD,Direct fisher income support,0
 2002,NLD,Direct fisher income support,0
@@ -2919,7 +2793,6 @@ year,geo,disagg,value
 2019,NLD,Direct fisher income support,0
 2020,NLD,Direct fisher income support,4.2
 2021,NLD,Direct fisher income support,0.58
-2022,NLD,Direct fisher income support,0.051
 2000,NLD,Buyback of vessel and license,0
 2001,NLD,Buyback of vessel and license,0
 2002,NLD,Buyback of vessel and license,0
@@ -2942,7 +2815,6 @@ year,geo,disagg,value
 2019,NLD,Buyback of vessel and license,0
 2020,NLD,Buyback of vessel and license,0
 2021,NLD,Buyback of vessel and license,0
-2022,NLD,Buyback of vessel and license,0
 2000,NLD,Support for education and training,0
 2001,NLD,Support for education and training,0
 2002,NLD,Support for education and training,0
@@ -2965,7 +2837,6 @@ year,geo,disagg,value
 2019,NLD,Support for education and training,0
 2020,NLD,Support for education and training,0
 2021,NLD,Support for education and training,0
-2022,NLD,Support for education and training,0
 2000,NOR,Total,0
 2001,NOR,Total,41
 2002,NOR,Total,44
@@ -2988,7 +2859,6 @@ year,geo,disagg,value
 2019,NOR,Total,29
 2020,NOR,Total,26
 2021,NOR,Total,58
-2022,NOR,Total,53
 2000,NOR,Direct fisher income support,0
 2001,NOR,Direct fisher income support,31
 2002,NOR,Direct fisher income support,34
@@ -3011,7 +2881,6 @@ year,geo,disagg,value
 2019,NOR,Direct fisher income support,26
 2020,NOR,Direct fisher income support,24
 2021,NOR,Direct fisher income support,57
-2022,NOR,Direct fisher income support,51
 2000,NOR,Buyback of vessel and license,0
 2001,NOR,Buyback of vessel and license,1.5
 2002,NOR,Buyback of vessel and license,1.5
@@ -3034,7 +2903,6 @@ year,geo,disagg,value
 2019,NOR,Buyback of vessel and license,0
 2020,NOR,Buyback of vessel and license,0
 2021,NOR,Buyback of vessel and license,0
-2022,NOR,Buyback of vessel and license,0
 2000,NOR,Support for education and training,0
 2001,NOR,Support for education and training,3.1
 2002,NOR,Support for education and training,3.1
@@ -3057,7 +2925,6 @@ year,geo,disagg,value
 2019,NOR,Support for education and training,0
 2020,NOR,Support for education and training,0
 2021,NOR,Support for education and training,0
-2022,NOR,Support for education and training,0
 2000,NOR,Port and community infrastructure,0
 2001,NOR,Port and community infrastructure,5.7
 2002,NOR,Port and community infrastructure,5.5
@@ -3080,7 +2947,6 @@ year,geo,disagg,value
 2019,NOR,Port and community infrastructure,3.6
 2020,NOR,Port and community infrastructure,1.9
 2021,NOR,Port and community infrastructure,1.9
-2022,NOR,Port and community infrastructure,1.6
 2000,PER,Total,5.5
 2001,PER,Total,7.5
 2002,PER,Total,7
@@ -3103,7 +2969,6 @@ year,geo,disagg,value
 2019,PER,Total,53
 2020,PER,Total,49
 2021,PER,Total,50
-2022,PER,Total,48
 2000,PER,Direct fisher income support,5.1
 2001,PER,Direct fisher income support,5.9
 2002,PER,Direct fisher income support,6.6
@@ -3126,7 +2991,6 @@ year,geo,disagg,value
 2019,PER,Direct fisher income support,34
 2020,PER,Direct fisher income support,29
 2021,PER,Direct fisher income support,34
-2022,PER,Direct fisher income support,34
 2000,PER,Support for education and training,0.32
 2001,PER,Support for education and training,0.65
 2002,PER,Support for education and training,0.36
@@ -3149,7 +3013,6 @@ year,geo,disagg,value
 2019,PER,Support for education and training,2.4
 2020,PER,Support for education and training,1.3
 2021,PER,Support for education and training,1.1
-2022,PER,Support for education and training,1.8
 2000,PER,Port and community infrastructure,0.081
 2001,PER,Port and community infrastructure,1
 2002,PER,Port and community infrastructure,0.12
@@ -3172,7 +3035,6 @@ year,geo,disagg,value
 2019,PER,Port and community infrastructure,17
 2020,PER,Port and community infrastructure,19
 2021,PER,Port and community infrastructure,15
-2022,PER,Port and community infrastructure,12
 2000,PHL,Total,0
 2001,PHL,Total,0
 2002,PHL,Total,0
@@ -3195,7 +3057,6 @@ year,geo,disagg,value
 2019,PHL,Total,0
 2020,PHL,Total,0
 2021,PHL,Total,0
-2022,PHL,Total,0
 2000,PHL,Support for education and training,0
 2001,PHL,Support for education and training,0
 2002,PHL,Support for education and training,0
@@ -3218,7 +3079,6 @@ year,geo,disagg,value
 2019,PHL,Support for education and training,0
 2020,PHL,Support for education and training,0
 2021,PHL,Support for education and training,0
-2022,PHL,Support for education and training,0
 2000,PHL,Port and community infrastructure,0
 2001,PHL,Port and community infrastructure,0
 2002,PHL,Port and community infrastructure,0
@@ -3241,7 +3101,6 @@ year,geo,disagg,value
 2019,PHL,Port and community infrastructure,0
 2020,PHL,Port and community infrastructure,0
 2021,PHL,Port and community infrastructure,0
-2022,PHL,Port and community infrastructure,0
 2000,POL,Total,0
 2001,POL,Total,0
 2002,POL,Total,0
@@ -3264,7 +3123,6 @@ year,geo,disagg,value
 2019,POL,Total,37
 2020,POL,Total,57
 2021,POL,Total,17
-2022,POL,Total,11
 2000,POL,Direct fisher income support,0
 2001,POL,Direct fisher income support,0
 2002,POL,Direct fisher income support,0
@@ -3287,7 +3145,6 @@ year,geo,disagg,value
 2019,POL,Direct fisher income support,14
 2020,POL,Direct fisher income support,41
 2021,POL,Direct fisher income support,1.4
-2022,POL,Direct fisher income support,0.1
 2000,POL,Buyback of vessel and license,0
 2001,POL,Buyback of vessel and license,0
 2002,POL,Buyback of vessel and license,0
@@ -3310,7 +3167,6 @@ year,geo,disagg,value
 2019,POL,Buyback of vessel and license,0
 2020,POL,Buyback of vessel and license,0
 2021,POL,Buyback of vessel and license,0
-2022,POL,Buyback of vessel and license,0
 2000,POL,Support for education and training,0
 2001,POL,Support for education and training,0
 2002,POL,Support for education and training,0
@@ -3333,7 +3189,6 @@ year,geo,disagg,value
 2019,POL,Support for education and training,22
 2020,POL,Support for education and training,16
 2021,POL,Support for education and training,15
-2022,POL,Support for education and training,8.9
 2000,POL,Port and community infrastructure,0
 2001,POL,Port and community infrastructure,0
 2002,POL,Port and community infrastructure,0
@@ -3356,7 +3211,6 @@ year,geo,disagg,value
 2019,POL,Port and community infrastructure,1.9
 2020,POL,Port and community infrastructure,0.026
 2021,POL,Port and community infrastructure,0.11
-2022,POL,Port and community infrastructure,2.3
 2000,PRT,Total,0
 2001,PRT,Total,0
 2002,PRT,Total,0
@@ -3379,7 +3233,6 @@ year,geo,disagg,value
 2019,PRT,Total,8.3
 2020,PRT,Total,16
 2021,PRT,Total,0
-2022,PRT,Total,0
 2000,PRT,Direct fisher income support,0
 2001,PRT,Direct fisher income support,0
 2002,PRT,Direct fisher income support,0
@@ -3402,7 +3255,6 @@ year,geo,disagg,value
 2019,PRT,Direct fisher income support,3.8
 2020,PRT,Direct fisher income support,10
 2021,PRT,Direct fisher income support,0
-2022,PRT,Direct fisher income support,0
 2000,PRT,Buyback of vessel and license,0
 2001,PRT,Buyback of vessel and license,0
 2002,PRT,Buyback of vessel and license,0
@@ -3425,7 +3277,6 @@ year,geo,disagg,value
 2019,PRT,Buyback of vessel and license,0
 2020,PRT,Buyback of vessel and license,0
 2021,PRT,Buyback of vessel and license,0
-2022,PRT,Buyback of vessel and license,0
 2000,PRT,Support for education and training,0
 2001,PRT,Support for education and training,0
 2002,PRT,Support for education and training,0
@@ -3448,7 +3299,6 @@ year,geo,disagg,value
 2019,PRT,Support for education and training,0
 2020,PRT,Support for education and training,0
 2021,PRT,Support for education and training,0
-2022,PRT,Support for education and training,0
 2000,PRT,Port and community infrastructure,0
 2001,PRT,Port and community infrastructure,0
 2002,PRT,Port and community infrastructure,0
@@ -3471,7 +3321,6 @@ year,geo,disagg,value
 2019,PRT,Port and community infrastructure,4.5
 2020,PRT,Port and community infrastructure,5.1
 2021,PRT,Port and community infrastructure,0
-2022,PRT,Port and community infrastructure,0
 2000,ROU,Total,0
 2001,ROU,Total,0
 2002,ROU,Total,0
@@ -3494,7 +3343,6 @@ year,geo,disagg,value
 2019,ROU,Total,19
 2020,ROU,Total,8.9
 2021,ROU,Total,9.5
-2022,ROU,Total,0
 2000,ROU,Direct fisher income support,0
 2001,ROU,Direct fisher income support,0
 2002,ROU,Direct fisher income support,0
@@ -3517,7 +3365,6 @@ year,geo,disagg,value
 2019,ROU,Direct fisher income support,0
 2020,ROU,Direct fisher income support,0
 2021,ROU,Direct fisher income support,0.84
-2022,ROU,Direct fisher income support,0
 2000,ROU,Buyback of vessel and license,0
 2001,ROU,Buyback of vessel and license,0
 2002,ROU,Buyback of vessel and license,0
@@ -3540,7 +3387,6 @@ year,geo,disagg,value
 2019,ROU,Buyback of vessel and license,0
 2020,ROU,Buyback of vessel and license,0
 2021,ROU,Buyback of vessel and license,0
-2022,ROU,Buyback of vessel and license,0
 2000,ROU,Support for education and training,0
 2001,ROU,Support for education and training,0
 2002,ROU,Support for education and training,0
@@ -3563,7 +3409,6 @@ year,geo,disagg,value
 2019,ROU,Support for education and training,18
 2020,ROU,Support for education and training,8.9
 2021,ROU,Support for education and training,8.6
-2022,ROU,Support for education and training,0
 2000,ROU,Port and community infrastructure,0
 2001,ROU,Port and community infrastructure,0
 2002,ROU,Port and community infrastructure,0
@@ -3586,7 +3431,6 @@ year,geo,disagg,value
 2019,ROU,Port and community infrastructure,1.8
 2020,ROU,Port and community infrastructure,0
 2021,ROU,Port and community infrastructure,0
-2022,ROU,Port and community infrastructure,0
 2000,SVN,Total,0
 2001,SVN,Total,0
 2002,SVN,Total,0
@@ -3609,7 +3453,6 @@ year,geo,disagg,value
 2019,SVN,Total,1.1
 2020,SVN,Total,1.3
 2021,SVN,Total,2.8
-2022,SVN,Total,1.6
 2000,SVN,Direct fisher income support,0
 2001,SVN,Direct fisher income support,0
 2002,SVN,Direct fisher income support,0
@@ -3632,7 +3475,6 @@ year,geo,disagg,value
 2019,SVN,Direct fisher income support,0.098
 2020,SVN,Direct fisher income support,0.25
 2021,SVN,Direct fisher income support,0.26
-2022,SVN,Direct fisher income support,0.21
 2000,SVN,Buyback of vessel and license,0
 2001,SVN,Buyback of vessel and license,0
 2002,SVN,Buyback of vessel and license,0
@@ -3655,7 +3497,6 @@ year,geo,disagg,value
 2019,SVN,Buyback of vessel and license,0
 2020,SVN,Buyback of vessel and license,0
 2021,SVN,Buyback of vessel and license,0
-2022,SVN,Buyback of vessel and license,0
 2000,SVN,Support for education and training,0
 2001,SVN,Support for education and training,0
 2002,SVN,Support for education and training,0
@@ -3678,7 +3519,6 @@ year,geo,disagg,value
 2019,SVN,Support for education and training,0.91
 2020,SVN,Support for education and training,0.98
 2021,SVN,Support for education and training,2.4
-2022,SVN,Support for education and training,1.3
 2000,SVN,Port and community infrastructure,0
 2001,SVN,Port and community infrastructure,0
 2002,SVN,Port and community infrastructure,0
@@ -3701,7 +3541,6 @@ year,geo,disagg,value
 2019,SVN,Port and community infrastructure,0.057
 2020,SVN,Port and community infrastructure,0.087
 2021,SVN,Port and community infrastructure,0.084
-2022,SVN,Port and community infrastructure,0.07
 2000,SWE,Total,0
 2001,SWE,Total,0
 2002,SWE,Total,0
@@ -3724,7 +3563,6 @@ year,geo,disagg,value
 2019,SWE,Total,5.2
 2020,SWE,Total,5.5
 2021,SWE,Total,6.1
-2022,SWE,Total,4.4
 2000,SWE,Direct fisher income support,0
 2001,SWE,Direct fisher income support,0
 2002,SWE,Direct fisher income support,0
@@ -3747,7 +3585,6 @@ year,geo,disagg,value
 2019,SWE,Direct fisher income support,1.9
 2020,SWE,Direct fisher income support,2.1
 2021,SWE,Direct fisher income support,1.7
-2022,SWE,Direct fisher income support,1.6
 2000,SWE,Buyback of vessel and license,0
 2001,SWE,Buyback of vessel and license,0
 2002,SWE,Buyback of vessel and license,0
@@ -3770,7 +3607,6 @@ year,geo,disagg,value
 2019,SWE,Buyback of vessel and license,0
 2020,SWE,Buyback of vessel and license,0
 2021,SWE,Buyback of vessel and license,0
-2022,SWE,Buyback of vessel and license,0
 2000,SWE,Support for education and training,0
 2001,SWE,Support for education and training,0
 2002,SWE,Support for education and training,0
@@ -3793,7 +3629,6 @@ year,geo,disagg,value
 2019,SWE,Support for education and training,3.1
 2020,SWE,Support for education and training,2.9
 2021,SWE,Support for education and training,2.7
-2022,SWE,Support for education and training,2.2
 2000,SWE,Port and community infrastructure,0
 2001,SWE,Port and community infrastructure,0
 2002,SWE,Port and community infrastructure,0
@@ -3816,7 +3651,6 @@ year,geo,disagg,value
 2019,SWE,Port and community infrastructure,0.27
 2020,SWE,Port and community infrastructure,0.51
 2021,SWE,Port and community infrastructure,1.7
-2022,SWE,Port and community infrastructure,0.6
 2000,TUR,Total,0
 2001,TUR,Total,0
 2002,TUR,Total,0
@@ -3839,7 +3673,6 @@ year,geo,disagg,value
 2019,TUR,Total,13
 2020,TUR,Total,5.7
 2021,TUR,Total,4.7
-2022,TUR,Total,17
 2000,TUR,Direct fisher income support,0
 2001,TUR,Direct fisher income support,0
 2002,TUR,Direct fisher income support,0
@@ -3862,7 +3695,6 @@ year,geo,disagg,value
 2019,TUR,Direct fisher income support,2.3
 2020,TUR,Direct fisher income support,2
 2021,TUR,Direct fisher income support,2.5
-2022,TUR,Direct fisher income support,1.1
 2000,TUR,Buyback of vessel and license,0
 2001,TUR,Buyback of vessel and license,0
 2002,TUR,Buyback of vessel and license,0
@@ -3885,7 +3717,6 @@ year,geo,disagg,value
 2019,TUR,Buyback of vessel and license,0
 2020,TUR,Buyback of vessel and license,0
 2021,TUR,Buyback of vessel and license,0
-2022,TUR,Buyback of vessel and license,0
 2000,TUR,Port and community infrastructure,0
 2001,TUR,Port and community infrastructure,0
 2002,TUR,Port and community infrastructure,0
@@ -3908,7 +3739,6 @@ year,geo,disagg,value
 2019,TUR,Port and community infrastructure,10
 2020,TUR,Port and community infrastructure,3.8
 2021,TUR,Port and community infrastructure,2.2
-2022,TUR,Port and community infrastructure,16
 2000,TWN,Total,4.6
 2001,TWN,Total,4.1
 2002,TWN,Total,22
@@ -3931,7 +3761,6 @@ year,geo,disagg,value
 2019,TWN,Total,33
 2020,TWN,Total,42
 2021,TWN,Total,50
-2022,TWN,Total,40
 2000,TWN,Direct fisher income support,0
 2001,TWN,Direct fisher income support,0
 2002,TWN,Direct fisher income support,0
@@ -3954,7 +3783,6 @@ year,geo,disagg,value
 2019,TWN,Direct fisher income support,12
 2020,TWN,Direct fisher income support,14
 2021,TWN,Direct fisher income support,14
-2022,TWN,Direct fisher income support,13
 2000,TWN,Buyback of vessel and license,0.37
 2001,TWN,Buyback of vessel and license,0.5
 2002,TWN,Buyback of vessel and license,19
@@ -3977,7 +3805,6 @@ year,geo,disagg,value
 2019,TWN,Buyback of vessel and license,1.3
 2020,TWN,Buyback of vessel and license,1.2
 2021,TWN,Buyback of vessel and license,0
-2022,TWN,Buyback of vessel and license,0
 2000,TWN,Support for education and training,4.2
 2001,TWN,Support for education and training,3.6
 2002,TWN,Support for education and training,3.5
@@ -4000,7 +3827,6 @@ year,geo,disagg,value
 2019,TWN,Support for education and training,2.7
 2020,TWN,Support for education and training,2.9
 2021,TWN,Support for education and training,3.1
-2022,TWN,Support for education and training,3.9
 2000,TWN,Port and community infrastructure,0
 2001,TWN,Port and community infrastructure,0
 2002,TWN,Port and community infrastructure,0
@@ -4023,7 +3849,6 @@ year,geo,disagg,value
 2019,TWN,Port and community infrastructure,16
 2020,TWN,Port and community infrastructure,24
 2021,TWN,Port and community infrastructure,33
-2022,TWN,Port and community infrastructure,23
 2000,USA,Total,0
 2001,USA,Total,7.5
 2002,USA,Total,13
@@ -4046,7 +3871,6 @@ year,geo,disagg,value
 2019,USA,Total,165
 2020,USA,Total,300
 2021,USA,Total,300
-2022,USA,Total,200
 2000,USA,Direct fisher income support,0
 2001,USA,Direct fisher income support,7.5
 2002,USA,Direct fisher income support,0
@@ -4069,7 +3893,6 @@ year,geo,disagg,value
 2019,USA,Direct fisher income support,165
 2020,USA,Direct fisher income support,300
 2021,USA,Direct fisher income support,300
-2022,USA,Direct fisher income support,200
 2000,USA,Buyback of vessel and license,0
 2001,USA,Buyback of vessel and license,0
 2002,USA,Buyback of vessel and license,13
@@ -4092,7 +3915,6 @@ year,geo,disagg,value
 2019,USA,Buyback of vessel and license,0
 2020,USA,Buyback of vessel and license,0
 2021,USA,Buyback of vessel and license,0
-2022,USA,Buyback of vessel and license,0
 2000,USA,Support for education and training,0
 2001,USA,Support for education and training,0
 2002,USA,Support for education and training,0
@@ -4115,7 +3937,6 @@ year,geo,disagg,value
 2019,USA,Support for education and training,0
 2020,USA,Support for education and training,0
 2021,USA,Support for education and training,0
-2022,USA,Support for education and training,0
 2000,VNM,Total,13
 2001,VNM,Total,22
 2002,VNM,Total,22
@@ -4138,7 +3959,6 @@ year,geo,disagg,value
 2019,VNM,Total,10
 2020,VNM,Total,9.8
 2021,VNM,Total,12
-2022,VNM,Total,0
 2000,VNM,Support for education and training,0.017
 2001,VNM,Support for education and training,0.17
 2002,VNM,Support for education and training,0.16
@@ -4161,7 +3981,6 @@ year,geo,disagg,value
 2019,VNM,Support for education and training,3
 2020,VNM,Support for education and training,2.8
 2021,VNM,Support for education and training,2.8
-2022,VNM,Support for education and training,0
 2000,VNM,Port and community infrastructure,13
 2001,VNM,Port and community infrastructure,22
 2002,VNM,Port and community infrastructure,22
@@ -4184,4 +4003,3 @@ year,geo,disagg,value
 2019,VNM,Port and community infrastructure,7
 2020,VNM,Port and community infrastructure,7
 2021,VNM,Port and community infrastructure,8.9
-2022,VNM,Port and community infrastructure,0
